@@ -1,0 +1,2114 @@
+[
+  {
+    "node_label": "Passage_Span",
+    "node_id": "node_doc_lgh_e87ab305_blk0",
+    "metadata": {
+      "title": "Viết văn bản quảng cáo hoặc tờ rơi về một sản phẩm hay một hoạt động",
+      "url": "https://loigiaihay.com/soan-bai-viet-van-ban-quang-cao-hoac-to-roi-ve-mot-san-pham-hay-mot-hoat-dong-sgk-ngu-van-9-tap-2-chan-troi-sang-tao-a161154.html"
+    },
+    "raw_text": "Hướng dẫn phân tích VB\n1\n-\n2\n-\n3\n-\n4\nHướng dẫn viết",
+    "contextualized_text": "SGK Ngữ Văn 9 CTST. Bài đọc: Viết văn bản quảng cáo hoặc tờ rơi về một sản phẩm hay một hoạt động.\nHướng dẫn phân tích VB\n1\n-\n2\n-\n3\n-\n4\nHướng dẫn viết",
+    "grounding": {
+      "source_document_id": "doc_lgh_e87ab305",
+      "char_start": 0,
+      "char_end": 51,
+      "dom_order": 0,
+      "tag_name": "div"
+    },
+    "extraction": {
+      "method": "loigiaihay_crawler",
+      "label_confidence": 1.0,
+      "boundary_confidence": 1.0
+    }
+  },
+  {
+    "node_label": "Passage_Span",
+    "node_id": "node_doc_lgh_e87ab305_blk1",
+    "metadata": {
+      "title": "Viết văn bản quảng cáo hoặc tờ rơi về một sản phẩm hay một hoạt động",
+      "url": "https://loigiaihay.com/soan-bai-viet-van-ban-quang-cao-hoac-to-roi-ve-mot-san-pham-hay-mot-hoat-dong-sgk-ngu-van-9-tap-2-chan-troi-sang-tao-a161154.html"
+    },
+    "raw_text": "Hướng dẫn phân tích VB 1\nTrả lời Câu hỏi 1 Hướng dẫn phân tích trang 24 SGK Ngữ văn 9 Chân trời sáng tạo\nTiêu đề của tờ rơi có phù hợp với nội dung của hoạt động hay không?\nPhương pháp giải:\nXác định tiêu đề và đưa ra nhận xét\nLời giải chi tiết:\nTiêu đề của tờ rơi có phù hợp với nội dung của hoạt động vì tiêu đề để ở vị trí đầu, người xem dễ nhận biết và hiểu được khái quát nội dung của tờ rơi",
+    "contextualized_text": "SGK Ngữ Văn 9 CTST. Bài đọc: Viết văn bản quảng cáo hoặc tờ rơi về một sản phẩm hay một hoạt động.\nHướng dẫn phân tích VB 1\nTrả lời Câu hỏi 1 Hướng dẫn phân tích trang 24 SGK Ngữ văn 9 Chân trời sáng tạo\nTiêu đề của tờ rơi có phù hợp với nội dung của hoạt động hay không?\nPhương pháp giải:\nXác định tiêu đề và đưa ra nhận xét\nLời giải chi tiết:\nTiêu đề của tờ rơi có phù hợp với nội dung của hoạt động vì tiêu đề để ở vị trí đầu, người xem dễ nhận biết và hiểu được khái quát nội dung của tờ rơi",
+    "grounding": {
+      "source_document_id": "doc_lgh_e87ab305",
+      "char_start": 52,
+      "char_end": 448,
+      "dom_order": 1,
+      "tag_name": "div"
+    },
+    "extraction": {
+      "method": "loigiaihay_crawler",
+      "label_confidence": 1.0,
+      "boundary_confidence": 1.0
+    }
+  },
+  {
+    "node_label": "Passage_Span",
+    "node_id": "node_doc_lgh_e87ab305_blk2",
+    "metadata": {
+      "title": "Viết văn bản quảng cáo hoặc tờ rơi về một sản phẩm hay một hoạt động",
+      "url": "https://loigiaihay.com/soan-bai-viet-van-ban-quang-cao-hoac-to-roi-ve-mot-san-pham-hay-mot-hoat-dong-sgk-ngu-van-9-tap-2-chan-troi-sang-tao-a161154.html"
+    },
+    "raw_text": "Hướng dẫn phân tích VB 2\nTrả lời Câu hỏi 2 Hướng dẫn phân tích trang 24 SGK Ngữ văn 9 Chân trời sáng tạo\nVăn bản đã sử dụng những cách thể hiện nào để thuyết phục người đọc?\nPhương pháp giải:\nXác định các cách thể hiện trong văn bản\nLời giải chi tiết:\nVăn bản đã sử dụng những cách thể hiện để thuyết phục người đọc:\n- Kết hợp phương tiện ngôn ngữ và phi ngôn ngữ (hình ảnh, biểu tượng trái tim) để biểu đạt\n- Ngôn ngữ ngắn gọn, phối hợp các kiểu chữ, màu chữ phù hợp",
+    "contextualized_text": "SGK Ngữ Văn 9 CTST. Bài đọc: Viết văn bản quảng cáo hoặc tờ rơi về một sản phẩm hay một hoạt động.\nHướng dẫn phân tích VB 2\nTrả lời Câu hỏi 2 Hướng dẫn phân tích trang 24 SGK Ngữ văn 9 Chân trời sáng tạo\nVăn bản đã sử dụng những cách thể hiện nào để thuyết phục người đọc?\nPhương pháp giải:\nXác định các cách thể hiện trong văn bản\nLời giải chi tiết:\nVăn bản đã sử dụng những cách thể hiện để thuyết phục người đọc:\n- Kết hợp phương tiện ngôn ngữ và phi ngôn ngữ (hình ảnh, biểu tượng trái tim) để biểu đạt\n- Ngôn ngữ ngắn gọn, phối hợp các kiểu chữ, màu chữ phù hợp",
+    "grounding": {
+      "source_document_id": "doc_lgh_e87ab305",
+      "char_start": 449,
+      "char_end": 916,
+      "dom_order": 2,
+      "tag_name": "div"
+    },
+    "extraction": {
+      "method": "loigiaihay_crawler",
+      "label_confidence": 1.0,
+      "boundary_confidence": 1.0
+    }
+  },
+  {
+    "node_label": "Passage_Span",
+    "node_id": "node_doc_lgh_e87ab305_blk3",
+    "metadata": {
+      "title": "Viết văn bản quảng cáo hoặc tờ rơi về một sản phẩm hay một hoạt động",
+      "url": "https://loigiaihay.com/soan-bai-viet-van-ban-quang-cao-hoac-to-roi-ve-mot-san-pham-hay-mot-hoat-dong-sgk-ngu-van-9-tap-2-chan-troi-sang-tao-a161154.html"
+    },
+    "raw_text": "Hướng dẫn phân tích VB 3\nTrả lời Câu hỏi 3 Hướng dẫn phân tích trang 25 SGK Ngữ văn 9 Chân trời sáng tạo\nNhận xét về sự phối hợp các kiểu chữ, cỡ chữ, màu sắc chữ trong văn bản quảng cáo.\nPhương pháp giải:\nXác định các cách thể hiện trong văn bản\nLời giải chi tiết:\nNhận xét:\nKiểu chữ dễ đọc, phù hợp với đối tượng học sinh. Cỡ chữ to nhỏ hợp lí nhấn mạnh vào phần quan trọng thường sử dụng cỡ chữ to làm tăng tính thu hút người đọc. Màu sắc hài hoà, tươi sáng, màu xanh của hi vọng phù hợp với nội dung của tờ rơi",
+    "contextualized_text": "SGK Ngữ Văn 9 CTST. Bài đọc: Viết văn bản quảng cáo hoặc tờ rơi về một sản phẩm hay một hoạt động.\nHướng dẫn phân tích VB 3\nTrả lời Câu hỏi 3 Hướng dẫn phân tích trang 25 SGK Ngữ văn 9 Chân trời sáng tạo\nNhận xét về sự phối hợp các kiểu chữ, cỡ chữ, màu sắc chữ trong văn bản quảng cáo.\nPhương pháp giải:\nXác định các cách thể hiện trong văn bản\nLời giải chi tiết:\nNhận xét:\nKiểu chữ dễ đọc, phù hợp với đối tượng học sinh. Cỡ chữ to nhỏ hợp lí nhấn mạnh vào phần quan trọng thường sử dụng cỡ chữ to làm tăng tính thu hút người đọc. Màu sắc hài hoà, tươi sáng, màu xanh của hi vọng phù hợp với nội dung của tờ rơi",
+    "grounding": {
+      "source_document_id": "doc_lgh_e87ab305",
+      "char_start": 917,
+      "char_end": 1431,
+      "dom_order": 3,
+      "tag_name": "div"
+    },
+    "extraction": {
+      "method": "loigiaihay_crawler",
+      "label_confidence": 1.0,
+      "boundary_confidence": 1.0
+    }
+  },
+  {
+    "node_label": "Passage_Span",
+    "node_id": "node_doc_lgh_e87ab305_blk4",
+    "metadata": {
+      "title": "Viết văn bản quảng cáo hoặc tờ rơi về một sản phẩm hay một hoạt động",
+      "url": "https://loigiaihay.com/soan-bai-viet-van-ban-quang-cao-hoac-to-roi-ve-mot-san-pham-hay-mot-hoat-dong-sgk-ngu-van-9-tap-2-chan-troi-sang-tao-a161154.html"
+    },
+    "raw_text": "Hướng dẫn phân tích VB 4\nTrả lời Câu hỏi 4 Hướng dẫn phân tích trang 25 SGK Ngữ văn 9 Chân trời sáng tạo\nNhận xét về tác dụng của việc sử dụng kết hợp ngôn ngữ và hình ảnh minh hoạ trong văn bản\nPhương pháp giải:\nXác định các cách thể hiện trong văn bản\nLời giải chi tiết:\nNhận xét:\nGiúp người đọc dễ nhận biết, thu hút sự chú ý, nâng cao khả năng ghi nhớ vì thông tin ngắn gọn, có hình minh hoạ cụ thể giúp người xem dễ hiểu hơn.",
+    "contextualized_text": "SGK Ngữ Văn 9 CTST. Bài đọc: Viết văn bản quảng cáo hoặc tờ rơi về một sản phẩm hay một hoạt động.\nHướng dẫn phân tích VB 4\nTrả lời Câu hỏi 4 Hướng dẫn phân tích trang 25 SGK Ngữ văn 9 Chân trời sáng tạo\nNhận xét về tác dụng của việc sử dụng kết hợp ngôn ngữ và hình ảnh minh hoạ trong văn bản\nPhương pháp giải:\nXác định các cách thể hiện trong văn bản\nLời giải chi tiết:\nNhận xét:\nGiúp người đọc dễ nhận biết, thu hút sự chú ý, nâng cao khả năng ghi nhớ vì thông tin ngắn gọn, có hình minh hoạ cụ thể giúp người xem dễ hiểu hơn.",
+    "grounding": {
+      "source_document_id": "doc_lgh_e87ab305",
+      "char_start": 1432,
+      "char_end": 1862,
+      "dom_order": 4,
+      "tag_name": "div"
+    },
+    "extraction": {
+      "method": "loigiaihay_crawler",
+      "label_confidence": 1.0,
+      "boundary_confidence": 1.0
+    }
+  },
+  {
+    "node_label": "Passage_Span",
+    "node_id": "node_doc_lgh_e87ab305_blk5",
+    "metadata": {
+      "title": "Viết văn bản quảng cáo hoặc tờ rơi về một sản phẩm hay một hoạt động",
+      "url": "https://loigiaihay.com/soan-bai-viet-van-ban-quang-cao-hoac-to-roi-ve-mot-san-pham-hay-mot-hoat-dong-sgk-ngu-van-9-tap-2-chan-troi-sang-tao-a161154.html"
+    },
+    "raw_text": "Hướng dẫn viết\nTrả lời Câu hỏi Hướng dẫn viết trang 25 SGK Ngữ văn 9 Chân trời sáng tạo\nHãy thiết kế tờ rơi quảng cáo một sản phẩm hay một hoạt động, sử dụng kết hợp phương tiện ngôn ngữ và phương tiện phi ngôn ngữ\nLời giải chi tiết:\n(Nguồn: internet)",
+    "contextualized_text": "SGK Ngữ Văn 9 CTST. Bài đọc: Viết văn bản quảng cáo hoặc tờ rơi về một sản phẩm hay một hoạt động.\nHướng dẫn viết\nTrả lời Câu hỏi Hướng dẫn viết trang 25 SGK Ngữ văn 9 Chân trời sáng tạo\nHãy thiết kế tờ rơi quảng cáo một sản phẩm hay một hoạt động, sử dụng kết hợp phương tiện ngôn ngữ và phương tiện phi ngôn ngữ\nLời giải chi tiết:\n(Nguồn: internet)",
+    "grounding": {
+      "source_document_id": "doc_lgh_e87ab305",
+      "char_start": 1863,
+      "char_end": 2114,
+      "dom_order": 5,
+      "tag_name": "div"
+    },
+    "extraction": {
+      "method": "loigiaihay_crawler",
+      "label_confidence": 1.0,
+      "boundary_confidence": 1.0
+    }
+  },
+  {
+    "node_label": "Passage_Span",
+    "node_id": "node_doc_lgh_4f0c6e88_blk0",
+    "metadata": {
+      "title": "Sông Đáy (Nguyễn Quang Thiếu)",
+      "url": "https://loigiaihay.com/van-ban-song-day-nguyen-quang-thieu-a167564.html"
+    },
+    "raw_text": "- Nguyễn Quang Thiều -",
+    "contextualized_text": "SGK Ngữ Văn 9 CTST. Bài đọc: Sông Đáy (Nguyễn Quang Thiếu).\n- Nguyễn Quang Thiều -",
+    "grounding": {
+      "source_document_id": "doc_lgh_4f0c6e88",
+      "char_start": 0,
+      "char_end": 22,
+      "dom_order": 0,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "loigiaihay_crawler",
+      "label_confidence": 1.0,
+      "boundary_confidence": 1.0
+    }
+  },
+  {
+    "node_label": "Passage_Span",
+    "node_id": "node_doc_lgh_4f0c6e88_blk1",
+    "metadata": {
+      "title": "Sông Đáy (Nguyễn Quang Thiếu)",
+      "url": "https://loigiaihay.com/van-ban-song-day-nguyen-quang-thieu-a167564.html"
+    },
+    "raw_text": "Sông Đáy chảy vào đời tôi",
+    "contextualized_text": "SGK Ngữ Văn 9 CTST. Bài đọc: Sông Đáy (Nguyễn Quang Thiếu).\nSông Đáy chảy vào đời tôi",
+    "grounding": {
+      "source_document_id": "doc_lgh_4f0c6e88",
+      "char_start": 23,
+      "char_end": 48,
+      "dom_order": 1,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "loigiaihay_crawler",
+      "label_confidence": 1.0,
+      "boundary_confidence": 1.0
+    }
+  },
+  {
+    "node_label": "Passage_Span",
+    "node_id": "node_doc_lgh_4f0c6e88_blk2",
+    "metadata": {
+      "title": "Sông Đáy (Nguyễn Quang Thiếu)",
+      "url": "https://loigiaihay.com/van-ban-song-day-nguyen-quang-thieu-a167564.html"
+    },
+    "raw_text": "Như mẹ tôi gánh nặng rẽ vào ngõ sau mỗi buổi chiều đi làm về vất vả",
+    "contextualized_text": "SGK Ngữ Văn 9 CTST. Bài đọc: Sông Đáy (Nguyễn Quang Thiếu).\nNhư mẹ tôi gánh nặng rẽ vào ngõ sau mỗi buổi chiều đi làm về vất vả",
+    "grounding": {
+      "source_document_id": "doc_lgh_4f0c6e88",
+      "char_start": 49,
+      "char_end": 116,
+      "dom_order": 2,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "loigiaihay_crawler",
+      "label_confidence": 1.0,
+      "boundary_confidence": 1.0
+    }
+  },
+  {
+    "node_label": "Passage_Span",
+    "node_id": "node_doc_lgh_4f0c6e88_blk3",
+    "metadata": {
+      "title": "Sông Đáy (Nguyễn Quang Thiếu)",
+      "url": "https://loigiaihay.com/van-ban-song-day-nguyen-quang-thieu-a167564.html"
+    },
+    "raw_text": "Tôi dụi mặt vào lưng người đẫm mồ hôi mát một mảnh sông đêm",
+    "contextualized_text": "SGK Ngữ Văn 9 CTST. Bài đọc: Sông Đáy (Nguyễn Quang Thiếu).\nTôi dụi mặt vào lưng người đẫm mồ hôi mát một mảnh sông đêm",
+    "grounding": {
+      "source_document_id": "doc_lgh_4f0c6e88",
+      "char_start": 117,
+      "char_end": 176,
+      "dom_order": 3,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "loigiaihay_crawler",
+      "label_confidence": 1.0,
+      "boundary_confidence": 1.0
+    }
+  },
+  {
+    "node_label": "Passage_Span",
+    "node_id": "node_doc_lgh_4f0c6e88_blk4",
+    "metadata": {
+      "title": "Sông Đáy (Nguyễn Quang Thiếu)",
+      "url": "https://loigiaihay.com/van-ban-song-day-nguyen-quang-thieu-a167564.html"
+    },
+    "raw_text": "Năm tháng sống xa quê tôi như người bước hụt",
+    "contextualized_text": "SGK Ngữ Văn 9 CTST. Bài đọc: Sông Đáy (Nguyễn Quang Thiếu).\nNăm tháng sống xa quê tôi như người bước hụt",
+    "grounding": {
+      "source_document_id": "doc_lgh_4f0c6e88",
+      "char_start": 177,
+      "char_end": 221,
+      "dom_order": 4,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "loigiaihay_crawler",
+      "label_confidence": 1.0,
+      "boundary_confidence": 1.0
+    }
+  },
+  {
+    "node_label": "Passage_Span",
+    "node_id": "node_doc_lgh_4f0c6e88_blk5",
+    "metadata": {
+      "title": "Sông Đáy (Nguyễn Quang Thiếu)",
+      "url": "https://loigiaihay.com/van-ban-song-day-nguyen-quang-thieu-a167564.html"
+    },
+    "raw_text": "Cơn mơ vang lên tiếng cá quẫy tuột câu như một tiếng nấc",
+    "contextualized_text": "SGK Ngữ Văn 9 CTST. Bài đọc: Sông Đáy (Nguyễn Quang Thiếu).\nCơn mơ vang lên tiếng cá quẫy tuột câu như một tiếng nấc",
+    "grounding": {
+      "source_document_id": "doc_lgh_4f0c6e88",
+      "char_start": 222,
+      "char_end": 278,
+      "dom_order": 5,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "loigiaihay_crawler",
+      "label_confidence": 1.0,
+      "boundary_confidence": 1.0
+    }
+  },
+  {
+    "node_label": "Passage_Span",
+    "node_id": "node_doc_lgh_4f0c6e88_blk6",
+    "metadata": {
+      "title": "Sông Đáy (Nguyễn Quang Thiếu)",
+      "url": "https://loigiaihay.com/van-ban-song-day-nguyen-quang-thieu-a167564.html"
+    },
+    "raw_text": "Âm thầm vỡ trong tôi, âm thầm vỡ cuối nguồn",
+    "contextualized_text": "SGK Ngữ Văn 9 CTST. Bài đọc: Sông Đáy (Nguyễn Quang Thiếu).\nÂm thầm vỡ trong tôi, âm thầm vỡ cuối nguồn",
+    "grounding": {
+      "source_document_id": "doc_lgh_4f0c6e88",
+      "char_start": 279,
+      "char_end": 322,
+      "dom_order": 6,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "loigiaihay_crawler",
+      "label_confidence": 1.0,
+      "boundary_confidence": 1.0
+    }
+  },
+  {
+    "node_label": "Passage_Span",
+    "node_id": "node_doc_lgh_4f0c6e88_blk7",
+    "metadata": {
+      "title": "Sông Đáy (Nguyễn Quang Thiếu)",
+      "url": "https://loigiaihay.com/van-ban-song-day-nguyen-quang-thieu-a167564.html"
+    },
+    "raw_text": "Toả mát xuống cơn đau tôi là tóc mẹ bến mòn đứng đợi",
+    "contextualized_text": "SGK Ngữ Văn 9 CTST. Bài đọc: Sông Đáy (Nguyễn Quang Thiếu).\nToả mát xuống cơn đau tôi là tóc mẹ bến mòn đứng đợi",
+    "grounding": {
+      "source_document_id": "doc_lgh_4f0c6e88",
+      "char_start": 323,
+      "char_end": 375,
+      "dom_order": 7,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "loigiaihay_crawler",
+      "label_confidence": 1.0,
+      "boundary_confidence": 1.0
+    }
+  },
+  {
+    "node_label": "Passage_Span",
+    "node_id": "node_doc_lgh_4f0c6e88_blk8",
+    "metadata": {
+      "title": "Sông Đáy (Nguyễn Quang Thiếu)",
+      "url": "https://loigiaihay.com/van-ban-song-day-nguyen-quang-thieu-a167564.html"
+    },
+    "raw_text": "Một cây ngô cuối vụ khô gầy",
+    "contextualized_text": "SGK Ngữ Văn 9 CTST. Bài đọc: Sông Đáy (Nguyễn Quang Thiếu).\nMột cây ngô cuối vụ khô gầy",
+    "grounding": {
+      "source_document_id": "doc_lgh_4f0c6e88",
+      "char_start": 376,
+      "char_end": 403,
+      "dom_order": 8,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "loigiaihay_crawler",
+      "label_confidence": 1.0,
+      "boundary_confidence": 1.0
+    }
+  },
+  {
+    "node_label": "Passage_Span",
+    "node_id": "node_doc_lgh_4f0c6e88_blk9",
+    "metadata": {
+      "title": "Sông Đáy (Nguyễn Quang Thiếu)",
+      "url": "https://loigiaihay.com/van-ban-song-day-nguyen-quang-thieu-a167564.html"
+    },
+    "raw_text": "Suốt đời buồn trong tiếng lá reo.",
+    "contextualized_text": "SGK Ngữ Văn 9 CTST. Bài đọc: Sông Đáy (Nguyễn Quang Thiếu).\nSuốt đời buồn trong tiếng lá reo.",
+    "grounding": {
+      "source_document_id": "doc_lgh_4f0c6e88",
+      "char_start": 404,
+      "char_end": 437,
+      "dom_order": 9,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "loigiaihay_crawler",
+      "label_confidence": 1.0,
+      "boundary_confidence": 1.0
+    }
+  },
+  {
+    "node_label": "Passage_Span",
+    "node_id": "node_doc_lgh_4f0c6e88_blk10",
+    "metadata": {
+      "title": "Sông Đáy (Nguyễn Quang Thiếu)",
+      "url": "https://loigiaihay.com/van-ban-song-day-nguyen-quang-thieu-a167564.html"
+    },
+    "raw_text": "Suốt đời buồn trong tiếng lá reo.",
+    "contextualized_text": "SGK Ngữ Văn 9 CTST. Bài đọc: Sông Đáy (Nguyễn Quang Thiếu).\nSuốt đời buồn trong tiếng lá reo.",
+    "grounding": {
+      "source_document_id": "doc_lgh_4f0c6e88",
+      "char_start": 438,
+      "char_end": 471,
+      "dom_order": 10,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "loigiaihay_crawler",
+      "label_confidence": 1.0,
+      "boundary_confidence": 1.0
+    }
+  },
+  {
+    "node_label": "Passage_Span",
+    "node_id": "node_doc_lgh_4f0c6e88_blk11",
+    "metadata": {
+      "title": "Sông Đáy (Nguyễn Quang Thiếu)",
+      "url": "https://loigiaihay.com/van-ban-song-day-nguyen-quang-thieu-a167564.html"
+    },
+    "raw_text": "Những chiều xa quê tội mong dòng sông dâng lên ngang trời cho tôi được nhìn thấy",
+    "contextualized_text": "SGK Ngữ Văn 9 CTST. Bài đọc: Sông Đáy (Nguyễn Quang Thiếu).\nNhững chiều xa quê tội mong dòng sông dâng lên ngang trời cho tôi được nhìn thấy",
+    "grounding": {
+      "source_document_id": "doc_lgh_4f0c6e88",
+      "char_start": 472,
+      "char_end": 552,
+      "dom_order": 11,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "loigiaihay_crawler",
+      "label_confidence": 1.0,
+      "boundary_confidence": 1.0
+    }
+  },
+  {
+    "node_label": "Passage_Span",
+    "node_id": "node_doc_lgh_4f0c6e88_blk12",
+    "metadata": {
+      "title": "Sông Đáy (Nguyễn Quang Thiếu)",
+      "url": "https://loigiaihay.com/van-ban-song-day-nguyen-quang-thieu-a167564.html"
+    },
+    "raw_text": "Cho đôi mắt nhớ thương của tôi như hai hốc đất ven bờ, nơi những chú bống đến làm tổ được giàn giụa nước mưa sông.",
+    "contextualized_text": "SGK Ngữ Văn 9 CTST. Bài đọc: Sông Đáy (Nguyễn Quang Thiếu).\nCho đôi mắt nhớ thương của tôi như hai hốc đất ven bờ, nơi những chú bống đến làm tổ được giàn giụa nước mưa sông.",
+    "grounding": {
+      "source_document_id": "doc_lgh_4f0c6e88",
+      "char_start": 553,
+      "char_end": 667,
+      "dom_order": 12,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "loigiaihay_crawler",
+      "label_confidence": 1.0,
+      "boundary_confidence": 1.0
+    }
+  },
+  {
+    "node_label": "Passage_Span",
+    "node_id": "node_doc_lgh_4f0c6e88_blk13",
+    "metadata": {
+      "title": "Sông Đáy (Nguyễn Quang Thiếu)",
+      "url": "https://loigiaihay.com/van-ban-song-day-nguyen-quang-thieu-a167564.html"
+    },
+    "raw_text": "Sông Đáy ơi, Sông Đáy ơi ... chiều nay tôi trở lại",
+    "contextualized_text": "SGK Ngữ Văn 9 CTST. Bài đọc: Sông Đáy (Nguyễn Quang Thiếu).\nSông Đáy ơi, Sông Đáy ơi ... chiều nay tôi trở lại",
+    "grounding": {
+      "source_document_id": "doc_lgh_4f0c6e88",
+      "char_start": 668,
+      "char_end": 718,
+      "dom_order": 13,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "loigiaihay_crawler",
+      "label_confidence": 1.0,
+      "boundary_confidence": 1.0
+    }
+  },
+  {
+    "node_label": "Passage_Span",
+    "node_id": "node_doc_lgh_4f0c6e88_blk14",
+    "metadata": {
+      "title": "Sông Đáy (Nguyễn Quang Thiếu)",
+      "url": "https://loigiaihay.com/van-ban-song-day-nguyen-quang-thieu-a167564.html"
+    },
+    "raw_text": "Mẹ tôi đã già như cát bên bờ",
+    "contextualized_text": "SGK Ngữ Văn 9 CTST. Bài đọc: Sông Đáy (Nguyễn Quang Thiếu).\nMẹ tôi đã già như cát bên bờ",
+    "grounding": {
+      "source_document_id": "doc_lgh_4f0c6e88",
+      "char_start": 719,
+      "char_end": 747,
+      "dom_order": 14,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "loigiaihay_crawler",
+      "label_confidence": 1.0,
+      "boundary_confidence": 1.0
+    }
+  },
+  {
+    "node_label": "Passage_Span",
+    "node_id": "node_doc_lgh_4f0c6e88_blk15",
+    "metadata": {
+      "title": "Sông Đáy (Nguyễn Quang Thiếu)",
+      "url": "https://loigiaihay.com/van-ban-song-day-nguyen-quang-thieu-a167564.html"
+    },
+    "raw_text": "Ôi mùi cát khô, mùi tóc mẹ tôi",
+    "contextualized_text": "SGK Ngữ Văn 9 CTST. Bài đọc: Sông Đáy (Nguyễn Quang Thiếu).\nÔi mùi cát khô, mùi tóc mẹ tôi",
+    "grounding": {
+      "source_document_id": "doc_lgh_4f0c6e88",
+      "char_start": 748,
+      "char_end": 778,
+      "dom_order": 15,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "loigiaihay_crawler",
+      "label_confidence": 1.0,
+      "boundary_confidence": 1.0
+    }
+  },
+  {
+    "node_label": "Passage_Span",
+    "node_id": "node_doc_lgh_4f0c6e88_blk16",
+    "metadata": {
+      "title": "Sông Đáy (Nguyễn Quang Thiếu)",
+      "url": "https://loigiaihay.com/van-ban-song-day-nguyen-quang-thieu-a167564.html"
+    },
+    "raw_text": "Tôi quỳ xuống vốc cát ấp vào mặt",
+    "contextualized_text": "SGK Ngữ Văn 9 CTST. Bài đọc: Sông Đáy (Nguyễn Quang Thiếu).\nTôi quỳ xuống vốc cát ấp vào mặt",
+    "grounding": {
+      "source_document_id": "doc_lgh_4f0c6e88",
+      "char_start": 779,
+      "char_end": 811,
+      "dom_order": 16,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "loigiaihay_crawler",
+      "label_confidence": 1.0,
+      "boundary_confidence": 1.0
+    }
+  },
+  {
+    "node_label": "Passage_Span",
+    "node_id": "node_doc_lgh_4f0c6e88_blk17",
+    "metadata": {
+      "title": "Sông Đáy (Nguyễn Quang Thiếu)",
+      "url": "https://loigiaihay.com/van-ban-song-day-nguyen-quang-thieu-a167564.html"
+    },
+    "raw_text": "Cát từ mặt tôi chảy xuống dòng dòng.",
+    "contextualized_text": "SGK Ngữ Văn 9 CTST. Bài đọc: Sông Đáy (Nguyễn Quang Thiếu).\nCát từ mặt tôi chảy xuống dòng dòng.",
+    "grounding": {
+      "source_document_id": "doc_lgh_4f0c6e88",
+      "char_start": 812,
+      "char_end": 848,
+      "dom_order": 17,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "loigiaihay_crawler",
+      "label_confidence": 1.0,
+      "boundary_confidence": 1.0
+    }
+  },
+  {
+    "node_label": "Passage_Span",
+    "node_id": "node_doc_lgh_8d57198c_blk0",
+    "metadata": {
+      "title": "Kí ức tuổi thơ (An Viên)",
+      "url": "https://loigiaihay.com/van-ban-ki-uc-tuoi-tho-an-vien-a167562.html"
+    },
+    "raw_text": "Phải đến 20 năm, đám bạn làng chúng tôi mới có dịp tề tựu đông đủ nhân kỉ niệm ngày ra trường.",
+    "contextualized_text": "SGK Ngữ Văn 9 CTST. Bài đọc: Kí ức tuổi thơ (An Viên).\nPhải đến 20 năm, đám bạn làng chúng tôi mới có dịp tề tựu đông đủ nhân kỉ niệm ngày ra trường.",
+    "grounding": {
+      "source_document_id": "doc_lgh_8d57198c",
+      "char_start": 0,
+      "char_end": 94,
+      "dom_order": 0,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "loigiaihay_crawler",
+      "label_confidence": 1.0,
+      "boundary_confidence": 1.0
+    }
+  },
+  {
+    "node_label": "Passage_Span",
+    "node_id": "node_doc_lgh_8d57198c_blk1",
+    "metadata": {
+      "title": "Kí ức tuổi thơ (An Viên)",
+      "url": "https://loigiaihay.com/van-ban-ki-uc-tuoi-tho-an-vien-a167562.html"
+    },
+    "raw_text": "Bao nhiêu kí ức tuổi thơ ngỡ như đã trôi vào dĩ vãng bởi những lo toan giữa nhịp sống xô bồ, hối hả vậy mà đứa nào đứa nấy vẫn còn nhớ như in. Ai cũng bảo, kí ức tuổi thơ dù vui hay buồn cũng đều có ý nghĩa vô cùng quan trọng trong cuộc sống mỗi người.",
+    "contextualized_text": "SGK Ngữ Văn 9 CTST. Bài đọc: Kí ức tuổi thơ (An Viên).\nBao nhiêu kí ức tuổi thơ ngỡ như đã trôi vào dĩ vãng bởi những lo toan giữa nhịp sống xô bồ, hối hả vậy mà đứa nào đứa nấy vẫn còn nhớ như in. Ai cũng bảo, kí ức tuổi thơ dù vui hay buồn cũng đều có ý nghĩa vô cùng quan trọng trong cuộc sống mỗi người.",
+    "grounding": {
+      "source_document_id": "doc_lgh_8d57198c",
+      "char_start": 95,
+      "char_end": 347,
+      "dom_order": 1,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "loigiaihay_crawler",
+      "label_confidence": 1.0,
+      "boundary_confidence": 1.0
+    }
+  },
+  {
+    "node_label": "Passage_Span",
+    "node_id": "node_doc_lgh_8d57198c_blk2",
+    "metadata": {
+      "title": "Kí ức tuổi thơ (An Viên)",
+      "url": "https://loigiaihay.com/van-ban-ki-uc-tuoi-tho-an-vien-a167562.html"
+    },
+    "raw_text": "Kí ức tuổi thơ là những kỉ niệm của thời thơ ấu, hồn nhiên, tinh nghịch, chẳng có ưu tư, muộn phiền nào ngoài việc ăn, học, vui chơi, ... Kí ức tuổi thơ giống như một món quà tinh thần quý giá mà mỗi người đều muốn giữ cho riêng mình. Đó là khoảng trời riêng đầy cỏ hoa đồng nội; là tấm bánh, đồng quà mẹ mua từ chợ về; là những bữa cơm đạm bạc mẹ nấu; là những trò chơi dân gian, những món ăn vặt mùa nối mùa ;...",
+    "contextualized_text": "SGK Ngữ Văn 9 CTST. Bài đọc: Kí ức tuổi thơ (An Viên).\nKí ức tuổi thơ là những kỉ niệm của thời thơ ấu, hồn nhiên, tinh nghịch, chẳng có ưu tư, muộn phiền nào ngoài việc ăn, học, vui chơi, ... Kí ức tuổi thơ giống như một món quà tinh thần quý giá mà mỗi người đều muốn giữ cho riêng mình. Đó là khoảng trời riêng đầy cỏ hoa đồng nội; là tấm bánh, đồng quà mẹ mua từ chợ về; là những bữa cơm đạm bạc mẹ nấu; là những trò chơi dân gian, những món ăn vặt mùa nối mùa ;...",
+    "grounding": {
+      "source_document_id": "doc_lgh_8d57198c",
+      "char_start": 348,
+      "char_end": 762,
+      "dom_order": 2,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "loigiaihay_crawler",
+      "label_confidence": 1.0,
+      "boundary_confidence": 1.0
+    }
+  },
+  {
+    "node_label": "Passage_Span",
+    "node_id": "node_doc_lgh_8d57198c_blk3",
+    "metadata": {
+      "title": "Kí ức tuổi thơ (An Viên)",
+      "url": "https://loigiaihay.com/van-ban-ki-uc-tuoi-tho-an-vien-a167562.html"
+    },
+    "raw_text": "Kí ức tuổi thơ luôn diệu vợi, đẹp đẽ tựa hồ như những câu chuyện cổ tích nhiệm mầu qua giọng kể của bà, của mẹ. Và mỗi khi hồi tưởng lại, tâm hồn ta trở nên dịu dàng, nhẹ nhõm, càng thêm yêu thương, trân quý hơn những kỉ niệm một thời.",
+    "contextualized_text": "SGK Ngữ Văn 9 CTST. Bài đọc: Kí ức tuổi thơ (An Viên).\nKí ức tuổi thơ luôn diệu vợi, đẹp đẽ tựa hồ như những câu chuyện cổ tích nhiệm mầu qua giọng kể của bà, của mẹ. Và mỗi khi hồi tưởng lại, tâm hồn ta trở nên dịu dàng, nhẹ nhõm, càng thêm yêu thương, trân quý hơn những kỉ niệm một thời.",
+    "grounding": {
+      "source_document_id": "doc_lgh_8d57198c",
+      "char_start": 763,
+      "char_end": 998,
+      "dom_order": 3,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "loigiaihay_crawler",
+      "label_confidence": 1.0,
+      "boundary_confidence": 1.0
+    }
+  },
+  {
+    "node_label": "Passage_Span",
+    "node_id": "node_doc_lgh_8d57198c_blk4",
+    "metadata": {
+      "title": "Kí ức tuổi thơ (An Viên)",
+      "url": "https://loigiaihay.com/van-ban-ki-uc-tuoi-tho-an-vien-a167562.html"
+    },
+    "raw_text": "Kí ức tuổi thơ sẽ luôn được gói ghém, gìn giữ cẩn thận và mang theo trêm hành trình cuộc đời mỗi người. Mỗi kí ức sẽ là tấm gương soi chiếu để chúng ta luôn tự nhắc nhở mình phải biết nghĩ và sống cho những điều tốt đẹp; biết vượt lên vấp ngã, sai lầm và không ngừng nỗ lực, hoàn thiện bản thân.",
+    "contextualized_text": "SGK Ngữ Văn 9 CTST. Bài đọc: Kí ức tuổi thơ (An Viên).\nKí ức tuổi thơ sẽ luôn được gói ghém, gìn giữ cẩn thận và mang theo trêm hành trình cuộc đời mỗi người. Mỗi kí ức sẽ là tấm gương soi chiếu để chúng ta luôn tự nhắc nhở mình phải biết nghĩ và sống cho những điều tốt đẹp; biết vượt lên vấp ngã, sai lầm và không ngừng nỗ lực, hoàn thiện bản thân.",
+    "grounding": {
+      "source_document_id": "doc_lgh_8d57198c",
+      "char_start": 999,
+      "char_end": 1294,
+      "dom_order": 4,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "loigiaihay_crawler",
+      "label_confidence": 1.0,
+      "boundary_confidence": 1.0
+    }
+  },
+  {
+    "node_label": "Passage_Span",
+    "node_id": "node_doc_lgh_8d57198c_blk5",
+    "metadata": {
+      "title": "Kí ức tuổi thơ (An Viên)",
+      "url": "https://loigiaihay.com/van-ban-ki-uc-tuoi-tho-an-vien-a167562.html"
+    },
+    "raw_text": "Kí ức tuổi thơ giống như một liều thuốc an thần giúp mỗi người vượt qua những khoảnh khắc khổ đau, mất mát; những chênh vênh, tuyệt vọng nhất trong cuộc đời. Đây cũng là nguồn cảm hứng tuyệt vời cho những sáng tạo nghệ thuật trong thơ ca, nhạc, hoạ, ...",
+    "contextualized_text": "SGK Ngữ Văn 9 CTST. Bài đọc: Kí ức tuổi thơ (An Viên).\nKí ức tuổi thơ giống như một liều thuốc an thần giúp mỗi người vượt qua những khoảnh khắc khổ đau, mất mát; những chênh vênh, tuyệt vọng nhất trong cuộc đời. Đây cũng là nguồn cảm hứng tuyệt vời cho những sáng tạo nghệ thuật trong thơ ca, nhạc, hoạ, ...",
+    "grounding": {
+      "source_document_id": "doc_lgh_8d57198c",
+      "char_start": 1295,
+      "char_end": 1548,
+      "dom_order": 5,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "loigiaihay_crawler",
+      "label_confidence": 1.0,
+      "boundary_confidence": 1.0
+    }
+  },
+  {
+    "node_label": "Passage_Span",
+    "node_id": "node_doc_lgh_8d57198c_blk6",
+    "metadata": {
+      "title": "Kí ức tuổi thơ (An Viên)",
+      "url": "https://loigiaihay.com/van-ban-ki-uc-tuoi-tho-an-vien-a167562.html"
+    },
+    "raw_text": "Có người bảo: “Tuổi thơ là nơi cất giữ những hồi ức tháng năm tươi đẹp của mọi thế hệ\" và \"đời sẽ dịu dàng hơn biết mấy nếu tuổi thơ là hạnh phúc\". Kí ức tuổi thơ hạnh phúc chính là điểm tựa vững chắc, là niềm khích lệ lớn lao để mỗi người hướng tới thành công, tới những điều ý nghĩa, tốt đẹp trong cuộc đời.",
+    "contextualized_text": "SGK Ngữ Văn 9 CTST. Bài đọc: Kí ức tuổi thơ (An Viên).\nCó người bảo: “Tuổi thơ là nơi cất giữ những hồi ức tháng năm tươi đẹp của mọi thế hệ\" và \"đời sẽ dịu dàng hơn biết mấy nếu tuổi thơ là hạnh phúc\". Kí ức tuổi thơ hạnh phúc chính là điểm tựa vững chắc, là niềm khích lệ lớn lao để mỗi người hướng tới thành công, tới những điều ý nghĩa, tốt đẹp trong cuộc đời.",
+    "grounding": {
+      "source_document_id": "doc_lgh_8d57198c",
+      "char_start": 1549,
+      "char_end": 1858,
+      "dom_order": 6,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "loigiaihay_crawler",
+      "label_confidence": 1.0,
+      "boundary_confidence": 1.0
+    }
+  },
+  {
+    "node_label": "Passage_Span",
+    "node_id": "node_doc_lgh_8d57198c_blk7",
+    "metadata": {
+      "title": "Kí ức tuổi thơ (An Viên)",
+      "url": "https://loigiaihay.com/van-ban-ki-uc-tuoi-tho-an-vien-a167562.html"
+    },
+    "raw_text": "Tuy nhiên, không phải ai trong cuộc đời cũng có được những kí ức tuổi thơ đẹp đẽ, thơ mộng, đáng nhớ. Nhiều người, vì một lí do nào đó mà tuổi thơ của họ chỉ có bão tố, đau buồn. Cứ mỗi lần nhắc nhớ càng khiến họ tổn thương; tâm hồn và trái tim họ càng nhói đau, hụt hẫng. Nhưng dù phải qua tuổi thơ bất hạnh ấy, không ít người khi chiêm nghiệm lại quá khứ đã dám đối diện, buông bỏ để tiếp tục sống cho hiện tại và hi vọng về tương lai tốt đẹp.",
+    "contextualized_text": "SGK Ngữ Văn 9 CTST. Bài đọc: Kí ức tuổi thơ (An Viên).\nTuy nhiên, không phải ai trong cuộc đời cũng có được những kí ức tuổi thơ đẹp đẽ, thơ mộng, đáng nhớ. Nhiều người, vì một lí do nào đó mà tuổi thơ của họ chỉ có bão tố, đau buồn. Cứ mỗi lần nhắc nhớ càng khiến họ tổn thương; tâm hồn và trái tim họ càng nhói đau, hụt hẫng. Nhưng dù phải qua tuổi thơ bất hạnh ấy, không ít người khi chiêm nghiệm lại quá khứ đã dám đối diện, buông bỏ để tiếp tục sống cho hiện tại và hi vọng về tương lai tốt đẹp.",
+    "grounding": {
+      "source_document_id": "doc_lgh_8d57198c",
+      "char_start": 1859,
+      "char_end": 2304,
+      "dom_order": 7,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "loigiaihay_crawler",
+      "label_confidence": 1.0,
+      "boundary_confidence": 1.0
+    }
+  },
+  {
+    "node_label": "Passage_Span",
+    "node_id": "node_doc_lgh_8d57198c_blk8",
+    "metadata": {
+      "title": "Kí ức tuổi thơ (An Viên)",
+      "url": "https://loigiaihay.com/van-ban-ki-uc-tuoi-tho-an-vien-a167562.html"
+    },
+    "raw_text": "Bạn bè thường nói với nhau rằng thời thơ bé thì mong nhanh thành người lớn, khi trưởng thành mới nhận ra làm trẻ con sướng hơn vạn lần. Có được những kí ức tuổi thơ tươi đẹp trong cuộc đời chẳng khác nào ta như được tắm trong dòng suối mát lành, được an trú dưới bầu trời ngập tràn niềm vui!",
+    "contextualized_text": "SGK Ngữ Văn 9 CTST. Bài đọc: Kí ức tuổi thơ (An Viên).\nBạn bè thường nói với nhau rằng thời thơ bé thì mong nhanh thành người lớn, khi trưởng thành mới nhận ra làm trẻ con sướng hơn vạn lần. Có được những kí ức tuổi thơ tươi đẹp trong cuộc đời chẳng khác nào ta như được tắm trong dòng suối mát lành, được an trú dưới bầu trời ngập tràn niềm vui!",
+    "grounding": {
+      "source_document_id": "doc_lgh_8d57198c",
+      "char_start": 2305,
+      "char_end": 2596,
+      "dom_order": 8,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "loigiaihay_crawler",
+      "label_confidence": 1.0,
+      "boundary_confidence": 1.0
+    }
+  },
+  {
+    "node_label": "Passage_Span",
+    "node_id": "node_doc_lgh_578ca58f_blk0",
+    "metadata": {
+      "title": "Mùa xuân chín (Hàn Mặc Tử)",
+      "url": "https://loigiaihay.com/van-ban-mua-xuan-chin-han-mac-tu-a167561.html"
+    },
+    "raw_text": "Trong làn nắng ửng: khói mơ tan.",
+    "contextualized_text": "SGK Ngữ Văn 9 CTST. Bài đọc: Mùa xuân chín (Hàn Mặc Tử).\nTrong làn nắng ửng: khói mơ tan.",
+    "grounding": {
+      "source_document_id": "doc_lgh_578ca58f",
+      "char_start": 0,
+      "char_end": 32,
+      "dom_order": 0,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "loigiaihay_crawler",
+      "label_confidence": 1.0,
+      "boundary_confidence": 1.0
+    }
+  },
+  {
+    "node_label": "Passage_Span",
+    "node_id": "node_doc_lgh_578ca58f_blk1",
+    "metadata": {
+      "title": "Mùa xuân chín (Hàn Mặc Tử)",
+      "url": "https://loigiaihay.com/van-ban-mua-xuan-chin-han-mac-tu-a167561.html"
+    },
+    "raw_text": "Đôi mái nhà tranh lấm tấm vàng.",
+    "contextualized_text": "SGK Ngữ Văn 9 CTST. Bài đọc: Mùa xuân chín (Hàn Mặc Tử).\nĐôi mái nhà tranh lấm tấm vàng.",
+    "grounding": {
+      "source_document_id": "doc_lgh_578ca58f",
+      "char_start": 33,
+      "char_end": 64,
+      "dom_order": 1,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "loigiaihay_crawler",
+      "label_confidence": 1.0,
+      "boundary_confidence": 1.0
+    }
+  },
+  {
+    "node_label": "Passage_Span",
+    "node_id": "node_doc_lgh_578ca58f_blk2",
+    "metadata": {
+      "title": "Mùa xuân chín (Hàn Mặc Tử)",
+      "url": "https://loigiaihay.com/van-ban-mua-xuan-chin-han-mac-tu-a167561.html"
+    },
+    "raw_text": "Sột soạt gió trêu tà áo biếc,",
+    "contextualized_text": "SGK Ngữ Văn 9 CTST. Bài đọc: Mùa xuân chín (Hàn Mặc Tử).\nSột soạt gió trêu tà áo biếc,",
+    "grounding": {
+      "source_document_id": "doc_lgh_578ca58f",
+      "char_start": 65,
+      "char_end": 94,
+      "dom_order": 2,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "loigiaihay_crawler",
+      "label_confidence": 1.0,
+      "boundary_confidence": 1.0
+    }
+  },
+  {
+    "node_label": "Passage_Span",
+    "node_id": "node_doc_lgh_578ca58f_blk3",
+    "metadata": {
+      "title": "Mùa xuân chín (Hàn Mặc Tử)",
+      "url": "https://loigiaihay.com/van-ban-mua-xuan-chin-han-mac-tu-a167561.html"
+    },
+    "raw_text": "Trên giàn thiên lí. Bóng xuân sang.",
+    "contextualized_text": "SGK Ngữ Văn 9 CTST. Bài đọc: Mùa xuân chín (Hàn Mặc Tử).\nTrên giàn thiên lí. Bóng xuân sang.",
+    "grounding": {
+      "source_document_id": "doc_lgh_578ca58f",
+      "char_start": 95,
+      "char_end": 130,
+      "dom_order": 3,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "loigiaihay_crawler",
+      "label_confidence": 1.0,
+      "boundary_confidence": 1.0
+    }
+  },
+  {
+    "node_label": "Passage_Span",
+    "node_id": "node_doc_lgh_578ca58f_blk4",
+    "metadata": {
+      "title": "Mùa xuân chín (Hàn Mặc Tử)",
+      "url": "https://loigiaihay.com/van-ban-mua-xuan-chin-han-mac-tu-a167561.html"
+    },
+    "raw_text": "Sóng cỏ xanh tươi gợn tới trời.",
+    "contextualized_text": "SGK Ngữ Văn 9 CTST. Bài đọc: Mùa xuân chín (Hàn Mặc Tử).\nSóng cỏ xanh tươi gợn tới trời.",
+    "grounding": {
+      "source_document_id": "doc_lgh_578ca58f",
+      "char_start": 131,
+      "char_end": 162,
+      "dom_order": 4,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "loigiaihay_crawler",
+      "label_confidence": 1.0,
+      "boundary_confidence": 1.0
+    }
+  },
+  {
+    "node_label": "Passage_Span",
+    "node_id": "node_doc_lgh_578ca58f_blk5",
+    "metadata": {
+      "title": "Mùa xuân chín (Hàn Mặc Tử)",
+      "url": "https://loigiaihay.com/van-ban-mua-xuan-chin-han-mac-tu-a167561.html"
+    },
+    "raw_text": "Bao cô thôn nữ hát trên đồi;",
+    "contextualized_text": "SGK Ngữ Văn 9 CTST. Bài đọc: Mùa xuân chín (Hàn Mặc Tử).\nBao cô thôn nữ hát trên đồi;",
+    "grounding": {
+      "source_document_id": "doc_lgh_578ca58f",
+      "char_start": 163,
+      "char_end": 191,
+      "dom_order": 5,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "loigiaihay_crawler",
+      "label_confidence": 1.0,
+      "boundary_confidence": 1.0
+    }
+  },
+  {
+    "node_label": "Passage_Span",
+    "node_id": "node_doc_lgh_578ca58f_blk6",
+    "metadata": {
+      "title": "Mùa xuân chín (Hàn Mặc Tử)",
+      "url": "https://loigiaihay.com/van-ban-mua-xuan-chin-han-mac-tu-a167561.html"
+    },
+    "raw_text": "- Ngày mai trong đám xuân xanh ấy,",
+    "contextualized_text": "SGK Ngữ Văn 9 CTST. Bài đọc: Mùa xuân chín (Hàn Mặc Tử).\n- Ngày mai trong đám xuân xanh ấy,",
+    "grounding": {
+      "source_document_id": "doc_lgh_578ca58f",
+      "char_start": 192,
+      "char_end": 226,
+      "dom_order": 6,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "loigiaihay_crawler",
+      "label_confidence": 1.0,
+      "boundary_confidence": 1.0
+    }
+  },
+  {
+    "node_label": "Passage_Span",
+    "node_id": "node_doc_lgh_578ca58f_blk7",
+    "metadata": {
+      "title": "Mùa xuân chín (Hàn Mặc Tử)",
+      "url": "https://loigiaihay.com/van-ban-mua-xuan-chin-han-mac-tu-a167561.html"
+    },
+    "raw_text": "Có kẻ theo chồng bỏ cuộc chơi ...",
+    "contextualized_text": "SGK Ngữ Văn 9 CTST. Bài đọc: Mùa xuân chín (Hàn Mặc Tử).\nCó kẻ theo chồng bỏ cuộc chơi ...",
+    "grounding": {
+      "source_document_id": "doc_lgh_578ca58f",
+      "char_start": 227,
+      "char_end": 260,
+      "dom_order": 7,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "loigiaihay_crawler",
+      "label_confidence": 1.0,
+      "boundary_confidence": 1.0
+    }
+  },
+  {
+    "node_label": "Passage_Span",
+    "node_id": "node_doc_lgh_578ca58f_blk8",
+    "metadata": {
+      "title": "Mùa xuân chín (Hàn Mặc Tử)",
+      "url": "https://loigiaihay.com/van-ban-mua-xuan-chin-han-mac-tu-a167561.html"
+    },
+    "raw_text": "Tiếng ca vắt vẻo lưng chừng núi,",
+    "contextualized_text": "SGK Ngữ Văn 9 CTST. Bài đọc: Mùa xuân chín (Hàn Mặc Tử).\nTiếng ca vắt vẻo lưng chừng núi,",
+    "grounding": {
+      "source_document_id": "doc_lgh_578ca58f",
+      "char_start": 261,
+      "char_end": 293,
+      "dom_order": 8,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "loigiaihay_crawler",
+      "label_confidence": 1.0,
+      "boundary_confidence": 1.0
+    }
+  },
+  {
+    "node_label": "Passage_Span",
+    "node_id": "node_doc_lgh_578ca58f_blk9",
+    "metadata": {
+      "title": "Mùa xuân chín (Hàn Mặc Tử)",
+      "url": "https://loigiaihay.com/van-ban-mua-xuan-chin-han-mac-tu-a167561.html"
+    },
+    "raw_text": "Hổn hển như lời của nước mây ...",
+    "contextualized_text": "SGK Ngữ Văn 9 CTST. Bài đọc: Mùa xuân chín (Hàn Mặc Tử).\nHổn hển như lời của nước mây ...",
+    "grounding": {
+      "source_document_id": "doc_lgh_578ca58f",
+      "char_start": 294,
+      "char_end": 326,
+      "dom_order": 9,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "loigiaihay_crawler",
+      "label_confidence": 1.0,
+      "boundary_confidence": 1.0
+    }
+  },
+  {
+    "node_label": "Passage_Span",
+    "node_id": "node_doc_lgh_578ca58f_blk10",
+    "metadata": {
+      "title": "Mùa xuân chín (Hàn Mặc Tử)",
+      "url": "https://loigiaihay.com/van-ban-mua-xuan-chin-han-mac-tu-a167561.html"
+    },
+    "raw_text": "Thầm thĩ với ai nguồi dưới trúc,",
+    "contextualized_text": "SGK Ngữ Văn 9 CTST. Bài đọc: Mùa xuân chín (Hàn Mặc Tử).\nThầm thĩ với ai nguồi dưới trúc,",
+    "grounding": {
+      "source_document_id": "doc_lgh_578ca58f",
+      "char_start": 327,
+      "char_end": 359,
+      "dom_order": 10,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "loigiaihay_crawler",
+      "label_confidence": 1.0,
+      "boundary_confidence": 1.0
+    }
+  },
+  {
+    "node_label": "Passage_Span",
+    "node_id": "node_doc_lgh_578ca58f_blk11",
+    "metadata": {
+      "title": "Mùa xuân chín (Hàn Mặc Tử)",
+      "url": "https://loigiaihay.com/van-ban-mua-xuan-chin-han-mac-tu-a167561.html"
+    },
+    "raw_text": "Nghe ra ý vị và thơ ngây ...",
+    "contextualized_text": "SGK Ngữ Văn 9 CTST. Bài đọc: Mùa xuân chín (Hàn Mặc Tử).\nNghe ra ý vị và thơ ngây ...",
+    "grounding": {
+      "source_document_id": "doc_lgh_578ca58f",
+      "char_start": 360,
+      "char_end": 388,
+      "dom_order": 11,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "loigiaihay_crawler",
+      "label_confidence": 1.0,
+      "boundary_confidence": 1.0
+    }
+  },
+  {
+    "node_label": "Passage_Span",
+    "node_id": "node_doc_lgh_578ca58f_blk12",
+    "metadata": {
+      "title": "Mùa xuân chín (Hàn Mặc Tử)",
+      "url": "https://loigiaihay.com/van-ban-mua-xuan-chin-han-mac-tu-a167561.html"
+    },
+    "raw_text": "Khách xa gặp lúc mùa xuân chín,",
+    "contextualized_text": "SGK Ngữ Văn 9 CTST. Bài đọc: Mùa xuân chín (Hàn Mặc Tử).\nKhách xa gặp lúc mùa xuân chín,",
+    "grounding": {
+      "source_document_id": "doc_lgh_578ca58f",
+      "char_start": 389,
+      "char_end": 420,
+      "dom_order": 12,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "loigiaihay_crawler",
+      "label_confidence": 1.0,
+      "boundary_confidence": 1.0
+    }
+  },
+  {
+    "node_label": "Passage_Span",
+    "node_id": "node_doc_lgh_578ca58f_blk13",
+    "metadata": {
+      "title": "Mùa xuân chín (Hàn Mặc Tử)",
+      "url": "https://loigiaihay.com/van-ban-mua-xuan-chin-han-mac-tu-a167561.html"
+    },
+    "raw_text": "Lòng trí bâng khuâng sực nhớ làng.",
+    "contextualized_text": "SGK Ngữ Văn 9 CTST. Bài đọc: Mùa xuân chín (Hàn Mặc Tử).\nLòng trí bâng khuâng sực nhớ làng.",
+    "grounding": {
+      "source_document_id": "doc_lgh_578ca58f",
+      "char_start": 421,
+      "char_end": 455,
+      "dom_order": 13,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "loigiaihay_crawler",
+      "label_confidence": 1.0,
+      "boundary_confidence": 1.0
+    }
+  },
+  {
+    "node_label": "Passage_Span",
+    "node_id": "node_doc_lgh_578ca58f_blk14",
+    "metadata": {
+      "title": "Mùa xuân chín (Hàn Mặc Tử)",
+      "url": "https://loigiaihay.com/van-ban-mua-xuan-chin-han-mac-tu-a167561.html"
+    },
+    "raw_text": "- Chị ấy, năm nay còn gánh thóc",
+    "contextualized_text": "SGK Ngữ Văn 9 CTST. Bài đọc: Mùa xuân chín (Hàn Mặc Tử).\n- Chị ấy, năm nay còn gánh thóc",
+    "grounding": {
+      "source_document_id": "doc_lgh_578ca58f",
+      "char_start": 456,
+      "char_end": 487,
+      "dom_order": 14,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "loigiaihay_crawler",
+      "label_confidence": 1.0,
+      "boundary_confidence": 1.0
+    }
+  },
+  {
+    "node_label": "Passage_Span",
+    "node_id": "node_doc_lgh_578ca58f_blk15",
+    "metadata": {
+      "title": "Mùa xuân chín (Hàn Mặc Tử)",
+      "url": "https://loigiaihay.com/van-ban-mua-xuan-chin-han-mac-tu-a167561.html"
+    },
+    "raw_text": "Dọc bờ sông trắng nắng chang chang?",
+    "contextualized_text": "SGK Ngữ Văn 9 CTST. Bài đọc: Mùa xuân chín (Hàn Mặc Tử).\nDọc bờ sông trắng nắng chang chang?",
+    "grounding": {
+      "source_document_id": "doc_lgh_578ca58f",
+      "char_start": 488,
+      "char_end": 523,
+      "dom_order": 15,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "loigiaihay_crawler",
+      "label_confidence": 1.0,
+      "boundary_confidence": 1.0
+    }
+  },
+  {
+    "node_label": "Passage_Span",
+    "node_id": "node_doc_lgh_c562bf7c_blk0",
+    "metadata": {
+      "title": "Nhớ rừng (Thế Lữ)",
+      "url": "https://loigiaihay.com/van-ban-nho-rung-the-lu-ctst-a167560.html"
+    },
+    "raw_text": "Gậm một khối căm hờn trong cũi sắt,",
+    "contextualized_text": "SGK Ngữ Văn 9 CTST. Bài đọc: Nhớ rừng (Thế Lữ).\nGậm một khối căm hờn trong cũi sắt,",
+    "grounding": {
+      "source_document_id": "doc_lgh_c562bf7c",
+      "char_start": 0,
+      "char_end": 35,
+      "dom_order": 0,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "loigiaihay_crawler",
+      "label_confidence": 1.0,
+      "boundary_confidence": 1.0
+    }
+  },
+  {
+    "node_label": "Passage_Span",
+    "node_id": "node_doc_lgh_c562bf7c_blk1",
+    "metadata": {
+      "title": "Nhớ rừng (Thế Lữ)",
+      "url": "https://loigiaihay.com/van-ban-nho-rung-the-lu-ctst-a167560.html"
+    },
+    "raw_text": "Ta nằm dài, trông ngày tháng dần quan,",
+    "contextualized_text": "SGK Ngữ Văn 9 CTST. Bài đọc: Nhớ rừng (Thế Lữ).\nTa nằm dài, trông ngày tháng dần quan,",
+    "grounding": {
+      "source_document_id": "doc_lgh_c562bf7c",
+      "char_start": 36,
+      "char_end": 74,
+      "dom_order": 1,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "loigiaihay_crawler",
+      "label_confidence": 1.0,
+      "boundary_confidence": 1.0
+    }
+  },
+  {
+    "node_label": "Passage_Span",
+    "node_id": "node_doc_lgh_c562bf7c_blk2",
+    "metadata": {
+      "title": "Nhớ rừng (Thế Lữ)",
+      "url": "https://loigiaihay.com/van-ban-nho-rung-the-lu-ctst-a167560.html"
+    },
+    "raw_text": "Khinh lũ người kia ngạo mạn, ngẩn ngơ,",
+    "contextualized_text": "SGK Ngữ Văn 9 CTST. Bài đọc: Nhớ rừng (Thế Lữ).\nKhinh lũ người kia ngạo mạn, ngẩn ngơ,",
+    "grounding": {
+      "source_document_id": "doc_lgh_c562bf7c",
+      "char_start": 75,
+      "char_end": 113,
+      "dom_order": 2,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "loigiaihay_crawler",
+      "label_confidence": 1.0,
+      "boundary_confidence": 1.0
+    }
+  },
+  {
+    "node_label": "Passage_Span",
+    "node_id": "node_doc_lgh_c562bf7c_blk3",
+    "metadata": {
+      "title": "Nhớ rừng (Thế Lữ)",
+      "url": "https://loigiaihay.com/van-ban-nho-rung-the-lu-ctst-a167560.html"
+    },
+    "raw_text": "Giương mắt bé giễu oai linh rừng thẳm.",
+    "contextualized_text": "SGK Ngữ Văn 9 CTST. Bài đọc: Nhớ rừng (Thế Lữ).\nGiương mắt bé giễu oai linh rừng thẳm.",
+    "grounding": {
+      "source_document_id": "doc_lgh_c562bf7c",
+      "char_start": 114,
+      "char_end": 152,
+      "dom_order": 3,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "loigiaihay_crawler",
+      "label_confidence": 1.0,
+      "boundary_confidence": 1.0
+    }
+  },
+  {
+    "node_label": "Passage_Span",
+    "node_id": "node_doc_lgh_c562bf7c_blk4",
+    "metadata": {
+      "title": "Nhớ rừng (Thế Lữ)",
+      "url": "https://loigiaihay.com/van-ban-nho-rung-the-lu-ctst-a167560.html"
+    },
+    "raw_text": "Nay sa cơ, bị nhục nhằn tù hãm,",
+    "contextualized_text": "SGK Ngữ Văn 9 CTST. Bài đọc: Nhớ rừng (Thế Lữ).\nNay sa cơ, bị nhục nhằn tù hãm,",
+    "grounding": {
+      "source_document_id": "doc_lgh_c562bf7c",
+      "char_start": 153,
+      "char_end": 184,
+      "dom_order": 4,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "loigiaihay_crawler",
+      "label_confidence": 1.0,
+      "boundary_confidence": 1.0
+    }
+  },
+  {
+    "node_label": "Passage_Span",
+    "node_id": "node_doc_lgh_c562bf7c_blk5",
+    "metadata": {
+      "title": "Nhớ rừng (Thế Lữ)",
+      "url": "https://loigiaihay.com/van-ban-nho-rung-the-lu-ctst-a167560.html"
+    },
+    "raw_text": "Để làm trò lạ mắt, thứ đồ chơi,",
+    "contextualized_text": "SGK Ngữ Văn 9 CTST. Bài đọc: Nhớ rừng (Thế Lữ).\nĐể làm trò lạ mắt, thứ đồ chơi,",
+    "grounding": {
+      "source_document_id": "doc_lgh_c562bf7c",
+      "char_start": 185,
+      "char_end": 216,
+      "dom_order": 5,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "loigiaihay_crawler",
+      "label_confidence": 1.0,
+      "boundary_confidence": 1.0
+    }
+  },
+  {
+    "node_label": "Passage_Span",
+    "node_id": "node_doc_lgh_c562bf7c_blk6",
+    "metadata": {
+      "title": "Nhớ rừng (Thế Lữ)",
+      "url": "https://loigiaihay.com/van-ban-nho-rung-the-lu-ctst-a167560.html"
+    },
+    "raw_text": "Chịu ngang bầy cùng bọn gấu dở hơi,",
+    "contextualized_text": "SGK Ngữ Văn 9 CTST. Bài đọc: Nhớ rừng (Thế Lữ).\nChịu ngang bầy cùng bọn gấu dở hơi,",
+    "grounding": {
+      "source_document_id": "doc_lgh_c562bf7c",
+      "char_start": 217,
+      "char_end": 252,
+      "dom_order": 6,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "loigiaihay_crawler",
+      "label_confidence": 1.0,
+      "boundary_confidence": 1.0
+    }
+  },
+  {
+    "node_label": "Passage_Span",
+    "node_id": "node_doc_lgh_c562bf7c_blk7",
+    "metadata": {
+      "title": "Nhớ rừng (Thế Lữ)",
+      "url": "https://loigiaihay.com/van-ban-nho-rung-the-lu-ctst-a167560.html"
+    },
+    "raw_text": "Với cặp báo chuồng bên vô tư lự.",
+    "contextualized_text": "SGK Ngữ Văn 9 CTST. Bài đọc: Nhớ rừng (Thế Lữ).\nVới cặp báo chuồng bên vô tư lự.",
+    "grounding": {
+      "source_document_id": "doc_lgh_c562bf7c",
+      "char_start": 253,
+      "char_end": 285,
+      "dom_order": 7,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "loigiaihay_crawler",
+      "label_confidence": 1.0,
+      "boundary_confidence": 1.0
+    }
+  },
+  {
+    "node_label": "Passage_Span",
+    "node_id": "node_doc_lgh_c562bf7c_blk8",
+    "metadata": {
+      "title": "Nhớ rừng (Thế Lữ)",
+      "url": "https://loigiaihay.com/van-ban-nho-rung-the-lu-ctst-a167560.html"
+    },
+    "raw_text": "Ta sống mãi trong tình thương nỗi nhớ,",
+    "contextualized_text": "SGK Ngữ Văn 9 CTST. Bài đọc: Nhớ rừng (Thế Lữ).\nTa sống mãi trong tình thương nỗi nhớ,",
+    "grounding": {
+      "source_document_id": "doc_lgh_c562bf7c",
+      "char_start": 286,
+      "char_end": 324,
+      "dom_order": 8,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "loigiaihay_crawler",
+      "label_confidence": 1.0,
+      "boundary_confidence": 1.0
+    }
+  },
+  {
+    "node_label": "Passage_Span",
+    "node_id": "node_doc_lgh_c562bf7c_blk9",
+    "metadata": {
+      "title": "Nhớ rừng (Thế Lữ)",
+      "url": "https://loigiaihay.com/van-ban-nho-rung-the-lu-ctst-a167560.html"
+    },
+    "raw_text": "Thuở tung hoành hống hách những ngày xưa.",
+    "contextualized_text": "SGK Ngữ Văn 9 CTST. Bài đọc: Nhớ rừng (Thế Lữ).\nThuở tung hoành hống hách những ngày xưa.",
+    "grounding": {
+      "source_document_id": "doc_lgh_c562bf7c",
+      "char_start": 325,
+      "char_end": 366,
+      "dom_order": 9,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "loigiaihay_crawler",
+      "label_confidence": 1.0,
+      "boundary_confidence": 1.0
+    }
+  },
+  {
+    "node_label": "Passage_Span",
+    "node_id": "node_doc_lgh_c562bf7c_blk10",
+    "metadata": {
+      "title": "Nhớ rừng (Thế Lữ)",
+      "url": "https://loigiaihay.com/van-ban-nho-rung-the-lu-ctst-a167560.html"
+    },
+    "raw_text": "Nhớ cảnh sơn lâm, bóng cả, cây già,",
+    "contextualized_text": "SGK Ngữ Văn 9 CTST. Bài đọc: Nhớ rừng (Thế Lữ).\nNhớ cảnh sơn lâm, bóng cả, cây già,",
+    "grounding": {
+      "source_document_id": "doc_lgh_c562bf7c",
+      "char_start": 367,
+      "char_end": 402,
+      "dom_order": 10,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "loigiaihay_crawler",
+      "label_confidence": 1.0,
+      "boundary_confidence": 1.0
+    }
+  },
+  {
+    "node_label": "Passage_Span",
+    "node_id": "node_doc_lgh_c562bf7c_blk11",
+    "metadata": {
+      "title": "Nhớ rừng (Thế Lữ)",
+      "url": "https://loigiaihay.com/van-ban-nho-rung-the-lu-ctst-a167560.html"
+    },
+    "raw_text": "Với tiếng gió gào ngàn, với giọng nguồn hét núi,",
+    "contextualized_text": "SGK Ngữ Văn 9 CTST. Bài đọc: Nhớ rừng (Thế Lữ).\nVới tiếng gió gào ngàn, với giọng nguồn hét núi,",
+    "grounding": {
+      "source_document_id": "doc_lgh_c562bf7c",
+      "char_start": 403,
+      "char_end": 451,
+      "dom_order": 11,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "loigiaihay_crawler",
+      "label_confidence": 1.0,
+      "boundary_confidence": 1.0
+    }
+  },
+  {
+    "node_label": "Passage_Span",
+    "node_id": "node_doc_lgh_c562bf7c_blk12",
+    "metadata": {
+      "title": "Nhớ rừng (Thế Lữ)",
+      "url": "https://loigiaihay.com/van-ban-nho-rung-the-lu-ctst-a167560.html"
+    },
+    "raw_text": "Với khi thét khúc trường ca dữ dội,",
+    "contextualized_text": "SGK Ngữ Văn 9 CTST. Bài đọc: Nhớ rừng (Thế Lữ).\nVới khi thét khúc trường ca dữ dội,",
+    "grounding": {
+      "source_document_id": "doc_lgh_c562bf7c",
+      "char_start": 452,
+      "char_end": 487,
+      "dom_order": 12,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "loigiaihay_crawler",
+      "label_confidence": 1.0,
+      "boundary_confidence": 1.0
+    }
+  },
+  {
+    "node_label": "Passage_Span",
+    "node_id": "node_doc_lgh_c562bf7c_blk13",
+    "metadata": {
+      "title": "Nhớ rừng (Thế Lữ)",
+      "url": "https://loigiaihay.com/van-ban-nho-rung-the-lu-ctst-a167560.html"
+    },
+    "raw_text": "Ta bước chân lên, dõng dạc, đường hoàng,",
+    "contextualized_text": "SGK Ngữ Văn 9 CTST. Bài đọc: Nhớ rừng (Thế Lữ).\nTa bước chân lên, dõng dạc, đường hoàng,",
+    "grounding": {
+      "source_document_id": "doc_lgh_c562bf7c",
+      "char_start": 488,
+      "char_end": 528,
+      "dom_order": 13,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "loigiaihay_crawler",
+      "label_confidence": 1.0,
+      "boundary_confidence": 1.0
+    }
+  },
+  {
+    "node_label": "Passage_Span",
+    "node_id": "node_doc_lgh_c562bf7c_blk14",
+    "metadata": {
+      "title": "Nhớ rừng (Thế Lữ)",
+      "url": "https://loigiaihay.com/van-ban-nho-rung-the-lu-ctst-a167560.html"
+    },
+    "raw_text": "Lượn tấm thân như sóng cuộn nhịp nhàng,",
+    "contextualized_text": "SGK Ngữ Văn 9 CTST. Bài đọc: Nhớ rừng (Thế Lữ).\nLượn tấm thân như sóng cuộn nhịp nhàng,",
+    "grounding": {
+      "source_document_id": "doc_lgh_c562bf7c",
+      "char_start": 529,
+      "char_end": 568,
+      "dom_order": 14,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "loigiaihay_crawler",
+      "label_confidence": 1.0,
+      "boundary_confidence": 1.0
+    }
+  },
+  {
+    "node_label": "Passage_Span",
+    "node_id": "node_doc_lgh_c562bf7c_blk15",
+    "metadata": {
+      "title": "Nhớ rừng (Thế Lữ)",
+      "url": "https://loigiaihay.com/van-ban-nho-rung-the-lu-ctst-a167560.html"
+    },
+    "raw_text": "Vờn bóng âm thầm, lá gai, cỏ sắc.",
+    "contextualized_text": "SGK Ngữ Văn 9 CTST. Bài đọc: Nhớ rừng (Thế Lữ).\nVờn bóng âm thầm, lá gai, cỏ sắc.",
+    "grounding": {
+      "source_document_id": "doc_lgh_c562bf7c",
+      "char_start": 569,
+      "char_end": 602,
+      "dom_order": 15,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "loigiaihay_crawler",
+      "label_confidence": 1.0,
+      "boundary_confidence": 1.0
+    }
+  },
+  {
+    "node_label": "Passage_Span",
+    "node_id": "node_doc_lgh_c562bf7c_blk16",
+    "metadata": {
+      "title": "Nhớ rừng (Thế Lữ)",
+      "url": "https://loigiaihay.com/van-ban-nho-rung-the-lu-ctst-a167560.html"
+    },
+    "raw_text": "Trong hang tối, mắt thần khi đã quắc,",
+    "contextualized_text": "SGK Ngữ Văn 9 CTST. Bài đọc: Nhớ rừng (Thế Lữ).\nTrong hang tối, mắt thần khi đã quắc,",
+    "grounding": {
+      "source_document_id": "doc_lgh_c562bf7c",
+      "char_start": 603,
+      "char_end": 640,
+      "dom_order": 16,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "loigiaihay_crawler",
+      "label_confidence": 1.0,
+      "boundary_confidence": 1.0
+    }
+  },
+  {
+    "node_label": "Passage_Span",
+    "node_id": "node_doc_lgh_c562bf7c_blk17",
+    "metadata": {
+      "title": "Nhớ rừng (Thế Lữ)",
+      "url": "https://loigiaihay.com/van-ban-nho-rung-the-lu-ctst-a167560.html"
+    },
+    "raw_text": "Là khiến cho mọi vật đều im hơi.",
+    "contextualized_text": "SGK Ngữ Văn 9 CTST. Bài đọc: Nhớ rừng (Thế Lữ).\nLà khiến cho mọi vật đều im hơi.",
+    "grounding": {
+      "source_document_id": "doc_lgh_c562bf7c",
+      "char_start": 641,
+      "char_end": 673,
+      "dom_order": 17,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "loigiaihay_crawler",
+      "label_confidence": 1.0,
+      "boundary_confidence": 1.0
+    }
+  },
+  {
+    "node_label": "Passage_Span",
+    "node_id": "node_doc_lgh_c562bf7c_blk18",
+    "metadata": {
+      "title": "Nhớ rừng (Thế Lữ)",
+      "url": "https://loigiaihay.com/van-ban-nho-rung-the-lu-ctst-a167560.html"
+    },
+    "raw_text": "Ta biết ta chúa tể cả muôn loài,",
+    "contextualized_text": "SGK Ngữ Văn 9 CTST. Bài đọc: Nhớ rừng (Thế Lữ).\nTa biết ta chúa tể cả muôn loài,",
+    "grounding": {
+      "source_document_id": "doc_lgh_c562bf7c",
+      "char_start": 674,
+      "char_end": 706,
+      "dom_order": 18,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "loigiaihay_crawler",
+      "label_confidence": 1.0,
+      "boundary_confidence": 1.0
+    }
+  },
+  {
+    "node_label": "Passage_Span",
+    "node_id": "node_doc_lgh_c562bf7c_blk19",
+    "metadata": {
+      "title": "Nhớ rừng (Thế Lữ)",
+      "url": "https://loigiaihay.com/van-ban-nho-rung-the-lu-ctst-a167560.html"
+    },
+    "raw_text": "Giữa chốn thảo hoa không tên, không tuổi.",
+    "contextualized_text": "SGK Ngữ Văn 9 CTST. Bài đọc: Nhớ rừng (Thế Lữ).\nGiữa chốn thảo hoa không tên, không tuổi.",
+    "grounding": {
+      "source_document_id": "doc_lgh_c562bf7c",
+      "char_start": 707,
+      "char_end": 748,
+      "dom_order": 19,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "loigiaihay_crawler",
+      "label_confidence": 1.0,
+      "boundary_confidence": 1.0
+    }
+  },
+  {
+    "node_label": "Passage_Span",
+    "node_id": "node_doc_lgh_c562bf7c_blk20",
+    "metadata": {
+      "title": "Nhớ rừng (Thế Lữ)",
+      "url": "https://loigiaihay.com/van-ban-nho-rung-the-lu-ctst-a167560.html"
+    },
+    "raw_text": "Nào đâu những đêm vàng bên bờ suối",
+    "contextualized_text": "SGK Ngữ Văn 9 CTST. Bài đọc: Nhớ rừng (Thế Lữ).\nNào đâu những đêm vàng bên bờ suối",
+    "grounding": {
+      "source_document_id": "doc_lgh_c562bf7c",
+      "char_start": 749,
+      "char_end": 783,
+      "dom_order": 20,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "loigiaihay_crawler",
+      "label_confidence": 1.0,
+      "boundary_confidence": 1.0
+    }
+  },
+  {
+    "node_label": "Passage_Span",
+    "node_id": "node_doc_lgh_c562bf7c_blk21",
+    "metadata": {
+      "title": "Nhớ rừng (Thế Lữ)",
+      "url": "https://loigiaihay.com/van-ban-nho-rung-the-lu-ctst-a167560.html"
+    },
+    "raw_text": "Ta say mồi đứng uống ánh trăng tan?",
+    "contextualized_text": "SGK Ngữ Văn 9 CTST. Bài đọc: Nhớ rừng (Thế Lữ).\nTa say mồi đứng uống ánh trăng tan?",
+    "grounding": {
+      "source_document_id": "doc_lgh_c562bf7c",
+      "char_start": 784,
+      "char_end": 819,
+      "dom_order": 21,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "loigiaihay_crawler",
+      "label_confidence": 1.0,
+      "boundary_confidence": 1.0
+    }
+  },
+  {
+    "node_label": "Passage_Span",
+    "node_id": "node_doc_lgh_c562bf7c_blk22",
+    "metadata": {
+      "title": "Nhớ rừng (Thế Lữ)",
+      "url": "https://loigiaihay.com/van-ban-nho-rung-the-lu-ctst-a167560.html"
+    },
+    "raw_text": "Đâu những ngày mưa chuyển bốn phương ngàn",
+    "contextualized_text": "SGK Ngữ Văn 9 CTST. Bài đọc: Nhớ rừng (Thế Lữ).\nĐâu những ngày mưa chuyển bốn phương ngàn",
+    "grounding": {
+      "source_document_id": "doc_lgh_c562bf7c",
+      "char_start": 820,
+      "char_end": 861,
+      "dom_order": 22,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "loigiaihay_crawler",
+      "label_confidence": 1.0,
+      "boundary_confidence": 1.0
+    }
+  },
+  {
+    "node_label": "Passage_Span",
+    "node_id": "node_doc_lgh_c562bf7c_blk23",
+    "metadata": {
+      "title": "Nhớ rừng (Thế Lữ)",
+      "url": "https://loigiaihay.com/van-ban-nho-rung-the-lu-ctst-a167560.html"
+    },
+    "raw_text": "Ta lặng ngắm giang sơn ta đổi mới?",
+    "contextualized_text": "SGK Ngữ Văn 9 CTST. Bài đọc: Nhớ rừng (Thế Lữ).\nTa lặng ngắm giang sơn ta đổi mới?",
+    "grounding": {
+      "source_document_id": "doc_lgh_c562bf7c",
+      "char_start": 862,
+      "char_end": 896,
+      "dom_order": 23,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "loigiaihay_crawler",
+      "label_confidence": 1.0,
+      "boundary_confidence": 1.0
+    }
+  },
+  {
+    "node_label": "Passage_Span",
+    "node_id": "node_doc_lgh_c562bf7c_blk24",
+    "metadata": {
+      "title": "Nhớ rừng (Thế Lữ)",
+      "url": "https://loigiaihay.com/van-ban-nho-rung-the-lu-ctst-a167560.html"
+    },
+    "raw_text": "Đâu những bình minh cây xanh nắng gội,",
+    "contextualized_text": "SGK Ngữ Văn 9 CTST. Bài đọc: Nhớ rừng (Thế Lữ).\nĐâu những bình minh cây xanh nắng gội,",
+    "grounding": {
+      "source_document_id": "doc_lgh_c562bf7c",
+      "char_start": 897,
+      "char_end": 935,
+      "dom_order": 24,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "loigiaihay_crawler",
+      "label_confidence": 1.0,
+      "boundary_confidence": 1.0
+    }
+  },
+  {
+    "node_label": "Passage_Span",
+    "node_id": "node_doc_lgh_c562bf7c_blk25",
+    "metadata": {
+      "title": "Nhớ rừng (Thế Lữ)",
+      "url": "https://loigiaihay.com/van-ban-nho-rung-the-lu-ctst-a167560.html"
+    },
+    "raw_text": "Tiếng chim ca giấc ngủ ta tưng bừng?",
+    "contextualized_text": "SGK Ngữ Văn 9 CTST. Bài đọc: Nhớ rừng (Thế Lữ).\nTiếng chim ca giấc ngủ ta tưng bừng?",
+    "grounding": {
+      "source_document_id": "doc_lgh_c562bf7c",
+      "char_start": 936,
+      "char_end": 972,
+      "dom_order": 25,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "loigiaihay_crawler",
+      "label_confidence": 1.0,
+      "boundary_confidence": 1.0
+    }
+  },
+  {
+    "node_label": "Passage_Span",
+    "node_id": "node_doc_lgh_c562bf7c_blk26",
+    "metadata": {
+      "title": "Nhớ rừng (Thế Lữ)",
+      "url": "https://loigiaihay.com/van-ban-nho-rung-the-lu-ctst-a167560.html"
+    },
+    "raw_text": "Đâu những chiều lênh láng máu sau rừng",
+    "contextualized_text": "SGK Ngữ Văn 9 CTST. Bài đọc: Nhớ rừng (Thế Lữ).\nĐâu những chiều lênh láng máu sau rừng",
+    "grounding": {
+      "source_document_id": "doc_lgh_c562bf7c",
+      "char_start": 973,
+      "char_end": 1011,
+      "dom_order": 26,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "loigiaihay_crawler",
+      "label_confidence": 1.0,
+      "boundary_confidence": 1.0
+    }
+  },
+  {
+    "node_label": "Passage_Span",
+    "node_id": "node_doc_lgh_c562bf7c_blk27",
+    "metadata": {
+      "title": "Nhớ rừng (Thế Lữ)",
+      "url": "https://loigiaihay.com/van-ban-nho-rung-the-lu-ctst-a167560.html"
+    },
+    "raw_text": "Ta đợi chết mảnh mặt trời gay gắt,",
+    "contextualized_text": "SGK Ngữ Văn 9 CTST. Bài đọc: Nhớ rừng (Thế Lữ).\nTa đợi chết mảnh mặt trời gay gắt,",
+    "grounding": {
+      "source_document_id": "doc_lgh_c562bf7c",
+      "char_start": 1012,
+      "char_end": 1046,
+      "dom_order": 27,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "loigiaihay_crawler",
+      "label_confidence": 1.0,
+      "boundary_confidence": 1.0
+    }
+  },
+  {
+    "node_label": "Passage_Span",
+    "node_id": "node_doc_lgh_c562bf7c_blk28",
+    "metadata": {
+      "title": "Nhớ rừng (Thế Lữ)",
+      "url": "https://loigiaihay.com/van-ban-nho-rung-the-lu-ctst-a167560.html"
+    },
+    "raw_text": "Để ta chiếm lấy riêng phần bí mật?",
+    "contextualized_text": "SGK Ngữ Văn 9 CTST. Bài đọc: Nhớ rừng (Thế Lữ).\nĐể ta chiếm lấy riêng phần bí mật?",
+    "grounding": {
+      "source_document_id": "doc_lgh_c562bf7c",
+      "char_start": 1047,
+      "char_end": 1081,
+      "dom_order": 28,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "loigiaihay_crawler",
+      "label_confidence": 1.0,
+      "boundary_confidence": 1.0
+    }
+  },
+  {
+    "node_label": "Passage_Span",
+    "node_id": "node_doc_lgh_c562bf7c_blk29",
+    "metadata": {
+      "title": "Nhớ rừng (Thế Lữ)",
+      "url": "https://loigiaihay.com/van-ban-nho-rung-the-lu-ctst-a167560.html"
+    },
+    "raw_text": "- Than ôi! Thời oanh liệt nay còn đâu?",
+    "contextualized_text": "SGK Ngữ Văn 9 CTST. Bài đọc: Nhớ rừng (Thế Lữ).\n- Than ôi! Thời oanh liệt nay còn đâu?",
+    "grounding": {
+      "source_document_id": "doc_lgh_c562bf7c",
+      "char_start": 1082,
+      "char_end": 1120,
+      "dom_order": 29,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "loigiaihay_crawler",
+      "label_confidence": 1.0,
+      "boundary_confidence": 1.0
+    }
+  },
+  {
+    "node_label": "Passage_Span",
+    "node_id": "node_doc_lgh_c562bf7c_blk30",
+    "metadata": {
+      "title": "Nhớ rừng (Thế Lữ)",
+      "url": "https://loigiaihay.com/van-ban-nho-rung-the-lu-ctst-a167560.html"
+    },
+    "raw_text": "Nay ta ôm niềm uất hận ngàn thâu,",
+    "contextualized_text": "SGK Ngữ Văn 9 CTST. Bài đọc: Nhớ rừng (Thế Lữ).\nNay ta ôm niềm uất hận ngàn thâu,",
+    "grounding": {
+      "source_document_id": "doc_lgh_c562bf7c",
+      "char_start": 1121,
+      "char_end": 1154,
+      "dom_order": 30,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "loigiaihay_crawler",
+      "label_confidence": 1.0,
+      "boundary_confidence": 1.0
+    }
+  },
+  {
+    "node_label": "Passage_Span",
+    "node_id": "node_doc_lgh_c562bf7c_blk31",
+    "metadata": {
+      "title": "Nhớ rừng (Thế Lữ)",
+      "url": "https://loigiaihay.com/van-ban-nho-rung-the-lu-ctst-a167560.html"
+    },
+    "raw_text": "Ghét những cảnh không đời nào thay đổi,",
+    "contextualized_text": "SGK Ngữ Văn 9 CTST. Bài đọc: Nhớ rừng (Thế Lữ).\nGhét những cảnh không đời nào thay đổi,",
+    "grounding": {
+      "source_document_id": "doc_lgh_c562bf7c",
+      "char_start": 1155,
+      "char_end": 1194,
+      "dom_order": 31,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "loigiaihay_crawler",
+      "label_confidence": 1.0,
+      "boundary_confidence": 1.0
+    }
+  },
+  {
+    "node_label": "Passage_Span",
+    "node_id": "node_doc_lgh_c562bf7c_blk32",
+    "metadata": {
+      "title": "Nhớ rừng (Thế Lữ)",
+      "url": "https://loigiaihay.com/van-ban-nho-rung-the-lu-ctst-a167560.html"
+    },
+    "raw_text": "Những cảnh sửa sang, tầm thường, giả dối:",
+    "contextualized_text": "SGK Ngữ Văn 9 CTST. Bài đọc: Nhớ rừng (Thế Lữ).\nNhững cảnh sửa sang, tầm thường, giả dối:",
+    "grounding": {
+      "source_document_id": "doc_lgh_c562bf7c",
+      "char_start": 1195,
+      "char_end": 1236,
+      "dom_order": 32,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "loigiaihay_crawler",
+      "label_confidence": 1.0,
+      "boundary_confidence": 1.0
+    }
+  },
+  {
+    "node_label": "Passage_Span",
+    "node_id": "node_doc_lgh_c562bf7c_blk33",
+    "metadata": {
+      "title": "Nhớ rừng (Thế Lữ)",
+      "url": "https://loigiaihay.com/van-ban-nho-rung-the-lu-ctst-a167560.html"
+    },
+    "raw_text": "Hoa chăm, cỏ xén, lối phẳng, cây trồng;",
+    "contextualized_text": "SGK Ngữ Văn 9 CTST. Bài đọc: Nhớ rừng (Thế Lữ).\nHoa chăm, cỏ xén, lối phẳng, cây trồng;",
+    "grounding": {
+      "source_document_id": "doc_lgh_c562bf7c",
+      "char_start": 1237,
+      "char_end": 1276,
+      "dom_order": 33,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "loigiaihay_crawler",
+      "label_confidence": 1.0,
+      "boundary_confidence": 1.0
+    }
+  },
+  {
+    "node_label": "Passage_Span",
+    "node_id": "node_doc_lgh_c562bf7c_blk34",
+    "metadata": {
+      "title": "Nhớ rừng (Thế Lữ)",
+      "url": "https://loigiaihay.com/van-ban-nho-rung-the-lu-ctst-a167560.html"
+    },
+    "raw_text": "Dải nước đen giả suối, chẳng thông dòng",
+    "contextualized_text": "SGK Ngữ Văn 9 CTST. Bài đọc: Nhớ rừng (Thế Lữ).\nDải nước đen giả suối, chẳng thông dòng",
+    "grounding": {
+      "source_document_id": "doc_lgh_c562bf7c",
+      "char_start": 1277,
+      "char_end": 1316,
+      "dom_order": 34,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "loigiaihay_crawler",
+      "label_confidence": 1.0,
+      "boundary_confidence": 1.0
+    }
+  },
+  {
+    "node_label": "Passage_Span",
+    "node_id": "node_doc_lgh_c562bf7c_blk35",
+    "metadata": {
+      "title": "Nhớ rừng (Thế Lữ)",
+      "url": "https://loigiaihay.com/van-ban-nho-rung-the-lu-ctst-a167560.html"
+    },
+    "raw_text": "Len dưới nách những mô gò thấp kém;",
+    "contextualized_text": "SGK Ngữ Văn 9 CTST. Bài đọc: Nhớ rừng (Thế Lữ).\nLen dưới nách những mô gò thấp kém;",
+    "grounding": {
+      "source_document_id": "doc_lgh_c562bf7c",
+      "char_start": 1317,
+      "char_end": 1352,
+      "dom_order": 35,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "loigiaihay_crawler",
+      "label_confidence": 1.0,
+      "boundary_confidence": 1.0
+    }
+  },
+  {
+    "node_label": "Passage_Span",
+    "node_id": "node_doc_lgh_c562bf7c_blk36",
+    "metadata": {
+      "title": "Nhớ rừng (Thế Lữ)",
+      "url": "https://loigiaihay.com/van-ban-nho-rung-the-lu-ctst-a167560.html"
+    },
+    "raw_text": "Dăm vừng lá hiền lành, không bí hiểm,",
+    "contextualized_text": "SGK Ngữ Văn 9 CTST. Bài đọc: Nhớ rừng (Thế Lữ).\nDăm vừng lá hiền lành, không bí hiểm,",
+    "grounding": {
+      "source_document_id": "doc_lgh_c562bf7c",
+      "char_start": 1353,
+      "char_end": 1390,
+      "dom_order": 36,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "loigiaihay_crawler",
+      "label_confidence": 1.0,
+      "boundary_confidence": 1.0
+    }
+  },
+  {
+    "node_label": "Passage_Span",
+    "node_id": "node_doc_lgh_c562bf7c_blk37",
+    "metadata": {
+      "title": "Nhớ rừng (Thế Lữ)",
+      "url": "https://loigiaihay.com/van-ban-nho-rung-the-lu-ctst-a167560.html"
+    },
+    "raw_text": "Cũng học đòi bắt chước vẻ hoang vu",
+    "contextualized_text": "SGK Ngữ Văn 9 CTST. Bài đọc: Nhớ rừng (Thế Lữ).\nCũng học đòi bắt chước vẻ hoang vu",
+    "grounding": {
+      "source_document_id": "doc_lgh_c562bf7c",
+      "char_start": 1391,
+      "char_end": 1425,
+      "dom_order": 37,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "loigiaihay_crawler",
+      "label_confidence": 1.0,
+      "boundary_confidence": 1.0
+    }
+  },
+  {
+    "node_label": "Passage_Span",
+    "node_id": "node_doc_lgh_c562bf7c_blk38",
+    "metadata": {
+      "title": "Nhớ rừng (Thế Lữ)",
+      "url": "https://loigiaihay.com/van-ban-nho-rung-the-lu-ctst-a167560.html"
+    },
+    "raw_text": "Của chốn ngàn năm cao cả, âm u.",
+    "contextualized_text": "SGK Ngữ Văn 9 CTST. Bài đọc: Nhớ rừng (Thế Lữ).\nCủa chốn ngàn năm cao cả, âm u.",
+    "grounding": {
+      "source_document_id": "doc_lgh_c562bf7c",
+      "char_start": 1426,
+      "char_end": 1457,
+      "dom_order": 38,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "loigiaihay_crawler",
+      "label_confidence": 1.0,
+      "boundary_confidence": 1.0
+    }
+  },
+  {
+    "node_label": "Passage_Span",
+    "node_id": "node_doc_lgh_c562bf7c_blk39",
+    "metadata": {
+      "title": "Nhớ rừng (Thế Lữ)",
+      "url": "https://loigiaihay.com/van-ban-nho-rung-the-lu-ctst-a167560.html"
+    },
+    "raw_text": "Hỡi oai linh, cảnh nước non hùng vĩ!",
+    "contextualized_text": "SGK Ngữ Văn 9 CTST. Bài đọc: Nhớ rừng (Thế Lữ).\nHỡi oai linh, cảnh nước non hùng vĩ!",
+    "grounding": {
+      "source_document_id": "doc_lgh_c562bf7c",
+      "char_start": 1458,
+      "char_end": 1494,
+      "dom_order": 39,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "loigiaihay_crawler",
+      "label_confidence": 1.0,
+      "boundary_confidence": 1.0
+    }
+  },
+  {
+    "node_label": "Passage_Span",
+    "node_id": "node_doc_lgh_c562bf7c_blk40",
+    "metadata": {
+      "title": "Nhớ rừng (Thế Lữ)",
+      "url": "https://loigiaihay.com/van-ban-nho-rung-the-lu-ctst-a167560.html"
+    },
+    "raw_text": "Là nơi giống hầm thiêng ta ngự trị,",
+    "contextualized_text": "SGK Ngữ Văn 9 CTST. Bài đọc: Nhớ rừng (Thế Lữ).\nLà nơi giống hầm thiêng ta ngự trị,",
+    "grounding": {
+      "source_document_id": "doc_lgh_c562bf7c",
+      "char_start": 1495,
+      "char_end": 1530,
+      "dom_order": 40,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "loigiaihay_crawler",
+      "label_confidence": 1.0,
+      "boundary_confidence": 1.0
+    }
+  },
+  {
+    "node_label": "Passage_Span",
+    "node_id": "node_doc_lgh_c562bf7c_blk41",
+    "metadata": {
+      "title": "Nhớ rừng (Thế Lữ)",
+      "url": "https://loigiaihay.com/van-ban-nho-rung-the-lu-ctst-a167560.html"
+    },
+    "raw_text": "- Hỡi cảnh rừng ghê gớm của ta ơi!",
+    "contextualized_text": "SGK Ngữ Văn 9 CTST. Bài đọc: Nhớ rừng (Thế Lữ).\n- Hỡi cảnh rừng ghê gớm của ta ơi!",
+    "grounding": {
+      "source_document_id": "doc_lgh_c562bf7c",
+      "char_start": 1531,
+      "char_end": 1565,
+      "dom_order": 41,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "loigiaihay_crawler",
+      "label_confidence": 1.0,
+      "boundary_confidence": 1.0
+    }
+  },
+  {
+    "node_label": "Passage_Span",
+    "node_id": "node_doc_lgh_c562bf7c_blk42",
+    "metadata": {
+      "title": "Nhớ rừng (Thế Lữ)",
+      "url": "https://loigiaihay.com/van-ban-nho-rung-the-lu-ctst-a167560.html"
+    },
+    "raw_text": "Nơi thênh thang ta vùng vẫy ngày xưa,",
+    "contextualized_text": "SGK Ngữ Văn 9 CTST. Bài đọc: Nhớ rừng (Thế Lữ).\nNơi thênh thang ta vùng vẫy ngày xưa,",
+    "grounding": {
+      "source_document_id": "doc_lgh_c562bf7c",
+      "char_start": 1566,
+      "char_end": 1603,
+      "dom_order": 42,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "loigiaihay_crawler",
+      "label_confidence": 1.0,
+      "boundary_confidence": 1.0
+    }
+  },
+  {
+    "node_label": "Passage_Span",
+    "node_id": "node_doc_lgh_c562bf7c_blk43",
+    "metadata": {
+      "title": "Nhớ rừng (Thế Lữ)",
+      "url": "https://loigiaihay.com/van-ban-nho-rung-the-lu-ctst-a167560.html"
+    },
+    "raw_text": "Nơi ta không còn được thấy bao giờ!",
+    "contextualized_text": "SGK Ngữ Văn 9 CTST. Bài đọc: Nhớ rừng (Thế Lữ).\nNơi ta không còn được thấy bao giờ!",
+    "grounding": {
+      "source_document_id": "doc_lgh_c562bf7c",
+      "char_start": 1604,
+      "char_end": 1639,
+      "dom_order": 43,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "loigiaihay_crawler",
+      "label_confidence": 1.0,
+      "boundary_confidence": 1.0
+    }
+  },
+  {
+    "node_label": "Passage_Span",
+    "node_id": "node_doc_lgh_c562bf7c_blk44",
+    "metadata": {
+      "title": "Nhớ rừng (Thế Lữ)",
+      "url": "https://loigiaihay.com/van-ban-nho-rung-the-lu-ctst-a167560.html"
+    },
+    "raw_text": "Có biết chăng trong những ngày ngao ngán,",
+    "contextualized_text": "SGK Ngữ Văn 9 CTST. Bài đọc: Nhớ rừng (Thế Lữ).\nCó biết chăng trong những ngày ngao ngán,",
+    "grounding": {
+      "source_document_id": "doc_lgh_c562bf7c",
+      "char_start": 1640,
+      "char_end": 1681,
+      "dom_order": 44,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "loigiaihay_crawler",
+      "label_confidence": 1.0,
+      "boundary_confidence": 1.0
+    }
+  },
+  {
+    "node_label": "Passage_Span",
+    "node_id": "node_doc_lgh_c562bf7c_blk45",
+    "metadata": {
+      "title": "Nhớ rừng (Thế Lữ)",
+      "url": "https://loigiaihay.com/van-ban-nho-rung-the-lu-ctst-a167560.html"
+    },
+    "raw_text": "Ta đương theo giấc mộng ngàn to lớn",
+    "contextualized_text": "SGK Ngữ Văn 9 CTST. Bài đọc: Nhớ rừng (Thế Lữ).\nTa đương theo giấc mộng ngàn to lớn",
+    "grounding": {
+      "source_document_id": "doc_lgh_c562bf7c",
+      "char_start": 1682,
+      "char_end": 1717,
+      "dom_order": 45,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "loigiaihay_crawler",
+      "label_confidence": 1.0,
+      "boundary_confidence": 1.0
+    }
+  },
+  {
+    "node_label": "Passage_Span",
+    "node_id": "node_doc_lgh_c562bf7c_blk46",
+    "metadata": {
+      "title": "Nhớ rừng (Thế Lữ)",
+      "url": "https://loigiaihay.com/van-ban-nho-rung-the-lu-ctst-a167560.html"
+    },
+    "raw_text": "Để hồn ta phảng phất được gần ngươi,",
+    "contextualized_text": "SGK Ngữ Văn 9 CTST. Bài đọc: Nhớ rừng (Thế Lữ).\nĐể hồn ta phảng phất được gần ngươi,",
+    "grounding": {
+      "source_document_id": "doc_lgh_c562bf7c",
+      "char_start": 1718,
+      "char_end": 1754,
+      "dom_order": 46,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "loigiaihay_crawler",
+      "label_confidence": 1.0,
+      "boundary_confidence": 1.0
+    }
+  }
+]

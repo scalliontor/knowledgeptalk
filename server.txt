@@ -1,0 +1,4 @@
+ssh namnx@171.226.10.121
+pass: PtitCie@2026
+use sudo su
+root@500310048-GPU-01:/home/namnx/knowledgeforptalk# 
