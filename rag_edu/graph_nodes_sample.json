@@ -1,0 +1,1691 @@
+[
+  {
+    "node_id": "node_NV9_CTST_V2_56_blk14",
+    "node_label": "Solution",
+    "pedagogical_policy": {
+      "direct_exposure_to_student": "restricted"
+    },
+    "raw_text": "(2) Sự kiện 1: Bác thợ đến nhà sửa chiếc ghế hỏng",
+    "contextualized_text": "SGK Ngữ Văn 9 Tập 2 CTST, Unit_6, trang 56. Lời giải: (2) Sự kiện 1: Bác thợ đến nhà sửa chiếc ghế hỏng",
+    "grounding": {
+      "source_document_id": "doc_NV9_CTST_V2_56",
+      "char_start": 1630,
+      "char_end": 1679,
+      "dom_order": 14,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "llm_classification",
+      "label_confidence": 0.9,
+      "boundary_confidence": 0.9
+    },
+    "edges": []
+  },
+  {
+    "node_id": "node_NV9_CTST_V2_56_blk15",
+    "node_label": "Solution",
+    "pedagogical_policy": {
+      "direct_exposure_to_student": "restricted"
+    },
+    "raw_text": "(3) Sự kiện 2: Bác thợ quay lại để đóng thêm một nhát búa vào đầu đinh chưa đóng hết trên ghế",
+    "contextualized_text": "SGK Ngữ Văn 9 Tập 2 CTST, Unit_6, trang 56. Lời giải: (3) Sự kiện 2: Bác thợ quay lại để đóng thêm một nhát búa vào đầu đinh chưa đóng hết trên ghế",
+    "grounding": {
+      "source_document_id": "doc_NV9_CTST_V2_56",
+      "char_start": 1680,
+      "char_end": 1773,
+      "dom_order": 15,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "llm_classification",
+      "label_confidence": 0.9,
+      "boundary_confidence": 0.9
+    },
+    "edges": []
+  },
+  {
+    "node_id": "node_NV9_CTST_V2_56_blk16",
+    "node_label": "Solution",
+    "pedagogical_policy": {
+      "direct_exposure_to_student": "restricted"
+    },
+    "raw_text": "(4) Sự kiện 3: Người cha biếu thêm tiền, bác thợ không nhận.",
+    "contextualized_text": "SGK Ngữ Văn 9 Tập 2 CTST, Unit_6, trang 56. Lời giải: (4) Sự kiện 3: Người cha biếu thêm tiền, bác thợ không nhận.",
+    "grounding": {
+      "source_document_id": "doc_NV9_CTST_V2_56",
+      "char_start": 1774,
+      "char_end": 1834,
+      "dom_order": 16,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "llm_classification",
+      "label_confidence": 0.9,
+      "boundary_confidence": 0.9
+    },
+    "edges": []
+  },
+  {
+    "node_id": "node_NV9_CTST_V2_56_blk18",
+    "node_label": "Question",
+    "metadata": {
+      "book_id": "NV9_CTST_V2",
+      "unit_id": "Unit_6",
+      "module_type": "Module_Writing",
+      "page_start": 56
+    },
+    "question_metadata": {
+      "requires_source_text": true
+    },
+    "raw_text": "Câu 1 (trang 57 sgk Ngữ văn 9 Tập 2): Xác định ngôi kể, người kể trong văn bản trên.",
+    "contextualized_text": "SGK Ngữ Văn 9 Tập 2 CTST, Unit_6, trang 56. Câu hỏi: Câu 1 (trang 57 sgk Ngữ văn 9 Tập 2): Xác định ngôi kể, người kể trong văn bản trên.",
+    "grounding": {
+      "source_document_id": "doc_NV9_CTST_V2_56",
+      "char_start": 1898,
+      "char_end": 1982,
+      "dom_order": 18,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "rule_based",
+      "label_confidence": 1.0,
+      "boundary_confidence": 0.9
+    },
+    "edges": []
+  },
+  {
+    "node_id": "node_NV9_CTST_V2_56_blk19",
+    "node_label": "Solution",
+    "pedagogical_policy": {
+      "direct_exposure_to_student": "restricted"
+    },
+    "raw_text": "- Ngôi kể: Ngôi thứ nhất",
+    "contextualized_text": "SGK Ngữ Văn 9 Tập 2 CTST, Unit_6, trang 56. Lời giải: - Ngôi kể: Ngôi thứ nhất",
+    "grounding": {
+      "source_document_id": "doc_NV9_CTST_V2_56",
+      "char_start": 1983,
+      "char_end": 2007,
+      "dom_order": 19,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "llm_classification",
+      "label_confidence": 0.98,
+      "boundary_confidence": 0.9
+    },
+    "edges": [
+      {
+        "relation_type": "SOLVES",
+        "target_id": "node_NV9_CTST_V2_56_blk18"
+      }
+    ]
+  },
+  {
+    "node_id": "node_NV9_CTST_V2_56_blk21",
+    "node_label": "Question",
+    "metadata": {
+      "book_id": "NV9_CTST_V2",
+      "unit_id": "Unit_6",
+      "module_type": "Module_Writing",
+      "page_start": 56
+    },
+    "question_metadata": {
+      "requires_source_text": true
+    },
+    "raw_text": "Câu 2 (trang 57 sgk Ngữ văn 9 Tập 2): Tác giả đã mở đầu câu chuyện bằng cách nào?",
+    "contextualized_text": "SGK Ngữ Văn 9 Tập 2 CTST, Unit_6, trang 56. Câu hỏi: Câu 2 (trang 57 sgk Ngữ văn 9 Tập 2): Tác giả đã mở đầu câu chuyện bằng cách nào?",
+    "grounding": {
+      "source_document_id": "doc_NV9_CTST_V2_56",
+      "char_start": 2063,
+      "char_end": 2144,
+      "dom_order": 21,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "rule_based",
+      "label_confidence": 1.0,
+      "boundary_confidence": 0.9
+    },
+    "edges": []
+  },
+  {
+    "node_id": "node_NV9_CTST_V2_56_blk22",
+    "node_label": "Solution",
+    "pedagogical_policy": {
+      "direct_exposure_to_student": "restricted"
+    },
+    "raw_text": "Tác giả đã mở đầu câu chuyện bằng cách giới thiệu thời gian, không gian, nhân vật, tình huống xảy ra câu chuyện.",
+    "contextualized_text": "SGK Ngữ Văn 9 Tập 2 CTST, Unit_6, trang 56. Lời giải: Tác giả đã mở đầu câu chuyện bằng cách giới thiệu thời gian, không gian, nhân vật, tình huống xảy ra câu chuyện.",
+    "grounding": {
+      "source_document_id": "doc_NV9_CTST_V2_56",
+      "char_start": 2145,
+      "char_end": 2257,
+      "dom_order": 22,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "llm_classification",
+      "label_confidence": 0.9,
+      "boundary_confidence": 0.9
+    },
+    "edges": [
+      {
+        "relation_type": "SOLVES",
+        "target_id": "node_NV9_CTST_V2_56_blk21"
+      }
+    ]
+  },
+  {
+    "node_id": "node_NV9_CTST_V2_56_blk23",
+    "node_label": "Question",
+    "metadata": {
+      "book_id": "NV9_CTST_V2",
+      "unit_id": "Unit_6",
+      "module_type": "Module_Writing",
+      "page_start": 56
+    },
+    "question_metadata": {
+      "requires_source_text": true
+    },
+    "raw_text": "Câu 3 (trang 57 sgk Ngữ văn 9 Tập 2): Tình huống làm nảy sinh câu chuyện là tình huống gì?",
+    "contextualized_text": "SGK Ngữ Văn 9 Tập 2 CTST, Unit_6, trang 56. Câu hỏi: Câu 3 (trang 57 sgk Ngữ văn 9 Tập 2): Tình huống làm nảy sinh câu chuyện là tình huống gì?",
+    "grounding": {
+      "source_document_id": "doc_NV9_CTST_V2_56",
+      "char_start": 2258,
+      "char_end": 2348,
+      "dom_order": 23,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "rule_based",
+      "label_confidence": 1.0,
+      "boundary_confidence": 0.9
+    },
+    "edges": []
+  },
+  {
+    "node_id": "node_NV9_CTST_V2_56_blk24",
+    "node_label": "Passage_Span",
+    "metadata": {
+      "book_id": "NV9_CTST_V2",
+      "unit_id": "Unit_6",
+      "module_type": "Module_Writing",
+      "page_start": 56
+    },
+    "raw_text": "Tình huống làm nảy sinh câu chuyện là bác thợ quay trở lại để đóng thêm một nhát búa vào đầu đinh chưa đóng hết trên ghế.",
+    "contextualized_text": "SGK Ngữ Văn 9 Tập 2 CTST, Unit_6, trang 56. Ngữ liệu: Tình huống làm nảy sinh câu chuyện là bác thợ quay trở lại để đóng thêm một nhát búa vào đầu đinh chưa đóng hết trên ghế.",
+    "grounding": {
+      "source_document_id": "doc_NV9_CTST_V2_56",
+      "char_start": 2349,
+      "char_end": 2470,
+      "dom_order": 24,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "llm_classification",
+      "label_confidence": 0.98,
+      "boundary_confidence": 0.9
+    },
+    "edges": []
+  },
+  {
+    "node_id": "node_NV9_CTST_V2_56_blk25",
+    "node_label": "Question",
+    "metadata": {
+      "book_id": "NV9_CTST_V2",
+      "unit_id": "Unit_6",
+      "module_type": "Module_Writing",
+      "page_start": 56
+    },
+    "question_metadata": {
+      "requires_source_text": true
+    },
+    "raw_text": "Câu 4 (trang 57 sgk Ngữ văn 9 Tập 2): Tìm các chi tiết tiêu biểu gắn với các sự kiện trong câu chuyện. Các sự kiện, chi tiết trong truyện được liên kết với nhau như thế nào? Chi tiết nào khiến cho diễn biến của câu chuyện trở nên bất ngờ, thú vị?",
+    "contextualized_text": "SGK Ngữ Văn 9 Tập 2 CTST, Unit_6, trang 56. Câu hỏi: Câu 4 (trang 57 sgk Ngữ văn 9 Tập 2): Tìm các chi tiết tiêu biểu gắn với các sự kiện trong câu chuyện. Các sự kiện, chi tiết trong truyện được liên kết với nhau như thế nào? Chi tiết nào khiến cho diễn biến của câu chuyện trở nên bất ngờ, thú vị?",
+    "grounding": {
+      "source_document_id": "doc_NV9_CTST_V2_56",
+      "char_start": 2471,
+      "char_end": 2717,
+      "dom_order": 25,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "rule_based",
+      "label_confidence": 1.0,
+      "boundary_confidence": 0.9
+    },
+    "edges": []
+  },
+  {
+    "node_id": "node_NV9_CTST_V2_56_blk27",
+    "node_label": "Passage_Span",
+    "metadata": {
+      "book_id": "NV9_CTST_V2",
+      "unit_id": "Unit_6",
+      "module_type": "Module_Writing",
+      "page_start": 56
+    },
+    "raw_text": "- Chiếc ghế tựa bị bong mặt",
+    "contextualized_text": "SGK Ngữ Văn 9 Tập 2 CTST, Unit_6, trang 56. Ngữ liệu: - Chiếc ghế tựa bị bong mặt",
+    "grounding": {
+      "source_document_id": "doc_NV9_CTST_V2_56",
+      "char_start": 2740,
+      "char_end": 2767,
+      "dom_order": 27,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "llm_classification",
+      "label_confidence": 0.9,
+      "boundary_confidence": 0.9
+    },
+    "edges": []
+  },
+  {
+    "node_id": "node_NV9_CTST_V2_56_blk28",
+    "node_label": "Passage_Span",
+    "metadata": {
+      "book_id": "NV9_CTST_V2",
+      "unit_id": "Unit_6",
+      "module_type": "Module_Writing",
+      "page_start": 56
+    },
+    "raw_text": "- Bác thợ đến nhà để sửa chiếc ghế hỏng",
+    "contextualized_text": "SGK Ngữ Văn 9 Tập 2 CTST, Unit_6, trang 56. Ngữ liệu: - Bác thợ đến nhà để sửa chiếc ghế hỏng",
+    "grounding": {
+      "source_document_id": "doc_NV9_CTST_V2_56",
+      "char_start": 2768,
+      "char_end": 2807,
+      "dom_order": 28,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "llm_classification",
+      "label_confidence": 0.95,
+      "boundary_confidence": 0.9
+    },
+    "edges": []
+  },
+  {
+    "node_id": "node_NV9_CTST_V2_56_blk29",
+    "node_label": "Passage_Span",
+    "metadata": {
+      "book_id": "NV9_CTST_V2",
+      "unit_id": "Unit_6",
+      "module_type": "Module_Writing",
+      "page_start": 56
+    },
+    "raw_text": "- Bác thợ quay trở lại để đóng thêm một nhát búa vào đầu đinh chưa đóng hết trên ghế.",
+    "contextualized_text": "SGK Ngữ Văn 9 Tập 2 CTST, Unit_6, trang 56. Ngữ liệu: - Bác thợ quay trở lại để đóng thêm một nhát búa vào đầu đinh chưa đóng hết trên ghế.",
+    "grounding": {
+      "source_document_id": "doc_NV9_CTST_V2_56",
+      "char_start": 2808,
+      "char_end": 2893,
+      "dom_order": 29,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "llm_classification",
+      "label_confidence": 0.98,
+      "boundary_confidence": 0.9
+    },
+    "edges": []
+  },
+  {
+    "node_id": "node_NV9_CTST_V2_56_blk30",
+    "node_label": "Solution",
+    "pedagogical_policy": {
+      "direct_exposure_to_student": "restricted"
+    },
+    "raw_text": "- Người cha biếu thêm tiền, bác thợ không nhận.",
+    "contextualized_text": "SGK Ngữ Văn 9 Tập 2 CTST, Unit_6, trang 56. Lời giải: - Người cha biếu thêm tiền, bác thợ không nhận.",
+    "grounding": {
+      "source_document_id": "doc_NV9_CTST_V2_56",
+      "char_start": 2894,
+      "char_end": 2941,
+      "dom_order": 30,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "llm_classification",
+      "label_confidence": 0.9,
+      "boundary_confidence": 0.9
+    },
+    "edges": [
+      {
+        "relation_type": "SOLVES",
+        "target_id": "node_NV9_CTST_V2_56_blk25"
+      }
+    ]
+  },
+  {
+    "node_id": "node_NV9_CTST_V2_56_blk31",
+    "node_label": "Passage_Span",
+    "metadata": {
+      "book_id": "NV9_CTST_V2",
+      "unit_id": "Unit_6",
+      "module_type": "Module_Writing",
+      "page_start": 56
+    },
+    "raw_text": "- Bác thợ vội vàng chào và đi trong mưa.",
+    "contextualized_text": "SGK Ngữ Văn 9 Tập 2 CTST, Unit_6, trang 56. Ngữ liệu: - Bác thợ vội vàng chào và đi trong mưa.",
+    "grounding": {
+      "source_document_id": "doc_NV9_CTST_V2_56",
+      "char_start": 2942,
+      "char_end": 2982,
+      "dom_order": 31,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "llm_classification",
+      "label_confidence": 0.98,
+      "boundary_confidence": 0.9
+    },
+    "edges": []
+  },
+  {
+    "node_id": "node_NV9_CTST_V2_56_blk33",
+    "node_label": "Solution",
+    "pedagogical_policy": {
+      "direct_exposure_to_student": "restricted"
+    },
+    "raw_text": "* Chi tiết khiến cho diễn biến của câu chuyện trở nên bất ngờ, thú vị: bác thợ mộc quay lại nhà để đóng nốt chiếc đinh đóng hết trên ghế là chi tiết bất ngờ nhất trong câu chuyện. Nó thể hiện sự tận tụy, chu đáo và lòng yêu nghề của bác thợ mộc, quan tâm đến từng chi tiết nhỏ trong lao động.",
+    "contextualized_text": "SGK Ngữ Văn 9 Tập 2 CTST, Unit_6, trang 56. Lời giải: * Chi tiết khiến cho diễn biến của câu chuyện trở nên bất ngờ, thú vị: bác thợ mộc quay lại nhà để đóng nốt chiếc đinh đóng hết trên ghế là chi tiết bất ngờ nhất trong câu chuyện. Nó thể hiện sự tận tụy, chu đáo và lòng yêu nghề của bác thợ mộc, quan tâm đến từng chi tiết nhỏ trong lao động.",
+    "grounding": {
+      "source_document_id": "doc_NV9_CTST_V2_56",
+      "char_start": 3129,
+      "char_end": 3421,
+      "dom_order": 33,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "llm_classification",
+      "label_confidence": 0.98,
+      "boundary_confidence": 0.9
+    },
+    "edges": [
+      {
+        "relation_type": "SOLVES",
+        "target_id": "node_NV9_CTST_V2_56_blk25"
+      }
+    ]
+  },
+  {
+    "node_id": "node_NV9_CTST_V2_56_blk34",
+    "node_label": "Question",
+    "metadata": {
+      "book_id": "NV9_CTST_V2",
+      "unit_id": "Unit_6",
+      "module_type": "Module_Writing",
+      "page_start": 56
+    },
+    "question_metadata": {
+      "requires_source_text": true
+    },
+    "raw_text": "Câu 5 (trang 57 sgk Ngữ văn 9 Tập 2): Đoạn đối thoại giữa cha tôi và bác thợ có tác dụng gì trong việc thể hiện tính cách của hai nhân vật này? Nhân vật cha tôi đã có cách giải quyết thế nào đối với sự kiện thứ hai?",
+    "contextualized_text": "SGK Ngữ Văn 9 Tập 2 CTST, Unit_6, trang 56. Câu hỏi: Câu 5 (trang 57 sgk Ngữ văn 9 Tập 2): Đoạn đối thoại giữa cha tôi và bác thợ có tác dụng gì trong việc thể hiện tính cách của hai nhân vật này? Nhân vật cha tôi đã có cách giải quyết thế nào đối với sự kiện thứ hai?",
+    "grounding": {
+      "source_document_id": "doc_NV9_CTST_V2_56",
+      "char_start": 3422,
+      "char_end": 3637,
+      "dom_order": 34,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "rule_based",
+      "label_confidence": 1.0,
+      "boundary_confidence": 0.9
+    },
+    "edges": []
+  },
+  {
+    "node_id": "node_NV9_CTST_V2_56_blk36",
+    "node_label": "Solution",
+    "pedagogical_policy": {
+      "direct_exposure_to_student": "restricted"
+    },
+    "raw_text": "- Bác thợ: Tận tụy, chu đáo với công việc",
+    "contextualized_text": "SGK Ngữ Văn 9 Tập 2 CTST, Unit_6, trang 56. Lời giải: - Bác thợ: Tận tụy, chu đáo với công việc",
+    "grounding": {
+      "source_document_id": "doc_NV9_CTST_V2_56",
+      "char_start": 3739,
+      "char_end": 3780,
+      "dom_order": 36,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "llm_classification",
+      "label_confidence": 0.9,
+      "boundary_confidence": 0.9
+    },
+    "edges": [
+      {
+        "relation_type": "SOLVES",
+        "target_id": "node_NV9_CTST_V2_56_blk34"
+      }
+    ]
+  },
+  {
+    "node_id": "node_NV9_CTST_V2_56_blk37",
+    "node_label": "Solution",
+    "pedagogical_policy": {
+      "direct_exposure_to_student": "restricted"
+    },
+    "raw_text": "- Cha tôi: Quan tâm, trân trọng người lao động",
+    "contextualized_text": "SGK Ngữ Văn 9 Tập 2 CTST, Unit_6, trang 56. Lời giải: - Cha tôi: Quan tâm, trân trọng người lao động",
+    "grounding": {
+      "source_document_id": "doc_NV9_CTST_V2_56",
+      "char_start": 3781,
+      "char_end": 3827,
+      "dom_order": 37,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "llm_classification",
+      "label_confidence": 0.9,
+      "boundary_confidence": 0.9
+    },
+    "edges": [
+      {
+        "relation_type": "SOLVES",
+        "target_id": "node_NV9_CTST_V2_56_blk34"
+      }
+    ]
+  },
+  {
+    "node_id": "node_NV9_CTST_V2_56_blk38",
+    "node_label": "Solution",
+    "pedagogical_policy": {
+      "direct_exposure_to_student": "restricted"
+    },
+    "raw_text": "* Cách giải quyết của cha tôi đối với sự kiện thứ hai:",
+    "contextualized_text": "SGK Ngữ Văn 9 Tập 2 CTST, Unit_6, trang 56. Lời giải: * Cách giải quyết của cha tôi đối với sự kiện thứ hai:",
+    "grounding": {
+      "source_document_id": "doc_NV9_CTST_V2_56",
+      "char_start": 3828,
+      "char_end": 3882,
+      "dom_order": 38,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "llm_classification",
+      "label_confidence": 0.98,
+      "boundary_confidence": 0.9
+    },
+    "edges": [
+      {
+        "relation_type": "SOLVES",
+        "target_id": "node_NV9_CTST_V2_56_blk34"
+      }
+    ]
+  },
+  {
+    "node_id": "node_NV9_CTST_V2_56_blk39",
+    "node_label": "Passage_Span",
+    "metadata": {
+      "book_id": "NV9_CTST_V2",
+      "unit_id": "Unit_6",
+      "module_type": "Module_Writing",
+      "page_start": 56
+    },
+    "raw_text": "- Cha tôi cảm động, lấy thêm tiền biếu bác.",
+    "contextualized_text": "SGK Ngữ Văn 9 Tập 2 CTST, Unit_6, trang 56. Ngữ liệu: - Cha tôi cảm động, lấy thêm tiền biếu bác.",
+    "grounding": {
+      "source_document_id": "doc_NV9_CTST_V2_56",
+      "char_start": 3883,
+      "char_end": 3926,
+      "dom_order": 39,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "llm_classification",
+      "label_confidence": 0.98,
+      "boundary_confidence": 0.9
+    },
+    "edges": []
+  },
+  {
+    "node_id": "node_NV9_CTST_V2_56_blk40",
+    "node_label": "Solution",
+    "pedagogical_policy": {
+      "direct_exposure_to_student": "restricted"
+    },
+    "raw_text": "- Cách giải quyết này đã thể hiện lòng biết ơn và trân trọng với công sức người lao động. Đồng thời đó cũng là sự giáo dục tốt đẹp mà cha dành cho con.",
+    "contextualized_text": "SGK Ngữ Văn 9 Tập 2 CTST, Unit_6, trang 56. Lời giải: - Cách giải quyết này đã thể hiện lòng biết ơn và trân trọng với công sức người lao động. Đồng thời đó cũng là sự giáo dục tốt đẹp mà cha dành cho con.",
+    "grounding": {
+      "source_document_id": "doc_NV9_CTST_V2_56",
+      "char_start": 3927,
+      "char_end": 4078,
+      "dom_order": 40,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "llm_classification",
+      "label_confidence": 0.98,
+      "boundary_confidence": 0.9
+    },
+    "edges": [
+      {
+        "relation_type": "SOLVES",
+        "target_id": "node_NV9_CTST_V2_56_blk34"
+      }
+    ]
+  },
+  {
+    "node_id": "node_NV9_CTST_V2_56_blk41",
+    "node_label": "Question",
+    "metadata": {
+      "book_id": "NV9_CTST_V2",
+      "unit_id": "Unit_6",
+      "module_type": "Module_Writing",
+      "page_start": 56
+    },
+    "question_metadata": {
+      "requires_source_text": true
+    },
+    "raw_text": "Câu 6 (trang 57 sgk Ngữ văn 9 Tập 2): Nêu tác dụng của việc kết hợp giữa tự sự với miêu tả, biểu cảm trong truyện.",
+    "contextualized_text": "SGK Ngữ Văn 9 Tập 2 CTST, Unit_6, trang 56. Câu hỏi: Câu 6 (trang 57 sgk Ngữ văn 9 Tập 2): Nêu tác dụng của việc kết hợp giữa tự sự với miêu tả, biểu cảm trong truyện.",
+    "grounding": {
+      "source_document_id": "doc_NV9_CTST_V2_56",
+      "char_start": 4079,
+      "char_end": 4193,
+      "dom_order": 41,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "rule_based",
+      "label_confidence": 1.0,
+      "boundary_confidence": 0.9
+    },
+    "edges": []
+  },
+  {
+    "node_id": "node_NV9_CTST_V2_56_blk43",
+    "node_label": "Solution",
+    "pedagogical_policy": {
+      "direct_exposure_to_student": "restricted"
+    },
+    "raw_text": "- Tạo ra một tác phẩm văn học phong phú và sâu sắc hơn.",
+    "contextualized_text": "SGK Ngữ Văn 9 Tập 2 CTST, Unit_6, trang 56. Lời giải: - Tạo ra một tác phẩm văn học phong phú và sâu sắc hơn.",
+    "grounding": {
+      "source_document_id": "doc_NV9_CTST_V2_56",
+      "char_start": 4253,
+      "char_end": 4308,
+      "dom_order": 43,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "llm_classification",
+      "label_confidence": 0.9,
+      "boundary_confidence": 0.9
+    },
+    "edges": [
+      {
+        "relation_type": "SOLVES",
+        "target_id": "node_NV9_CTST_V2_56_blk41"
+      }
+    ]
+  },
+  {
+    "node_id": "node_NV9_CTST_V2_56_blk46",
+    "node_label": "Question",
+    "metadata": {
+      "book_id": "NV9_CTST_V2",
+      "unit_id": "Unit_6",
+      "module_type": "Module_Writing",
+      "page_start": 56
+    },
+    "question_metadata": {
+      "requires_source_text": true
+    },
+    "raw_text": "Câu 7 (trang 57 sgk Ngữ văn 9 Tập 2): Em rút ra được những lưu ý gì khi viết một truyện kể sáng tạo?",
+    "contextualized_text": "SGK Ngữ Văn 9 Tập 2 CTST, Unit_6, trang 56. Câu hỏi: Câu 7 (trang 57 sgk Ngữ văn 9 Tập 2): Em rút ra được những lưu ý gì khi viết một truyện kể sáng tạo?",
+    "grounding": {
+      "source_document_id": "doc_NV9_CTST_V2_56",
+      "char_start": 4595,
+      "char_end": 4695,
+      "dom_order": 46,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "rule_based",
+      "label_confidence": 1.0,
+      "boundary_confidence": 0.9
+    },
+    "edges": []
+  },
+  {
+    "node_id": "node_NV9_CTST_V2_56_blk48",
+    "node_label": "Question",
+    "metadata": {
+      "book_id": "NV9_CTST_V2",
+      "unit_id": "Unit_6",
+      "module_type": "Module_Writing",
+      "page_start": 56
+    },
+    "question_metadata": {
+      "requires_source_text": true
+    },
+    "raw_text": "- Xác định chủ đề và nội dung",
+    "contextualized_text": "SGK Ngữ Văn 9 Tập 2 CTST, Unit_6, trang 56. Câu hỏi: - Xác định chủ đề và nội dung",
+    "grounding": {
+      "source_document_id": "doc_NV9_CTST_V2_56",
+      "char_start": 4765,
+      "char_end": 4794,
+      "dom_order": 48,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "llm_classification",
+      "label_confidence": 0.9,
+      "boundary_confidence": 0.9
+    },
+    "edges": []
+  },
+  {
+    "node_id": "node_NV9_CTST_V2_56_blk53",
+    "node_label": "Question",
+    "metadata": {
+      "book_id": "NV9_CTST_V2",
+      "unit_id": "Unit_6",
+      "module_type": "Module_Writing",
+      "page_start": 56
+    },
+    "question_metadata": {
+      "requires_source_text": true
+    },
+    "raw_text": "Đề bài (trang 57 sgk Ngữ văn 9 Tập 2): Kể một câu chuyện mà em tưởng tượng trong đó có sử dụng yếu tố miêu tả, biểu cảm.",
+    "contextualized_text": "SGK Ngữ Văn 9 Tập 2 CTST, Unit_6, trang 56. Câu hỏi: Đề bài (trang 57 sgk Ngữ văn 9 Tập 2): Kể một câu chuyện mà em tưởng tượng trong đó có sử dụng yếu tố miêu tả, biểu cảm.",
+    "grounding": {
+      "source_document_id": "doc_NV9_CTST_V2_56",
+      "char_start": 5114,
+      "char_end": 5234,
+      "dom_order": 53,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "llm_classification",
+      "label_confidence": 1.0,
+      "boundary_confidence": 0.9
+    },
+    "edges": []
+  },
+  {
+    "node_id": "node_NV9_CTST_V2_56_blk59",
+    "node_label": "Question",
+    "metadata": {
+      "book_id": "NV9_CTST_V2",
+      "unit_id": "Unit_6",
+      "module_type": "Module_Writing",
+      "page_start": 56
+    },
+    "question_metadata": {
+      "requires_source_text": true
+    },
+    "raw_text": "- Mục đích kể chuyện là gì?",
+    "contextualized_text": "SGK Ngữ Văn 9 Tập 2 CTST, Unit_6, trang 56. Câu hỏi: - Mục đích kể chuyện là gì?",
+    "grounding": {
+      "source_document_id": "doc_NV9_CTST_V2_56",
+      "char_start": 5698,
+      "char_end": 5725,
+      "dom_order": 59,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "llm_classification",
+      "label_confidence": 1.0,
+      "boundary_confidence": 0.9
+    },
+    "edges": []
+  },
+  {
+    "node_id": "node_NV9_CTST_V2_56_blk60",
+    "node_label": "Question",
+    "metadata": {
+      "book_id": "NV9_CTST_V2",
+      "unit_id": "Unit_6",
+      "module_type": "Module_Writing",
+      "page_start": 56
+    },
+    "question_metadata": {
+      "requires_source_text": true
+    },
+    "raw_text": "- Người đọc truyện này có thể là những ai? Họ có thể nhận được thông điệp, bài học nào từ câu chuyện?",
+    "contextualized_text": "SGK Ngữ Văn 9 Tập 2 CTST, Unit_6, trang 56. Câu hỏi: - Người đọc truyện này có thể là những ai? Họ có thể nhận được thông điệp, bài học nào từ câu chuyện?",
+    "grounding": {
+      "source_document_id": "doc_NV9_CTST_V2_56",
+      "char_start": 5726,
+      "char_end": 5827,
+      "dom_order": 60,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "llm_classification",
+      "label_confidence": 0.98,
+      "boundary_confidence": 0.9
+    },
+    "edges": []
+  },
+  {
+    "node_id": "node_NV9_CTST_V2_56_blk61",
+    "node_label": "Question",
+    "metadata": {
+      "book_id": "NV9_CTST_V2",
+      "unit_id": "Unit_6",
+      "module_type": "Module_Writing",
+      "page_start": 56
+    },
+    "question_metadata": {
+      "requires_source_text": true
+    },
+    "raw_text": "- Với mục đích và người đọc đó, nội dung truyện (sự kiện, chi tiết, nhân vật, đề tài, chủ đề) và cách kể chuyện (ngôi kể, sử dụng yếu tố miêu tả, biểu cảm) sẽ như thế nào?",
+    "contextualized_text": "SGK Ngữ Văn 9 Tập 2 CTST, Unit_6, trang 56. Câu hỏi: - Với mục đích và người đọc đó, nội dung truyện (sự kiện, chi tiết, nhân vật, đề tài, chủ đề) và cách kể chuyện (ngôi kể, sử dụng yếu tố miêu tả, biểu cảm) sẽ như thế nào?",
+    "grounding": {
+      "source_document_id": "doc_NV9_CTST_V2_56",
+      "char_start": 5828,
+      "char_end": 5999,
+      "dom_order": 61,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "llm_classification",
+      "label_confidence": 0.98,
+      "boundary_confidence": 0.9
+    },
+    "edges": []
+  },
+  {
+    "node_id": "node_NV9_CTST_V2_56_blk65",
+    "node_label": "Question",
+    "metadata": {
+      "book_id": "NV9_CTST_V2",
+      "unit_id": "Unit_6",
+      "module_type": "Module_Writing",
+      "page_start": 56
+    },
+    "question_metadata": {
+      "requires_source_text": true
+    },
+    "raw_text": "• Đọc lại các ghi chép và điền thông tin vào phiếu học tập sau (làm vào vở):",
+    "contextualized_text": "SGK Ngữ Văn 9 Tập 2 CTST, Unit_6, trang 56. Câu hỏi: • Đọc lại các ghi chép và điền thông tin vào phiếu học tập sau (làm vào vở):",
+    "grounding": {
+      "source_document_id": "doc_NV9_CTST_V2_56",
+      "char_start": 6257,
+      "char_end": 6333,
+      "dom_order": 65,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "llm_classification",
+      "label_confidence": 0.95,
+      "boundary_confidence": 0.9
+    },
+    "edges": []
+  },
+  {
+    "node_id": "node_NV9_CTST_V2_56_blk66",
+    "node_label": "Question",
+    "metadata": {
+      "book_id": "NV9_CTST_V2",
+      "unit_id": "Unit_6",
+      "module_type": "Module_Writing",
+      "page_start": 56
+    },
+    "question_metadata": {
+      "requires_source_text": true
+    },
+    "raw_text": "• Từ các ý đã tìm, em hãy chọn những ý tiêu biểu và sắp xếp thành dàn ý theo một trình tự hợp lí.",
+    "contextualized_text": "SGK Ngữ Văn 9 Tập 2 CTST, Unit_6, trang 56. Câu hỏi: • Từ các ý đã tìm, em hãy chọn những ý tiêu biểu và sắp xếp thành dàn ý theo một trình tự hợp lí.",
+    "grounding": {
+      "source_document_id": "doc_NV9_CTST_V2_56",
+      "char_start": 6334,
+      "char_end": 6431,
+      "dom_order": 66,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "llm_classification",
+      "label_confidence": 0.98,
+      "boundary_confidence": 0.9
+    },
+    "edges": []
+  },
+  {
+    "node_id": "node_NV9_CTST_V2_56_blk75",
+    "node_label": "Passage_Span",
+    "metadata": {
+      "book_id": "NV9_CTST_V2",
+      "unit_id": "Unit_6",
+      "module_type": "Module_Writing",
+      "page_start": 56
+    },
+    "raw_text": "Năm nay tôi, được lên lớp 9 bố mẹ giao hẹn nếu năm nay tôi được học sinh giỏi bố mẹ sẽ cho ra biển chơi một tuần. Tôi nhủ thầm sẽ cố gắng học thật tốt để có được chuyến đi chơi đầy hấp dẫn đó. Qua một năm phấn đấu, cuối năm học tôi được công nhận là học sinh giỏi, không những vậy mà còn đứng đầu lớp về thành tích học tập. Bố mẹ tôi vô cùng phấn khởi khi thấy tôi học hành giỏi giang và đúng như lời hẹn, đầu tháng 7 bố đưa cả nhà đi biển.",
+    "contextualized_text": "SGK Ngữ Văn 9 Tập 2 CTST, Unit_6, trang 56. Ngữ liệu: Năm nay tôi, được lên lớp 9 bố mẹ giao hẹn nếu năm nay tôi được học sinh giỏi bố mẹ sẽ cho ra biển chơi một tuần. Tôi nhủ thầm sẽ cố gắng học thật tốt để có được chuyến đi chơi đầy hấp dẫn đó. Qua một năm phấn đấu, cuối năm học tôi được công nhận là học sinh giỏi, không những vậy mà còn đứng đầu lớp về thành tích học tập. Bố mẹ tôi vô cùng phấn khởi khi thấy tôi học hành giỏi giang và đúng như lời hẹn, đầu tháng 7 bố đưa cả nhà đi biển.",
+    "grounding": {
+      "source_document_id": "doc_NV9_CTST_V2_56",
+      "char_start": 7128,
+      "char_end": 7568,
+      "dom_order": 75,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "llm_classification",
+      "label_confidence": 0.98,
+      "boundary_confidence": 0.9
+    },
+    "edges": []
+  },
+  {
+    "node_id": "node_NV9_CTST_V2_56_blk76",
+    "node_label": "Passage_Span",
+    "metadata": {
+      "book_id": "NV9_CTST_V2",
+      "unit_id": "Unit_6",
+      "module_type": "Module_Writing",
+      "page_start": 56
+    },
+    "raw_text": "Chiếc xe bon bon đưa gia đình tôi ra thành phố biển, trước mắt tôi biển hiện ra xanh thẳm, bình yên, từng con sóng bạc đầu nối đuôi nhau nô đùa với bờ cát dài phẳng lặng.",
+    "contextualized_text": "SGK Ngữ Văn 9 Tập 2 CTST, Unit_6, trang 56. Ngữ liệu: Chiếc xe bon bon đưa gia đình tôi ra thành phố biển, trước mắt tôi biển hiện ra xanh thẳm, bình yên, từng con sóng bạc đầu nối đuôi nhau nô đùa với bờ cát dài phẳng lặng.",
+    "grounding": {
+      "source_document_id": "doc_NV9_CTST_V2_56",
+      "char_start": 7569,
+      "char_end": 7739,
+      "dom_order": 76,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "llm_classification",
+      "label_confidence": 1.0,
+      "boundary_confidence": 0.9
+    },
+    "edges": []
+  },
+  {
+    "node_id": "node_NV9_CTST_V2_56_blk77",
+    "node_label": "Passage_Span",
+    "metadata": {
+      "book_id": "NV9_CTST_V2",
+      "unit_id": "Unit_6",
+      "module_type": "Module_Writing",
+      "page_start": 56
+    },
+    "raw_text": "Sau một hồi dập dềnh cùng sóng biển, cả nhà tôi cắm trại trên một hòn đảo nhỏ. Giữa bốn biển mênh mông, đưa mắt nhìn ra xa tôi thấy cảnh vật thật nên thơ, hiền hoà, chợt tôi liên tưởng đến hình ảnh cô Út trong truyện cổ tích Sọ Dừa khi bị dạt vào đảo hoang, vừa nghĩ đến cô Út tôi đã thấy trước mắt có một túp lều nhỏ, xem ra rất sơ sài như mới vừa dựng tạm, và phía ngoài cửa có một cô gái xinh đẹp, dịu dàng đang ngóng về phía xa xa.",
+    "contextualized_text": "SGK Ngữ Văn 9 Tập 2 CTST, Unit_6, trang 56. Ngữ liệu: Sau một hồi dập dềnh cùng sóng biển, cả nhà tôi cắm trại trên một hòn đảo nhỏ. Giữa bốn biển mênh mông, đưa mắt nhìn ra xa tôi thấy cảnh vật thật nên thơ, hiền hoà, chợt tôi liên tưởng đến hình ảnh cô Út trong truyện cổ tích Sọ Dừa khi bị dạt vào đảo hoang, vừa nghĩ đến cô Út tôi đã thấy trước mắt có một túp lều nhỏ, xem ra rất sơ sài như mới vừa dựng tạm, và phía ngoài cửa có một cô gái xinh đẹp, dịu dàng đang ngóng về phía xa xa.",
+    "grounding": {
+      "source_document_id": "doc_NV9_CTST_V2_56",
+      "char_start": 7740,
+      "char_end": 8175,
+      "dom_order": 77,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "llm_classification",
+      "label_confidence": 0.98,
+      "boundary_confidence": 0.9
+    },
+    "edges": []
+  },
+  {
+    "node_id": "node_NV9_CTST_V2_56_blk78",
+    "node_label": "Passage_Span",
+    "metadata": {
+      "book_id": "NV9_CTST_V2",
+      "unit_id": "Unit_6",
+      "module_type": "Module_Writing",
+      "page_start": 56
+    },
+    "raw_text": "- Chào cháu bé! Cháu đi đâu vậy?",
+    "contextualized_text": "SGK Ngữ Văn 9 Tập 2 CTST, Unit_6, trang 56. Ngữ liệu: - Chào cháu bé! Cháu đi đâu vậy?",
+    "grounding": {
+      "source_document_id": "doc_NV9_CTST_V2_56",
+      "char_start": 8176,
+      "char_end": 8208,
+      "dom_order": 78,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "llm_classification",
+      "label_confidence": 0.98,
+      "boundary_confidence": 0.9
+    },
+    "edges": []
+  },
+  {
+    "node_id": "node_NV9_CTST_V2_56_blk79",
+    "node_label": "Passage_Span",
+    "metadata": {
+      "book_id": "NV9_CTST_V2",
+      "unit_id": "Unit_6",
+      "module_type": "Module_Writing",
+      "page_start": 56
+    },
+    "raw_text": "- Cháu đi dạo và ngắm biển cô ạ.",
+    "contextualized_text": "SGK Ngữ Văn 9 Tập 2 CTST, Unit_6, trang 56. Ngữ liệu: - Cháu đi dạo và ngắm biển cô ạ.",
+    "grounding": {
+      "source_document_id": "doc_NV9_CTST_V2_56",
+      "char_start": 8209,
+      "char_end": 8241,
+      "dom_order": 79,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "llm_classification",
+      "label_confidence": 0.98,
+      "boundary_confidence": 0.9
+    },
+    "edges": []
+  },
+  {
+    "node_id": "node_NV9_CTST_V2_56_blk80",
+    "node_label": "Passage_Span",
+    "metadata": {
+      "book_id": "NV9_CTST_V2",
+      "unit_id": "Unit_6",
+      "module_type": "Module_Writing",
+      "page_start": 56
+    },
+    "raw_text": "- Chắc cô cũng đi du lịch như gia đình cháu?",
+    "contextualized_text": "SGK Ngữ Văn 9 Tập 2 CTST, Unit_6, trang 56. Ngữ liệu: - Chắc cô cũng đi du lịch như gia đình cháu?",
+    "grounding": {
+      "source_document_id": "doc_NV9_CTST_V2_56",
+      "char_start": 8242,
+      "char_end": 8286,
+      "dom_order": 80,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "llm_classification",
+      "label_confidence": 0.98,
+      "boundary_confidence": 0.9
+    },
+    "edges": []
+  },
+  {
+    "node_id": "node_NV9_CTST_V2_56_blk81",
+    "node_label": "Passage_Span",
+    "metadata": {
+      "book_id": "NV9_CTST_V2",
+      "unit_id": "Unit_6",
+      "module_type": "Module_Writing",
+      "page_start": 56
+    },
+    "raw_text": "- Không cô bị lạc vào nơi này đã mấy tuần rồi!",
+    "contextualized_text": "SGK Ngữ Văn 9 Tập 2 CTST, Unit_6, trang 56. Ngữ liệu: - Không cô bị lạc vào nơi này đã mấy tuần rồi!",
+    "grounding": {
+      "source_document_id": "doc_NV9_CTST_V2_56",
+      "char_start": 8287,
+      "char_end": 8333,
+      "dom_order": 81,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "llm_classification",
+      "label_confidence": 0.98,
+      "boundary_confidence": 0.9
+    },
+    "edges": []
+  },
+  {
+    "node_id": "node_NV9_CTST_V2_56_blk82",
+    "node_label": "Passage_Span",
+    "metadata": {
+      "book_id": "NV9_CTST_V2",
+      "unit_id": "Unit_6",
+      "module_type": "Module_Writing",
+      "page_start": 56
+    },
+    "raw_text": "- Cháu thấy cô rất quen, dường như cháu đã gặp cô ở đâu rồi.",
+    "contextualized_text": "SGK Ngữ Văn 9 Tập 2 CTST, Unit_6, trang 56. Ngữ liệu: - Cháu thấy cô rất quen, dường như cháu đã gặp cô ở đâu rồi.",
+    "grounding": {
+      "source_document_id": "doc_NV9_CTST_V2_56",
+      "char_start": 8334,
+      "char_end": 8394,
+      "dom_order": 82,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "llm_classification",
+      "label_confidence": 0.98,
+      "boundary_confidence": 0.9
+    },
+    "edges": []
+  },
+  {
+    "node_id": "node_NV9_CTST_V2_56_blk83",
+    "node_label": "Passage_Span",
+    "metadata": {
+      "book_id": "NV9_CTST_V2",
+      "unit_id": "Unit_6",
+      "module_type": "Module_Writing",
+      "page_start": 56
+    },
+    "raw_text": "- Thế cháu học lớp mấy rồi?",
+    "contextualized_text": "SGK Ngữ Văn 9 Tập 2 CTST, Unit_6, trang 56. Ngữ liệu: - Thế cháu học lớp mấy rồi?",
+    "grounding": {
+      "source_document_id": "doc_NV9_CTST_V2_56",
+      "char_start": 8395,
+      "char_end": 8422,
+      "dom_order": 83,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "llm_classification",
+      "label_confidence": 0.95,
+      "boundary_confidence": 0.9
+    },
+    "edges": []
+  },
+  {
+    "node_id": "node_NV9_CTST_V2_56_blk84",
+    "node_label": "Passage_Span",
+    "metadata": {
+      "book_id": "NV9_CTST_V2",
+      "unit_id": "Unit_6",
+      "module_type": "Module_Writing",
+      "page_start": 56
+    },
+    "raw_text": "- Dạ. Cháu học lớp 9 rồi cô ạ. Mà cô biết không cháu được đọc rất nhiều truyện cổ tích.",
+    "contextualized_text": "SGK Ngữ Văn 9 Tập 2 CTST, Unit_6, trang 56. Ngữ liệu: - Dạ. Cháu học lớp 9 rồi cô ạ. Mà cô biết không cháu được đọc rất nhiều truyện cổ tích.",
+    "grounding": {
+      "source_document_id": "doc_NV9_CTST_V2_56",
+      "char_start": 8423,
+      "char_end": 8510,
+      "dom_order": 84,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "llm_classification",
+      "label_confidence": 0.98,
+      "boundary_confidence": 0.9
+    },
+    "edges": []
+  },
+  {
+    "node_id": "node_NV9_CTST_V2_56_blk85",
+    "node_label": "Passage_Span",
+    "metadata": {
+      "book_id": "NV9_CTST_V2",
+      "unit_id": "Unit_6",
+      "module_type": "Module_Writing",
+      "page_start": 56
+    },
+    "raw_text": "- Thế cháu có thích truyện Sọ Dừa không?",
+    "contextualized_text": "SGK Ngữ Văn 9 Tập 2 CTST, Unit_6, trang 56. Ngữ liệu: - Thế cháu có thích truyện Sọ Dừa không?",
+    "grounding": {
+      "source_document_id": "doc_NV9_CTST_V2_56",
+      "char_start": 8511,
+      "char_end": 8551,
+      "dom_order": 85,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "llm_classification",
+      "label_confidence": 0.98,
+      "boundary_confidence": 0.9
+    },
+    "edges": []
+  },
+  {
+    "node_id": "node_NV9_CTST_V2_56_blk86",
+    "node_label": "Passage_Span",
+    "metadata": {
+      "book_id": "NV9_CTST_V2",
+      "unit_id": "Unit_6",
+      "module_type": "Module_Writing",
+      "page_start": 56
+    },
+    "raw_text": "- Cháu thích lắm cô ạ. Và trong các nhân vật đó cháu thích nhất cô út vừa hiền lành vừa tốt bụng. Mà cháu thấy cô giống cô Út lắm hay chính cô là....",
+    "contextualized_text": "SGK Ngữ Văn 9 Tập 2 CTST, Unit_6, trang 56. Ngữ liệu: - Cháu thích lắm cô ạ. Và trong các nhân vật đó cháu thích nhất cô út vừa hiền lành vừa tốt bụng. Mà cháu thấy cô giống cô Út lắm hay chính cô là....",
+    "grounding": {
+      "source_document_id": "doc_NV9_CTST_V2_56",
+      "char_start": 8552,
+      "char_end": 8701,
+      "dom_order": 86,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "llm_classification",
+      "label_confidence": 0.98,
+      "boundary_confidence": 0.9
+    },
+    "edges": []
+  },
+  {
+    "node_id": "node_NV9_CTST_V2_56_blk87",
+    "node_label": "Passage_Span",
+    "metadata": {
+      "book_id": "NV9_CTST_V2",
+      "unit_id": "Unit_6",
+      "module_type": "Module_Writing",
+      "page_start": 56
+    },
+    "raw_text": "- Đúng rồi cháu ạ. Cô đang ở đây chờ thuyền trạng đi sứ về cứu cô.",
+    "contextualized_text": "SGK Ngữ Văn 9 Tập 2 CTST, Unit_6, trang 56. Ngữ liệu: - Đúng rồi cháu ạ. Cô đang ở đây chờ thuyền trạng đi sứ về cứu cô.",
+    "grounding": {
+      "source_document_id": "doc_NV9_CTST_V2_56",
+      "char_start": 8702,
+      "char_end": 8768,
+      "dom_order": 87,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "llm_classification",
+      "label_confidence": 0.98,
+      "boundary_confidence": 0.9
+    },
+    "edges": []
+  },
+  {
+    "node_id": "node_NV9_CTST_V2_56_blk88",
+    "node_label": "Passage_Span",
+    "metadata": {
+      "book_id": "NV9_CTST_V2",
+      "unit_id": "Unit_6",
+      "module_type": "Module_Writing",
+      "page_start": 56
+    },
+    "raw_text": "Ôi thích thật, tôi không thể ngờ lại được gặp cô út ở đây, lại đúng lúc cô đang phải sống cô đơn ngoài đảo vắng. Cô Út quả thật đáng thương.",
+    "contextualized_text": "SGK Ngữ Văn 9 Tập 2 CTST, Unit_6, trang 56. Ngữ liệu: Ôi thích thật, tôi không thể ngờ lại được gặp cô út ở đây, lại đúng lúc cô đang phải sống cô đơn ngoài đảo vắng. Cô Út quả thật đáng thương.",
+    "grounding": {
+      "source_document_id": "doc_NV9_CTST_V2_56",
+      "char_start": 8769,
+      "char_end": 8909,
+      "dom_order": 88,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "llm_classification",
+      "label_confidence": 0.98,
+      "boundary_confidence": 0.9
+    },
+    "edges": []
+  },
+  {
+    "node_id": "node_NV9_CTST_V2_56_blk89",
+    "node_label": "Passage_Span",
+    "metadata": {
+      "book_id": "NV9_CTST_V2",
+      "unit_id": "Unit_6",
+      "module_type": "Module_Writing",
+      "page_start": 56
+    },
+    "raw_text": "- Cô ơi! những ngày ở đây cô có buồn không?",
+    "contextualized_text": "SGK Ngữ Văn 9 Tập 2 CTST, Unit_6, trang 56. Ngữ liệu: - Cô ơi! những ngày ở đây cô có buồn không?",
+    "grounding": {
+      "source_document_id": "doc_NV9_CTST_V2_56",
+      "char_start": 8910,
+      "char_end": 8953,
+      "dom_order": 89,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "llm_classification",
+      "label_confidence": 0.98,
+      "boundary_confidence": 0.9
+    },
+    "edges": []
+  },
+  {
+    "node_id": "node_NV9_CTST_V2_56_blk90",
+    "node_label": "Passage_Span",
+    "metadata": {
+      "book_id": "NV9_CTST_V2",
+      "unit_id": "Unit_6",
+      "module_type": "Module_Writing",
+      "page_start": 56
+    },
+    "raw_text": "Cô út nhìn tôi và nói:",
+    "contextualized_text": "SGK Ngữ Văn 9 Tập 2 CTST, Unit_6, trang 56. Ngữ liệu: Cô út nhìn tôi và nói:",
+    "grounding": {
+      "source_document_id": "doc_NV9_CTST_V2_56",
+      "char_start": 8954,
+      "char_end": 8976,
+      "dom_order": 90,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "llm_classification",
+      "label_confidence": 0.98,
+      "boundary_confidence": 0.9
+    },
+    "edges": []
+  },
+  {
+    "node_id": "node_NV9_CTST_V2_56_blk91",
+    "node_label": "Passage_Span",
+    "metadata": {
+      "book_id": "NV9_CTST_V2",
+      "unit_id": "Unit_6",
+      "module_type": "Module_Writing",
+      "page_start": 56
+    },
+    "raw_text": "- Buồn và nhớ nhà lắm cháu à! Suốt ngày cô cứ thui thủi một mình hết trong lều lại ra bờ biển ngóng thuyền trạng đi qua. May có hai chú gà làm bạn cũng đỡ đi phần nào.",
+    "contextualized_text": "SGK Ngữ Văn 9 Tập 2 CTST, Unit_6, trang 56. Ngữ liệu: - Buồn và nhớ nhà lắm cháu à! Suốt ngày cô cứ thui thủi một mình hết trong lều lại ra bờ biển ngóng thuyền trạng đi qua. May có hai chú gà làm bạn cũng đỡ đi phần nào.",
+    "grounding": {
+      "source_document_id": "doc_NV9_CTST_V2_56",
+      "char_start": 8977,
+      "char_end": 9144,
+      "dom_order": 91,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "llm_classification",
+      "label_confidence": 0.98,
+      "boundary_confidence": 0.9
+    },
+    "edges": []
+  },
+  {
+    "node_id": "node_NV9_CTST_V2_56_blk92",
+    "node_label": "Passage_Span",
+    "metadata": {
+      "book_id": "NV9_CTST_V2",
+      "unit_id": "Unit_6",
+      "module_type": "Module_Writing",
+      "page_start": 56
+    },
+    "raw_text": "- Thế cô ăn bằng gì ạ?",
+    "contextualized_text": "SGK Ngữ Văn 9 Tập 2 CTST, Unit_6, trang 56. Ngữ liệu: - Thế cô ăn bằng gì ạ?",
+    "grounding": {
+      "source_document_id": "doc_NV9_CTST_V2_56",
+      "char_start": 9145,
+      "char_end": 9167,
+      "dom_order": 92,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "llm_classification",
+      "label_confidence": 0.98,
+      "boundary_confidence": 0.9
+    },
+    "edges": []
+  },
+  {
+    "node_id": "node_NV9_CTST_V2_56_blk93",
+    "node_label": "Passage_Span",
+    "metadata": {
+      "book_id": "NV9_CTST_V2",
+      "unit_id": "Unit_6",
+      "module_type": "Module_Writing",
+      "page_start": 56
+    },
+    "raw_text": "- Dạo đầu cô xẻ thịt con cá kình nướng ăn, bây giờ cô bắt cá tươi ở biển làm thức ăn cho qua ngày.",
+    "contextualized_text": "SGK Ngữ Văn 9 Tập 2 CTST, Unit_6, trang 56. Ngữ liệu: - Dạo đầu cô xẻ thịt con cá kình nướng ăn, bây giờ cô bắt cá tươi ở biển làm thức ăn cho qua ngày.",
+    "grounding": {
+      "source_document_id": "doc_NV9_CTST_V2_56",
+      "char_start": 9168,
+      "char_end": 9266,
+      "dom_order": 93,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "llm_classification",
+      "label_confidence": 0.98,
+      "boundary_confidence": 0.9
+    },
+    "edges": []
+  },
+  {
+    "node_id": "node_NV9_CTST_V2_56_blk94",
+    "node_label": "Passage_Span",
+    "metadata": {
+      "book_id": "NV9_CTST_V2",
+      "unit_id": "Unit_6",
+      "module_type": "Module_Writing",
+      "page_start": 56
+    },
+    "raw_text": "- Cô ơi! Cô có giận hai người chị của mình không?",
+    "contextualized_text": "SGK Ngữ Văn 9 Tập 2 CTST, Unit_6, trang 56. Ngữ liệu: - Cô ơi! Cô có giận hai người chị của mình không?",
+    "grounding": {
+      "source_document_id": "doc_NV9_CTST_V2_56",
+      "char_start": 9267,
+      "char_end": 9316,
+      "dom_order": 94,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "llm_classification",
+      "label_confidence": 0.98,
+      "boundary_confidence": 0.9
+    },
+    "edges": []
+  },
+  {
+    "node_id": "node_NV9_CTST_V2_56_blk95",
+    "node_label": "Passage_Span",
+    "metadata": {
+      "book_id": "NV9_CTST_V2",
+      "unit_id": "Unit_6",
+      "module_type": "Module_Writing",
+      "page_start": 56
+    },
+    "raw_text": "- Cô cũng giận họ nhưng dẫu sao họ cũng là những người ruột thịt của cô. Cô tin rằng sau này họ sẽ hối hận về việc làm sai trái này. Và chị em cô sẽ hoà thuận, yêu thương nhau như xưa.",
+    "contextualized_text": "SGK Ngữ Văn 9 Tập 2 CTST, Unit_6, trang 56. Ngữ liệu: - Cô cũng giận họ nhưng dẫu sao họ cũng là những người ruột thịt của cô. Cô tin rằng sau này họ sẽ hối hận về việc làm sai trái này. Và chị em cô sẽ hoà thuận, yêu thương nhau như xưa.",
+    "grounding": {
+      "source_document_id": "doc_NV9_CTST_V2_56",
+      "char_start": 9317,
+      "char_end": 9501,
+      "dom_order": 95,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "llm_classification",
+      "label_confidence": 0.98,
+      "boundary_confidence": 0.9
+    },
+    "edges": []
+  },
+  {
+    "node_id": "node_NV9_CTST_V2_56_blk96",
+    "node_label": "Passage_Span",
+    "metadata": {
+      "book_id": "NV9_CTST_V2",
+      "unit_id": "Unit_6",
+      "module_type": "Module_Writing",
+      "page_start": 56
+    },
+    "raw_text": "- Cô cho cháu hỏi điều này nhé. Sao cô lại đồng ý lấy chàng Sọ Dừa vừa xấu vừa nghèo?",
+    "contextualized_text": "SGK Ngữ Văn 9 Tập 2 CTST, Unit_6, trang 56. Ngữ liệu: - Cô cho cháu hỏi điều này nhé. Sao cô lại đồng ý lấy chàng Sọ Dừa vừa xấu vừa nghèo?",
+    "grounding": {
+      "source_document_id": "doc_NV9_CTST_V2_56",
+      "char_start": 9502,
+      "char_end": 9587,
+      "dom_order": 96,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "llm_classification",
+      "label_confidence": 0.98,
+      "boundary_confidence": 0.9
+    },
+    "edges": []
+  },
+  {
+    "node_id": "node_NV9_CTST_V2_56_blk97",
+    "node_label": "Solution",
+    "pedagogical_policy": {
+      "direct_exposure_to_student": "restricted"
+    },
+    "raw_text": "- Bởi cô biết Sọ Dừa là một người tốt và hơn nữa cô tin rằng những người tốt sẽ luôn gặp được nhiều may mắn và hạnh phúc trong cuộc sống.",
+    "contextualized_text": "SGK Ngữ Văn 9 Tập 2 CTST, Unit_6, trang 56. Lời giải: - Bởi cô biết Sọ Dừa là một người tốt và hơn nữa cô tin rằng những người tốt sẽ luôn gặp được nhiều may mắn và hạnh phúc trong cuộc sống.",
+    "grounding": {
+      "source_document_id": "doc_NV9_CTST_V2_56",
+      "char_start": 9588,
+      "char_end": 9725,
+      "dom_order": 97,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "llm_classification",
+      "label_confidence": 0.9,
+      "boundary_confidence": 0.9
+    },
+    "edges": [
+      {
+        "relation_type": "SOLVES",
+        "target_id": "node_NV9_CTST_V2_56_blk66"
+      }
+    ]
+  },
+  {
+    "node_id": "node_NV9_CTST_V2_56_blk98",
+    "node_label": "Passage_Span",
+    "metadata": {
+      "book_id": "NV9_CTST_V2",
+      "unit_id": "Unit_6",
+      "module_type": "Module_Writing",
+      "page_start": 56
+    },
+    "raw_text": "- Vậy cháu chúc vợ chồng cô mau chóng đoàn tụ và hạnh phúc.",
+    "contextualized_text": "SGK Ngữ Văn 9 Tập 2 CTST, Unit_6, trang 56. Ngữ liệu: - Vậy cháu chúc vợ chồng cô mau chóng đoàn tụ và hạnh phúc.",
+    "grounding": {
+      "source_document_id": "doc_NV9_CTST_V2_56",
+      "char_start": 9726,
+      "char_end": 9785,
+      "dom_order": 98,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "llm_classification",
+      "label_confidence": 0.98,
+      "boundary_confidence": 0.9
+    },
+    "edges": []
+  },
+  {
+    "node_id": "node_NV9_CTST_V2_56_blk99",
+    "node_label": "Passage_Span",
+    "metadata": {
+      "book_id": "NV9_CTST_V2",
+      "unit_id": "Unit_6",
+      "module_type": "Module_Writing",
+      "page_start": 56
+    },
+    "raw_text": "Tôi vừa dứt lời bỗng thấy ai đó khẽ lay lay vào người, hoá ra là mẹ tôi:",
+    "contextualized_text": "SGK Ngữ Văn 9 Tập 2 CTST, Unit_6, trang 56. Ngữ liệu: Tôi vừa dứt lời bỗng thấy ai đó khẽ lay lay vào người, hoá ra là mẹ tôi:",
+    "grounding": {
+      "source_document_id": "doc_NV9_CTST_V2_56",
+      "char_start": 9786,
+      "char_end": 9858,
+      "dom_order": 99,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "llm_classification",
+      "label_confidence": 1.0,
+      "boundary_confidence": 0.9
+    },
+    "edges": []
+  },
+  {
+    "node_id": "node_NV9_CTST_V2_56_blk100",
+    "node_label": "Passage_Span",
+    "metadata": {
+      "book_id": "NV9_CTST_V2",
+      "unit_id": "Unit_6",
+      "module_type": "Module_Writing",
+      "page_start": 56
+    },
+    "raw_text": "- Mẹ ơi con vừa mơ một giấc mơ tuyệt đẹp!",
+    "contextualized_text": "SGK Ngữ Văn 9 Tập 2 CTST, Unit_6, trang 56. Ngữ liệu: - Mẹ ơi con vừa mơ một giấc mơ tuyệt đẹp!",
+    "grounding": {
+      "source_document_id": "doc_NV9_CTST_V2_56",
+      "char_start": 9859,
+      "char_end": 9900,
+      "dom_order": 100,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "llm_classification",
+      "label_confidence": 0.98,
+      "boundary_confidence": 0.9
+    },
+    "edges": []
+  },
+  {
+    "node_id": "node_NV9_CTST_V2_56_blk101",
+    "node_label": "Passage_Span",
+    "metadata": {
+      "book_id": "NV9_CTST_V2",
+      "unit_id": "Unit_6",
+      "module_type": "Module_Writing",
+      "page_start": 56
+    },
+    "raw_text": "Mẹ mắng yêu tôi: “Vừa ngồi nghỉ một lát đã ngủ tít rồi”. Tôi mỉm cười sung sướng và kể lại cho mẹ nghe giấc mơ vừa rồi. Nghe xong mẹ nói:",
+    "contextualized_text": "SGK Ngữ Văn 9 Tập 2 CTST, Unit_6, trang 56. Ngữ liệu: Mẹ mắng yêu tôi: “Vừa ngồi nghỉ một lát đã ngủ tít rồi”. Tôi mỉm cười sung sướng và kể lại cho mẹ nghe giấc mơ vừa rồi. Nghe xong mẹ nói:",
+    "grounding": {
+      "source_document_id": "doc_NV9_CTST_V2_56",
+      "char_start": 9901,
+      "char_end": 10038,
+      "dom_order": 101,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "llm_classification",
+      "label_confidence": 0.98,
+      "boundary_confidence": 0.9
+    },
+    "edges": []
+  },
+  {
+    "node_id": "node_NV9_CTST_V2_56_blk102",
+    "node_label": "Passage_Span",
+    "metadata": {
+      "book_id": "NV9_CTST_V2",
+      "unit_id": "Unit_6",
+      "module_type": "Module_Writing",
+      "page_start": 56
+    },
+    "raw_text": "- Ở hiền rồi sẽ gặp lành con ạ. Bây giờ mẹ con ta đi kẻo bố đợi.",
+    "contextualized_text": "SGK Ngữ Văn 9 Tập 2 CTST, Unit_6, trang 56. Ngữ liệu: - Ở hiền rồi sẽ gặp lành con ạ. Bây giờ mẹ con ta đi kẻo bố đợi.",
+    "grounding": {
+      "source_document_id": "doc_NV9_CTST_V2_56",
+      "char_start": 10039,
+      "char_end": 10103,
+      "dom_order": 102,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "llm_classification",
+      "label_confidence": 0.98,
+      "boundary_confidence": 0.9
+    },
+    "edges": []
+  },
+  {
+    "node_id": "node_NV9_CTST_V2_56_blk103",
+    "node_label": "Passage_Span",
+    "metadata": {
+      "book_id": "NV9_CTST_V2",
+      "unit_id": "Unit_6",
+      "module_type": "Module_Writing",
+      "page_start": 56
+    },
+    "raw_text": "Trên đường về trong đầu tôi còn vương vấn mãi hình ảnh cô út hiền lành, dễ thương. Ngoài kia biển như đẹp và nên thơ hơn.",
+    "contextualized_text": "SGK Ngữ Văn 9 Tập 2 CTST, Unit_6, trang 56. Ngữ liệu: Trên đường về trong đầu tôi còn vương vấn mãi hình ảnh cô út hiền lành, dễ thương. Ngoài kia biển như đẹp và nên thơ hơn.",
+    "grounding": {
+      "source_document_id": "doc_NV9_CTST_V2_56",
+      "char_start": 10104,
+      "char_end": 10225,
+      "dom_order": 103,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "llm_classification",
+      "label_confidence": 0.98,
+      "boundary_confidence": 0.9
+    },
+    "edges": []
+  },
+  {
+    "node_id": "node_NV9_CTST_V2_56_blk107",
+    "node_label": "Question",
+    "metadata": {
+      "book_id": "NV9_CTST_V2",
+      "unit_id": "Unit_6",
+      "module_type": "Module_Writing",
+      "page_start": 56
+    },
+    "question_metadata": {
+      "requires_source_text": true
+    },
+    "raw_text": "• Đọc lại truyện từ vai trò người đọc và trả lời hai câu hỏi sau:",
+    "contextualized_text": "SGK Ngữ Văn 9 Tập 2 CTST, Unit_6, trang 56. Câu hỏi: • Đọc lại truyện từ vai trò người đọc và trả lời hai câu hỏi sau:",
+    "grounding": {
+      "source_document_id": "doc_NV9_CTST_V2_56",
+      "char_start": 10444,
+      "char_end": 10509,
+      "dom_order": 107,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "llm_classification",
+      "label_confidence": 0.98,
+      "boundary_confidence": 0.9
+    },
+    "edges": []
+  },
+  {
+    "node_id": "node_NV9_CTST_V2_56_blk108",
+    "node_label": "Question",
+    "metadata": {
+      "book_id": "NV9_CTST_V2",
+      "unit_id": "Unit_6",
+      "module_type": "Module_Writing",
+      "page_start": 56
+    },
+    "question_metadata": {
+      "requires_source_text": true
+    },
+    "raw_text": "Câu 1 (trang 60 sgk Ngữ văn 9 Tập 2): Điều làm em thích nhất ở truyện này là gì?",
+    "contextualized_text": "SGK Ngữ Văn 9 Tập 2 CTST, Unit_6, trang 56. Câu hỏi: Câu 1 (trang 60 sgk Ngữ văn 9 Tập 2): Điều làm em thích nhất ở truyện này là gì?",
+    "grounding": {
+      "source_document_id": "doc_NV9_CTST_V2_56",
+      "char_start": 10510,
+      "char_end": 10590,
+      "dom_order": 108,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "rule_based",
+      "label_confidence": 1.0,
+      "boundary_confidence": 0.9
+    },
+    "edges": []
+  },
+  {
+    "node_id": "node_NV9_CTST_V2_56_blk109",
+    "node_label": "Solution",
+    "pedagogical_policy": {
+      "direct_exposure_to_student": "restricted"
+    },
+    "raw_text": "Điều làm em thích nhất ở truyện là nhân vật: tôi : tôi kể lại câu chuyện trong một giấc mơ, gặp một nhân vật trong truyện cổ tích.",
+    "contextualized_text": "SGK Ngữ Văn 9 Tập 2 CTST, Unit_6, trang 56. Lời giải: Điều làm em thích nhất ở truyện là nhân vật: tôi : tôi kể lại câu chuyện trong một giấc mơ, gặp một nhân vật trong truyện cổ tích.",
+    "grounding": {
+      "source_document_id": "doc_NV9_CTST_V2_56",
+      "char_start": 10591,
+      "char_end": 10721,
+      "dom_order": 109,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "llm_classification",
+      "label_confidence": 0.98,
+      "boundary_confidence": 0.9
+    },
+    "edges": [
+      {
+        "relation_type": "SOLVES",
+        "target_id": "node_NV9_CTST_V2_56_blk108"
+      }
+    ]
+  },
+  {
+    "node_id": "node_NV9_CTST_V2_56_blk110",
+    "node_label": "Question",
+    "metadata": {
+      "book_id": "NV9_CTST_V2",
+      "unit_id": "Unit_6",
+      "module_type": "Module_Writing",
+      "page_start": 56
+    },
+    "question_metadata": {
+      "requires_source_text": true
+    },
+    "raw_text": "Câu 2 (trang 60 sgk Ngữ văn 9 Tập 2): Cần chỉnh sửa, bổ sung những gì để câu chuyện sinh động, hấp dẫn hơn?",
+    "contextualized_text": "SGK Ngữ Văn 9 Tập 2 CTST, Unit_6, trang 56. Câu hỏi: Câu 2 (trang 60 sgk Ngữ văn 9 Tập 2): Cần chỉnh sửa, bổ sung những gì để câu chuyện sinh động, hấp dẫn hơn?",
+    "grounding": {
+      "source_document_id": "doc_NV9_CTST_V2_56",
+      "char_start": 10722,
+      "char_end": 10829,
+      "dom_order": 110,
+      "tag_name": "p"
+    },
+    "extraction": {
+      "method": "rule_based",
+      "label_confidence": 1.0,
+      "boundary_confidence": 0.9
+    },
+    "edges": []
+  }
+]

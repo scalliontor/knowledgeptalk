@@ -1,0 +1,752 @@
+"""
+STRUCTURE-BASED RETRIEVAL PIPELINE
+====================================
+Đây là phần thiếu trong các file trước - code retrieval thực tế.
+
+Triết lý: Retrieval không phải là "vector search". 
+Retrieval = Query Understanding → Metadata Filter → (optional) Vector Search → Rerank
+
+Flow:
+    User query
+      ↓
+    Query Classifier (LLM or rule)  ← Phân loại intent
+      ↓
+    Route to specialized retriever
+      ├─ SQL-only retriever       (factual lookups)
+      ├─ Filtered vector retriever (concept search)  
+      ├─ Structured retriever      (outline lookup)
+      └─ No retrieval              (chitchat)
+      ↓
+    Assemble context
+      ↓
+    Generate response
+"""
+
+import json
+import re
+from dataclasses import dataclass, field
+from enum import Enum
+from typing import Optional
+
+import psycopg2
+from psycopg2.extras import RealDictCursor
+from qdrant_client import QdrantClient
+from qdrant_client.models import Filter, FieldCondition, MatchValue, MatchAny, Range
+
+
+# ============================================================
+# QUERY TAXONOMY
+# ============================================================
+class QueryIntent(str, Enum):
+    # Factual lookup - cần chính xác
+    LOOKUP_READING = "lookup_reading"           # "Bài Lượm có câu gì?"
+    LOOKUP_CURRICULUM = "lookup_curriculum"     # "Tuần này con học bài gì?"
+    LOOKUP_SPECIFIC = "lookup_specific"         # "Bài 5 trang 20 lớp 3"
+    
+    # Conceptual - hiểu khái niệm
+    EXPLAIN_CONCEPT = "explain_concept"         # "Từ ghép là gì?"
+    SPELLING_RULE = "spelling_rule"             # "Khi nào viết 'l', khi nào 'n'?"
+    
+    # Writing help
+    WRITING_OUTLINE = "writing_outline"         # "Tả con mèo bắt đầu thế nào?"
+    WRITING_SAMPLE = "writing_sample"           # "Cho em xem bài tả cây mẫu"
+    WRITING_FEEDBACK = "writing_feedback"       # User paste bài, xin góp ý
+    
+    # Reading comprehension
+    CHARACTER_INFO = "character_info"           # "Tấm trong truyện làm gì?"
+    STORY_SUMMARY = "story_summary"             # "Tóm tắt bài XYZ"
+    
+    # Social / chitchat - KHÔNG retrieve
+    GREETING = "greeting"
+    ENCOURAGEMENT = "encouragement"
+    OFF_TOPIC = "off_topic"
+
+
+@dataclass
+class QueryContext:
+    """Thông tin rút ra từ query + user profile."""
+    raw_query: str
+    intent: QueryIntent
+    
+    # Extracted entities
+    grade: Optional[int] = None              # Lớp mấy
+    book_series: Optional[str] = None        # 'KNTT', 'CTST', 'CD'
+    subject: Optional[str] = None
+    lesson_name: Optional[str] = None        # "Lượm", "Hạt gạo làng ta"
+    author: Optional[str] = None
+    concept: Optional[str] = None            # "từ ghép", "dấu phẩy"
+    writing_type: Optional[str] = None       # "ta_cay", "ke_chuyen"
+    page: Optional[int] = None
+    week: Optional[int] = None
+    
+    # User profile context (từ memory)
+    user_grade: Optional[int] = None
+    user_book_series: Optional[str] = None
+    
+    confidence: float = 1.0
+
+
+@dataclass
+class RetrievedItem:
+    """Một đơn vị kiến thức retrieved."""
+    source: str              # Collection/table nguồn
+    id: str                  # ID trong DB
+    title: str
+    content: str
+    score: float             # Relevance score
+    metadata: dict = field(default_factory=dict)
+
+
+# ============================================================
+# QUERY CLASSIFIER
+# ============================================================
+class QueryClassifier:
+    """
+    Phân loại query → intent + extract entities.
+    
+    Dùng LLM rẻ (Haiku / Gemini Flash). 
+    Có rule-based fast path cho các pattern rõ ràng.
+    """
+    
+    # Rule-based patterns - fast path, không tốn LLM call
+    GREETING_PATTERNS = [
+        r'^(chào|hi|hello|xin chào|chị ơi|anh ơi)\s*[\.\!\?]*$',
+        r'^(con|em|mình)\s+(đây|đến rồi|về rồi)',
+    ]
+    
+    WEEK_LOOKUP_PATTERNS = [
+        r'tuần\s+(này|nay|hiện tại).*học.*gì',
+        r'hôm nay.*học.*bài\s+gì',
+    ]
+    
+    SPECIFIC_LESSON_PATTERNS = [
+        r'bài\s+(\d+).*trang\s+(\d+)',
+        r'trang\s+(\d+).*lớp\s+(\d+)',
+    ]
+    
+    CONCEPT_PATTERNS = [
+        r'(từ ghép|từ láy|danh từ|động từ|tính từ|câu kể|câu hỏi|câu cảm|dấu\s+\w+)\s+là\s+gì',
+        r'phân biệt\s+(\w+)\s+(và|với)\s+(\w+)',
+        r'khi nào (viết|dùng)',
+    ]
+    
+    WRITING_PATTERNS = [
+        r'(tả|kể|viết|miêu tả).*(con|cây|người|cảnh|chuyện)',
+        r'không biết (tả|kể|viết|làm)',
+        r'giúp em (tả|kể|viết)',
+        r'bài văn.*mẫu',
+        r'dàn ý',
+    ]
+    
+    def __init__(self, llm_client=None):
+        self.llm = llm_client
+    
+    def classify(self, query: str, user_profile: Optional[dict] = None) -> QueryContext:
+        """Main entry point - kết hợp rule + LLM."""
+        query_lower = query.lower().strip()
+        user_profile = user_profile or {}
+        
+        # Fast path: rule-based cho các pattern rõ ràng
+        fast_result = self._try_rule_based(query_lower)
+        if fast_result:
+            fast_result.user_grade = user_profile.get("lop")
+            fast_result.user_book_series = user_profile.get("bo_sach_chinh")
+            return fast_result
+        
+        # Slow path: LLM classifier cho các query phức tạp
+        return self._llm_classify(query, user_profile)
+    
+    def _try_rule_based(self, query: str) -> Optional[QueryContext]:
+        """Rule-based classification - nhanh, chỉ cho patterns rõ ràng."""
+        
+        # Greeting
+        for pat in self.GREETING_PATTERNS:
+            if re.search(pat, query):
+                return QueryContext(raw_query=query, intent=QueryIntent.GREETING)
+        
+        # Week lookup
+        for pat in self.WEEK_LOOKUP_PATTERNS:
+            if re.search(pat, query):
+                return QueryContext(raw_query=query, intent=QueryIntent.LOOKUP_CURRICULUM)
+        
+        # Specific lesson with page number
+        for pat in self.SPECIFIC_LESSON_PATTERNS:
+            m = re.search(pat, query)
+            if m:
+                ctx = QueryContext(raw_query=query, intent=QueryIntent.LOOKUP_SPECIFIC)
+                # Extract numbers
+                numbers = [int(x) for x in re.findall(r'\d+', query)]
+                if len(numbers) >= 1:
+                    ctx.page = numbers[0]
+                if 'lớp' in query:
+                    grade_m = re.search(r'lớp\s+(\d+)', query)
+                    if grade_m:
+                        ctx.grade = int(grade_m.group(1))
+                return ctx
+        
+        # Concept explanation
+        for pat in self.CONCEPT_PATTERNS:
+            m = re.search(pat, query)
+            if m:
+                ctx = QueryContext(raw_query=query, intent=QueryIntent.EXPLAIN_CONCEPT)
+                ctx.concept = m.group(1) if m.groups() else None
+                return ctx
+        
+        # Writing help
+        for pat in self.WRITING_PATTERNS:
+            if re.search(pat, query):
+                ctx = QueryContext(raw_query=query, intent=QueryIntent.WRITING_OUTLINE)
+                # Try to detect writing type
+                if re.search(r'tả.*cây', query):
+                    ctx.writing_type = "ta_cay"
+                elif re.search(r'tả.*con\s+\w+', query):
+                    ctx.writing_type = "ta_con_vat"
+                elif re.search(r'tả.*người', query):
+                    ctx.writing_type = "ta_nguoi"
+                elif re.search(r'kể.*chuyện', query):
+                    ctx.writing_type = "ke_chuyen"
+                return ctx
+        
+        return None  # Không match rule nào → fallback LLM
+    
+    def _llm_classify(self, query: str, user_profile: dict) -> QueryContext:
+        """LLM-based classification cho queries không match rule."""
+        prompt = f"""Phân loại câu hỏi của học sinh tiểu học. Trả về JSON chính xác format.
+
+Câu hỏi: "{query}"
+Thông tin học sinh: lớp {user_profile.get('lop', '?')}, bộ sách {user_profile.get('bo_sach_chinh', '?')}
+
+Các intent có thể:
+- lookup_reading: hỏi về nội dung 1 bài đọc cụ thể
+- lookup_curriculum: hỏi chương trình tuần/tháng
+- explain_concept: hỏi khái niệm ngữ pháp
+- writing_outline: xin hướng dẫn viết văn
+- writing_sample: xin bài văn mẫu
+- character_info: hỏi về nhân vật trong truyện
+- story_summary: xin tóm tắt
+- greeting: chào hỏi
+- encouragement: xin động viên
+- off_topic: không liên quan học tập
+
+Trả về JSON:
+{{
+  "intent": "...",
+  "grade": số hoặc null,
+  "book_series": "KNTT|CTST|CD" hoặc null,
+  "lesson_name": "tên bài" hoặc null,
+  "concept": "khái niệm ngữ pháp" hoặc null,
+  "writing_type": "ta_cay|ta_con_vat|ta_nguoi|ke_chuyen" hoặc null,
+  "confidence": 0.0-1.0
+}}"""
+        
+        # TODO: implement actual LLM call
+        # response = self.llm.complete(prompt)
+        # parsed = json.loads(response)
+        
+        # Placeholder
+        return QueryContext(
+            raw_query=query,
+            intent=QueryIntent.OFF_TOPIC,
+            confidence=0.5,
+        )
+
+
+# ============================================================
+# SPECIALIZED RETRIEVERS
+# ============================================================
+
+class CurriculumRetriever:
+    """
+    Retrieve chương trình học theo tuần.
+    CHỈ dùng SQL - không vector search.
+    """
+    
+    def __init__(self, pg_conn):
+        self.conn = pg_conn
+    
+    def get_current_week_lessons(self, grade: int, book_series: str, week: int) -> list[RetrievedItem]:
+        """Lookup bài học của 1 tuần cụ thể."""
+        with self.conn.cursor(cursor_factory=RealDictCursor) as cur:
+            cur.execute("""
+                SELECT cs.*, kr.noi_dung_goc, kr.tom_tat, kr.tac_gia
+                FROM curriculum_schedule cs
+                LEFT JOIN kb_sgk_reading kr ON kr.id = cs.bai_doc_id
+                WHERE cs.lop = %s 
+                  AND cs.bo_sach = %s
+                  AND cs.tuan = %s
+            """, (grade, book_series, week))
+            rows = cur.fetchall()
+        
+        items = []
+        for row in rows:
+            items.append(RetrievedItem(
+                source="curriculum_schedule",
+                id=str(row["id"]),
+                title=f"Tuần {row['tuan']}: {row['chu_diem']}",
+                content=f"Chủ điểm: {row['chu_diem']}\nBài đọc: {row['bai_doc_chinh']}\n" +
+                        (row['tom_tat'] or ''),
+                score=1.0,  # Exact match, không cần similarity
+                metadata=dict(row),
+            ))
+        return items
+
+
+class SGKReadingRetriever:
+    """
+    Retrieve bài đọc SGK.
+    2 chế độ:
+    - Exact: biết tên bài → SQL lookup
+    - Fuzzy: mô tả nội dung → vector search với filter
+    """
+    
+    def __init__(self, pg_conn, qdrant_client: QdrantClient, embed_fn):
+        self.conn = pg_conn
+        self.qdrant = qdrant_client
+        self.embed = embed_fn
+        self.collection = "sgk_readings"
+    
+    def exact_lookup(self, lesson_name: str, grade: Optional[int] = None, 
+                     book_series: Optional[str] = None) -> list[RetrievedItem]:
+        """
+        Exact SQL lookup - dùng khi biết chắc tên bài.
+        Nhanh hơn, chính xác hơn vector search.
+        """
+        conditions = ["ten_bai ILIKE %s"]
+        params = [f"%{lesson_name}%"]
+        
+        if grade:
+            conditions.append("lop = %s")
+            params.append(grade)
+        if book_series:
+            conditions.append("bo_sach = %s")
+            params.append(book_series)
+        
+        sql = f"""
+            SELECT * FROM kb_sgk_reading
+            WHERE {' AND '.join(conditions)}
+            ORDER BY 
+              CASE WHEN ten_bai ILIKE %s THEN 0 ELSE 1 END,  -- Exact match first
+              lop
+            LIMIT 5
+        """
+        params.append(lesson_name)  # For exact-match ordering
+        
+        with self.conn.cursor(cursor_factory=RealDictCursor) as cur:
+            cur.execute(sql, params)
+            rows = cur.fetchall()
+        
+        return [
+            RetrievedItem(
+                source="kb_sgk_reading",
+                id=str(row["id"]),
+                title=row["ten_bai"],
+                content=row["noi_dung_goc"],
+                score=1.0 if row["ten_bai"].lower() == lesson_name.lower() else 0.8,
+                metadata={
+                    "tac_gia": row["tac_gia"],
+                    "the_loai": row["the_loai"],
+                    "lop": row["lop"],
+                    "bo_sach": row["bo_sach"],
+                    "trang": row["trang"],
+                    "tuan": row["tuan"],
+                },
+            )
+            for row in rows
+        ]
+    
+    def semantic_search(self, query: str, grade: Optional[int] = None,
+                        book_series: Optional[str] = None, 
+                        top_k: int = 5) -> list[RetrievedItem]:
+        """
+        Vector search VỚI METADATA FILTER.
+        Đây mới là structure-based retrieval thật.
+        
+        Khác biệt quan trọng so với "semantic chunking" bạn ghét:
+        - Filter bằng metadata TRƯỚC (lớp, bộ sách) → giảm không gian search
+        - Mỗi bài đọc = 1 vector (không chunk bài ra)
+        - Vector search chỉ để rank trong không gian đã filter
+        """
+        query_vector = self.embed(query)
+        
+        # BUILD FILTER từ structured metadata
+        must_conditions = []
+        
+        if grade is not None:
+            must_conditions.append(
+                FieldCondition(key="lop", match=MatchValue(value=grade))
+            )
+        
+        if book_series is not None:
+            must_conditions.append(
+                FieldCondition(key="bo_sach", match=MatchValue(value=book_series))
+            )
+        
+        qdrant_filter = Filter(must=must_conditions) if must_conditions else None
+        
+        # Vector search với filter
+        results = self.qdrant.search(
+            collection_name=self.collection,
+            query_vector=query_vector,
+            query_filter=qdrant_filter,
+            limit=top_k,
+            with_payload=True,
+        )
+        
+        # Hydrate full content từ PostgreSQL
+        # (Qdrant payload chỉ chứa metadata, không chứa full text để giảm kích thước)
+        pg_ids = [int(r.payload["pg_id"]) for r in results]
+        with self.conn.cursor(cursor_factory=RealDictCursor) as cur:
+            cur.execute(
+                "SELECT * FROM kb_sgk_reading WHERE id = ANY(%s)",
+                (pg_ids,)
+            )
+            rows_by_id = {row["id"]: row for row in cur.fetchall()}
+        
+        items = []
+        for r in results:
+            pg_row = rows_by_id.get(int(r.payload["pg_id"]))
+            if not pg_row:
+                continue
+            items.append(RetrievedItem(
+                source="kb_sgk_reading",
+                id=str(pg_row["id"]),
+                title=pg_row["ten_bai"],
+                content=pg_row["noi_dung_goc"],
+                score=r.score,
+                metadata={
+                    "tac_gia": pg_row["tac_gia"],
+                    "lop": pg_row["lop"],
+                    "bo_sach": pg_row["bo_sach"],
+                    "trang": pg_row["trang"],
+                    "tuan": pg_row["tuan"],
+                },
+            ))
+        return items
+
+
+class LanguageConceptRetriever:
+    """Retrieve khái niệm ngôn ngữ - vector + filter theo grade."""
+    
+    def __init__(self, pg_conn, qdrant_client, embed_fn):
+        self.conn = pg_conn
+        self.qdrant = qdrant_client
+        self.embed = embed_fn
+        self.collection = "language_concepts"
+    
+    def retrieve(self, query: str, user_grade: Optional[int] = None, 
+                 top_k: int = 3) -> list[RetrievedItem]:
+        """
+        Tìm khái niệm phù hợp.
+        QUAN TRỌNG: filter theo grade để không trả khái niệm quá khó.
+        
+        Ví dụ: user lớp 2 hỏi "từ là gì?" → không retrieve "cấu tạo từ ghép đẳng lập" (lớp 5)
+        """
+        query_vector = self.embed(query)
+        
+        must_conditions = []
+        if user_grade is not None:
+            # Chỉ lấy khái niệm xuất hiện ở lớp ≤ user_grade
+            must_conditions.append(
+                FieldCondition(
+                    key="lop_xuat_hien_dau",
+                    range=Range(lte=user_grade),
+                )
+            )
+        
+        qdrant_filter = Filter(must=must_conditions) if must_conditions else None
+        
+        results = self.qdrant.search(
+            collection_name=self.collection,
+            query_vector=query_vector,
+            query_filter=qdrant_filter,
+            limit=top_k,
+        )
+        
+        pg_ids = [int(r.payload["pg_id"]) for r in results]
+        with self.conn.cursor(cursor_factory=RealDictCursor) as cur:
+            cur.execute("SELECT * FROM kb_language_concepts WHERE id = ANY(%s)", (pg_ids,))
+            rows_by_id = {row["id"]: row for row in cur.fetchall()}
+        
+        items = []
+        for r in results:
+            row = rows_by_id.get(int(r.payload["pg_id"]))
+            if not row:
+                continue
+            
+            # Format content với structure, không chỉ raw text
+            content = f"Khái niệm: {row['ten_khai_niem']}\n"
+            content += f"Định nghĩa: {row['dinh_nghia']}\n"
+            if row.get("vi_du"):
+                examples = json.dumps(row["vi_du"], ensure_ascii=False)
+                content += f"Ví dụ: {examples}"
+            
+            items.append(RetrievedItem(
+                source="kb_language_concepts",
+                id=str(row["id"]),
+                title=row["ten_khai_niem"],
+                content=content,
+                score=r.score,
+                metadata={"lop_xuat_hien": row["lop_xuat_hien_dau"]},
+            ))
+        return items
+
+
+class WritingOutlineRetriever:
+    """
+    Retrieve dàn ý cho tập làm văn.
+    Đây là nơi structure-based retrieval phát huy mạnh nhất.
+    KHÔNG vector search - chỉ exact match theo (dang_bai, lop).
+    """
+    
+    def __init__(self, pg_conn):
+        self.conn = pg_conn
+    
+    def retrieve(self, writing_type: str, grade: int) -> list[RetrievedItem]:
+        """
+        Lookup dàn ý chính xác theo dạng bài + lớp.
+        Không cần vector vì taxonomy dạng bài hữu hạn.
+        """
+        with self.conn.cursor(cursor_factory=RealDictCursor) as cur:
+            cur.execute("""
+                SELECT * FROM kb_writing_outlines
+                WHERE dang_bai = %s AND lop = %s
+                LIMIT 1
+            """, (writing_type, grade))
+            row = cur.fetchone()
+            
+            if not row:
+                # Fallback: tìm dàn ý cùng dạng, lớp gần nhất
+                cur.execute("""
+                    SELECT *, ABS(lop - %s) as distance
+                    FROM kb_writing_outlines
+                    WHERE dang_bai = %s
+                    ORDER BY distance ASC
+                    LIMIT 1
+                """, (grade, writing_type))
+                row = cur.fetchone()
+        
+        if not row:
+            return []
+        
+        # Format dàn ý thành text có cấu trúc cho LLM
+        cau_truc = row["cau_truc"] if isinstance(row["cau_truc"], dict) \
+                   else json.loads(row["cau_truc"])
+        
+        content_parts = [f"Dàn ý: {row['dang_bai']} (lớp {row['lop']})\n"]
+        
+        if "mo_bai" in cau_truc:
+            content_parts.append("MỞ BÀI:")
+            content_parts.append(f"  Gợi ý: {cau_truc['mo_bai'].get('goi_y', '')}")
+            for vd in cau_truc['mo_bai'].get('vi_du_cau', []):
+                content_parts.append(f"  Ví dụ: {vd}")
+        
+        if "than_bai" in cau_truc:
+            content_parts.append("\nTHÂN BÀI:")
+            tb = cau_truc["than_bai"]
+            if "ta_bao_quat" in tb:
+                content_parts.append("  Tả bao quát:")
+                for q in tb["ta_bao_quat"]:
+                    content_parts.append(f"    - {q}")
+            if "ta_chi_tiet" in tb:
+                content_parts.append("  Tả chi tiết:")
+                for q in tb["ta_chi_tiet"]:
+                    content_parts.append(f"    - {q}")
+        
+        if "ket_bai" in cau_truc:
+            content_parts.append("\nKẾT BÀI:")
+            content_parts.append(f"  Gợi ý: {cau_truc['ket_bai'].get('goi_y', '')}")
+        
+        return [RetrievedItem(
+            source="kb_writing_outlines",
+            id=str(row["id"]),
+            title=f"Dàn ý {row['dang_bai']}",
+            content="\n".join(content_parts),
+            score=1.0,
+            metadata={
+                "dang_bai": row["dang_bai"],
+                "lop": row["lop"],
+                "tu_vung_goi_y": row.get("tu_vung_goi_y", []),
+            },
+        )]
+
+
+# ============================================================
+# MAIN ORCHESTRATOR - ROUTING LOGIC
+# ============================================================
+class RAGOrchestrator:
+    """
+    Trái tim của structure-based RAG.
+    
+    Logic: Query intent → Router → Correct retriever(s) → Assembled context
+    
+    Khác biệt với "semantic chunk + vector search tất cả":
+    1. Không phải query nào cũng cần vector search
+    2. Filter metadata trước khi search
+    3. Mỗi loại content có retriever riêng
+    4. Chitchat KHÔNG retrieve
+    """
+    
+    def __init__(self, pg_conn, qdrant_client, embed_fn, classifier: QueryClassifier):
+        self.classifier = classifier
+        
+        # Specialized retrievers
+        self.curriculum_retriever = CurriculumRetriever(pg_conn)
+        self.reading_retriever = SGKReadingRetriever(pg_conn, qdrant_client, embed_fn)
+        self.concept_retriever = LanguageConceptRetriever(pg_conn, qdrant_client, embed_fn)
+        self.outline_retriever = WritingOutlineRetriever(pg_conn)
+    
+    def retrieve(self, query: str, user_profile: dict) -> tuple[QueryContext, list[RetrievedItem]]:
+        """Main entry. Trả về context + items."""
+        ctx = self.classifier.classify(query, user_profile)
+        
+        # Default fallback: dùng user profile cho grade/book nếu query không specify
+        effective_grade = ctx.grade or ctx.user_grade
+        effective_book = ctx.book_series or ctx.user_book_series
+        
+        items: list[RetrievedItem] = []
+        
+        # ROUTE theo intent - đây là structure-based decision
+        if ctx.intent in (QueryIntent.GREETING, QueryIntent.ENCOURAGEMENT, QueryIntent.OFF_TOPIC):
+            # Không retrieve gì - LLM tự trả lời conversationally
+            return ctx, []
+        
+        elif ctx.intent == QueryIntent.LOOKUP_CURRICULUM:
+            # Chỉ cần SQL, không cần vector
+            current_week = user_profile.get("tuan_hien_tai", 1)
+            if effective_grade and effective_book:
+                items = self.curriculum_retriever.get_current_week_lessons(
+                    effective_grade, effective_book, current_week
+                )
+        
+        elif ctx.intent == QueryIntent.LOOKUP_READING:
+            # Có tên bài → exact SQL trước
+            if ctx.lesson_name:
+                items = self.reading_retriever.exact_lookup(
+                    ctx.lesson_name, effective_grade, effective_book
+                )
+            # Không có tên → fallback vector search với filter
+            if not items:
+                items = self.reading_retriever.semantic_search(
+                    query, effective_grade, effective_book, top_k=3
+                )
+        
+        elif ctx.intent == QueryIntent.EXPLAIN_CONCEPT:
+            items = self.concept_retriever.retrieve(
+                query, user_grade=effective_grade, top_k=2
+            )
+        
+        elif ctx.intent == QueryIntent.WRITING_OUTLINE:
+            if ctx.writing_type and effective_grade:
+                items = self.outline_retriever.retrieve(ctx.writing_type, effective_grade)
+        
+        elif ctx.intent in (QueryIntent.CHARACTER_INFO, QueryIntent.STORY_SUMMARY):
+            # Cần bài đọc gốc để trả lời
+            items = self.reading_retriever.semantic_search(
+                query, effective_grade, effective_book, top_k=2
+            )
+        
+        return ctx, items
+    
+    def format_context_for_llm(self, items: list[RetrievedItem]) -> str:
+        """Format retrieved items thành context block cho LLM prompt."""
+        if not items:
+            return ""
+        
+        parts = ["=== KIẾN THỨC THAM KHẢO ==="]
+        for i, item in enumerate(items, 1):
+            parts.append(f"\n[{i}] Nguồn: {item.source} | {item.title}")
+            parts.append(item.content)
+        parts.append("\n=== HẾT ===\n")
+        return "\n".join(parts)
+
+
+# ============================================================
+# HYBRID SEARCH cho trường hợp phức tạp (BM25 + Vector)
+# ============================================================
+"""
+Với query phức tạp (mô tả nội dung bài đọc), vector search đơn thuần có thể miss.
+Hybrid search = BM25 keyword + Dense vector + Reciprocal Rank Fusion (RRF).
+
+PostgreSQL full-text search tiếng Việt:
+"""
+
+HYBRID_SEARCH_SQL = """
+-- BM25-like với ts_rank của PostgreSQL
+-- Cần tạo tsvector column trước:
+ALTER TABLE kb_sgk_reading ADD COLUMN search_vector tsvector;
+UPDATE kb_sgk_reading 
+SET search_vector = to_tsvector('simple', 
+    coalesce(ten_bai, '') || ' ' || 
+    coalesce(tac_gia, '') || ' ' || 
+    coalesce(noi_dung_goc, '')
+);
+CREATE INDEX idx_sgk_reading_search ON kb_sgk_reading USING GIN(search_vector);
+
+-- BM25 query
+SELECT id, ten_bai, ts_rank(search_vector, query) AS rank
+FROM kb_sgk_reading, plainto_tsquery('simple', %s) query
+WHERE search_vector @@ query
+  AND lop = %s AND bo_sach = %s
+ORDER BY rank DESC
+LIMIT 10;
+"""
+
+def reciprocal_rank_fusion(results_list: list[list[RetrievedItem]], k: int = 60) -> list[RetrievedItem]:
+    """
+    RRF: kết hợp kết quả từ nhiều retriever (BM25 + Vector).
+    Score = sum(1 / (k + rank_i)) cho mỗi source.
+    """
+    scores = {}
+    items_by_id = {}
+    
+    for results in results_list:
+        for rank, item in enumerate(results):
+            key = (item.source, item.id)
+            items_by_id[key] = item
+            scores[key] = scores.get(key, 0) + 1.0 / (k + rank + 1)
+    
+    # Sort by combined score
+    sorted_keys = sorted(scores.keys(), key=lambda k: scores[k], reverse=True)
+    
+    fused = []
+    for key in sorted_keys:
+        item = items_by_id[key]
+        item.score = scores[key]  # Override with RRF score
+        fused.append(item)
+    return fused
+
+
+# ============================================================
+# EXAMPLE USAGE
+# ============================================================
+if __name__ == "__main__":
+    """
+    Example flow:
+    
+    User: "Chị ơi, từ ghép là gì?"
+      ↓
+    Classifier detects: intent=EXPLAIN_CONCEPT, concept="từ ghép"
+      ↓
+    Router → LanguageConceptRetriever
+      ↓
+    Qdrant filter: lop_xuat_hien_dau <= user.grade (lớp 4)
+      ↓
+    Vector search top 2
+      ↓
+    Returns: Khái niệm "từ ghép" + định nghĩa + 3 ví dụ
+      ↓
+    LLM generates conversational response cho lớp 4
+    """
+    
+    # Pseudo setup
+    # pg_conn = psycopg2.connect(...)
+    # qdrant = QdrantClient(...)
+    # embed_fn = lambda text: embedding_model.encode(text)
+    # classifier = QueryClassifier(llm_client=...)
+    # orchestrator = RAGOrchestrator(pg_conn, qdrant, embed_fn, classifier)
+    
+    # user = {"lop": 4, "bo_sach_chinh": "KNTT", "tuan_hien_tai": 12}
+    # ctx, items = orchestrator.retrieve("Chị ơi từ ghép là gì?", user)
+    # context_str = orchestrator.format_context_for_llm(items)
+    # response = llm.complete(system_prompt + context_str + user_query)
+    pass

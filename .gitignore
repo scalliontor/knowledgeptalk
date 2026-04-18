@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Data files (raw crawl, large files)
+rag_edu/data/
+rag_edu/scripts/__pycache__/
+
+# Logs
+*.log
+rag_api.log
+api_server.log
+
+# Secrets
+.env
+*.env
+config/secrets.py
+
+# Virtual envs
+node_modules/
