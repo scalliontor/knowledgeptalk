@@ -36,6 +36,10 @@ CATEGORY_URLS = {
     (1, "KNTT"): "https://loigiaihay.com/sgk-toan-1-ket-noi-tri-thuc-c1139.html",
     (1, "CTST"): "https://loigiaihay.com/sgk-toan-1-chan-troi-sang-tao-c1141.html",
     (1, "CD"):   "https://loigiaihay.com/sgk-toan-1-canh-dieu-c1140.html",
+    # Lớp 2
+    (2, "KNTT"): "https://loigiaihay.com/sgk-toan-2-ket-noi-tri-thuc-c1234.html",
+    (2, "CTST"): "https://loigiaihay.com/sgk-toan-2-chan-troi-sang-tao-c1235.html",
+    (2, "CD"):   "https://loigiaihay.com/sgk-toan-2-canh-dieu-c1236.html",
     # Lớp 3
     (3, "KNTT"): "https://loigiaihay.com/sgk-toan-3-ket-noi-tri-thuc-c813.html",
     (3, "CTST"): "https://loigiaihay.com/sgk-toan-3-chan-troi-sang-tao-c860.html",
@@ -48,6 +52,10 @@ CATEGORY_URLS = {
     (5, "KNTT"): "https://loigiaihay.com/sgk-toan-5-ket-noi-tri-thuc-c1728.html",
     (5, "CTST"): "https://loigiaihay.com/sgk-toan-5-chan-troi-sang-tao-c1729.html",
     (5, "CD"):   "https://loigiaihay.com/sgk-toan-5-canh-dieu-c1730.html",
+    # Lớp 6
+    (6, "KNTT"): "https://loigiaihay.com/sgk-toan-6-ket-noi-tri-thuc-c599.html",
+    (6, "CTST"): "https://loigiaihay.com/sgk-toan-6-chan-troi-sang-tao-c601.html",
+    (6, "CD"):   "https://loigiaihay.com/sgk-toan-6-canh-dieu-c600.html",
     # Lớp 7
     (7, "KNTT"): "https://loigiaihay.com/sgk-toan-7-ket-noi-tri-thuc-c807.html",
     (7, "CTST"): "https://loigiaihay.com/sgk-toan-7-chan-troi-sang-tao-c808.html",

@@ -561,21 +561,150 @@ class GraphRetriever:
             print(f"[GraphRetriever] Lesson search error: {e}")
         return items
 
-    # ── Schema v2 stubs (activated when new graph schema is ingested) ────────
+    # ── Schema v2 (Grade → Subject → BookSeries → Unit → Lit/Lesson/Summary) ──
 
     def lookup_literature(self, title_query: str, series=None, grade: int = 9) -> list[RetrievedItem]:
-        """[STUB v2] Not active — schema v2 not yet ingested."""
-        return []
+        """V2: Tìm toàn văn tác phẩm theo tên bài (bi-directional CONTAINS match)."""
+        items = []
+        if not self._available or not self._driver:
+            return items
+        try:
+            # Match both: unit name within query, or query within unit name
+            base_cypher = """
+                MATCH (u:Unit)-[:HAS_LITERATURE]->(lit:LiteratureText){series_filter}
+                WHERE toLower($q) CONTAINS toLower(u.work_name)
+                   OR toLower(u.work_name) CONTAINS toLower($q)
+                   OR toLower(lit.title) CONTAINS toLower($q)
+                   OR toLower($q) CONTAINS toLower(lit.title)
+                RETURN lit.title AS title, lit.full_text AS content,
+                       lit.author AS author, lit.series AS series,
+                       lit.grade AS grade
+                ORDER BY
+                    CASE WHEN toLower($q) CONTAINS toLower(u.work_name) THEN 0 ELSE 1 END,
+                    size(u.work_name) DESC
+                LIMIT 2
+            """
+            if series:
+                cypher = base_cypher.replace("{series_filter}", " {series: $series}")
+                result = self._driver.session().run(cypher, q=title_query, series=series)
+            else:
+                cypher = base_cypher.replace("{series_filter}", "")
+                result = self._driver.session().run(cypher, q=title_query)
+
+            for r in result:
+                content = r["content"] or ""
+                if content:
+                    items.append(RetrievedItem(
+                        source=f"LiteratureText/{r['series']}",
+                        id=f"lit_{title_query[:20]}",
+                        title=r["title"],
+                        content=content,
+                        score=1.0
+                    ))
+        except Exception as e:
+            print(f"[GraphRetriever v2] lookup_literature error: {e}")
+        return items
+
 
     def lookup_lesson_guide(self, title_query: str, series=None, grade: int = 9) -> list[RetrievedItem]:
-        """[STUB v2] Not active — schema v2 not yet ingested."""
-        return []
+        """V2: Tìm soạn bài / hướng dẫn học theo tên tác phẩm (bi-directional CONTAINS)."""
+        items = []
+        if not self._available or not self._driver:
+            return items
+        try:
+            base_cypher = """
+                MATCH (u:Unit)-[:HAS_LESSON]->(lg:LessonGuide){series_filter}
+                WHERE toLower($q) CONTAINS toLower(u.work_name)
+                   OR toLower(u.work_name) CONTAINS toLower($q)
+                   OR toLower(lg.title) CONTAINS toLower($q)
+                   OR toLower($q) CONTAINS toLower(lg.title)
+                RETURN lg.title AS title, lg.content AS content, lg.series AS series
+                ORDER BY
+                    CASE WHEN toLower($q) CONTAINS toLower(u.work_name) THEN 0 ELSE 1 END,
+                    size(u.work_name) DESC
+                LIMIT 2
+            """
+            if series:
+                cypher = base_cypher.replace("{series_filter}", " {series: $series}")
+                result = self._driver.session().run(cypher, q=title_query, series=series)
+            else:
+                cypher = base_cypher.replace("{series_filter}", "")
+                result = self._driver.session().run(cypher, q=title_query)
+            for r in result:
+                content = r["content"] or ""
+                if content:
+                    items.append(RetrievedItem(
+                        source=f"LessonGuide/{r['series']}",
+                        id=f"lg_{title_query[:20]}",
+                        title=r["title"],
+                        content=content[:3000],
+                        score=0.9
+                    ))
+        except Exception as e:
+            print(f"[GraphRetriever v2] lookup_lesson_guide error: {e}")
+        return items
 
     def lookup_summary(self, title_query: str, series=None, grade: int = 9) -> list[RetrievedItem]:
-        """[STUB v2] Not active — schema v2 not yet ingested."""
-        return []
+        """V2: Tìm tóm tắt tác phẩm theo tên bài (bi-directional CONTAINS)."""
+        items = []
+        if not self._available or not self._driver:
+            return items
+        try:
+            base_cypher = """
+                MATCH (u:Unit)-[:HAS_SUMMARY]->(sm:Summary){series_filter}
+                WHERE toLower($q) CONTAINS toLower(u.work_name)
+                   OR toLower(u.work_name) CONTAINS toLower($q)
+                   OR toLower(sm.title) CONTAINS toLower($q)
+                   OR toLower($q) CONTAINS toLower(sm.title)
+                RETURN sm.title AS title, sm.content AS content, sm.series AS series
+                ORDER BY
+                    CASE WHEN toLower($q) CONTAINS toLower(u.work_name) THEN 0 ELSE 1 END,
+                    size(u.work_name) DESC
+                LIMIT 2
+            """
+            if series:
+                cypher = base_cypher.replace("{series_filter}", " {series: $series}")
+                result = self._driver.session().run(cypher, q=title_query, series=series)
+            else:
+                cypher = base_cypher.replace("{series_filter}", "")
+                result = self._driver.session().run(cypher, q=title_query)
+            for r in result:
+                content = r["content"] or ""
+                if content:
+                    items.append(RetrievedItem(
+                        source=f"Summary/{r['series']}",
+                        id=f"sm_{title_query[:20]}",
+                        title=r["title"],
+                        content=content,
+                        score=0.85
+                    ))
+        except Exception as e:
+            print(f"[GraphRetriever v2] lookup_summary error: {e}")
+        return items
 
     def fulltext_search(self, query: str, grade: int = 9, series=None, top_k: int = 3) -> list[RetrievedItem]:
-        """[STUB v2] Falls back to search_by_keyword."""
-        return self.search_by_keyword(query, top_k=top_k)
+        """V2: Fulltext search trên lesson_fulltext index (LessonGuide)."""
+        items = []
+        try:
+            cypher = """
+                CALL db.index.fulltext.queryNodes("lesson_fulltext", $q) YIELD node, score
+                RETURN node.title AS title, node.content AS content,
+                       node.series AS series, score
+                LIMIT $k
+            """
+            result = self._driver.session().run(cypher, q=query, k=top_k)
+            for r in result:
+                content = r["content"] or ""
+                items.append(RetrievedItem(
+                    source=f"LessonGuide_FT/{r['series']}",
+                    id=f"ft_{query[:20]}",
+                    title=r["title"],
+                    content=content[:2000],
+                    score=float(r["score"])
+                ))
+        except Exception as e:
+            print(f"[GraphRetriever v2] fulltext_search error: {e}, falling back to keyword search")
+            items = self.search_by_keyword(query, top_k=top_k)
+        return items
+
 
