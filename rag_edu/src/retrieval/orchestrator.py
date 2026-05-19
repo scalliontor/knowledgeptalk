@@ -61,31 +61,51 @@ class RAGOrchestrator:
         elif subject == "toan":
             # For Math, route to Math Retrievers
             ctx.intent = QueryIntent.LOOKUP_SPECIFIC
-            items = self.math_exercise_retriever.semantic_search(search_query, query_vector=query_vector, grade=effective_grade, top_k=3)
+            items = self.math_exercise_retriever.semantic_search(search_query, grade=effective_grade, top_k=3)
             
         elif subject == "khtn":
             ctx.intent = QueryIntent.LOOKUP_SPECIFIC
-            items = self.khtn_retriever.semantic_search(search_query, query_vector=query_vector, grade=effective_grade, top_k=3)
+            items = self.khtn_retriever.semantic_search(search_query, grade=effective_grade, top_k=3)
             
         elif subject in ["lich_su", "dia_li", "gdcd"]:
             ctx.intent = QueryIntent.LOOKUP_SPECIFIC
-            items = self.social_retriever.semantic_search(search_query, query_vector=query_vector, grade=effective_grade, top_k=3)
+            items = self.social_retriever.semantic_search(search_query, grade=effective_grade, top_k=3)
             
         elif subject == "ngu_van" or subject == "tieng_viet":
+            lesson = ctx.lesson_name or search_query
+
             if ctx.intent == QueryIntent.LOOKUP_READING:
-                # === Qdrant vector search (graph DB đang ở schema cũ) ===
-                if ctx.lesson_name:
-                    items = self.reading_retriever.exact_lookup(ctx.lesson_name, effective_grade, effective_book)
+                # === 1. Schema V2: tìm toàn văn tác phẩm ===
+                items = self.graph_retriever.lookup_literature(lesson, series=effective_book, grade=effective_grade or 9)
+
+                # === 2. Fallback: summary nếu không có toàn văn ===
                 if not items:
-                    items = self.reading_retriever.semantic_search(search_query, query_vector=query_vector, grade=effective_grade, book_series=effective_book, top_k=3)
+                    items = self.graph_retriever.lookup_summary(lesson, series=effective_book, grade=effective_grade or 9)
+
+                # === 3. Fallback: Qdrant vector search ===
+                if not items:
+                    if ctx.lesson_name:
+                        items = self.reading_retriever.exact_lookup(ctx.lesson_name, effective_grade, effective_book)
+                    if not items:
+                        items = self.reading_retriever.semantic_search(search_query, grade=effective_grade, book_series=effective_book, top_k=3)
 
             elif ctx.intent == QueryIntent.EXPLAIN_CONCEPT:
-                items = self.concept_retriever.retrieve(query, query_vector=query_vector, user_grade=effective_grade, top_k=2)
+                items = self.concept_retriever.retrieve(query, user_grade=effective_grade, top_k=2)
             elif ctx.intent == QueryIntent.WRITING_OUTLINE:
                 if ctx.writing_type and effective_grade:
                     items = self.outline_retriever.retrieve(ctx.writing_type, effective_grade)
-            elif ctx.intent in (QueryIntent.CHARACTER_INFO, QueryIntent.STORY_SUMMARY, QueryIntent.WRITING_SAMPLE):
-                items = self.reading_retriever.semantic_search(search_query, query_vector=query_vector, grade=effective_grade, book_series=effective_book, top_k=2)
+            elif ctx.intent in (QueryIntent.CHARACTER_INFO, QueryIntent.STORY_SUMMARY):
+                # Tóm tắt nhân vật / truyện → dùng summary V2 trước
+                items = self.graph_retriever.lookup_summary(lesson, series=effective_book, grade=effective_grade or 9)
+                if not items:
+                    items = self.graph_retriever.lookup_lesson_guide(lesson, series=effective_book, grade=effective_grade or 9)
+                if not items:
+                    items = self.reading_retriever.semantic_search(search_query, grade=effective_grade, book_series=effective_book, top_k=2)
+            elif ctx.intent == QueryIntent.WRITING_SAMPLE:
+                items = self.graph_retriever.fulltext_search(search_query, grade=effective_grade or 9, top_k=2)
+                if not items:
+                    items = self.reading_retriever.semantic_search(search_query, grade=effective_grade, book_series=effective_book, top_k=2)
+
                 
         elif ctx.intent == QueryIntent.LOOKUP_CURRICULUM:
             current_week = user_profile.get("tuan_hien_tai", 1)
@@ -97,15 +117,15 @@ class RAGOrchestrator:
             global_items = []
             
             # 1. Math exercises
-            global_items.extend(self.math_exercise_retriever.semantic_search(search_query, query_vector=query_vector, grade=effective_grade, top_k=2))
+            global_items.extend(self.math_exercise_retriever.semantic_search(search_query, grade=effective_grade, top_k=2))
             # 2. KHTN exercises
-            global_items.extend(self.khtn_retriever.semantic_search(search_query, query_vector=query_vector, grade=effective_grade, top_k=2))
+            global_items.extend(self.khtn_retriever.semantic_search(search_query, grade=effective_grade, top_k=2))
             # 3. Social Sciences
-            global_items.extend(self.social_retriever.semantic_search(search_query, query_vector=query_vector, grade=effective_grade, top_k=2))
+            global_items.extend(self.social_retriever.semantic_search(search_query, grade=effective_grade, top_k=2))
             # 4. Reading / Textbooks (Ngữ Văn)
-            global_items.extend(self.reading_retriever.semantic_search(search_query, query_vector=query_vector, grade=effective_grade, book_series=effective_book, top_k=2))
+            global_items.extend(self.reading_retriever.semantic_search(search_query, grade=effective_grade, book_series=effective_book, top_k=2))
             # 5. Language Concepts (Ngữ Văn)
-            global_items.extend(self.concept_retriever.retrieve(query, query_vector=query_vector, user_grade=effective_grade, top_k=2))
+            global_items.extend(self.concept_retriever.retrieve(query, user_grade=effective_grade, top_k=2))
             
             # Sort all items by scalar similarity score descending
             global_items.sort(key=lambda x: x.score, reverse=True)
