@@ -3,13 +3,13 @@
 > Ảnh chụp trạng thái để bất kỳ ai (hoặc session sau) nắm ngay "ta đang ở đâu". Vận hành: [RUNBOOK.md](RUNBOOK.md). Quyết định: [design/kg-schema-v3.md](design/kg-schema-v3.md).
 
 ## Tóm tắt 1 dòng
-RAG voice-tutor K-9. **5 môn đã lên schema v3** trong Neo4j (concept layer + structured-first). **Prod :8888 đang UP (code CŨ)**. **Code MỚI (Gemma-free + Tier A, ~50ms thay vì 2.7s) đã sẵn ở canary, chờ merge sang prod** (giữ endpoint moderation).
+RAG voice-tutor K-9. **5 môn đã lên schema v3** trong Neo4j (concept layer + structured-first). **Prod :8888 đang UP chạy CODE MỚI (deploy 2026-06-05): Gemma-free + Tier A concept/structured + recite-hard + moderation merged — concept 35ms, structured 43ms (vs cũ 2.7s).** Backup rollback: `rag_server.py.bak_pre_deploy_2026_06_05`.
 
 ## Services
 | | Port | Trạng thái |
 |---|---|---|
-| prod ptalk_rag | 8888 | ✅ UP — code CŨ (Gemma router mọi query → 2-3s, chưa có Tier A concept) |
-| canary | 8889 | ⚪ down — chứa code MỚI (chưa deploy) |
+| prod ptalk_rag | 8888 | ✅ UP — **code MỚI (deploy 2026-06-05)**: Gemma-free + Tier A + recite-hard + moderation. Source `rag_server_merged.py`→`rag_server.py`. |
+| canary | 8889 | ⚪ down — đã superseded (code mới giờ ở prod) |
 | edu_neo4j | 7688 | ✅ |
 | Gemma vLLM | 8080 | ✅ (chỉ còn dùng cho compose answer, KHÔNG cho retrieve sau khi merge) |
 
@@ -33,11 +33,12 @@ Tổng ~3.900 Concept · ~5.200 COVERS · **cross-grade leak = 0** · +37 bài t
 6. **subject từ profile**
 
 ## Việc CÒN LẠI
-1. ⛔ **Merge code mới → prod** (ghép moderation endpoint vào canary → set port 8888 → deploy bằng SCRIPT method ở [RUNBOOK §2](RUNBOOK.md)). Đây là thứ kéo latency 2.7s → 50ms + hồi sinh concept tier.
-2. Verify live sau merge (health + 4 endpoint + concept query + recite + latency).
-3. Crawl thêm thơ recite (tăng coverage tiếp).
-4. (User) Update Dashboard `/kg-browse` theo [design/dashboard-kg-viewer-v2.md](design/dashboard-kg-viewer-v2.md).
-5. Companion layer (Student/Session/PREREQ traversal).
+1. ✅ ~~Merge code mới → prod~~ **XONG 2026-06-05** (latency 2.7s→35-43ms, concept tier hồi sinh, moderation giữ nguyên). Backup `rag_server.py.bak_pre_deploy_2026_06_05`.
+2. ⚠️ **Xác nhận client gửi `bo_sach` đúng format** — Neo4j lưu mã ngắn `KNTT/CTST/CD/none`; nếu CloudPTalk client gửi dạng dài ("ket-noi-tri-thuc") thì Tier A concept/structured MISS. Cần check phía client.
+3. ⚠️ Vector fallback leak chéo môn khi cả 2 Tier A miss (combo hiếm) — low priority.
+4. Crawl thêm thơ recite (Con cò, Mây và sóng, Chuyện cổ nước mình...).
+5. (User) Update Dashboard `/kg-browse` theo [design/dashboard-kg-viewer-v2.md](design/dashboard-kg-viewer-v2.md).
+6. Companion layer (Student/Session/PREREQ traversal).
 
 ## Bài học lớn của session
 - **Launch rag_server PHẢI dùng script file + nohup** (inline ssh fail) — xem RUNBOOK §2.
