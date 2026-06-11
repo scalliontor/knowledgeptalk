@@ -32,7 +32,14 @@ OpenAPI JSON: http://localhost:8889/openapi.json
 | `subject` | môn | `ngu_van` |
 | `current_lesson` | **bài đang học** (chốt companion) | tên tác phẩm (vd "Tì bà hành") |
 
-→ Companion fire khi **`current_lesson` khớp 1 bài** HOẶC **tên bài nằm trong `query`**. Trả `intent.tier="lesson_card"`.
+→ Companion fire khi: **`current_lesson` khớp bài** · **tên bài trong `query`** · HOẶC **số trang trong `query`** (vd "trang 69" → tra dải trang_from/trang_to của bài). Trả `intent.tier="lesson_card"`.
+
+### Tra theo TRANG (đã wire)
+13 bài có `trang_from/trang_to` (phủ liền mạch tập 2). Gõ số trang là ra đúng bài:
+```json
+{ "query": "giảng bài trang 69 cho tớ", "user_profile": { "lop": 9, "bo_sach": "CTST", "subject": "ngu_van" } }
+```
+→ trang 69 = **Hai chữ nước nhà** · 130 = Sông Đáy · 124 = Mùa xuân chín · 40 = Ngôi mộ cổ. (Dải trang ước lượng từ mục lục + page-ref; trang kỹ-năng/ôn-tập sẽ map về bài đọc liền trước.)
 
 ## 3. Ví dụ curl (chạy trên máy đã tunnel, hoặc đổi sang localhost trên server)
 ```bash
@@ -54,6 +61,7 @@ File: [van9_ctst_t2_testcases.json](van9_ctst_t2_testcases.json) — 4 câu/bài
 Chạy hàng loạt (trên server): `venv/bin/python /tmp/run_tests.py` → baseline hiện tại **52/52 = 100%** vào đúng `lesson_card`.
 
 ## 6. Giới hạn pilot (đang ở canary)
-- Câu **"đọc thuộc"** khi đã set `current_lesson` hiện trả Lesson Card (báo "có bản nguyên văn"), **chưa** trả thẳng nguyên văn — sẽ tinh chỉnh (recite ưu tiên trước companion).
-- Câu trần "X là gì" không kèm bài/`current_lesson` → đi concept tier (theory chunk vẫn nổi lên, chưa ở dạng thẻ).
+- Câu **"đọc thuộc"** khi đã set `current_lesson`/trang hiện trả Lesson Card (báo "có bản nguyên văn"), **chưa** trả thẳng nguyên văn — sẽ tinh chỉnh (recite ưu tiên trước companion).
+- Dải `trang_from/trang_to` là **ước lượng** (từ page-ref + mục lục), chưa phải khoảng chính xác từng trang SGK.
+- Câu trần "X là gì" không kèm bài/trang/`current_lesson` → đi concept tier (theory chunk vẫn nổi lên, chưa ở dạng thẻ).
 - Mới canary; chưa promote prod :8888.
