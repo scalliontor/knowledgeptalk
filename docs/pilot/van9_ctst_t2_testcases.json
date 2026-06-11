@@ -1,0 +1,522 @@
+[
+  {
+    "query": "Chị ơi, chị tóm tắt giúp em nội dung chính của bài thơ này được không ạ?",
+    "user_profile": {
+      "lop": 9,
+      "bo_sach": "CTST",
+      "current_lesson": "Sông Đáy"
+    },
+    "expect_work": "Sông Đáy",
+    "expect_tier": "lesson_card"
+  },
+  {
+    "query": "Cho em hỏi tác giả của tác phẩm này là ai vậy chị?",
+    "user_profile": {
+      "lop": 9,
+      "bo_sach": "CTST",
+      "current_lesson": "Sông Đáy"
+    },
+    "expect_work": "Sông Đáy",
+    "expect_tier": "lesson_card"
+  },
+  {
+    "query": "Em chưa hiểu rõ lắm về những giá trị nghệ thuật và ý nghĩa của bài thơ, chị giảng thêm cho em nhé.",
+    "user_profile": {
+      "lop": 9,
+      "bo_sach": "CTST",
+      "current_lesson": "Sông Đáy"
+    },
+    "expect_work": "Sông Đáy",
+    "expect_tier": "lesson_card"
+  },
+  {
+    "query": "Chị đọc diễn cảm bài thơ này cho em nghe với được không ạ?",
+    "user_profile": {
+      "lop": 9,
+      "bo_sach": "CTST",
+      "current_lesson": "Sông Đáy"
+    },
+    "expect_work": "Sông Đáy",
+    "expect_tier": "lesson_card"
+  },
+  {
+    "query": "Chị ơi, chị tóm tắt giúp em nội dung chính của bài này được không ạ?",
+    "user_profile": {
+      "lop": 9,
+      "bo_sach": "CTST",
+      "current_lesson": "Tì bà hành"
+    },
+    "expect_work": "Tì bà hành",
+    "expect_tier": "lesson_card"
+  },
+  {
+    "query": "Cho em hỏi tác giả của tác phẩm này là ai vậy chị?",
+    "user_profile": {
+      "lop": 9,
+      "bo_sach": "CTST",
+      "current_lesson": "Tì bà hành"
+    },
+    "expect_work": "Tì bà hành",
+    "expect_tier": "lesson_card"
+  },
+  {
+    "query": "Bài này có những giá trị nghệ thuật và ý nghĩa gì đặc sắc thế ạ?",
+    "user_profile": {
+      "lop": 9,
+      "bo_sach": "CTST",
+      "current_lesson": "Tì bà hành"
+    },
+    "expect_work": "Tì bà hành",
+    "expect_tier": "lesson_card"
+  },
+  {
+    "query": "Chị đọc diễn cảm bài thơ này cho em nghe với nhé!",
+    "user_profile": {
+      "lop": 9,
+      "bo_sach": "CTST",
+      "current_lesson": "Tì bà hành"
+    },
+    "expect_work": "Tì bà hành",
+    "expect_tier": "lesson_card"
+  },
+  {
+    "query": "Chị ơi, chị tóm tắt giúp em nội dung chính của bài thơ này được không ạ?",
+    "user_profile": {
+      "lop": 9,
+      "bo_sach": "CTST",
+      "current_lesson": "Mùa xuân chín"
+    },
+    "expect_work": "Mùa xuân chín",
+    "expect_tier": "lesson_card"
+  },
+  {
+    "query": "Cho em hỏi tác giả của tác phẩm này là ai vậy chị?",
+    "user_profile": {
+      "lop": 9,
+      "bo_sach": "CTST",
+      "current_lesson": "Mùa xuân chín"
+    },
+    "expect_work": "Mùa xuân chín",
+    "expect_tier": "lesson_card"
+  },
+  {
+    "query": "Bài thơ này có những giá trị nghệ thuật và ý nghĩa gì nổi bật thế ạ?",
+    "user_profile": {
+      "lop": 9,
+      "bo_sach": "CTST",
+      "current_lesson": "Mùa xuân chín"
+    },
+    "expect_work": "Mùa xuân chín",
+    "expect_tier": "lesson_card"
+  },
+  {
+    "query": "Chị đọc diễn cảm bài thơ này cho em nghe với nhé!",
+    "user_profile": {
+      "lop": 9,
+      "bo_sach": "CTST",
+      "current_lesson": "Mùa xuân chín"
+    },
+    "expect_work": "Mùa xuân chín",
+    "expect_tier": "lesson_card"
+  },
+  {
+    "query": "Chỗ này có đoạn nào khó hiểu, thầy/cô tóm tắt lại ý chính giúp em với ạ.",
+    "user_profile": {
+      "lop": 9,
+      "bo_sach": "CTST",
+      "current_lesson": "Hai chữ nước nhà"
+    },
+    "expect_work": "Hai chữ nước nhà",
+    "expect_tier": "lesson_card"
+  },
+  {
+    "query": "Em chưa rõ tác giả của bài thơ này là ai, thầy/cô nói cho em biết được không?",
+    "user_profile": {
+      "lop": 9,
+      "bo_sach": "CTST",
+      "current_lesson": "Hai chữ nước nhà"
+    },
+    "expect_work": "Hai chữ nước nhà",
+    "expect_tier": "lesson_card"
+  },
+  {
+    "query": "Nội dung và những giá trị nghệ thuật đặc sắc nhất của bài thơ này là gì vậy ạ?",
+    "user_profile": {
+      "lop": 9,
+      "bo_sach": "CTST",
+      "current_lesson": "Hai chữ nước nhà"
+    },
+    "expect_work": "Hai chữ nước nhà",
+    "expect_tier": "lesson_card"
+  },
+  {
+    "query": "Thầy/cô có thể đọc diễn cảm bài thơ này cho em nghe để em dễ cảm thụ hơn không?",
+    "user_profile": {
+      "lop": 9,
+      "bo_sach": "CTST",
+      "current_lesson": "Hai chữ nước nhà"
+    },
+    "expect_work": "Hai chữ nước nhà",
+    "expect_tier": "lesson_card"
+  },
+  {
+    "query": "Chị tóm tắt lại nội dung chính của câu chuyện này giúp em với ạ.",
+    "user_profile": {
+      "lop": 9,
+      "bo_sach": "CTST",
+      "current_lesson": "Cái bóng trên tường"
+    },
+    "expect_work": "Cái bóng trên tường",
+    "expect_tier": "lesson_card"
+  },
+  {
+    "query": "Cho em hỏi tác giả của tác phẩm này là ai vậy ạ?",
+    "user_profile": {
+      "lop": 9,
+      "bo_sach": "CTST",
+      "current_lesson": "Cái bóng trên tường"
+    },
+    "expect_work": "Cái bóng trên tường",
+    "expect_tier": "lesson_card"
+  },
+  {
+    "query": "Em chưa rõ ý nghĩa và những giá trị nghệ thuật mà tác giả muốn gửi gắm qua truyện, chị giải thích thêm cho em nhé.",
+    "user_profile": {
+      "lop": 9,
+      "bo_sach": "CTST",
+      "current_lesson": "Cái bóng trên tường"
+    },
+    "expect_work": "Cái bóng trên tường",
+    "expect_tier": "lesson_card"
+  },
+  {
+    "query": "Nếu được, chị đọc diễn cảm bài này cho em nghe với được không ạ?",
+    "user_profile": {
+      "lop": 9,
+      "bo_sach": "CTST",
+      "current_lesson": "Cái bóng trên tường"
+    },
+    "expect_work": "Cái bóng trên tường",
+    "expect_tier": "lesson_card"
+  },
+  {
+    "query": "Cô ơi, cô tóm tắt lại những ý chính của đoạn trích này giúp em với ạ.",
+    "user_profile": {
+      "lop": 9,
+      "bo_sach": "CTST",
+      "current_lesson": "Kí ức tuổi thơ"
+    },
+    "expect_work": "Kí ức tuổi thơ",
+    "expect_tier": "lesson_card"
+  },
+  {
+    "query": "Cho em hỏi tác giả của tác phẩm này là ai vậy cô?",
+    "user_profile": {
+      "lop": 9,
+      "bo_sach": "CTST",
+      "current_lesson": "Kí ức tuổi thơ"
+    },
+    "expect_work": "Kí ức tuổi thơ",
+    "expect_tier": "lesson_card"
+  },
+  {
+    "query": "Em muốn tìm hiểu kỹ hơn về những giá trị nội dung và nghệ thuật đặc sắc trong bài này.",
+    "user_profile": {
+      "lop": 9,
+      "bo_sach": "CTST",
+      "current_lesson": "Kí ức tuổi thơ"
+    },
+    "expect_work": "Kí ức tuổi thơ",
+    "expect_tier": "lesson_card"
+  },
+  {
+    "query": "Cô có thể đọc diễn cảm bài thơ này cho em nghe để em dễ cảm thụ hơn được không ạ?",
+    "user_profile": {
+      "lop": 9,
+      "bo_sach": "CTST",
+      "current_lesson": "Kí ức tuổi thơ"
+    },
+    "expect_work": "Kí ức tuổi thơ",
+    "expect_tier": "lesson_card"
+  },
+  {
+    "query": "Anh giảng lại giúp em nội dung chính của câu chuyện này được không ạ?",
+    "user_profile": {
+      "lop": 9,
+      "bo_sach": "CTST",
+      "current_lesson": "Cái roi tre"
+    },
+    "expect_work": "Cái roi tre",
+    "expect_tier": "lesson_card"
+  },
+  {
+    "query": "Tác giả của tác phẩm này là ai vậy anh?",
+    "user_profile": {
+      "lop": 9,
+      "bo_sach": "CTST",
+      "current_lesson": "Cái roi tre"
+    },
+    "expect_work": "Cái roi tre",
+    "expect_tier": "lesson_card"
+  },
+  {
+    "query": "Câu chuyện này muốn gửi gắm thông điệp gì và có những chi tiết nghệ thuật nào đặc sắc thế ạ?",
+    "user_profile": {
+      "lop": 9,
+      "bo_sach": "CTST",
+      "current_lesson": "Cái roi tre"
+    },
+    "expect_work": "Cái roi tre",
+    "expect_tier": "lesson_card"
+  },
+  {
+    "query": "Nếu là bài thơ thì anh đọc diễn cảm cho em nghe với nhé.",
+    "user_profile": {
+      "lop": 9,
+      "bo_sach": "CTST",
+      "current_lesson": "Cái roi tre"
+    },
+    "expect_work": "Cái roi tre",
+    "expect_tier": "lesson_card"
+  },
+  {
+    "query": "Chỗ này có ý nghĩa gì và nghệ thuật đặc sắc nhất là gì vậy ạ?",
+    "user_profile": {
+      "lop": 9,
+      "bo_sach": "CTST",
+      "current_lesson": "Ngôi mộ cổ"
+    },
+    "expect_work": "Ngôi mộ cổ",
+    "expect_tier": "lesson_card"
+  },
+  {
+    "query": "Tác giả của tác phẩm này là ai thế thầy/cô ơi?",
+    "user_profile": {
+      "lop": 9,
+      "bo_sach": "CTST",
+      "current_lesson": "Ngôi mộ cổ"
+    },
+    "expect_work": "Ngôi mộ cổ",
+    "expect_tier": "lesson_card"
+  },
+  {
+    "query": "Thầy/cô có thể tóm tắt lại nội dung chính của bài này giúp em được không?",
+    "user_profile": {
+      "lop": 9,
+      "bo_sach": "CTST",
+      "current_lesson": "Ngôi mộ cổ"
+    },
+    "expect_work": "Ngôi mộ cổ",
+    "expect_tier": "lesson_card"
+  },
+  {
+    "query": "Bài này là thơ đúng không ạ, thầy/cô đọc diễn cảm cho em nghe với!",
+    "user_profile": {
+      "lop": 9,
+      "bo_sach": "CTST",
+      "current_lesson": "Ngôi mộ cổ"
+    },
+    "expect_work": "Ngôi mộ cổ",
+    "expect_tier": "lesson_card"
+  },
+  {
+    "query": "Chỗ này diễn biến tâm lý nhân vật phức tạp quá, thầy tóm tắt lại giúp em được không ạ?",
+    "user_profile": {
+      "lop": 9,
+      "bo_sach": "CTST",
+      "current_lesson": "Kẻ sát nhân lộ diện"
+    },
+    "expect_work": "Kẻ sát nhân lộ diện",
+    "expect_tier": "lesson_card"
+  },
+  {
+    "query": "Cho em hỏi tác giả của tác phẩm này là ai thế ạ?",
+    "user_profile": {
+      "lop": 9,
+      "bo_sach": "CTST",
+      "current_lesson": "Kẻ sát nhân lộ diện"
+    },
+    "expect_work": "Kẻ sát nhân lộ diện",
+    "expect_tier": "lesson_card"
+  },
+  {
+    "query": "Em muốn biết ý nghĩa và những nét nghệ thuật đặc sắc nhất của câu chuyện này là gì?",
+    "user_profile": {
+      "lop": 9,
+      "bo_sach": "CTST",
+      "current_lesson": "Kẻ sát nhân lộ diện"
+    },
+    "expect_work": "Kẻ sát nhân lộ diện",
+    "expect_tier": "lesson_card"
+  },
+  {
+    "query": "Nếu được thì thầy đọc diễn cảm đoạn văn này cho em nghe với nhé!",
+    "user_profile": {
+      "lop": 9,
+      "bo_sach": "CTST",
+      "current_lesson": "Kẻ sát nhân lộ diện"
+    },
+    "expect_work": "Kẻ sát nhân lộ diện",
+    "expect_tier": "lesson_card"
+  },
+  {
+    "query": "Chỗ này khó hiểu quá, thầy tóm tắt lại ý chính giúp em với ạ.",
+    "user_profile": {
+      "lop": 9,
+      "bo_sach": "CTST",
+      "current_lesson": "Cách suy luận"
+    },
+    "expect_work": "Cách suy luận",
+    "expect_tier": "lesson_card"
+  },
+  {
+    "query": "Tác giả của văn bản này là ai vậy ạ?",
+    "user_profile": {
+      "lop": 9,
+      "bo_sach": "CTST",
+      "current_lesson": "Cách suy luận"
+    },
+    "expect_work": "Cách suy luận",
+    "expect_tier": "lesson_card"
+  },
+  {
+    "query": "Bài viết này muốn truyền tải nội dung gì và có những giá trị nghệ thuật nào nổi bật thế ạ?",
+    "user_profile": {
+      "lop": 9,
+      "bo_sach": "CTST",
+      "current_lesson": "Cách suy luận"
+    },
+    "expect_work": "Cách suy luận",
+    "expect_tier": "lesson_card"
+  },
+  {
+    "query": "Nếu là thơ thì thầy đọc diễn cảm cho em nghe một lần được không ạ?",
+    "user_profile": {
+      "lop": 9,
+      "bo_sach": "CTST",
+      "current_lesson": "Cách suy luận"
+    },
+    "expect_work": "Cách suy luận",
+    "expect_tier": "lesson_card"
+  },
+  {
+    "query": "Anh giảng tóm tắt lại nội dung chính của bài này giúp em với ạ.",
+    "user_profile": {
+      "lop": 9,
+      "bo_sach": "CTST",
+      "current_lesson": "Đấu tranh cho một thế giới hoà bình"
+    },
+    "expect_work": "Đấu tranh cho một thế giới hoà bình",
+    "expect_tier": "lesson_card"
+  },
+  {
+    "query": "Tác giả của bài thơ này là ai vậy anh?",
+    "user_profile": {
+      "lop": 9,
+      "bo_sach": "CTST",
+      "current_lesson": "Đấu tranh cho một thế giới hoà bình"
+    },
+    "expect_work": "Đấu tranh cho một thế giới hoà bình",
+    "expect_tier": "lesson_card"
+  },
+  {
+    "query": "Bài này có những giá trị nội dung và nét đặc sắc về nghệ thuật nào ạ?",
+    "user_profile": {
+      "lop": 9,
+      "bo_sach": "CTST",
+      "current_lesson": "Đấu tranh cho một thế giới hoà bình"
+    },
+    "expect_work": "Đấu tranh cho một thế giới hoà bình",
+    "expect_tier": "lesson_card"
+  },
+  {
+    "query": "Anh đọc diễn cảm bài thơ này cho em nghe với nhé.",
+    "user_profile": {
+      "lop": 9,
+      "bo_sach": "CTST",
+      "current_lesson": "Đấu tranh cho một thế giới hoà bình"
+    },
+    "expect_work": "Đấu tranh cho một thế giới hoà bình",
+    "expect_tier": "lesson_card"
+  },
+  {
+    "query": "Chị ơi, chị tóm tắt giúp em những ý chính trong bài phát biểu này được không ạ?",
+    "user_profile": {
+      "lop": 9,
+      "bo_sach": "CTST",
+      "current_lesson": "Bài phát biểu của tổng thư kí Liên hợp quốc về biến đổi khí hậu"
+    },
+    "expect_work": "Bài phát biểu của tổng thư kí Liên hợp quốc về biến đổi khí hậu",
+    "expect_tier": "lesson_card"
+  },
+  {
+    "query": "Cho em hỏi tác giả của bài phát biểu này là ai vậy chị?",
+    "user_profile": {
+      "lop": 9,
+      "bo_sach": "CTST",
+      "current_lesson": "Bài phát biểu của tổng thư kí Liên hợp quốc về biến đổi khí hậu"
+    },
+    "expect_work": "Bài phát biểu của tổng thư kí Liên hợp quốc về biến đổi khí hậu",
+    "expect_tier": "lesson_card"
+  },
+  {
+    "query": "Bài này có nội dung và giá trị gì đặc biệt về vấn đề biến đổi khí hậu thế ạ?",
+    "user_profile": {
+      "lop": 9,
+      "bo_sach": "CTST",
+      "current_lesson": "Bài phát biểu của tổng thư kí Liên hợp quốc về biến đổi khí hậu"
+    },
+    "expect_work": "Bài phát biểu của tổng thư kí Liên hợp quốc về biến đổi khí hậu",
+    "expect_tier": "lesson_card"
+  },
+  {
+    "query": "Chị đọc diễn cảm bài này cho em nghe với nhé!",
+    "user_profile": {
+      "lop": 9,
+      "bo_sach": "CTST",
+      "current_lesson": "Bài phát biểu của tổng thư kí Liên hợp quốc về biến đổi khí hậu"
+    },
+    "expect_work": "Bài phát biểu của tổng thư kí Liên hợp quốc về biến đổi khí hậu",
+    "expect_tier": "lesson_card"
+  },
+  {
+    "query": "Cô giảng lại giúp em nội dung chính của văn bản này được không ạ?",
+    "user_profile": {
+      "lop": 9,
+      "bo_sach": "CTST",
+      "current_lesson": "Bức thư tưởng tượng"
+    },
+    "expect_work": "Bức thư tưởng tượng",
+    "expect_tier": "lesson_card"
+  },
+  {
+    "query": "Cho em hỏi tác giả của bức thư này là ai vậy ạ?",
+    "user_profile": {
+      "lop": 9,
+      "bo_sach": "CTST",
+      "current_lesson": "Bức thư tưởng tượng"
+    },
+    "expect_work": "Bức thư tưởng tượng",
+    "expect_tier": "lesson_card"
+  },
+  {
+    "query": "Em muốn tìm hiểu kỹ hơn về những giá trị nghệ thuật mà tác giả đã sử dụng trong bài.",
+    "user_profile": {
+      "lop": 9,
+      "bo_sach": "CTST",
+      "current_lesson": "Bức thư tưởng tượng"
+    },
+    "expect_work": "Bức thư tưởng tượng",
+    "expect_tier": "lesson_card"
+  },
+  {
+    "query": "Cô có thể đọc diễn cảm bài thơ này cho em nghe được không ạ?",
+    "user_profile": {
+      "lop": 9,
+      "bo_sach": "CTST",
+      "current_lesson": "Bức thư tưởng tượng"
+    },
+    "expect_work": "Bức thư tưởng tượng",
+    "expect_tier": "lesson_card"
+  }
+]
