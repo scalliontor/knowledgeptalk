@@ -32,7 +32,16 @@ OpenAPI JSON: http://localhost:8889/openapi.json
 | `subject` | môn | `ngu_van` |
 | `current_lesson` | **bài đang học** (chốt companion) | tên tác phẩm (vd "Tì bà hành") |
 
-→ Companion fire khi: **`current_lesson` khớp bài** · **tên bài trong `query`** · HOẶC **số trang trong `query`** (vd "trang 69" → tra dải trang_from/trang_to của bài). Trả `intent.tier="lesson_card"`.
+→ Companion fire khi: **`current_lesson` khớp bài** · **tên bài trong `query`** · HOẶC **số trang trong `query`** (vd "trang 69").
+
+**3 chế độ theo ý định câu hỏi (cùng 1 bài):**
+| Hỏi kiểu | tier | Trả về |
+|---|---|---|
+| "giảng / X là gì / bố cục / nội dung" | `lesson_card` | Thẻ giảng (tác giả/bố cục/nội dung/giá trị + câu hỏi gợi mở) |
+| "làm bài tập / luyện tập / giải câu" | `lesson_practice` | Câu hỏi SGK + **gợi ý**, đáp án tag "[chỉ hé khi cần]"; `delivery_mode=guided_practice` (LLM ra câu hỏi+gợi ý trước, giữ đáp án) |
+| "đọc thuộc / đọc diễn cảm" | `lesson_recite` | Nguyên văn tác phẩm |
+
+13 bài đều có `practice_json` (tổng 55 câu luyện tập, gợi ý do Gemma sinh — không lộ đáp án).
 
 ### Tra theo TRANG (đã wire)
 13 bài có `trang_from/trang_to` (phủ liền mạch tập 2). Gõ số trang là ra đúng bài:
