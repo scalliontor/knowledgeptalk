@@ -60,8 +60,14 @@ Sông Đáy · Tì bà hành · Mùa xuân chín · Hai chữ nước nhà · C�
 File: [van9_ctst_t2_testcases.json](van9_ctst_t2_testcases.json) — 4 câu/bài, giọng học sinh thật.
 Chạy hàng loạt (trên server): `venv/bin/python /tmp/run_tests.py` → baseline hiện tại **52/52 = 100%** vào đúng `lesson_card`.
 
-## 6. Giới hạn pilot (đang ở canary)
-- Câu **"đọc thuộc"** khi đã set `current_lesson`/trang hiện trả Lesson Card (báo "có bản nguyên văn"), **chưa** trả thẳng nguyên văn — sẽ tinh chỉnh (recite ưu tiên trước companion).
-- Dải `trang_from/trang_to` là **ước lượng** (từ page-ref + mục lục), chưa phải khoảng chính xác từng trang SGK.
-- Câu trần "X là gì" không kèm bài/trang/`current_lesson` → đi concept tier (theory chunk vẫn nổi lên, chưa ở dạng thẻ).
-- Mới canary; chưa promote prod :8888.
+## 6. Trạng thái sau test mạnh (35 query Gemma + adversarial)
+**Đã chạy đúng:** by_name 8/8 · by_page (bài đọc) đúng · current_lesson 5/5 · typo không dấu OK · trang ngoài sách/chitchat không bịa.
+**Đã sửa (2026-06-11):**
+- ✅ **"Đọc thuộc"** → trả **nguyên văn** (`tier=lesson_recite`), vd "đọc thuộc Mùa xuân chín" ra cả bài thơ Hàn Mặc Tử.
+- ✅ **Dải trang theo mốc cấu trúc** (THTV 15/46/74/104/128, ôn tập, tri thức) → trang luyện-tập (74, 104...) **KHÔNG map nhầm** vào bài đọc liền trước nữa.
+
+**Còn lại (honest):**
+- Trang kỹ-năng/ôn-tập (vd 74) trả `tier=A_structured`/None (chưa có câu "đây là phần Thực hành tiếng Việt") — chấp nhận được, không sai bài.
+- Dải `trang_from/to` vẫn là **ước lượng từ page-ref** (chưa phải span chính xác từng trang SGK) — anh test sách thật thấy lệch bài nào báo tôi chỉnh.
+- Câu trần "X là gì" / khái niệm tiếng Việt không kèm bài → chưa có theory dạng thẻ.
+- Mới **canary :8889**; prod :8888 nguyên vẹn.
