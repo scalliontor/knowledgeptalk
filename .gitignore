@@ -23,3 +23,6 @@ config/secrets.py
 
 # Virtual envs
 node_modules/
+
+# Claude agent config
+.claude/
