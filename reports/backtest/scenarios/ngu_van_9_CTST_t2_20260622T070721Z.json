@@ -1,0 +1,1079 @@
+{
+ "meta": {
+  "subject": "ngu_van",
+  "grade": 9,
+  "book": "CTST",
+  "tap": 2,
+  "n_lessons_requested": 8,
+  "n_lessons_used": 8,
+  "port": "8891",
+  "neo4j_uri": "bolt://localhost:7688",
+  "generated_utc": "20260622T070721Z"
+ },
+ "summary": {
+  "overall": {
+   "n": 48,
+   "anchor%": 100.0,
+   "knowledge_correct_avg": 1.875,
+   "knowledge_full%": 93.8,
+   "intent%": 70.8,
+   "hallucination%": 4.2,
+   "real_cruft": 0,
+   "score_avg": 0.902,
+   "total": 48,
+   "errors": 0
+  },
+  "by_subject": {
+   "ngu_van": {
+    "n": 48,
+    "anchor%": 100.0,
+    "knowledge_correct_avg": 1.875,
+    "knowledge_full%": 93.8,
+    "intent%": 70.8,
+    "hallucination%": 4.2,
+    "real_cruft": 0,
+    "score_avg": 0.902
+   }
+  },
+  "by_intent": {
+   "explain": {
+    "n": 33,
+    "anchor%": 100.0,
+    "knowledge_correct_avg": 1.939,
+    "knowledge_full%": 97.0,
+    "intent%": 93.9,
+    "hallucination%": 0.0,
+    "real_cruft": 0,
+    "score_avg": 0.973
+   },
+   "practice": {
+    "n": 8,
+    "anchor%": 100.0,
+    "knowledge_correct_avg": 1.75,
+    "knowledge_full%": 87.5,
+    "intent%": 12.5,
+    "hallucination%": 12.5,
+    "real_cruft": 0,
+    "score_avg": 0.744
+   },
+   "recite": {
+    "n": 7,
+    "anchor%": 100.0,
+    "knowledge_correct_avg": 1.714,
+    "knowledge_full%": 85.7,
+    "intent%": 28.6,
+    "hallucination%": 14.3,
+    "real_cruft": 0,
+    "score_avg": 0.75
+   }
+  }
+ },
+ "results": [
+  {
+   "subject": "ngu_van",
+   "intent": "explain",
+   "work_name": "Sông Đáy",
+   "scenario": "Thưa gia sư, em đang đọc bài 'Sông Đáy' nhưng không rõ bố cục của bài thơ được chia làm mấy phần và nội dung từng phần là gì ạ?",
+   "question": "Em hãy nêu bố cục của bài thơ 'Sông Đáy'?",
+   "expected_points": [
+    "Phần 1: Sông Đáy trong miền kí ức thưở ấu thơ.",
+    "Phần 2: Niềm nhớ thương quê nhà da diết trong những năm tháng xa quê.",
+    "Phần 3: Sông Đáy và nỗi xúc động nghẹn ngào ngày trở về quê hương."
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Sông Đáy",
+   "latency_ms": 35.0,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": true,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 1.0
+  },
+  {
+   "subject": "ngu_van",
+   "intent": "explain",
+   "work_name": "Sông Đáy",
+   "scenario": "Em muốn tìm hiểu kỹ hơn về tác giả, thầy/cô có thể cho em biết thêm về ông ấy không?",
+   "question": "Tác giả Nguyễn Quang Thiều là ai và ông có những khả năng sáng tác như thế nào?",
+   "expected_points": [
+    "Nguyễn Quang Thiều sinh năm 1957, sinh ra ở Hà Nội.",
+    "Ông là nhà thơ, nhà văn, ngoài ra còn viết tiểu thuyết, truyện ngắn, bút kí và làm báo."
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Sông Đáy",
+   "latency_ms": 44.2,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": true,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 1.0
+  },
+  {
+   "subject": "ngu_van",
+   "intent": "explain",
+   "work_name": "Sông Đáy",
+   "scenario": "Em thấy bài thơ này dùng thể thơ gì mà cảm giác nhịp điệu rất linh hoạt và tự nhiên vậy ạ?",
+   "question": "Thể thơ và những giá trị nghệ thuật đặc sắc được sử dụng trong bài 'Sông Đáy' là gì?",
+   "expected_points": [
+    "Thể thơ tự do với nhịp điệu linh hoạt.",
+    "Ngôn ngữ giàu nhạc điệu, tinh tế, sử dụng nhiều biện pháp tu từ như so sánh, ẩn dụ, nhân hóa."
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Sông Đáy",
+   "latency_ms": 39.6,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": true,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 1.0
+  },
+  {
+   "subject": "ngu_van",
+   "intent": "explain",
+   "work_name": "Sông Đáy",
+   "scenario": "Em chưa hiểu rõ lắm về thông điệp mà tác giả muốn gửi gắm qua hình ảnh con sông và người mẹ trong bài thơ.",
+   "question": "Giá trị nội dung và thông điệp của tác phẩm 'Sông Đáy' là gì?",
+   "expected_points": [
+    "Thể hiện tình cảm nhớ thương và lòng biết ơn sâu nặng đối với con sông quê hương và người mẹ.",
+    "Gửi gắm thông điệp về việc trân trọng, gìn giữ ký ức tuổi thơ gắn liền với quê hương và người mẹ sinh thành."
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Sông Đáy",
+   "latency_ms": 32.3,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": true,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 1.0
+  },
+  {
+   "subject": "ngu_van",
+   "intent": "practice",
+   "work_name": "Sông Đáy",
+   "scenario": "Thầy/cô ơi, em có thể làm một bài tập luyện tập về các biện pháp tu từ được dùng trong bài này không ạ?",
+   "question": "Dựa vào phần giá trị nghệ thuật, em hãy liệt kê các biện pháp tu từ mà tác giả đã sử dụng để bộc lộ cảm xúc?",
+   "expected_points": [
+    "Sử dụng nhiều biện pháp tu từ như so sánh, ẩn dụ, nhân hóa.",
+    "Kết hợp với thể thơ tự do để tạo sự uyên bác và cảm xúc tuôn trào."
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Sông Đáy",
+   "latency_ms": 400.9,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": false,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 0.85
+  },
+  {
+   "subject": "ngu_van",
+   "intent": "recite",
+   "work_name": "Sông Đáy",
+   "scenario": "Em muốn học thuộc lòng bài thơ này để chuẩn chí cho tiết học tới, thầy/cô giúp em kiểm tra nhé!",
+   "question": "Em hãy đọc nguyên văn thông tin về hoàn cảnh sáng tác của bài thơ 'Sông Đáy'?",
+   "expected_points": [
+    "In trong tập Châu thổ.",
+    "Nhà xuất bản Hội Nhà văn, năm 2011."
+   ],
+   "served_tier": "lesson_recite",
+   "served_work": "Sông Đáy",
+   "latency_ms": 36.8,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 0,
+   "intent_ok": true,
+   "hallucination": true,
+   "cruft_real": false,
+   "score": 0.0
+  },
+  {
+   "subject": "ngu_van",
+   "intent": "explain",
+   "work_name": "Tì bà hành",
+   "scenario": "Em đang làm bài tập về thể loại thơ của tác phẩm này nhưng không chắc chắn lắm.",
+   "question": "Bạn cho mình hỏi bài 'Tì bà hành' được viết theo thể thơ nào vậy?",
+   "expected_points": [
+    "Thể thơ song thất lục bát"
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Tì bà hành",
+   "latency_ms": 37.7,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": true,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 1.0
+  },
+  {
+   "subject": "ngu_van",
+   "intent": "practice",
+   "work_name": "Tì bà hành",
+   "scenario": "Em muốn luyện tập phân tích bố cục của bài thơ để chuẩn bị cho bài kiểm tra sắp tới.",
+   "question": "Bạn có thể giúp mình ôn lại bố cục của bài thơ 'Tì bà hành' được không?",
+   "expected_points": [
+    "Phần 1 (dòng 1-12): Nỗi buồn man mác trong khung cảnh khuya trên bến Tầm Dương văng vẳng tiếng đàn",
+    "Phần 2 (dòng 13-40): Cảm xúc trào dâng theo tiếng đàn nhiều cung bậc như cuộc đời ba chìm bảy nổi của người ca nữ",
+    "Phần 3 (dòng 77-88): Cảm xúc lắng đọng của những người đồng điệu, tri âm"
+   ],
+   "served_tier": "lesson_practice",
+   "served_work": "Tì bà hành",
+   "latency_ms": 42.1,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 0,
+   "intent_ok": true,
+   "hallucination": true,
+   "cruft_real": false,
+   "score": 0.0
+  },
+  {
+   "subject": "ngu_van",
+   "intent": "explain",
+   "work_name": "Tì bà hành",
+   "scenario": "Em chưa hiểu rõ về giá trị nội dung mà tác giả muốn gửi gắm qua tiếng đàn.",
+   "question": "Tại sao tác giả lại viết về tiếng đàn và số phận của người ca nữ, ý nghĩa thực sự của nó là gì?",
+   "expected_points": [
+    "Là tiếng lòng cảm thương đối với tài năng bị cuộc đời lãng quên và số phận lận đận của người ca nữ",
+    "Phơi trần sự mục nát của quan lại trong xã hội phong kiến và sự chôn vùi của tài năng",
+    "Thể hiện sự đồng cảm sâu sắc giữa người nghe đàn (tác giả) và người ca nữ"
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Tì bà hành",
+   "latency_ms": 45.3,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": true,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 1.0
+  },
+  {
+   "subject": "ngu_van",
+   "intent": "recite",
+   "work_name": "Tì bà hành",
+   "scenario": "Em muốn học thuộc lòng các ý chính về nghệ thuật để dễ nhớ bài.",
+   "question": "Bạn hãy đọc giúp mình nội dung về giá trị nghệ thuật của bài thơ này được không?",
+   "expected_points": [
+    "Sử dụng thành công thể thơ song thất lục bát với giọng điệu da diết, thông thiết, gợi cảm mạnh mẽ",
+    "Nghệ thuật miêu tả tiếng đàn biến hóa kì ảo, sử dụng nhiều hình ảnh tượng trưng độc đáo và giàu sức gợi"
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Tì bà hành",
+   "latency_ms": 37.2,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": false,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 0.85
+  },
+  {
+   "subject": "ngu_van",
+   "intent": "explain",
+   "work_name": "Tì bà hành",
+   "scenario": "Em đang đọc bài nhưng thấy hơi khó hình dung về nhân vật Bạch Cư Dị.",
+   "question": "Cho mình hỏi tác giả Bạch Cư Dị là ai và có vai trò gì trong lịch sử thơ ca?",
+   "expected_points": [
+    "Là nhà thơ nổi tiếng thời Đường",
+    "Đóng vai trò quan trọng trong lịch sử thơ ca Trung Quốc"
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Tì bà hành",
+   "latency_ms": 28.1,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": true,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 1.0
+  },
+  {
+   "subject": "ngu_van",
+   "intent": "explain",
+   "work_name": "Tì bà hành",
+   "scenario": "Em muốn liên hệ về cảm xúc của tác giả đối với con người trong tác phẩm.",
+   "question": "Qua bài thơ, ta thấy được tấm lòng của người nghệ sĩ trước những bi kịch của con người như thế nào?",
+   "expected_points": [
+    "Là bản đàn đầy tính nhân văn, thể hiện sự trân trọng tài năng",
+    "Thể hiện tấm lòng nhân ái bao la trước số phận bi kịch của con người",
+    "Bộc lộ tâm sự về cuộc đời, nhân sinh và sự phẫn uất khi tài năng bị vùi dập"
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Tì bà hành",
+   "latency_ms": 46.5,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": true,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 1.0
+  },
+  {
+   "subject": "ngu_van",
+   "intent": "explain",
+   "work_name": "Mùa xuân chín",
+   "scenario": "Thưa thầy/cô, em đang đọc bài 'Mùa xuân chín' nhưng chưa rõ về thể loại của bài thơ này ạ.",
+   "question": "Bài thơ 'Mùa xuân chín' của tác giả Hàn Mặc Tử thuộc thể loại thơ gì?",
+   "expected_points": [
+    "Thể loại: thơ thất ngôn"
+   ],
+   "served_tier": "lesson_recite",
+   "served_work": "Mùa xuân chín",
+   "latency_ms": 42.7,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": false,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 0.85
+  },
+  {
+   "subject": "ngu_van",
+   "intent": "explain",
+   "work_name": "Mùa xuân chín",
+   "scenario": "Em muốn tìm hiểu kỹ hơn về những đóng góp của tác giả Hàn Mặc Tử đối với nền văn học nước ta.",
+   "question": "Tác giả Hàn Mặc Tử có những đóng góp gì cho phong trào Thơ mới (1932 – 1945)?",
+   "expected_points": [
+    "Có những đóng góp mới mẻ cho phong trào Thơ mới"
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Mùa xuân chín",
+   "latency_ms": 27.3,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": true,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 1.0
+  },
+  {
+   "subject": "ngu_van",
+   "intent": "explain",
+   "work_name": "Mùa xuân chín",
+   "scenario": "Em thấy nội dung bức tranh thiên nhiên trong bài thơ rất đặc sắc, thầy/cô có thể giúp em hệ thống lại không ạ?",
+   "question": "Bức tranh thiên nhiên mùa xuân trong bài thơ được miêu tả với đặc điểm gì về màu sắc và sức sống?",
+   "expected_points": [
+    "Trong sáng, rạo rực, say mê",
+    "Màu sắc cổ điển hài hoà với chất dân dã trẻ trung, bình dị",
+    "Rực rỡ, tươi đẹp, tràn đầy sức sống"
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Mùa xuân chín",
+   "latency_ms": 27.6,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": true,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 1.0
+  },
+  {
+   "subject": "ngu_van",
+   "intent": "recite",
+   "work_name": "Mùa xuân chín",
+   "scenario": "Em muốn học thuộc lòng bài thơ này để chuẩn bị cho tiết kiểm tra tới, thầy/cô giúp em nhé.",
+   "question": "Em hãy đọc nguyên văn nội dung của khổ 1 (Khung cảnh mùa xuân) trong bài thơ.",
+   "expected_points": [
+    "Yêu cầu học sinh đọc đúng nội dung khổ 1 theo văn bản"
+   ],
+   "served_tier": "lesson_recite",
+   "served_work": "Mùa xuân chín",
+   "latency_ms": 39.6,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": true,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 1.0
+  },
+  {
+   "subject": "ngu_van",
+   "intent": "explain",
+   "work_name": "Mùa xuân chín",
+   "scenario": "Em chưa hiểu rõ lắm về tâm trạng của nhân vật khách được thể hiện ở phần cuối bài thơ.",
+   "question": "Ngoài việc miêu tả cảnh xuân, tác giả đã gửi gắm những tâm tư, tình cảm gì qua bài thơ?",
+   "expected_points": [
+    "Niềm khát khao giao cảm với cuộc đời",
+    "Nỗi nhớ làng quê da diết",
+    "Sự trăn trở trước sự hiện hữu của cái đẹp"
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Mùa xuân chín",
+   "latency_ms": 38.7,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": true,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 1.0
+  },
+  {
+   "subject": "ngu_van",
+   "intent": "practice",
+   "work_name": "Mùa xuân chín",
+   "scenario": "Thưa thầy/cô, em muốn làm một vài bài tập về bố cục của tác phẩm này để nắm chắc kiến thức hơn ạ.",
+   "question": "Em hãy phân chia bố cục của bài thơ 'Mùa xuân chín' theo các nội dung cụ thể.",
+   "expected_points": [
+    "Khổ 1: Khung cảnh mùa xuân",
+    "Khổ 2, 3: Tình xuân",
+    "Khổ 4: Tâm trạng nhân vật khách"
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Mùa xuân chín",
+   "latency_ms": 28.6,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": false,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 0.85
+  },
+  {
+   "subject": "ngu_van",
+   "intent": "explain",
+   "work_name": "Hai chữ nước nhà",
+   "scenario": "Em đang làm bài tập về tác giả Trần Tuấn Khải nhưng chưa biết rõ về tiểu sử của ông ấy.",
+   "question": "Bạn hãy cho biết tác giả Trần Tuấn Khải quê ở đâu và ông có những chức danh/nghề nghiệp gì?",
+   "expected_points": [
+    "Quê ở Quang Xán, Mỹ Lộc, Nam Định",
+    "Là nhà thơ, nhà văn, nhà báo, dịch giả danh tiếng"
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Hai chữ nước nhà",
+   "latency_ms": 43.0,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": true,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 1.0
+  },
+  {
+   "subject": "ngu_van",
+   "intent": "practice",
+   "work_name": "Hai chữ nước nhà",
+   "scenario": "Em muốn luyện tập cách xác định bố cục của bài thơ này để chuẩn bị cho bài kiểm tra.",
+   "question": "Dựa vào nội dung bài học, phần 1 của tác phẩm (từ dòng 29 đến dòng 32) nói về nội dung gì?",
+   "expected_points": [
+    "Nỗi đau xót khắc khoải của người cha khi bị bắt đi",
+    "Không thể làm gì khác được, đành nhờ con thay mình làm tròn bổn phận với nước nhà"
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Hai chữ nước nhà",
+   "latency_ms": 35.5,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": false,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 0.85
+  },
+  {
+   "subject": "ngu_van",
+   "intent": "explain",
+   "work_name": "Hai chữ nước nhà",
+   "scenario": "Em đang đọc bài thơ nhưng thấy thể thơ này hơi lạ, em chưa hiểu rõ về thể loại của tác phẩm.",
+   "question": "Tác phẩm 'Hai chữ nước nhà' được viết theo thể thơ nào?",
+   "expected_points": [
+    "Thể thơ song thất lục bát"
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Hai chữ nước nhà",
+   "latency_ms": 35.2,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": true,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 1.0
+  },
+  {
+   "subject": "ngu_van",
+   "intent": "recite",
+   "work_name": "Hai chữ nước nhà",
+   "scenario": "Em muốn học thuộc lòng đoạn thơ nói về trách nhiệm của người con để đọc trước lớp.",
+   "question": "Bạn hãy trích dẫn hoặc nhắc lại nội dung chính của phần 3 (từ dòng 49 đến dòng 64) về trách nhiệm của người con.",
+   "expected_points": [
+    "Trách nhiệm của con là trang nam nhi đầu đội trời chân đạp đất",
+    "Phải sống sao cho không hổ thẹn với lịch sử, với tổ tiên, với đấng sinh thành"
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Hai chữ nước nhà",
+   "latency_ms": 256.6,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": false,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 0.85
+  },
+  {
+   "subject": "ngu_van",
+   "intent": "explain",
+   "work_name": "Hai chữ nước nhà",
+   "scenario": "Em đang làm bài phân tích và muốn tìm hiểu kỹ hơn về giá trị nghệ thuật của bài thơ.",
+   "question": "Theo nội dung bài học, tác phẩm đã sử dụng thành công thể thơ nào và có giọng điệu ra sao?",
+   "expected_points": [
+    "Sử dụng thành công thể thơ song thất lục bát",
+    "Giọng điệu da diết thông thiết và có sức gợi cảm mạnh mẽ"
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Hai chữ nước nhà",
+   "latency_ms": 31.0,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": true,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 1.0
+  },
+  {
+   "subject": "ngu_van",
+   "intent": "explain",
+   "work_name": "Hai chữ nước nhà",
+   "scenario": "Em muốn biết ý nghĩa sâu xa của việc mượn câu chuyện lịch sử trong bài thơ này.",
+   "question": "Việc mượn câu chuyện lịch sử trong tác phẩm nhằm mục đích bộc lộ tình cảm gì và khích lệ điều gì?",
+   "expected_points": [
+    "Bộc lộ tình cảm mãnh liệt với đất nước",
+    "Khích lệ lòng yêu nước của đồng bào"
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Hai chữ nước nhà",
+   "latency_ms": 35.8,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": true,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 1.0
+  },
+  {
+   "subject": "ngu_van",
+   "intent": "explain",
+   "work_name": "Cái bóng trên tường",
+   "scenario": "Em đang đọc bài 'Cái bóng trên tường' thì thấy tên tác giả và năm sinh năm 1924, thầy/cô cho em hỏi tác giả Nguyễn Đình Thi là một người như thế nào ạ?",
+   "question": "Hãy nêu những lĩnh vực mà tác giả Nguyễn Đình Thi đã tham gia sáng tác?",
+   "expected_points": [
+    "Là nhà thơ, nhà văn, nhà phê bình văn học, nhạc sĩ",
+    "Tác giả của nhiều tác phẩm nổi tiếng thuộc các thể loại: thơ, truyện, kịch, âm nhạc,…"
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Cái bóng trên tường",
+   "latency_ms": 47.8,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": true,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 1.0
+  },
+  {
+   "subject": "ngu_van",
+   "intent": "explain",
+   "work_name": "Cái bóng trên tường",
+   "scenario": "Em chưa hiểu rõ về thể loại của tác phẩm này, không biết đây là truyện ngắn hay là thể loại gì ạ?",
+   "question": "Tác phẩm 'Cái bóng trên tường' thuộc thể loại gì?",
+   "expected_points": [
+    "Thể loại: bi kịch"
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Cái bóng trên tường",
+   "latency_ms": 32.5,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 0,
+   "intent_ok": true,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 0.4
+  },
+  {
+   "subject": "ngu_van",
+   "intent": "explain",
+   "work_name": "Cái bóng trên tường",
+   "scenario": "Trong lúc làm bài tập phân tích bố cục, em bị lẫn lộn giữa phần 2 và phần 3, thầy/cô giúp em phân biệt được không?",
+   "question": "Nội dung chính của phần 2 (từ tiếp đến 'Đi đi!') và phần 3 (tiếp đến '- Mẹ ơi! Mẹ ơi!...') khác nhau như thế nào?",
+   "expected_points": [
+    "Phần 2: Người chồng hiểu lầm, đuổi người vợ đi",
+    "Phần 3: Hiểu lầm được hoá giải"
+   ],
+   "served_tier": "lesson_practice",
+   "served_work": "Cái bóng trên tường",
+   "latency_ms": 37.6,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": false,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 0.85
+  },
+  {
+   "subject": "ngu_van",
+   "intent": "explain",
+   "work_name": "Cái bóng trên tường",
+   "scenario": "Em muốn biết tại sao nhân vật Trương Sinh lại có hành động nghi oan cho vợ mình, thầy/cô giải thích giúp em với.",
+   "question": "Nguyên nhân nào dẫn đến việc Trương Sinh nghi oan cho vợ là Vũ Thị Thiết ngoại tình?",
+   "expected_points": [
+    "Vì nghe lời con trẻ",
+    "Vì tính đa nghi"
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Cái bóng trên tường",
+   "latency_ms": 37.3,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": true,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 1.0
+  },
+  {
+   "subject": "ngu_van",
+   "intent": "practice",
+   "work_name": "Cái bóng trên tường",
+   "scenario": "Em đang làm bài tập về giá trị nghệ thuật của tác phẩm nhưng chưa biết nhấn mạnh vào đâu, thầy/cô hướng dẫn em nhé.",
+   "question": "Văn bản 'Cái bóng trên tường' có những đặc sắc về nghệ thuật nào?",
+   "expected_points": [
+    "Tập trung sâu vào nội tâm nhân vật chính với nghệ thuật miêu tả tâm lí nhân vật đặc sắc",
+    "Hình ảnh 'cái bóng trên tường' là một hình ảnh ẩn dụ giàu sức gợi cảm"
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Cái bóng trên tường",
+   "latency_ms": 40.7,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": false,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 0.85
+  },
+  {
+   "subject": "ngu_van",
+   "intent": "explain",
+   "work_name": "Cái bóng trên tường",
+   "scenario": "Em muốn tìm hiểu xem thông qua câu chuyện này, tác giả muốn gửi gắm điều gì về người phụ nữ thời xưa ạ?",
+   "question": "Giá trị nội dung của tác phẩm thể hiện sự trân trọng vẻ đẹp nào của người phụ nữ?",
+   "expected_points": [
+    "Thể hiện sự thương cảm đối với số phận người phụ nữ",
+    "Ngợi ca, trân trọng vẻ đẹp nhân cách, tâm hồn của họ"
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Cái bóng trên tường",
+   "latency_ms": 36.6,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": true,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 1.0
+  },
+  {
+   "subject": "ngu_van",
+   "intent": "explain",
+   "work_name": "Kí ức tuổi thơ",
+   "scenario": "Thưa thầy/cô, em đang đọc bài 'Kí ức tuổi thơ' và muốn biết chính xác tác giả là ai và bài viết này được đăng ở đâu ạ?",
+   "question": "Tác giả của văn bản 'Kí ức tuổi thơ' là ai và tác phẩm này được đăng tải trên nền tảng nào?",
+   "expected_points": [
+    "Tác giả: An Viên (cộng tác viên của Báo Người lao động)",
+    "Đăng trên: https://nld.com.vn/ ngày 12/9/2022"
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Kí ức tuổi thơ",
+   "latency_ms": 26.5,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": true,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 1.0
+  },
+  {
+   "subject": "ngu_van",
+   "intent": "explain",
+   "work_name": "Kí ức tuổi thơ",
+   "scenario": "Em chưa hiểu rõ lắm về khái niệm 'kí ức tuổi thơ' được nhắc đến trong bài, thầy/cô giải thích giúp em với.",
+   "question": "Theo nội dung văn bản, kí ức tuổi thơ được hiểu như thế nào?",
+   "expected_points": [
+    "Kí ức tuổi thơ là những kỉ niệm của thời thơ ấu",
+    "Là món quà tinh thần quý giá",
+    "Là điểm tựa vững chắc và nguồn cảm hứng sáng tạo cho mỗi người"
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Kí ức tuổi thơ",
+   "latency_ms": 36.9,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": true,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 1.0
+  },
+  {
+   "subject": "ngu_van",
+   "intent": "explain",
+   "work_name": "Kí ức tuổi thơ",
+   "scenario": "Em thấy văn bản này có ngôn ngữ rất dễ hiểu, nhưng em muốn biết thể loại của nó là gì ạ?",
+   "question": "Văn bản 'Kí ức tuổi thơ' thuộc thể loại văn học nào?",
+   "expected_points": [
+    "Thể loại: Hồi kí"
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Kí ức tuổi thơ",
+   "latency_ms": 31.4,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": true,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 1.0
+  },
+  {
+   "subject": "ngu_van",
+   "intent": "explain",
+   "work_name": "Kí ức tuổi thơ",
+   "scenario": "Thầy/cô ơi, em muốn biết ý nghĩa của những kỉ niệm vui hay buồn trong quá khứ đối với sự trưởng thành của con người ạ.",
+   "question": "Theo tác giả, dù là kỉ niệm vui hay buồn thì kí ức tuổi thơ có ý nghĩa như thế nào đối với mỗi người?",
+   "expected_points": [
+    "Giúp con người trưởng thành và có thêm sức mạnh để hướng tới tương lai",
+    "Là nguồn động lực, điểm tựa giúp con người vượt qua khó khăn, thử thách",
+    "Là nguồn cảm hứng cho nghệ thuật"
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Kí ức tuổi thơ",
+   "latency_ms": 46.0,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": true,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 1.0
+  },
+  {
+   "subject": "ngu_van",
+   "intent": "recite",
+   "work_name": "Kí ức tuổi thơ",
+   "scenario": "Em muốn ôn tập lại bố cục của bài học này để chuẩn bị cho bài kiểm tra sắp tới, thầy/cô giúp em nhé.",
+   "question": "Hãy nêu nội dung chính của phần 1 và phần 2 trong bố cục của văn bản 'Kí ức tuổi thơ'.",
+   "expected_points": [
+    "Phần 1: Khái quát về ý nghĩa quan trọng của kí ức tuổi thơ trong cuộc sống mỗi người",
+    "Phần 2: Trình bày nhận thức của người viết về khái niệm kí ức tuổi thơ"
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Kí ức tuổi thơ",
+   "latency_ms": 44.6,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": false,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 0.85
+  },
+  {
+   "subject": "ngu_van",
+   "intent": "practice",
+   "work_name": "Kí ức tuổi thơ",
+   "scenario": "Em đã đọc xong bài và muốn thử sức với một bài tập liên quan đến nội dung vừa học, thầy/cô cho em xin bài tập nhé!",
+   "question": "Dựa vào giá trị nghệ thuật của văn bản, em hãy nhận xét về cách sử dụng ngôn ngữ của tác giả.",
+   "expected_points": [
+    "Ngôn ngữ giản dị",
+    "Gần gũi"
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Kí ức tuổi thơ",
+   "latency_ms": 32.1,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": false,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 0.85
+  },
+  {
+   "subject": "ngu_van",
+   "intent": "explain",
+   "work_name": "Cái roi tre",
+   "scenario": "Thưa thầy/cô, em đang tìm hiểu về tác giả của bài thơ này để làm bài thuyết trình.",
+   "question": "Tác giả Nguyễn Vĩnh Tiến là ai và ông có những nghề nghiệp nào?",
+   "expected_points": [
+    "Nguyễn Vĩnh Tiến sinh năm 1974",
+    "Là kiến trúc sư, nhà văn, nhà thơ người Phú Thọ"
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Cái roi tre",
+   "latency_ms": 38.7,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": true,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 1.0
+  },
+  {
+   "subject": "ngu_van",
+   "intent": "explain",
+   "work_name": "Cái roi tre",
+   "scenario": "Em đang đọc bài thơ nhưng không rõ về thể loại của nó là gì ạ.",
+   "question": "Tác phẩm 'Cái roi tre' được viết theo thể thơ nào?",
+   "expected_points": [
+    "Thể thơ lục bát"
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Cái roi tre",
+   "latency_ms": 29.7,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": true,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 1.0
+  },
+  {
+   "subject": "ngu_van",
+   "intent": "explain",
+   "work_name": "Cái roi tre",
+   "scenario": "Em chưa hiểu rõ về ý nghĩa sâu xa của hình ảnh cái roi tre trong bài thơ.",
+   "question": "Ngoài ý nghĩa về sự trừng phạt, hình ảnh 'cái roi tre' còn mang thông điệp gì về sự đau khổ?",
+   "expected_points": [
+    "Sự đau khổ không nhất thiết đến từ những phương pháp trừng phạt",
+    "Đến từ sự mất mát người thân"
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Cái roi tre",
+   "latency_ms": 38.1,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": true,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 1.0
+  },
+  {
+   "subject": "ngu_van",
+   "intent": "explain",
+   "work_name": "Cái roi tre",
+   "scenario": "Em muốn kiểm tra xem mình đã nhớ đúng bố cục của bài thơ chưa.",
+   "question": "Bố cục của bài thơ 'Cái roi tre' được chia làm mấy phần và nội dung chính của phần 2 là gì?",
+   "expected_points": [
+    "Bố cục gồm 2 phần",
+    "Phần 2: cái roi tre gắn liền với tuổi thơ 'tôi'"
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Cái roi tre",
+   "latency_ms": 26.7,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": true,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 1.0
+  },
+  {
+   "subject": "ngu_van",
+   "intent": "practice",
+   "work_name": "Cái roi tre",
+   "scenario": "Cô ơi, cô cho em làm một bài tập nhỏ để ôn lại giá trị nghệ thuật của bài thơ nhé.",
+   "question": "Nêu những đặc sắc về nghệ thuật được nhắc đến trong bài thơ 'Cái roi tre'?",
+   "expected_points": [
+    "Nghệ thuật quan sát, miêu tả tỉ mỉ và khả năng cảm nhận sự vật tinh tế bằng tổng hòa các giác quan",
+    "Sử dụng hình ảnh 'cái roi tre' làm chủ đề dẫn dắt với nhiều tầng ý nghĩa"
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Cái roi tre",
+   "latency_ms": 29.6,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": false,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 0.85
+  },
+  {
+   "subject": "ngu_van",
+   "intent": "recite",
+   "work_name": "Cái roi tre",
+   "scenario": "Em muốn đọc thuộc lòng bài thơ này để chuẩn bị cho tiết kiểm tra miệng.",
+   "question": "Tác phẩm 'Cái roi tre' được in trong tập thơ nào và do nhà xuất bản nào phát hành?",
+   "expected_points": [
+    "In trong tập thơ 'Những bình minh khác'",
+    "NXB Hội Nhà văn, 2001"
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Cái roi tre",
+   "latency_ms": 32.6,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": false,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 0.85
+  },
+  {
+   "subject": "ngu_van",
+   "intent": "explain",
+   "work_name": "Ngôi mộ cổ",
+   "scenario": "Em đang đọc về tác giả Phạm Cao Củng nhưng chưa rõ ông ấy thuộc giai đoạn văn học nào ạ.",
+   "question": "Tác giả Phạm Cao Củng là người có thành tựu trong giai đoạn văn học nào của Việt Nam?",
+   "expected_points": [
+    "Giai đoạn 1930 – 1945"
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Ngôi mộ cổ",
+   "latency_ms": 43.7,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": true,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 1.0
+  },
+  {
+   "subject": "ngu_van",
+   "intent": "explain",
+   "work_name": "Ngôi mộ cổ",
+   "scenario": "Thưa thầy/cô, em muốn biết thể loại của tác phẩm Ngôi mộ cổ là gì để dễ hình dung cách viết ạ.",
+   "question": "Tác phẩm Ngôi mộ cổ thuộc thể loại văn học nào?",
+   "expected_points": [
+    "Truyện trinh thám"
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Ngôi mộ cổ",
+   "latency_ms": 35.3,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": true,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 1.0
+  },
+  {
+   "subject": "ngu_van",
+   "intent": "explain",
+   "work_name": "Ngôi mộ cổ",
+   "scenario": "Em chưa hiểu rõ bố cục của bài này, phần đầu và phần sau chia như thế nào ạ?",
+   "question": "Bố cục của tác phẩm Ngôi mộ cổ được chia làm mấy phần và nội dung chính của phần 1 là gì?",
+   "expected_points": [
+    "Chia làm 2 phần",
+    "Phần 1 (từ đầu đến trên mây): nói về dụng ý của Kỳ Phát"
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Ngôi mộ cổ",
+   "latency_ms": 38.4,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": true,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 1.0
+  },
+  {
+   "subject": "ngu_van",
+   "intent": "practice",
+   "work_name": "Ngôi mộ cổ",
+   "scenario": "Em muốn luyện tập cách xác định giá trị nội dung của truyện, thầy/cô cho em làm bài tập về phần này nhé.",
+   "question": "Dựa vào nội dung bài học, hãy nêu những giá trị về nội dung mà tác phẩm Ngôi mộ cổ mang lại?",
+   "expected_points": [
+    "Ca ngợi trí thông minh, sự nhanh nhạy và tinh tế của nhân vật Kỳ Phát",
+    "Phản ánh một phần xã hội đương thời với những ước mơ giàu sang và các mối quan hệ gia đình"
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Ngôi mộ cổ",
+   "latency_ms": 31.5,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": false,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 0.85
+  },
+  {
+   "subject": "ngu_van",
+   "intent": "explain",
+   "work_name": "Ngôi mộ cổ",
+   "scenario": "Em thấy tình huống truyện trong bài này rất hấp dẫn, nhưng em chưa rõ về giá trị nghệ thuật của nó.",
+   "question": "Tác phẩm Ngôi mộ cổ có những đặc sắc gì về mặt nghệ thuật?",
+   "expected_points": [
+    "Nghệ thuật xây dựng nhân vật trinh thám thông minh, tinh tế và sáng tạo",
+    "Tình huống truyện đặc sắc, mang tính kịch tính và hấp dẫn"
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Ngôi mộ cổ",
+   "latency_ms": 30.6,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": true,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 1.0
+  },
+  {
+   "subject": "ngu_van",
+   "intent": "recite",
+   "work_name": "Ngôi mộ cổ",
+   "scenario": "Em đang học thuộc lòng về nhân vật Kỳ Phát, thầy/cô kiểm tra giúp em xem em nhớ đúng không ạ.",
+   "question": "Nhân vật Kỳ Phát đã dẫn dắt nhóm vượt qua thử thách để tìm thấy kho báu bằng cách nào?",
+   "expected_points": [
+    "Thông qua việc giải mã những manh mối bí ẩn từ bài thơ"
+   ],
+   "served_tier": "lesson_practice",
+   "served_work": "Ngôi mộ cổ",
+   "latency_ms": 41.0,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": false,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 0.85
+  }
+ ]
+}

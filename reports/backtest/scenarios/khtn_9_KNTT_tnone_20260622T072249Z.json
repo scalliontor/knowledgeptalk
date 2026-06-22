@@ -1,0 +1,1081 @@
+{
+ "meta": {
+  "subject": "khtn",
+  "grade": 9,
+  "book": "KNTT",
+  "tap": null,
+  "n_lessons_requested": 8,
+  "n_lessons_used": 8,
+  "port": "8891",
+  "neo4j_uri": "bolt://localhost:7688",
+  "generated_utc": "20260622T072249Z"
+ },
+ "summary": {
+  "overall": {
+   "n": 48,
+   "anchor%": 100.0,
+   "knowledge_correct_avg": 1.5,
+   "knowledge_full%": 75.0,
+   "intent%": 60.4,
+   "hallucination%": 18.8,
+   "real_cruft": 0,
+   "score_avg": 0.737,
+   "total": 48,
+   "errors": 0
+  },
+  "by_subject": {
+   "khtn": {
+    "n": 48,
+    "anchor%": 100.0,
+    "knowledge_correct_avg": 1.5,
+    "knowledge_full%": 75.0,
+    "intent%": 60.4,
+    "hallucination%": 18.8,
+    "real_cruft": 0,
+    "score_avg": 0.737
+   }
+  },
+  "by_intent": {
+   "explain": {
+    "n": 35,
+    "anchor%": 100.0,
+    "knowledge_correct_avg": 1.486,
+    "knowledge_full%": 74.3,
+    "intent%": 68.6,
+    "hallucination%": 17.1,
+    "real_cruft": 0,
+    "score_avg": 0.756
+   },
+   "practice": {
+    "n": 10,
+    "anchor%": 100.0,
+    "knowledge_correct_avg": 1.6,
+    "knowledge_full%": 80.0,
+    "intent%": 50.0,
+    "hallucination%": 20.0,
+    "real_cruft": 0,
+    "score_avg": 0.725
+   },
+   "recite": {
+    "n": 3,
+    "anchor%": 100.0,
+    "knowledge_correct_avg": 1.333,
+    "knowledge_full%": 66.7,
+    "intent%": 0.0,
+    "hallucination%": 33.3,
+    "real_cruft": 0,
+    "score_avg": 0.567
+   }
+  }
+ },
+ "results": [
+  {
+   "subject": "khtn",
+   "intent": "explain",
+   "work_name": "Nhận biết một số dụng cụ, hoá chất. Thuyết trình một vấn đề khoa học",
+   "scenario": "Thưa thầy/cô, em đang chuẩn bị làm báo cáo thực hành nhưng không biết một bản báo cáo khoa học đầy đủ thì cần có những phần nào ạ?",
+   "question": "Một bản báo cáo khoa học thường bao gồm các phần chính nào?",
+   "expected_points": [
+    "Mục tiêu",
+    "Phương pháp",
+    "Kết quả và thảo luận"
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Nhận biết một số dụng cụ, hoá chất. Thuyết trình một vấn đề khoa học",
+   "latency_ms": 31.0,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": true,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 1.0
+  },
+  {
+   "subject": "khtn",
+   "intent": "explain",
+   "work_name": "Nhận biết một số dụng cụ, hoá chất. Thuyết trình một vấn đề khoa học",
+   "scenario": "Trong lúc làm thí nghiệm, em thấy bạn mình định tự ý lấy hai loại hóa chất khác nhau ra để trộn lại với nhau, em nên nhắc bạn thế nào cho đúng ạ?",
+   "question": "Khi sử dụng hóa chất, tại sao chúng ta không được tự ý nghiền hoặc trộn các hóa chất với nhau?",
+   "expected_points": [
+    "Tránh phản ứng nguy hiểm",
+    "Đảm bảo độ tinh khiết của hóa chất"
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Nhận biết một số dụng cụ, hoá chất. Thuyết trình một vấn đề khoa học",
+   "latency_ms": 42.3,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": true,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 1.0
+  },
+  {
+   "subject": "khtn",
+   "intent": "explain",
+   "work_name": "Nhận biết một số dụng cụ, hoá chất. Thuyết trình một vấn đề khoa học",
+   "scenario": "Em đang tập thuyết trình kết quả nghiên cứu trước lớp, em có thể sử dụng những cách thức nào để truyền đạt nội dung ạ?",
+   "question": "Có những cách thức nào để trình bày hoặc thuyết trình một vấn đề khoa học?",
+   "expected_points": [
+    "Sử dụng các phần mềm trình chiếu (như PowerPoint)",
+    "Sử dụng báo cáo treo tường"
+   ],
+   "served_tier": "lesson_practice",
+   "served_work": "Nhận biết một số dụng cụ, hoá chất. Thuyết trình một vấn đề khoa học",
+   "latency_ms": 35.1,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": false,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 0.85
+  },
+  {
+   "subject": "khtn",
+   "intent": "explain",
+   "work_name": "Nhận biết một số dụng cụ, hoá chất. Thuyết trình một vấn đề khoa học",
+   "scenario": "Em chưa hiểu rõ lắm về việc tại sao khi đun nóng dung dịch trong cốc thủy tinh thì lại phải đặt lên một cái lưới tản nhiệt ạ?",
+   "question": "Tại sao khi đun nóng dung dịch trong cốc thủy tinh cần dùng lưới tản nhiệt?",
+   "expected_points": [
+    "Để nhiệt lượng được phân bố đều",
+    "Tránh tình trạng cốc bị nứt vỡ do nhiệt độ tập trung quá cao tại một điểm"
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Nhận biết một số dụng cụ, hoá chất. Thuyết trình một vấn đề khoa học",
+   "latency_ms": 38.7,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": true,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 1.0
+  },
+  {
+   "subject": "khtn",
+   "intent": "explain",
+   "work_name": "Nhận biết một số dụng cụ, hoá chất. Thuyết trình một vấn đề khoa học",
+   "scenario": "Cô ơi, em chuẩn bị lấy hóa chất để làm thí nghiệm, em cần lưu ý điều gì đầu tiên để đảm bảo an toàn và chính xác ạ?",
+   "question": "Trước khi sử dụng hóa chất, chúng ta cần phải làm gì và tại sao?",
+   "expected_points": [
+    "Phải đọc kỹ nhãn mác",
+    "Để tránh sử dụng nhầm hóa chất",
+    "Đảm bảo an toàn và độ chính xác của thí nghiệm"
+   ],
+   "served_tier": "lesson_practice",
+   "served_work": "Nhận biết một số dụng cụ, hoá chất. Thuyết trình một vấn đề khoa học",
+   "latency_ms": 33.6,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": false,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 0.85
+  },
+  {
+   "subject": "khtn",
+   "intent": "practice",
+   "work_name": "Nhận biết một số dụng cụ, hoá chất. Thuyết trình một vấn đề khoa học",
+   "scenario": "Thầy ơi, thầy có thể cho em làm một vài bài tập hoặc câu hỏi ôn tập về phần nhận biết dụng cụ và hóa chất này để em luyện tập không ạ?",
+   "question": "Hãy liệt kê các nhóm dụng cụ thí nghiệm chính đã được học.",
+   "expected_points": [
+    "Dụng cụ thủy tinh (phễu, bình cầu, cốc...)",
+    "Dụng cụ đo (điện kế, đèn dây tóc...)",
+    "Các thiết bị hỗ trợ khác"
+   ],
+   "served_tier": "lesson_practice",
+   "served_work": "Nhận biết một số dụng cụ, hoá chất. Thuyết trình một vấn đề khoa học",
+   "latency_ms": 25.6,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": true,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 1.0
+  },
+  {
+   "subject": "khtn",
+   "intent": "explain",
+   "work_name": "Động năng. Thế năng",
+   "scenario": "Thầy ơi, em đang đọc bài mà không phân biệt được khi nào vật có động năng, khi nào có thế năng trọng trường ạ.",
+   "question": "Em hãy cho biết động năng và thế năng trọng trường là gì?",
+   "expected_points": [
+    "Động năng là dạng năng lượng vật có được do đang chuyển động.",
+    "Thế năng trọng trường là dạng năng lượng vật có được do độ cao của vật so với mặt đất (hoặc gốc được chọn)."
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Động năng. Thế năng",
+   "latency_ms": 35.4,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": true,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 1.0
+  },
+  {
+   "subject": "khtn",
+   "intent": "explain",
+   "work_name": "Động năng. Thế năng",
+   "scenario": "Em thấy một chiếc xe đang chạy trên đường, vậy chiếc xe đó có đang sở hữu dạng năng lượng nào không ạ?",
+   "question": "Chiếc xe đang chuyển động thì có động năng không và động năng đó phụ thuộc vào những yếu tố nào?",
+   "expected_points": [
+    "Vật đang chuyển động thì có động năng.",
+    "Động năng phụ thuộc vào khối lượng và tốc độ của vật."
+   ],
+   "served_tier": "lesson_practice",
+   "served_work": "Động năng. Thế năng",
+   "latency_ms": 43.4,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 0,
+   "intent_ok": false,
+   "hallucination": true,
+   "cruft_real": false,
+   "score": 0.0
+  },
+  {
+   "subject": "khtn",
+   "intent": "explain",
+   "work_name": "Động năng. Thế năng",
+   "scenario": "Em chưa hiểu rõ phần thế năng, tại sao một vật ở trên cao lại có năng lượng ạ?",
+   "question": "Thế năng trọng trường phụ thuộc vào những yếu tố nào?",
+   "expected_points": [
+    "Thế năng trọng trường phụ thuộc vào khối lượng của vật.",
+    "Thế năng trọng trường phụ thuộc vào độ cao của vật so với gốc thế năng."
+   ],
+   "served_tier": "lesson_practice",
+   "served_work": "Động năng. Thế năng",
+   "latency_ms": 39.7,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 0,
+   "intent_ok": false,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 0.25
+  },
+  {
+   "subject": "khtn",
+   "intent": "explain",
+   "work_name": "Động năng. Thế năng",
+   "scenario": "Thầy ơi, em có một câu hỏi về sự thay đổi tốc độ, nếu em chạy nhanh gấp đôi thì động năng của em thay đổi thế nào ạ?",
+   "question": "Khi tốc độ của một vật tăng lên gấp đôi thì động năng của vật đó sẽ thay đổi như thế nào?",
+   "expected_points": [
+    "Khi tốc độ tăng gấp đôi thì động năng tăng gấp bốn lần."
+   ],
+   "served_tier": "lesson_practice",
+   "served_work": "Động năng. Thế năng",
+   "latency_ms": 32.9,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 0,
+   "intent_ok": false,
+   "hallucination": true,
+   "cruft_real": false,
+   "score": 0.0
+  },
+  {
+   "subject": "khtn",
+   "intent": "practice",
+   "work_name": "Động năng. Thế năng",
+   "scenario": "Em muốn tự luyện tập thêm các dạng bài tập tính toán về phần này, thầy cho em xin bài tập nhé!",
+   "question": "Tính động năng của một quả bóng đá có khối lượng 0,45 kg đang bay với tốc độ 10 m/s.",
+   "expected_points": [
+    "Áp dụng công thức W_đ = 1/2 * m * v^2.",
+    "Kết quả tính toán: 1/2 * 0,45 * 10^2 = 22,5 (J)."
+   ],
+   "served_tier": "lesson_practice",
+   "served_work": "Động năng. Thế năng",
+   "latency_ms": 41.5,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": true,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 1.0
+  },
+  {
+   "subject": "khtn",
+   "intent": "practice",
+   "work_name": "Động năng. Thế năng",
+   "scenario": "Em đang làm bài tập về một bao xi măng đặt trên cao nhưng chưa biết dùng công thức nào để tính năng lượng ạ.",
+   "question": "Một bao xi măng có trọng lượng 500 N ở độ cao 20 m so với mặt đất. Tính thế năng trọng trường của bao xi măng đó.",
+   "expected_points": [
+    "Áp dụng công thức W_t = P * h.",
+    "Kết quả tính toán: 500 * 20 = 10.000 (J)."
+   ],
+   "served_tier": "lesson_practice",
+   "served_work": "Động năng. Thế năng",
+   "latency_ms": 244.2,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 0,
+   "intent_ok": true,
+   "hallucination": true,
+   "cruft_real": false,
+   "score": 0.0
+  },
+  {
+   "subject": "khtn",
+   "intent": "explain",
+   "work_name": "Cơ năng",
+   "scenario": "Thưa thầy/cô, em đang đọc sách mà thấy cụm từ 'cơ năng' cứ lặp đi lặp lại, em chưa rõ nó thực sự là gì ạ.",
+   "question": "Cơ năng là gì và nó bao gồm những thành phần nào?",
+   "expected_points": [
+    "Cơ năng là tổng năng lượng của động năng và thế năng mà vật có được.",
+    "Cơ năng bao gồm động năng (năng lượng do chuyển động) và thế năng (năng lượng do vị trí hoặc biến dạng)."
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Cơ năng",
+   "latency_ms": 37.3,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": true,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 1.0
+  },
+  {
+   "subject": "khtn",
+   "intent": "explain",
+   "work_name": "Cơ năng",
+   "scenario": "Em thấy một chiếc máy bay đang bay lượn trên bầu trời ở độ cao rất lớn, vậy lúc đó nó có năng lượng gì không ạ?",
+   "question": "Trong trường hợp chiếc máy bay đang bay ở độ cao lớn, nó có những dạng năng lượng nào?",
+   "expected_points": [
+    "Máy bay có động năng do đang bay.",
+    "Máy bay có thế năng trọng trường do ở độ cao so với mặt đất."
+   ],
+   "served_tier": "lesson_practice",
+   "served_work": "Cơ năng",
+   "latency_ms": 42.2,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 0,
+   "intent_ok": false,
+   "hallucination": true,
+   "cruft_real": false,
+   "score": 0.0
+  },
+  {
+   "subject": "khtn",
+   "intent": "explain",
+   "work_name": "Cơ năng",
+   "scenario": "Em đang quan sát con lắc đơn dao động, em thấy khi nó rơi xuống thì tốc độ nhanh lên, có phải là do sự chuyển hóa năng lượng không ạ?",
+   "question": "Khi con lắc đơn dao động (bỏ qua lực cản), sự thay đổi giữa thế năng và động năng diễn ra như thế nào?",
+   "expected_points": [
+    "Tại vị trí cao nhất, thế năng cực đại.",
+    "Khi rơi xuống vị trí thấp nhất, thế năng chuyển hóa thành động năng cực đại."
+   ],
+   "served_tier": "lesson_practice",
+   "served_work": "Cơ năng",
+   "latency_ms": 262.0,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": false,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 0.85
+  },
+  {
+   "subject": "khtn",
+   "intent": "explain",
+   "work_name": "Cơ năng",
+   "scenario": "Em thắc mắc là nếu mình thả một quả bóng rơi từ trên cao xuống thì năng lượng của nó sẽ thay đổi ra sao ạ?",
+   "question": "Trong quá trình một vật đang rơi, sự chuyển hóa giữa thế năng và động năng diễn ra như thế nào?",
+   "expected_points": [
+    "Thế năng giảm dần.",
+    "Động năng tăng dần."
+   ],
+   "served_tier": "lesson_practice",
+   "served_work": "Cơ năng",
+   "latency_ms": 35.5,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": false,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 0.85
+  },
+  {
+   "subject": "khtn",
+   "intent": "explain",
+   "work_name": "Cơ năng",
+   "scenario": "Thưa thầy/cô, em thấy khi vật chuyển động thực tế thường bị chậm lại do ma sát, vậy cơ năng có luôn được giữ nguyên không?",
+   "question": "Khi có lực cản (như ma sát, lực cản không khí) tác động lên vật, cơ năng sẽ thay đổi như thế nào?",
+   "expected_points": [
+    "Cơ năng sẽ bị hao hụt.",
+    "Cơ năng chuyển hóa thành nhiệt năng."
+   ],
+   "served_tier": "lesson_practice",
+   "served_work": "Cơ năng",
+   "latency_ms": 41.7,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 0,
+   "intent_ok": false,
+   "hallucination": true,
+   "cruft_real": false,
+   "score": 0.0
+  },
+  {
+   "subject": "khtn",
+   "intent": "practice",
+   "work_name": "Cơ năng",
+   "scenario": "Em đã nắm được lý thuyết về cơ năng rồi, thầy/cô cho em xin một vài bài tập để luyện tập thêm phần này được không ạ?",
+   "question": "Dựa vào nội dung đã học, hãy cho biết khi bỏ qua lực cản, tổng động năng và thế năng của vật được gọi là gì và có tính chất gì?",
+   "expected_points": [
+    "Tổng động năng và thế năng gọi là cơ năng.",
+    "Khi bỏ qua lực cản, cơ năng của vật được bảo toàn."
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Cơ năng",
+   "latency_ms": 36.8,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": false,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 0.85
+  },
+  {
+   "subject": "khtn",
+   "intent": "explain",
+   "work_name": "Công và công suất",
+   "scenario": "Thưa thầy/cô, em đang đọc bài về công cơ học nhưng chưa rõ lắm về khái niệm này.",
+   "question": "Theo nội dung bài học, công cơ học là gì và khi nào thì công mới xuất hiện?",
+   "expected_points": [
+    "Công cơ học là đại lượng đặc trưng cho tác dụng của lực làm vật dịch chuyển.",
+    "Công chỉ xuất hiện khi có lực tác dụng và làm vật dịch chuyển theo phương của lực."
+   ],
+   "served_tier": "lesson_practice",
+   "served_work": "Công và công suất",
+   "latency_ms": 43.7,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 0,
+   "intent_ok": false,
+   "hallucination": true,
+   "cruft_real": false,
+   "score": 0.0
+  },
+  {
+   "subject": "khtn",
+   "intent": "explain",
+   "work_name": "Công và công suất",
+   "scenario": "Em thấy có hai đại lượng là công và công suất, em không phân biệt được sự khác nhau giữa chúng.",
+   "question": "Công suất dùng để đặc trưng cho điều gì và nó tỉ lệ thuận với đại lượng nào?",
+   "expected_points": [
+    "Công suất đặc trưng cho tốc độ thực hiện công (độ nhanh hay chậm của việc thực hiện công).",
+    "Công suất tỉ lệ thuận với công thực hiện được trong một đơn vị thời gian."
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Công và công suất",
+   "latency_ms": 40.4,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": true,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 1.0
+  },
+  {
+   "subject": "khtn",
+   "intent": "recite",
+   "work_name": "Công và công suất",
+   "scenario": "Em đang làm bài tập về xe nâng nhưng bị rối phần đơn vị đo lường.",
+   "question": "Đơn vị của công và đơn vị của công suất lần lượt là gì?",
+   "expected_points": [
+    "Đơn vị của công là Joule (J).",
+    "Đơn vị của công suất là Watt (W)."
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Công và công suất",
+   "latency_ms": 36.5,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": false,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 0.85
+  },
+  {
+   "subject": "khtn",
+   "intent": "practice",
+   "work_name": "Công và công suất",
+   "scenario": "Em muốn kiểm tra xem mình có tính đúng công thức tính công hay không.",
+   "question": "Công thức tính công (A) khi biết lực tác dụng (F) và quãng đường dịch chuyển (s) là gì?",
+   "expected_points": [
+    "A = F . s",
+    "Trong đó F là lực tác dụng, s là quãng đường dịch chuyển theo phương của lực."
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Công và công suất",
+   "latency_ms": 39.1,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": false,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 0.85
+  },
+  {
+   "subject": "khtn",
+   "intent": "explain",
+   "work_name": "Công và công suất",
+   "scenario": "Em có một bài toán so sánh hai chiếc xe nâng, thầy/cô giúp em hiểu tại sao xe này lại mạnh hơn xe kia nhé.",
+   "question": "Nếu hai xe nâng cùng nâng một vật lên cùng một độ cao, xe nào sẽ có công suất lớn hơn nếu nó thực hiện trong thời gian ngắn hơn?",
+   "expected_points": [
+    "Xe thực hiện cùng một công trong thời gian ngắn hơn sẽ có công suất lớn hơn.",
+    "Công suất đặc trưng cho tốc độ thực hiện công."
+   ],
+   "served_tier": "lesson_practice",
+   "served_work": "Công và công suất",
+   "latency_ms": 40.2,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 0,
+   "intent_ok": false,
+   "hallucination": true,
+   "cruft_real": false,
+   "score": 0.0
+  },
+  {
+   "subject": "khtn",
+   "intent": "practice",
+   "work_name": "Công và công suất",
+   "scenario": "Em đang tính toán về công suất của một vật đang chuyển động.",
+   "question": "Ngoài công thức tính theo thời gian, công suất (P) còn được tính theo lực (F) và tốc độ (v) như thế nào?",
+   "expected_points": [
+    "P = F . v",
+    "Trong đó v là tốc độ của vật."
+   ],
+   "served_tier": "lesson_practice",
+   "served_work": "Công và công suất",
+   "latency_ms": 21.4,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": true,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 1.0
+  },
+  {
+   "subject": "khtn",
+   "intent": "explain",
+   "work_name": "Khúc xạ ánh sáng",
+   "scenario": "Thưa thầy/cô, em đang xem video thí nghiệm thì thấy tia sáng đi qua mặt ngăn cách giữa hai chất thì bị đổi hướng, hiện tượng này gọi là gì ạ?",
+   "question": "Khái niệm khúc xạ ánh sáng là gì?",
+   "expected_points": [
+    "Là hiện tượng tia sáng bị đổi phương (b bị gãy khúc)",
+    "Khi truyền qua mặt phân cách giữa hai môi trường trong suốt khác nhau"
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Khúc xạ ánh sáng",
+   "latency_ms": 31.9,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": true,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 1.0
+  },
+  {
+   "subject": "khtn",
+   "intent": "explain",
+   "work_name": "Khúc xạ ánh sáng",
+   "scenario": "Em đang uống nước thì thấy cái ống hút cắm trong cốc trông cứ như bị gãy ngay tại mặt nước ấy, tại sao lại có hiện tượng lạ vậy ạ?",
+   "question": "Tại sao chiếc ống hút cắm trong cốc nước trông như bị gãy tại mặt nước?",
+   "expected_points": [
+    "Do hiện tượng khúc xạ ánh sáng",
+    "Khi tia sáng truyền từ nước ra không khí làm thay đổi phương truyền của ánh sáng đến mắt ta"
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Khúc xạ ánh sáng",
+   "latency_ms": 36.6,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": true,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 1.0
+  },
+  {
+   "subject": "khtn",
+   "intent": "explain",
+   "work_name": "Khúc xạ ánh sáng",
+   "scenario": "Em chưa hiểu rõ lắm về cách đo đạc, thầy/cô cho em hỏi góc tới và góc khúc xạ thì phải đo dựa trên đường nào ạ?",
+   "question": "Góc tới và góc khúc xạ luôn được đo so với đường nào?",
+   "expected_points": [
+    "Đo so với đường pháp tuyến tại điểm tới"
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Khúc xạ ánh sáng",
+   "latency_ms": 31.5,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": true,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 1.0
+  },
+  {
+   "subject": "khtn",
+   "intent": "explain",
+   "work_name": "Khúc xạ ánh sáng",
+   "scenario": "Em đang làm bài tập về tia sáng đi từ không khí vào nước, em thấy góc khúc xạ nhỏ hơn góc tới, điều này có đúng không ạ?",
+   "question": "Khi tia sáng truyền từ không khí vào nước, so sánh góc khúc xạ (r) và góc tới (i) như thế nào?",
+   "expected_points": [
+    "Vì nước có chiết suất lớn hơn không khí nên tia sáng bị lệch gần pháp tuyến hơn",
+    "Góc khúc xạ r < góc tới i"
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Khúc xạ ánh sáng",
+   "latency_ms": 42.4,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": true,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 1.0
+  },
+  {
+   "subject": "khtn",
+   "intent": "recite",
+   "work_name": "Khúc xạ ánh sáng",
+   "scenario": "Dạ thầy/cô ơi, chiết suất tỉ đối của hai môi trường thì phụ thuộc vào yếu tố nào vậy ạ?",
+   "question": "Chiết suất tỉ đối của hai môi trường phụ thuộc vào yếu tố nào?",
+   "expected_points": [
+    "Phụ thuộc vào bản chất của mỗi môi trường"
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Khúc xạ ánh sáng",
+   "latency_ms": 33.1,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": false,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 0.85
+  },
+  {
+   "subject": "khtn",
+   "intent": "practice",
+   "work_name": "Khúc xạ ánh sáng",
+   "scenario": "Em muốn luyện tập thêm về phần công thức tính toán, thầy/cô cho em xin một bài tập vận dụng công thức này được không ạ?",
+   "question": "Hãy viết công thức liên hệ giữa góc tới (i), góc khúc xạ (r) và chiết suất tỉ đối (n21).",
+   "expected_points": [
+    "Công thức: n21 = sin(i) / sin(r)"
+   ],
+   "served_tier": "lesson_practice",
+   "served_work": "Khúc xạ ánh sáng",
+   "latency_ms": 33.3,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 0,
+   "intent_ok": true,
+   "hallucination": true,
+   "cruft_real": false,
+   "score": 0.0
+  },
+  {
+   "subject": "khtn",
+   "intent": "explain",
+   "work_name": "Phản xạ toàn phần",
+   "scenario": "Thưa thầy/cô, em vừa đọc xong phần định nghĩa về phản xạ toàn phần nhưng vẫn chưa phân biệt rõ nó với hiện tượng khúc xạ bình thường.",
+   "question": "Hiện tượng phản xạ toàn phần khác với hiện tượng khúc xạ ở chỗ nào khi nói về sự tồn tại của tia sáng ở môi trường thứ hai?",
+   "expected_points": [
+    "Tất cả các tia sáng tới mặt phân cách đều bị phản xạ trở lại môi trường cũ",
+    "Không có tia khúc xạ đi sang môi trường thứ hai"
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Phản xạ toàn phần",
+   "latency_ms": 28.5,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": true,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 1.0
+  },
+  {
+   "subject": "khtn",
+   "intent": "explain",
+   "work_name": "Phản xạ toàn phần",
+   "scenario": "Em đang xem video về cáp quang thì thấy bảo nó truyền tín hiệu rất nhanh, nhưng em không hiểu cơ chế hoạt động của nó.",
+   "question": "Tại sao ánh sáng có thể truyền đi xa trong sợi quang mà không bị thất thoát ra ngoài?",
+   "expected_points": [
+    "Ánh sáng truyền trong lõi sợi quang liên tục gặp hiện tượng phản xạ toàn phần",
+    "Hiện tượng xảy ra tại mặt phân cách giữa lõi và vỏ"
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Phản xạ toàn phần",
+   "latency_ms": 38.3,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": true,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 1.0
+  },
+  {
+   "subject": "khtn",
+   "intent": "explain",
+   "work_name": "Phản xạ toàn phần",
+   "scenario": "Em thấy trên mạng có ảnh chụp hiện tượng ảo ảnh trên sa mạc trông rất lạ, thầy giải thích giúp em được không ạ?",
+   "question": "Hiện tượng ảo ảnh trên sa mạc được hình thành do nguyên nhân nào?",
+   "expected_points": [
+    "Ánh sáng bị khúc xạ và phản xạ toàn phần",
+    "Do các lớp không khí có nhiệt độ và chiết suất khác nhau gần mặt đất"
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Phản xạ toàn phần",
+   "latency_ms": 25.4,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": true,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 1.0
+  },
+  {
+   "subject": "khtn",
+   "intent": "practice",
+   "work_name": "Phản xạ toàn phần",
+   "scenario": "Em muốn kiểm tra xem mình đã nắm vững điều kiện để xảy ra phản xạ toàn phần chưa, thầy cho em làm bài tập được không?",
+   "question": "Để xảy ra hiện tượng phản xạ toàn phần, cần thỏa mãn những điều kiện nào về chiết suất và góc tới?",
+   "expected_points": [
+    "Ánh sáng truyền từ môi trường có chiết suất lớn sang môi trường có chiết suất nhỏ hơn (n1 > n2)",
+    "Góc tới (i) phải lớn hơn hoặc bằng góc tới hạn (rt)"
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Phản xạ toàn phần",
+   "latency_ms": 35.6,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": false,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 0.85
+  },
+  {
+   "subject": "khtn",
+   "intent": "explain",
+   "work_name": "Phản xạ toàn phần",
+   "scenario": "Em đang làm bài tập về nhà nhưng em chưa hiểu rõ về mối quan hệ giữa chiết suất của hai môi trường.",
+   "question": "Phản xạ toàn phần chỉ xảy ra khi ánh sáng truyền từ môi trường như thế nào sang môi trường như thế nào?",
+   "expected_points": [
+    "Truyền từ môi trường chiết quang hơn sang môi trường chiết quang kém hơn",
+    "Chiết suất môi trường tới (n1) phải lớn hơn chiết suất môi trường khúc xạ (n2)"
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Phản xạ toàn phần",
+   "latency_ms": 42.8,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": true,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 1.0
+  },
+  {
+   "subject": "khtn",
+   "intent": "recite",
+   "work_name": "Phản xạ toàn phần",
+   "scenario": "Em cần học thuộc công thức tính góc tới hạn để chuẩn bị cho bài kiểm tra sắp tới, thầy nhắc lại giúp em với.",
+   "question": "Công thức để tính sin của góc tới hạn (rt) trong trường hợp này là gì?",
+   "expected_points": [
+    "sin(rt) = n2 / n1",
+    "n1 là chiết suất môi trường tới, n2 là chiết suất môi trường khúc xạ"
+   ],
+   "served_tier": "lesson_practice",
+   "served_work": "Phản xạ toàn phần",
+   "latency_ms": 41.7,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 0,
+   "intent_ok": false,
+   "hallucination": true,
+   "cruft_real": false,
+   "score": 0.0
+  },
+  {
+   "subject": "khtn",
+   "intent": "explain",
+   "work_name": "Lăng kính",
+   "scenario": "Thưa thầy/cô, em vừa đọc sách và thấy nhắc đến lăng kính, nhưng em vẫn chưa rõ cấu tạo của nó như thế nào ạ.",
+   "question": "Lăng kính là gì và đặc điểm cấu tạo của hai mặt bên của nó như thế nào?",
+   "expected_points": [
+    "Là một khối chất trong suốt (thường là thủy tinh hoặc nhựa)",
+    "Có hai mặt bên là hai mặt phẳng nghiêng so với đáy"
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Lăng kính",
+   "latency_ms": 35.6,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": true,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 1.0
+  },
+  {
+   "subject": "khtn",
+   "intent": "explain",
+   "work_name": "Lăng kính",
+   "scenario": "Em đang quan sát một chiếc lăng kính và thấy ánh sáng trắng đi qua nó thì tách thành nhiều màu, hiện tượng này gọi là gì ạ?",
+   "question": "Hiện tượng ánh sáng trắng bị phân tách thành các màu sắc khác nhau khi đi qua lăng kính được gọi là gì?",
+   "expected_points": [
+    "Hiện tượng tán sắc ánh sáng",
+    "Ánh sáng trắng là hỗn hợp của nhiều ánh sáng đơn sắc có màu sắc khác nhau"
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Lăng kính",
+   "latency_ms": 28.9,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": true,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 1.0
+  },
+  {
+   "subject": "khtn",
+   "intent": "explain",
+   "work_name": "Lăng kính",
+   "scenario": "Cô ơi, em thấy khi ánh sáng đi từ không khí vào lăng kính thì tia sáng bị lệch đi, em không rõ nó lệch về hướng nào ạ.",
+   "question": "Khi ánh sáng truyền từ không khí vào lăng kính, tia khúc xạ sẽ bị lệch về phía nào của lăng kính?",
+   "expected_points": [
+    "Tia khúc xạ bị lệch về phía đáy của lăng kính"
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Lăng kính",
+   "latency_ms": 36.2,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": true,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 1.0
+  },
+  {
+   "subject": "khtn",
+   "intent": "explain",
+   "work_name": "Lăng kính",
+   "scenario": "Em thấy trên dải màu cầu vồng sau khi qua lăng kính, các màu không đứng yên mà có độ lệch khác nhau, em muốn hỏi kỹ hơn về điều này.",
+   "question": "Trong dải màu sắc tán sắc được, màu nào bị lệch ít nhất và màu nào bị lệch nhiều nhất?",
+   "expected_points": [
+    "Màu đỏ lệch ít nhất",
+    "Màu tím lệch nhiều nhất"
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Lăng kính",
+   "latency_ms": 24.6,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 0,
+   "intent_ok": true,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 0.4
+  },
+  {
+   "subject": "khtn",
+   "intent": "explain",
+   "work_name": "Lăng kính",
+   "scenario": "Em đang thắc mắc tại sao lá cây lại có màu xanh chứ không phải màu khác, có liên quan gì đến việc hấp thụ ánh sáng không ạ?",
+   "question": "Tại sao lá cây lại có màu xanh khi nhìn thấy được?",
+   "expected_points": [
+    "Lá cây hấp thụ hầu hết các màu sắc của ánh sáng trắng",
+    "Chỉ phản xạ lại ánh sáng màu xanh đến mắt ta"
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Lăng kính",
+   "latency_ms": 29.4,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": true,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 1.0
+  },
+  {
+   "subject": "khtn",
+   "intent": "practice",
+   "work_name": "Lăng kính",
+   "scenario": "Thầy ơi, thầy cho em làm một bài tập về phần lăng kính này để em ôn tập lại kiến thức được không ạ?",
+   "question": "Hãy giải thích tại sao khi nhìn qua lăng kính, ánh sáng trắng từ đèn sợi đốt lại tách thành dải màu sắc?",
+   "expected_points": [
+    "Do hiện tượng tán sắc",
+    "Mỗi màu sắc trong ánh sáng trắng có chiết suất khác nhau nên bị lệch với các góc khác nhau"
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Lăng kính",
+   "latency_ms": 29.6,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": false,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 0.85
+  },
+  {
+   "subject": "khtn",
+   "intent": "explain",
+   "work_name": "Thấu kính",
+   "scenario": "Thầy ơi, em đang cầm một khối thủy tinh có bề mặt mài cong, thầy cho em hỏi chính xác thì thấu kính là gì vậy ạ?",
+   "question": "Thế nào là thấu kính?",
+   "expected_points": [
+    "Là một dụng cụ quang học",
+    "Gồm một khối chất trong suốt (thường là thủy tinh hoặc nhựa)",
+    "Có bề mặt được mài cong để làm thay đổi đường truyền của tia sáng"
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Thấu kính",
+   "latency_ms": 36.9,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": true,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 1.0
+  },
+  {
+   "subject": "khtn",
+   "intent": "explain",
+   "work_name": "Thấu kính",
+   "scenario": "Em đang cầm hai thấu kính, một cái có phần giữa dày hơn phần rìa, còn cái kia thì ngược lại, làm sao để phân biệt chúng ạ?",
+   "question": "Dựa vào đặc điểm độ dày ở phần giữa và phần rìa, hãy phân loại hai loại thấu kính này.",
+   "expected_points": [
+    "Thấu kính hội tụ có phần giữa dày hơn phần rìa",
+    "Thấu kính phân kì có phần giữa mỏng hơn phần rìa"
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Thấu kính",
+   "latency_ms": 36.2,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": true,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 1.0
+  },
+  {
+   "subject": "khtn",
+   "intent": "explain",
+   "work_name": "Thấu kính",
+   "scenario": "Em đang dùng kính lúp để đọc sách nhưng không rõ tại sao nó lại giúp em nhìn rõ chữ hơn được ạ?",
+   "question": "Kính lúp là loại thấu kính gì và nó giúp tạo ra loại ảnh nào để dễ quan sát?",
+   "expected_points": [
+    "Kính lúp là thấu kính hội tụ",
+    "Giúp tạo ra ảnh ảo lớn hơn vật"
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Thấu kính",
+   "latency_ms": 34.0,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": true,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 1.0
+  },
+  {
+   "subject": "khtn",
+   "intent": "explain",
+   "work_name": "Thấu kính",
+   "scenario": "Em chưa hiểu lắm về phần đường truyền tia sáng, nếu em vẽ một tia tới song song với trục chính thì kết quả sẽ thế nào ạ?",
+   "question": "Khi một tia tới song song với trục chính đi qua thấu kính hội tụ và thấu kính phân kì thì sẽ như thế nào?",
+   "expected_points": [
+    "Qua thấu kính hội tụ: tia ló đi qua tiêu điểm ảnh",
+    "Qua thấu kính phân kì: tia ló có đường kéo dài đi qua tiêu điểm vật"
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Thấu kính",
+   "latency_ms": 36.1,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 0,
+   "intent_ok": true,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 0.4
+  },
+  {
+   "subject": "khtn",
+   "intent": "explain",
+   "work_name": "Thấu kính",
+   "scenario": "Bạn em bị cận thị và phải đeo kính, em thắc mắc không biết tại sao mắt kính cận lại dùng thấu kính phân kì ạ?",
+   "question": "Tại sao mắt kính cận thường là thấu kính phân kì?",
+   "expected_points": [
+    "Giúp làm phân kì các tia sáng trước khi đi vào mắt",
+    "Giúp hình ảnh hội tụ đúng trên võng mạc"
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Thấu kính",
+   "latency_ms": 40.4,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": true,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 1.0
+  },
+  {
+   "subject": "khtn",
+   "intent": "practice",
+   "work_name": "Thấu kính",
+   "scenario": "Thầy ơi, thầy cho em xin một bài tập về phần thấu kính để em luyện tập thêm với ạ!",
+   "question": "Hãy nêu đặc điểm về ảnh của thấu kính phân kì (về tính chất ảnh và kích thước so với vật).",
+   "expected_points": [
+    "Thấu kính phân kì luôn cho ảnh ảo",
+    "Ảnh cùng chiều với vật",
+    "Ảnh nhỏ hơn vật"
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Thấu kính",
+   "latency_ms": 33.6,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": false,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 0.85
+  }
+ ]
+}
