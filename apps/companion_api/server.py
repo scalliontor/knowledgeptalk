@@ -123,140 +123,22 @@ def lines_payload(title: str, lines: list, intent: dict, source: str) -> Retriev
 
 
 # ── ORCHESTRATION ──────────────────────────────────────────────────
-# TODO(ORCH): extract this into `packages/rag_router/retrieve()` (canonical plan).
-# Until then it mirrors the monolith's async `retrieve()` exactly — every branch
-# below is the same order/condition as /tmp/refsrc_canary.py.
+# Phase 3a: orchestration extracted VERBATIM into `packages/rag_router`. The thin
+# server now just wires runtime instances into it; the branch order/labels/logs
+# live (byte-faithful, incl. the U+1EEC "DỬ" concept-label typo) in
+# `rag_router.orchestrator.retrieve`.
+from rag_router import retrieve as _orchestrate  # noqa: E402
+
+
 async def retrieve(req: RetrieveRequest) -> RetrieveResponse:
-    print(f"\n[RAG] Nhận request: {req.query}")
-
-    # ── TIER A: Structured exact lookup ────────────────────
-    parsed = parse_structured_query(req.query, req.user_profile)
-    print(f"[RAG] Parsed: {parsed}")
-
-    # ── COMPANION: lesson-anchored ──
-    lc = query_lesson_card(
-        req.user_profile, parsed, req.query,
-        driver_factory=_driver_factory, model=bge_m3_model,
-        fold=_fold, classify_intent=_classify_intent,
-        is_recite=_is_recite, sanitize=sanitize_chunk_text,
-        neo4j_uri=NEO4J_URI, neo4j_auth=NEO4J_AUTH,
+    return await _orchestrate(
+        req,
+        model=bge_m3_model,
+        driver_factory=_driver_factory,
+        classify_intent=_classify_intent,
+        response_cls=RetrieveResponse,
+        lines_payload=lines_payload,
     )
-    if lc:
-        print(f"[RAG] Lesson Card hit: {lc['intent'].get('work_name')}")
-        return RetrieveResponse(context=lc["context"], intent=lc["intent"], sources=["lesson_card"])
-
-    if parsed.get("bai_no") or parsed.get("trang"):
-        tier_a_ctx = query_structured_exact(parsed, driver_factory=_driver_factory)
-        if tier_a_ctx:
-            print(f"[RAG] Tier A hit ({len(tier_a_ctx)} chars)")
-            intent_a = {
-                "need_rag": True,
-                "subject": parsed.get("subject"),
-                "grade": parsed.get("lop"),
-                "bo_sach": parsed.get("bo_sach"),
-                "query_type": "explain",
-                "learning_mode": "tutor",
-                "tier": "A_structured",
-                "bai_no": parsed.get("bai_no"),
-                "trang": parsed.get("trang"),
-            }
-            ctx = unicodedata.normalize('NFC', f"[DỮ LIỆU EXACT - TIER A]\nNguồn chính:\n{tier_a_ctx}")
-            return RetrieveResponse(context=ctx, intent=intent_a, sources=["tier_a_structured"])
-
-    # ── TIER A-concept ──
-    if not (parsed.get("bai_no") or parsed.get("trang")) and parsed.get("lop") and parsed.get("bo_sach"):
-        concept_ctx = query_concept_exact(parsed, req.query, driver_factory=_driver_factory)
-        if concept_ctx:
-            print(f"[RAG] Tier A-concept hit ({len(concept_ctx)} chars)")
-            intent_c = {
-                "need_rag": True, "subject": parsed.get("subject"),
-                "grade": parsed.get("lop"), "bo_sach": parsed.get("bo_sach"),
-                "query_type": "explain", "learning_mode": "tutor", "tier": "A_concept",
-            }
-            # NOTE: byte-faithful to monolith — concept label uses U+1EEC ("DỬ", a source
-            # typo) + escaped form, unlike the other labels' literal "DỮ". Preserved for parity.
-            ctx = unicodedata.normalize('NFC', f"[DỬ LIỆU CONCEPT - TIER A]\nNguồn ch\xednh:\n{concept_ctx}")
-            return RetrieveResponse(context=ctx, intent=intent_c, sources=["tier_a_concept"])
-
-    # 1. Router (Gemma-FREE rule-based)
-    intent = route_query_rule_based(req.query)
-    intent.update({k: v for k, v in parsed.items() if v is not None and k in ("lop", "bo_sach")})
-    if parsed.get("lop"):
-        intent["grade"] = parsed["lop"]
-    if parsed.get("subject") and not intent.get("subject"):
-        intent["subject"] = parsed["subject"]
-
-    # 1.1 Enrich intent
-    intent["learning_mode"] = detect_learning_mode(req.query)
-    intent["subject"] = canonicalize_subject(intent.get("subject"), req.query)
-    intent["subject"] = override_subject_by_keywords(req.query, intent.get("subject"))
-    print(f"[RAG] Ý định: {intent}")
-
-    if intent.get("need_rag") is False:
-        return RetrieveResponse(context="", intent=intent, sources=[])
-
-    keyword = intent.get("keyword", "")
-
-    # 2. Retrieval
-    grade = intent.get("grade")
-    subject = intent.get("subject")
-    subject_str = (subject or "").lower()
-
-    context_parts = []
-    sources = []
-
-    if intent.get("delivery_mode") == "full_recitation" or intent.get("query_type") == "recite_full_text":
-        title = intent.get("title") or intent.get("keyword", "")
-        grade = intent.get("grade")
-        bo_sach = intent.get("bo_sach")
-        print(f"[RAG] Full Recitation: Tìm bài '{title}'")
-        recitation = (
-            recite_from_literature_text(title, intent, grade=grade, bo_sach=bo_sach,
-                                        driver_factory=_driver_factory, lines_payload=lines_payload)
-            or recite_from_reading_text(title, grade=grade, bo_sach=bo_sach,
-                                        driver_factory=_driver_factory, lines_payload=lines_payload)
-            or recite_from_full_document(title, intent, grade=grade, bo_sach=bo_sach,
-                                         driver_factory=_driver_factory, lines_payload=lines_payload)
-        )
-        if recitation:
-            recitation.context = unicodedata.normalize('NFC', recitation.context)
-            return recitation
-        intent["delivery_mode"] = "explanation"
-
-    neo4j_chunk_data = query_neo4j_knowledge_chunk(intent, driver_factory=_driver_factory, model=bge_m3_model)
-    if neo4j_chunk_data:
-        print("[RAG] Found data in Neo4j KnowledgeChunk")
-        context_parts.append("[DỮ LIỆU CẤU TRÚC - NEO4J KNOWLEDGE CHUNK]\nNguồn chính:\n" + neo4j_chunk_data)
-        sources.append("neo4j_knowledge_chunk")
-
-    lg_data = query_neo4j_lesson_guide(intent, driver_factory=_driver_factory, model=bge_m3_model)
-    if lg_data:
-        print("[RAG] Found data in Neo4j LessonGuide")
-        context_parts.append("[DỮ LIỆU HƯỚNG DẪN - NEO4J LESSON GUIDE]\nNguồn bổ sung:\n" + lg_data)
-        sources.append("neo4j_lesson_guide")
-
-    if not context_parts:
-        if subject_str in SUBJECT_TO_QDRANT:
-            print(f"[RAG] Routing to Qdrant fallback based on subject: {subject_str}")
-            qdrant_data = query_qdrant(intent, model=bge_m3_model)
-            if qdrant_data:
-                context_parts.append("[DỮ LIỆU VECTOR - QDRANT FALLBACK]\nNguồn chính:\n" + qdrant_data)
-                sources.append("qdrant_vector_fallback")
-        else:
-            print(f"[RAG] Routing to Neo4j FullDocument vector fallback based on subject: {subject_str}")
-            neo4j_data = query_neo4j_vector(intent, driver_factory=_driver_factory, model=bge_m3_model)
-            if neo4j_data:
-                context_parts.append("[DỮ LIỆU CẤU TRÚC - NEO4J VECTOR FALLBACK]\nNguồn chính:\n" + neo4j_data)
-                sources.append("neo4j_vector_fallback")
-
-    final_context = "\n\n".join(context_parts)
-    if not final_context:
-        final_context = "Hệ thống RAG chưa tìm thấy dữ liệu nội bộ phù hợp cho câu hỏi này."
-
-    final_context = trim_context(final_context, intent.get("learning_mode", "explain"))
-    final_context = unicodedata.normalize('NFC', final_context)
-
-    return RetrieveResponse(context=final_context, intent=intent, sources=sources)
 
 
 # ── ENDPOINTS ──────────────────────────────────────────────────────
