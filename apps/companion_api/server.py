@@ -23,6 +23,7 @@ from __future__ import annotations
 import json
 import os
 import unicodedata
+import requests
 from typing import Dict, Any, Optional
 
 from fastapi import FastAPI
@@ -163,24 +164,75 @@ async def health():
     return {"status": "ok"}
 
 
-class ExpandTopicRequest(BaseModel):
-    topic: Optional[str] = None
-    query: Optional[str] = None
-    user_profile: Optional[Dict[str, Any]] = None
+# ── MODERATION (banned-topic expansion) — ported VERBATIM from merged monolith ──
+def call_gemma(system_prompt: str, user_prompt: str, max_tokens: int = 150) -> str:
+    """Gọi LLM (Gemma-4) qua VLLM API"""
+    payload = {
+        "model": LLM_MODEL,
+        "messages": [
+            {"role": "system", "content": system_prompt},
+            {"role": "user", "content": user_prompt}
+        ],
+        "temperature": 0.01,
+        "max_tokens": max_tokens
+    }
+    headers = {"Authorization": f"Bearer {LLM_API_KEY}"}
+    try:
+        response = requests.post(LLM_API_URL, json=payload, headers=headers, timeout=30)
+        if response.status_code == 200:
+            return response.json()["choices"][0]["message"]["content"]
+        else:
+            print(f"[LLM Error] HTTP {response.status_code}: {response.text}")
+    except Exception as e:
+        print(f"[LLM Exception] {e}")
+    return ""
 
+
+class TopicExpandRequest(BaseModel):
+    topic: str
+    max_words: int = 5
+
+class TopicExpandResponse(BaseModel):
+    topic: str
+    description: str
+    words: list
+
+def expand_banned_topic(topic: str, max_words: int = 5) -> "TopicExpandResponse":
+    """Expand a banned topic into ~max_words Vietnamese words/phrases via Gemma.
+    Returns a TopicExpandResponse; on any failure returns empty words (fail-open)."""
+    topic = (topic or "").strip()
+    if not topic:
+        return TopicExpandResponse(topic=topic, description="", words=[])
+    system_prompt = (
+        "Bạn là bộ lọc an toàn nội dung cho trẻ em (tiếng Việt). "
+        "Cho một CHỦ ĐỀ cần cấm, hãy liệt kê các TỪ/CỤM TỪ tiếng Việt thường gặp "
+        "thuộc chủ đề đó mà trẻ có thể nói hoặc hỏi. "
+        "Chỉ trả về JSON đúng định dạng, KHÔNG giải thích:\n"
+        '{"desc":"<mô tả ngắn 1 câu>","words":["...","..."]}\n'
+        f"Tối đa {max_words} từ. Mỗi từ ngắn gọn, viết thường, không trùng lặp."
+    )
+    raw = call_gemma(system_prompt, topic, max_tokens=256)
+    raw = raw.replace("```json", "").replace("```", "").strip()
+    try:
+        data = json.loads(raw)
+        seen, words = set(), []
+        for w in (data.get("words") or []):
+            w = (w or "").strip().lower()
+            if w and w not in seen:
+                seen.add(w)
+                words.append(w)
+            if len(words) >= max_words:
+                break
+        return TopicExpandResponse(topic=topic, description=data.get("desc", ""), words=words)
+    except Exception as e:
+        print(f"[expand_banned_topic] parse fail (fail-open): {e} | raw={raw[:120]!r}")
+        return TopicExpandResponse(topic=topic, description="", words=[])
 
 @app.post("/v2/moderation/expand-topic")
-async def expand_topic(req: ExpandTopicRequest):
-    """Moderation / topic-expansion endpoint.
-
-    TODO(moderation): NOT present in rag_server_canary.py — it lives only in the
-    SERVER `/tmp/rag_server_merged.py`. The exact request/response contract and
-    body must be ported VERBATIM from the merged server before promote (it is the
-    "sạch nguồn" invariant + the merged baseline measured in canonical). This stub
-    exists only so the thin server exposes the same route surface; do NOT ship it
-    as-is. See docs/refactor/migration-plan.md step "Port moderation".
-    """
-    return {"status": "not_implemented", "detail": "port from rag_server_merged.py"}
+async def api_expand_topic(req: TopicExpandRequest) -> TopicExpandResponse:
+    """Given a banned TOPIC, ask Gemma for ~N Vietnamese words/phrases to block.
+    Stateless: persistence + RBAC are the Dashboard's job. Fail-open → words: []."""
+    return expand_banned_topic(req.topic, req.max_words)
 
 
 if __name__ == "__main__":
