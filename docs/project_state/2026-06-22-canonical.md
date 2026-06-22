@@ -47,6 +47,8 @@ vietjack = 0 · xem lời giải = 0 · video giải = 0 · loigiaihay = 0 · "g
 
 ## ⚠️ Thực tế hạ tầng (ràng buộc mọi refactor)
 
+> Chi tiết topology + giao diện (verified docker ps/ss/nginx 2026-06-22): [architecture/infrastructure-and-interfaces](../architecture/infrastructure-and-interfaces.md). Tóm tắt: RAG :8888 là **microservice nội bộ** (KHÔNG expose nginx); client = app thoại ptalk_v1/v2/eldercare (:8001/2/3) + Dashboard (moderation). Prod đã promote (companion+en-dash+moderation live).
+
 - **Runtime KHÔNG ở repo này.** Production = single-file `rag_server.py` (:8888) + `rag_server_canary.py` (:8889) trên **server** `/home/namnx/Ptalk_project/CloudPTalk`. Repo local = scripts (`rag_edu/`) + docs + graphify-out (phần lớn mirror/dead-code).
 - Target `/packages/*` trong plan = **đề xuất tổ chức**; muốn áp vào runtime phải có migration plan riêng (Agent 2), không refactor mù single-file thành package rồi tưởng đã deploy.
 - Neo4j edu: `bolt://localhost:7688` (server). Gemma local :8080 (chỉ dùng lúc build/ingest, KHÔNG ở serve path).
