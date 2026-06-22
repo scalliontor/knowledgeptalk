@@ -1,0 +1,959 @@
+{
+ "meta": {
+  "subject": "toan",
+  "grade": 8,
+  "book": "CTST",
+  "tap": 1,
+  "n_lessons_requested": 8,
+  "n_lessons_used": 8,
+  "port": "8889",
+  "neo4j_uri": "bolt://localhost:7688",
+  "generated_utc": "20260622T105517Z"
+ },
+ "summary": {
+  "overall": {
+   "n": 42,
+   "anchor%": 100.0,
+   "knowledge_correct_avg": 1.333,
+   "knowledge_full%": 66.7,
+   "intent%": 35.7,
+   "hallucination%": 33.3,
+   "real_cruft": 0,
+   "score_avg": 0.599,
+   "total": 42,
+   "errors": 0
+  },
+  "by_subject": {
+   "toan": {
+    "n": 42,
+    "anchor%": 100.0,
+    "knowledge_correct_avg": 1.333,
+    "knowledge_full%": 66.7,
+    "intent%": 35.7,
+    "hallucination%": 33.3,
+    "real_cruft": 0,
+    "score_avg": 0.599
+   }
+  },
+  "by_intent": {
+   "explain": {
+    "n": 26,
+    "anchor%": 100.0,
+    "knowledge_correct_avg": 1.077,
+    "knowledge_full%": 53.8,
+    "intent%": 26.9,
+    "hallucination%": 42.3,
+    "real_cruft": 0,
+    "score_avg": 0.508
+   },
+   "practice": {
+    "n": 8,
+    "anchor%": 100.0,
+    "knowledge_correct_avg": 1.75,
+    "knowledge_full%": 87.5,
+    "intent%": 100.0,
+    "hallucination%": 25.0,
+    "real_cruft": 0,
+    "score_avg": 0.75
+   },
+   "recite": {
+    "n": 8,
+    "anchor%": 100.0,
+    "knowledge_correct_avg": 1.75,
+    "knowledge_full%": 87.5,
+    "intent%": 0.0,
+    "hallucination%": 12.5,
+    "real_cruft": 0,
+    "score_avg": 0.744
+   }
+  }
+ },
+ "results": [
+  {
+   "subject": "toan",
+   "intent": "explain",
+   "work_name": "Đơn thức và đa thức nhiều biến",
+   "scenario": "Thưa thầy/cô, em đang đọc sách mà thấy cụm từ 'thu thập dữ liệu' cứ lặp đi lặp lại, thầy/cô giải thích giúp em nó là gì được không ạ?",
+   "question": "Thu thập dữ liệu là gì?",
+   "expected_points": [
+    "Là quá trình tìm kiếm, tập hợp các thông tin, số liệu về một đối tượng hoặc hiện tượng cụ thể",
+    "Nhằm phục vụ cho việc nghiên cứu hoặc thống kê"
+   ],
+   "served_tier": "lesson_practice",
+   "served_work": "Đơn thức và đa thức nhiều biến",
+   "latency_ms": 46.6,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": false,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 0.85
+  },
+  {
+   "subject": "toan",
+   "intent": "explain",
+   "work_name": "Đơn thức và đa thức nhiều biến",
+   "scenario": "Em đang làm khảo sát về sở thích ăn uống của các bạn trong lớp, em nên dùng cách nào để lấy thông tin cho nhanh và khoa học ạ?",
+   "question": "Có những phương pháp phổ biến nào để thu thập dữ liệu?",
+   "expected_points": [
+    "Quan sát trực tiếp",
+    "Làm thí nghiệm",
+    "Lập phiếu hỏi (khảo sát)"
+   ],
+   "served_tier": "lesson_practice",
+   "served_work": "Đơn thức và đa thức nhiều biến",
+   "latency_ms": 46.1,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": false,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 0.85
+  },
+  {
+   "subject": "toan",
+   "intent": "explain",
+   "work_name": "Đơn thức và đa thức nhiều biến",
+   "scenario": "Em chưa hiểu rõ lắm, tại sao mình lại phải phân biệt giữa dữ liệu là chữ và dữ liệu là số ạ?",
+   "question": "Dữ liệu định tính và dữ liệu định lượng khác nhau như thế nào?",
+   "expected_points": [
+    "Dữ liệu định tính: mô tả đặc điểm, tính chất (ví dụ: tên trái cây, màu sắc, giới tính)",
+    "Dữ liệu định lượng: biểu diễn bằng số lượng hoặc các giá trị số có thể đo lường được (ví dụ: chiều cao, cân nặng, dân số)"
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Đơn thức và đa thức nhiều biến",
+   "latency_ms": 39.8,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": true,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 1.0
+  },
+  {
+   "subject": "toan",
+   "intent": "explain",
+   "work_name": "Đơn thức và đa thức nhiều biến",
+   "scenario": "Cô ơi, em vừa kiểm tra lại bảng số liệu của nhóm em nhưng thấy có gì đó sai sai, làm sao để biết bảng dữ liệu đó có hợp lý hay không ạ?",
+   "question": "Dựa vào các tiêu chí nào để kiểm tra tính hợp lý của dữ liệu?",
+   "expected_points": [
+    "Kiểm tra dựa trên: tính đầy đủ, tính chính xác, tính nhất quán và sự phù hợp với thực tế",
+    "Dấu hiệu không hợp lý: có sự mâu thuẫn (tổng các thành phần không bằng tổng mẫu ban đầu) hoặc có giá trị vô lý"
+   ],
+   "served_tier": "lesson_practice",
+   "served_work": "Đơn thức và đa thức nhiều biến",
+   "latency_ms": 36.5,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 0,
+   "intent_ok": false,
+   "hallucination": true,
+   "cruft_real": false,
+   "score": 0.0
+  },
+  {
+   "subject": "toan",
+   "intent": "recite",
+   "work_name": "Đơn thức và đa thức nhiều biến",
+   "scenario": "Em muốn tập phân loại các loại dữ liệu, thầy/cô cho em một ví dụ về dữ liệu định lượng được không ạ?",
+   "question": "Hãy nêu ví dụ về dữ liệu định lượng?",
+   "expected_points": [
+    "Dữ liệu biểu diễn bằng số lượng hoặc giá trị đo lường được",
+    "Ví dụ: chiều cao, cân nặng, số lượng huy chương, dân số"
+   ],
+   "served_tier": "lesson_practice",
+   "served_work": "Đơn thức và đa thức nhiều biến",
+   "latency_ms": 41.7,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": false,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 0.85
+  },
+  {
+   "subject": "toan",
+   "intent": "practice",
+   "work_name": "Đơn thức và đa thức nhiều biến",
+   "scenario": "Em đã nắm được lý thuyết rồi, bây giờ thầy/cô cho em làm một vài bài tập thực hành về phần này để em luyện tập thêm nhé!",
+   "question": "Hãy đưa ra các bài tập về việc phân loại dữ liệu định tính và định lượng hoặc kiểm tra tính hợp lý của bảng dữ liệu.",
+   "expected_points": [
+    "Phân biệt được dữ liệu định tính (tên, màu sắc...) và định lượng (số đo, số lượng...)",
+    "Nhận diện được sự mâu thuẫn hoặc giá trị vô lý trong bảng dữ liệu"
+   ],
+   "served_tier": "lesson_practice",
+   "served_work": "Đơn thức và đa thức nhiều biến",
+   "latency_ms": 64.2,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": true,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 1.0
+  },
+  {
+   "subject": "toan",
+   "intent": "explain",
+   "work_name": "Các phép toán với đa thức nhiều biến",
+   "scenario": "Thưa thầy/cô, em đang làm bài tập về phần cộng trừ đa thức mà thấy nhiều hạng tử quá, không biết nên làm thế nào cho gọn ạ?",
+   "question": "Để thực hiện phép cộng hoặc trừ đa thức, chúng ta cần thực hiện các bước như thế nào?",
+   "expected_points": [
+    "Nhóm các hạng tử đồng dạng lại với nhau",
+    "Thực hiện phép tính hệ số của các hạng tử đó"
+   ],
+   "served_tier": "lesson_practice",
+   "served_work": "Các phép toán với đa thức nhiều biến",
+   "latency_ms": 35.4,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 0,
+   "intent_ok": false,
+   "hallucination": true,
+   "cruft_real": false,
+   "score": 0.0
+  },
+  {
+   "subject": "toan",
+   "intent": "explain",
+   "work_name": "Các phép toán với đa thức nhiều biến",
+   "scenario": "Em đang làm bài tính diện tích hình chữ nhật bằng biểu thức nhưng thấy nó dài dòng quá, có cách nào làm cho nó ngắn lại không ạ?",
+   "question": "Việc nắm vững các phép toán với đa thức nhiều biến giúp ích gì trong việc đơn giản hóa các biểu thức phức tạp như diện tích hay thể tích?",
+   "expected_points": [
+    "Giúp đơn giản hóa các biểu thức phức tạp về dạng gọn nhất",
+    "Áp dụng tính chất phân phối, tính chất kết hợp và quy tắc dấu"
+   ],
+   "served_tier": "lesson_practice",
+   "served_work": "Các phép toán với đa thức nhiều biến",
+   "latency_ms": 29.7,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": false,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 0.85
+  },
+  {
+   "subject": "toan",
+   "intent": "explain",
+   "work_name": "Các phép toán với đa thức nhiều biến",
+   "scenario": "Em chưa hiểu rõ lắm, khi thực hiện phép chia đa thức cho đơn thức thì có điều kiện gì bắt buộc không ạ?",
+   "question": "Điều kiện tiên quyết để thực hiện phép chia đa thức cho đơn thức là gì?",
+   "expected_points": [
+    "Mỗi hạng tử của đa thức đều phải chia hết cho đơn thức đó"
+   ],
+   "served_tier": "lesson_practice",
+   "served_work": "Các phép toán với đa thức nhiều biến",
+   "latency_ms": 51.2,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 0,
+   "intent_ok": false,
+   "hallucination": true,
+   "cruft_real": false,
+   "score": 0.0
+  },
+  {
+   "subject": "toan",
+   "intent": "explain",
+   "work_name": "Các phép toán với đa thức nhiều biến",
+   "scenario": "Em định thay số vào biểu thức này để tính luôn cho nhanh, nhưng cô bảo em nên thu gọn trước, tại sao vậy ạ?",
+   "question": "Tại sao khi tính giá trị của một biểu thức, chúng ta nên thực hiện việc thu gọn đa thức trước khi thay số?",
+   "expected_points": [
+    "Để tránh sai sót",
+    "Để việc tính toán nhanh hơn"
+   ],
+   "served_tier": "lesson_practice",
+   "served_work": "Các phép toán với đa thức nhiều biến",
+   "latency_ms": 44.8,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": false,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 0.85
+  },
+  {
+   "subject": "toan",
+   "intent": "practice",
+   "work_name": "Các phép toán với đa thức nhiều biến",
+   "scenario": "Em muốn luyện tập thêm về cách nhân đa thức với đa thức, thầy/cô cho em xin bài tập được không ạ?",
+   "question": "Quy tắc thực hiện phép nhân đa thức với đa thức là gì?",
+   "expected_points": [
+    "Nhân mỗi hạng tử của đa thức này với từng hạng tử của đa thức kia"
+   ],
+   "served_tier": "lesson_practice",
+   "served_work": "Các phép toán với đa thức nhiều biến",
+   "latency_ms": 47.7,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": true,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 1.0
+  },
+  {
+   "subject": "toan",
+   "intent": "recite",
+   "work_name": "Các phép toán với đa thức nhiều biến",
+   "scenario": "Em vừa học xong phần chia đa thức cho đơn thức, em muốn kiểm tra lại kiến thức xem mình nhớ đúng không.",
+   "question": "Cách thực hiện phép chia đa thức cho đơn thức như thế nào?",
+   "expected_points": [
+    "Chia từng hạng tử của đa thức cho đơn thức",
+    "Cộng các kết quả lại với nhau"
+   ],
+   "served_tier": "lesson_practice",
+   "served_work": "Các phép toán với đa thức nhiều biến",
+   "latency_ms": 38.6,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": false,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 0.85
+  },
+  {
+   "subject": "toan",
+   "intent": "explain",
+   "work_name": "Hằng đẳng thức đáng nhớ",
+   "scenario": "Thưa thầy/cô, em nghe nói về hằng đẳng thức đáng nhớ nhưng không rõ bản chất nó là gì ạ.",
+   "question": "Hằng đẳng thức đáng nhớ là gì và chúng được thiết lập từ việc gì?",
+   "expected_points": [
+    "Là những công thức đại số đặc biệt",
+    "Được thiết lập từ việc nhân đa thức với đa thức"
+   ],
+   "served_tier": "lesson_practice",
+   "served_work": "Hằng đẳng thức đáng nhớ",
+   "latency_ms": 35.8,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 0,
+   "intent_ok": false,
+   "hallucination": true,
+   "cruft_real": false,
+   "score": 0.0
+  },
+  {
+   "subject": "toan",
+   "intent": "explain",
+   "work_name": "Hằng đẳng thức đáng nhớ",
+   "scenario": "Em đang làm bài tập nhân đa thức thấy dài dòng quá, không biết dùng hằng đẳng thức có giúp ích gì không ạ?",
+   "question": "Việc ghi nhớ các hằng đẳng thức giúp ích gì cho quá trình tính toán của chúng ta?",
+   "expected_points": [
+    "Không phải thực hiện các phép nhân đa thức dài dòng",
+    "Tăng tốc độ tính toán và giảm thiểu sai sót"
+   ],
+   "served_tier": "lesson_practice",
+   "served_work": "Hằng đẳng thức đáng nhớ",
+   "latency_ms": 28.0,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 0,
+   "intent_ok": false,
+   "hallucination": true,
+   "cruft_real": false,
+   "score": 0.0
+  },
+  {
+   "subject": "toan",
+   "intent": "recite",
+   "work_name": "Hằng đẳng thức đáng nhớ",
+   "scenario": "Em đang học về bình phương của một hiệu nhưng vẫn chưa rõ công thức cụ thể là gì.",
+   "question": "Công thức khai triển của bình phương của một hiệu là gì?",
+   "expected_points": [
+    "Bình phương của số thứ nhất trừ đi hai lần tích của hai số đó",
+    "Rồi cộng bình phương số thứ hai"
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Hằng đẳng thức đáng nhớ",
+   "latency_ms": 34.8,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": false,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 0.85
+  },
+  {
+   "subject": "toan",
+   "intent": "explain",
+   "work_name": "Hằng đẳng thức đáng nhớ",
+   "scenario": "Em muốn biết sự khác biệt giữa tổng hai lập phương và hiệu hai lập phương ạ.",
+   "question": "Hãy cho biết hiệu hai lập phương là tích của biểu thức nào với biểu thức nào?",
+   "expected_points": [
+    "Tích của hiệu hai biểu thức",
+    "Và tổng bình phương của hai biểu thức đó"
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Hằng đẳng thức đáng nhớ",
+   "latency_ms": 45.4,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": true,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 1.0
+  },
+  {
+   "subject": "toan",
+   "intent": "recite",
+   "work_name": "Hằng đẳng thức đáng nhớ",
+   "scenario": "Em vừa học xong phần lập phương của một tổng, thầy/cô cho em hỏi lại để chắc chắn ạ.",
+   "question": "Lập phương của một tổng bao gồm những hạng tử nào?",
+   "expected_points": [
+    "Tổng của lập phương số thứ nhất và lập phương số thứ hai",
+    "Ba lần tích bình phương số thứ nhất với số thứ hai",
+    "Ba lần tích số thứ nhất với lập phương số thứ hai"
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Hằng đẳng thức đáng nhớ",
+   "latency_ms": 34.9,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": false,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 0.85
+  },
+  {
+   "subject": "toan",
+   "intent": "practice",
+   "work_name": "Hằng đẳng thức đáng nhớ",
+   "scenario": "Thầy/cô ơi, em muốn luyện tập thêm các dạng bài tập về hằng đẳng thức này ạ.",
+   "question": "Em có thể thực hiện các phép biến đổi nào với hằng đẳng thức (viết gọn hoặc khai triển)?",
+   "expected_points": [
+    "Viết gọn lại các biểu thức phức tạp",
+    "Khai triển nhanh chóng các biểu thức"
+   ],
+   "served_tier": "lesson_practice",
+   "served_work": "Hằng đẳng thức đáng nhớ",
+   "latency_ms": 37.2,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": true,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 1.0
+  },
+  {
+   "subject": "toan",
+   "intent": "explain",
+   "work_name": "Phân tích đa thức thành nhân tử",
+   "scenario": "Thưa thầy/cô, em đang đọc sách mà thấy nói hình thoi là một trường hợp đặc biệt của hình bình hành, em chưa rõ lắm ạ.",
+   "question": "Tại sao nói hình thoi là một trường hợp đặc biệt của hình bình hành?",
+   "expected_points": [
+    "Hình thoi là hình bình hành có bốn cạnh bằng nhau",
+    "Hình thoi có thêm tính chất đặc biệt về cạnh và đường chéo so với hình bình hành"
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Phân tích đa thức thành nhân tử",
+   "latency_ms": 35.9,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": true,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 1.0
+  },
+  {
+   "subject": "toan",
+   "intent": "recite",
+   "work_name": "Phân tích đa thức thành nhân tử",
+   "scenario": "Em đang làm bài tập về hình học nhưng quên mất các tính chất của đường chéo trong hình thoi rồi.",
+   "question": "Trong hình thoi, hai đường chéo có tính chất gì đặc biệt?",
+   "expected_points": [
+    "Hai đường chéo vuông góc với nhau tại trung điểm của mỗi đường",
+    "Đường chéo là đường phân giác của các góc của hình thoi"
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Phân tích đa thức thành nhân tử",
+   "latency_ms": 32.3,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": false,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 0.85
+  },
+  {
+   "subject": "toan",
+   "intent": "explain",
+   "work_name": "Phân tích đa thức thành nhân tử",
+   "scenario": "Cô ơi, em có một tứ giác có các cặp cạnh đối song song với nhau, vậy nó là hình gì ạ?",
+   "question": "Khái niệm hình bình hành là gì?",
+   "expected_points": [
+    "Hình bình hành là tứ giác có các cặp cạnh đối song song với nhau",
+    "Hình bình hành có các cặp cạnh đối bằng nhau"
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Phân tích đa thức thành nhân tử",
+   "latency_ms": 37.8,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": true,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 1.0
+  },
+  {
+   "subject": "toan",
+   "intent": "practice",
+   "work_name": "Phân tích đa thức thành nhân tử",
+   "scenario": "Em đang làm bài toán tính độ dài cạnh khi biết độ dài hai đường chéo mà chưa biết dùng công thức nào.",
+   "question": "Trong hình thoi, nếu biết độ dài hai đường chéo d1 và d2 thì làm sao tính được cạnh a?",
+   "expected_points": [
+    "Sử dụng định lý Pythagore trong hình thoi",
+    "Công thức: a² = (d1/2)² + (d2/2)²"
+   ],
+   "served_tier": "lesson_practice",
+   "served_work": "Phân tích đa thức thành nhân tử",
+   "latency_ms": 35.0,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": true,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 1.0
+  },
+  {
+   "subject": "toan",
+   "intent": "explain",
+   "work_name": "Phân tích đa thức thành nhân tử",
+   "scenario": "Em chưa hiểu rõ sự khác biệt về tính chất trung điểm giữa hình bình hành và hình thoi.",
+   "question": "Điểm chung về giao điểm của hai đường chéo trong hình bình hành và hình thoi là gì?",
+   "expected_points": [
+    "Hai đường chéo cắt nhau tại trung điểm của mỗi đường",
+    "Áp dụng cho cả hình bình hành và hình thoi"
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Phân tích đa thức thành nhân tử",
+   "latency_ms": 38.6,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": true,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 1.0
+  },
+  {
+   "subject": "toan",
+   "intent": "practice",
+   "work_name": "Phân tích đa thức thành nhân tử",
+   "scenario": "Thầy cho em một bài tập tính chu vi hình thoi để em luyện tập được không ạ?",
+   "question": "Công thức tính chu vi hình thoi khi biết độ dài hai cạnh kề a và b là gì?",
+   "expected_points": [
+    "Chu vi P = 2*(a + b) với a, b là độ dài hai cạnh kề",
+    "Áp dụng khi biết độ dài các cạnh của hình thoi"
+   ],
+   "served_tier": "lesson_practice",
+   "served_work": "Phân tích đa thức thành nhân tử",
+   "latency_ms": 33.5,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": true,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 1.0
+  },
+  {
+   "subject": "toan",
+   "intent": "explain",
+   "work_name": "Phân thức đại số",
+   "scenario": "Thầy ơi, em đang học về các loại tứ giác, thầy giải thích giúp em hình vuông và hình chữ nhật khác nhau chỗ nào với ạ?",
+   "question": "Dựa vào nội dung bài học, hãy cho biết sự khác biệt giữa hình vuông và hình chữ nhật là gì?",
+   "expected_points": [
+    "Hình chữ nhật là tứ giác có bốn góc vuông.",
+    "Hình vuông là hình chữ nhật có hai cạnh kề bằng nhau.",
+    "Hình vuông là hình thoi có một góc vuông."
+   ],
+   "served_tier": "lesson_practice",
+   "served_work": "Phân thức đại số",
+   "latency_ms": 41.5,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 0,
+   "intent_ok": false,
+   "hallucination": true,
+   "cruft_real": false,
+   "score": 0.0
+  },
+  {
+   "subject": "toan",
+   "intent": "practice",
+   "work_name": "Phân thức đại số",
+   "scenario": "Em đang làm bài tập về hình học, thầy cho em xin một bài tập vận dụng về tính đường chéo để em luyện tập thêm nhé!",
+   "question": "Hãy thực hiện tính độ dài đường chéo của một hình chữ nhật có hai cạnh kề là 6cm và 8cm.",
+   "expected_points": [
+    "Áp dụng công thức đường chéo hình chữ nhật d = √(a² + b²).",
+    "Tính toán: AC² = 6² + 8² = 36 + 64 = 100.",
+    "Kết quả AC = √100 = 10cm."
+   ],
+   "served_tier": "lesson_practice",
+   "served_work": "Phân thức đại số",
+   "latency_ms": 37.9,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": true,
+   "hallucination": true,
+   "cruft_real": false,
+   "score": 0.0
+  },
+  {
+   "subject": "toan",
+   "intent": "explain",
+   "work_name": "Phân thức đại số",
+   "scenario": "Em chưa hiểu lắm, nếu em đã có một hình bình hành rồi thì làm sao để chứng minh nó là hình chữ nhật được ạ?",
+   "question": "Trong trường hợp đã có sẵn hình bình hành, cần thêm yếu tố gì để trở thành hình chữ nhật?",
+   "expected_points": [
+    "Thêm một yếu tố góc vuông.",
+    "Hoặc có hai đường chéo bằng nhau."
+   ],
+   "served_tier": "lesson_practice",
+   "served_work": "Phân thức đại số",
+   "latency_ms": 34.9,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 0,
+   "intent_ok": false,
+   "hallucination": true,
+   "cruft_real": false,
+   "score": 0.0
+  },
+  {
+   "subject": "toan",
+   "intent": "recite",
+   "work_name": "Phân thức đại số",
+   "scenario": "Thầy ơi, em thấy các đường chéo trong hình vuông có đặc điểm gì đặc biệt so với hình chữ nhật không ạ?",
+   "question": "Trong hình vuông, các đường chéo có những tính chất gì?",
+   "expected_points": [
+    "Các đường chéo vừa bằng nhau, vừa vuông góc với nhau.",
+    "Các đường chéo là đường phân giác của các góc."
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Phân thức đại số",
+   "latency_ms": 33.0,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": false,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 0.85
+  },
+  {
+   "subject": "toan",
+   "intent": "explain",
+   "work_name": "Phân thức đại số",
+   "scenario": "Em đang vẽ một hình vuông, em muốn biết nếu chỉ biết cạnh của nó thì tính đường chéo thế nào cho nhanh ạ?",
+   "question": "Cho biết công thức tính độ dài đường chéo của hình vuông khi biết cạnh a là gì?",
+   "expected_points": [
+    "Công thức đường chéo hình vuông là d = a√2.",
+    "Trong đó a là cạnh của hình vuông."
+   ],
+   "served_tier": "lesson_practice",
+   "served_work": "Phân thức đại số",
+   "latency_ms": 32.8,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": false,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 0.85
+  },
+  {
+   "subject": "toan",
+   "intent": "explain",
+   "work_name": "Phân thức đại số",
+   "scenario": "Em đang đọc sách mà thấy đoạn nói về hình chữ nhật có ba góc vuông, em chưa rõ lắm ạ.",
+   "question": "Theo nội dung bài học, nếu một tứ giác có ba góc vuông thì góc thứ tư sẽ như thế nào?",
+   "expected_points": [
+    "Hình chữ nhật là tứ giác có ba góc vuông thì góc thứ tư cũng là góc vuông.",
+    "Hình chữ nhật có hai đường chéo bằng nhau và cắt nhau tại trung điểm của mỗi đường."
+   ],
+   "served_tier": "lesson_practice",
+   "served_work": "Phân thức đại số",
+   "latency_ms": 41.0,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 0,
+   "intent_ok": false,
+   "hallucination": true,
+   "cruft_real": false,
+   "score": 0.0
+  },
+  {
+   "subject": "toan",
+   "intent": "explain",
+   "work_name": "Cộng, trừ phân thức",
+   "scenario": "Thưa thầy/cô, em vừa đọc xong bài học nhưng vẫn chưa nắm rõ bản chất của việc cộng trừ phân thức đại số là gì ạ.",
+   "question": "Em hãy cho biết khái niệm cộng, trừ phân thức đại số và kết quả cuối cùng của phép tính cần đạt được là gì?",
+   "expected_points": [
+    "Là việc thực hiện các phép tính giữa hai hoặc nhiều phân thức dựa trên quy tắc tương tự cộng, trừ phân số",
+    "Kết quả là một phân thức mới được rút gọn về dạng tối giản nhất"
+   ],
+   "served_tier": "lesson_practice",
+   "served_work": "Cộng, trừ phân thức",
+   "latency_ms": 36.5,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 0,
+   "intent_ok": false,
+   "hallucination": true,
+   "cruft_real": false,
+   "score": 0.0
+  },
+  {
+   "subject": "toan",
+   "intent": "explain",
+   "work_name": "Cộng, trừ phân thức",
+   "scenario": "Em đang làm bài tập mà gặp hai phân thức có mẫu số khác nhau, em không biết phải làm thế nào để cộng chúng lại được ạ.",
+   "question": "Khi thực hiện cộng hoặc trừ hai phân thức khác mẫu thức, chúng ta cần phải làm bước gì trước khi thực hiện cộng hoặc trừ tử thức?",
+   "expected_points": [
+    "Phải tìm mẫu thức chung",
+    "Quy đồng các phân thức rồi mới thực hiện cộng hoặc trừ tử thức"
+   ],
+   "served_tier": "lesson_practice",
+   "served_work": "Cộng, trừ phân thức",
+   "latency_ms": 34.6,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 0,
+   "intent_ok": false,
+   "hallucination": true,
+   "cruft_real": false,
+   "score": 0.0
+  },
+  {
+   "subject": "toan",
+   "intent": "explain",
+   "work_name": "Cộng, trừ phân thức",
+   "scenario": "Em đang thực hiện phép trừ phân thức nhưng khi bỏ dấu trừ ở trước phân thức thứ hai, em cứ hay bị quên mất việc đổi dấu.",
+   "question": "Khi thực hiện phép trừ một phân thức, quy tắc dấu ngoặc yêu cầu chúng ta phải làm gì với các hạng tử trong tử thức của phân thức đó?",
+   "expected_points": [
+    "Phải đổi dấu tất cả các hạng tử trong tử thức của phân thức đó khi bỏ dấu trừ phía trước",
+    "Phép trừ thực chất là cộng với phân thức đối của nó"
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Cộng, trừ phân thức",
+   "latency_ms": 44.5,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": true,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 1.0
+  },
+  {
+   "subject": "toan",
+   "intent": "recite",
+   "work_name": "Cộng, trừ phân thức",
+   "scenario": "Thầy ơi, em quên mất cách để tìm mẫu thức chung khi các phân thức có các nhân tử khác nhau rồi ạ.",
+   "question": "Theo nội dung bài học, mẫu thức chung được xác định như thế nào?",
+   "expected_points": [
+    "Là tích của các nhân tử chung",
+    "Với số mũ lớn nhất của mỗi nhân tử xuất hiện trong các mẫu thức"
+   ],
+   "served_tier": "lesson_practice",
+   "served_work": "Cộng, trừ phân thức",
+   "latency_ms": 39.4,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 0,
+   "intent_ok": false,
+   "hallucination": true,
+   "cruft_real": false,
+   "score": 0.0
+  },
+  {
+   "subject": "toan",
+   "intent": "explain",
+   "work_name": "Cộng, trừ phân thức",
+   "scenario": "Em đã tính xong phép cộng hai phân thức rồi, nhưng em thấy kết quả trông vẫn còn rất phức tạp.",
+   "question": "Sau khi thực hiện xong phép tính cộng hoặc trừ phân thức, em cần thực hiện thêm bước nào để có kết quả cuối cùng?",
+   "expected_points": [
+    "Phân tích tử thức thành nhân tử để rút gọn với mẫu thức (nếu có thể)",
+    "Rút gọn về dạng tối giản nhất"
+   ],
+   "served_tier": "lesson_practice",
+   "served_work": "Cộng, trừ phân thức",
+   "latency_ms": 35.2,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 0,
+   "intent_ok": false,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 0.25
+  },
+  {
+   "subject": "toan",
+   "intent": "practice",
+   "work_name": "Cộng, trừ phân thức",
+   "scenario": "Thầy/cô ơi, thầy/cô cho em xin một vài bài tập về phần cộng, trừ phân thức cùng mẫu và khác mẫu để em luyện tập thêm được không ạ?",
+   "question": "Hãy áp dụng quy tắc cộng, trừ cùng mẫu thức để thực hiện phép tính: $\\frac{A}{M} + \\frac{B}{M}$?",
+   "expected_points": [
+    "Cộng các tử thức với nhau",
+    "Giữ nguyên mẫu thức chung"
+   ],
+   "served_tier": "lesson_practice",
+   "served_work": "Cộng, trừ phân thức",
+   "latency_ms": 32.2,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": true,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 1.0
+  },
+  {
+   "subject": "toan",
+   "intent": "explain",
+   "work_name": "Hình chóp tam giác đều – Hình chóp tứ giác đều",
+   "scenario": "Thưa thầy/cô, em đang làm bài tập thống kê nhưng chưa rõ khái niệm thu thập dữ liệu là gì ạ.",
+   "question": "Em hãy cho biết thu thập dữ liệu là gì và dữ liệu sau khi thu thập có thể dưới những dạng nào?",
+   "expected_points": [
+    "Thu thập dữ liệu là quá trình tìm kiếm, thu gom các thông tin, số liệu liên quan đến một vấn đề hoặc đối tượng cụ thể.",
+    "Dữ liệu có thể là số (số liệu) hoặc chữ (thông tin)."
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Hình chóp tam giác đều – Hình chóp tứ giác đều",
+   "latency_ms": 29.4,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": true,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 1.0
+  },
+  {
+   "subject": "toan",
+   "intent": "explain",
+   "work_name": "Hình chóp tam giác đều – Hình chóp tứ giác đều",
+   "scenario": "Em đang phân loại các thông tin trong bài tập, nhưng em chưa phân biệt được dữ liệu định lượng và định tính ạ.",
+   "question": "Dữ liệu định lượng và dữ liệu định tính khác nhau như thế nào? Cho ví dụ.",
+   "expected_points": [
+    "Dữ liệu định lượng là các số đo, số lượng có thể tính toán được (ví dụ: chiều cao, cân nặng, số lượng học sinh).",
+    "Dữ liệu định tính là các đặc điểm, tính chất, tên gọi (ví dụ: màu sắc, sở thích, tên các loại trái cây)."
+   ],
+   "served_tier": "lesson_practice",
+   "served_work": "Hình chóp tam giác đều – Hình chóp tứ giác đều",
+   "latency_ms": 35.0,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 0,
+   "intent_ok": false,
+   "hallucination": true,
+   "cruft_real": false,
+   "score": 0.0
+  },
+  {
+   "subject": "toan",
+   "intent": "recite",
+   "work_name": "Hình chóp tam giác đều – Hình chóp tứ giác đều",
+   "scenario": "Trong bài học có nhắc đến các cách để lấy thông tin, em muốn biết cụ thể hơn ạ.",
+   "question": "Có những phương pháp phổ biến nào để thu thập dữ liệu?",
+   "expected_points": [
+    "Quan sát trực tiếp.",
+    "Làm thí nghiệm.",
+    "Lập phiếu hỏi (khảo sát)."
+   ],
+   "served_tier": "lesson_practice",
+   "served_work": "Hình chóp tam giác đều – Hình chóp tứ giác đều",
+   "latency_ms": 32.2,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": false,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 0.85
+  },
+  {
+   "subject": "toan",
+   "intent": "explain",
+   "work_name": "Hình chóp tam giác đều – Hình chóp tứ giác đều",
+   "scenario": "Em vừa xem qua một bảng số liệu thấy có số lượng người là -5, em thấy lạ quá, không biết có đúng không ạ?",
+   "question": "Làm thế nào để đánh giá tính hợp lý của dữ liệu thu thập được?",
+   "expected_points": [
+    "Đánh giá dựa trên việc kiểm tra xem các giá trị có phù hợp với thực tế không.",
+    "Ví dụ: số lượng người không thể là số âm, hoặc tỉ lệ phần trăm không thể vượt quá 100%."
+   ],
+   "served_tier": "lesson_practice",
+   "served_work": "Hình chóp tam giác đều – Hình chóp tứ giác đều",
+   "latency_ms": 42.1,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": false,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 0.85
+  },
+  {
+   "subject": "toan",
+   "intent": "explain",
+   "work_name": "Hình chóp tam giác đều – Hình chóp tứ giác đều",
+   "scenario": "Thầy/cô ơi, khi làm báo cáo thống kê thì em cần chú ý điều gì để kết quả chính xác nhất ạ?",
+   "question": "Khi thu thập dữ liệu, cần phải đảm bảo những yêu cầu gì?",
+   "expected_points": [
+    "Cần đảm bảo tính khách quan.",
+    "Cần đảm bảo tính trung thực.",
+    "Cần đảm bảo tính đầy đủ."
+   ],
+   "served_tier": "lesson_practice",
+   "served_work": "Hình chóp tam giác đều – Hình chóp tứ giác đều",
+   "latency_ms": 34.1,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": false,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 0.85
+  },
+  {
+   "subject": "toan",
+   "intent": "practice",
+   "work_name": "Hình chóp tam giác đều – Hình chóp tứ giác đều",
+   "scenario": "Em đã nắm được lý thuyết rồi, thầy/cô cho em xin một bài tập để luyện tập phần này với ạ!",
+   "question": "Dựa vào nội dung bài học, em hãy nêu một ví dụ về việc chọn phương pháp thu thập dữ liệu phù hợp (ví dụ: hỏi ý kiến con người hoặc lấy số liệu kinh tế)?",
+   "expected_points": [
+    "Hỏi ý kiến con người thì dùng phiếu khảo sát.",
+    "Lấy số liệu kinh tế thì dùng báo cáo chính thống."
+   ],
+   "served_tier": "lesson_practice",
+   "served_work": "Hình chóp tam giác đều – Hình chóp tứ giác đều",
+   "latency_ms": 41.7,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 0,
+   "intent_ok": true,
+   "hallucination": true,
+   "cruft_real": false,
+   "score": 0.0
+  }
+ ]
+}
