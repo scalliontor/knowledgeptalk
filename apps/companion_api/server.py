@@ -173,7 +173,9 @@ async def retrieve(req: RetrieveRequest) -> RetrieveResponse:
                 "grade": parsed.get("lop"), "bo_sach": parsed.get("bo_sach"),
                 "query_type": "explain", "learning_mode": "tutor", "tier": "A_concept",
             }
-            ctx = unicodedata.normalize('NFC', f"[DỮ LIỆU CONCEPT - TIER A]\nNguồn chính:\n{concept_ctx}")
+            # NOTE: byte-faithful to monolith — concept label uses U+1EEC ("DỬ", a source
+            # typo) + escaped form, unlike the other labels' literal "DỮ". Preserved for parity.
+            ctx = unicodedata.normalize('NFC', f"[DỬ LIỆU CONCEPT - TIER A]\nNguồn ch\xednh:\n{concept_ctx}")
             return RetrieveResponse(context=ctx, intent=intent_c, sources=["tier_a_concept"])
 
     # 1. Router (Gemma-FREE rule-based)

@@ -1,0 +1,17 @@
+{
+  "summary": {
+    "intent.tier": {
+      "match": 144,
+      "total": 144
+    },
+    "intent.work_name": {
+      "match": 144,
+      "total": 144
+    }
+  },
+  "context_anchored": {
+    "match": 139,
+    "total": 139
+  },
+  "mismatches": []
+}
