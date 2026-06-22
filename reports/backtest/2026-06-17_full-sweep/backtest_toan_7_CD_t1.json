@@ -1,0 +1,245 @@
+{
+ "book": "toan 7 CD tap1",
+ "port": "8890",
+ "total": 500,
+ "lessons": 18,
+ "lesson_cases": 425,
+ "guard_cases": 75,
+ "errors": 0,
+ "anchor_acc": 89.9,
+ "mode_acc": 68.7,
+ "guard_acc": 100.0,
+ "cruft_on_cards": 0,
+ "latency_ms": {
+  "p50": 39.5,
+  "p95": 285.2,
+  "p99": 303.8,
+  "max": 319.8
+ },
+ "by_dimension": {
+  "content_only": {
+   "n": 85,
+   "anchor%": 51.8,
+   "mode%": 15.3,
+   "cruft": 0
+  },
+  "current_lesson": {
+   "n": 65,
+   "anchor%": 100.0,
+   "mode%": 95.4,
+   "cruft": 0
+  },
+  "guard_chitchat": {
+   "n": 24,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_offtopic": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_oob_trang": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_out_of_book": {
+   "n": 15,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_word": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_year": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "name_query": {
+   "n": 91,
+   "anchor%": 97.8,
+   "mode%": 54.9,
+   "cruft": 0
+  },
+  "practice": {
+   "n": 88,
+   "anchor%": 100.0,
+   "mode%": 90.9,
+   "cruft": 0
+  },
+  "trang_profile": {
+   "n": 39,
+   "anchor%": 100.0,
+   "mode%": 89.7,
+   "cruft": 0
+  },
+  "trang_query": {
+   "n": 57,
+   "anchor%": 100.0,
+   "mode%": 91.2,
+   "cruft": 0
+  }
+ },
+ "sample_fails": [
+  [
+   "content_only",
+   "trên trục số thì biểu diễn thế nào?",
+   "got A_concept: exp Tập hợp Q các số hữu t"
+  ],
+  [
+   "content_only",
+   "làm sao để biết cái nào là cái được cho ",
+   "got none: exp Định lí"
+  ],
+  [
+   "content_only",
+   "số ko viết dc dưới dạng phân số là gì ạ?",
+   "got A_concept: exp Số vô tỉ. Căn bậc hai "
+  ],
+  [
+   "content_only",
+   "làm sao để biết một số có phải số hữu tỉ",
+   "got lesson_practice:Tập hợp Q các số hữu t exp Cộng, trừ, nhân, chia "
+  ],
+  [
+   "content_only",
+   "số thập phân vô hạn không tuần hoàn gọi ",
+   "got lesson_card:Biểu diễn thập phân củ exp Tập hợp R các số thực"
+  ],
+  [
+   "content_only",
+   "hình này có mấy mặt bên thế ạ?",
+   "got A_concept: exp Hình lăng trụ đứng tam"
+  ],
+  [
+   "name_query",
+   "bài này có cần dùng máy tính ko ạ?",
+   "got A_concept: exp Số vô tỉ. Căn bậc hai "
+  ],
+  [
+   "content_only",
+   "làm sao biết được các cạnh bên nó song s",
+   "got lesson_card:Hai đường thẳng song s exp Hình lăng trụ đứng tam"
+  ],
+  [
+   "content_only",
+   "từ ad = bc thì viết lại thành các tỉ số ",
+   "got none: exp Tỉ lệ thức"
+  ],
+  [
+   "content_only",
+   "nếu a khác 0 thì mối quan hệ này là gì?",
+   "got none: exp Đại lượng tỉ lệ thuận"
+  ],
+  [
+   "content_only",
+   "cái phần đứng sau chữ 'nếu' gọi là gì th",
+   "got A_concept: exp Định lí"
+  ],
+  [
+   "content_only",
+   "muốn biết nó đúng hay sai thì phải làm g",
+   "got A_concept: exp Định lí"
+  ],
+  [
+   "content_only",
+   "công thức (x^m)^n dùng như nào thế ạ",
+   "got A_concept: exp Phép tính lũy thừa với"
+  ],
+  [
+   "content_only",
+   "cái dấu ngoặc đơn dùng để làm gì vậy ạ?",
+   "got A_concept: exp Biểu diễn thập phân củ"
+  ],
+  [
+   "content_only",
+   "nếu biết x và y thì làm sao tìm được a?",
+   "got none: exp Đại lượng tỉ lệ nghịch"
+  ],
+  [
+   "content_only",
+   "cho em hỏi khi x tăng lên bao nhiêu lần ",
+   "got none: exp Đại lượng tỉ lệ nghịch"
+  ],
+  [
+   "content_only",
+   "mặt bên là hình gì vậy ạ?",
+   "got A_concept: exp Hình lăng trụ đứng tam"
+  ],
+  [
+   "content_only",
+   "công thức tính diện tích xung quanh của ",
+   "got A_concept: exp Hình hộp chữ nhật. Hìn"
+  ],
+  [
+   "content_only",
+   "công thức tính số đo 2 góc con là gì ạ",
+   "got A_concept: exp Tia phân giác của một "
+  ],
+  [
+   "content_only",
+   "máy tính có tính được mấy cái căn này ko",
+   "got none: exp Số vô tỉ. Căn bậc hai "
+  ],
+  [
+   "content_only",
+   "cái a trong công thức gọi là gì vậy ạ?",
+   "got A_concept: exp Đại lượng tỉ lệ nghịch"
+  ],
+  [
+   "content_only",
+   "khi nào thì được dùng phép trừ ở mẫu thế",
+   "got A_concept: exp Dãy tỉ số bằng nhau"
+  ],
+  [
+   "content_only",
+   "cạnh của nó bằng nhau hết thì gọi là gì ",
+   "got A_concept: exp Hình hộp chữ nhật. Hìn"
+  ],
+  [
+   "content_only",
+   "khi nào thì mình giữ nguyên chữ số, khi ",
+   "got none: exp Làm tròn và ước lượng"
+  ],
+  [
+   "content_only",
+   "muốn so sánh 2 số này thì làm ntn?",
+   "got none: exp Tập hợp Q các số hữu t"
+  ],
+  [
+   "content_only",
+   "số nguyên có nằm trong tập hợp này ko ạ?",
+   "got none: exp Tập hợp Q các số hữu t"
+  ],
+  [
+   "content_only",
+   "số thập phân vô hạn ko tuần hoàn là loại",
+   "got lesson_card:Biểu diễn thập phân củ exp Số vô tỉ. Căn bậc hai "
+  ],
+  [
+   "content_only",
+   "tỉ số y/x có luôn giữ nguyên ko ạ?",
+   "got none: exp Đại lượng tỉ lệ thuận"
+  ],
+  [
+   "content_only",
+   "tích của 2 đại lượng này luôn là số gì t",
+   "got none: exp Đại lượng tỉ lệ nghịch"
+  ],
+  [
+   "content_only",
+   "làm sao để tìm được số a trong công thức",
+   "got A_concept: exp Đại lượng tỉ lệ thuận"
+  ]
+ ]
+}

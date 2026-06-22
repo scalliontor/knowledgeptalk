@@ -1,0 +1,245 @@
+{
+ "book": "lich_su 6 KNTT tapNone",
+ "port": "8890",
+ "total": 500,
+ "lessons": 25,
+ "lesson_cases": 425,
+ "guard_cases": 75,
+ "errors": 0,
+ "anchor_acc": 80.0,
+ "mode_acc": 72.0,
+ "guard_acc": 100.0,
+ "cruft_on_cards": 0,
+ "latency_ms": {
+  "p50": 38.8,
+  "p95": 272.3,
+  "p99": 293.4,
+  "max": 307.4
+ },
+ "by_dimension": {
+  "content_only": {
+   "n": 87,
+   "anchor%": 21.8,
+   "mode%": 16.1,
+   "cruft": 0
+  },
+  "current_lesson": {
+   "n": 73,
+   "anchor%": 100.0,
+   "mode%": 91.8,
+   "cruft": 0
+  },
+  "guard_chitchat": {
+   "n": 24,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_offtopic": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_oob_trang": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_out_of_book": {
+   "n": 15,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_word": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_year": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "name_query": {
+   "n": 74,
+   "anchor%": 87.8,
+   "mode%": 73.0,
+   "cruft": 0
+  },
+  "practice": {
+   "n": 94,
+   "anchor%": 100.0,
+   "mode%": 88.3,
+   "cruft": 0
+  },
+  "trang_profile": {
+   "n": 35,
+   "anchor%": 91.4,
+   "mode%": 91.4,
+   "cruft": 0
+  },
+  "trang_query": {
+   "n": 62,
+   "anchor%": 91.9,
+   "mode%": 90.3,
+   "cruft": 0
+  }
+ },
+ "sample_fails": [
+  [
+   "name_query",
+   "cho em hỏi về các đế chế trong bài Ấn Độ",
+   "got lesson_practice:Ấn Độ cổ đại exp Ấn Độ cổ đại- Kết nối "
+  ],
+  [
+   "content_only",
+   "tôn giáo ở đây có những gì thế ạ?",
+   "got none: exp Vương quốc Phù Nam"
+  ],
+  [
+   "content_only",
+   "con người xưa dùng gì để sinh tồn hả ạ?",
+   "got none: exp Xã hội nguyên thủy"
+  ],
+  [
+   "content_only",
+   "các nước mình thời đó có xây dựng đền th",
+   "got lesson_card:Vương quốc Chăm-pa từ  exp Giao lưu văn hóa ở Đôn"
+  ],
+  [
+   "name_query",
+   "bài Vương quốc Phù Nam này có gì quan tr",
+   "got lesson_card:Vương quốc Phù Nam exp Vương quốc Phù Nam- Kế"
+  ],
+  [
+   "content_only",
+   "vị trí địa lý có vai trò gì trong việc p",
+   "got A_concept: exp Các quốc gia sơ kì ở Đ"
+  ],
+  [
+   "content_only",
+   "chế độ phân chia đẳng cấp dựa trên cái g",
+   "got none: exp Ấn Độ cổ đại- Kết nối "
+  ],
+  [
+   "content_only",
+   "kiến trúc đền tháp thời đó thường theo p",
+   "got A_concept: exp Giao lưu văn hóa ở Đôn"
+  ],
+  [
+   "content_only",
+   "cho em hỏi số 0 là do ai tìm ra vậy ạ?",
+   "got none: exp Ấn Độ cổ đại"
+  ],
+  [
+   "trang_profile",
+   "em chưa nắm rõ phần tổ chức xã hội, thầy",
+   "got lesson_card:Nguồn gốc loài người exp Xã hội nguyên thủy"
+  ],
+  [
+   "content_only",
+   "chữ Phạn dùng để làm gì vậy ạ?",
+   "got none: exp Ấn Độ cổ đại"
+  ],
+  [
+   "content_only",
+   "người ta làm nghề gì là chính để hình th",
+   "got A_concept: exp Các quốc gia sơ kì ở Đ"
+  ],
+  [
+   "content_only",
+   "xã hội ngày xưa chia làm mấy tầng lớp vậ",
+   "got none: exp Ấn Độ cổ đại- Kết nối "
+  ],
+  [
+   "content_only",
+   "về tôn giáo thì có những loại nào phổ bi",
+   "got none: exp Giao lưu văn hóa ở Đôn"
+  ],
+  [
+   "content_only",
+   "họ có những di vật gì đặc trưng không?",
+   "got none: exp Vương quốc Phù Nam- Kế"
+  ],
+  [
+   "content_only",
+   "về kinh tế thì dân mình bị ảnh hưởng thế",
+   "got none: exp Chính sách cai trị của"
+  ],
+  [
+   "name_query",
+   "trong bài Vương quốc Phù Nam, kinh tế họ",
+   "got lesson_card:Vương quốc Phù Nam exp Vương quốc Phù Nam- Kế"
+  ],
+  [
+   "content_only",
+   "kết quả của việc giữ gìn văn hóa là gì t",
+   "got lesson_card:Các cuộc đấu tranh bảo exp Cuộc đấu tranh bảo tồn"
+  ],
+  [
+   "content_only",
+   "vùng này có khí hậu thế nào thế ạ?",
+   "got none: exp Ấn Độ cổ đại"
+  ],
+  [
+   "content_only",
+   "chế độ cai trị của họ thay đổi thế nào ạ",
+   "got lesson_card:Chính sách cai trị của exp Hy Lạp và La Mã cổ đại"
+  ],
+  [
+   "trang_query",
+   "giảng lại cho em đoạn nói về công cụ lao",
+   "got lesson_card:Nguồn gốc loài người exp Xã hội nguyên thủy"
+  ],
+  [
+   "content_only",
+   "ai đã chiếm thành Đại La để giành quyền ",
+   "got none: exp Bước ngoặt lịch sử đầu"
+  ],
+  [
+   "trang_query",
+   "cái số 0 của người Ấn có gì đặc biệt ạ, ",
+   "got lesson_card:Sự biến chuyển và phân exp Ấn Độ cổ đại- Kết nối "
+  ],
+  [
+   "name_query",
+   "kiến thức trọng tâm bài Vương quốc Phù N",
+   "got lesson_card:Vương quốc Phù Nam exp Vương quốc Phù Nam- Kế"
+  ],
+  [
+   "content_only",
+   "văn minh này phát triển mạnh nhờ nguồn n",
+   "got A_concept: exp Trung Quốc từ thời cổ "
+  ],
+  [
+   "content_only",
+   "công cụ của người tối cổ có tinh xảo ko ",
+   "got none: exp Nguồn gốc loài người"
+  ],
+  [
+   "content_only",
+   "các học thuyết như Nho giáo hay Phật giá",
+   "got none: exp Cuộc đấu tranh bảo tồn"
+  ],
+  [
+   "content_only",
+   "ở phương đông thì sự phân hóa nó như nào",
+   "got none: exp Sự biến chuyển và phân"
+  ],
+  [
+   "content_only",
+   "vị trí hình thành của nền văn minh này ở",
+   "got A_concept: exp Trung Quốc từ thời cổ "
+  ],
+  [
+   "content_only",
+   "thể tích não thay đổi thế nào qua các gi",
+   "got none: exp Nguồn gốc loài người"
+  ]
+ ]
+}

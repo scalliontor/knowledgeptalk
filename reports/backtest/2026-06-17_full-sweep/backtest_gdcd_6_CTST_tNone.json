@@ -1,0 +1,245 @@
+{
+ "book": "gdcd 6 CTST tapNone",
+ "port": "8890",
+ "total": 435,
+ "lessons": 12,
+ "lesson_cases": 360,
+ "guard_cases": 75,
+ "errors": 0,
+ "anchor_acc": 90.8,
+ "mode_acc": 73.9,
+ "guard_acc": 100.0,
+ "cruft_on_cards": 17,
+ "latency_ms": {
+  "p50": 38.9,
+  "p95": 202.9,
+  "p99": 219.7,
+  "max": 254.2
+ },
+ "by_dimension": {
+  "content_only": {
+   "n": 72,
+   "anchor%": 54.2,
+   "mode%": 20.8,
+   "cruft": 1
+  },
+  "current_lesson": {
+   "n": 60,
+   "anchor%": 100.0,
+   "mode%": 95.0,
+   "cruft": 5
+  },
+  "guard_chitchat": {
+   "n": 24,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_offtopic": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_oob_trang": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_out_of_book": {
+   "n": 15,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_word": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_year": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "name_query": {
+   "n": 72,
+   "anchor%": 100.0,
+   "mode%": 61.1,
+   "cruft": 4
+  },
+  "practice": {
+   "n": 72,
+   "anchor%": 100.0,
+   "mode%": 95.8,
+   "cruft": 0
+  },
+  "trang_profile": {
+   "n": 36,
+   "anchor%": 100.0,
+   "mode%": 94.4,
+   "cruft": 3
+  },
+  "trang_query": {
+   "n": 48,
+   "anchor%": 100.0,
+   "mode%": 97.9,
+   "cruft": 4
+  }
+ },
+ "sample_fails": [
+  [
+   "content_only",
+   "nếu bị bạo lực thì là vi phạm quyền gì t",
+   "got none: exp Quyền cơ bản của trẻ e"
+  ],
+  [
+   "content_only",
+   "quyền lợi của mình bao gồm những gì ạ?",
+   "got none: exp Công dân nước Cộng hòa"
+  ],
+  [
+   "content_only",
+   "làm sao để xây dựng mối quan hệ tốt đẹp ",
+   "got none: exp Tôn trọng sự thật"
+  ],
+  [
+   "content_only",
+   "mình có được làm bất cứ điều gì mình thí",
+   "got none: exp Quyền và nghĩa vụ của "
+  ],
+  [
+   "content_only",
+   "những lợi ích được nhà nước bảo đảm là g",
+   "got none: exp Quyền và nghĩa vụ của "
+  ],
+  [
+   "content_only",
+   "tổ chức xã hội hỗ trợ thuốc men là đang ",
+   "got A_concept: exp Thực hiện quyền trẻ em"
+  ],
+  [
+   "content_only",
+   "muốn thành công thì cần những gì ạ",
+   "got A_concept: exp Tự lập"
+  ],
+  [
+   "content_only",
+   "cách để hoàn thiện bản thân là như nào ạ",
+   "got none: exp Tự nhận thức bản thân"
+  ],
+  [
+   "content_only",
+   "làm việc mà không cần nhắc nhở là thế nà",
+   "got none: exp Siêng năng, kiên trì"
+  ],
+  [
+   "content_only",
+   "ai là người có trách nhiệm bảo vệ trẻ em",
+   "got none: exp Thực hiện quyền trẻ em"
+  ],
+  [
+   "content_only",
+   "mấy cái được làm với cái bắt buộc làm là",
+   "got none: exp Quyền và nghĩa vụ của "
+  ],
+  [
+   "content_only",
+   "việc tắt đèn khi ra khỏi phòng là gì vậy",
+   "got none: exp Tiết kiệm"
+  ],
+  [
+   "content_only",
+   "mình nên làm gì khi thấy người khác gặp ",
+   "got lesson_practice:Ứng phó với tình huống exp Yêu thương con người"
+  ],
+  [
+   "content_only",
+   "dùng giấy một mặt để làm nháp là biểu hi",
+   "got none: exp Tiết kiệm"
+  ],
+  [
+   "content_only",
+   "nếu mình che giấu lỗi lầm thì gọi là gì ",
+   "got none: exp Tôn trọng sự thật"
+  ],
+  [
+   "content_only",
+   "sử dụng nguồn lực của bản thân và xã hội",
+   "got none: exp Tiết kiệm"
+  ],
+  [
+   "content_only",
+   "biểu hiện của việc này gồm những gì vậy ",
+   "got none: exp Yêu thương con người"
+  ],
+  [
+   "content_only",
+   "làm sao để tự tin hơn khi nói chuyện với",
+   "got none: exp Tự nhận thức bản thân"
+  ],
+  [
+   "content_only",
+   "có người lạ đi theo ở chỗ vắng thì phải ",
+   "got none: exp Ứng phó với tình huống"
+  ],
+  [
+   "content_only",
+   "việc được đi học và tham gia CLB là thuộ",
+   "got none: exp Thực hiện quyền trẻ em"
+  ],
+  [
+   "content_only",
+   "tham gia văn nghệ thì là đang làm gì thế",
+   "got none: exp Quyền và nghĩa vụ của "
+  ],
+  [
+   "content_only",
+   "trẻ em có những quyền gì cơ bản vậy ạ?",
+   "got lesson_card:Quyền cơ bản của trẻ e exp Thực hiện quyền trẻ em"
+  ],
+  [
+   "content_only",
+   "ngoài quyền lợi ra thì mình có cần làm g",
+   "got none: exp Quyền cơ bản của trẻ e"
+  ],
+  [
+   "content_only",
+   "làm sao để ko bị ỷ lại vào bố mẹ ạ",
+   "got none: exp Tự lập"
+  ],
+  [
+   "content_only",
+   "cho em hỏi quyền được học tập là thuộc p",
+   "got none: exp Quyền và nghĩa vụ của "
+  ],
+  [
+   "content_only",
+   "việc được đi học với vui chơi thì thuộc ",
+   "got none: exp Quyền cơ bản của trẻ e"
+  ],
+  [
+   "content_only",
+   "muốn đạt mục tiêu thì cần những gì ạ?",
+   "got none: exp Siêng năng, kiên trì"
+  ],
+  [
+   "content_only",
+   "mình có được nói lên ý kiến của mình ko ",
+   "got none: exp Quyền cơ bản của trẻ e"
+  ],
+  [
+   "content_only",
+   "ngoài quyền ra thì mình còn có nghĩa vụ ",
+   "got lesson_practice:Quyền và nghĩa vụ của  exp Công dân nước Cộng hòa"
+  ],
+  [
+   "content_only",
+   "khi thấy bạn làm sai thì nên làm gì?",
+   "got none: exp Tôn trọng sự thật"
+  ]
+ ]
+}

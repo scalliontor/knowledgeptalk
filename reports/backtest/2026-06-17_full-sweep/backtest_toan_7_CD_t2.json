@@ -1,0 +1,245 @@
+{
+ "book": "toan 7 CD tap2",
+ "port": "8890",
+ "total": 500,
+ "lessons": 24,
+ "lesson_cases": 425,
+ "guard_cases": 75,
+ "errors": 0,
+ "anchor_acc": 85.4,
+ "mode_acc": 68.7,
+ "guard_acc": 100.0,
+ "cruft_on_cards": 0,
+ "latency_ms": {
+  "p50": 39.8,
+  "p95": 297.4,
+  "p99": 311.0,
+  "max": 541.8
+ },
+ "by_dimension": {
+  "content_only": {
+   "n": 82,
+   "anchor%": 39.0,
+   "mode%": 14.6,
+   "cruft": 0
+  },
+  "current_lesson": {
+   "n": 69,
+   "anchor%": 100.0,
+   "mode%": 91.3,
+   "cruft": 0
+  },
+  "guard_chitchat": {
+   "n": 24,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_offtopic": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_oob_trang": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_out_of_book": {
+   "n": 15,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_word": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_year": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "name_query": {
+   "n": 76,
+   "anchor%": 92.1,
+   "mode%": 56.6,
+   "cruft": 0
+  },
+  "practice": {
+   "n": 97,
+   "anchor%": 100.0,
+   "mode%": 91.8,
+   "cruft": 0
+  },
+  "trang_profile": {
+   "n": 42,
+   "anchor%": 92.9,
+   "mode%": 83.3,
+   "cruft": 0
+  },
+  "trang_query": {
+   "n": 59,
+   "anchor%": 94.9,
+   "mode%": 84.7,
+   "cruft": 0
+  }
+ },
+ "sample_fails": [
+  [
+   "name_query",
+   "bài này có cần thu gọn trước khi tìm bậc",
+   "got none: exp Đa thức một biến. Nghi"
+  ],
+  [
+   "content_only",
+   "cái này là chia cái gì cho cái gì thế ạ?",
+   "got none: exp Phép chia đa thức một "
+  ],
+  [
+   "content_only",
+   "làm sao để biết nó đang tăng hay giảm th",
+   "got none: exp Biểu đồ đoạn thẳng"
+  ],
+  [
+   "content_only",
+   "điểm O đó gọi là gì thế ạ?",
+   "got none: exp Tính chất ba đường tru"
+  ],
+  [
+   "name_query",
+   "bài tính chất ba đường trung tuyến này c",
+   "got A_concept: exp Tính chất ba đường tru"
+  ],
+  [
+   "trang_profile",
+   "mối quan hệ giữa góc và cạnh là thế nào ",
+   "got lesson_card:Trường hợp bằng nhau t exp Quan hệ giữa góc và cạ"
+  ],
+  [
+   "name_query",
+   "Cho em hỏi về trường hợp c.c.c này với",
+   "got none: exp Trường hợp bằng nhau t"
+  ],
+  [
+   "content_only",
+   "làm sao để rút ra thông tin có ý nghĩa t",
+   "got none: exp Phân tích và xử lí dữ "
+  ],
+  [
+   "content_only",
+   "khi nào thì 2 tam giác bằng nhau?",
+   "got lesson_practice:Hai tam giác bằng nhau exp Trường hợp bằng nhau t"
+  ],
+  [
+   "content_only",
+   "làm sao để biết dữ liệu mình thu thập đư",
+   "got lesson_practice:Phân tích và xử lí dữ  exp Thu thập, phân loại và"
+  ],
+  [
+   "content_only",
+   "trong tam giác cân thì mấy cái đường này",
+   "got lesson_card:Tam giác cân exp Tính chất ba đường phâ"
+  ],
+  [
+   "content_only",
+   "cái công thức tính diện tích hình vuông ",
+   "got A_concept: exp Biểu thức số. Biểu thứ"
+  ],
+  [
+   "content_only",
+   "làm sao để biết góc nào tương ứng với gó",
+   "got lesson_practice:Tổng các góc của một t exp Hai tam giác bằng nhau"
+  ],
+  [
+   "trang_profile",
+   "giảng lại giúp em vụ hiệu 2 cạnh đi",
+   "got lesson_card:Trường hợp bằng nhau t exp Quan hệ giữa góc và cạ"
+  ],
+  [
+   "name_query",
+   "cho em hỏi về phần Đa thức một biến với",
+   "got lesson_card:Phép nhân đa thức một  exp Đa thức một biến. Nghi"
+  ],
+  [
+   "content_only",
+   "điểm đó cách đều 3 cạnh là sao ạ?",
+   "got lesson_card:Trường hợp bằng nhau t exp Tính chất ba đường phâ"
+  ],
+  [
+   "content_only",
+   "cách tính toán với mấy cái đa thức này t",
+   "got lesson_practice:Phép cộng, phép trừ đa exp Phép chia đa thức một "
+  ],
+  [
+   "content_only",
+   "nếu biết 1 khoảng cách thì mấy cái kia c",
+   "got none: exp Tính chất ba đường phâ"
+  ],
+  [
+   "trang_query",
+   "cách so sánh góc với cạnh làm ntn ạ? ở t",
+   "got lesson_practice:Trường hợp bằng nhau t exp Quan hệ giữa góc và cạ"
+  ],
+  [
+   "content_only",
+   "điểm này cách đều 3 đỉnh là sao ạ?",
+   "got none: exp Tính chất ba đường tru"
+  ],
+  [
+   "content_only",
+   "cái điểm giao nhau đó gọi là gì thế ạ?",
+   "got none: exp Tính chất ba đường phâ"
+  ],
+  [
+   "content_only",
+   "công thức tính góc còn lại là gì thế?",
+   "got A_concept: exp Tổng các góc của một t"
+  ],
+  [
+   "content_only",
+   "tổng mấy cái phần này phải bằng bao nhiê",
+   "got none: exp Biểu đồ hình quạt tròn"
+  ],
+  [
+   "content_only",
+   "điểm nằm trên đường đó thì có luôn cách ",
+   "got A_concept: exp Đường trung trực của m"
+  ],
+  [
+   "content_only",
+   "mấy cái miếng này nó tỉ lệ với cái gì th",
+   "got none: exp Biểu đồ hình quạt tròn"
+  ],
+  [
+   "content_only",
+   "sau khi có bảng số liệu rồi thì bước tiế",
+   "got none: exp Phân tích và xử lí dữ "
+  ],
+  [
+   "content_only",
+   "muốn tìm bậc thì phải nhìn vào cái gì ạ?",
+   "got none: exp Đa thức một biến. Nghi"
+  ],
+  [
+   "content_only",
+   "điều kiện để 2 tam giác bằng nhau kiểu n",
+   "got lesson_practice:Hai tam giác bằng nhau exp Trường hợp bằng nhau t"
+  ],
+  [
+   "content_only",
+   "hiệu 2 cạnh thì so với cạnh kia thế nào ",
+   "got A_concept: exp Quan hệ giữa góc và cạ"
+  ],
+  [
+   "content_only",
+   "nếu có 3 cặp cạnh bằng nhau thì kết luận",
+   "got lesson_practice:Trường hợp bằng nhau t exp Trường hợp bằng nhau t"
+  ]
+ ]
+}

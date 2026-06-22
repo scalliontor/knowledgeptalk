@@ -1,0 +1,245 @@
+{
+ "book": "dia_li 6 CD tapNone",
+ "port": "8890",
+ "total": 500,
+ "lessons": 26,
+ "lesson_cases": 425,
+ "guard_cases": 75,
+ "errors": 0,
+ "anchor_acc": 86.6,
+ "mode_acc": 74.6,
+ "guard_acc": 84.0,
+ "cruft_on_cards": 0,
+ "latency_ms": {
+  "p50": 43.3,
+  "p95": 223.2,
+  "p99": 257.5,
+  "max": 295.3
+ },
+ "by_dimension": {
+  "content_only": {
+   "n": 88,
+   "anchor%": 42.0,
+   "mode%": 26.1,
+   "cruft": 0
+  },
+  "current_lesson": {
+   "n": 76,
+   "anchor%": 100.0,
+   "mode%": 90.8,
+   "cruft": 0
+  },
+  "guard_chitchat": {
+   "n": 24,
+   "anchor%": 75.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_offtopic": {
+   "n": 12,
+   "anchor%": 50.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_oob_trang": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_out_of_book": {
+   "n": 15,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_word": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_year": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "name_query": {
+   "n": 73,
+   "anchor%": 91.8,
+   "mode%": 60.3,
+   "cruft": 0
+  },
+  "practice": {
+   "n": 93,
+   "anchor%": 100.0,
+   "mode%": 96.8,
+   "cruft": 0
+  },
+  "trang_profile": {
+   "n": 34,
+   "anchor%": 100.0,
+   "mode%": 94.1,
+   "cruft": 0
+  },
+  "trang_query": {
+   "n": 61,
+   "anchor%": 100.0,
+   "mode%": 96.7,
+   "cruft": 0
+  }
+ },
+ "sample_fails": [
+  [
+   "name_query",
+   "kiến thức về Vành đai lửa Thái Bình Dươn",
+   "got A_concept: exp Cấu tạo của Trái Đất. "
+  ],
+  [
+   "content_only",
+   "mấy cái bãi bồi dọc sông là do cái gì tạ",
+   "got none: exp Quá trình nội sinh và "
+  ],
+  [
+   "content_only",
+   "đi đường vĩ độ 50-60 thì có gặp băng khô",
+   "got none: exp Thực hành: Xác định tr"
+  ],
+  [
+   "content_only",
+   "sinh vật ở vùng cực thì thích nghi kiểu ",
+   "got none: exp Sự đa dạng của thế giớ"
+  ],
+  [
+   "content_only",
+   "Trái đất quay như thế nào ạ",
+   "got lesson_practice:Chuyển động của Trái Đ exp Chuyển động tự quay qu"
+  ],
+  [
+   "content_only",
+   "khi dùng la bàn thì cái kim nó luôn chỉ ",
+   "got none: exp Xác định phương hướng "
+  ],
+  [
+   "content_only",
+   "nếu bán cầu bắc là mùa hạ thì bán cầu na",
+   "got none: exp Chuyển động của Trái Đ"
+  ],
+  [
+   "content_only",
+   "từ việt nam đi vòng quanh thế giới thì q",
+   "got none: exp Thực hành: Xác định tr"
+  ],
+  [
+   "content_only",
+   "muốn tìm đường đi ngắn nhất thì phải nhì",
+   "got none: exp Thực hành: Đọc bản đồ,"
+  ],
+  [
+   "content_only",
+   "liệt kê giúp em các đại dương lớn nhất v",
+   "got lesson_practice:Biển và đại dương. Một exp Thực hành: Xác định tr"
+  ],
+  [
+   "content_only",
+   "cho em hỏi cái quỹ đạo nó hình gì vậy ạ",
+   "got A_concept: exp Chuyển động của Trái Đ"
+  ],
+  [
+   "content_only",
+   "trồng rừng thì có tác dụng gì cho môi tr",
+   "got lesson_card:Thực hành: Tìm hiểu tá exp Con người và thiên nhi"
+  ],
+  [
+   "content_only",
+   "cái nào thì gọi là độ cao lớn hơn 500m s",
+   "got A_concept: exp Các dạng địa hình chín"
+  ],
+  [
+   "content_only",
+   "nước mặn với nước ngọt cái nào nhiều hơn",
+   "got none: exp Các thành phần chủ yếu"
+  ],
+  [
+   "content_only",
+   "làm sao để biết hướng đông tây nam bắc t",
+   "got lesson_practice:Xác định phương hướng  exp Các yếu tố cơ bản của "
+  ],
+  [
+   "content_only",
+   "khai thác khoáng sản gây ô nhiễm gì vậy ",
+   "got none: exp Thực hành: Tìm hiểu tá"
+  ],
+  [
+   "content_only",
+   "các bản làng thường tập trung ở độ cao n",
+   "got A_concept: exp Thực hành: Đọc lược đồ"
+  ],
+  [
+   "content_only",
+   "những khối băng lớn ở vùng cực là gì vậy",
+   "got none: exp Sông. Nước ngầm và băn"
+  ],
+  [
+   "content_only",
+   "vòng tròn bao quanh trái đất vuông góc v",
+   "got A_concept: exp Hệ thống kinh vĩ tuyến"
+  ],
+  [
+   "content_only",
+   "khí hậu ảnh hưởng gì đến việc ở đâu của ",
+   "got lesson_card:Nhiệt độ và mưa. Thời  exp Dân số thế giới. Sự ph"
+  ],
+  [
+   "content_only",
+   "phun thuốc trừ sâu thì ảnh hưởng đến cái",
+   "got none: exp Thực hành: Tìm hiểu tá"
+  ],
+  [
+   "content_only",
+   "ở đại dương với trên lục địa sinh vật có",
+   "got lesson_practice:Biển và đại dương. Một exp Sự đa dạng của thế giớ"
+  ],
+  [
+   "content_only",
+   "nếu nhìn tàu thuyền từ xa thì sẽ thấy th",
+   "got none: exp Trái Đất trong hệ Mặt "
+  ],
+  [
+   "content_only",
+   "tầng nào là nơi xảy ra mưa với mây ạ?",
+   "got none: exp Khí quyển của Trái Đất"
+  ],
+  [
+   "content_only",
+   "mấy cái hiện tượng thời tiết xấu là do đ",
+   "got A_concept: exp Biến đổi khí hậu và ứn"
+  ],
+  [
+   "content_only",
+   "làm sao để giảm bớt lượng khí cac-bon tr",
+   "got none: exp Biến đổi khí hậu và ứn"
+  ],
+  [
+   "content_only",
+   "lượng mưa ở đây tập trung vào thời điểm ",
+   "got none: exp Thực hành: Đọc lược đồ"
+  ],
+  [
+   "content_only",
+   "mây được hình thành từ đâu thế ạ?",
+   "got A_concept: exp Các thành phần chủ yếu"
+  ],
+  [
+   "content_only",
+   "nước ở dưới các lớp đất đá gọi là gì ạ?",
+   "got none: exp Sông. Nước ngầm và băn"
+  ],
+  [
+   "content_only",
+   "nêu đặc điểm của đới nóng giúp em với",
+   "got lesson_card:Thực hành: Đọc lược đồ exp Nhiệt độ và mưa. Thời "
+  ]
+ ]
+}

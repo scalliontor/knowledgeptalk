@@ -1,0 +1,245 @@
+{
+ "book": "khtn 6 KNTT tapNone",
+ "port": "8890",
+ "total": 500,
+ "lessons": 71,
+ "lesson_cases": 425,
+ "guard_cases": 75,
+ "errors": 0,
+ "anchor_acc": 81.4,
+ "mode_acc": 64.7,
+ "guard_acc": 92.0,
+ "cruft_on_cards": 13,
+ "latency_ms": {
+  "p50": 38.7,
+  "p95": 365.9,
+  "p99": 389.4,
+  "max": 402.2
+ },
+ "by_dimension": {
+  "content_only": {
+   "n": 94,
+   "anchor%": 38.3,
+   "mode%": 16.0,
+   "cruft": 0
+  },
+  "current_lesson": {
+   "n": 78,
+   "anchor%": 97.4,
+   "mode%": 85.9,
+   "cruft": 2
+  },
+  "guard_chitchat": {
+   "n": 24,
+   "anchor%": 75.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_offtopic": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_oob_trang": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_out_of_book": {
+   "n": 15,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_word": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_year": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "name_query": {
+   "n": 101,
+   "anchor%": 91.1,
+   "mode%": 59.4,
+   "cruft": 6
+  },
+  "practice": {
+   "n": 110,
+   "anchor%": 99.1,
+   "mode%": 92.7,
+   "cruft": 4
+  },
+  "trang_profile": {
+   "n": 20,
+   "anchor%": 75.0,
+   "mode%": 65.0,
+   "cruft": 1
+  },
+  "trang_query": {
+   "n": 22,
+   "anchor%": 81.8,
+   "mode%": 81.8,
+   "cruft": 0
+  }
+ },
+ "sample_fails": [
+  [
+   "trang_profile",
+   "cái này là do lực gì mà giữ được các hàn",
+   "got lesson_card:Thực hành: Quan sát và exp Hệ Mặt Trời và Ngân Hà"
+  ],
+  [
+   "content_only",
+   "các thiên hà thường có những hình dạng n",
+   "got lesson_card:Ngân hà exp Hệ Mặt Trời và Ngân Hà"
+  ],
+  [
+   "content_only",
+   "mèo với hổ thì khác nhau ở đâu ạ?",
+   "got none: exp Hệ thống phân loại sin"
+  ],
+  [
+   "content_only",
+   "mấy cái này có ưu điểm gì so với mấy loạ",
+   "got none: exp Năng lượng tái tạo"
+  ],
+  [
+   "content_only",
+   "vật ở trên cao thì có năng lượng gì ạ?",
+   "got lesson_card:Một số dạng năng lượng exp Các dạng năng lượng"
+  ],
+  [
+   "content_only",
+   "kích thước của nó to hay nhỏ thế ạ",
+   "got none: exp Nguyên sinh vật"
+  ],
+  [
+   "content_only",
+   "cái sơ đồ từ tế bào đến cơ thể là sao ạ?",
+   "got none: exp Tổ chức cơ thể đa bào"
+  ],
+  [
+   "content_only",
+   "nhựa với thủy tinh là cái gì trong bài n",
+   "got none: exp Một số vật liệu, nhiên"
+  ],
+  [
+   "trang_query",
+   "em chưa rõ vụ vi khuẩn hình que là sao, ",
+   "got lesson_card:Vi khuẩn exp Thực hành: Làm sữa chu"
+  ],
+  [
+   "content_only",
+   "sự khác nhau giữa nhân thực và nhân sơ l",
+   "got A_concept: exp Cấu tạo và chức năng c"
+  ],
+  [
+   "trang_query",
+   "em vẫn chưa rõ phần này, thầy/cô nói lại",
+   "got lesson_card:Hỗn hợp, chất tinh khi exp Hỗn hợp các chất"
+  ],
+  [
+   "name_query",
+   "cho em hỏi về bài Tế bào lớp 6 này với ạ",
+   "got lesson_card:Thực hành: Quan sát và exp Tế bào – Đơn vị cơ bản"
+  ],
+  [
+   "content_only",
+   "làm sao để biết một nguồn năng lượng là ",
+   "got A_concept: exp Nhiên liệu và năng lượ"
+  ],
+  [
+   "content_only",
+   "mặt trăng có phải là một thiên thể ko?",
+   "got lesson_card:Mặt Trăng exp Chuyển động nhìn thấy "
+  ],
+  [
+   "content_only",
+   "loại nào thì không nhìn thấy riêng rẽ cá",
+   "got A_concept: exp Hỗn hợp các chất"
+  ],
+  [
+   "content_only",
+   "năng lượng chuyển hóa thành nhiệt năng t",
+   "got lesson_card:Sự chuyển hóa năng lượ exp Năng lượng hao phí"
+  ],
+  [
+   "content_only",
+   "những chất cháy được tỏa nhiệt và phát s",
+   "got lesson_card:Một số nhiên liệu exp Một số vật liệu, nhiên"
+  ],
+  [
+   "name_query",
+   "trùng giày trong bài Quan sát nguyên sin",
+   "got lesson_practice:Nguyên sinh vật exp Thực hành: Quan sát ng"
+  ],
+  [
+   "content_only",
+   "nấm men là nấm đơn bào hay đa bào thế ạ?",
+   "got lesson_card:Nấm exp Thực hành: Quan sát cá"
+  ],
+  [
+   "content_only",
+   "nếu nó ko có diệp lục thì nó sống kiểu g",
+   "got none: exp Nấm"
+  ],
+  [
+   "content_only",
+   "cho em hỏi thực vật có được coi là nguyê",
+   "got lesson_card:Thực vật exp Một số nguyên liệu"
+  ],
+  [
+   "trang_profile",
+   "tại sao đường tan vào nước lại gọi là nh",
+   "got lesson_card:Hỗn hợp, chất tinh khi exp Hỗn hợp các chất"
+  ],
+  [
+   "content_only",
+   "tại sao khi cháy lại có ánh sáng nữa ạ",
+   "got none: exp Một số nhiên liệu"
+  ],
+  [
+   "content_only",
+   "sự sôi khác gì với bay hơi bình thường v",
+   "got none: exp Tính chất và sự chuyển"
+  ],
+  [
+   "content_only",
+   "mấy loại như than đá hay dầu mỏ thì có d",
+   "got none: exp Nhiên liệu và năng lượ"
+  ],
+  [
+   "current_lesson",
+   "chỗ này em chưa thông lắm, giảng lại giú",
+   "got none: exp Tế bào – Đơn vị cơ bản"
+  ],
+  [
+   "content_only",
+   "tại sao mình chỉ nhìn thấy 1 mặt của nó ",
+   "got A_concept: exp Mặt Trăng"
+  ],
+  [
+   "content_only",
+   "vật liệu tự nhiên với nhân tạo khác nhau",
+   "got A_concept: exp Một số vật liệu"
+  ],
+  [
+   "content_only",
+   "trùng giày là loại cơ thể gì thế ạ?",
+   "got lesson_card:Thực hành: Quan sát ng exp Thực hành: Quan sát cơ"
+  ],
+  [
+   "name_query",
+   "bài Chuyển động nhìn thấy của Mặt Trời n",
+   "got A_concept: exp Chuyển động nhìn thấy "
+  ]
+ ]
+}

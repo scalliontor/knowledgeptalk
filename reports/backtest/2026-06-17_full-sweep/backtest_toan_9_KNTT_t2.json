@@ -1,0 +1,245 @@
+{
+ "book": "toan 9 KNTT tap2",
+ "port": "8890",
+ "total": 500,
+ "lessons": 15,
+ "lesson_cases": 425,
+ "guard_cases": 75,
+ "errors": 0,
+ "anchor_acc": 85.6,
+ "mode_acc": 61.6,
+ "guard_acc": 100.0,
+ "cruft_on_cards": 0,
+ "latency_ms": {
+  "p50": 40.1,
+  "p95": 281.9,
+  "p99": 301.2,
+  "max": 322.6
+ },
+ "by_dimension": {
+  "content_only": {
+   "n": 84,
+   "anchor%": 29.8,
+   "mode%": 10.7,
+   "cruft": 0
+  },
+  "current_lesson": {
+   "n": 73,
+   "anchor%": 100.0,
+   "mode%": 87.7,
+   "cruft": 0
+  },
+  "guard_chitchat": {
+   "n": 24,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_offtopic": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_oob_trang": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_out_of_book": {
+   "n": 15,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_word": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_year": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "name_query": {
+   "n": 82,
+   "anchor%": 97.6,
+   "mode%": 40.2,
+   "cruft": 0
+  },
+  "practice": {
+   "n": 86,
+   "anchor%": 100.0,
+   "mode%": 90.7,
+   "cruft": 0
+  },
+  "trang_profile": {
+   "n": 44,
+   "anchor%": 100.0,
+   "mode%": 75.0,
+   "cruft": 0
+  },
+  "trang_query": {
+   "n": 56,
+   "anchor%": 100.0,
+   "mode%": 80.4,
+   "cruft": 0
+  }
+ },
+ "sample_fails": [
+  [
+   "content_only",
+   "tổng hợp tất cả các trường hợp có thể xả",
+   "got none: exp Phép thử ngẫu nhiên và"
+  ],
+  [
+   "content_only",
+   "các đỉnh của nó có nằm trên 1 đường tròn",
+   "got A_concept: exp Đa giác đều"
+  ],
+  [
+   "content_only",
+   "cái bảng chia thành nhiều khoảng liên ti",
+   "got A_concept: exp Bảng tần số, tần số tư"
+  ],
+  [
+   "content_only",
+   "cái đường đi qua 3 đỉnh là cái gì thế ạ?",
+   "got A_concept: exp Đường tròn ngoại tiếp "
+  ],
+  [
+   "content_only",
+   "tâm của hình vuông nằm ở đâu thế ạ",
+   "got A_concept: exp Tứ giác nội tiếp"
+  ],
+  [
+   "content_only",
+   "điểm thấp nhất là điểm nào vậy ạ?",
+   "got none: exp Hàm số y = ax^2 (a khá"
+  ],
+  [
+   "content_only",
+   "tổng 2 góc đối thì bằng bao nhiêu độ nhỉ",
+   "got none: exp Tứ giác nội tiếp"
+  ],
+  [
+   "content_only",
+   "khi tung đồng xu với xúc xắc thì liệt kê",
+   "got none: exp Phép thử ngẫu nhiên và"
+  ],
+  [
+   "content_only",
+   "nếu cắt bởi mặt phẳng qua tâm thì được h",
+   "got A_concept: exp Hình cầu"
+  ],
+  [
+   "content_only",
+   "mọi đỉnh của nó có luôn nằm trên 1 đường",
+   "got A_concept: exp Đa giác đều"
+  ],
+  [
+   "content_only",
+   "có cách nào tính nghiệm nhanh bằng máy t",
+   "got A_concept: exp Phương trình bậc hai m"
+  ],
+  [
+   "content_only",
+   "tâm của đường tròn ngoại tiếp có liên qu",
+   "got lesson_practice:Đường tròn ngoại tiếp  exp Đa giác đều"
+  ],
+  [
+   "content_only",
+   "góc quay được tính theo công thức nào th",
+   "got A_concept: exp Đa giác đều"
+  ],
+  [
+   "content_only",
+   "nếu a dương thì bề lõm hướng lên hay xuố",
+   "got A_concept: exp Hàm số y = ax^2 (a khá"
+  ],
+  [
+   "content_only",
+   "việc liệt kê các kết quả có thể xảy ra t",
+   "got none: exp Phép thử ngẫu nhiên và"
+  ],
+  [
+   "content_only",
+   "làm sao để biết cái này xuất hiện bao nh",
+   "got none: exp Bảng tần số và biểu đồ"
+  ],
+  [
+   "content_only",
+   "cái bảng này dùng để làm gì thế ạ?",
+   "got none: exp Bảng tần số và biểu đồ"
+  ],
+  [
+   "content_only",
+   "tâm là điểm gì trong cái hình này vậy ạ",
+   "got A_concept: exp Hình cầu"
+  ],
+  [
+   "content_only",
+   "nếu đề cho năng suất thì lập pt kiểu gì ",
+   "got none: exp Giải bài toán bằng các"
+  ],
+  [
+   "content_only",
+   "đỉnh của nó phải nằm ở đâu thì mới đúng ",
+   "got A_concept: exp Góc nội tiếp"
+  ],
+  [
+   "content_only",
+   "nếu a âm thì cái hình nó hướng đi đâu ạ?",
+   "got A_concept: exp Hàm số y = ax^2 (a khá"
+  ],
+  [
+   "content_only",
+   "biểu diễn bằng hình ảnh là làm ntn ạ?",
+   "got A_concept: exp Bảng tần số và biểu đồ"
+  ],
+  [
+   "content_only",
+   "trục đứng của biểu đồ này biểu diễn cái ",
+   "got none: exp Bảng tần số, tần số tư"
+  ],
+  [
+   "content_only",
+   "tại sao nó lại gọi là đường cong ạ?",
+   "got A_concept: exp Hàm số y = ax^2 (a khá"
+  ],
+  [
+   "content_only",
+   "công thức nghiệm thu gọn là gì thế ạ?",
+   "got A_concept: exp Phương trình bậc hai m"
+  ],
+  [
+   "content_only",
+   "khi vẽ biểu đồ cột thì trục ngang là gì ",
+   "got none: exp Bảng tần số, tần số tư"
+  ],
+  [
+   "content_only",
+   "cách để nhìn nhanh dữ liệu là gì ạ?",
+   "got none: exp Bảng tần số và biểu đồ"
+  ],
+  [
+   "content_only",
+   "tổng các tỉ lệ này luôn là 100 đúng ko ạ",
+   "got none: exp Bảng tần số tương đối "
+  ],
+  [
+   "content_only",
+   "mấy cái cột này là để làm gì vậy?",
+   "got none: exp Bảng tần số và biểu đồ"
+  ],
+  [
+   "name_query",
+   "giải thích hộ em phần biểu đồ tần số tro",
+   "got lesson_card:Bảng tần số, tần số tư exp Bảng tần số và biểu đồ"
+  ]
+ ]
+}

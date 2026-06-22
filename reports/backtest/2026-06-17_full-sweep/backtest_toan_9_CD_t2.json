@@ -1,0 +1,245 @@
+{
+ "book": "toan 9 CD tap2",
+ "port": "8890",
+ "total": 465,
+ "lessons": 13,
+ "lesson_cases": 390,
+ "guard_cases": 75,
+ "errors": 0,
+ "anchor_acc": 86.2,
+ "mode_acc": 65.9,
+ "guard_acc": 100.0,
+ "cruft_on_cards": 0,
+ "latency_ms": {
+  "p50": 40.1,
+  "p95": 292.2,
+  "p99": 309.8,
+  "max": 323.2
+ },
+ "by_dimension": {
+  "content_only": {
+   "n": 78,
+   "anchor%": 30.8,
+   "mode%": 15.4,
+   "cruft": 0
+  },
+  "current_lesson": {
+   "n": 65,
+   "anchor%": 100.0,
+   "mode%": 90.8,
+   "cruft": 0
+  },
+  "guard_chitchat": {
+   "n": 24,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_offtopic": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_oob_trang": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_out_of_book": {
+   "n": 15,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_word": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_year": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "name_query": {
+   "n": 78,
+   "anchor%": 100.0,
+   "mode%": 57.7,
+   "cruft": 0
+  },
+  "practice": {
+   "n": 78,
+   "anchor%": 100.0,
+   "mode%": 88.5,
+   "cruft": 0
+  },
+  "trang_profile": {
+   "n": 39,
+   "anchor%": 100.0,
+   "mode%": 79.5,
+   "cruft": 0
+  },
+  "trang_query": {
+   "n": 52,
+   "anchor%": 100.0,
+   "mode%": 78.8,
+   "cruft": 0
+  }
+ },
+ "sample_fails": [
+  [
+   "content_only",
+   "làm sao để biết điểm đó nằm trong hay ng",
+   "got A_concept: exp Hình cầu"
+  ],
+  [
+   "content_only",
+   "tổng các tỉ lệ phần trăm này phải bằng b",
+   "got none: exp Tần số. Tần số tương đ"
+  ],
+  [
+   "content_only",
+   "trong ví dụ thẻ số thì các số nguyên tố ",
+   "got A_concept: exp Phép thử ngẫu nhiên và"
+  ],
+  [
+   "content_only",
+   "cái đường đi qua 3 đỉnh là cái gì thế ạ",
+   "got A_concept: exp Đường tròn ngoại tiếp "
+  ],
+  [
+   "content_only",
+   "trục đối xứng của nó là cái nào thế ạ?",
+   "got none: exp Hàm số y = ax^2 (a ≠ 0"
+  ],
+  [
+   "content_only",
+   "làm sao để biết nó có nghiệm hay ko ạ?",
+   "got none: exp Phương trình bậc hai m"
+  ],
+  [
+   "content_only",
+   "muốn xem sự thay đổi theo thời gian thì ",
+   "got none: exp Mô tả và biểu diễn dữ "
+  ],
+  [
+   "content_only",
+   "muốn so sánh tỉ trọng giữa các giá trị t",
+   "got A_concept: exp Tần số. Tần số tương đ"
+  ],
+  [
+   "content_only",
+   "cái khoảng [a; b) nghĩa là sao thế ạ?",
+   "got none: exp Tần số ghép nhóm. Tần "
+  ],
+  [
+   "content_only",
+   "đường tròn đi qua mấy đỉnh của nó ạ",
+   "got A_concept: exp Tứ giác nội tiếp đường"
+  ],
+  [
+   "content_only",
+   "cái phần đáy là hình gì vậy ạ?",
+   "got A_concept: exp Hình nón"
+  ],
+  [
+   "content_only",
+   "bán kính với đường kính liên quan gì đến",
+   "got A_concept: exp Hình trụ"
+  ],
+  [
+   "content_only",
+   "công thức tính x1 x2 nhìn lằng nhằng quá",
+   "got A_concept: exp Phương trình bậc hai m"
+  ],
+  [
+   "content_only",
+   "cái vật thể tròn xoay này có các thành p",
+   "got A_concept: exp Hình nón"
+  ],
+  [
+   "content_only",
+   "khoảng cách từ tâm đến cạnh gọi là gì vậ",
+   "got none: exp Đường tròn ngoại tiếp "
+  ],
+  [
+   "content_only",
+   "cái liên quan đến x1 x2 với a b c là cái",
+   "got none: exp Định lí Viète"
+  ],
+  [
+   "content_only",
+   "cái hình này có mấy mặt ạ?",
+   "got A_concept: exp Hình trụ"
+  ],
+  [
+   "content_only",
+   "làm sao để biết cái này tăng hay giảm ạ",
+   "got none: exp Mô tả và biểu diễn dữ "
+  ],
+  [
+   "content_only",
+   "cái cung bị chắn bởi các góc thì sao ạ",
+   "got none: exp Tứ giác nội tiếp đường"
+  ],
+  [
+   "content_only",
+   "muốn tính lượng không gian nó chiếm chỗ ",
+   "got A_concept: exp Hình nón"
+  ],
+  [
+   "content_only",
+   "biến số x ở đây đóng vai trò gì ạ?",
+   "got none: exp Hàm số y = ax^2 (a ≠ 0"
+  ],
+  [
+   "content_only",
+   "dùng biểu đồ nào để nhìn cho dễ hiểu nhấ",
+   "got lesson_card:Mô tả và biểu diễn dữ  exp Tần số. Tần số tương đ"
+  ],
+  [
+   "content_only",
+   "cách tính tỉ lệ phần trăm như thế nào vậ",
+   "got none: exp Mô tả và biểu diễn dữ "
+  ],
+  [
+   "content_only",
+   "công thức tính x1 + x2 là gì thế ạ?",
+   "got A_concept: exp Định lí Viète"
+  ],
+  [
+   "content_only",
+   "có cách nào tìm nhanh nghiệm khi a+b+c=0",
+   "got none: exp Định lí Viète"
+  ],
+  [
+   "content_only",
+   "nếu trải phẳng cái mặt xung quanh ra thì",
+   "got A_concept: exp Hình trụ"
+  ],
+  [
+   "content_only",
+   "cái hình quạt tròn này là để chỉ cái gì ",
+   "got lesson_card:Hình nón exp Mô tả và biểu diễn dữ "
+  ],
+  [
+   "content_only",
+   "đồ thị dạng này gọi là gì thế ạ?",
+   "got lesson_card:Mô tả và biểu diễn dữ  exp Hàm số y = ax^2 (a ≠ 0"
+  ],
+  [
+   "content_only",
+   "cho em hỏi cái n(Ω) trong công thức là c",
+   "got A_concept: exp Phép thử ngẫu nhiên và"
+  ],
+  [
+   "content_only",
+   "muốn so sánh giữa các nhóm thì dùng cái ",
+   "got none: exp Mô tả và biểu diễn dữ "
+  ]
+ ]
+}

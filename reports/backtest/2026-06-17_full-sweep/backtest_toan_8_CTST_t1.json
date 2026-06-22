@@ -1,0 +1,245 @@
+{
+ "book": "toan 8 CTST tap1",
+ "port": "8890",
+ "total": 500,
+ "lessons": 17,
+ "lesson_cases": 425,
+ "guard_cases": 75,
+ "errors": 0,
+ "anchor_acc": 78.6,
+ "mode_acc": 57.6,
+ "guard_acc": 100.0,
+ "cruft_on_cards": 0,
+ "latency_ms": {
+  "p50": 41.5,
+  "p95": 287.7,
+  "p99": 312.8,
+  "max": 320.3
+ },
+ "by_dimension": {
+  "content_only": {
+   "n": 84,
+   "anchor%": 42.9,
+   "mode%": 17.9,
+   "cruft": 0
+  },
+  "current_lesson": {
+   "n": 69,
+   "anchor%": 76.8,
+   "mode%": 60.9,
+   "cruft": 0
+  },
+  "guard_chitchat": {
+   "n": 24,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_offtopic": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_oob_trang": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_out_of_book": {
+   "n": 15,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_word": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_year": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "name_query": {
+   "n": 88,
+   "anchor%": 89.8,
+   "mode%": 48.9,
+   "cruft": 0
+  },
+  "practice": {
+   "n": 87,
+   "anchor%": 79.3,
+   "mode%": 73.6,
+   "cruft": 0
+  },
+  "trang_profile": {
+   "n": 41,
+   "anchor%": 100.0,
+   "mode%": 87.8,
+   "cruft": 0
+  },
+  "trang_query": {
+   "n": 56,
+   "anchor%": 100.0,
+   "mode%": 80.4,
+   "cruft": 0
+  }
+ },
+ "sample_fails": [
+  [
+   "content_only",
+   "cho em hỏi hình nào có 2 đường chéo vuôn",
+   "got A_concept: exp Hình bình hành – Hình "
+  ],
+  [
+   "current_lesson",
+   "cái này khác gì nhau hả chị ơi",
+   "got none: exp Hình bình hành – Hình "
+  ],
+  [
+   "content_only",
+   "mặt bên là hình gì thế ạ",
+   "got A_concept: exp Hình chóp tam giác đều"
+  ],
+  [
+   "content_only",
+   "phải rút gọn về phân thức tối giản sau k",
+   "got A_concept: exp Nhân, chia phân thức"
+  ],
+  [
+   "practice",
+   "câu này tính cạnh x thế nào ạ",
+   "got none: exp Hình bình hành – Hình "
+  ],
+  [
+   "current_lesson",
+   "giải thích hộ em cái này với",
+   "got none: exp Hình chóp tam giác đều"
+  ],
+  [
+   "content_only",
+   "cho hỏi 2 đường chéo bằng nhau thì có ph",
+   "got lesson_practice:Hình bình hành – Hình  exp Hình thang – Hình than"
+  ],
+  [
+   "current_lesson",
+   "phân tích giúp em chỗ này với ạ",
+   "got A_concept: exp Hình thang – Hình than"
+  ],
+  [
+   "content_only",
+   "khi nhân thì tử với tử mẫu với mẫu đúng ",
+   "got none: exp Nhân, chia phân thức"
+  ],
+  [
+   "content_only",
+   "muốn xem tỉ lệ phần trăm của các thành p",
+   "got A_concept: exp Lựa chọn dạng biểu đồ "
+  ],
+  [
+   "practice",
+   "em muốn làm thêm bài tập về cạnh bên",
+   "got none: exp Hình chóp tam giác đều"
+  ],
+  [
+   "content_only",
+   "cách thu gọn cái tích này làm ntn ạ",
+   "got none: exp Đơn thức và đa thức nh"
+  ],
+  [
+   "content_only",
+   "cách tính nhanh mấy số như 82 . 78 là là",
+   "got none: exp Hằng đẳng thức đáng nh"
+  ],
+  [
+   "name_query",
+   "cho em xin tóm tắt kiến thức bài diện tí",
+   "got lesson_card:Tứ giác exp Diện tích xung quanh v"
+  ],
+  [
+   "content_only",
+   "cái phần quy đồng mẫu thức làm sao cho đ",
+   "got A_concept: exp Cộng, trừ phân thức"
+  ],
+  [
+   "content_only",
+   "làm sao để tính được tỉ lệ % từ cái bảng",
+   "got none: exp Phân tích dữ liệu"
+  ],
+  [
+   "content_only",
+   "cái nào dùng để xem cơ cấu các thành phầ",
+   "got A_concept: exp Lựa chọn dạng biểu đồ "
+  ],
+  [
+   "practice",
+   "giúp em giải bài tập này với",
+   "got none: exp Hình thang – Hình than"
+  ],
+  [
+   "current_lesson",
+   "chỗ này em chưa hiểu lắm, giảng lại cho ",
+   "got none: exp Hình bình hành – Hình "
+  ],
+  [
+   "content_only",
+   "cách tìm xem cái nào là cao nhất trong đ",
+   "got A_concept: exp Phân tích dữ liệu"
+  ],
+  [
+   "content_only",
+   "làm sao để biết hai biểu thức có bằng nh",
+   "got A_concept: exp Phân thức đại số"
+  ],
+  [
+   "practice",
+   "có bài nào tập tính đường chéo ko cho em",
+   "got A_concept: exp Hình chữ nhật – Hình v"
+  ],
+  [
+   "content_only",
+   "nếu có 2 đường chéo bằng nhau thì gọi là",
+   "got none: exp Hình thang – Hình than"
+  ],
+  [
+   "content_only",
+   "nếu muốn so sánh các nhóm đối tượng thì ",
+   "got none: exp Lựa chọn dạng biểu đồ "
+  ],
+  [
+   "content_only",
+   "cho em hỏi cách để lấy thông tin từ thực",
+   "got A_concept: exp Thu thập và phân loại "
+  ],
+  [
+   "content_only",
+   "cái biểu thức dạng A chia B là gì vậy ạ?",
+   "got A_concept: exp Phân thức đại số"
+  ],
+  [
+   "practice",
+   "có bài nào về 2 đường chéo bằng nhau ko ",
+   "got none: exp Hình thang – Hình than"
+  ],
+  [
+   "name_query",
+   "thầy ơi chỉ em bài diện tích xung quanh ",
+   "got lesson_practice:Tứ giác exp Diện tích xung quanh v"
+  ],
+  [
+   "name_query",
+   "em quên mất tính chất của Hình thoi rồi,",
+   "got A_concept: exp Hình bình hành – Hình "
+  ],
+  [
+   "content_only",
+   "cách tính giá trị thành phần so với tổng",
+   "got A_concept: exp Phân tích dữ liệu"
+  ]
+ ]
+}

@@ -1,0 +1,245 @@
+{
+ "book": "toan 8 CTST tap2",
+ "port": "8890",
+ "total": 500,
+ "lessons": 15,
+ "lesson_cases": 425,
+ "guard_cases": 75,
+ "errors": 0,
+ "anchor_acc": 87.8,
+ "mode_acc": 62.8,
+ "guard_acc": 100.0,
+ "cruft_on_cards": 0,
+ "latency_ms": {
+  "p50": 39.1,
+  "p95": 269.3,
+  "p99": 280.0,
+  "max": 450.6
+ },
+ "by_dimension": {
+  "content_only": {
+   "n": 85,
+   "anchor%": 40.0,
+   "mode%": 16.5,
+   "cruft": 0
+  },
+  "current_lesson": {
+   "n": 75,
+   "anchor%": 100.0,
+   "mode%": 89.3,
+   "cruft": 0
+  },
+  "guard_chitchat": {
+   "n": 24,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_offtopic": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_oob_trang": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_out_of_book": {
+   "n": 15,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_word": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_year": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "name_query": {
+   "n": 84,
+   "anchor%": 98.8,
+   "mode%": 40.5,
+   "cruft": 0
+  },
+  "practice": {
+   "n": 82,
+   "anchor%": 100.0,
+   "mode%": 87.8,
+   "cruft": 0
+  },
+  "trang_profile": {
+   "n": 42,
+   "anchor%": 100.0,
+   "mode%": 69.0,
+   "cruft": 0
+  },
+  "trang_query": {
+   "n": 57,
+   "anchor%": 100.0,
+   "mode%": 89.5,
+   "cruft": 0
+  }
+ },
+ "sample_fails": [
+  [
+   "content_only",
+   "cái tỉ số giữa số lần xảy ra với tổng số",
+   "got lesson_card:Mô tả xác suất bằng tỉ exp Xác suất lí thuyết và "
+  ],
+  [
+   "content_only",
+   "cho em hỏi tung độ gốc là gì luôn",
+   "got none: exp Hàm số bậc nhất y = ax"
+  ],
+  [
+   "content_only",
+   "mỗi x thì chỉ được có mấy y thôi ạ?",
+   "got none: exp Khái niệm hàm số"
+  ],
+  [
+   "content_only",
+   "hai tam giác thì cần điều kiện gì để đồn",
+   "got lesson_practice:Hai tam giác đồng dạng exp Các trường hợp đồng dạ"
+  ],
+  [
+   "content_only",
+   "khi số lần thử càng nhiều thì cái gì sẽ ",
+   "got none: exp Xác suất lí thuyết và "
+  ],
+  [
+   "content_only",
+   "nếu có đường song song cắt hai cạnh thì ",
+   "got A_concept: exp Định lí Thalès trong t"
+  ],
+  [
+   "content_only",
+   "cho e hỏi 2 góc nhọn bằng nhau thì có tí",
+   "got lesson_practice:Hai tam giác đồng dạng exp Các trường hợp đồng dạ"
+  ],
+  [
+   "content_only",
+   "cách tìm x trong mấy cái phương trình nà",
+   "got A_concept: exp Phương trình bậc nhất "
+  ],
+  [
+   "content_only",
+   "cái dấu bằng trong phương trình này có ý",
+   "got A_concept: exp Phương trình bậc nhất "
+  ],
+  [
+   "content_only",
+   "mối quan hệ giữa các góc và các cạnh khi",
+   "got lesson_card:Các trường hợp đồng dạ exp Hai tam giác đồng dạng"
+  ],
+  [
+   "content_only",
+   "cho em hỏi cái tỉ lệ giữa 2 đoạn thẳng l",
+   "got A_concept: exp Tính chất đường phân g"
+  ],
+  [
+   "content_only",
+   "khi nào thì 2 đường thẳng cắt nhau thế ạ",
+   "got A_concept: exp Hệ số góc của đường th"
+  ],
+  [
+   "content_only",
+   "làm sao để biết 2 đường thẳng này có son",
+   "got A_concept: exp Hệ số góc của đường th"
+  ],
+  [
+   "content_only",
+   "y phụ thuộc vào x là sao hả ạ?",
+   "got none: exp Khái niệm hàm số"
+  ],
+  [
+   "content_only",
+   "làm sao để tìm được ẩn số từ đề bài nhỉ?",
+   "got none: exp Giải bài toán bằng các"
+  ],
+  [
+   "content_only",
+   "tỉ số giữa các cạnh tương ứng được viết ",
+   "got lesson_practice:Các trường hợp đồng dạ exp Hai tam giác đồng dạng"
+  ],
+  [
+   "content_only",
+   "cái vụ chia cạnh đối diện theo tỉ lệ là ",
+   "got none: exp Tính chất đường phân g"
+  ],
+  [
+   "content_only",
+   "cái liên quan đến đường thẳng song song ",
+   "got A_concept: exp Định lí Thalès trong t"
+  ],
+  [
+   "content_only",
+   "cho em hỏi quy tắc chuyển vế là gì luôn ",
+   "got none: exp Phương trình bậc nhất "
+  ],
+  [
+   "content_only",
+   "nối 2 trung điểm của 2 cạnh thì gọi là g",
+   "got none: exp Đường trung bình của t"
+  ],
+  [
+   "content_only",
+   "cái tỉ số giữa ab cd với ef mn là cái gì",
+   "got none: exp Định lí Thalès trong t"
+  ],
+  [
+   "content_only",
+   "cho em hỏi x là cái gì thế ạ?",
+   "got none: exp Khái niệm hàm số"
+  ],
+  [
+   "content_only",
+   "công thức tính tổng tiền là gì vậy ạ?",
+   "got A_concept: exp Giải bài toán bằng các"
+  ],
+  [
+   "name_query",
+   "bài này có cần nhớ công thức y=ax+b ko ạ",
+   "got lesson_card:Hàm số bậc nhất y = ax exp Hệ số góc của đường th"
+  ],
+  [
+   "content_only",
+   "nếu có 3 đoạn như này thì chu vi thay đổ",
+   "got none: exp Đường trung bình của t"
+  ],
+  [
+   "content_only",
+   "nếu biết độ dài cạnh đáy thì tính được đ",
+   "got none: exp Đường trung bình của t"
+  ],
+  [
+   "content_only",
+   "cho em hỏi về cách tính tỉ số giữa kết q",
+   "got lesson_practice:Mô tả xác suất bằng tỉ exp Xác suất lí thuyết và "
+  ],
+  [
+   "content_only",
+   "kí hiệu f(x) là gì vậy ạ?",
+   "got none: exp Khái niệm hàm số"
+  ],
+  [
+   "content_only",
+   "cho biết 2 cạnh kề thì tính được gì trên",
+   "got none: exp Tính chất đường phân g"
+  ],
+  [
+   "content_only",
+   "tổng số kết quả trong một phép thử là gì",
+   "got none: exp Mô tả xác suất bằng tỉ"
+  ]
+ ]
+}

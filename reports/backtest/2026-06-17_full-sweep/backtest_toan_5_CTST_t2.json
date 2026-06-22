@@ -1,0 +1,245 @@
+{
+ "book": "toan 5 CTST tap2",
+ "port": "8890",
+ "total": 500,
+ "lessons": 38,
+ "lesson_cases": 425,
+ "guard_cases": 75,
+ "errors": 0,
+ "anchor_acc": 83.3,
+ "mode_acc": 58.1,
+ "guard_acc": 100.0,
+ "cruft_on_cards": 0,
+ "latency_ms": {
+  "p50": 40.2,
+  "p95": 372.0,
+  "p99": 384.4,
+  "max": 388.9
+ },
+ "by_dimension": {
+  "content_only": {
+   "n": 82,
+   "anchor%": 22.0,
+   "mode%": 9.8,
+   "cruft": 0
+  },
+  "current_lesson": {
+   "n": 73,
+   "anchor%": 100.0,
+   "mode%": 75.3,
+   "cruft": 0
+  },
+  "guard_chitchat": {
+   "n": 24,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_offtopic": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_oob_trang": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_out_of_book": {
+   "n": 15,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_word": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_year": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "name_query": {
+   "n": 80,
+   "anchor%": 97.5,
+   "mode%": 35.0,
+   "cruft": 0
+  },
+  "practice": {
+   "n": 85,
+   "anchor%": 100.0,
+   "mode%": 94.1,
+   "cruft": 0
+  },
+  "trang_profile": {
+   "n": 47,
+   "anchor%": 97.9,
+   "mode%": 76.6,
+   "cruft": 0
+  },
+  "trang_query": {
+   "n": 58,
+   "anchor%": 93.1,
+   "mode%": 69.0,
+   "cruft": 0
+  }
+ },
+ "sample_fails": [
+  [
+   "content_only",
+   "phần dư chuyển sang đơn vị nhỏ hơn là là",
+   "got A_concept: exp Chia số đo thời gian"
+  ],
+  [
+   "trang_profile",
+   "giải thích cho em cách tính vận tốc trun",
+   "got lesson_practice:Vận tốc exp Ôn tập số đo thời gian"
+  ],
+  [
+   "content_only",
+   "cái hình này dùng để làm gì vậy ạ?",
+   "got A_concept: exp Biểu đồ hình quạt tròn"
+  ],
+  [
+   "content_only",
+   "1 dm3 thì đổi ra cm3 được bao nhiêu",
+   "got lesson_practice:Mét khối exp Xăng-ti-mét khối"
+  ],
+  [
+   "content_only",
+   "cách đặt tính mấy cái này như nào cho đú",
+   "got A_concept: exp Cộng số đo thời gian"
+  ],
+  [
+   "content_only",
+   "muốn tìm phần chênh lệch giữa 2 thời gia",
+   "got lesson_practice:Thời gian exp Trừ số đo thời gian"
+  ],
+  [
+   "content_only",
+   "khi tính xong thì phải thêm cái ký hiệu ",
+   "got none: exp Tính tỉ số phần trăm c"
+  ],
+  [
+   "name_query",
+   "Toán lớp 5 bài này có nhiều công thức ko",
+   "got none: exp Ôn tập số đo thời gian"
+  ],
+  [
+   "content_only",
+   "hình hộp chữ nhật có bao nhiêu đỉnh vậy ",
+   "got lesson_card:Hình hộp chữ nhật, hìn exp Ôn tập hình phẳng và h"
+  ],
+  [
+   "content_only",
+   "có cách nào tính nhanh mấy phép tính phứ",
+   "got A_concept: exp Sử dụng máy tính cầm t"
+  ],
+  [
+   "content_only",
+   "chiều dài với chiều rộng tính diện tích ",
+   "got lesson_card:Ôn tập chu vi, diện tí exp Hình hộp chữ nhật, hìn"
+  ],
+  [
+   "content_only",
+   "muốn đổi từ đơn vị nhỏ sang lớn thì làm ",
+   "got lesson_card:Nhân số đo thời gian exp Đề-xi-mét khối"
+  ],
+  [
+   "content_only",
+   "muốn tìm cái này thì lấy quãng đường chi",
+   "got lesson_practice:Quãng đường exp Thời gian"
+  ],
+  [
+   "content_only",
+   "cách chia các đơn vị như giờ phút giây l",
+   "got lesson_practice:Các đơn vị đo thời gia exp Chia số đo thời gian"
+  ],
+  [
+   "content_only",
+   "cho em hỏi 1 đơn vị này bằng bao nhiêu c",
+   "got lesson_card:Mét khối exp Đề-xi-mét khối"
+  ],
+  [
+   "content_only",
+   "quy tắc nhân từng đơn vị đo thời gian là",
+   "got lesson_practice:Thời gian exp Nhân số đo thời gian"
+  ],
+  [
+   "content_only",
+   "có cần phải đổi đơn vị thời gian ko ạ?",
+   "got lesson_card:Thời gian exp Vận tốc"
+  ],
+  [
+   "content_only",
+   "cách tính thể tích từ diện tích đáy là g",
+   "got A_concept: exp Thể tích hình hộp chữ "
+  ],
+  [
+   "content_only",
+   "nó có mấy mặt đáy ạ?",
+   "got none: exp Hình trụ"
+  ],
+  [
+   "trang_query",
+   "em quên cách tính vận tốc rồi, chỉ em vớ",
+   "got lesson_practice:Vận tốc exp Ôn tập số đo thời gian"
+  ],
+  [
+   "content_only",
+   "muốn viết thành tổng thì phải làm sao?",
+   "got none: exp Ôn tập số tự nhiên"
+  ],
+  [
+   "content_only",
+   "làm sao để tính phần diện tích chưa sơn ",
+   "got A_concept: exp Ôn tập phép cộng, phép"
+  ],
+  [
+   "trang_query",
+   "giải thích kĩ hơn cái vụ tỉ số phần trăm",
+   "got lesson_card:Tỉ số phần trăm exp Ôn tập phép cộng, phép"
+  ],
+  [
+   "content_only",
+   "cho em hỏi cách chuyển đổi số thập phân ",
+   "got lesson_practice:Ôn tập số thập phân exp Viết các số liệu dưới "
+  ],
+  [
+   "content_only",
+   "muốn đổi sang tỉ số phần trăm thì làm nt",
+   "got lesson_practice:Tỉ số phần trăm exp Ôn tập số thập phân"
+  ],
+  [
+   "content_only",
+   "cho em hỏi về các tính chất của phép tín",
+   "got lesson_card:Ôn tập phép nhân, phép exp Ôn tập phép cộng, phép"
+  ],
+  [
+   "content_only",
+   "khi tính toán thì có cần chú ý gì về đơn",
+   "got lesson_card:Thời gian exp Quãng đường"
+  ],
+  [
+   "content_only",
+   "kí hiệu dm3 là gì vậy ạ?",
+   "got none: exp Đề-xi-mét khối"
+  ],
+  [
+   "content_only",
+   "có phần đổi đơn vị từ l sang ml không ạ?",
+   "got A_concept: exp Ôn tập độ dài, khối lư"
+  ],
+  [
+   "name_query",
+   "Em muốn học kỹ phần Ôn tập số đo thời gi",
+   "got lesson_practice:Ôn tập số đo thời gian exp Ôn tập số đo thời gian"
+  ]
+ ]
+}

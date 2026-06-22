@@ -1,0 +1,245 @@
+{
+ "book": "khtn 8 CD tapNone",
+ "port": "8890",
+ "total": 500,
+ "lessons": 43,
+ "lesson_cases": 425,
+ "guard_cases": 75,
+ "errors": 0,
+ "anchor_acc": 87.1,
+ "mode_acc": 73.9,
+ "guard_acc": 100.0,
+ "cruft_on_cards": 0,
+ "latency_ms": {
+  "p50": 38.9,
+  "p95": 314.0,
+  "p99": 327.1,
+  "max": 341.6
+ },
+ "by_dimension": {
+  "content_only": {
+   "n": 80,
+   "anchor%": 42.5,
+   "mode%": 25.0,
+   "cruft": 0
+  },
+  "current_lesson": {
+   "n": 78,
+   "anchor%": 100.0,
+   "mode%": 92.3,
+   "cruft": 0
+  },
+  "guard_chitchat": {
+   "n": 24,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_offtopic": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_oob_trang": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_out_of_book": {
+   "n": 15,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_word": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_year": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "name_query": {
+   "n": 81,
+   "anchor%": 100.0,
+   "mode%": 77.8,
+   "cruft": 0
+  },
+  "practice": {
+   "n": 86,
+   "anchor%": 100.0,
+   "mode%": 94.2,
+   "cruft": 0
+  },
+  "trang_profile": {
+   "n": 42,
+   "anchor%": 92.9,
+   "mode%": 73.8,
+   "cruft": 0
+  },
+  "trang_query": {
+   "n": 58,
+   "anchor%": 89.7,
+   "mode%": 81.0,
+   "cruft": 0
+  }
+ },
+ "sample_fails": [
+  [
+   "content_only",
+   "da mình thải cái gì ra ngoài thế?",
+   "got lesson_card:Da và điều hòa thân nh exp Môi trường trong cơ th"
+  ],
+  [
+   "content_only",
+   "vùng cực thì đặc điểm thế nào ạ?",
+   "got none: exp Khái quát về sinh quyể"
+  ],
+  [
+   "content_only",
+   "cái chất này có đặc điểm gì thế ạ?",
+   "got A_concept: exp Acid"
+  ],
+  [
+   "content_only",
+   "loài chỉ có ở một chỗ nhất định thì gọi ",
+   "got none: exp Quần xã sinh vật"
+  ],
+  [
+   "content_only",
+   "sự chuyển động của dòng chất lỏng khi đu",
+   "got A_concept: exp Truyền năng lượng nhiệ"
+  ],
+  [
+   "content_only",
+   "cái vụ áp suất trong chất lỏng với khí l",
+   "got lesson_card:Áp suất exp Áp suất trong chất lỏn"
+  ],
+  [
+   "trang_query",
+   "mấy cái chất này biến đổi thành chất đơn",
+   "got lesson_card:Môi trường trong cơ th exp Dinh dưỡng và tiêu hóa"
+  ],
+  [
+   "content_only",
+   "cái vụ ánh nắng chiếu xuống đất là kiểu ",
+   "got A_concept: exp Truyền năng lượng nhiệ"
+  ],
+  [
+   "content_only",
+   "mấy cái loài trong này có sống tách rời ",
+   "got A_concept: exp Quần xã sinh vật"
+  ],
+  [
+   "content_only",
+   "muốn tính cái này thì cần biết m với V đ",
+   "got none: exp Khối lượng riêng"
+  ],
+  [
+   "content_only",
+   "khi ăn thì cái gì trong người hoạt động ",
+   "got lesson_practice:Dinh dưỡng và tiêu hóa exp Khái quát về cơ thể ng"
+  ],
+  [
+   "content_only",
+   "cái thanh cứng quay quanh điểm cố định l",
+   "got A_concept: exp Đòn bẩy"
+  ],
+  [
+   "content_only",
+   "nếu cho chất chỉ thị vào thì nó đổi màu ",
+   "got A_concept: exp Base"
+  ],
+  [
+   "content_only",
+   "chỉ số huyết áp được viết như thế nào vậ",
+   "got none: exp Thực hành về máu về h"
+  ],
+  [
+   "content_only",
+   "đất bị chua thì dùng cái gì để trung hòa",
+   "got none: exp Thang pH"
+  ],
+  [
+   "content_only",
+   "kích thước hạt nhỏ thì có tác dụng gì kh",
+   "got none: exp Tốc độ phản ứng và chấ"
+  ],
+  [
+   "content_only",
+   "có mấy kiểu phân bố cơ ạ",
+   "got A_concept: exp Quần thể sinh vật"
+  ],
+  [
+   "content_only",
+   "nhiệt độ ảnh hưởng gì đến việc hòa tan c",
+   "got A_concept: exp Nồng độ dung dịch"
+  ],
+  [
+   "trang_profile",
+   "tại sao dùng nhiều phân hóa học lại ảnh ",
+   "got lesson_card:Hệ sinh thái exp Phân bón hóa học"
+  ],
+  [
+   "trang_query",
+   "em đang bị rối chỗ này, giải thích giúp ",
+   "got lesson_card:Môi trường trong cơ th exp Máu và hệ tuần hoàn ở "
+  ],
+  [
+   "trang_query",
+   "giải thích cho em sự khác nhau giữa tiêu",
+   "got lesson_card:Môi trường trong cơ th exp Dinh dưỡng và tiêu hóa"
+  ],
+  [
+   "content_only",
+   "công thức tính cái độ lớn trên một đơn v",
+   "got A_concept: exp Áp suất"
+  ],
+  [
+   "trang_query",
+   "tại sao ăn nhiều dầu mỡ lại không tốt ạ?",
+   "got lesson_card:Môi trường trong cơ th exp Dinh dưỡng và tiêu hóa"
+  ],
+  [
+   "trang_profile",
+   "tại sao chất khí cũng gây ra áp suất đượ",
+   "got lesson_card:Áp suất exp Áp suất trong chất lỏn"
+  ],
+  [
+   "content_only",
+   "thân mọng nước là đặc điểm của cây ở đâu",
+   "got none: exp Khái quát về sinh quyể"
+  ],
+  [
+   "content_only",
+   "nếu thiếu i-ốt thì cơ thể sẽ bị làm sao ",
+   "got none: exp Hệ nội tiết ở người"
+  ],
+  [
+   "content_only",
+   "tuyến mồ hôi nằm ở lớp nào thế ạ",
+   "got none: exp Da và điều hòa thân nh"
+  ],
+  [
+   "content_only",
+   "cái này có mấy loại tác dụng chính vậy ạ",
+   "got none: exp Tác dụng của dòng điện"
+  ],
+  [
+   "content_only",
+   "trong cái ao tự nhiên thì có những gì số",
+   "got A_concept: exp Quần xã sinh vật"
+  ],
+  [
+   "content_only",
+   "mắt lưới đánh bắt cá có liên quan gì đến",
+   "got none: exp Quần thể sinh vật"
+  ]
+ ]
+}

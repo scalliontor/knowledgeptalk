@@ -1,0 +1,245 @@
+{
+ "book": "khtn 6 CD tapNone",
+ "port": "8890",
+ "total": 500,
+ "lessons": 33,
+ "lesson_cases": 425,
+ "guard_cases": 75,
+ "errors": 0,
+ "anchor_acc": 88.5,
+ "mode_acc": 78.1,
+ "guard_acc": 100.0,
+ "cruft_on_cards": 4,
+ "latency_ms": {
+  "p50": 40.5,
+  "p95": 330.2,
+  "p99": 348.3,
+  "max": 653.4
+ },
+ "by_dimension": {
+  "content_only": {
+   "n": 79,
+   "anchor%": 45.6,
+   "mode%": 32.9,
+   "cruft": 0
+  },
+  "current_lesson": {
+   "n": 72,
+   "anchor%": 95.8,
+   "mode%": 86.1,
+   "cruft": 3
+  },
+  "guard_chitchat": {
+   "n": 24,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_offtopic": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_oob_trang": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_out_of_book": {
+   "n": 15,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_word": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_year": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "name_query": {
+   "n": 75,
+   "anchor%": 100.0,
+   "mode%": 72.0,
+   "cruft": 0
+  },
+  "practice": {
+   "n": 98,
+   "anchor%": 99.0,
+   "mode%": 95.9,
+   "cruft": 0
+  },
+  "trang_profile": {
+   "n": 39,
+   "anchor%": 97.4,
+   "mode%": 92.3,
+   "cruft": 0
+  },
+  "trang_query": {
+   "n": 62,
+   "anchor%": 98.4,
+   "mode%": 96.8,
+   "cruft": 1
+  }
+ },
+ "sample_fails": [
+  [
+   "current_lesson",
+   "giảng lại giúp em phần cấu tạo chung đượ",
+   "got none: exp Tế bào – đơn vị cơ sở "
+  ],
+  [
+   "content_only",
+   "ví dụ như nam châm hút đinh sắt là thuộc",
+   "got none: exp Lực tiếp xúc và lực kh"
+  ],
+  [
+   "content_only",
+   "cho em hỏi khi nào thì bóng của cái que ",
+   "got none: exp Hiện tượng mọc và lặn "
+  ],
+  [
+   "content_only",
+   "làm sao để tránh bị nhiễm mấy con này ạ?",
+   "got none: exp Đa dạng nguyên sinh vậ"
+  ],
+  [
+   "content_only",
+   "cái gì giữ cho các hành tinh ko bay mất ",
+   "got lesson_card:Hệ mặt trời và ngân hà exp Lực hấp dẫn"
+  ],
+  [
+   "trang_profile",
+   "cái này là hiểu theo nghĩa nào ạ?",
+   "got lesson_card:Các hình dạng nhìn thấ exp Hệ mặt trời và ngân hà"
+  ],
+  [
+   "content_only",
+   "có bao nhiêu hình dạng phổ biến của nó v",
+   "got A_concept: exp Các hình dạng nhìn thấ"
+  ],
+  [
+   "content_only",
+   "trọng lượng có giống khối lượng ko ạ?",
+   "got A_concept: exp Lực hấp dẫn"
+  ],
+  [
+   "content_only",
+   "con người là đơn bào hay đa bào vậy ạ?",
+   "got lesson_card:Tế bào – đơn vị cơ sở  exp Từ tế bào đến cơ thể"
+  ],
+  [
+   "content_only",
+   "tại sao phải bảo vệ môi trường hả ạ?",
+   "got none: exp Đa dạng sinh học"
+  ],
+  [
+   "content_only",
+   "cái gì gọi là chất cháy được ạ",
+   "got A_concept: exp Nhiên liệu và năng lượ"
+  ],
+  [
+   "content_only",
+   "phải chia thế nào để phân loại được khoa",
+   "got lesson_card:Thực hành phân chia cá exp Khóa lưỡng phân"
+  ],
+  [
+   "content_only",
+   "môi trường biển với rừng thì khác nhau c",
+   "got none: exp Đa dạng sinh học"
+  ],
+  [
+   "content_only",
+   "trùng giày là loại sinh vật gì thế ạ?",
+   "got lesson_card:Đa dạng nguyên sinh vậ exp Từ tế bào đến cơ thể"
+  ],
+  [
+   "content_only",
+   "làm sao biết được cây đó đã có mạch dẫn ",
+   "got none: exp Thực hành phân chia cá"
+  ],
+  [
+   "content_only",
+   "cái dụng cụ để nhìn tế bào là cái gì thế",
+   "got none: exp Một số dụng cụ đo và q"
+  ],
+  [
+   "content_only",
+   "cây dương xỉ sinh sản bằng gì thế ạ?",
+   "got none: exp Đa dạng thực vật"
+  ],
+  [
+   "content_only",
+   "thiên văn học là học về cái gì vậy ạ?",
+   "got none: exp Giới thiệu về khoa học"
+  ],
+  [
+   "content_only",
+   "đơn vị của cái này là gì thế ạ?",
+   "got none: exp Lực và tác dụng của lự"
+  ],
+  [
+   "content_only",
+   "nơi ẩm ướt thì thường có loại cây gì ạ?",
+   "got none: exp Đa dạng thực vật"
+  ],
+  [
+   "content_only",
+   "rau củ quả thì thuộc nhóm nào trong mấy ",
+   "got A_concept: exp Một số lương thực -  t"
+  ],
+  [
+   "content_only",
+   "cái nhiệt tỏa ra khi dùng bếp gas gọi là",
+   "got none: exp Sự chuyển hóa năng lượ"
+  ],
+  [
+   "trang_query",
+   "phân tích giúp em tại sao mặt trời lại c",
+   "got lesson_card:Các hình dạng nhìn thấ exp Hiện tượng mọc và lặn "
+  ],
+  [
+   "content_only",
+   "loại nào thì gọi là nhân sơ ạ?",
+   "got none: exp Tế bào – đơn vị cơ sở "
+  ],
+  [
+   "content_only",
+   "hình đĩa lõm 2 mặt là của tế bào nào thế",
+   "got none: exp Tế bào – đơn vị cơ sở "
+  ],
+  [
+   "content_only",
+   "cái gì giúp cây có hình dạng vững chắc v",
+   "got A_concept: exp Tế bào – đơn vị cơ sở "
+  ],
+  [
+   "content_only",
+   "mỗi bước thì được chọn đặc điểm gì ạ?",
+   "got none: exp Khóa lưỡng phân"
+  ],
+  [
+   "content_only",
+   "khi cái hạt nó nhỏ đi thì tốc độ tan có ",
+   "got none: exp Hỗn hợp, chất tinh khi"
+  ],
+  [
+   "content_only",
+   "tại sao xăng lại chảy qua ống được ạ",
+   "got none: exp Sự đa dạng của chất"
+  ],
+  [
+   "content_only",
+   "vật sống với vật không sống khác nhau ở ",
+   "got lesson_card:Đa dạng động vật không exp Giới thiệu về khoa học"
+  ]
+ ]
+}

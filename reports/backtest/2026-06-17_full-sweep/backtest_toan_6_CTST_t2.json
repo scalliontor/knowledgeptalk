@@ -1,0 +1,245 @@
+{
+ "book": "toan 6 CTST tap2",
+ "port": "8890",
+ "total": 500,
+ "lessons": 24,
+ "lesson_cases": 425,
+ "guard_cases": 75,
+ "errors": 0,
+ "anchor_acc": 90.8,
+ "mode_acc": 69.9,
+ "guard_acc": 100.0,
+ "cruft_on_cards": 0,
+ "latency_ms": {
+  "p50": 41.9,
+  "p95": 316.0,
+  "p99": 330.3,
+  "max": 350.1
+ },
+ "by_dimension": {
+  "content_only": {
+   "n": 83,
+   "anchor%": 56.6,
+   "mode%": 21.7,
+   "cruft": 0
+  },
+  "current_lesson": {
+   "n": 78,
+   "anchor%": 100.0,
+   "mode%": 88.5,
+   "cruft": 0
+  },
+  "guard_chitchat": {
+   "n": 24,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_offtopic": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_oob_trang": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_out_of_book": {
+   "n": 15,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_word": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_year": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "name_query": {
+   "n": 72,
+   "anchor%": 97.2,
+   "mode%": 45.8,
+   "cruft": 0
+  },
+  "practice": {
+   "n": 90,
+   "anchor%": 100.0,
+   "mode%": 97.8,
+   "cruft": 0
+  },
+  "trang_profile": {
+   "n": 42,
+   "anchor%": 100.0,
+   "mode%": 81.0,
+   "cruft": 0
+  },
+  "trang_query": {
+   "n": 60,
+   "anchor%": 98.3,
+   "mode%": 91.7,
+   "cruft": 0
+  }
+ },
+ "sample_fails": [
+  [
+   "content_only",
+   "tổng 2 đoạn bằng đoạn lớn nhất là sao ạ?",
+   "got A_concept: exp Ba điểm thẳng hàng. Ba"
+  ],
+  [
+   "content_only",
+   "nếu chia cho số 0 thì có được ko ạ?",
+   "got lesson_practice:Số thập phân exp Tính chất cơ bản của p"
+  ],
+  [
+   "content_only",
+   "cái phần đứng trước là số nguyên còn cái",
+   "got lesson_practice:Phân số với tử số và m exp Hỗn số"
+  ],
+  [
+   "content_only",
+   "nếu lấy bóng 60 lần thì số 60 này đóng v",
+   "got none: exp Xác suất thực nghiệm"
+  ],
+  [
+   "content_only",
+   "nếu tử số lớn hơn mẫu số thì có gọi là d",
+   "got lesson_practice:Phân số với tử số và m exp Hỗn số"
+  ],
+  [
+   "content_only",
+   "nếu nhân cả trên lẫn dưới với cùng 1 số ",
+   "got lesson_practice:Các phép tính với số t exp Tính chất cơ bản của p"
+  ],
+  [
+   "content_only",
+   "điểm chung của hai tia được gọi là gì vậ",
+   "got lesson_card:Hai đường thẳng cắt nh exp Góc"
+  ],
+  [
+   "content_only",
+   "điểm chung duy nhất là gì ạ?",
+   "got A_concept: exp Hai đường thẳng cắt nh"
+  ],
+  [
+   "content_only",
+   "quy tắc cộng thêm 1 áp dụng khi chữ số s",
+   "got none: exp Làm tròn số thập phân "
+  ],
+  [
+   "content_only",
+   "làm sao để đổi từ số thập phân sang dạng",
+   "got lesson_practice:Số thập phân exp Tỉ số và tỉ số phần tr"
+  ],
+  [
+   "name_query",
+   "cho em hỏi về cách làm tròn số thập phân",
+   "got lesson_practice:Số thập phân exp Làm tròn số thập phân "
+  ],
+  [
+   "content_only",
+   "làm sao để biến đổi phân số mà giá trị k",
+   "got A_concept: exp Tính chất cơ bản của p"
+  ],
+  [
+   "content_only",
+   "phép nhân giữa số và phân số dùng để làm",
+   "got lesson_card:Phép nhân và phép chia exp Giá trị phân số của mộ"
+  ],
+  [
+   "content_only",
+   "nếu ko có điểm chung thì gọi là gì ạ?",
+   "got A_concept: exp Hai đường thẳng cắt nh"
+  ],
+  [
+   "content_only",
+   "một số kết hợp giữa số nguyên với phân s",
+   "got lesson_card:Phân số với tử số và m exp Hỗn số"
+  ],
+  [
+   "content_only",
+   "muốn đổi mẫu âm thành dương thì làm thế ",
+   "got none: exp Tính chất cơ bản của p"
+  ],
+  [
+   "name_query",
+   "bài Góc này có gì cần lưu ý không ạ",
+   "got none: exp Góc"
+  ],
+  [
+   "content_only",
+   "cách để dự đoán kết quả nhanh mà không c",
+   "got A_concept: exp Làm tròn số thập phân "
+  ],
+  [
+   "content_only",
+   "phải đặt thước như nào cho đúng ạ",
+   "got none: exp Đoạn thẳng. Độ dài đoạ"
+  ],
+  [
+   "content_only",
+   "mặt ngửa hay mặt sấp thì gọi là gì trong",
+   "got A_concept: exp Phép thử nghiệm - Sự k"
+  ],
+  [
+   "content_only",
+   "hình bình hành có cái điểm nào như vậy k",
+   "got A_concept: exp Hình có tâm đối xứng"
+  ],
+  [
+   "content_only",
+   "muốn đo thì cần dùng cái gì ạ",
+   "got lesson_practice:Số đo góc. Các góc đặc exp Đoạn thẳng. Độ dài đoạ"
+  ],
+  [
+   "content_only",
+   "cách xác định một phần cụ thể từ một số ",
+   "got none: exp Giá trị phân số của mộ"
+  ],
+  [
+   "content_only",
+   "cho em hỏi nếu ko cùng 1 đường thì gọi l",
+   "got none: exp Ba điểm thẳng hàng. Ba"
+  ],
+  [
+   "content_only",
+   "muốn tính giá sau khi giảm giá thì làm t",
+   "got none: exp Bài toán về tỉ số phần"
+  ],
+  [
+   "content_only",
+   "cái mẫu số 100 là dùng khi nào thế ạ",
+   "got none: exp Tỉ số và tỉ số phần tr"
+  ],
+  [
+   "content_only",
+   "mấy cái tính chất giao hoán với kết hợp ",
+   "got A_concept: exp Các phép tính với số t"
+  ],
+  [
+   "content_only",
+   "tia là gì thế ạ em quên mất r",
+   "got none: exp Hai đường thẳng cắt nh"
+  ],
+  [
+   "content_only",
+   "phần phân số của cái này có điều kiện gì",
+   "got lesson_practice:Phân số với tử số và m exp Hỗn số"
+  ],
+  [
+   "content_only",
+   "vạch số 0 đặt ở đâu thì mới chuẩn",
+   "got none: exp Đoạn thẳng. Độ dài đoạ"
+  ]
+ ]
+}

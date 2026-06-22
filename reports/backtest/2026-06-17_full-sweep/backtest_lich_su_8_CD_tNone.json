@@ -1,0 +1,245 @@
+{
+ "book": "lich_su 8 CD tapNone",
+ "port": "8890",
+ "total": 500,
+ "lessons": 16,
+ "lesson_cases": 425,
+ "guard_cases": 75,
+ "errors": 0,
+ "anchor_acc": 83.8,
+ "mode_acc": 80.0,
+ "guard_acc": 100.0,
+ "cruft_on_cards": 0,
+ "latency_ms": {
+  "p50": 38.5,
+  "p95": 293.8,
+  "p99": 309.1,
+  "max": 600.2
+ },
+ "by_dimension": {
+  "content_only": {
+   "n": 84,
+   "anchor%": 29.8,
+   "mode%": 23.8,
+   "cruft": 0
+  },
+  "current_lesson": {
+   "n": 69,
+   "anchor%": 100.0,
+   "mode%": 97.1,
+   "cruft": 0
+  },
+  "guard_chitchat": {
+   "n": 24,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_offtopic": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_oob_trang": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_out_of_book": {
+   "n": 15,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_word": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_year": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "name_query": {
+   "n": 86,
+   "anchor%": 90.7,
+   "mode%": 84.9,
+   "cruft": 0
+  },
+  "practice": {
+   "n": 86,
+   "anchor%": 100.0,
+   "mode%": 100.0,
+   "cruft": 0
+  },
+  "trang_profile": {
+   "n": 43,
+   "anchor%": 97.7,
+   "mode%": 93.0,
+   "cruft": 0
+  },
+  "trang_query": {
+   "n": 57,
+   "anchor%": 98.2,
+   "mode%": 94.7,
+   "cruft": 0
+  }
+ },
+ "sample_fails": [
+  [
+   "name_query",
+   "cho em hỏi nội dung về Anh trong bài Các",
+   "got none: exp Các nước Âu - Mỹ từ cu"
+  ],
+  [
+   "content_only",
+   "vụ đánh 29 vạn quân Thanh là diễn ra khi",
+   "got none: exp Phong trào Tây Sơn thế"
+  ],
+  [
+   "content_only",
+   "Văn hóa thời này có bị ảnh hưởng gì từ b",
+   "got none: exp Kinh tế, văn hóa và tô"
+  ],
+  [
+   "content_only",
+   "việc lập đơn vị hành chính mới nhằm mục ",
+   "got none: exp Quá trình khai phá của"
+  ],
+  [
+   "name_query",
+   "cho em hỏi về vai trò của Tôn Trung Sơn ",
+   "got none: exp Trung Quốc và Nhật Bản"
+  ],
+  [
+   "content_only",
+   "kết quả của mấy cuộc đấu tranh này là gì",
+   "got none: exp Khởi nghĩa nông dân ở "
+  ],
+  [
+   "content_only",
+   "mấy cuộc này có điểm gì chung ko ạ?",
+   "got none: exp Cách mạng tư sản ở châ"
+  ],
+  [
+   "content_only",
+   "các nước này đi xâm chiếm thuộc địa để l",
+   "got none: exp Các nước Âu - Mỹ từ cu"
+  ],
+  [
+   "content_only",
+   "mấy nước Đông Nam Á chủ yếu bị các nước ",
+   "got lesson_card:Đông Nam Á từ nửa sau  exp Ấn Độ và khu vực Đông "
+  ],
+  [
+   "content_only",
+   "văn hóa thời này có gì hay ko?",
+   "got lesson_card:Kinh tế, văn hóa và tô exp Việt Nam nửa đầu thế k"
+  ],
+  [
+   "content_only",
+   "sau chiến tranh thì thế giới thay đổi nh",
+   "got A_concept: exp Chiến tranh thế giới t"
+  ],
+  [
+   "name_query",
+   "trong bài có nhắc đến phong trào Cần vươ",
+   "got A_concept: exp Việt Nam nửa sau thế k"
+  ],
+  [
+   "content_only",
+   "cho em hỏi về chiến thắng ở Rạch Gầm - X",
+   "got none: exp Phong trào Tây Sơn thế"
+  ],
+  [
+   "content_only",
+   "tình hình xã hội lúc đó có ổn ko ạ?",
+   "got none: exp Việt Nam nửa đầu thế k"
+  ],
+  [
+   "content_only",
+   "người chủ trương nâng cao dân trí là ai ",
+   "got none: exp Việt Nam đầu thế kỉ XX"
+  ],
+  [
+   "content_only",
+   "thế rốt cuộc là mấy nước này thay đổi cá",
+   "got none: exp Cách mạng tư sản ở châ"
+  ],
+  [
+   "content_only",
+   "cuộc cách mạng này dẫn đến sự ra đời của",
+   "got A_concept: exp Chiến tranh thế giới t"
+  ],
+  [
+   "content_only",
+   "kể tên mấy cái phát minh quan trọng nhất",
+   "got none: exp Cách mạng công nghiệp"
+  ],
+  [
+   "content_only",
+   "Chữ viết nào bắt đầu xuất hiện dựa trên ",
+   "got none: exp Kinh tế, văn hóa và tô"
+  ],
+  [
+   "content_only",
+   "đức có đặc điểm gì nổi bật về công nghiệ",
+   "got A_concept: exp Các nước Âu - Mỹ từ cu"
+  ],
+  [
+   "content_only",
+   "lối đánh thần tốc là gì vậy ạ, em chưa h",
+   "got none: exp Phong trào Tây Sơn thế"
+  ],
+  [
+   "content_only",
+   "mấy cái hiệp ước như Nhâm Tuất hay Giáp ",
+   "got none: exp Việt Nam nửa sau thế k"
+  ],
+  [
+   "content_only",
+   "Ai là người đứng đầu nhà Mạc thế ạ?",
+   "got none: exp Xung đột Nam - Bắc tri"
+  ],
+  [
+   "name_query",
+   "so sánh giúp em Phan Bội Châu với Phan C",
+   "got A_concept: exp Việt Nam đầu thế kỉ XX"
+  ],
+  [
+   "name_query",
+   "Trong bài Chiến tranh thế giới thứ nhất,",
+   "got A_concept: exp Chiến tranh thế giới t"
+  ],
+  [
+   "content_only",
+   "kết quả của mấy vụ này là gì thế?",
+   "got none: exp Cách mạng tư sản ở châ"
+  ],
+  [
+   "content_only",
+   "ngoài thu lượm hàng hóa tàu đắm thì đội ",
+   "got none: exp Quá trình khai phá của"
+  ],
+  [
+   "content_only",
+   "Nhà Lê trung hưng là đối thủ của ai thế ",
+   "got none: exp Xung đột Nam - Bắc tri"
+  ],
+  [
+   "content_only",
+   "ai là người dùng bạo động vũ trang để đá",
+   "got none: exp Việt Nam đầu thế kỉ XX"
+  ],
+  [
+   "content_only",
+   "ai lãnh đạo cuộc chiến ở Bắc Mỹ thế ạ?",
+   "got none: exp Cách mạng tư sản ở châ"
+  ]
+ ]
+}

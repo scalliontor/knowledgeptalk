@@ -1,0 +1,175 @@
+{
+ "book": "gdcd 9 CD tapNone",
+ "port": "8890",
+ "total": 375,
+ "lessons": 10,
+ "lesson_cases": 300,
+ "guard_cases": 75,
+ "errors": 0,
+ "anchor_acc": 94.7,
+ "mode_acc": 77.3,
+ "guard_acc": 100.0,
+ "cruft_on_cards": 0,
+ "latency_ms": {
+  "p50": 39.4,
+  "p95": 198.1,
+  "p99": 220.9,
+  "max": 238.1
+ },
+ "by_dimension": {
+  "content_only": {
+   "n": 60,
+   "anchor%": 73.3,
+   "mode%": 30.0,
+   "cruft": 0
+  },
+  "current_lesson": {
+   "n": 50,
+   "anchor%": 100.0,
+   "mode%": 96.0,
+   "cruft": 0
+  },
+  "guard_chitchat": {
+   "n": 24,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_offtopic": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_oob_trang": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_out_of_book": {
+   "n": 15,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_word": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_year": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "name_query": {
+   "n": 60,
+   "anchor%": 100.0,
+   "mode%": 75.0,
+   "cruft": 0
+  },
+  "practice": {
+   "n": 60,
+   "anchor%": 100.0,
+   "mode%": 98.3,
+   "cruft": 0
+  },
+  "trang_profile": {
+   "n": 30,
+   "anchor%": 100.0,
+   "mode%": 83.3,
+   "cruft": 0
+  },
+  "trang_query": {
+   "n": 40,
+   "anchor%": 100.0,
+   "mode%": 92.5,
+   "cruft": 0
+  }
+ },
+ "sample_fails": [
+  [
+   "content_only",
+   "như thế nào thì gọi là không định kiến ạ",
+   "got lesson_card:Khách quan và công bằn exp Khoan dung"
+  ],
+  [
+   "content_only",
+   "tại sao mình lại cần phải tránh định kiế",
+   "got none: exp Khách quan và công bằn"
+  ],
+  [
+   "content_only",
+   "mấy cái vụ gây xao nhãng là gì thế ạ?",
+   "got none: exp Quản lí thời gian hiệu"
+  ],
+  [
+   "content_only",
+   "mấy cái như quyên góp sách vở hay bảo vệ",
+   "got none: exp Tích cực tham gia hoạt"
+  ],
+  [
+   "content_only",
+   "nếu chỉ học thôi mà ko tham gia hoạt độn",
+   "got lesson_practice:Tích cực tham gia hoạt exp Sống có lí tưởng"
+  ],
+  [
+   "content_only",
+   "đối xử bình đẳng với mọi người thì gọi l",
+   "got none: exp Khách quan và công bằn"
+  ],
+  [
+   "content_only",
+   "người thực hiện hành vi phải có điều kiệ",
+   "got none: exp Vi phạm pháp luật và t"
+  ],
+  [
+   "content_only",
+   "người ta làm gì để đóng góp cho cộng đồn",
+   "got lesson_card:Tích cực tham gia hoạt exp Sống có lí tưởng"
+  ],
+  [
+   "content_only",
+   "thế nếu thấy bạn làm sai mà mình không n",
+   "got none: exp Khoan dung"
+  ],
+  [
+   "content_only",
+   "làm sao để biết một người đang hướng tới",
+   "got none: exp Sống có lí tưởng"
+  ],
+  [
+   "content_only",
+   "vừa học vừa làm tình nguyện thì có gọi l",
+   "got none: exp Sống có lí tưởng"
+  ],
+  [
+   "content_only",
+   "nếu cứ bênh bạn thân dù bạn sai thì là t",
+   "got lesson_card:Khoan dung exp Khách quan và công bằn"
+  ],
+  [
+   "content_only",
+   "mấy cái hành động gây mất mát về người v",
+   "got A_concept: exp Bảo vệ hoà bình"
+  ],
+  [
+   "content_only",
+   "làm sao để xây dựng được niềm tin và sự ",
+   "got A_concept: exp Khách quan và công bằn"
+  ],
+  [
+   "content_only",
+   "cho em hỏi mấy cái biểu hiện của việc ch",
+   "got none: exp Bảo vệ hoà bình"
+  ],
+  [
+   "content_only",
+   "mình cần làm gì để tăng cường hợp tác gi",
+   "got none: exp Bảo vệ hoà bình"
+  ]
+ ]
+}

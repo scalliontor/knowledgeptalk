@@ -1,0 +1,233 @@
+{
+ "book": "ngu_van 7 CTST tap2",
+ "port": "8890",
+ "total": 466,
+ "lessons": 17,
+ "lesson_cases": 391,
+ "guard_cases": 75,
+ "errors": 0,
+ "anchor_acc": 82.4,
+ "mode_acc": 68.5,
+ "guard_acc": 100.0,
+ "cruft_on_cards": 0,
+ "latency_ms": {
+  "p50": 41.2,
+  "p95": 215.8,
+  "p99": 226.5,
+  "max": 296.2
+ },
+ "by_dimension": {
+  "content_only": {
+   "n": 102,
+   "anchor%": 33.3,
+   "mode%": 28.4,
+   "cruft": 0
+  },
+  "current_lesson": {
+   "n": 85,
+   "anchor%": 100.0,
+   "mode%": 89.4,
+   "cruft": 0
+  },
+  "guard_chitchat": {
+   "n": 24,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_offtopic": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_oob_trang": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_out_of_book": {
+   "n": 15,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_word": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_year": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "name_query": {
+   "n": 102,
+   "anchor%": 99.0,
+   "mode%": 74.5,
+   "cruft": 0
+  },
+  "practice": {
+   "n": 102,
+   "anchor%": 100.0,
+   "mode%": 85.3,
+   "cruft": 0
+  }
+ },
+ "sample_fails": [
+  [
+   "content_only",
+   "có quy định gì để chơi cho đúng luật ko ",
+   "got none: exp Kéo co"
+  ],
+  [
+   "content_only",
+   "văn bản này có những bằng chứng cụ thể n",
+   "got none: exp Tự học - một thú v"
+  ],
+  [
+   "content_only",
+   "đặc điểm của mấy câu nói này là gì ạ?",
+   "got none: exp Những kinh nghiệm dâ"
+  ],
+  [
+   "content_only",
+   "nội dung chính kể về cái gì vậy ạ?",
+   "got none: exp Một ngày của Ích-chi-a"
+  ],
+  [
+   "name_query",
+   "Cái phần Chim trời cá nước là nói về cái",
+   "got none: exp Tục ngữ và sáng ta"
+  ],
+  [
+   "content_only",
+   "văn bản này hướng dẫn làm gì vậy ạ?",
+   "got none: exp Trò chơi cướp cờ"
+  ],
+  [
+   "content_only",
+   "nội dung chính của phần này là gì thế ạ?",
+   "got none: exp Tục ngữ và sáng ta"
+  ],
+  [
+   "content_only",
+   "những hình ảnh sắc nhọn như móng vuốt đư",
+   "got none: exp Một con mèo nằm ngủ tr"
+  ],
+  [
+   "content_only",
+   "thế giới trong này có gì lạ không ạ?",
+   "got none: exp Xưởng sô-cô-la"
+  ],
+  [
+   "content_only",
+   "có mấy phần chính trong bài này vậy ạ?",
+   "got none: exp Tục ngữ và sáng ta"
+  ],
+  [
+   "content_only",
+   "văn bản này dùng để hướng dẫn quy trình ",
+   "got none: exp Trò chơi cướp cờ"
+  ],
+  [
+   "content_only",
+   "kiểu như là đúc kết kinh nghiệm về thiên",
+   "got none: exp Những kinh nghiệm dâ"
+  ],
+  [
+   "content_only",
+   "ý nghĩa của việc coi trọng tình nghĩa tr",
+   "got none: exp Những kinh nghiệm dâ"
+  ],
+  [
+   "content_only",
+   "tại sao người xưa lại quan sát thời tiết",
+   "got none: exp Những kinh nghiệm dâ"
+  ],
+  [
+   "content_only",
+   "nhân vật chính có gì đặc biệt không ạ?",
+   "got none: exp Một ngày của Ích-chi-a"
+  ],
+  [
+   "content_only",
+   "tại sao nhân vật lại bị bộ lạc quay lưng",
+   "got none: exp Trái tim Đan-kô"
+  ],
+  [
+   "content_only",
+   "mô tả giúp em về những người làm việc ở ",
+   "got none: exp Xưởng sô-cô-la"
+  ],
+  [
+   "content_only",
+   "những người tí hon kia là ai vậy ạ?",
+   "got none: exp Xưởng sô-cô-la"
+  ],
+  [
+   "content_only",
+   "cảm xúc chủ đạo của bài này là gì nhỉ?",
+   "got none: exp Hương khúc"
+  ],
+  [
+   "content_only",
+   "kiểu văn bản này có đặc điểm gì thế ạ",
+   "got none: exp Trò chơi cướp cờ"
+  ],
+  [
+   "content_only",
+   "văn bản này nhấn mạnh tầm quan trọng của",
+   "got none: exp Bàn về đọc sách"
+  ],
+  [
+   "content_only",
+   "cho em hỏi bài này nói về cách chơi cái ",
+   "got none: exp Trò chơi cướp cờ"
+  ],
+  [
+   "content_only",
+   "mấy câu này nói về cái gì thế ạ?",
+   "got none: exp Những kinh nghiệm dâ"
+  ],
+  [
+   "content_only",
+   "cấu trúc của bài này gồm những phần nào ",
+   "got none: exp Trò chơi cướp cờ"
+  ],
+  [
+   "content_only",
+   "văn bản này thuộc thể loại gì vậy ạ?",
+   "got lesson_card:Kéo co exp Đừng từ bỏ cố gắn"
+  ],
+  [
+   "content_only",
+   "mấy câu này dùng để dự báo cái gì thế?",
+   "got none: exp Những kinh nghiệm dâ"
+  ],
+  [
+   "content_only",
+   "bối cảnh câu chuyện này là ở đâu thế ạ?",
+   "got none: exp Một ngày của Ích-chi-a"
+  ],
+  [
+   "content_only",
+   "cho em hỏi bài này tập trung vào giá trị",
+   "got none: exp Những kinh nghiệm dâ"
+  ],
+  [
+   "content_only",
+   "nhân vật chính đã làm gì để cứu mọi ngườ",
+   "got none: exp Trái tim Đan-kô"
+  ],
+  [
+   "content_only",
+   "mấy câu này nói về việc trồng trọt với c",
+   "got none: exp Những kinh nghiệm dâ"
+  ]
+ ]
+}

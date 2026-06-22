@@ -1,0 +1,175 @@
+{
+ "book": "gdcd 9 CTST tapNone",
+ "port": "8890",
+ "total": 375,
+ "lessons": 10,
+ "lesson_cases": 300,
+ "guard_cases": 75,
+ "errors": 0,
+ "anchor_acc": 94.7,
+ "mode_acc": 80.3,
+ "guard_acc": 100.0,
+ "cruft_on_cards": 36,
+ "latency_ms": {
+  "p50": 40.7,
+  "p95": 189.5,
+  "p99": 199.2,
+  "max": 245.9
+ },
+ "by_dimension": {
+  "content_only": {
+   "n": 60,
+   "anchor%": 73.3,
+   "mode%": 41.7,
+   "cruft": 3
+  },
+  "current_lesson": {
+   "n": 50,
+   "anchor%": 100.0,
+   "mode%": 94.0,
+   "cruft": 5
+  },
+  "guard_chitchat": {
+   "n": 24,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_offtopic": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_oob_trang": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_out_of_book": {
+   "n": 15,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_word": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_year": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "name_query": {
+   "n": 60,
+   "anchor%": 100.0,
+   "mode%": 81.7,
+   "cruft": 7
+  },
+  "practice": {
+   "n": 60,
+   "anchor%": 100.0,
+   "mode%": 93.3,
+   "cruft": 12
+  },
+  "trang_profile": {
+   "n": 30,
+   "anchor%": 100.0,
+   "mode%": 86.7,
+   "cruft": 4
+  },
+  "trang_query": {
+   "n": 40,
+   "anchor%": 100.0,
+   "mode%": 95.0,
+   "cruft": 5
+  }
+ },
+ "sample_fails": [
+  [
+   "content_only",
+   "mua đồ theo cảm xúc thì sẽ gặp vấn đề gì",
+   "got none: exp Tiêu dùng thông minh"
+  ],
+  [
+   "content_only",
+   "theo như bài thì việc đứng nhìn người ta",
+   "got none: exp Tích cực tham gia các "
+  ],
+  [
+   "content_only",
+   "lấy trộm đồ của người ta thì bị phạt gì ",
+   "got none: exp Vi phạm pháp luật và t"
+  ],
+  [
+   "content_only",
+   "thế nào là sống có trách nhiệm với xã hộ",
+   "got A_concept: exp Sống có lí tưởng"
+  ],
+  [
+   "content_only",
+   "đối xử ko dựa trên lợi ích cá nhân là gì",
+   "got none: exp Khách quan và công bằn"
+  ],
+  [
+   "content_only",
+   "muốn hoàn thành mục tiêu thì cần những b",
+   "got none: exp Quản lí thời gian hiệu"
+  ],
+  [
+   "content_only",
+   "nếu cứ mải chơi game mà bỏ học thì ảnh h",
+   "got none: exp Quản lí thời gian hiệu"
+  ],
+  [
+   "content_only",
+   "giúp giảm xung đột và xây dựng xã hội vă",
+   "got lesson_card:Bảo vệ hoà bình exp Khoan dung"
+  ],
+  [
+   "content_only",
+   "nguồn thu ngân sách nhà nước chủ yếu từ ",
+   "got none: exp Quyền tự do kinh doanh"
+  ],
+  [
+   "content_only",
+   "những việc thanh niên cần làm hiện nay l",
+   "got none: exp Sống có lí tưởng"
+  ],
+  [
+   "content_only",
+   "việc học tập ngoại ngữ để giúp đỡ người ",
+   "got none: exp Sống có lí tưởng"
+  ],
+  [
+   "content_only",
+   "việc giúp đỡ người khác thì được gọi là ",
+   "got none: exp Tích cực tham gia các "
+  ],
+  [
+   "content_only",
+   "tại sao việc lắng nghe lại quan trọng th",
+   "got none: exp Khoan dung"
+  ],
+  [
+   "content_only",
+   "nếu chỉ khen người giàu chê người nghèo ",
+   "got none: exp Khách quan và công bằn"
+  ],
+  [
+   "content_only",
+   "việc thực hiện đúng quyền lợi và trách n",
+   "got A_concept: exp Khách quan và công bằn"
+  ],
+  [
+   "content_only",
+   "việc quyên góp sách vở cho vùng cao là t",
+   "got none: exp Tích cực tham gia các "
+  ]
+ ]
+}

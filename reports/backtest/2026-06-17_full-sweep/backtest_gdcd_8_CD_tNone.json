@@ -1,0 +1,220 @@
+{
+ "book": "gdcd 8 CD tapNone",
+ "port": "8890",
+ "total": 375,
+ "lessons": 10,
+ "lesson_cases": 300,
+ "guard_cases": 75,
+ "errors": 0,
+ "anchor_acc": 91.7,
+ "mode_acc": 77.7,
+ "guard_acc": 100.0,
+ "cruft_on_cards": 0,
+ "latency_ms": {
+  "p50": 36.8,
+  "p95": 188.0,
+  "p99": 258.7,
+  "max": 271.0
+ },
+ "by_dimension": {
+  "content_only": {
+   "n": 60,
+   "anchor%": 58.3,
+   "mode%": 31.7,
+   "cruft": 0
+  },
+  "current_lesson": {
+   "n": 50,
+   "anchor%": 100.0,
+   "mode%": 98.0,
+   "cruft": 0
+  },
+  "guard_chitchat": {
+   "n": 24,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_offtopic": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_oob_trang": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_out_of_book": {
+   "n": 15,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_word": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_year": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "name_query": {
+   "n": 60,
+   "anchor%": 100.0,
+   "mode%": 68.3,
+   "cruft": 0
+  },
+  "practice": {
+   "n": 60,
+   "anchor%": 100.0,
+   "mode%": 95.0,
+   "cruft": 0
+  },
+  "trang_profile": {
+   "n": 30,
+   "anchor%": 100.0,
+   "mode%": 93.3,
+   "cruft": 0
+  },
+  "trang_query": {
+   "n": 40,
+   "anchor%": 100.0,
+   "mode%": 97.5,
+   "cruft": 0
+  }
+ },
+ "sample_fails": [
+  [
+   "content_only",
+   "cho em hỏi về sự khác biệt ngôn ngữ và c",
+   "got none: exp Tôn trọng sự đa dạng c"
+  ],
+  [
+   "content_only",
+   "nếu mình học tập tốt để xây dựng quê hươ",
+   "got none: exp Tự hào về truyền thống"
+  ],
+  [
+   "content_only",
+   "việc sử dụng năng lượng tiết kiệm có tác",
+   "got none: exp Bảo vệ môi trường và t"
+  ],
+  [
+   "content_only",
+   "tác hại của việc này là gì thế ạ",
+   "got none: exp Phòng, chống bạo lực g"
+  ],
+  [
+   "content_only",
+   "nếu bạn rủ quay cóp thì mình phải làm th",
+   "got none: exp Bảo vệ lẽ phải"
+  ],
+  [
+   "content_only",
+   "cho em hỏi là hiếu thảo với nhân ái thì ",
+   "got none: exp Tự hào về truyền thống"
+  ],
+  [
+   "content_only",
+   "thấy cái sai thì nên làm gì ạ?",
+   "got none: exp Bảo vệ lẽ phải"
+  ],
+  [
+   "content_only",
+   "mấy cái như trang phục với lễ hội thì th",
+   "got none: exp Tôn trọng sự đa dạng c"
+  ],
+  [
+   "content_only",
+   "mấy cái di sản văn hóa là một phần của c",
+   "got none: exp Tôn trọng sự đa dạng c"
+  ],
+  [
+   "content_only",
+   "tại sao việc giữ gìn bản sắc lại quan tr",
+   "got none: exp Tự hào về truyền thống"
+  ],
+  [
+   "content_only",
+   "muốn bảo vệ sự sống thì cần làm gì ạ?",
+   "got none: exp Bảo vệ môi trường và t"
+  ],
+  [
+   "content_only",
+   "môi trường làm việc an toàn là như thế n",
+   "got none: exp Quyền và nghĩa vụ lao "
+  ],
+  [
+   "content_only",
+   "mọi người có trách nhiệm gì trong việc n",
+   "got none: exp Phòng, chống bạo lực g"
+  ],
+  [
+   "content_only",
+   "cách để quản lý thời gian hiệu quả là gì",
+   "got none: exp Xác định mục tiêu cá n"
+  ],
+  [
+   "content_only",
+   "nhà máy xả nước thải ra sông là vi phạm ",
+   "got none: exp Bảo vệ môi trường và t"
+  ],
+  [
+   "content_only",
+   "mấy cái lễ hội với ẩm thực thì thuộc nhó",
+   "got none: exp Tự hào về truyền thống"
+  ],
+  [
+   "content_only",
+   "thế nếu mình không phân biệt đối xử thì ",
+   "got none: exp Tôn trọng sự đa dạng c"
+  ],
+  [
+   "content_only",
+   "tắt đèn quạt khi ra khỏi lớp là hành độn",
+   "got none: exp Bảo vệ môi trường và t"
+  ],
+  [
+   "content_only",
+   "việc tìm hiểu lịch sử thì có được coi là",
+   "got none: exp Tự hào về truyền thống"
+  ],
+  [
+   "content_only",
+   "khi thấy bạn bị bắt nạt thì mình có nên ",
+   "got none: exp Bảo vệ lẽ phải"
+  ],
+  [
+   "content_only",
+   "những việc như trồng cây xanh hay xử lý ",
+   "got none: exp Bảo vệ môi trường và t"
+  ],
+  [
+   "content_only",
+   "biểu hiện của việc ko ỷ lại vào người kh",
+   "got none: exp Lao động cần cù, sáng "
+  ],
+  [
+   "content_only",
+   "mấy bước để lập một kế hoạch là gì thế ạ",
+   "got lesson_practice:Lập kế hoạch chi tiêu exp Xác định mục tiêu cá n"
+  ],
+  [
+   "content_only",
+   "làm sao để biết mình đang làm đúng hay s",
+   "got none: exp Bảo vệ lẽ phải"
+  ],
+  [
+   "content_only",
+   "muốn xã hội văn minh thì cần làm gì ạ?",
+   "got none: exp Bảo vệ lẽ phải"
+  ]
+ ]
+}

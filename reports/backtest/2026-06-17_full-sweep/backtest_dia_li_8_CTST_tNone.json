@@ -1,0 +1,245 @@
+{
+ "book": "dia_li 8 CTST tapNone",
+ "port": "8890",
+ "total": 500,
+ "lessons": 15,
+ "lesson_cases": 425,
+ "guard_cases": 75,
+ "errors": 0,
+ "anchor_acc": 91.8,
+ "mode_acc": 77.9,
+ "guard_acc": 92.0,
+ "cruft_on_cards": 0,
+ "latency_ms": {
+  "p50": 39.5,
+  "p95": 179.3,
+  "p99": 218.6,
+  "max": 278.7
+ },
+ "by_dimension": {
+  "content_only": {
+   "n": 83,
+   "anchor%": 61.4,
+   "mode%": 41.0,
+   "cruft": 0
+  },
+  "current_lesson": {
+   "n": 73,
+   "anchor%": 100.0,
+   "mode%": 94.5,
+   "cruft": 0
+  },
+  "guard_chitchat": {
+   "n": 24,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_offtopic": {
+   "n": 12,
+   "anchor%": 50.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_oob_trang": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_out_of_book": {
+   "n": 15,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_word": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_year": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "name_query": {
+   "n": 83,
+   "anchor%": 96.4,
+   "mode%": 63.9,
+   "cruft": 0
+  },
+  "practice": {
+   "n": 86,
+   "anchor%": 100.0,
+   "mode%": 94.2,
+   "cruft": 0
+  },
+  "trang_profile": {
+   "n": 44,
+   "anchor%": 100.0,
+   "mode%": 88.6,
+   "cruft": 0
+  },
+  "trang_query": {
+   "n": 56,
+   "anchor%": 100.0,
+   "mode%": 98.2,
+   "cruft": 0
+  }
+ },
+ "sample_fails": [
+  [
+   "name_query",
+   "chỗ khai thác kinh tế trong bài này là s",
+   "got A_concept: exp Ảnh hưởng của địa hình"
+  ],
+  [
+   "content_only",
+   "vẽ xong thì cần phải có những thành phần",
+   "got A_concept: exp Thực hành: Vẽ và phân "
+  ],
+  [
+   "content_only",
+   "việc xây đê là để làm gì thế ạ?",
+   "got none: exp Tác động của biến đổi "
+  ],
+  [
+   "content_only",
+   "đất ở đồi núi có đặc điểm gì nổi bật vậy",
+   "got none: exp Sử dụng hợp lí tài ngu"
+  ],
+  [
+   "name_query",
+   "bài này có nói về rác thải nhựa ko ạ?",
+   "got none: exp Đặc điểm tự nhiên, môi"
+  ],
+  [
+   "content_only",
+   "du lịch thì cần điều kiện gì từ khí hậu ",
+   "got none: exp Vai trò của tài nguyên"
+  ],
+  [
+   "content_only",
+   "tình trạng đất bị bạc màu hay nhiễm mặn ",
+   "got none: exp Sử dụng hợp lí tài ngu"
+  ],
+  [
+   "content_only",
+   "ngoài đất liền thì mình còn có vùng trời",
+   "got A_concept: exp Đặc điểm vị trí địa lí"
+  ],
+  [
+   "content_only",
+   "loại đất nào thì hay nằm ở vùng đồi núi ",
+   "got none: exp Đặc điểm chung và sự p"
+  ],
+  [
+   "content_only",
+   "phía bắc mình giáp với nước nào vậy ạ?",
+   "got none: exp Đặc điểm vị trí địa lí"
+  ],
+  [
+   "content_only",
+   "trục bên trái dùng để đo cái gì thế ạ?",
+   "got none: exp Thực hành: Vẽ và phân "
+  ],
+  [
+   "content_only",
+   "phần tiếp giáp phía tây là những nước nà",
+   "got A_concept: exp Đặc điểm vị trí địa lí"
+  ],
+  [
+   "content_only",
+   "biên độ nhiệt là lấy số nào trừ số nào v",
+   "got A_concept: exp Thực hành: Vẽ và phân "
+  ],
+  [
+   "content_only",
+   "tây bắc là vùng như thế nào thế ạ?",
+   "got none: exp Đặc điểm địa hình"
+  ],
+  [
+   "content_only",
+   "nhiệt độ tăng thì có ảnh hưởng gì đến sô",
+   "got none: exp Tác động của biến đổi "
+  ],
+  [
+   "content_only",
+   "muốn biết đặc điểm khí hậu của 1 chỗ thì",
+   "got lesson_practice:Đặc điểm khí hậu exp Thực hành: Vẽ và phân "
+  ],
+  [
+   "content_only",
+   "ký hiệu trên bản đồ dùng để làm gì thế ạ",
+   "got lesson_card:Thực hành: Vẽ và phân  exp Thực hành: Phân tích đ"
+  ],
+  [
+   "name_query",
+   "cho em hỏi kỹ hơn về phần thủy văn trong",
+   "got A_concept: exp Tác động của biến đổi "
+  ],
+  [
+   "content_only",
+   "vùng biển nước mình gồm những phần nào t",
+   "got lesson_card:Vị trí địa lí Biển Đôn exp Đặc điểm vị trí địa lí"
+  ],
+  [
+   "content_only",
+   "màu đỏ vàng là đặc trưng của loại đất nà",
+   "got none: exp Sử dụng hợp lí tài ngu"
+  ],
+  [
+   "content_only",
+   "biển có tác động gì đến lượng mưa ko ạ?",
+   "got A_concept: exp Đặc điểm khí hậu"
+  ],
+  [
+   "content_only",
+   "bờ biển nước mình có mấy kiểu ạ?",
+   "got A_concept: exp Đặc điểm địa hình"
+  ],
+  [
+   "content_only",
+   "nếu ko kiểm soát tốt thì môi trường bị s",
+   "got none: exp Đặc điểm chung của tài"
+  ],
+  [
+   "content_only",
+   "càng lên cao thì nhiệt độ thay đổi ntn ạ",
+   "got none: exp Ảnh hưởng của địa hình"
+  ],
+  [
+   "content_only",
+   "việc sử dụng tài nguyên nước ở lưu vực s",
+   "got A_concept: exp Vai trò của tài nguyên"
+  ],
+  [
+   "content_only",
+   "vùng núi thường có loại khoáng sản gì ạ?",
+   "got A_concept: exp Thực hành: Phân tích đ"
+  ],
+  [
+   "content_only",
+   "nước biển dâng thì ảnh hưởng thế nào đến",
+   "got A_concept: exp Tác động của biến đổi "
+  ],
+  [
+   "content_only",
+   "ở vùng sông Cửu Long thì trồng cây gì là",
+   "got none: exp Sử dụng hợp lí tài ngu"
+  ],
+  [
+   "content_only",
+   "nước thì dùng vào những việc gì ngoài nô",
+   "got none: exp Vai trò của tài nguyên"
+  ],
+  [
+   "content_only",
+   "vị trí này có gì đặc biệt về kinh tế khô",
+   "got none: exp Vị trí địa lí Biển Đôn"
+  ]
+ ]
+}

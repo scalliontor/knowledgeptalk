@@ -1,0 +1,233 @@
+{
+ "book": "ngu_van 7 CTST tap1",
+ "port": "8890",
+ "total": 489,
+ "lessons": 18,
+ "lesson_cases": 414,
+ "guard_cases": 75,
+ "errors": 0,
+ "anchor_acc": 82.6,
+ "mode_acc": 71.5,
+ "guard_acc": 100.0,
+ "cruft_on_cards": 0,
+ "latency_ms": {
+  "p50": 40.3,
+  "p95": 219.9,
+  "p99": 234.8,
+  "max": 307.8
+ },
+ "by_dimension": {
+  "content_only": {
+   "n": 108,
+   "anchor%": 35.2,
+   "mode%": 32.4,
+   "cruft": 0
+  },
+  "current_lesson": {
+   "n": 90,
+   "anchor%": 98.9,
+   "mode%": 93.3,
+   "cruft": 0
+  },
+  "guard_chitchat": {
+   "n": 24,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_offtopic": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_oob_trang": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_out_of_book": {
+   "n": 15,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_word": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_year": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "name_query": {
+   "n": 108,
+   "anchor%": 99.1,
+   "mode%": 77.8,
+   "cruft": 0
+  },
+  "practice": {
+   "n": 108,
+   "anchor%": 100.0,
+   "mode%": 86.1,
+   "cruft": 0
+  }
+ },
+ "sample_fails": [
+  [
+   "content_only",
+   "món ăn này gắn liền với vùng nào và có đ",
+   "got none: exp Cốm vòng"
+  ],
+  [
+   "content_only",
+   "các bước được trình bày như thế nào ạ?",
+   "got none: exp Chúng ta có thể đọ"
+  ],
+  [
+   "content_only",
+   "bài này có mấy phần chính thế ạ?",
+   "got none: exp Sang thu"
+  ],
+  [
+   "content_only",
+   "nội dung chính của bài này là gì thế ạ?",
+   "got none: exp Sang thu"
+  ],
+  [
+   "content_only",
+   "văn bản này nói về đặc sản gì ở vùng đất",
+   "got none: exp Mùa thu về Trùng Kh"
+  ],
+  [
+   "content_only",
+   "vẻ đẹp của thiên nhiên trong bài này đượ",
+   "got none: exp Sang thu"
+  ],
+  [
+   "content_only",
+   "văn bản này cung cấp kiến thức về kỹ năn",
+   "got none: exp Chúng ta có thể đọ"
+  ],
+  [
+   "content_only",
+   "vẻ đẹp của con người ở đây được thể hiện",
+   "got lesson_card:Hình ảnh hoa sen tro exp Cốm vòng"
+  ],
+  [
+   "content_only",
+   "cho em hỏi cái nhìn phiến diện trong bài",
+   "got none: exp Những cái nhìn hạn"
+  ],
+  [
+   "content_only",
+   "nội dung chính của phần này là gì thế ạ?",
+   "got none: exp Em bé thông minh - nh"
+  ],
+  [
+   "content_only",
+   "nội dung chính của bài này là về cảnh sắ",
+   "got none: exp Mùa thu về Trùng Kh"
+  ],
+  [
+   "content_only",
+   "tại sao sau vài ngày thì cả bọn lại thấy",
+   "got none: exp Chân, tay, tai, mắt, "
+  ],
+  [
+   "content_only",
+   "thiên nhiên lúc chuyển mình sang thu đượ",
+   "got lesson_card:Sang thu exp Thu sang"
+  ],
+  [
+   "content_only",
+   "ngôn ngữ trong bài này có gì đặc biệt ko",
+   "got none: exp Cốm vòng"
+  ],
+  [
+   "content_only",
+   "tại sao kết thúc lại bất ngờ vậy ạ?",
+   "got none: exp Sức hấp dẫn của tr"
+  ],
+  [
+   "content_only",
+   "văn bản này dùng những cách lập luận gì ",
+   "got none: exp Sức hấp dẫn của tr"
+  ],
+  [
+   "content_only",
+   "bài này nói về tình cảm với quê hương nh",
+   "got none: exp Mùa phơi sân trước"
+  ],
+  [
+   "name_query",
+   "tác giả Huy Cận viết bài này với cảm xúc",
+   "got none: exp Con chim chiền chiện"
+  ],
+  [
+   "content_only",
+   "có những chi tiết nào tả về màu sắc của ",
+   "got none: exp Hình ảnh hoa sen tro"
+  ],
+  [
+   "content_only",
+   "nội dung chính của bài này là gì vậy ạ?",
+   "got none: exp Bài học từ cây cau"
+  ],
+  [
+   "content_only",
+   "sự khác biệt giữa trí tuệ dân gian và cu",
+   "got none: exp Em bé thông minh - nh"
+  ],
+  [
+   "content_only",
+   "món ăn này có gì đặc biệt mà tác giả khe",
+   "got none: exp Cốm vòng"
+  ],
+  [
+   "content_only",
+   "mối quan hệ giữa con người và thiên nhiê",
+   "got none: exp Mùa thu về Trùng Kh"
+  ],
+  [
+   "content_only",
+   "trong bài có dùng biện pháp gì để tả tâm",
+   "got none: exp Ông một"
+  ],
+  [
+   "content_only",
+   "loài hoa này sống ở đâu mà vẫn giữ được ",
+   "got none: exp Hình ảnh hoa sen tro"
+  ],
+  [
+   "current_lesson",
+   "giải thích kỹ hơn về sự kết nối giữa ngư",
+   "got none: exp Ông một"
+  ],
+  [
+   "content_only",
+   "các quy tắc ở nơi nước sâu được nhắc đến",
+   "got none: exp Phòng tránh đuối nư"
+  ],
+  [
+   "content_only",
+   "âm thanh trong cảnh này là như thế nào t",
+   "got none: exp Thu sang"
+  ],
+  [
+   "content_only",
+   "nội dung chính của phần cuối là gì vậy ạ",
+   "got lesson_card:Sức hấp dẫn của tr exp Lời của cây"
+  ],
+  [
+   "content_only",
+   "bài này nói về cái gì thế ạ, tóm tắt giú",
+   "got none: exp Bài học từ cây cau"
+  ]
+ ]
+}

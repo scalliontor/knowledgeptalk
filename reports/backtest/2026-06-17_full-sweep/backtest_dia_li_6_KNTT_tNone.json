@@ -1,0 +1,245 @@
+{
+ "book": "dia_li 6 KNTT tapNone",
+ "port": "8890",
+ "total": 500,
+ "lessons": 30,
+ "lesson_cases": 425,
+ "guard_cases": 75,
+ "errors": 0,
+ "anchor_acc": 87.1,
+ "mode_acc": 74.8,
+ "guard_acc": 92.0,
+ "cruft_on_cards": 0,
+ "latency_ms": {
+  "p50": 40.5,
+  "p95": 231.9,
+  "p99": 255.9,
+  "max": 284.0
+ },
+ "by_dimension": {
+  "content_only": {
+   "n": 82,
+   "anchor%": 37.8,
+   "mode%": 19.5,
+   "cruft": 0
+  },
+  "current_lesson": {
+   "n": 74,
+   "anchor%": 100.0,
+   "mode%": 94.6,
+   "cruft": 0
+  },
+  "guard_chitchat": {
+   "n": 24,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_offtopic": {
+   "n": 12,
+   "anchor%": 50.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_oob_trang": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_out_of_book": {
+   "n": 15,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_word": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_year": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "name_query": {
+   "n": 85,
+   "anchor%": 95.3,
+   "mode%": 68.2,
+   "cruft": 0
+  },
+  "practice": {
+   "n": 89,
+   "anchor%": 100.0,
+   "mode%": 96.6,
+   "cruft": 0
+  },
+  "trang_profile": {
+   "n": 32,
+   "anchor%": 100.0,
+   "mode%": 84.4,
+   "cruft": 0
+  },
+  "trang_query": {
+   "n": 63,
+   "anchor%": 100.0,
+   "mode%": 96.8,
+   "cruft": 0
+  }
+ },
+ "sample_fails": [
+  [
+   "content_only",
+   "mấy cái khe nứt là nơi cái gì phun lên v",
+   "got none: exp Núi lửa và động đất"
+  ],
+  [
+   "content_only",
+   "nước nằm trong đất đá dưới sâu gọi là gì",
+   "got none: exp Sông và hồ. Nước ngầm "
+  ],
+  [
+   "content_only",
+   "Muốn biết bản đồ chi tiết hay không thì ",
+   "got lesson_practice:Bản đồ, Một số lưới ki exp Tỉ lệ bản đồ, Tính kho"
+  ],
+  [
+   "content_only",
+   "việc con người xả khí thải thì sẽ gây ra",
+   "got none: exp Mối quan hệ giữa con n"
+  ],
+  [
+   "content_only",
+   "mấy cái tầng đất gồm có những gì thế?",
+   "got none: exp Lớp đất trên Trái Đất"
+  ],
+  [
+   "content_only",
+   "có những hành động nào để bảo vệ môi trư",
+   "got lesson_practice:Bảo vệ tự nhiên và kha exp Thời tiết và khí hậu. "
+  ],
+  [
+   "content_only",
+   "em muốn tìm hiểu về việc khai thác cát d",
+   "got none: exp Thực hành: Tìm hiểu mố"
+  ],
+  [
+   "content_only",
+   "nếu lấy quá nhiều nước dưới lòng đất thì",
+   "got none: exp Sông và hồ. Nước ngầm "
+  ],
+  [
+   "content_only",
+   "sông Đà với sông Lô thuộc loại nào của s",
+   "got none: exp Sông và hồ. Nước ngầm "
+  ],
+  [
+   "content_only",
+   "gió với nước thì thuộc nhóm nào vậy ạ?",
+   "got none: exp Quá trình nội sinh và "
+  ],
+  [
+   "content_only",
+   "cái hình mô phỏng mặt cắt ngang gọi là g",
+   "got A_concept: exp Thực hành: Đọc lược đồ"
+  ],
+  [
+   "content_only",
+   "tại sao mấy chỗ sa mạc với núi cao lại í",
+   "got none: exp Dân số và sự phân bố d"
+  ],
+  [
+   "name_query",
+   "em muốn hỏi kỹ hơn về bài chuyển động củ",
+   "got lesson_practice:Chuyển động của Trái Đ exp chuyển động của Trái Đ"
+  ],
+  [
+   "content_only",
+   "nước biển dâng lên hạ xuống theo chu kỳ ",
+   "got none: exp Biển và đại dương"
+  ],
+  [
+   "content_only",
+   "cái gì làm cho bề mặt trái đất gồ ghề lê",
+   "got none: exp Quá trình nội sinh và "
+  ],
+  [
+   "content_only",
+   "làm sao để duy trì sự sống và bảo vệ môi",
+   "got lesson_practice:Sự sống trên Trái Đất exp Mối quan hệ giữa con n"
+  ],
+  [
+   "content_only",
+   "hơi nước ngưng tụ thì tạo ra cái gì ạ?",
+   "got none: exp Nhiệt độ không khí. Mâ"
+  ],
+  [
+   "name_query",
+   "trong bài chuyển động của Trái Đất quanh",
+   "got A_concept: exp chuyển động của Trái Đ"
+  ],
+  [
+   "content_only",
+   "khi dùng quá nhiều túi ni-lông thì sẽ bị",
+   "got none: exp Mối quan hệ giữa con n"
+  ],
+  [
+   "content_only",
+   "vùng nhiệt đới thì thường có loại đất nà",
+   "got lesson_card:Rừng nhiệt đới exp Lớp đất trên Trái Đất"
+  ],
+  [
+   "content_only",
+   "hướng quay của trái đất là hướng nào vậy",
+   "got lesson_card:chuyển động của Trái Đ exp Chuyển động tự quay qu"
+  ],
+  [
+   "content_only",
+   "đường vuông góc với kinh tuyến là gì thế",
+   "got lesson_card:Hệ thống kinh, vĩ tuyế exp Bản đồ, Một số lưới ki"
+  ],
+  [
+   "content_only",
+   "khi gặp vụ này trong lớp thì mình nên là",
+   "got none: exp Núi lửa và động đất"
+  ],
+  [
+   "content_only",
+   "hiện tượng gì gây ra lũ lụt nếu xảy ra q",
+   "got A_concept: exp Nhiệt độ không khí. Mâ"
+  ],
+  [
+   "content_only",
+   "khí hậu khắc nghiệt thì ảnh hưởng gì đến",
+   "got none: exp Dân số và sự phân bố d"
+  ],
+  [
+   "content_only",
+   "làm sao để biết được thiên nhiên đang cu",
+   "got A_concept: exp Thực hành: Tìm hiểu mố"
+  ],
+  [
+   "content_only",
+   "mấy cái yếu tố như sức gió với áp suất l",
+   "got lesson_practice:Lớp vỏ khí của Trái Đấ exp Thời tiết và khí hậu. "
+  ],
+  [
+   "content_only",
+   "hiện tượng này gây ra hậu quả gì cho côn",
+   "got A_concept: exp Núi lửa và động đất"
+  ],
+  [
+   "content_only",
+   "đường nối 2 cực là đường gì thế ạ?",
+   "got none: exp Hệ thống kinh, vĩ tuyế"
+  ],
+  [
+   "content_only",
+   "vụ ngày đêm dài ngắn là do cái gì gây ra",
+   "got none: exp Chuyển động của Trái Đ"
+  ]
+ ]
+}

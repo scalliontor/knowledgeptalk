@@ -1,0 +1,245 @@
+{
+ "book": "dia_li 7 CD tapNone",
+ "port": "8890",
+ "total": 500,
+ "lessons": 21,
+ "lesson_cases": 425,
+ "guard_cases": 75,
+ "errors": 0,
+ "anchor_acc": 81.2,
+ "mode_acc": 73.6,
+ "guard_acc": 100.0,
+ "cruft_on_cards": 0,
+ "latency_ms": {
+  "p50": 41.2,
+  "p95": 244.2,
+  "p99": 318.4,
+  "max": 342.2
+ },
+ "by_dimension": {
+  "content_only": {
+   "n": 88,
+   "anchor%": 17.0,
+   "mode%": 14.8,
+   "cruft": 0
+  },
+  "current_lesson": {
+   "n": 71,
+   "anchor%": 100.0,
+   "mode%": 95.8,
+   "cruft": 0
+  },
+  "guard_chitchat": {
+   "n": 24,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_offtopic": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_oob_trang": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_out_of_book": {
+   "n": 15,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_word": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_year": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "name_query": {
+   "n": 97,
+   "anchor%": 93.8,
+   "mode%": 73.2,
+   "cruft": 0
+  },
+  "practice": {
+   "n": 94,
+   "anchor%": 100.0,
+   "mode%": 96.8,
+   "cruft": 0
+  },
+  "trang_profile": {
+   "n": 30,
+   "anchor%": 96.7,
+   "mode%": 86.7,
+   "cruft": 0
+  },
+  "trang_query": {
+   "n": 45,
+   "anchor%": 100.0,
+   "mode%": 97.8,
+   "cruft": 0
+  }
+ },
+ "sample_fails": [
+  [
+   "content_only",
+   "việc sử dụng tài nguyên đi đôi với bảo v",
+   "got none: exp Phương thức con người "
+  ],
+  [
+   "content_only",
+   "châu lục này tiếp giáp với những đại dươ",
+   "got lesson_card:Vị trí, phạm vi và đặc exp Vị trí địa lí, phạm vi"
+  ],
+  [
+   "content_only",
+   "vùng núi phía tây có đặc điểm gì nổi bật",
+   "got none: exp Đặc điểm tự nhiên Bắc "
+  ],
+  [
+   "content_only",
+   "khí hậu ở phía nam khác gì phía bắc ạ?",
+   "got none: exp Đặc điểm tự nhiên Trun"
+  ],
+  [
+   "content_only",
+   "đặc điểm dân cư ở đây có gì nổi bật ạ?",
+   "got none: exp Đặc điểm dân cư, xã hộ"
+  ],
+  [
+   "content_only",
+   "khu vực nào thì có nhiều hoang mạc nhất ",
+   "got none: exp Bản đồ chính trị Châu "
+  ],
+  [
+   "content_only",
+   "nước này nằm ở đâu thế ạ?",
+   "got none: exp Thực hành Tìm hiểu một"
+  ],
+  [
+   "content_only",
+   "sông ngòi ở đây có gì đặc biệt ko ạ",
+   "got lesson_card:Đặc điểm tự nhiên Bắc  exp Vị trí địa lí, phạm vi"
+  ],
+  [
+   "content_only",
+   "ở đây có mấy loại tài nguyên chính thế ạ",
+   "got none: exp Đặc điểm dân cư, xã hộ"
+  ],
+  [
+   "content_only",
+   "đặc điểm thiên nhiên ở đây có gì đặc biệ",
+   "got A_concept: exp Châu Nam Cực"
+  ],
+  [
+   "content_only",
+   "có mấy thủ đô thôi ạ? tên là gì thế?",
+   "got none: exp Thực hành Tìm hiểu khá"
+  ],
+  [
+   "content_only",
+   "rừng nhiệt đới lớn nhất thế giới là ở đâ",
+   "got lesson_card:Thực hành: Tìm hiểu vấ exp Đặc điểm tự nhiên Trun"
+  ],
+  [
+   "content_only",
+   "vị trí của nó nằm ở đâu trên bản đồ châu",
+   "got lesson_card:Vị trí địa lí, phạm vi exp Thực hành Tìm hiểu khá"
+  ],
+  [
+   "content_only",
+   "xung quanh nó là những đại dương nào vậy",
+   "got none: exp Vị trí địa lí, phạm vi"
+  ],
+  [
+   "content_only",
+   "vị trí của nó nằm giữa mấy đại dương nào",
+   "got none: exp Vị trí địa lí, phạm vi"
+  ],
+  [
+   "content_only",
+   "nếu băng tan thì sẽ bị làm sao ạ?",
+   "got none: exp Châu Nam Cực"
+  ],
+  [
+   "content_only",
+   "địa hình ở đây chủ yếu là gì vậy ạ",
+   "got none: exp Vị trí địa lí, phạm vi"
+  ],
+  [
+   "content_only",
+   "vị trí của nó nằm ở đâu thế?",
+   "got none: exp Vị trí địa lí, phạm vi"
+  ],
+  [
+   "content_only",
+   "ở phía bắc thì khí hậu thuộc đới nào thế",
+   "got none: exp Đặc điểm tự nhiên Bắc "
+  ],
+  [
+   "name_query",
+   "bài này có nhắc đến các loài thú có túi ",
+   "got none: exp Vị trí địa lí, phạm vi"
+  ],
+  [
+   "content_only",
+   "tầm ảnh hưởng của nó rộng đến đâu",
+   "got none: exp Khái quát về liên minh"
+  ],
+  [
+   "content_only",
+   "cho em hỏi mấy loại khoáng sản quý ở đây",
+   "got none: exp Thực hành: Tìm hiểu vấ"
+  ],
+  [
+   "content_only",
+   "các biện pháp để bảo vệ đất là gì vậy ạ",
+   "got lesson_practice:Phương thức con người  exp Phương thức con người "
+  ],
+  [
+   "content_only",
+   "dãy núi nào chạy dọc phía tây thế ạ?",
+   "got none: exp Đặc điểm tự nhiên Trun"
+  ],
+  [
+   "content_only",
+   "văn hóa ở đây là sự kết hợp của những yế",
+   "got none: exp Đặc điểm dân cư, xã hộ"
+  ],
+  [
+   "name_query",
+   "em chưa rõ phần vị thế trong bài Liên mi",
+   "got A_concept: exp Khái quát về liên minh"
+  ],
+  [
+   "content_only",
+   "khí hậu ở mấy cái đảo khác gì với lục đị",
+   "got none: exp Vị trí địa lí, phạm vi"
+  ],
+  [
+   "content_only",
+   "phía bắc của châu lục này là gì vậy ạ?",
+   "got A_concept: exp Vị trí, phạm vi và đặc"
+  ],
+  [
+   "name_query",
+   "em chưa hiểu phần thiên nhiên trong bài ",
+   "got A_concept: exp Vị trí địa lí, phạm vi"
+  ],
+  [
+   "content_only",
+   "việc bảo vệ đất được thực hiện ra sao ạ?",
+   "got lesson_card:Phương thức con người  exp Đặc điểm dân cư, xã hộ"
+  ]
+ ]
+}

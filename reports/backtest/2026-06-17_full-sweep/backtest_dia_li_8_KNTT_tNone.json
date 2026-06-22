@@ -1,0 +1,245 @@
+{
+ "book": "dia_li 8 KNTT tapNone",
+ "port": "8890",
+ "total": 435,
+ "lessons": 12,
+ "lesson_cases": 360,
+ "guard_cases": 75,
+ "errors": 0,
+ "anchor_acc": 91.9,
+ "mode_acc": 79.4,
+ "guard_acc": 92.0,
+ "cruft_on_cards": 0,
+ "latency_ms": {
+  "p50": 38.2,
+  "p95": 175.4,
+  "p99": 193.5,
+  "max": 321.9
+ },
+ "by_dimension": {
+  "content_only": {
+   "n": 72,
+   "anchor%": 61.1,
+   "mode%": 41.7,
+   "cruft": 0
+  },
+  "current_lesson": {
+   "n": 60,
+   "anchor%": 100.0,
+   "mode%": 90.0,
+   "cruft": 0
+  },
+  "guard_chitchat": {
+   "n": 24,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_offtopic": {
+   "n": 12,
+   "anchor%": 50.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_oob_trang": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_out_of_book": {
+   "n": 15,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_word": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_year": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "name_query": {
+   "n": 72,
+   "anchor%": 98.6,
+   "mode%": 75.0,
+   "cruft": 0
+  },
+  "practice": {
+   "n": 72,
+   "anchor%": 100.0,
+   "mode%": 97.2,
+   "cruft": 0
+  },
+  "trang_profile": {
+   "n": 36,
+   "anchor%": 100.0,
+   "mode%": 86.1,
+   "cruft": 0
+  },
+  "trang_query": {
+   "n": 48,
+   "anchor%": 100.0,
+   "mode%": 97.9,
+   "cruft": 0
+  }
+ },
+ "sample_fails": [
+  [
+   "content_only",
+   "mấy cái đồng bằng lớn nhất là ở đâu ạ?",
+   "got none: exp Địa hình Việt Nam"
+  ],
+  [
+   "content_only",
+   "nhiệt độ trung bình năm ở mình đang thay",
+   "got lesson_practice:Khí hậu Việt Nam exp Tác động của biến đổi "
+  ],
+  [
+   "content_only",
+   "biên độ nhiệt là lấy cái cao nhất trừ cá",
+   "got A_concept: exp Thực hành: vẽ và phân "
+  ],
+  [
+   "content_only",
+   "mùa hè đi biển còn mùa đông đi núi là do",
+   "got A_concept: exp Vai trò của tài nguyên"
+  ],
+  [
+   "content_only",
+   "vùng nào thì thềm lục địa bị thu hẹp lại",
+   "got A_concept: exp Địa hình Việt Nam"
+  ],
+  [
+   "content_only",
+   "biển có tác động gì đến độ ẩm không ạ?",
+   "got A_concept: exp Khí hậu Việt Nam"
+  ],
+  [
+   "content_only",
+   "vùng đồi núi thì thường có loại đất gì t",
+   "got A_concept: exp Thổ nhưỡng Việt Nam"
+  ],
+  [
+   "name_query",
+   "bài này có cần thuộc lòng mấy cái hải lý",
+   "got none: exp Phạm vi biển đông. Vùn"
+  ],
+  [
+   "content_only",
+   "mùa khô thì sông ngòi gặp vấn đề gì ạ?",
+   "got lesson_card:Thuỷ văn Việt Nam exp Tác động của biến đổi "
+  ],
+  [
+   "content_only",
+   "thềm lục địa nước mình có tiềm năng gì ạ",
+   "got none: exp Môi trường và tài nguy"
+  ],
+  [
+   "content_only",
+   "tổng bức xạ lớn thì có nghĩa là gì ạ?",
+   "got none: exp Khí hậu Việt Nam"
+  ],
+  [
+   "content_only",
+   "vùng thềm lục địa phía nam có gì đặc biệ",
+   "got A_concept: exp Khoáng sản Việt Nam"
+  ],
+  [
+   "content_only",
+   "mấy nguyên nhân làm mất môi trường sống ",
+   "got A_concept: exp Sinh vật Việt Nam"
+  ],
+  [
+   "content_only",
+   "cây công nghiệp như cà phê với chè thì t",
+   "got none: exp Thổ nhưỡng Việt Nam"
+  ],
+  [
+   "content_only",
+   "dãy hoàng liên sơn thuộc hướng núi nào t",
+   "got none: exp Địa hình Việt Nam"
+  ],
+  [
+   "content_only",
+   "vùng lãnh thổ nước mình gồm những phần n",
+   "got A_concept: exp Vị trí địa lí và phạm "
+  ],
+  [
+   "content_only",
+   "tại sao vùng núi như Sa Pa lại phát triể",
+   "got A_concept: exp Vai trò của tài nguyên"
+  ],
+  [
+   "content_only",
+   "mùa mưa là nhìn vào mấy cái cột hả ạ?",
+   "got none: exp Thực hành: vẽ và phân "
+  ],
+  [
+   "content_only",
+   "độ ẩm trên 80% là do đâu ạ?",
+   "got none: exp Khí hậu Việt Nam"
+  ],
+  [
+   "content_only",
+   "việc khai thác nước ở lưu vực sông có cầ",
+   "got lesson_card:Thuỷ văn Việt Nam exp Vai trò của tài nguyên"
+  ],
+  [
+   "content_only",
+   "cho em hỏi mấy cái vườn quốc gia dùng để",
+   "got none: exp Sinh vật Việt Nam"
+  ],
+  [
+   "content_only",
+   "tình trạng đa dạng sinh học biển hiện gi",
+   "got A_concept: exp Môi trường và tài nguy"
+  ],
+  [
+   "content_only",
+   "xâm nhập mặn thường xảy ra ở đâu vậy ạ?",
+   "got none: exp Tác động của biến đổi "
+  ],
+  [
+   "content_only",
+   "dầu khí có vai trò gì đối với nước mình?",
+   "got none: exp Môi trường và tài nguy"
+  ],
+  [
+   "content_only",
+   "việc khai thác hiện nay có vấn đề gì khô",
+   "got none: exp Khoáng sản Việt Nam"
+  ],
+  [
+   "content_only",
+   "có những cách nào để giảm bớt tác động t",
+   "got none: exp Tác động của biến đổi "
+  ],
+  [
+   "content_only",
+   "dầu khí thì nằm ở vùng nào thế ạ",
+   "got A_concept: exp Khoáng sản Việt Nam"
+  ],
+  [
+   "content_only",
+   "địa hình dưới đáy biển của mình có bằng ",
+   "got A_concept: exp Phạm vi biển đông. Vùn"
+  ],
+  [
+   "content_only",
+   "khí hậu nhiệt đới ẩm gió mùa thì có tác ",
+   "got lesson_card:Khí hậu Việt Nam exp Vai trò của tài nguyên"
+  ],
+  [
+   "guard_offtopic",
+   "công thức hoá học của nước là gì",
+   "FALSE CARD: Thuỷ văn Việt Nam"
+  ]
+ ]
+}

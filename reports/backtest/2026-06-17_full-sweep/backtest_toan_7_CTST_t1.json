@@ -1,0 +1,245 @@
+{
+ "book": "toan 7 CTST tap1",
+ "port": "8890",
+ "total": 500,
+ "lessons": 17,
+ "lesson_cases": 425,
+ "guard_cases": 75,
+ "errors": 0,
+ "anchor_acc": 88.9,
+ "mode_acc": 66.4,
+ "guard_acc": 100.0,
+ "cruft_on_cards": 0,
+ "latency_ms": {
+  "p50": 39.4,
+  "p95": 280.4,
+  "p99": 300.5,
+  "max": 576.3
+ },
+ "by_dimension": {
+  "content_only": {
+   "n": 87,
+   "anchor%": 46.0,
+   "mode%": 23.0,
+   "cruft": 0
+  },
+  "current_lesson": {
+   "n": 66,
+   "anchor%": 100.0,
+   "mode%": 89.4,
+   "cruft": 0
+  },
+  "guard_chitchat": {
+   "n": 24,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_offtopic": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_oob_trang": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_out_of_book": {
+   "n": 15,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_word": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_year": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "name_query": {
+   "n": 90,
+   "anchor%": 100.0,
+   "mode%": 50.0,
+   "cruft": 0
+  },
+  "practice": {
+   "n": 87,
+   "anchor%": 100.0,
+   "mode%": 90.8,
+   "cruft": 0
+  },
+  "trang_profile": {
+   "n": 42,
+   "anchor%": 100.0,
+   "mode%": 88.1,
+   "cruft": 0
+  },
+  "trang_query": {
+   "n": 53,
+   "anchor%": 100.0,
+   "mode%": 79.2,
+   "cruft": 0
+  }
+ },
+ "sample_fails": [
+  [
+   "content_only",
+   "khi nào thì mình tăng thêm 1 đơn vị ạ?",
+   "got none: exp Làm tròn số và ước lượ"
+  ],
+  [
+   "content_only",
+   "làm sao để biết cái phần màu này là cái ",
+   "got none: exp Biểu đồ hình quạt tròn"
+  ],
+  [
+   "content_only",
+   "khi cái đường nó đi xuống thì nghĩa là g",
+   "got A_concept: exp Biểu đồ đoạn thẳng"
+  ],
+  [
+   "content_only",
+   "góc ở tâm tính theo công thức nào thế ạ?",
+   "got A_concept: exp Biểu đồ hình quạt tròn"
+  ],
+  [
+   "content_only",
+   "cho em hỏi diện tích toàn phần bao gồm n",
+   "got A_concept: exp Diện tích xung quanh v"
+  ],
+  [
+   "content_only",
+   "hai đáy của nó có cần bằng nhau ko ạ?",
+   "got A_concept: exp Diện tích xung quanh v"
+  ],
+  [
+   "content_only",
+   "làm sao để biết 2 số hữu tỉ cái nào lớn ",
+   "got lesson_practice:Các phép tính với số h exp Tập hợp các số hữu tỉ"
+  ],
+  [
+   "content_only",
+   "hình này có các mặt bên là hình gì thế ạ",
+   "got A_concept: exp Diện tích xung quanh v"
+  ],
+  [
+   "content_only",
+   "nhìn vào cái hình này thì so sánh tỉ lệ ",
+   "got A_concept: exp Biểu đồ hình quạt tròn"
+  ],
+  [
+   "content_only",
+   "cho em hỏi cách tính tích của các số giố",
+   "got lesson_practice:Các phép tính với số h exp Lũy thừa của một số hữ"
+  ],
+  [
+   "content_only",
+   "hình này có bao nhiêu đỉnh thế ạ?",
+   "got A_concept: exp Hình hộp chữ nhật - Hì"
+  ],
+  [
+   "content_only",
+   "kí hiệu // là dùng khi nào thế ạ",
+   "got A_concept: exp Hai đường thẳng song s"
+  ],
+  [
+   "content_only",
+   "cho hỏi cái vụ tổng 2 góc trong cùng phí",
+   "got none: exp Hai đường thẳng song s"
+  ],
+  [
+   "content_only",
+   "trục số dùng để làm gì ạ?",
+   "got A_concept: exp Số thực. Giá trị tuyệt"
+  ],
+  [
+   "content_only",
+   "chiều cao với cạnh bên có bằng nhau ko?",
+   "got A_concept: exp Hình lăng trụ đứng tam"
+  ],
+  [
+   "content_only",
+   "nếu là hình chữ nhật hết thì gọi là gì ạ",
+   "got A_concept: exp Hình hộp chữ nhật - Hì"
+  ],
+  [
+   "content_only",
+   "mỗi miếng trong hình này đại diện cho cá",
+   "got A_concept: exp Biểu đồ hình quạt tròn"
+  ],
+  [
+   "content_only",
+   "mấy cái hình tròn này dùng để làm gì thế",
+   "got A_concept: exp Biểu đồ hình quạt tròn"
+  ],
+  [
+   "content_only",
+   "ký hiệu Q là dùng cho cái gì vậy ạ?",
+   "got A_concept: exp Tập hợp các số hữu tỉ"
+  ],
+  [
+   "content_only",
+   "nếu x bình phương bằng a thì x gọi là gì",
+   "got none: exp Số vô tỉ. Căn bậc hai "
+  ],
+  [
+   "content_only",
+   "hình có 6 mặt là hình chữ nhật thì gọi l",
+   "got lesson_card:Hình hộp chữ nhật - Hì exp Diện tích xung quanh v"
+  ],
+  [
+   "content_only",
+   "làm sao để biết được xu hướng của dữ liệ",
+   "got none: exp Biểu đồ đoạn thẳng"
+  ],
+  [
+   "content_only",
+   "muốn biểu diễn số lên trục số thì làm sa",
+   "got A_concept: exp Tập hợp các số hữu tỉ"
+  ],
+  [
+   "content_only",
+   "số hữu tỉ là gì thế ạ?",
+   "got lesson_card:Tập hợp các số hữu tỉ exp Các phép tính với số h"
+  ],
+  [
+   "content_only",
+   "có mấy phép tính cơ bản ở đây ạ?",
+   "got A_concept: exp Các phép tính với số h"
+  ],
+  [
+   "content_only",
+   "thể tích là tích của diện tích đáy với c",
+   "got lesson_card:Diện tích xung quanh v exp Diện tích xung quanh v"
+  ],
+  [
+   "content_only",
+   "có cách nào tính nhanh mấy cái căn này k",
+   "got A_concept: exp Số vô tỉ. Căn bậc hai "
+  ],
+  [
+   "content_only",
+   "số vô tỉ là số như thế nào ạ?",
+   "got lesson_card:Số vô tỉ. Căn bậc hai  exp Số thực. Giá trị tuyệt"
+  ],
+  [
+   "content_only",
+   "mấy cái mặt bên nó là hình gì vậy ạ?",
+   "got A_concept: exp Hình lăng trụ đứng tam"
+  ],
+  [
+   "content_only",
+   "số mặt bên với số cạnh đáy có liên quan ",
+   "got none: exp Hình lăng trụ đứng tam"
+  ]
+ ]
+}

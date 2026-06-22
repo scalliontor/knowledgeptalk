@@ -1,0 +1,245 @@
+{
+ "book": "toan 5 CTST tapNone",
+ "port": "8890",
+ "total": 500,
+ "lessons": 80,
+ "lesson_cases": 425,
+ "guard_cases": 75,
+ "errors": 0,
+ "anchor_acc": 76.5,
+ "mode_acc": 51.3,
+ "guard_acc": 100.0,
+ "cruft_on_cards": 0,
+ "latency_ms": {
+  "p50": 37.5,
+  "p95": 443.8,
+  "p99": 461.2,
+  "max": 469.7
+ },
+ "by_dimension": {
+  "content_only": {
+   "n": 88,
+   "anchor%": 31.8,
+   "mode%": 13.6,
+   "cruft": 0
+  },
+  "current_lesson": {
+   "n": 79,
+   "anchor%": 100.0,
+   "mode%": 78.5,
+   "cruft": 0
+  },
+  "guard_chitchat": {
+   "n": 24,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_offtopic": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_oob_trang": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_out_of_book": {
+   "n": 15,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_word": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_year": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "name_query": {
+   "n": 81,
+   "anchor%": 93.8,
+   "mode%": 33.3,
+   "cruft": 0
+  },
+  "practice": {
+   "n": 90,
+   "anchor%": 100.0,
+   "mode%": 94.4,
+   "cruft": 0
+  },
+  "trang_profile": {
+   "n": 42,
+   "anchor%": 64.3,
+   "mode%": 40.5,
+   "cruft": 0
+  },
+  "trang_query": {
+   "n": 45,
+   "anchor%": 55.6,
+   "mode%": 33.3,
+   "cruft": 0
+  }
+ },
+ "sample_fails": [
+  [
+   "name_query",
+   "Chỗ trang 81 tập 2 này có cách giải nhan",
+   "got lesson_practice:Chia một số thập phân  exp Ôn tập phép cộng, phép"
+  ],
+  [
+   "trang_query",
+   "giải thích cho em tại sao lại có bước tí",
+   "got lesson_card:Diện tích xung quanh v exp Bài toán giải bằng bốn"
+  ],
+  [
+   "content_only",
+   "phép tính này có tính chất giao hoán khô",
+   "got lesson_card:Ôn tập phép nhân, phép exp Nhân hai số thập phân"
+  ],
+  [
+   "trang_query",
+   "cách phân biệt 2 loại hình này thế nào ạ",
+   "got lesson_card:Ôn tập và bổ sung bài  exp Hình hộp chữ nhật, hìn"
+  ],
+  [
+   "content_only",
+   "tổng tất cả các phần trong cái hình này ",
+   "got A_concept: exp Biểu đồ hình quạt tròn"
+  ],
+  [
+   "content_only",
+   "cách tính chênh lệch giữa hai khoảng thờ",
+   "got lesson_practice:Thời gian exp Trừ số đo thời gian"
+  ],
+  [
+   "content_only",
+   "khi tính thì có cần chia 2 không ạ",
+   "got lesson_practice:Ôn tập phép nhân, phép exp Diện tích hình tam giá"
+  ],
+  [
+   "content_only",
+   "có mấy cách để tính cái này vậy ạ?",
+   "got lesson_practice:Bài toán giải bằng bốn exp Tính tỉ số phần trăm c"
+  ],
+  [
+   "trang_query",
+   "giảng lại cho em phần cộng giây với phút",
+   "got lesson_card:So sánh hai số thập ph exp Cộng số đo thời gian"
+  ],
+  [
+   "trang_query",
+   "phần này nghĩa là sao ạ? ở trang 10",
+   "got lesson_card:Tính tỉ số phần trăm c exp Ôn tập phân số"
+  ],
+  [
+   "content_only",
+   "làm sao để kết quả ở dạng tối giản nhất ",
+   "got none: exp Nhân số đo thời gian"
+  ],
+  [
+   "content_only",
+   "muốn so sánh 2 hình thì mình dựa vào cái",
+   "got A_concept: exp Thể tích của một hình"
+  ],
+  [
+   "content_only",
+   "Đơn vị này thường dùng để đo cái gì thế ",
+   "got lesson_card:Ôn tập độ dài, khối lư exp Héc-ta"
+  ],
+  [
+   "content_only",
+   "quy tắc chia đơn vị đo thời gian là gì t",
+   "got lesson_practice:Thời gian exp Chia số đo thời gian"
+  ],
+  [
+   "content_only",
+   "các đơn vị đo khối lượng liên quan gì đế",
+   "got lesson_practice:Ôn tập độ dài, khối lư exp Viết các số đo khối lư"
+  ],
+  [
+   "content_only",
+   "xét chữ số ngay bên phải là xét cái nào ",
+   "got none: exp Làm tròn số thập phân"
+  ],
+  [
+   "content_only",
+   "cho em hỏi cách tính nhẩm với số thập ph",
+   "got lesson_practice:Số thập phân exp Ôn tập phép nhân, phép"
+  ],
+  [
+   "trang_query",
+   "công thức này dùng khi nào vậy ạ ở trang",
+   "got lesson_card:Ôn tập hình phẳng và h exp Diện tích hình tam giá"
+  ],
+  [
+   "content_only",
+   "làm sao để biết phần nào chiếm tỉ lệ cao",
+   "got lesson_practice:Tính tỉ số phần trăm c exp Biểu đồ hình quạt tròn"
+  ],
+  [
+   "trang_query",
+   "giải thích kỹ hơn chỗ lấy 3 chữ số thập ",
+   "got lesson_card:Số thập phân exp Tính tỉ số phần trăm c"
+  ],
+  [
+   "content_only",
+   "em cần đếm tổng bao nhiêu chữ số sau dấu",
+   "got lesson_practice:Cộng hai số thập phân exp Nhân hai số thập phân"
+  ],
+  [
+   "trang_profile",
+   "chỉ em cách phân biệt tử và mẫu đi ạ",
+   "got lesson_practice:Nhân hai số thập phân exp Ôn tập phân số"
+  ],
+  [
+   "content_only",
+   "thêm số 0 vào cuối số thập phân có làm n",
+   "got lesson_practice:Số thập phân exp So sánh hai số thập ph"
+  ],
+  [
+   "trang_profile",
+   "Em chưa rõ cách viết phân số kèm đơn vị ",
+   "got lesson_card:Xăng-ti-mét khối exp Héc-ta"
+  ],
+  [
+   "trang_query",
+   "tại sao 45 phút lại thành 0,75 giờ ạ? ở ",
+   "got lesson_card:Viết các số đo độ dài  exp Vận tốc"
+  ],
+  [
+   "content_only",
+   "mặt xung quanh nó là mặt phẳng hay mặt c",
+   "got A_concept: exp Hình trụ"
+  ],
+  [
+   "trang_profile",
+   "giảng lại giúp em đoạn này",
+   "got lesson_card:Ôn tập độ dài, khối lư exp Hình thang"
+  ],
+  [
+   "trang_profile",
+   "giải thích cho em hiểu m3 là gì với ạ",
+   "got lesson_card:Tỉ lệ bản đồ exp Mét khối"
+  ],
+  [
+   "trang_profile",
+   "tại sao lại chia cả tử và mẫu cho cùng 1",
+   "got lesson_practice:Nhân hai số thập phân exp Ôn tập phân số"
+  ],
+  [
+   "name_query",
+   "bài Hàng của số thập phân này khó quá, g",
+   "got lesson_practice:Số thập phân exp Hàng của số thập phân."
+  ]
+ ]
+}

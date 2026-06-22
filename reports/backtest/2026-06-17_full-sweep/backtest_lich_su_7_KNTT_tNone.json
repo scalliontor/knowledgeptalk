@@ -1,0 +1,245 @@
+{
+ "book": "lich_su 7 KNTT tapNone",
+ "port": "8890",
+ "total": 500,
+ "lessons": 18,
+ "lesson_cases": 425,
+ "guard_cases": 75,
+ "errors": 0,
+ "anchor_acc": 79.1,
+ "mode_acc": 74.4,
+ "guard_acc": 100.0,
+ "cruft_on_cards": 0,
+ "latency_ms": {
+  "p50": 46.0,
+  "p95": 288.4,
+  "p99": 302.2,
+  "max": 320.8
+ },
+ "by_dimension": {
+  "content_only": {
+   "n": 88,
+   "anchor%": 17.0,
+   "mode%": 17.0,
+   "cruft": 0
+  },
+  "current_lesson": {
+   "n": 61,
+   "anchor%": 100.0,
+   "mode%": 95.1,
+   "cruft": 0
+  },
+  "guard_chitchat": {
+   "n": 24,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_offtopic": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_oob_trang": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_out_of_book": {
+   "n": 15,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_word": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_year": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "name_query": {
+   "n": 93,
+   "anchor%": 82.8,
+   "mode%": 75.3,
+   "cruft": 0
+  },
+  "practice": {
+   "n": 84,
+   "anchor%": 100.0,
+   "mode%": 94.0,
+   "cruft": 0
+  },
+  "trang_profile": {
+   "n": 42,
+   "anchor%": 100.0,
+   "mode%": 92.9,
+   "cruft": 0
+  },
+  "trang_query": {
+   "n": 57,
+   "anchor%": 100.0,
+   "mode%": 96.5,
+   "cruft": 0
+  }
+ },
+ "sample_fails": [
+  [
+   "content_only",
+   "kinh tế thời này tập trung vào cái gì th",
+   "got none: exp Đại Việt thời Lê sơ (1"
+  ],
+  [
+   "content_only",
+   "văn hóa thời này có những thành tựu gì r",
+   "got none: exp Trung Quốc từ thế kỉ V"
+  ],
+  [
+   "content_only",
+   "giai đoạn này có những thành tựu gì nổi ",
+   "got none: exp Ấn Độ từ thế kỉ IV đến"
+  ],
+  [
+   "content_only",
+   "thủ công nghiệp với thương nghiệp phát t",
+   "got A_concept: exp Quá trình hình thành v"
+  ],
+  [
+   "name_query",
+   "em cần ôn kĩ phần giai cấp tư sản và vô ",
+   "got none: exp Các cuộc phát kiến địa"
+  ],
+  [
+   "content_only",
+   "kinh tế chủ yếu là làm gì vậy ạ?",
+   "got none: exp Nhà Lý xây dựng và phá"
+  ],
+  [
+   "content_only",
+   "địa điểm nào quan trọng nhất để chặn quâ",
+   "got none: exp Cuộc kháng chiến chống"
+  ],
+  [
+   "name_query",
+   "bộ luật Hồng Đức nằm trong nội dung nào ",
+   "got none: exp Đại Việt thời Lê sơ (1"
+  ],
+  [
+   "content_only",
+   "kiến trúc đền tháp thời này có gì hay?",
+   "got none: exp Các vương quốc phong k"
+  ],
+  [
+   "content_only",
+   "giai đoạn đầu quân mình thiếu lương thực",
+   "got none: exp Khởi nghĩa Lam Sơn (14"
+  ],
+  [
+   "content_only",
+   "thành nhà hồ liên quan gì đến việc chống",
+   "got A_concept: exp Nước Đại Ngu thời Hồ ("
+  ],
+  [
+   "content_only",
+   "kiến trúc đền tháp ở đây có đặc điểm gì ",
+   "got none: exp Vương quốc Chăm-pa và "
+  ],
+  [
+   "name_query",
+   "cho em hỏi Shakespeare là tác giả của tá",
+   "got A_concept: exp Phong trào văn hóa Phụ"
+  ],
+  [
+   "content_only",
+   "ngoài nông nghiệp thì thương nghiệp có p",
+   "got A_concept: exp Đại Việt thời Trần (12"
+  ],
+  [
+   "content_only",
+   "các tầng lớp trong xã hội gồm những ai ạ",
+   "got none: exp Đại Việt thời Trần (12"
+  ],
+  [
+   "content_only",
+   "vào thế kỉ 14 thì có sự kiện gì đặc biệt",
+   "got none: exp Vương quốc Lào"
+  ],
+  [
+   "content_only",
+   "thời này có gì nổi bật về kinh tế không ",
+   "got none: exp Đại Việt thời Trần (12"
+  ],
+  [
+   "content_only",
+   "về giáo dục thì có những gì nổi bật?",
+   "got A_concept: exp Nhà Lý xây dựng và phá"
+  ],
+  [
+   "content_only",
+   "văn hóa ở đây có gì đặc biệt so với các ",
+   "got none: exp Vương quốc Chăm-pa và "
+  ],
+  [
+   "content_only",
+   "sau khi thắng thì mình làm gì để kết thú",
+   "got none: exp Cuộc kháng chiến chống"
+  ],
+  [
+   "content_only",
+   "việc thi cử thời này dùng để làm gì?",
+   "got none: exp Đại Việt thời Lê sơ (1"
+  ],
+  [
+   "content_only",
+   "thời kỳ này có những thành tựu khoa học ",
+   "got none: exp Phong trào văn hóa Phụ"
+  ],
+  [
+   "content_only",
+   "ngoài nông nghiệp thì họ còn làm gì nữa ",
+   "got none: exp Vương quốc Chăm-pa và "
+  ],
+  [
+   "name_query",
+   "kiến trúc Angkor Wat thuộc bài nào trong",
+   "got A_concept: exp Vương quốc Cam-pu-chia"
+  ],
+  [
+   "content_only",
+   "thời kỳ nào là phát triển nhất của vương",
+   "got A_concept: exp Vương quốc Cam-pu-chia"
+  ],
+  [
+   "content_only",
+   "hệ thống thủy lợi được gọi là gì thế ạ?",
+   "got none: exp Vương quốc Cam-pu-chia"
+  ],
+  [
+   "name_query",
+   "nhắc lại giúp em kiến thức về Đinh Bộ Lĩ",
+   "got none: exp Đại Cồ Việt thời Đinh "
+  ],
+  [
+   "name_query",
+   "Leonardo da Vinci có những đóng góp gì c",
+   "got none: exp Phong trào văn hóa Phụ"
+  ],
+  [
+   "content_only",
+   "hội nghị Diên hồng có liên quan gì đến v",
+   "got none: exp Ba lần kháng chiến chố"
+  ],
+  [
+   "content_only",
+   "tôn giáo nào phát triển mạnh nhất thời n",
+   "got A_concept: exp Đại Cồ Việt thời Đinh "
+  ]
+ ]
+}

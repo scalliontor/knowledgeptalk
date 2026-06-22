@@ -1,0 +1,245 @@
+{
+ "book": "dia_li 9 CTST tapNone",
+ "port": "8890",
+ "total": 500,
+ "lessons": 23,
+ "lesson_cases": 425,
+ "guard_cases": 75,
+ "errors": 0,
+ "anchor_acc": 77.4,
+ "mode_acc": 62.4,
+ "guard_acc": 100.0,
+ "cruft_on_cards": 0,
+ "latency_ms": {
+  "p50": 40.1,
+  "p95": 209.4,
+  "p99": 258.4,
+  "max": 271.4
+ },
+ "by_dimension": {
+  "content_only": {
+   "n": 103,
+   "anchor%": 27.2,
+   "mode%": 19.4,
+   "cruft": 0
+  },
+  "current_lesson": {
+   "n": 74,
+   "anchor%": 97.3,
+   "mode%": 89.2,
+   "cruft": 0
+  },
+  "guard_chitchat": {
+   "n": 24,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_offtopic": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_oob_trang": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_out_of_book": {
+   "n": 15,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_word": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_year": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "name_query": {
+   "n": 95,
+   "anchor%": 85.3,
+   "mode%": 37.9,
+   "cruft": 0
+  },
+  "practice": {
+   "n": 92,
+   "anchor%": 96.7,
+   "mode%": 92.4,
+   "cruft": 0
+  },
+  "trang_profile": {
+   "n": 27,
+   "anchor%": 92.6,
+   "mode%": 92.6,
+   "cruft": 0
+  },
+  "trang_query": {
+   "n": 34,
+   "anchor%": 100.0,
+   "mode%": 97.1,
+   "cruft": 0
+  }
+ },
+ "sample_fails": [
+  [
+   "content_only",
+   "than đá chiếm bao nhiêu phần trăm trữ lư",
+   "got none: exp Thực hành: Sưu tầm tư "
+  ],
+  [
+   "content_only",
+   "cho em hỏi về dân cư và các dân tộc ở đâ",
+   "got none: exp Duyên hải Nam Trung Bộ"
+  ],
+  [
+   "name_query",
+   "bài dân cư và dân tộc lớp 9 có công thức",
+   "got A_concept: exp Dân cư và dân tộc, chấ"
+  ],
+  [
+   "content_only",
+   "địa hình ở đây như thế nào thế ạ?",
+   "got none: exp Thực hành: Viết báo cá"
+  ],
+  [
+   "name_query",
+   "giúp em ôn tập bài dân cư và dân tộc với",
+   "got none: exp Dân cư và dân tộc, chấ"
+  ],
+  [
+   "content_only",
+   "biến đổi khí hậu ảnh hưởng gì đến biển m",
+   "got lesson_card:Thực hành: Phân tích t exp Phát triển tổng hợp ki"
+  ],
+  [
+   "content_only",
+   "sông ngòi ở đây thế nào ạ?",
+   "got none: exp Vùng Đồng bằng sông Cử"
+  ],
+  [
+   "content_only",
+   "khí hậu ở đây có gì đặc biệt ko ạ?",
+   "got none: exp Vùng Đồng bằng sông Cử"
+  ],
+  [
+   "name_query",
+   "bài Thực hành về Bắc Trung Bộ này có nhữ",
+   "got lesson_practice:Bắc Trung Bộ exp Thực hành: Tìm hiểu vấ"
+  ],
+  [
+   "content_only",
+   "cái này có phải là sản phẩm phi vật thể ",
+   "got none: exp Dịch vụ"
+  ],
+  [
+   "content_only",
+   "vị trí của nó có gì thuận lợi cho giao t",
+   "got none: exp Vùng Đông Nam Bộ"
+  ],
+  [
+   "content_only",
+   "mấy cái nhân tố tự nhiên với kinh tế xã ",
+   "got none: exp Dịch vụ"
+  ],
+  [
+   "content_only",
+   "địa hình ở đây đa dạng như thế nào ạ?",
+   "got none: exp Thực hành: Vẽ sơ đồ th"
+  ],
+  [
+   "content_only",
+   "cát bay thì gây hại gì cho cây trồng vậy",
+   "got none: exp Thực hành: Phân tích ả"
+  ],
+  [
+   "content_only",
+   "nói về việc trồng cây chắn sóng thì là ở",
+   "got none: exp Thực hành: Tìm hiểu vấ"
+  ],
+  [
+   "content_only",
+   "cho em hỏi cái này có bao gồm cả việc bả",
+   "got none: exp Nông nghiệp, lâm nghiệ"
+  ],
+  [
+   "content_only",
+   "vùng này có đặc điểm gì về dân cư vậy ạ?",
+   "got lesson_card:Phân bố dân cư và các  exp Vùng Đồng bằng sông Hồ"
+  ],
+  [
+   "trang_profile",
+   "giải thích giúp em tại sao lại là cây cô",
+   "got lesson_card:Công nghiệp exp Vùng Tây Nguyên"
+  ],
+  [
+   "name_query",
+   "cách vẽ sơ đồ thể hiện thế mạnh tự nhiên",
+   "got lesson_card:Vùng Trung du và miền  exp Thực hành: Vẽ sơ đồ th"
+  ],
+  [
+   "content_only",
+   "vị trí của khu vực này có thuận lợi gì k",
+   "got none: exp Vùng Đồng bằng sông Hồ"
+  ],
+  [
+   "name_query",
+   "bài về ứng phó biến đổi khí hậu ở Bắc Tr",
+   "got lesson_practice:Bắc Trung Bộ exp Thực hành: Tìm hiểu vấ"
+  ],
+  [
+   "content_only",
+   "rừng sản xuất với rừng phòng hộ khác nha",
+   "got none: exp Nông nghiệp, lâm nghiệ"
+  ],
+  [
+   "content_only",
+   "khí hậu ở đây có gì đặc biệt để trồng câ",
+   "got lesson_card:Vùng Tây Nguyên exp Thực hành: Vẽ sơ đồ th"
+  ],
+  [
+   "content_only",
+   "thương mại hiện nay chủ yếu là kiểu gì t",
+   "got none: exp Dịch vụ"
+  ],
+  [
+   "current_lesson",
+   "tại sao địa hình ở đây lại giúp phát tri",
+   "got A_concept: exp Thực hành: Vẽ sơ đồ th"
+  ],
+  [
+   "content_only",
+   "vùng này có những loại cây công nghiệp n",
+   "got lesson_card:Công nghiệp exp Bắc Trung Bộ"
+  ],
+  [
+   "content_only",
+   "vùng này có những loại tài nguyên biển n",
+   "got lesson_card:Phát triển tổng hợp ki exp Duyên hải Nam Trung Bộ"
+  ],
+  [
+   "content_only",
+   "mấy cái điều kiện đất với nước có ảnh hư",
+   "got lesson_card:Thực hành: Phân tích t exp Nông nghiệp, lâm nghiệ"
+  ],
+  [
+   "practice",
+   "làm sao để phân biệt các nhánh bằng màu ",
+   "got A_concept: exp Thực hành: Vẽ sơ đồ th"
+  ],
+  [
+   "content_only",
+   "mấy cái biện pháp bảo vệ đê điều là dành",
+   "got none: exp Thực hành: Tìm hiểu vấ"
+  ]
+ ]
+}

@@ -1,0 +1,130 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://ptalk.local/schemas/backtest_case.v1.json",
+  "title": "Backtest Golden Case v1",
+  "description": "One curated golden case for the Knowledge PTalk RAG backtest. A golden case is a hand-pinned (subject, grade, book, volume, page, current_lesson) context + a student utterance + the EXPECTED retrieval outcome. Golden cases are the deterministic, version-controlled subset (Layer 2 'golden routing' in docs/backtest/methodology.md), distinct from the Gemma-generated ~500-per-book cases (Layer 3 'full sweep'). Field semantics mirror rag_edu/scripts/schema_v3_2026_06/backtest_book.py so a golden case can be replayed against /retrieve with the same scoring (anchor = norm(work_name)==norm(expected); guard = tier not in CARD_TIERS).",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "id",
+    "subject",
+    "grade",
+    "book_set",
+    "utterance",
+    "intent",
+    "in_scope",
+    "should_refuse"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Stable unique id. Convention: <subject>-<grade>-<book_set>[-t<volume>]-<seq>, e.g. 'toan-4-CTST-007'. Must be unique within a golden set and stable across runs (used to join before/after in compare_runs).",
+      "pattern": "^[a-z0-9_]+(-[a-zA-Z0-9_]+)+$"
+    },
+    "subject": {
+      "type": "string",
+      "description": "subject_code as stored in Neo4j :Lesson.subject_code.",
+      "enum": ["toan", "khtn", "lich_su", "dia_li", "gdcd", "ngu_van", "tieng_viet"]
+    },
+    "grade": {
+      "type": "integer",
+      "description": "Lớp / grade. SGK range covered today is 4-9.",
+      "minimum": 1,
+      "maximum": 12
+    },
+    "book_set": {
+      "type": "string",
+      "description": "bo_sach / publisher set.",
+      "enum": ["CTST", "KNTT", "CD"]
+    },
+    "volume": {
+      "type": ["integer", "null"],
+      "description": "tap_no (1 or 2) when the book is split into volumes, else null. CRITICAL for volume-collision: page numbers reset between tap 1 and tap 2, so volume must scope page lookups (see invariant 'Không trùng tập 1/2').",
+      "enum": [1, 2, null]
+    },
+    "page": {
+      "type": ["integer", "null"],
+      "description": "trang the speaker says they have open (the 'trang' the client passes, or a page named in the utterance). null when the case carries no page context.",
+      "minimum": 1
+    },
+    "current_lesson_id": {
+      "type": ["string", "null"],
+      "description": "The client-supplied current_lesson context (work_name or lesson key the speaker is sitting on). This is the #1 structured anchor in the routing chain (current_lesson -> name -> trang+tap -> content-vector). null simulates the 'client sends {}' degraded case."
+    },
+    "utterance": {
+      "type": "string",
+      "description": "The raw student-voice query sent as `query` to /retrieve. Keep it natural (may omit diacritics / be teen-speak) to mirror real ASR output.",
+      "minLength": 1
+    },
+    "intent": {
+      "type": "string",
+      "description": "What the student is trying to do. Drives expected `mode`/tier. 'chitchat'/'offtopic'/'out_of_scope' imply should_refuse=true.",
+      "enum": [
+        "explain",
+        "content_only",
+        "name_query",
+        "trang_query",
+        "practice",
+        "recite",
+        "chitchat",
+        "offtopic",
+        "out_of_scope"
+      ]
+    },
+    "expected_node_id": {
+      "type": ["string", "null"],
+      "description": "Ground-truth target. The :Lesson.work_name that MUST be anchored (compared via norm() == norm()). null when should_refuse=true (a correct refusal anchors nothing). For non-refusal cases this is required (enforced by allOf below)."
+    },
+    "expected_tier": {
+      "type": ["string", "null"],
+      "description": "Optional expected serving tier for `mode` scoring. One of the CARD_TIERS for answerable cases, or a non-card tier ('none'/'noncard') for refusals.",
+      "enum": [
+        "lesson_card",
+        "lesson_practice",
+        "lesson_recite",
+        "none",
+        "noncard",
+        null
+      ]
+    },
+    "in_scope": {
+      "type": "boolean",
+      "description": "True if the requested content actually exists inside (subject, grade, book_set, volume). False for out-of-book / cross-grade / out-of-page-range probes."
+    },
+    "should_refuse": {
+      "type": "boolean",
+      "description": "True if the correct behavior is to NOT emit a lesson card (guard case). Scored like backtest_book.py guard: pass = returned tier not in CARD_TIERS. When true, expected_node_id should be null."
+    },
+    "tags": {
+      "type": "array",
+      "description": "Free-form labels for slicing (e.g. 'long_math_title','volume_collision','trap_year','title_norm'). Used by reporters.py slice tables and to target known weak slices.",
+      "items": { "type": "string" },
+      "uniqueItems": true,
+      "default": []
+    },
+    "notes": {
+      "type": "string",
+      "description": "Optional human note: why this case exists, which regression it pins, source of ground truth."
+    }
+  },
+  "allOf": [
+    {
+      "if": { "properties": { "should_refuse": { "const": true } } },
+      "then": {
+        "properties": {
+          "expected_node_id": { "const": null },
+          "in_scope": { "const": false }
+        }
+      }
+    },
+    {
+      "if": { "properties": { "should_refuse": { "const": false } } },
+      "then": {
+        "required": ["expected_node_id"],
+        "properties": {
+          "expected_node_id": { "type": "string", "minLength": 1 }
+        }
+      }
+    }
+  ]
+}

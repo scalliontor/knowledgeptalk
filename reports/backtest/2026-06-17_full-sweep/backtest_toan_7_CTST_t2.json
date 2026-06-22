@@ -1,0 +1,245 @@
+{
+ "book": "toan 7 CTST tap2",
+ "port": "8890",
+ "total": 500,
+ "lessons": 18,
+ "lesson_cases": 425,
+ "guard_cases": 75,
+ "errors": 0,
+ "anchor_acc": 88.2,
+ "mode_acc": 64.2,
+ "guard_acc": 100.0,
+ "cruft_on_cards": 0,
+ "latency_ms": {
+  "p50": 39.9,
+  "p95": 297.6,
+  "p99": 324.1,
+  "max": 528.2
+ },
+ "by_dimension": {
+  "content_only": {
+   "n": 83,
+   "anchor%": 45.8,
+   "mode%": 20.5,
+   "cruft": 0
+  },
+  "current_lesson": {
+   "n": 66,
+   "anchor%": 100.0,
+   "mode%": 81.8,
+   "cruft": 0
+  },
+  "guard_chitchat": {
+   "n": 24,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_offtopic": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_oob_trang": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_out_of_book": {
+   "n": 15,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_word": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_year": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "name_query": {
+   "n": 92,
+   "anchor%": 96.7,
+   "mode%": 46.7,
+   "cruft": 0
+  },
+  "practice": {
+   "n": 87,
+   "anchor%": 100.0,
+   "mode%": 89.7,
+   "cruft": 0
+  },
+  "trang_profile": {
+   "n": 39,
+   "anchor%": 97.4,
+   "mode%": 87.2,
+   "cruft": 0
+  },
+  "trang_query": {
+   "n": 58,
+   "anchor%": 98.3,
+   "mode%": 81.0,
+   "cruft": 0
+  }
+ },
+ "sample_fails": [
+  [
+   "content_only",
+   "tìm x khi biết một tỉ số khác với em",
+   "got none: exp Tỉ lệ thức - Dãy tỉ số"
+  ],
+  [
+   "content_only",
+   "nếu biết khoảng cách đến 1 cạnh thì tính",
+   "got lesson_practice:Góc và cạnh của một ta exp Tính chất ba đường phâ"
+  ],
+  [
+   "content_only",
+   "tổng số kết quả có thể xảy ra là gì thế ",
+   "got none: exp Làm quen với xác suất "
+  ],
+  [
+   "name_query",
+   "bài này có công thức gì cần nhớ ko ạ?",
+   "got A_concept: exp Tính chất ba đường phâ"
+  ],
+  [
+   "trang_profile",
+   "giải thích hộ em cái ví dụ tam giác cân ",
+   "got lesson_practice:Tam giác cân exp Đường trung trực của m"
+  ],
+  [
+   "content_only",
+   "tổng 3 góc trong cái hình này là bao nhi",
+   "got lesson_practice:Góc và cạnh của một ta exp Tam giác cân"
+  ],
+  [
+   "content_only",
+   "trong tam giác vuông thì cái điểm đó nằm",
+   "got lesson_card:Tính chất ba đường cao exp Tính chất ba đường tru"
+  ],
+  [
+   "content_only",
+   "số thập phân hay phân số thì dùng cái nà",
+   "got A_concept: exp Làm quen với xác suất "
+  ],
+  [
+   "content_only",
+   "nếu biết khoảng cách từ điểm đó đến 1 đỉ",
+   "got A_concept: exp Tính chất ba đường tru"
+  ],
+  [
+   "content_only",
+   "điểm mà 3 đường nối từ đỉnh tới trung đi",
+   "got lesson_card:Tính chất ba đường cao exp Tính chất ba đường tru"
+  ],
+  [
+   "content_only",
+   "cho biết quãng đường 200km, vận tốc 50km",
+   "got A_concept: exp Đại lượng tỉ lệ nghịch"
+  ],
+  [
+   "content_only",
+   "nếu biết 2 cạnh và góc xen giữa thì gọi ",
+   "got lesson_practice:Tam giác cân exp Tam giác bằng nhau"
+  ],
+  [
+   "content_only",
+   "cách tính chu vi hình chữ nhật thế nào ạ",
+   "got A_concept: exp Biểu thức số, biểu thứ"
+  ],
+  [
+   "content_only",
+   "làm sao để biết điểm đó là tâm đường trò",
+   "got A_concept: exp Tính chất ba đường phâ"
+  ],
+  [
+   "content_only",
+   "tìm giá trị của x khi biết y và tích x.y",
+   "got A_concept: exp Đại lượng tỉ lệ nghịch"
+  ],
+  [
+   "content_only",
+   "trong tam giác vuông thì có trường hợp đ",
+   "got A_concept: exp Tam giác bằng nhau"
+  ],
+  [
+   "trang_query",
+   "giải thích kỹ lại phần chia đa thức một ",
+   "got lesson_card:Đa thức một biến exp Phép nhân và phép chia"
+  ],
+  [
+   "content_only",
+   "cho biết trung điểm cạnh đối diện thì gọ",
+   "got A_concept: exp Tính chất ba đường tru"
+  ],
+  [
+   "content_only",
+   "làm sao để tính tổng của hai cái đa thức",
+   "got A_concept: exp Phép cộng và phép trừ "
+  ],
+  [
+   "content_only",
+   "cho x = 3 y = -10 thì tìm a thế nào ạ",
+   "got none: exp Đại lượng tỉ lệ nghịch"
+  ],
+  [
+   "content_only",
+   "điểm nằm trên đường này thì có gì đặc bi",
+   "got A_concept: exp Đường trung trực của m"
+  ],
+  [
+   "content_only",
+   "quy tắc nhân mấy cái x^n với x^m là gì v",
+   "got none: exp Phép nhân và phép chia"
+  ],
+  [
+   "content_only",
+   "cách nhóm các hạng tử cùng bậc là như nà",
+   "got none: exp Phép cộng và phép trừ "
+  ],
+  [
+   "content_only",
+   "trong tam giác thì cạnh với góc có liên ",
+   "got lesson_card:Góc và cạnh của một ta exp Đường vuông góc và đườ"
+  ],
+  [
+   "content_only",
+   "trong hộp có bóng thì việc lấy bóng là g",
+   "got none: exp Làm quen với biến cố n"
+  ],
+  [
+   "content_only",
+   "cái việc tung đồng xu thì gọi là gì ạ?",
+   "got none: exp Làm quen với biến cố n"
+  ],
+  [
+   "name_query",
+   "bài này trong ctst là bài gì ấy nhỉ?",
+   "got none: exp Tính chất ba đường tru"
+  ],
+  [
+   "content_only",
+   "khi nào thì gọi là một số là nghiệm ạ?",
+   "got none: exp Đa thức một biến"
+  ],
+  [
+   "content_only",
+   "nếu x tăng 2 lần thì y sẽ giảm đi mấy lầ",
+   "got none: exp Đại lượng tỉ lệ nghịch"
+  ],
+  [
+   "content_only",
+   "muốn tìm đa thức mới thì phải làm gì?",
+   "got A_concept: exp Phép cộng và phép trừ "
+  ]
+ ]
+}

@@ -1,0 +1,235 @@
+{
+ "book": "gdcd 7 CD tapNone",
+ "port": "8890",
+ "total": 435,
+ "lessons": 12,
+ "lesson_cases": 360,
+ "guard_cases": 75,
+ "errors": 0,
+ "anchor_acc": 92.2,
+ "mode_acc": 80.8,
+ "guard_acc": 100.0,
+ "cruft_on_cards": 19,
+ "latency_ms": {
+  "p50": 38.5,
+  "p95": 190.9,
+  "p99": 266.5,
+  "max": 498.0
+ },
+ "by_dimension": {
+  "content_only": {
+   "n": 72,
+   "anchor%": 61.1,
+   "mode%": 29.2,
+   "cruft": 1
+  },
+  "current_lesson": {
+   "n": 60,
+   "anchor%": 100.0,
+   "mode%": 100.0,
+   "cruft": 5
+  },
+  "guard_chitchat": {
+   "n": 24,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_offtopic": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_oob_trang": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_out_of_book": {
+   "n": 15,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_word": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_year": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "name_query": {
+   "n": 72,
+   "anchor%": 100.0,
+   "mode%": 80.6,
+   "cruft": 6
+  },
+  "practice": {
+   "n": 72,
+   "anchor%": 100.0,
+   "mode%": 94.4,
+   "cruft": 0
+  },
+  "trang_profile": {
+   "n": 36,
+   "anchor%": 100.0,
+   "mode%": 100.0,
+   "cruft": 3
+  },
+  "trang_query": {
+   "n": 48,
+   "anchor%": 100.0,
+   "mode%": 100.0,
+   "cruft": 4
+  }
+ },
+ "sample_fails": [
+  [
+   "content_only",
+   "làm sao để ko bị mấy đứa xấu lôi kéo ạ?",
+   "got none: exp Ứng phó với bạo lực họ"
+  ],
+  [
+   "content_only",
+   "đừng có đứng xem là phải làm gì tiếp the",
+   "got none: exp Ứng phó với bạo lực họ"
+  ],
+  [
+   "content_only",
+   "nói một đằng làm một nẻo thì gọi là gì t",
+   "got none: exp Giữ chữ tín"
+  ],
+  [
+   "content_only",
+   "những thứ truyền lại từ đời trước gọi là",
+   "got none: exp Bảo tồn di sản văn hóa"
+  ],
+  [
+   "content_only",
+   "phân biệt giữa truyền thống với hủ tục t",
+   "got A_concept: exp Tự hào về truyền thống"
+  ],
+  [
+   "content_only",
+   "mấy cái hành vi tiêu cực gây hại cho xã ",
+   "got lesson_practice:Tệ nạn xã hội exp Thực hiện phòng, chống"
+  ],
+  [
+   "content_only",
+   "việc tự tìm thêm tài liệu thì gọi là gì ",
+   "got none: exp Học tập tự giác, tích "
+  ],
+  [
+   "content_only",
+   "phân biệt nhu cầu với mong muốn thế nào ",
+   "got none: exp Quản lí tiền"
+  ],
+  [
+   "content_only",
+   "nguyên nhân dẫn đến mấy cái việc này là ",
+   "got none: exp Tệ nạn xã hội"
+  ],
+  [
+   "content_only",
+   "nghe nhạc hay tập yoga thì có giúp ích g",
+   "got none: exp Ứng phó với tâm lí căn"
+  ],
+  [
+   "content_only",
+   "nếu mải xem phim mà quên cả học thì có p",
+   "got none: exp Giữ chữ tín"
+  ],
+  [
+   "content_only",
+   "mấy cái hành vi sai trái với pháp luật l",
+   "got none: exp Tệ nạn xã hội"
+  ],
+  [
+   "content_only",
+   "việc cô lập bạn bè thì gọi là gì thế ạ?",
+   "got none: exp Bạo lực học đường"
+  ],
+  [
+   "content_only",
+   "người ta lưu truyền mấy cái giá trị này ",
+   "got none: exp Tự hào về truyền thống"
+  ],
+  [
+   "content_only",
+   "vật cổ tìm thấy khi xây nhà thì làm gì ạ",
+   "got none: exp Bảo tồn di sản văn hóa"
+  ],
+  [
+   "content_only",
+   "công thức tính toán tiền nong như nào ạ?",
+   "got none: exp Quản lí tiền"
+  ],
+  [
+   "content_only",
+   "vừa bị đánh xong thì hậu quả nó kinh khủ",
+   "got none: exp Ứng phó với bạo lực họ"
+  ],
+  [
+   "content_only",
+   "mấy cái lễ hội với nghệ thuật thì thuộc ",
+   "got none: exp Tự hào về truyền thống"
+  ],
+  [
+   "content_only",
+   "tại sao chuyện này lại làm gia đình tan ",
+   "got none: exp Tệ nạn xã hội"
+  ],
+  [
+   "content_only",
+   "làm thế nào để xây dựng lối sống lành mạ",
+   "got none: exp Thực hiện phòng, chống"
+  ],
+  [
+   "content_only",
+   "nếu làm quá mức thì có sao không ạ?",
+   "got none: exp Quan tâm, cảm thông và"
+  ],
+  [
+   "content_only",
+   "hậu quả của mấy việc này ghê lắm đúng ko",
+   "got lesson_card:Tệ nạn xã hội exp Bạo lực học đường"
+  ],
+  [
+   "content_only",
+   "việc này có tác dụng gì trong cuộc sống ",
+   "got none: exp Quan tâm, cảm thông và"
+  ],
+  [
+   "content_only",
+   "nếu bị rủ rê chơi bời không lành mạnh th",
+   "got none: exp Thực hiện phòng, chống"
+  ],
+  [
+   "content_only",
+   "biểu hiện của việc này là gì vậy ạ?",
+   "got none: exp Quan tâm, cảm thông và"
+  ],
+  [
+   "content_only",
+   "nếu bị đe dọa thì phải làm sao để an toà",
+   "got none: exp Ứng phó với bạo lực họ"
+  ],
+  [
+   "content_only",
+   "tại sao lại nói việc kiên trì vượt khó l",
+   "got none: exp Học tập tự giác, tích "
+  ],
+  [
+   "content_only",
+   "mấy cái vụ lôi kéo bạn bè xấu là do đâu ",
+   "got none: exp Tệ nạn xã hội"
+  ]
+ ]
+}

@@ -1,0 +1,245 @@
+{
+ "book": "toan 7 KNTT tap2",
+ "port": "8890",
+ "total": 500,
+ "lessons": 18,
+ "lesson_cases": 425,
+ "guard_cases": 75,
+ "errors": 0,
+ "anchor_acc": 89.2,
+ "mode_acc": 63.3,
+ "guard_acc": 100.0,
+ "cruft_on_cards": 0,
+ "latency_ms": {
+  "p50": 40.0,
+  "p95": 279.4,
+  "p99": 294.5,
+  "max": 330.1
+ },
+ "by_dimension": {
+  "content_only": {
+   "n": 90,
+   "anchor%": 53.3,
+   "mode%": 23.3,
+   "cruft": 0
+  },
+  "current_lesson": {
+   "n": 61,
+   "anchor%": 100.0,
+   "mode%": 85.2,
+   "cruft": 0
+  },
+  "guard_chitchat": {
+   "n": 24,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_offtopic": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_oob_trang": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_out_of_book": {
+   "n": 15,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_word": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_year": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "name_query": {
+   "n": 92,
+   "anchor%": 95.7,
+   "mode%": 39.1,
+   "cruft": 0
+  },
+  "practice": {
+   "n": 86,
+   "anchor%": 100.0,
+   "mode%": 93.0,
+   "cruft": 0
+  },
+  "trang_profile": {
+   "n": 40,
+   "anchor%": 100.0,
+   "mode%": 85.0,
+   "cruft": 0
+  },
+  "trang_query": {
+   "n": 56,
+   "anchor%": 100.0,
+   "mode%": 82.1,
+   "cruft": 0
+  }
+ },
+ "sample_fails": [
+  [
+   "content_only",
+   "công thức y bằng a chia x là như nào thế",
+   "got lesson_practice:Đại lượng tỉ lệ thuận exp Đại lượng tỉ lệ nghịch"
+  ],
+  [
+   "content_only",
+   "nếu a chia b bằng c chia d thì tích của ",
+   "got A_concept: exp Tỉ lệ thức"
+  ],
+  [
+   "content_only",
+   "công thức tính Sxq của hình này là gì vậ",
+   "got A_concept: exp Hình hộp chữ nhật và h"
+  ],
+  [
+   "content_only",
+   "tính giá trị của nó tại x bằng mấy đó ạ",
+   "got lesson_card:Đại lượng tỉ lệ thuận exp Đa thức một biến"
+  ],
+  [
+   "content_only",
+   "có mấy mức độ xảy ra của một biến cố thế",
+   "got lesson_card:Làm quen với biến cố exp Làm quen với xác suất "
+  ],
+  [
+   "content_only",
+   "chiều cao của nó tính thế nào ạ?",
+   "got none: exp Hình lăng trụ đứng tam"
+  ],
+  [
+   "content_only",
+   "cho em hỏi nếu biết độ dài 3 cạnh thì là",
+   "got lesson_practice:Quan hệ giữa ba cạnh c exp Quan hệ giữa góc và cạ"
+  ],
+  [
+   "content_only",
+   "hình này có mấy đường chéo ạ?",
+   "got A_concept: exp Hình hộp chữ nhật và h"
+  ],
+  [
+   "content_only",
+   "điểm cách đều 3 cạnh là điểm nào thế ạ?",
+   "got none: exp Sự đồng quy của ba đườ"
+  ],
+  [
+   "content_only",
+   "hình này có các mặt bên là hình gì thế ạ",
+   "got A_concept: exp Hình lăng trụ đứng tam"
+  ],
+  [
+   "content_only",
+   "làm sao để nhân mấy cái x này với nhau ạ",
+   "got none: exp Phép nhân đa thức một "
+  ],
+  [
+   "content_only",
+   "cái sự việc ngẫu nhiên là thế nào ạ?",
+   "got none: exp Làm quen với biến cố"
+  ],
+  [
+   "content_only",
+   "cách tính diện tích hình thang ntn ạ?",
+   "got A_concept: exp Biểu thức đại số"
+  ],
+  [
+   "content_only",
+   "cái điểm cách đều 3 đỉnh là điểm gì vậy ",
+   "got A_concept: exp Sự đồng quy của ba đườ"
+  ],
+  [
+   "name_query",
+   "bài này có cần nhớ công thức tính S hay ",
+   "got A_concept: exp Biểu thức đại số"
+  ],
+  [
+   "content_only",
+   "làm sao để biết đâu là hệ số cao nhất ạ",
+   "got none: exp Đa thức một biến"
+  ],
+  [
+   "content_only",
+   "nếu dư khác 0 thì gọi là gì ạ",
+   "got none: exp Phép chia đa thức một "
+  ],
+  [
+   "content_only",
+   "điểm đó có tính chất gì đặc biệt so với ",
+   "got lesson_card:Quan hệ giữa ba cạnh c exp Sự đồng quy của ba đườ"
+  ],
+  [
+   "content_only",
+   "hệ số tự do là cái nào trong cái này vậy",
+   "got none: exp Đa thức một biến"
+  ],
+  [
+   "name_query",
+   "bài toán về trực tâm và tâm đường tròn n",
+   "got A_concept: exp Sự đồng quy của ba đườ"
+  ],
+  [
+   "content_only",
+   "quy tắc nhân dấu thế nào cho đúng ạ?",
+   "got A_concept: exp Phép nhân đa thức một "
+  ],
+  [
+   "content_only",
+   "làm sao để tìm được hằng số a vậy ạ?",
+   "got none: exp Đại lượng tỉ lệ nghịch"
+  ],
+  [
+   "content_only",
+   "hai tỉ số bằng nhau thì gọi là gì ạ?",
+   "got lesson_practice:Tính chất của dãy tỉ s exp Tỉ lệ thức"
+  ],
+  [
+   "content_only",
+   "muốn biết x có là nghiệm ko thì làm sao ",
+   "got none: exp Đa thức một biến"
+  ],
+  [
+   "content_only",
+   "muốn tìm x trong x/6 = 0,8/1,2 thì làm n",
+   "got none: exp Tỉ lệ thức"
+  ],
+  [
+   "content_only",
+   "công thức tính chu vi hình chữ nhật là g",
+   "got lesson_card:Hình hộp chữ nhật và h exp Biểu thức đại số"
+  ],
+  [
+   "content_only",
+   "làm sao để biết là dùng cộng hay dùng tr",
+   "got lesson_practice:Phép cộng và phép trừ  exp Tính chất của dãy tỉ s"
+  ],
+  [
+   "content_only",
+   "biến cố là gì thế ạ?",
+   "got lesson_card:Làm quen với biến cố exp Làm quen với xác suất "
+  ],
+  [
+   "content_only",
+   "em muốn biết cách tìm x y khi biết tổng ",
+   "got none: exp Tính chất của dãy tỉ s"
+  ],
+  [
+   "content_only",
+   "cho em hỏi diện tích xung quanh tính the",
+   "got A_concept: exp Hình hộp chữ nhật và h"
+  ]
+ ]
+}

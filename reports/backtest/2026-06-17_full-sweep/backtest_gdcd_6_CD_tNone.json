@@ -1,0 +1,210 @@
+{
+ "book": "gdcd 6 CD tapNone",
+ "port": "8890",
+ "total": 435,
+ "lessons": 12,
+ "lesson_cases": 360,
+ "guard_cases": 75,
+ "errors": 0,
+ "anchor_acc": 93.6,
+ "mode_acc": 72.2,
+ "guard_acc": 100.0,
+ "cruft_on_cards": 19,
+ "latency_ms": {
+  "p50": 39.1,
+  "p95": 182.3,
+  "p99": 201.3,
+  "max": 274.3
+ },
+ "by_dimension": {
+  "content_only": {
+   "n": 72,
+   "anchor%": 68.1,
+   "mode%": 22.2,
+   "cruft": 0
+  },
+  "current_lesson": {
+   "n": 60,
+   "anchor%": 100.0,
+   "mode%": 96.7,
+   "cruft": 5
+  },
+  "guard_chitchat": {
+   "n": 24,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_offtopic": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_oob_trang": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_out_of_book": {
+   "n": 15,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_word": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_year": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "name_query": {
+   "n": 72,
+   "anchor%": 100.0,
+   "mode%": 61.1,
+   "cruft": 6
+  },
+  "practice": {
+   "n": 72,
+   "anchor%": 100.0,
+   "mode%": 93.1,
+   "cruft": 1
+  },
+  "trang_profile": {
+   "n": 36,
+   "anchor%": 100.0,
+   "mode%": 91.7,
+   "cruft": 3
+  },
+  "trang_query": {
+   "n": 48,
+   "anchor%": 100.0,
+   "mode%": 87.5,
+   "cruft": 4
+  }
+ },
+ "sample_fails": [
+  [
+   "content_only",
+   "nếu mình tự chăm sóc bản thân thì gọi là",
+   "got none: exp Tự lập"
+  ],
+  [
+   "content_only",
+   "việc chia sẻ đồ cũ cho vùng lũ có được g",
+   "got none: exp Yêu thương con người"
+  ],
+  [
+   "content_only",
+   "nếu mình biết lắng nghe người khác thì c",
+   "got none: exp Tự nhận thức bản thân"
+  ],
+  [
+   "content_only",
+   "nỗ lực học tập thì có liên quan gì đến b",
+   "got lesson_card:Siêng năng, kiên trì exp Tự hào về truyền thống"
+  ],
+  [
+   "content_only",
+   "nếu mình nói dối để đỡ bị mắng thì có tố",
+   "got none: exp Tôn trọng sự thật"
+  ],
+  [
+   "content_only",
+   "việc bị đánh đập thì là xâm phạm cái gì ",
+   "got none: exp Quyền trẻ em"
+  ],
+  [
+   "content_only",
+   "cái gì gắn kết một cá nhân với quốc gia ",
+   "got none: exp Công dân nước Cộng hòa"
+  ],
+  [
+   "content_only",
+   "có phải việc lập thời gian biểu cũng là ",
+   "got none: exp Tiết kiệm"
+  ],
+  [
+   "content_only",
+   "sự thấu hiểu và bao dung có ý nghĩa gì ạ",
+   "got none: exp Yêu thương con người"
+  ],
+  [
+   "content_only",
+   "việc bảo vệ môi trường ở trường là thực ",
+   "got none: exp Quyền và nghĩa vụ cơ b"
+  ],
+  [
+   "content_only",
+   "quyền và nghĩa vụ của mình là do ai bảo ",
+   "got lesson_card:Quyền và nghĩa vụ cơ b exp Công dân nước Cộng hòa"
+  ],
+  [
+   "content_only",
+   "sao mình phải dũng cảm nhận lỗi khi làm ",
+   "got none: exp Tôn trọng sự thật"
+  ],
+  [
+   "content_only",
+   "làm thế nào để mình tự tin hơn khi nói c",
+   "got none: exp Tự nhận thức bản thân"
+  ],
+  [
+   "content_only",
+   "việc sử dụng nguồn lực của xã hội bao gồ",
+   "got none: exp Tiết kiệm"
+  ],
+  [
+   "content_only",
+   "cho em hỏi quyền sống với quyền học tập ",
+   "got lesson_card:Quyền trẻ em exp Quyền và nghĩa vụ cơ b"
+  ],
+  [
+   "content_only",
+   "mọi người có được đối xử khác nhau về gi",
+   "got A_concept: exp Quyền và nghĩa vụ cơ b"
+  ],
+  [
+   "content_only",
+   "nếu bị bỏ rơi thì là vi phạm quyền gì ạ",
+   "got none: exp Quyền trẻ em"
+  ],
+  [
+   "content_only",
+   "những điều nhà nước bảo đảm cho mình làm",
+   "got none: exp Quyền và nghĩa vụ cơ b"
+  ],
+  [
+   "content_only",
+   "việc bắt đầu từ cái nhỏ có giúp ích gì k",
+   "got none: exp Siêng năng, kiên trì"
+  ],
+  [
+   "content_only",
+   "việc tắt đèn khi ra khỏi phòng thì gọi l",
+   "got none: exp Tiết kiệm"
+  ],
+  [
+   "content_only",
+   "làm sao để rèn luyện được đức tính này ạ",
+   "got none: exp Siêng năng, kiên trì"
+  ],
+  [
+   "content_only",
+   "nếu mình dùng lời lẽ xúc phạm người khác",
+   "got none: exp Quyền và nghĩa vụ cơ b"
+  ],
+  [
+   "content_only",
+   "làm sao để mọi người tin tưởng mình hơn ",
+   "got none: exp Tôn trọng sự thật"
+  ]
+ ]
+}

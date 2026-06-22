@@ -1,0 +1,245 @@
+{
+ "book": "toan 4 CTST tapNone",
+ "port": "8890",
+ "total": 500,
+ "lessons": 63,
+ "lesson_cases": 425,
+ "guard_cases": 75,
+ "errors": 0,
+ "anchor_acc": 75.1,
+ "mode_acc": 49.4,
+ "guard_acc": 84.0,
+ "cruft_on_cards": 0,
+ "latency_ms": {
+  "p50": 38.2,
+  "p95": 376.5,
+  "p99": 387.3,
+  "max": 399.0
+ },
+ "by_dimension": {
+  "content_only": {
+   "n": 88,
+   "anchor%": 31.8,
+   "mode%": 6.8,
+   "cruft": 0
+  },
+  "current_lesson": {
+   "n": 72,
+   "anchor%": 100.0,
+   "mode%": 75.0,
+   "cruft": 0
+  },
+  "guard_chitchat": {
+   "n": 24,
+   "anchor%": 75.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_offtopic": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_oob_trang": {
+   "n": 12,
+   "anchor%": 50.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_out_of_book": {
+   "n": 15,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_word": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_year": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "name_query": {
+   "n": 81,
+   "anchor%": 95.1,
+   "mode%": 38.3,
+   "cruft": 0
+  },
+  "practice": {
+   "n": 81,
+   "anchor%": 100.0,
+   "mode%": 96.3,
+   "cruft": 0
+  },
+  "trang_profile": {
+   "n": 46,
+   "anchor%": 67.4,
+   "mode%": 45.7,
+   "cruft": 0
+  },
+  "trang_query": {
+   "n": 57,
+   "anchor%": 52.6,
+   "mode%": 35.1,
+   "cruft": 0
+  }
+ },
+ "sample_fails": [
+  [
+   "content_only",
+   "cho em hỏi cách nhân một số với một tổng",
+   "got lesson_practice:Nhân với số có một chữ exp Tính chất giao hoán, t"
+  ],
+  [
+   "name_query",
+   "Giải thích giúp em phần ví dụ của bài Bi",
+   "got lesson_card:Biểu thức có chứa chữ exp Biểu thức có chứa chữ "
+  ],
+  [
+   "trang_profile",
+   "phần này có quy tắc gì ko ạ",
+   "got lesson_card:Ôn tập phép nhân, phép exp Nhân với số có một chữ"
+  ],
+  [
+   "trang_profile",
+   "tại sao lại có dấu ngoặc thì làm trước ạ",
+   "got lesson_practice:Chia cho số có hai chữ exp Ôn tập biểu thức số"
+  ],
+  [
+   "content_only",
+   "có cách nào nhóm các số lại cho dễ tính ",
+   "got lesson_practice:Phép cộng các số tự nh exp Tính chất giao hoán, t"
+  ],
+  [
+   "trang_profile",
+   "chỗ này nghĩa là gì thế ạ?",
+   "got lesson_card:Trừ hai phân số khác m exp Triệu - Lớp triệu"
+  ],
+  [
+   "content_only",
+   "khi chia cho một số tự nhiên thì làm thế",
+   "got lesson_practice:Phân số và phép chia s exp Phép chia phân số"
+  ],
+  [
+   "name_query",
+   "bài Giây trang 76 có cái này khó quá",
+   "got lesson_practice:Ôn tập phân số và các  exp Giây"
+  ],
+  [
+   "trang_query",
+   "em quên cách làm rồi, chỉ em với ở trang",
+   "got lesson_practice:Các số có sáu chữ số - exp Cộng hai phân số khác "
+  ],
+  [
+   "trang_profile",
+   "phân tích giúp em chỗ này đi",
+   "got lesson_card:Ôn tập phân số và các  exp Giây"
+  ],
+  [
+   "trang_query",
+   "em ko hiểu phần so sánh phân số lắm, chỉ",
+   "got lesson_card:Phân số exp Ôn tập cuối năm"
+  ],
+  [
+   "content_only",
+   "làm sao để đưa 2 phân số về cùng mẫu số ",
+   "got lesson_practice:Phân số exp Trừ hai phân số khác m"
+  ],
+  [
+   "content_only",
+   "làm sao để biết 1 số có chia hết cho 2 k",
+   "got lesson_practice:Chia cho số có hai chữ exp Số chẵn, số lẻ"
+  ],
+  [
+   "content_only",
+   "khi chia một số cho một số khác 0 thì vi",
+   "got lesson_practice:Chia hai số có tận cùn exp Phân số và phép chia s"
+  ],
+  [
+   "content_only",
+   "cách ước lượng thương dựa vào đâu ạ?",
+   "got lesson_card:Ước lượng thương trong exp Chia cho số có hai chữ"
+  ],
+  [
+   "content_only",
+   "muốn tìm giá trị đại diện cho một nhóm s",
+   "got none: exp Tìm số trung bình cộng"
+  ],
+  [
+   "trang_query",
+   "giải thích cho em hiểu chỗ này với ạ ở t",
+   "got lesson_card:Ôn tập số tự nhiên và  exp Hai đường thẳng song s"
+  ],
+  [
+   "content_only",
+   "kết quả có cần phải rút gọn không ạ?",
+   "got lesson_practice:Rút gọn phân số exp Trừ hai phân số cùng m"
+  ],
+  [
+   "trang_profile",
+   "cách làm cái này như nào ạ?",
+   "got lesson_practice:Các số có sáu chữ số - exp Cộng hai phân số khác "
+  ],
+  [
+   "content_only",
+   "làm sao để biết khi nào thì viết số 0 và",
+   "got lesson_practice:Nhân các số có tận cùn exp Các số có sáu chữ số -"
+  ],
+  [
+   "trang_profile",
+   "giải giúp em bước này với",
+   "got lesson_practice:Chia cho số có hai chữ exp Ôn tập biểu thức số"
+  ],
+  [
+   "content_only",
+   "làm sao để tính nhẩm nhanh với số tròn c",
+   "got lesson_practice:Nhân với 10, 100, 1 00 exp Ôn tập phép nhân, phép"
+  ],
+  [
+   "trang_query",
+   "em quên cách tính trừ có nhớ rồi, giúp e",
+   "got lesson_practice:Ôn tập phép cộng, phép exp Phép trừ các số tự nhi"
+  ],
+  [
+   "content_only",
+   "quy tắc cộng các tích riêng lại với nhau",
+   "got lesson_practice:Phép cộng các số tự nh exp Nhân với số có hai chữ"
+  ],
+  [
+   "content_only",
+   "em muốn biết cách tính nhanh nhất khi có",
+   "got lesson_practice:Phân số exp Tìm phân số của một số"
+  ],
+  [
+   "trang_query",
+   "cái này có quy tắc gì ko ạ ở trang 26",
+   "got lesson_card:Chia cho số có hai chữ exp Biểu thức có chứa chữ"
+  ],
+  [
+   "content_only",
+   "cho em hỏi 1 hình vuông cạnh 1mm thì diệ",
+   "got lesson_practice:Đề-xi-mét vuông exp Mi-li-mét vuông"
+  ],
+  [
+   "content_only",
+   "phân số cộng với 0 thì bằng mấy ạ?",
+   "got lesson_practice:Phân số exp Cộng hai phân số cùng "
+  ],
+  [
+   "content_only",
+   "ký hiệu của nó là gì thế ạ?",
+   "got none: exp Mi-li-mét vuông"
+  ],
+  [
+   "content_only",
+   "khi tính toán thì có cần đưa về cùng đơn",
+   "got lesson_card:Bài toán liên quan đến exp Mi-li-mét vuông"
+  ]
+ ]
+}

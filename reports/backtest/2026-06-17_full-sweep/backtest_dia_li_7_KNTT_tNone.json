@@ -1,0 +1,245 @@
+{
+ "book": "dia_li 7 KNTT tapNone",
+ "port": "8890",
+ "total": 500,
+ "lessons": 19,
+ "lesson_cases": 425,
+ "guard_cases": 75,
+ "errors": 0,
+ "anchor_acc": 83.8,
+ "mode_acc": 73.6,
+ "guard_acc": 100.0,
+ "cruft_on_cards": 0,
+ "latency_ms": {
+  "p50": 42.3,
+  "p95": 216.8,
+  "p99": 293.4,
+  "max": 311.9
+ },
+ "by_dimension": {
+  "content_only": {
+   "n": 82,
+   "anchor%": 26.8,
+   "mode%": 19.5,
+   "cruft": 0
+  },
+  "current_lesson": {
+   "n": 71,
+   "anchor%": 100.0,
+   "mode%": 97.2,
+   "cruft": 0
+  },
+  "guard_chitchat": {
+   "n": 24,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_offtopic": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_oob_trang": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_out_of_book": {
+   "n": 15,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_word": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_year": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "name_query": {
+   "n": 88,
+   "anchor%": 96.6,
+   "mode%": 72.7,
+   "cruft": 0
+  },
+  "practice": {
+   "n": 84,
+   "anchor%": 100.0,
+   "mode%": 92.9,
+   "cruft": 0
+  },
+  "trang_profile": {
+   "n": 45,
+   "anchor%": 95.6,
+   "mode%": 82.2,
+   "cruft": 0
+  },
+  "trang_query": {
+   "n": 55,
+   "anchor%": 92.7,
+   "mode%": 89.1,
+   "cruft": 0
+  }
+ },
+ "sample_fails": [
+  [
+   "content_only",
+   "có những loại rừng nào ở khu vực này thế",
+   "got none: exp Đặc điểm tự nhiên Bắc "
+  ],
+  [
+   "content_only",
+   "ở vùng cận nhiệt thì thường phát triển l",
+   "got none: exp Phương thức con người "
+  ],
+  [
+   "content_only",
+   "văn hóa ở khu vực này có gì đặc biệt ko ",
+   "got none: exp Đặc điểm dân cư, xã hộ"
+  ],
+  [
+   "content_only",
+   "tôn giáo chính ở đây là gì thế?",
+   "got none: exp Đặc điểm dân cư, xã hộ"
+  ],
+  [
+   "content_only",
+   "biển nào nằm ở phía bắc của vùng này nhỉ",
+   "got none: exp Vị trí địa lí, đặc điể"
+  ],
+  [
+   "content_only",
+   "sự kiện vào cuối thế kỉ XV là gì thế ạ?",
+   "got none: exp Vị trí địa lí, phạm vi"
+  ],
+  [
+   "content_only",
+   "vị trí của lục địa này nằm ở nửa cầu nào",
+   "got none: exp Vị trí địa lí, đặc điể"
+  ],
+  [
+   "content_only",
+   "các nước trong nhóm này gắn kết với nhau",
+   "got none: exp Liên minh Châu Âu"
+  ],
+  [
+   "content_only",
+   "cho em hỏi về sự khác nhau giữa usd và đ",
+   "got none: exp Thực hành: Tìm hiểu về"
+  ],
+  [
+   "content_only",
+   "các vùng đồng bằng và ven biển có đặc đi",
+   "got A_concept: exp Đặc điểm dân cư, xã hộ"
+  ],
+  [
+   "content_only",
+   "vùng này trải dài từ cực bắc đến đâu ạ?",
+   "got lesson_card:Châu Nam Cực exp Vị trí địa lí, phạm vi"
+  ],
+  [
+   "content_only",
+   "người ta đang làm gì khiến rừng bị mất đ",
+   "got none: exp Đặc điểm dân cư, xã hộ"
+  ],
+  [
+   "content_only",
+   "thị trường rộng lớn đóng vai trò gì tron",
+   "got none: exp Thực hành: Tìm hiểu về"
+  ],
+  [
+   "content_only",
+   "địa hình ở đây chủ yếu là gì thế?",
+   "got none: exp Châu Nam Cực"
+  ],
+  [
+   "content_only",
+   "vùng này nằm ở bán cầu nào thế ạ?",
+   "got none: exp Châu Đại Dương"
+  ],
+  [
+   "trang_query",
+   "phần sông ngòi với hồ lớn thì có gì đặc ",
+   "got lesson_card:Đặc điểm tự nhiên Trun exp Đặc điểm tự nhiên Bắc "
+  ],
+  [
+   "content_only",
+   "vùng nào thì có nhiều đảo với bán đảo nh",
+   "got none: exp Bản đồ chính trị châu "
+  ],
+  [
+   "content_only",
+   "vùng ven biển phía đông thì khí hậu như ",
+   "got none: exp Đặc điểm tự nhiên Trun"
+  ],
+  [
+   "trang_query",
+   "phân tích giúp em sự khác biệt giữa các ",
+   "got lesson_card:Đặc điểm tự nhiên Trun exp Đặc điểm tự nhiên Bắc "
+  ],
+  [
+   "content_only",
+   "ngoài mấy cái khó khăn ra thì khu vực nà",
+   "got none: exp Đặc điểm dân cư, xã hộ"
+  ],
+  [
+   "content_only",
+   "phía đông của lục địa này là biển gì thế",
+   "got none: exp Vị trí địa lí, đặc điể"
+  ],
+  [
+   "content_only",
+   "dân cư ở lục địa này phân bố thế nào ạ?",
+   "got lesson_card:Đặc điểm dân cư, xã hộ exp Châu Đại Dương"
+  ],
+  [
+   "content_only",
+   "biện pháp để bảo vệ rừng là gì?",
+   "got none: exp Đặc điểm dân cư, xã hộ"
+  ],
+  [
+   "content_only",
+   "du lịch thường phát triển ở môi trường n",
+   "got none: exp Phương thức con người "
+  ],
+  [
+   "content_only",
+   "khí hậu ở khu vực này có gì khác so với ",
+   "got none: exp Bản đồ chính trị châu "
+  ],
+  [
+   "trang_profile",
+   "em chưa nắm được ý chính của phần địa hì",
+   "got lesson_card:Đặc điểm tự nhiên Trun exp Đặc điểm tự nhiên Bắc "
+  ],
+  [
+   "content_only",
+   "sa mạc sahara đại diện cho đặc điểm gì c",
+   "got A_concept: exp Vị trí địa lí, đặc điể"
+  ],
+  [
+   "name_query",
+   "em muốn hỏi về nội dung bài Bắc Mỹ ạ",
+   "got none: exp Đặc điểm dân cư, xã hộ"
+  ],
+  [
+   "content_only",
+   "đời sống của dân cư ở đây ra sao?",
+   "got none: exp Đặc điểm dân cư, xã hộ"
+  ],
+  [
+   "content_only",
+   "văn hóa với lịch sử ở đây có gì nổi bật ",
+   "got none: exp Đặc điểm dân cư, xã hộ"
+  ]
+ ]
+}

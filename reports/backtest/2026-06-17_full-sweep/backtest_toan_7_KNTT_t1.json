@@ -1,0 +1,245 @@
+{
+ "book": "toan 7 KNTT tap1",
+ "port": "8890",
+ "total": 500,
+ "lessons": 19,
+ "lesson_cases": 425,
+ "guard_cases": 75,
+ "errors": 0,
+ "anchor_acc": 88.9,
+ "mode_acc": 62.6,
+ "guard_acc": 100.0,
+ "cruft_on_cards": 0,
+ "latency_ms": {
+  "p50": 39.8,
+  "p95": 279.2,
+  "p99": 292.9,
+  "max": 317.4
+ },
+ "by_dimension": {
+  "content_only": {
+   "n": 83,
+   "anchor%": 47.0,
+   "mode%": 14.5,
+   "cruft": 0
+  },
+  "current_lesson": {
+   "n": 65,
+   "anchor%": 100.0,
+   "mode%": 95.4,
+   "cruft": 0
+  },
+  "guard_chitchat": {
+   "n": 24,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_offtopic": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_oob_trang": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_out_of_book": {
+   "n": 15,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_word": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_year": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "name_query": {
+   "n": 90,
+   "anchor%": 96.7,
+   "mode%": 33.3,
+   "cruft": 0
+  },
+  "practice": {
+   "n": 87,
+   "anchor%": 100.0,
+   "mode%": 90.8,
+   "cruft": 0
+  },
+  "trang_profile": {
+   "n": 44,
+   "anchor%": 100.0,
+   "mode%": 79.5,
+   "cruft": 0
+  },
+  "trang_query": {
+   "n": 56,
+   "anchor%": 100.0,
+   "mode%": 85.7,
+   "cruft": 0
+  }
+ },
+ "sample_fails": [
+  [
+   "content_only",
+   "cho em hỏi trường hợp có 1 cạnh với 2 gó",
+   "got lesson_practice:Góc ở vị trí đặc biệt. exp Trường hợp bằng nhau t"
+  ],
+  [
+   "content_only",
+   "mấy cái đường này dùng để chỉ cái gì thế",
+   "got A_concept: exp Biểu đồ đoạn thẳng"
+  ],
+  [
+   "content_only",
+   "góc đồng vị là gì thế ạ?",
+   "got none: exp Tiên đề Euclid. Tính c"
+  ],
+  [
+   "content_only",
+   "góc trong cùng phía thì tổng bằng bao nh",
+   "got lesson_practice:Tổng các góc trong một exp Hai đường thẳng song s"
+  ],
+  [
+   "name_query",
+   "thầy/cô ơi giải thích giúp em phần trườn",
+   "got lesson_practice:Trường hợp bằng nhau t exp Hai tam giác bằng nhau"
+  ],
+  [
+   "content_only",
+   "nếu x bình phương bằng a thì x gọi là gì",
+   "got A_concept: exp Số vô tỉ. Căn bậc hai "
+  ],
+  [
+   "content_only",
+   "trục nằm ngang thường là cái gì vậy ạ?",
+   "got none: exp Biểu đồ đoạn thẳng"
+  ],
+  [
+   "content_only",
+   "muốn chứng minh 2 tam giác bằng nhau thì",
+   "got lesson_practice:Trường hợp bằng nhau t exp Hai tam giác bằng nhau"
+  ],
+  [
+   "content_only",
+   "cách viết ký hiệu sao cho đúng thứ tự đỉ",
+   "got lesson_card:Thứ tự thực hiện các p exp Hai tam giác bằng nhau"
+  ],
+  [
+   "content_only",
+   "chu kỳ là cái gì thế ạ?",
+   "got none: exp Làm quen với số thập p"
+  ],
+  [
+   "content_only",
+   "nếu có 1 góc lớn hơn 90 độ thì gọi là gì",
+   "got none: exp Tổng các góc trong một"
+  ],
+  [
+   "content_only",
+   "kiến thức này gồm những gì vậy ạ",
+   "got none: exp Các trường hợp bằng nh"
+  ],
+  [
+   "content_only",
+   "nếu em có tỉ lệ phần trăm thì tính ra số",
+   "got none: exp Biểu đồ hình quạt tròn"
+  ],
+  [
+   "content_only",
+   "nếu cắt 2 đường song song thì các góc bằ",
+   "got lesson_card:Hai đường thẳng song s exp Tiên đề Euclid. Tính c"
+  ],
+  [
+   "content_only",
+   "làm sao để biết số nào lớn hơn trên trục",
+   "got none: exp Tập hợp các số hữu tỉ"
+  ],
+  [
+   "content_only",
+   "thứ tự các yếu tố khi xét bằng nhau là g",
+   "got A_concept: exp Trường hợp bằng nhau t"
+  ],
+  [
+   "content_only",
+   "mấy cái mốc thời gian thì nằm ở đâu ạ?",
+   "got none: exp Biểu đồ đoạn thẳng"
+  ],
+  [
+   "content_only",
+   "phần điều cho trước gọi là gì thế ạ?",
+   "got none: exp Định lí và chứng minh "
+  ],
+  [
+   "content_only",
+   "nếu chỉ có 2 cạnh 1 góc thì có chứng min",
+   "got A_concept: exp Trường hợp bằng nhau t"
+  ],
+  [
+   "content_only",
+   "trục số thì biểu diễn được những số nào",
+   "got none: exp Tập hợp các số thực"
+  ],
+  [
+   "content_only",
+   "thứ tự mấy cái dấu ngoặc tròn, vuông, nh",
+   "got none: exp Thứ tự thực hiện các p"
+  ],
+  [
+   "content_only",
+   "có cách nào tính nhanh mấy cái căn này k",
+   "got none: exp Số vô tỉ. Căn bậc hai "
+  ],
+  [
+   "content_only",
+   "nếu có 2 cạnh bằng nhau thì gọi là gì ạ",
+   "got lesson_practice:Hai tam giác bằng nhau exp Tam giác cân. Đường tr"
+  ],
+  [
+   "name_query",
+   "thầy ơi em chưa nắm được bài Số vô tỉ",
+   "got none: exp Số vô tỉ. Căn bậc hai "
+  ],
+  [
+   "content_only",
+   "số thập phân vô hạn ko tuần hoàn là gì t",
+   "got lesson_card:Làm quen với số thập p exp Số vô tỉ. Căn bậc hai "
+  ],
+  [
+   "content_only",
+   "trong tam giác có 2 góc đáy bằng nhau th",
+   "got lesson_card:Hai tam giác bằng nhau exp Tam giác cân. Đường tr"
+  ],
+  [
+   "content_only",
+   "nếu biết 1 cạnh và 1 góc ở đỉnh thì tính",
+   "got A_concept: exp Tam giác cân. Đường tr"
+  ],
+  [
+   "content_only",
+   "khi chia thì số mũ cộng hay trừ đi ạ?",
+   "got lesson_practice:Cộng, trừ, nhân, chia  exp Lũy thừa với số mũ tự "
+  ],
+  [
+   "content_only",
+   "mấy cái số thập phân thì có thuộc tập hợ",
+   "got A_concept: exp Tập hợp các số hữu tỉ"
+  ],
+  [
+   "content_only",
+   "cần chú ý gì khi đọc mấy cái giá trị trê",
+   "got A_concept: exp Biểu đồ đoạn thẳng"
+  ]
+ ]
+}

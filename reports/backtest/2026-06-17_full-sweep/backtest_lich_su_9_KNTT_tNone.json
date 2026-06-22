@@ -1,0 +1,245 @@
+{
+ "book": "lich_su 9 KNTT tapNone",
+ "port": "8890",
+ "total": 500,
+ "lessons": 21,
+ "lesson_cases": 425,
+ "guard_cases": 75,
+ "errors": 0,
+ "anchor_acc": 82.4,
+ "mode_acc": 75.3,
+ "guard_acc": 100.0,
+ "cruft_on_cards": 0,
+ "latency_ms": {
+  "p50": 40.5,
+  "p95": 267.7,
+  "p99": 285.0,
+  "max": 296.3
+ },
+ "by_dimension": {
+  "content_only": {
+   "n": 80,
+   "anchor%": 37.5,
+   "mode%": 33.8,
+   "cruft": 0
+  },
+  "current_lesson": {
+   "n": 68,
+   "anchor%": 88.2,
+   "mode%": 85.3,
+   "cruft": 0
+  },
+  "guard_chitchat": {
+   "n": 24,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_offtopic": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_oob_trang": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_out_of_book": {
+   "n": 15,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_word": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_year": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "name_query": {
+   "n": 87,
+   "anchor%": 95.4,
+   "mode%": 77.0,
+   "cruft": 0
+  },
+  "practice": {
+   "n": 95,
+   "anchor%": 86.3,
+   "mode%": 81.1,
+   "cruft": 0
+  },
+  "trang_profile": {
+   "n": 47,
+   "anchor%": 100.0,
+   "mode%": 91.5,
+   "cruft": 0
+  },
+  "trang_query": {
+   "n": 48,
+   "anchor%": 100.0,
+   "mode%": 100.0,
+   "cruft": 0
+  }
+ },
+ "sample_fails": [
+  [
+   "content_only",
+   "nội dung chính của phần này là về sự phá",
+   "got none: exp Liên Xô và Đông Âu từ "
+  ],
+  [
+   "content_only",
+   "sau khi giành được chính quyền thì nước ",
+   "got none: exp Cách mạng tháng Tám nă"
+  ],
+  [
+   "content_only",
+   "kết thúc cuộc chiến là khi nào thế ạ",
+   "got A_concept: exp Chiến tranh thế giới t"
+  ],
+  [
+   "content_only",
+   "nguyên nhân chính dẫn đến thắng lợi là g",
+   "got none: exp Cách mạng tháng Tám nă"
+  ],
+  [
+   "practice",
+   "test thử em mấy câu về NATO với Vac-sa-v",
+   "got none: exp Chiến tranh lạnh (1947"
+  ],
+  [
+   "content_only",
+   "quá trình tìm đường cứu nước của Bác diễ",
+   "got none: exp Hoạt động của Nguyễn Á"
+  ],
+  [
+   "content_only",
+   "những địa điểm nào là trọng điểm trong đ",
+   "got A_concept: exp Cách mạng tháng Tám nă"
+  ],
+  [
+   "practice",
+   "giúp em ôn tập nhanh phần này để đi thi ",
+   "got none: exp Chiến tranh lạnh (1947"
+  ],
+  [
+   "content_only",
+   "bài này tập trung vào mấy cái mảng nào v",
+   "got none: exp Việt Nam từ năm 1991 đ"
+  ],
+  [
+   "content_only",
+   "cho em hỏi về sự phát triển của nhật bản",
+   "got lesson_practice:Châu Á từ năm 1918 đến exp Khu vực Mỹ La-tinh và "
+  ],
+  [
+   "practice",
+   "có câu hỏi trắc nghiệm nào về bài này kh",
+   "got none: exp Chiến tranh lạnh (1947"
+  ],
+  [
+   "content_only",
+   "cái giai đoạn này có mấy sự kiện chính v",
+   "got A_concept: exp Châu Á từ năm 1918 đến"
+  ],
+  [
+   "practice",
+   "làm giúp em mấy câu hỏi về nguyên nhân t",
+   "got none: exp Việt Nam kháng chiến c"
+  ],
+  [
+   "content_only",
+   "nguyên nhân chính dẫn đến tình trạng này",
+   "got none: exp Chiến tranh lạnh (1947"
+  ],
+  [
+   "name_query",
+   "thầy ơi chỉ em phần Xô viết Nghệ - Tĩnh ",
+   "got A_concept: exp Phong trào cách mạng V"
+  ],
+  [
+   "current_lesson",
+   "tại sao nói giai đoạn này là đẩy mạnh kh",
+   "got lesson_card:Việt Nam kháng chiến c exp Việt Nam kháng chiến c"
+  ],
+  [
+   "practice",
+   "có bài tập nào về sự kiện Đồng khởi ko ạ",
+   "got none: exp Việt Nam kháng chiến c"
+  ],
+  [
+   "content_only",
+   "pháp quay lại xâm lược vào thời điểm nào",
+   "got A_concept: exp Việt Nam trong năm đầu"
+  ],
+  [
+   "practice",
+   "cho em xin vài câu trắc nghiệm ôn tập ph",
+   "got none: exp Việt Nam kháng chiến c"
+  ],
+  [
+   "content_only",
+   "sự kiện nào đánh dấu việc chuyển sang th",
+   "got none: exp Việt Nam kháng chiến c"
+  ],
+  [
+   "content_only",
+   "cho em hỏi là vụ này diễn ra trong khoản",
+   "got none: exp Chiến tranh lạnh (1947"
+  ],
+  [
+   "current_lesson",
+   "chỗ này nói về việc kết hợp quân sự với ",
+   "got none: exp Việt Nam kháng chiến c"
+  ],
+  [
+   "content_only",
+   "giai đoạn này có mấy mặt trận chính vậy ",
+   "got lesson_card:Việt Nam kháng chiến c exp Việt Nam kháng chiến c"
+  ],
+  [
+   "practice",
+   "test thử em kiến thức về giai đoạn 1965-",
+   "got A_concept: exp Việt Nam kháng chiến c"
+  ],
+  [
+   "content_only",
+   "các trung tâm quyền lực mới gồm những ai",
+   "got none: exp Trật tự thế giới mới t"
+  ],
+  [
+   "content_only",
+   "cái sự kiện năm 1945 này có những mốc th",
+   "got A_concept: exp Cách mạng tháng Tám nă"
+  ],
+  [
+   "current_lesson",
+   "giải thích hộ em tại sao mình thắng được",
+   "got none: exp Việt Nam kháng chiến c"
+  ],
+  [
+   "practice",
+   "cho em xin mấy câu hỏi ôn tập phần này đ",
+   "got none: exp Chiến tranh lạnh (1947"
+  ],
+  [
+   "content_only",
+   "trong này có nói về việc bảo vệ chủ quyề",
+   "got none: exp Việt Nam từ năm 1991 đ"
+  ],
+  [
+   "content_only",
+   "trước khi khởi nghĩa thì dân mình chuẩn ",
+   "got none: exp Cách mạng tháng Tám nă"
+  ]
+ ]
+}

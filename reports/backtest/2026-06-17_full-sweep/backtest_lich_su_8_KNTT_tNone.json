@@ -1,0 +1,245 @@
+{
+ "book": "lich_su 8 KNTT tapNone",
+ "port": "8890",
+ "total": 500,
+ "lessons": 18,
+ "lesson_cases": 425,
+ "guard_cases": 75,
+ "errors": 0,
+ "anchor_acc": 83.1,
+ "mode_acc": 76.0,
+ "guard_acc": 100.0,
+ "cruft_on_cards": 0,
+ "latency_ms": {
+  "p50": 40.0,
+  "p95": 260.7,
+  "p99": 273.5,
+  "max": 482.4
+ },
+ "by_dimension": {
+  "content_only": {
+   "n": 84,
+   "anchor%": 25.0,
+   "mode%": 23.8,
+   "cruft": 0
+  },
+  "current_lesson": {
+   "n": 65,
+   "anchor%": 100.0,
+   "mode%": 93.8,
+   "cruft": 0
+  },
+  "guard_chitchat": {
+   "n": 24,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_offtopic": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_oob_trang": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_out_of_book": {
+   "n": 15,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_word": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_year": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "name_query": {
+   "n": 91,
+   "anchor%": 90.1,
+   "mode%": 74.7,
+   "cruft": 0
+  },
+  "practice": {
+   "n": 86,
+   "anchor%": 100.0,
+   "mode%": 94.2,
+   "cruft": 0
+  },
+  "trang_profile": {
+   "n": 41,
+   "anchor%": 100.0,
+   "mode%": 90.2,
+   "cruft": 0
+  },
+  "trang_query": {
+   "n": 58,
+   "anchor%": 100.0,
+   "mode%": 96.6,
+   "cruft": 0
+  }
+ },
+ "sample_fails": [
+  [
+   "content_only",
+   "sự kiện năm 1871 có gì đặc biệt hả thầy?",
+   "got none: exp Phong trào công nhân t"
+  ],
+  [
+   "content_only",
+   "tổng quát lại cho em mấy cái mốc thời gi",
+   "got none: exp Cuộc kháng chiến chống"
+  ],
+  [
+   "name_query",
+   "Phan Bội Châu với Phan Châu Trinh khác n",
+   "got none: exp Phong trào yêu nước ch"
+  ],
+  [
+   "content_only",
+   "nước nào thì bị Hà Lan cai trị thế ạ?",
+   "got none: exp Ấn độ và Đông Nam Á từ"
+  ],
+  [
+   "content_only",
+   "vụ này có mấy giai cấp chính vậy ạ?",
+   "got none: exp Cách mạng công nghiệp"
+  ],
+  [
+   "content_only",
+   "cuộc cách mạng này đã mở ra kỷ nguyên mớ",
+   "got A_concept: exp Chiến tranh thế giới t"
+  ],
+  [
+   "name_query",
+   "cái vụ vua Sác-lơ I nằm ở bài nào thế ạ?",
+   "got none: exp Cách mạng tư sản Anh v"
+  ],
+  [
+   "content_only",
+   "ai là người lập ra vương triều Mạc thế ạ",
+   "got none: exp Cuộc xung đột nam - bắ"
+  ],
+  [
+   "content_only",
+   "ai là người sáng lập ra cái lý luận này ",
+   "got none: exp Phong trào công nhân t"
+  ],
+  [
+   "name_query",
+   "Phân biệt giúp em Phan Bội Châu và Phan ",
+   "got none: exp Phong trào yêu nước ch"
+  ],
+  [
+   "content_only",
+   "nguyên nhân sâu xa của cuộc chiến này là",
+   "got A_concept: exp Chiến tranh thế giới t"
+  ],
+  [
+   "content_only",
+   "ai là người lãnh đạo chính trong cái sự ",
+   "got A_concept: exp Phong trào Tây Sơn"
+  ],
+  [
+   "content_only",
+   "vào khoảng giữa thế kỉ 19 có trào lưu gì",
+   "got none: exp Cuộc kháng chiến chống"
+  ],
+  [
+   "content_only",
+   "nhật bản đã làm gì để không bị xâm lược?",
+   "got none: exp Trung Quốc và Nhật Bản"
+  ],
+  [
+   "name_query",
+   "cho em hỏi về nội dung Tuyên ngôn Độc lậ",
+   "got none: exp Cách mạng tư sản Anh v"
+  ],
+  [
+   "content_only",
+   "cái vụ đánh 29 vạn quân Thanh là diễn ra",
+   "got none: exp Phong trào Tây Sơn"
+  ],
+  [
+   "content_only",
+   "trận đánh nổi tiếng nhất vào dịp Tết là ",
+   "got none: exp Phong trào Tây Sơn"
+  ],
+  [
+   "content_only",
+   "mục tiêu của mấy ông sĩ phu hồi đó là gì",
+   "got none: exp Phong trào chống Pháp "
+  ],
+  [
+   "content_only",
+   "kết quả cuối cùng của mấy cái hiệp ước n",
+   "got none: exp Cuộc kháng chiến chống"
+  ],
+  [
+   "name_query",
+   "cho em hỏi về vai trò của Hoàng Hoa Thám",
+   "got none: exp Phong trào chống Pháp "
+  ],
+  [
+   "name_query",
+   "Cho em hỏi về Tuyên ngôn Nhân quyền và D",
+   "got none: exp Cách mạng tư sản Pháp "
+  ],
+  [
+   "content_only",
+   "các nước phương tây nào đã nhảy vào khu ",
+   "got none: exp Đông nam á từ nửa sau "
+  ],
+  [
+   "content_only",
+   "người chủ trương nâng cao dân trí là ai ",
+   "got none: exp Phong trào yêu nước ch"
+  ],
+  [
+   "content_only",
+   "sau khi pháp khai thác thuộc địa lần 1 t",
+   "got A_concept: exp Phong trào yêu nước ch"
+  ],
+  [
+   "content_only",
+   "tác động của nó tới môi trường là như th",
+   "got none: exp Cách mạng công nghiệp"
+  ],
+  [
+   "content_only",
+   "ai là người lãnh đạo nhân dân giành chín",
+   "got A_concept: exp Chiến tranh thế giới t"
+  ],
+  [
+   "content_only",
+   "Thủ công nghiệp có những sản phẩm gì mới",
+   "got A_concept: exp Tình hình kinh tế, văn"
+  ],
+  [
+   "content_only",
+   "về kinh tế thì thực dân họ làm gì ở đây?",
+   "got none: exp Đông nam á từ nửa sau "
+  ],
+  [
+   "content_only",
+   "vụ cắm mốc ở hoàng sa là do ai làm vậy ạ",
+   "got none: exp Việt Nam dưới thời Ngu"
+  ],
+  [
+   "content_only",
+   "mấy cái tên như Ba Đình với Bãi Sậy là t",
+   "got none: exp Phong trào chống Pháp "
+  ]
+ ]
+}

@@ -1,0 +1,233 @@
+{
+ "book": "ngu_van 6 CTST tap2",
+ "port": "8890",
+ "total": 443,
+ "lessons": 16,
+ "lesson_cases": 368,
+ "guard_cases": 75,
+ "errors": 0,
+ "anchor_acc": 84.2,
+ "mode_acc": 75.3,
+ "guard_acc": 76.0,
+ "cruft_on_cards": 0,
+ "latency_ms": {
+  "p50": 40.0,
+  "p95": 210.6,
+  "p99": 227.2,
+  "max": 232.3
+ },
+ "by_dimension": {
+  "content_only": {
+   "n": 96,
+   "anchor%": 40.6,
+   "mode%": 38.5,
+   "cruft": 0
+  },
+  "current_lesson": {
+   "n": 80,
+   "anchor%": 100.0,
+   "mode%": 93.8,
+   "cruft": 0
+  },
+  "guard_chitchat": {
+   "n": 24,
+   "anchor%": 50.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_offtopic": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_oob_trang": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_out_of_book": {
+   "n": 15,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_word": {
+   "n": 6,
+   "anchor%": 0.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_year": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "name_query": {
+   "n": 96,
+   "anchor%": 99.0,
+   "mode%": 87.5,
+   "cruft": 0
+  },
+  "practice": {
+   "n": 96,
+   "anchor%": 100.0,
+   "mode%": 84.4,
+   "cruft": 0
+  }
+ },
+ "sample_fails": [
+  [
+   "content_only",
+   "nhân vật 'tôi' có tình cảm gì với cảnh v",
+   "got none: exp Hai cây phong"
+  ],
+  [
+   "content_only",
+   "kiểu văn bản này là nghị luận hay là kể ",
+   "got none: exp Học thầy học bạn"
+  ],
+  [
+   "content_only",
+   "bài này nói về ước mơ của trẻ con đúng k",
+   "got none: exp Những cánh buồm"
+  ],
+  [
+   "content_only",
+   "nhân vật chính là những đứa trẻ có tấm l",
+   "got none: exp Gió lạnh đầu mùa"
+  ],
+  [
+   "content_only",
+   "bối cảnh của truyện là vào thời điểm nào",
+   "got none: exp Cô bé bán diêm"
+  ],
+  [
+   "content_only",
+   "người nghệ sĩ già đã làm gì để cứu cô gá",
+   "got none: exp Chiếc lá cuối cùng"
+  ],
+  [
+   "content_only",
+   "nhân vật chính muốn làm cái gì để nhớ về",
+   "got none: exp Con muốn làm một cái c"
+  ],
+  [
+   "content_only",
+   "vibe của truyện này là ấm áp hay buồn vậ",
+   "got none: exp Con muốn làm một cái c"
+  ],
+  [
+   "content_only",
+   "câu chuyện này nói về tình yêu thương gi",
+   "got lesson_card:Gió lạnh đầu mùa exp Chiếc lá cuối cùng"
+  ],
+  [
+   "content_only",
+   "bài này nhấn mạnh việc bảo vệ thiên nhiê",
+   "got none: exp Trái Đất - mẹ của muôn"
+  ],
+  [
+   "content_only",
+   "chủ đề của bài này là về tình cảm gia đì",
+   "got none: exp Những cánh buồm"
+  ],
+  [
+   "content_only",
+   "câu chuyện này nói về tình cảm gia đình ",
+   "got none: exp Con muốn làm một cái c"
+  ],
+  [
+   "content_only",
+   "văn bản này kể về cuộc trò chuyện của ai",
+   "got none: exp Những cánh buồm"
+  ],
+  [
+   "content_only",
+   "truyện này nói về lòng nhân ái giữa ngườ",
+   "got none: exp Gió lạnh đầu mùa"
+  ],
+  [
+   "content_only",
+   "bài thơ này ca ngợi điều gì ạ?",
+   "got lesson_card:Những cánh buồm exp Mây và sóng"
+  ],
+  [
+   "content_only",
+   "văn bản này muốn nhắc nhở tụi em về việc",
+   "got none: exp Ngày môi trường thế gi"
+  ],
+  [
+   "content_only",
+   "tác giả dùng cách nào để thuyết phục ngư",
+   "got none: exp Học thầy học bạn"
+  ],
+  [
+   "content_only",
+   "văn bản này nói về vấn đề gì thế ạ?",
+   "got none: exp Ngày môi trường thế gi"
+  ],
+  [
+   "content_only",
+   "nhân vật chính trong bài có những lời mờ",
+   "got none: exp Mây và sóng"
+  ],
+  [
+   "content_only",
+   "nội dung chính của bài là về cái gì thế ",
+   "got none: exp Mây và sóng"
+  ],
+  [
+   "content_only",
+   "nội dung chính nói về tình bạn và sự thấ",
+   "got none: exp Tuổi thơ tôi"
+  ],
+  [
+   "content_only",
+   "cho em hỏi bài này ca ngợi tình cảm gì t",
+   "got none: exp Con là…"
+  ],
+  [
+   "content_only",
+   "tác giả muốn nhắn nhủ điều gì qua mấy cá",
+   "got none: exp Phải chăng chỉ có ngọt"
+  ],
+  [
+   "content_only",
+   "cho em hỏi ý chính của phần 2 là gì ạ?",
+   "got none: exp Phải chăng chỉ có ngọt"
+  ],
+  [
+   "content_only",
+   "những mộng tưởng của cô bé gồm những gì ",
+   "got none: exp Cô bé bán diêm"
+  ],
+  [
+   "content_only",
+   "mấy cái hình ảnh trời với hạt vừng ở đây",
+   "got lesson_card:Những cánh buồm exp Con là…"
+  ],
+  [
+   "content_only",
+   "mục đích chính của bài này là để làm gì ",
+   "got none: exp Trái Đất - mẹ của muôn"
+  ],
+  [
+   "content_only",
+   "bài này nói về sự biết ơn và tâm hồn nhạ",
+   "got none: exp Lẵng quả thông"
+  ],
+  [
+   "content_only",
+   "nội dung chính của đoạn này là gì vậy ạ?",
+   "got none: exp Phải chăng chỉ có ngọt"
+  ],
+  [
+   "content_only",
+   "cho em hỏi ý nghĩa của mấy cái đề mục nà",
+   "got none: exp Ngày môi trường thế gi"
+  ]
+ ]
+}

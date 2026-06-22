@@ -1,0 +1,195 @@
+{
+ "book": "gdcd 8 CTST tapNone",
+ "port": "8890",
+ "total": 375,
+ "lessons": 10,
+ "lesson_cases": 300,
+ "guard_cases": 75,
+ "errors": 0,
+ "anchor_acc": 93.3,
+ "mode_acc": 82.0,
+ "guard_acc": 100.0,
+ "cruft_on_cards": 0,
+ "latency_ms": {
+  "p50": 38.8,
+  "p95": 176.1,
+  "p99": 202.8,
+  "max": 208.6
+ },
+ "by_dimension": {
+  "content_only": {
+   "n": 60,
+   "anchor%": 66.7,
+   "mode%": 38.3,
+   "cruft": 0
+  },
+  "current_lesson": {
+   "n": 50,
+   "anchor%": 100.0,
+   "mode%": 98.0,
+   "cruft": 0
+  },
+  "guard_chitchat": {
+   "n": 24,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_offtopic": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_oob_trang": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_out_of_book": {
+   "n": 15,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_word": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_year": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "name_query": {
+   "n": 60,
+   "anchor%": 100.0,
+   "mode%": 85.0,
+   "cruft": 0
+  },
+  "practice": {
+   "n": 60,
+   "anchor%": 100.0,
+   "mode%": 96.7,
+   "cruft": 0
+  },
+  "trang_profile": {
+   "n": 30,
+   "anchor%": 100.0,
+   "mode%": 93.3,
+   "cruft": 0
+  },
+  "trang_query": {
+   "n": 40,
+   "anchor%": 100.0,
+   "mode%": 92.5,
+   "cruft": 0
+  }
+ },
+ "sample_fails": [
+  [
+   "content_only",
+   "việc kiểm tra điện với gas ở nhà là thuộ",
+   "got none: exp Phòng ngừa tai nạn vũ "
+  ],
+  [
+   "content_only",
+   "trồng thêm cây xanh thì có lợi ích gì ạ",
+   "got none: exp Bảo vệ môi trường và t"
+  ],
+  [
+   "content_only",
+   "cách để phân biệt cái gì cần cái gì muốn",
+   "got none: exp Lập kế hoạch chi tiêu"
+  ],
+  [
+   "content_only",
+   "muốn nâng cao năng suất thì cần cái gì ạ",
+   "got none: exp Lao động cần cù, sáng "
+  ],
+  [
+   "content_only",
+   "việc dùng từ viết tắt quá nhiều thì có b",
+   "got none: exp Tự hào về truyền thống"
+  ],
+  [
+   "content_only",
+   "thấy cái sai mà không nói gì thì có bị c",
+   "got none: exp Bảo vệ lẽ phải"
+  ],
+  [
+   "content_only",
+   "mấy cái như trang phục với lễ hội thì th",
+   "got none: exp Tôn trọng sự đa dạng c"
+  ],
+  [
+   "content_only",
+   "mấy cái biểu tượng văn hóa là nói về cái",
+   "got none: exp Tôn trọng sự đa dạng c"
+  ],
+  [
+   "content_only",
+   "khi đang xảy ra chuyện thì nên làm gì đầ",
+   "got lesson_practice:Phòng ngừa tai nạn vũ  exp Phòng, chống bạo lực g"
+  ],
+  [
+   "content_only",
+   "việc giới thiệu chèo cho bạn nước ngoài ",
+   "got none: exp Tự hào về truyền thống"
+  ],
+  [
+   "content_only",
+   "tái chế rác thải là như nào vậy ạ",
+   "got none: exp Bảo vệ môi trường và t"
+  ],
+  [
+   "content_only",
+   "báo công an là bước làm sau khi chuyện đ",
+   "got none: exp Phòng, chống bạo lực g"
+  ],
+  [
+   "content_only",
+   "cho em hỏi mấy cái lễ hội với ẩm thực th",
+   "got none: exp Tự hào về truyền thống"
+  ],
+  [
+   "content_only",
+   "khi thấy bạn khác mặc đồ lạ mà mình cười",
+   "got none: exp Tôn trọng sự đa dạng c"
+  ],
+  [
+   "content_only",
+   "em muốn tìm hiểu thêm về các giá trị đạo",
+   "got none: exp Tự hào về truyền thống"
+  ],
+  [
+   "content_only",
+   "làm sao để biết mình có đang làm đúng lu",
+   "got none: exp Quyền và nghĩa vụ lao "
+  ],
+  [
+   "content_only",
+   "việc tự ý nghỉ việc mà ko báo trước là đ",
+   "got none: exp Quyền và nghĩa vụ lao "
+  ],
+  [
+   "content_only",
+   "xả rác bừa bãi thì có ảnh hưởng gì ko ạ",
+   "got none: exp Bảo vệ môi trường và t"
+  ],
+  [
+   "content_only",
+   "không rập khuôn máy móc là biểu hiện của",
+   "got none: exp Lao động cần cù, sáng "
+  ],
+  [
+   "content_only",
+   "những hành động nào được gọi là tuân thủ",
+   "got none: exp Phòng ngừa tai nạn vũ "
+  ]
+ ]
+}

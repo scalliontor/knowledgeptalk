@@ -1,0 +1,233 @@
+{
+ "book": "ngu_van 8 CTST tap1",
+ "port": "8890",
+ "total": 500,
+ "lessons": 22,
+ "lesson_cases": 425,
+ "guard_cases": 75,
+ "errors": 0,
+ "anchor_acc": 80.2,
+ "mode_acc": 71.8,
+ "guard_acc": 84.0,
+ "cruft_on_cards": 0,
+ "latency_ms": {
+  "p50": 39.3,
+  "p95": 208.5,
+  "p99": 247.8,
+  "max": 272.4
+ },
+ "by_dimension": {
+  "content_only": {
+   "n": 114,
+   "anchor%": 27.2,
+   "mode%": 26.3,
+   "cruft": 0
+  },
+  "current_lesson": {
+   "n": 93,
+   "anchor%": 98.9,
+   "mode%": 96.8,
+   "cruft": 0
+  },
+  "guard_chitchat": {
+   "n": 24,
+   "anchor%": 75.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_offtopic": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_oob_trang": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_out_of_book": {
+   "n": 15,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_word": {
+   "n": 6,
+   "anchor%": 0.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_year": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "name_query": {
+   "n": 109,
+   "anchor%": 100.0,
+   "mode%": 88.1,
+   "cruft": 0
+  },
+  "practice": {
+   "n": 109,
+   "anchor%": 100.0,
+   "mode%": 81.7,
+   "cruft": 0
+  }
+ },
+ "sample_fails": [
+  [
+   "content_only",
+   "có hình ảnh minh họa cho mấy cái nguyên ",
+   "got none: exp Bạn đã biết gì về"
+  ],
+  [
+   "content_only",
+   "tác phẩm này dùng nghệ thuật gì để gây c",
+   "got none: exp Vắt cổ chày ra nướ"
+  ],
+  [
+   "content_only",
+   "sự kết hợp giữa kẻ ngu và kẻ nịnh hót tr",
+   "got none: exp Ông Giuốc-đanh mặc l"
+  ],
+  [
+   "content_only",
+   "tác giả dùng cách lập luận như nào để kh",
+   "got none: exp Lối sống đơn giản -"
+  ],
+  [
+   "content_only",
+   "nhân vật trong này lừa cả người thân luô",
+   "got none: exp Cái chúc thư"
+  ],
+  [
+   "content_only",
+   "có phải bài này nhắc mình nên sống trung",
+   "got none: exp Khoe của, Con rắn vu"
+  ],
+  [
+   "content_only",
+   "tác giả muốn gửi gắm tình cảm gì qua bài",
+   "got none: exp Chái bếp"
+  ],
+  [
+   "content_only",
+   "tìm giúp em mấy hình ảnh giàu sức gợi tr",
+   "got lesson_card:Chái bếp exp Trong lời mẹ hát"
+  ],
+  [
+   "content_only",
+   "những hình ảnh mộc mạc nào xuất hiện tro",
+   "got none: exp Chái bếp"
+  ],
+  [
+   "content_only",
+   "mấy ông này vì tiền mà làm chuyện thất đ",
+   "got none: exp Cái chúc thư"
+  ],
+  [
+   "content_only",
+   "ở đây có nói về sự thay đổi của không gi",
+   "got none: exp Thiên nhiên và hồn n"
+  ],
+  [
+   "content_only",
+   "nội dung chính của đoạn này là gì thế ạ?",
+   "got none: exp Mưa xuân II"
+  ],
+  [
+   "content_only",
+   "nhân vật chính bị ảo tưởng gì thế ạ?",
+   "got none: exp Văn hay"
+  ],
+  [
+   "content_only",
+   "nội dung chính của bài này là gì vậy?",
+   "got none: exp Sao băng là gì và n"
+  ],
+  [
+   "content_only",
+   "nội dung chính của đoạn này là gì ạ?",
+   "got none: exp Những chiếc lá thơm"
+  ],
+  [
+   "content_only",
+   "nội dung chính của nó là gì thế ạ?",
+   "got none: exp Tiếng cười có lợi "
+  ],
+  [
+   "content_only",
+   "văn bản này muốn nhắc nhở điều gì về môi",
+   "got none: exp Bức thư của thủ lĩ"
+  ],
+  [
+   "content_only",
+   "con người và thiên nhiên gắn kết với nha",
+   "got lesson_card:Nghe và nắm bắt nộ exp Mưa xuân II"
+  ],
+  [
+   "content_only",
+   "tác giả muốn gửi gắm triết lý gì về con ",
+   "got none: exp Thiên nhiên và hồn n"
+  ],
+  [
+   "content_only",
+   "vẻ đẹp của cảnh vật được thể hiện qua nh",
+   "got lesson_card:Mưa xuân II exp Bài ca Côn Sơn"
+  ],
+  [
+   "content_only",
+   "truyện này nói về sự ảo tưởng năng lực đ",
+   "got none: exp Văn hay"
+  ],
+  [
+   "content_only",
+   "trong này có nhắc đến mấy loại tài nguyê",
+   "got none: exp Nghe và nắm bắt nộ"
+  ],
+  [
+   "content_only",
+   "trong bài này có những tình huống nào tr",
+   "got none: exp Thuyền trưởng tàu V"
+  ],
+  [
+   "content_only",
+   "nhân vật trong bài có tính cách thế nào ",
+   "got none: exp Khoe của, Con rắn vu"
+  ],
+  [
+   "content_only",
+   "bài này khuyên mình nên sống thế nào ạ?",
+   "got none: exp Tiếng cười có lợi "
+  ],
+  [
+   "content_only",
+   "tác giả dùng nghệ thuật gì để châm biếm ",
+   "got none: exp Loại vi trùng quý h"
+  ],
+  [
+   "content_only",
+   "nhân vật trong bài có đặc điểm gì đáng c",
+   "got none: exp Vắt cổ chày ra nướ"
+  ],
+  [
+   "content_only",
+   "vì sao tụi nó lại phải di cư đi xa thế",
+   "got none: exp Những điều bí ẩn t"
+  ],
+  [
+   "content_only",
+   "văn bản này nói về hiện tượng gì thế ạ?",
+   "got none: exp Sao băng là gì và n"
+  ],
+  [
+   "content_only",
+   "tác giả dùng cách gì để thuyết phục ngườ",
+   "got none: exp Tiếng cười có lợi "
+  ]
+ ]
+}

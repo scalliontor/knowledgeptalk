@@ -1,0 +1,245 @@
+{
+ "book": "khtn 7 KNTT tapNone",
+ "port": "8890",
+ "total": 500,
+ "lessons": 42,
+ "lesson_cases": 425,
+ "guard_cases": 75,
+ "errors": 0,
+ "anchor_acc": 87.3,
+ "mode_acc": 72.9,
+ "guard_acc": 92.0,
+ "cruft_on_cards": 0,
+ "latency_ms": {
+  "p50": 39.9,
+  "p95": 341.2,
+  "p99": 364.8,
+  "max": 631.3
+ },
+ "by_dimension": {
+  "content_only": {
+   "n": 77,
+   "anchor%": 33.8,
+   "mode%": 19.5,
+   "cruft": 0
+  },
+  "current_lesson": {
+   "n": 75,
+   "anchor%": 100.0,
+   "mode%": 94.7,
+   "cruft": 0
+  },
+  "guard_chitchat": {
+   "n": 24,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_offtopic": {
+   "n": 12,
+   "anchor%": 50.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_oob_trang": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_out_of_book": {
+   "n": 15,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_word": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_year": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "name_query": {
+   "n": 83,
+   "anchor%": 98.8,
+   "mode%": 65.1,
+   "cruft": 0
+  },
+  "practice": {
+   "n": 92,
+   "anchor%": 100.0,
+   "mode%": 90.2,
+   "cruft": 0
+  },
+  "trang_profile": {
+   "n": 38,
+   "anchor%": 97.4,
+   "mode%": 86.8,
+   "cruft": 0
+  },
+  "trang_query": {
+   "n": 60,
+   "anchor%": 98.3,
+   "mode%": 90.0,
+   "cruft": 0
+  }
+ },
+ "sample_fails": [
+  [
+   "content_only",
+   "hạt phấn với noãn là gì vậy ạ?",
+   "got none: exp Sinh sản hữu tính ở si"
+  ],
+  [
+   "content_only",
+   "mấy cái hành động như tìm thức ăn hay tr",
+   "got A_concept: exp Cảm ứng ở sinh vật và "
+  ],
+  [
+   "content_only",
+   "con châu chấu thì thở bằng gì vậy ạ?",
+   "got none: exp Trao đổi khí ở sinh vậ"
+  ],
+  [
+   "content_only",
+   "cho em hỏi cái này cần oxygen hay không?",
+   "got none: exp Hô hấp tế bào"
+  ],
+  [
+   "content_only",
+   "đẻ trứng với đẻ con thì khác nhau chỗ nà",
+   "got none: exp Sinh sản hữu tính ở si"
+  ],
+  [
+   "content_only",
+   "cái con số biểu thị khả năng liên kết gọ",
+   "got lesson_practice:Giới thiệu về liên kết exp Hóa trị và công thức h"
+  ],
+  [
+   "content_only",
+   "cái môi trường bao quanh nam châm gọi là",
+   "got lesson_card:Nam châm exp Từ trường"
+  ],
+  [
+   "content_only",
+   "vật liệu nào thì bị hút bởi cái này ạ",
+   "got none: exp Nam châm"
+  ],
+  [
+   "name_query",
+   "cô ơi giảng lại bài bảng tuần hoàn các n",
+   "got lesson_card:Nguyên tố hóa học exp Sơ lược về bảng tuần h"
+  ],
+  [
+   "content_only",
+   "làm sao để biết vật đang chạy hay đang đ",
+   "got none: exp Đồ thị quãng đường - t"
+  ],
+  [
+   "content_only",
+   "các yếu tố như ánh sáng hay nhiệt độ ảnh",
+   "got lesson_card:Một số yếu tố ảnh hưởn exp Trao đổi nước và chất "
+  ],
+  [
+   "content_only",
+   "cho em hỏi đơn vị của tần số là gì ạ",
+   "got none: exp Độ to và độ cao của âm"
+  ],
+  [
+   "content_only",
+   "nếu bề mặt không bóng thì ánh sáng đi th",
+   "got none: exp Sự phản xạ ánh sáng"
+  ],
+  [
+   "content_only",
+   "việc trồng luân canh cây có liên quan gì",
+   "got A_concept: exp Vai trò của nước và ch"
+  ],
+  [
+   "content_only",
+   "trong quá trình này có tạo ra nhiệt ko ạ",
+   "got none: exp Thực hành: Hô hấp ở th"
+  ],
+  [
+   "content_only",
+   "nếu không có khí khổng thì cây có gặp vấ",
+   "got none: exp Trao đổi nước và chất "
+  ],
+  [
+   "content_only",
+   "cái việc cây cao lên với ra hoa thì gọi ",
+   "got none: exp Khái quát về sinh trưở"
+  ],
+  [
+   "content_only",
+   "cây cần gì để tạo ra thức ăn nhỉ?",
+   "got A_concept: exp Quang hợp ở thực vật"
+  ],
+  [
+   "content_only",
+   "cái độ lệch lớn nhất khỏi vị trí cân bằn",
+   "got none: exp Độ to và độ cao của âm"
+  ],
+  [
+   "content_only",
+   "muốn biết tốc độ của một người chạy 60m ",
+   "got none: exp Đo tốc độ"
+  ],
+  [
+   "content_only",
+   "tổng khối lượng các nguyên tử trong 1 hạ",
+   "got lesson_card:Nguyên tử exp Phân tử - Đơn chất - H"
+  ],
+  [
+   "content_only",
+   "cách biểu diễn thành phần phân tử như nà",
+   "got none: exp Hóa trị và công thức h"
+  ],
+  [
+   "content_only",
+   "cho em hỏi mấy cái như loa điện hay chuô",
+   "got none: exp Chế tạo nam châm điện "
+  ],
+  [
+   "content_only",
+   "cây xanh trong phòng kín ban đêm thì thả",
+   "got none: exp Một số yếu tố ảnh hưởn"
+  ],
+  [
+   "content_only",
+   "thế cây khoai tây là sinh sản bằng bộ ph",
+   "got A_concept: exp Sinh sản vô tính ở sin"
+  ],
+  [
+   "content_only",
+   "con người dùng cách nào để tạo ra quả kh",
+   "got none: exp Một số yếu tố ảnh hưởn"
+  ],
+  [
+   "trang_profile",
+   "tại sao trái đất lại giống như một cái n",
+   "got lesson_practice:Nam châm exp Từ trường"
+  ],
+  [
+   "content_only",
+   "nước có vai trò gì trong việc trao đổi k",
+   "got lesson_practice:Trao đổi khí ở sinh vậ exp Một số yếu tố ảnh hưởn"
+  ],
+  [
+   "content_only",
+   "trong 1 ô nguyên tố thường có những thôn",
+   "got lesson_practice:Nguyên tố hóa học exp Sơ lược về bảng tuần h"
+  ],
+  [
+   "content_only",
+   "mặt phẳng nhẵn thì nó khác gì mặt gồ ghề",
+   "got none: exp Sự phản xạ ánh sáng"
+  ]
+ ]
+}

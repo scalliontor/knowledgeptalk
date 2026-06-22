@@ -1,0 +1,245 @@
+{
+ "book": "dia_li 9 CD tapNone",
+ "port": "8890",
+ "total": 500,
+ "lessons": 20,
+ "lesson_cases": 425,
+ "guard_cases": 75,
+ "errors": 0,
+ "anchor_acc": 83.3,
+ "mode_acc": 71.8,
+ "guard_acc": 100.0,
+ "cruft_on_cards": 0,
+ "latency_ms": {
+  "p50": 40.8,
+  "p95": 218.1,
+  "p99": 241.5,
+  "max": 280.4
+ },
+ "by_dimension": {
+  "content_only": {
+   "n": 98,
+   "anchor%": 34.7,
+   "mode%": 30.6,
+   "cruft": 0
+  },
+  "current_lesson": {
+   "n": 69,
+   "anchor%": 100.0,
+   "mode%": 95.7,
+   "cruft": 0
+  },
+  "guard_chitchat": {
+   "n": 24,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_offtopic": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_oob_trang": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_out_of_book": {
+   "n": 15,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_word": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_year": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "name_query": {
+   "n": 98,
+   "anchor%": 96.9,
+   "mode%": 61.2,
+   "cruft": 0
+  },
+  "practice": {
+   "n": 92,
+   "anchor%": 100.0,
+   "mode%": 94.6,
+   "cruft": 0
+  },
+  "trang_profile": {
+   "n": 28,
+   "anchor%": 92.9,
+   "mode%": 89.3,
+   "cruft": 0
+  },
+  "trang_query": {
+   "n": 40,
+   "anchor%": 95.0,
+   "mode%": 92.5,
+   "cruft": 0
+  }
+ },
+ "sample_fails": [
+  [
+   "content_only",
+   "vùng này có đặc điểm địa hình như nào vậ",
+   "got A_concept: exp Vùng Tây Nguyên"
+  ],
+  [
+   "content_only",
+   "tốc độ tăng trưởng thu nhập ở đồng bằng ",
+   "got lesson_card:Vùng Đồng bằng sông Hồ exp Thực hành: Phân tích v"
+  ],
+  [
+   "content_only",
+   "vùng này tiếp giáp với nước nào thế ạ?",
+   "got none: exp Bắc Trung Bộ"
+  ],
+  [
+   "name_query",
+   "em cần nắm những ý nào chính trong bài T",
+   "got A_concept: exp Thực hành: Phân tích t"
+  ],
+  [
+   "name_query",
+   "cô ơi bài Thực hành này có cần lấy ví dụ",
+   "got none: exp Thực hành: Viết báo cá"
+  ],
+  [
+   "content_only",
+   "có mấy tỉnh nằm trong khu vực này vậy ạ?",
+   "got lesson_card:Thực hành: Trình bày v exp Thực hành: Viết báo cá"
+  ],
+  [
+   "content_only",
+   "vùng này có thế mạnh gì về giao thông vậ",
+   "got A_concept: exp Thực hành: Viết báo cá"
+  ],
+  [
+   "content_only",
+   "địa hình ở đây có gì đặc biệt không ạ?",
+   "got none: exp Bắc Trung Bộ"
+  ],
+  [
+   "content_only",
+   "hà nội đóng vai trò gì trong vùng này th",
+   "got A_concept: exp Vùng Đồng bằng sông Hồ"
+  ],
+  [
+   "content_only",
+   "vùng này hay gặp thiên tai gì nhất thế ạ",
+   "got none: exp Bắc Trung Bộ"
+  ],
+  [
+   "content_only",
+   "về dân cư và văn hóa ở đây thì có gì đặc",
+   "got none: exp Vùng Đồng bằng sông Cử"
+  ],
+  [
+   "content_only",
+   "vùng này có những thế mạnh gì về tự nhiê",
+   "got none: exp Vùng Đồng bằng sông Cử"
+  ],
+  [
+   "content_only",
+   "thế mạnh về kinh tế của khu vực này là g",
+   "got none: exp Vùng Trung du và miền "
+  ],
+  [
+   "content_only",
+   "Vùng này có đặc điểm gì về địa hình thế ",
+   "got A_concept: exp Duyên hải Nam Trung Bộ"
+  ],
+  [
+   "content_only",
+   "tốc độ tăng trưởng GRDP của nó cao bao n",
+   "got none: exp Thực hành: Trình bày v"
+  ],
+  [
+   "content_only",
+   "mấy cái cây công nghiệp với cây ăn quả t",
+   "got lesson_card:Công nghiệp exp Nông nghiệp, lâm nghiệ"
+  ],
+  [
+   "content_only",
+   "các ngành công nghiệp chính ở đây là gì ",
+   "got lesson_card:Công nghiệp exp Vùng Đông Nam Bộ"
+  ],
+  [
+   "content_only",
+   "việc bảo vệ rừng gắn với địa hình như nà",
+   "got none: exp Nông nghiệp, lâm nghiệ"
+  ],
+  [
+   "content_only",
+   "Kinh tế ở đây đang phát triển theo hướng",
+   "got A_concept: exp Duyên hải Nam Trung Bộ"
+  ],
+  [
+   "content_only",
+   "vùng này có những dãy núi nào nổi tiếng ",
+   "got none: exp Vùng Trung du và miền "
+  ],
+  [
+   "content_only",
+   "rừng ở vùng đồi núi thì có vai trò gì ạ?",
+   "got none: exp Nông nghiệp, lâm nghiệ"
+  ],
+  [
+   "content_only",
+   "địa hình ở phía tây bắc có gì đặc biệt s",
+   "got A_concept: exp Vùng Trung du và miền "
+  ],
+  [
+   "content_only",
+   "mấy cái vụ cháy rừng có liên quan gì đến",
+   "got none: exp Thực hành: Phân tích ả"
+  ],
+  [
+   "content_only",
+   "việc nước biển dâng ảnh hưởng gì đến đời",
+   "got A_concept: exp Thực hành: Phân tích t"
+  ],
+  [
+   "content_only",
+   "thương mại bây giờ chủ yếu là qua đâu ạ",
+   "got none: exp Dịch vụ"
+  ],
+  [
+   "content_only",
+   "kinh tế ở đây mạnh về mảng nào vậy ạ?",
+   "got none: exp Bắc Trung Bộ"
+  ],
+  [
+   "content_only",
+   "cho em hỏi con số đóng góp GDP là bao nh",
+   "got A_concept: exp Thực hành: Viết báo cá"
+  ],
+  [
+   "content_only",
+   "đất ở đây có màu gì mà tốt thế ạ?",
+   "got none: exp Vùng Tây Nguyên"
+  ],
+  [
+   "content_only",
+   "vùng này có những loại khoáng sản gì thế",
+   "got none: exp Vùng Đông Nam Bộ"
+  ],
+  [
+   "content_only",
+   "Khí hậu ở đây có gì đặc biệt không ạ?",
+   "got none: exp Duyên hải Nam Trung Bộ"
+  ]
+ ]
+}

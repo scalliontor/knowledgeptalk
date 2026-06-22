@@ -1,0 +1,245 @@
+{
+ "book": "khtn 8 CTST tapNone",
+ "port": "8890",
+ "total": 500,
+ "lessons": 51,
+ "lesson_cases": 425,
+ "guard_cases": 75,
+ "errors": 0,
+ "anchor_acc": 87.3,
+ "mode_acc": 73.4,
+ "guard_acc": 100.0,
+ "cruft_on_cards": 0,
+ "latency_ms": {
+  "p50": 40.7,
+  "p95": 364.3,
+  "p99": 375.3,
+  "max": 661.1
+ },
+ "by_dimension": {
+  "content_only": {
+   "n": 83,
+   "anchor%": 51.8,
+   "mode%": 30.1,
+   "cruft": 0
+  },
+  "current_lesson": {
+   "n": 66,
+   "anchor%": 95.5,
+   "mode%": 83.3,
+   "cruft": 0
+  },
+  "guard_chitchat": {
+   "n": 24,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_offtopic": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_oob_trang": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_out_of_book": {
+   "n": 15,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_word": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_year": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "name_query": {
+   "n": 92,
+   "anchor%": 94.6,
+   "mode%": 71.7,
+   "cruft": 0
+  },
+  "practice": {
+   "n": 90,
+   "anchor%": 96.7,
+   "mode%": 91.1,
+   "cruft": 0
+  },
+  "trang_profile": {
+   "n": 37,
+   "anchor%": 94.6,
+   "mode%": 81.1,
+   "cruft": 0
+  },
+  "trang_query": {
+   "n": 57,
+   "anchor%": 98.2,
+   "mode%": 94.7,
+   "cruft": 0
+  }
+ },
+ "sample_fails": [
+  [
+   "content_only",
+   "nếu nó tan trong nước thì gọi là gì?",
+   "got none: exp Base"
+  ],
+  [
+   "content_only",
+   "mấy cái cơ quan này gồm những gì vậy ạ",
+   "got none: exp Hệ bài tiết ở người"
+  ],
+  [
+   "current_lesson",
+   "tại sao lại có công thức này vậy ạ?",
+   "got none: exp Tác dụng làm quay của "
+  ],
+  [
+   "trang_profile",
+   "tại sao khi nhiệt độ giảm thì nó lại co ",
+   "got lesson_practice:Năng lượng nhiệt và nộ exp Sự nở vì nhiệt"
+  ],
+  [
+   "practice",
+   "có câu hỏi trắc nghiệm nào về phần này k",
+   "got A_concept: exp Dòng điện – Nguồn điện"
+  ],
+  [
+   "content_only",
+   "ăn mặn thì ảnh hưởng gì đến mấy cái này ",
+   "got none: exp Hệ bài tiết ở người"
+  ],
+  [
+   "content_only",
+   "ánh sáng ảnh hưởng thế nào đến mắt khi x",
+   "got none: exp Hệ thần kinh và các gi"
+  ],
+  [
+   "name_query",
+   "bài này có cần chuẩn bị nẹp trước ko ạ?",
+   "got none: exp Thực hành: Sơ cứu và b"
+  ],
+  [
+   "content_only",
+   "tại sao dùng cầu chì lại giúp tránh chập",
+   "got A_concept: exp Tác dụng của dòng điện"
+  ],
+  [
+   "content_only",
+   "hiệu suất phản ứng là gì vậy ạ?",
+   "got lesson_practice:Tốc độ phản ứng và chấ exp Tính theo phương trình"
+  ],
+  [
+   "content_only",
+   "khi pha nước chanh đá thì nhiệt độ ảnh h",
+   "got none: exp Nồng độ dung dịch"
+  ],
+  [
+   "content_only",
+   "electron di chuyển trong kim loại là gì ",
+   "got none: exp Dòng điện – Nguồn điện"
+  ],
+  [
+   "name_query",
+   "cái vụ cây rụng lá mùa đông là kiến thức",
+   "got none: exp Môi trường và các nhân"
+  ],
+  [
+   "content_only",
+   "sóng âm truyền qua đâu để mình nghe được",
+   "got none: exp Hệ thần kinh và các gi"
+  ],
+  [
+   "content_only",
+   "các bước thực hiện cụ thể ra sao ạ",
+   "got none: exp Thực hành: Hô hấp nhân"
+  ],
+  [
+   "practice",
+   "em muốn làm thêm bài tập về sự chuyển dờ",
+   "got A_concept: exp Dòng điện – Nguồn điện"
+  ],
+  [
+   "content_only",
+   "tại sao khi ấn giác mút vào thì nó lại b",
+   "got none: exp Áp suất trong chất khí"
+  ],
+  [
+   "content_only",
+   "mục đích chính của việc này là gì ạ",
+   "got none: exp Thực hành: Hô hấp nhân"
+  ],
+  [
+   "current_lesson",
+   "chỗ này sao lại thế ạ thầy/cô ơi?",
+   "got none: exp Tác dụng làm quay của "
+  ],
+  [
+   "content_only",
+   "tại sao khi thay đổi lượng nước trong kh",
+   "got A_concept: exp Áp suất trong chất lỏn"
+  ],
+  [
+   "content_only",
+   "tại sao khí nóng lại bay lên trên còn kh",
+   "got lesson_practice:Sự nở vì nhiệt exp Sự truyền nhiệt"
+  ],
+  [
+   "content_only",
+   "nước xà phòng thì thuộc nhóm nào ạ?",
+   "got none: exp Thang pH"
+  ],
+  [
+   "content_only",
+   "cái dụng cụ nào dùng để đo cường độ dòng",
+   "got lesson_practice:Cường độ dòng điện và  exp Sử dụng hoá chất, dụng"
+  ],
+  [
+   "name_query",
+   "em muốn hỏi thêm về phần sinh quyển tron",
+   "got A_concept: exp Hệ sinh thái và sinh q"
+  ],
+  [
+   "content_only",
+   "giọt màu trong cốc nước nóng loang nhanh",
+   "got lesson_practice:Sự nở vì nhiệt exp Năng lượng nhiệt và nộ"
+  ],
+  [
+   "content_only",
+   "cấu tạo của nó gồm những phần nào thế ạ?",
+   "got A_concept: exp Base"
+  ],
+  [
+   "content_only",
+   "nhiệt độ cao thì các phân tử sẽ chuyển đ",
+   "got lesson_practice:Phản ứng hoá học và nă exp Năng lượng nhiệt và nộ"
+  ],
+  [
+   "content_only",
+   "nguồn điện thì có mấy cực vậy ạ",
+   "got lesson_card:Dòng điện – Nguồn điện exp Mạch điện đơn giản"
+  ],
+  [
+   "content_only",
+   "làm sao để bảo vệ da khỏi tác nhân gây h",
+   "got none: exp Da và điều hoà thân nh"
+  ],
+  [
+   "content_only",
+   "làm sao để cơ thể nhận biết được vi khuẩ",
+   "got none: exp Miễn dịch"
+  ]
+ ]
+}

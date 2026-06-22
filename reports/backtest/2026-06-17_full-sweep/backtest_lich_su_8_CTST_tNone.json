@@ -1,0 +1,245 @@
+{
+ "book": "lich_su 8 CTST tapNone",
+ "port": "8890",
+ "total": 500,
+ "lessons": 22,
+ "lesson_cases": 425,
+ "guard_cases": 75,
+ "errors": 0,
+ "anchor_acc": 84.7,
+ "mode_acc": 80.2,
+ "guard_acc": 100.0,
+ "cruft_on_cards": 0,
+ "latency_ms": {
+  "p50": 39.4,
+  "p95": 294.1,
+  "p99": 316.4,
+  "max": 333.6
+ },
+ "by_dimension": {
+  "content_only": {
+   "n": 78,
+   "anchor%": 21.8,
+   "mode%": 20.5,
+   "cruft": 0
+  },
+  "current_lesson": {
+   "n": 72,
+   "anchor%": 100.0,
+   "mode%": 95.8,
+   "cruft": 0
+  },
+  "guard_chitchat": {
+   "n": 24,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_offtopic": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_oob_trang": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_out_of_book": {
+   "n": 15,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_word": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_year": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "name_query": {
+   "n": 81,
+   "anchor%": 95.1,
+   "mode%": 85.2,
+   "cruft": 0
+  },
+  "practice": {
+   "n": 98,
+   "anchor%": 100.0,
+   "mode%": 96.9,
+   "cruft": 0
+  },
+  "trang_profile": {
+   "n": 39,
+   "anchor%": 100.0,
+   "mode%": 94.9,
+   "cruft": 0
+  },
+  "trang_query": {
+   "n": 57,
+   "anchor%": 100.0,
+   "mode%": 96.5,
+   "cruft": 0
+  }
+ },
+ "sample_fails": [
+  [
+   "content_only",
+   "các cuộc đấu tranh này diễn ra ở đâu vậy",
+   "got none: exp Đông Nam Á"
+  ],
+  [
+   "content_only",
+   "tác phẩm ra đời năm 1848 là gì vậy ạ?",
+   "got none: exp Phong trào công nhân v"
+  ],
+  [
+   "content_only",
+   "về chính trị thì họ làm gì thế ạ?",
+   "got none: exp Nhật Bản"
+  ],
+  [
+   "content_only",
+   "phương pháp hoạt động ban đầu của tổ chứ",
+   "got none: exp Ấn độ"
+  ],
+  [
+   "content_only",
+   "mỹ tham chiến vào lúc nào thế ạ",
+   "got none: exp Chiến tranh thế giới t"
+  ],
+  [
+   "content_only",
+   "cho em hỏi mấy cái vụ này làm thay đổi g",
+   "got none: exp Khởi nghĩa nông dân ở "
+  ],
+  [
+   "content_only",
+   "nước này thay đổi thế nào từ phong kiến ",
+   "got A_concept: exp Nhật Bản"
+  ],
+  [
+   "content_only",
+   "trong thời kỳ này có những phát minh nào",
+   "got A_concept: exp Cách mạng công nghiệp"
+  ],
+  [
+   "content_only",
+   "đội Hoàng Sa dùng để làm gì thế ạ?",
+   "got none: exp Quá trình khai phá vùn"
+  ],
+  [
+   "content_only",
+   "đặc điểm của mấy cái phong trào này là g",
+   "got A_concept: exp Đông Nam Á"
+  ],
+  [
+   "content_only",
+   "mấy cái giai cấp mới xuất hiện là do đâu",
+   "got none: exp Việt Nam đầu thế kỉ XX"
+  ],
+  [
+   "content_only",
+   "chính quyền lúc đó bị làm sao mà dân phả",
+   "got none: exp Khởi nghĩa nông dân ở "
+  ],
+  [
+   "content_only",
+   "nói về việc lật đổ các tập đoàn phong ki",
+   "got A_concept: exp Phong trào Tây Sơn"
+  ],
+  [
+   "content_only",
+   "nhà nước này phục vụ cho ai vậy ạ?",
+   "got none: exp Công xã Pa-ri năm 1871"
+  ],
+  [
+   "content_only",
+   "văn hóa thời này có gì nổi bật không ạ?",
+   "got lesson_card:Kinh tế, văn hoá và tô exp Việt Nam nửa đầu thế k"
+  ],
+  [
+   "content_only",
+   "đàng ngoài là do ai kiểm soát vậy ạ?",
+   "got A_concept: exp Xung đột Nam - Bắc tri"
+  ],
+  [
+   "content_only",
+   "hai phe đối lập gồm những nước nào vậy ạ",
+   "got none: exp Chiến tranh thế giới t"
+  ],
+  [
+   "name_query",
+   "cho em hỏi Phan Bội Châu với Phan Châu T",
+   "got none: exp Việt Nam đầu thế kỉ XX"
+  ],
+  [
+   "content_only",
+   "tôn giáo nào mới du nhập vào nước mình t",
+   "got none: exp Kinh tế, văn hoá và tô"
+  ],
+  [
+   "content_only",
+   "nửa sau thế kỉ XIX thì đa số là theo hướ",
+   "got none: exp Đông Nam Á"
+  ],
+  [
+   "content_only",
+   "ai là người lãnh đạo cuộc khởi nghĩa nôn",
+   "got A_concept: exp Phong trào Tây Sơn"
+  ],
+  [
+   "content_only",
+   "mấy cái đề nghị này có đặc điểm gì nổi b",
+   "got none: exp Trào lưu cải cách ở Vi"
+  ],
+  [
+   "content_only",
+   "ai là người đứng đầu nhà mạc ạ?",
+   "got none: exp Xung đột Nam - Bắc tri"
+  ],
+  [
+   "content_only",
+   "việc giao thương với phương tây bị thế n",
+   "got none: exp Việt Nam nửa đầu thế k"
+  ],
+  [
+   "content_only",
+   "mấy cuộc đấu tranh này có tính chất gì t",
+   "got none: exp Khởi nghĩa nông dân ở "
+  ],
+  [
+   "content_only",
+   "mấy ông thực dân phương tây lúc đó làm g",
+   "got none: exp Đông Nam Á"
+  ],
+  [
+   "content_only",
+   "việc mở rộng trường học là thuộc nội dun",
+   "got none: exp Nhật Bản"
+  ],
+  [
+   "content_only",
+   "sau khi lật đổ phong kiến thì thành lập ",
+   "got none: exp Trung Quốc"
+  ],
+  [
+   "content_only",
+   "tác động của mấy vụ này tới chế độ phong",
+   "got none: exp Khởi nghĩa nông dân ở "
+  ],
+  [
+   "content_only",
+   "cuối thế kỉ 19 đầu thế kỉ 20 phong trào ",
+   "got A_concept: exp Phong trào công nhân v"
+  ]
+ ]
+}

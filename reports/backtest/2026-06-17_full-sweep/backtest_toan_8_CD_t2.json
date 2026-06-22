@@ -1,0 +1,245 @@
+{
+ "book": "toan 8 CD tap2",
+ "port": "8890",
+ "total": 500,
+ "lessons": 16,
+ "lesson_cases": 425,
+ "guard_cases": 75,
+ "errors": 0,
+ "anchor_acc": 86.1,
+ "mode_acc": 60.9,
+ "guard_acc": 100.0,
+ "cruft_on_cards": 0,
+ "latency_ms": {
+  "p50": 39.2,
+  "p95": 279.8,
+  "p99": 297.0,
+  "max": 487.2
+ },
+ "by_dimension": {
+  "content_only": {
+   "n": 84,
+   "anchor%": 33.3,
+   "mode%": 9.5,
+   "cruft": 0
+  },
+  "current_lesson": {
+   "n": 70,
+   "anchor%": 100.0,
+   "mode%": 85.7,
+   "cruft": 0
+  },
+  "guard_chitchat": {
+   "n": 24,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_offtopic": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_oob_trang": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_out_of_book": {
+   "n": 15,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_word": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_year": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "name_query": {
+   "n": 86,
+   "anchor%": 96.5,
+   "mode%": 34.9,
+   "cruft": 0
+  },
+  "practice": {
+   "n": 83,
+   "anchor%": 100.0,
+   "mode%": 86.7,
+   "cruft": 0
+  },
+  "trang_profile": {
+   "n": 44,
+   "anchor%": 100.0,
+   "mode%": 84.1,
+   "cruft": 0
+  },
+  "trang_query": {
+   "n": 58,
+   "anchor%": 100.0,
+   "mode%": 89.7,
+   "cruft": 0
+  }
+ },
+ "sample_fails": [
+  [
+   "content_only",
+   "cái vụ tỉ số các cạnh là sao ạ?",
+   "got none: exp Trường hợp đồng dạng t"
+  ],
+  [
+   "content_only",
+   "như là bản đồ với mô hình thì gọi là gì ",
+   "got none: exp Hình đồng dạng trong t"
+  ],
+  [
+   "content_only",
+   "cái góc xen giữa là góc nằm ở đâu thế ạ?",
+   "got none: exp Trường hợp đồng dạng t"
+  ],
+  [
+   "content_only",
+   "mối quan hệ giữa các đại lượng trong bài",
+   "got none: exp Ứng dụng của phương tr"
+  ],
+  [
+   "content_only",
+   "làm sao để so sánh các đại lượng một các",
+   "got none: exp Mô tả và biểu diễn dữ "
+  ],
+  [
+   "content_only",
+   "cho em hỏi về tính chất của tam giác vuô",
+   "got A_concept: exp Trường hợp đồng dạng t"
+  ],
+  [
+   "content_only",
+   "thế là chỉ cần giống về hình dạng thôi đ",
+   "got A_concept: exp Hình đồng dạng trong t"
+  ],
+  [
+   "content_only",
+   "nếu biết tỉ số cạnh thì có suy ra được g",
+   "got none: exp Tam giác đồng dạng"
+  ],
+  [
+   "content_only",
+   "cho hỏi nếu là tam giác vuông thì chỉ cầ",
+   "got lesson_practice:Trường hợp đồng dạng t exp Trường hợp đồng dạng t"
+  ],
+  [
+   "name_query",
+   "bài này có cần chú ý gì về góc xen giữa ",
+   "got none: exp Trường hợp đồng dạng t"
+  ],
+  [
+   "content_only",
+   "các góc tương ứng của nó như thế nào",
+   "got none: exp Trường hợp đồng dạng t"
+  ],
+  [
+   "content_only",
+   "dạng này có điều kiện gì của a ko ạ?",
+   "got A_concept: exp Phương trình bậc nhất "
+  ],
+  [
+   "content_only",
+   "muốn biết tỉ lệ phần trăm của một nhóm t",
+   "got none: exp Mô tả và biểu diễn dữ "
+  ],
+  [
+   "content_only",
+   "cách tính quãng đường dựa vào v và t như",
+   "got A_concept: exp Ứng dụng của phương tr"
+  ],
+  [
+   "content_only",
+   "khi nào thì dùng trường hợp này ạ?",
+   "got none: exp Trường hợp đồng dạng t"
+  ],
+  [
+   "content_only",
+   "làm thế nào để biết cái biểu đồ này đang",
+   "got A_concept: exp Phân tích và xử lí dữ "
+  ],
+  [
+   "content_only",
+   "cho em hỏi về tỉ lệ giữa các cạnh với đo",
+   "got lesson_practice:Định lí Thalès trong t exp Tính chất đường phân g"
+  ],
+  [
+   "content_only",
+   "cách tính độ dài đoạn thẳng khi biết điề",
+   "got none: exp Định lí Thalès trong t"
+  ],
+  [
+   "content_only",
+   "có cái vụ đường thẳng song song cắt 2 cạ",
+   "got A_concept: exp Định lí Thalès trong t"
+  ],
+  [
+   "content_only",
+   "cho em hỏi khi nào thì hình thứ 2 lớn hơ",
+   "got none: exp Hình đồng dạng"
+  ],
+  [
+   "content_only",
+   "nếu muốn xem sự thay đổi theo thời gian ",
+   "got none: exp Mô tả và biểu diễn dữ "
+  ],
+  [
+   "content_only",
+   "có thể dùng quy tắc nào để giải cái này ",
+   "got none: exp Phương trình bậc nhất "
+  ],
+  [
+   "content_only",
+   "cái vụ AB/CD = MN/PQ là gì thế ạ?",
+   "got none: exp Định lí Thalès trong t"
+  ],
+  [
+   "content_only",
+   "phần này là về việc tính toán dựa trên k",
+   "got A_concept: exp Xác suất thực nghiệm c"
+  ],
+  [
+   "content_only",
+   "làm sao để biết nó song song với cạnh cò",
+   "got none: exp Đường trung bình của t"
+  ],
+  [
+   "content_only",
+   "công thức tính tỉ lệ phần trăm trong bài",
+   "got A_concept: exp Phân tích và xử lí dữ "
+  ],
+  [
+   "content_only",
+   "muốn biết sự chênh lệch giữa 2 tháng thì",
+   "got none: exp Phân tích và xử lí dữ "
+  ],
+  [
+   "content_only",
+   "muốn tìm giá sau khi giảm giá thì dùng c",
+   "got A_concept: exp Ứng dụng của phương tr"
+  ],
+  [
+   "content_only",
+   "nếu a bằng 0 thì sao ạ?",
+   "got none: exp Phương trình bậc nhất "
+  ],
+  [
+   "content_only",
+   "khi 2 tam giác này đồng dạng thì các góc",
+   "got lesson_practice:Trường hợp đồng dạng t exp Trường hợp đồng dạng t"
+  ]
+ ]
+}

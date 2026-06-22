@@ -1,0 +1,245 @@
+{
+ "book": "toan 8 KNTT tap2",
+ "port": "8890",
+ "total": 500,
+ "lessons": 19,
+ "lesson_cases": 425,
+ "guard_cases": 75,
+ "errors": 0,
+ "anchor_acc": 87.5,
+ "mode_acc": 62.6,
+ "guard_acc": 100.0,
+ "cruft_on_cards": 0,
+ "latency_ms": {
+  "p50": 38.6,
+  "p95": 275.6,
+  "p99": 295.1,
+  "max": 308.9
+ },
+ "by_dimension": {
+  "content_only": {
+   "n": 80,
+   "anchor%": 37.5,
+   "mode%": 8.8,
+   "cruft": 0
+  },
+  "current_lesson": {
+   "n": 68,
+   "anchor%": 100.0,
+   "mode%": 83.8,
+   "cruft": 0
+  },
+  "guard_chitchat": {
+   "n": 24,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_offtopic": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_oob_trang": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_out_of_book": {
+   "n": 15,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_word": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_year": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "name_query": {
+   "n": 90,
+   "anchor%": 97.8,
+   "mode%": 47.8,
+   "cruft": 0
+  },
+  "practice": {
+   "n": 89,
+   "anchor%": 100.0,
+   "mode%": 91.0,
+   "cruft": 0
+  },
+  "trang_profile": {
+   "n": 45,
+   "anchor%": 97.8,
+   "mode%": 82.2,
+   "cruft": 0
+  },
+  "trang_query": {
+   "n": 53,
+   "anchor%": 100.0,
+   "mode%": 77.4,
+   "cruft": 0
+  }
+ },
+ "sample_fails": [
+  [
+   "content_only",
+   "x với y liên quan gì nhau thế ạ?",
+   "got none: exp Khái niệm hàm số và đồ"
+  ],
+  [
+   "content_only",
+   "tỉ số k ở đây là gì thế ạ",
+   "got none: exp Hai tam giác đồng dạng"
+  ],
+  [
+   "content_only",
+   "cái số đứng sau dấu cộng là gì thế ạ?",
+   "got none: exp Hệ số góc của đường th"
+  ],
+  [
+   "content_only",
+   "làm thế nào để kiểm tra xem tam giác có ",
+   "got lesson_practice:Các trường hợp đồng dạ exp Định lí Pythagore và ứ"
+  ],
+  [
+   "trang_profile",
+   "giảng lại cho em cách nhân phân thức đại",
+   "got lesson_card:Phân thức đại số exp Phép nhân và phép chia"
+  ],
+  [
+   "content_only",
+   "có trường hợp nào liên quan đến cạnh huy",
+   "got lesson_card:Định lí Pythagore và ứ exp Các trường hợp đồng dạ"
+  ],
+  [
+   "name_query",
+   "định lí Pythagore đảo là gì thế ạ?",
+   "got A_concept: exp Định lí Pythagore và ứ"
+  ],
+  [
+   "content_only",
+   "cách biểu diễn đại lượng qua ẩn là thế n",
+   "got A_concept: exp Giải bài toán bằng các"
+  ],
+  [
+   "content_only",
+   "cái đường thẳng này được tạo ra từ đâu ạ",
+   "got A_concept: exp Hàm số bậc nhất và đồ "
+  ],
+  [
+   "content_only",
+   "chiều cao với trung đoạn khác nhau chỗ n",
+   "got A_concept: exp Hình chóp tam giác đều"
+  ],
+  [
+   "content_only",
+   "nửa chu vi đáy tính ntn ạ?",
+   "got none: exp Hình chóp tứ giác đều"
+  ],
+  [
+   "content_only",
+   "cái việc phóng to thu nhỏ qua 1 điểm gọi",
+   "got none: exp Hình đồng dạng"
+  ],
+  [
+   "content_only",
+   "cách liệt kê đầy đủ các trường hợp mà ko",
+   "got A_concept: exp Kết quả có thể và kết "
+  ],
+  [
+   "content_only",
+   "điều kiện của trường hợp c.g.c là gì vậy",
+   "got none: exp Ba trường hợp đồng dạn"
+  ],
+  [
+   "content_only",
+   "nếu số lần thử tăng lên thì kết quả sẽ t",
+   "got none: exp Mối liên hệ giữa xác s"
+  ],
+  [
+   "content_only",
+   "cho em hỏi về tỉ lệ các cạnh tương ứng v",
+   "got none: exp Hai tam giác đồng dạng"
+  ],
+  [
+   "content_only",
+   "biến số làm cho mẫu bằng 0 thì sao ạ?",
+   "got A_concept: exp Phân thức đại số"
+  ],
+  [
+   "content_only",
+   "trung đoạn là đường gì thế ạ?",
+   "got A_concept: exp Hình chóp tam giác đều"
+  ],
+  [
+   "content_only",
+   "cho em hỏi tổng số lần thực hiện phép th",
+   "got A_concept: exp Cách tính xác suất của"
+  ],
+  [
+   "content_only",
+   "kết quả của xác suất có bao giờ lớn hơn ",
+   "got A_concept: exp Cách tính xác suất của"
+  ],
+  [
+   "content_only",
+   "nghiệm của nó là gì vậy ạ?",
+   "got none: exp Phương trình bậc nhất "
+  ],
+  [
+   "content_only",
+   "làm sao để biết một tam giác có phải là ",
+   "got lesson_practice:Các trường hợp đồng dạ exp Định lí Pythagore và ứ"
+  ],
+  [
+   "content_only",
+   "cho em hỏi mối quan hệ giữa v, s và t vớ",
+   "got none: exp Giải bài toán bằng các"
+  ],
+  [
+   "content_only",
+   "muốn vẽ cái này thì cần mấy điểm ạ",
+   "got none: exp Hàm số bậc nhất và đồ "
+  ],
+  [
+   "content_only",
+   "nếu biết 2 góc bằng nhau thì có đủ để kế",
+   "got lesson_practice:Các trường hợp đồng dạ exp Ba trường hợp đồng dạn"
+  ],
+  [
+   "content_only",
+   "cái dạng y = ax + b là gì thế ạ",
+   "got none: exp Hàm số bậc nhất và đồ "
+  ],
+  [
+   "content_only",
+   "trục ox với oy là gì thế ạ?",
+   "got none: exp Khái niệm hàm số và đồ"
+  ],
+  [
+   "content_only",
+   "mọi hình tròn có luôn giống nhau về hình",
+   "got A_concept: exp Hình đồng dạng"
+  ],
+  [
+   "name_query",
+   "bài này có cần nhớ kĩ a1 = a2 ko ạ?",
+   "got none: exp Hệ số góc của đường th"
+  ],
+  [
+   "content_only",
+   "cách cộng trừ mấy cái phân thức đại số n",
+   "got lesson_practice:Phân thức đại số exp Phép cộng và phép trừ "
+  ]
+ ]
+}

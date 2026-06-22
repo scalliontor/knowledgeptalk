@@ -1,0 +1,245 @@
+{
+ "book": "toan 6 KNTT tap1",
+ "port": "8890",
+ "total": 500,
+ "lessons": 40,
+ "lesson_cases": 425,
+ "guard_cases": 75,
+ "errors": 0,
+ "anchor_acc": 84.9,
+ "mode_acc": 61.2,
+ "guard_acc": 100.0,
+ "cruft_on_cards": 0,
+ "latency_ms": {
+  "p50": 39.6,
+  "p95": 352.6,
+  "p99": 368.0,
+  "max": 664.4
+ },
+ "by_dimension": {
+  "content_only": {
+   "n": 79,
+   "anchor%": 43.0,
+   "mode%": 13.9,
+   "cruft": 0
+  },
+  "current_lesson": {
+   "n": 67,
+   "anchor%": 100.0,
+   "mode%": 83.6,
+   "cruft": 0
+  },
+  "guard_chitchat": {
+   "n": 24,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_offtopic": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_oob_trang": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_out_of_book": {
+   "n": 15,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_word": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_year": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "name_query": {
+   "n": 93,
+   "anchor%": 94.6,
+   "mode%": 38.7,
+   "cruft": 0
+  },
+  "practice": {
+   "n": 95,
+   "anchor%": 100.0,
+   "mode%": 93.7,
+   "cruft": 0
+  },
+  "trang_profile": {
+   "n": 42,
+   "anchor%": 83.3,
+   "mode%": 76.2,
+   "cruft": 0
+  },
+  "trang_query": {
+   "n": 49,
+   "anchor%": 85.7,
+   "mode%": 73.5,
+   "cruft": 0
+  }
+ },
+ "sample_fails": [
+  [
+   "content_only",
+   "cho em hỏi cách để lấy mấy cái thông tin",
+   "got none: exp Dữ liệu và thu thập dữ"
+  ],
+  [
+   "content_only",
+   "giao điểm 2 đường chéo của hình bình hàn",
+   "got lesson_card:Hình chữ nhật, Hình th exp Hình có tâm đối xứng"
+  ],
+  [
+   "trang_query",
+   "phân tích giúp em cái số này với ạ ở tra",
+   "got lesson_card:So sánh phân số. Hỗn s exp Cách ghi số tự nhiên"
+  ],
+  [
+   "content_only",
+   "hình có 2 chiều dài và 2 chiều rộng bằng",
+   "got A_concept: exp Chu vi và diện tích củ"
+  ],
+  [
+   "content_only",
+   "nhân chia với cộng trừ cái nào mạnh hơn ",
+   "got A_concept: exp Thứ tự thực hiện các p"
+  ],
+  [
+   "trang_query",
+   "giải thích cho em tại sao n-1 là số liền",
+   "got lesson_practice:Vẽ hình đơn giản với p exp Thứ tự trong tập hợp c"
+  ],
+  [
+   "content_only",
+   "cái dùng hình ảnh để biểu diễn số liệu l",
+   "got A_concept: exp Bảng thống kê và biểu "
+  ],
+  [
+   "content_only",
+   "trùng nhau là có bao nhiêu điểm chung ạ?",
+   "got A_concept: exp Điểm và đường thẳng"
+  ],
+  [
+   "trang_profile",
+   "cái này có cần cộng hết diện tích cửa lạ",
+   "got lesson_card:Vẽ hình đơn giản với p exp Tấm thiệp và phòng học"
+  ],
+  [
+   "content_only",
+   "hỗn số là sự kết hợp của những thành phầ",
+   "got A_concept: exp So sánh phân số. Hỗn s"
+  ],
+  [
+   "content_only",
+   "số đối của một phân số là gì vậy?",
+   "got lesson_card:Số thập phân exp Phép cộng và phép trừ "
+  ],
+  [
+   "content_only",
+   "cho em hỏi cộng số dương với số âm thì t",
+   "got lesson_practice:Tính toán với số thập  exp Phép cộng và phép trừ "
+  ],
+  [
+   "content_only",
+   "hình có 2 cặp cạnh đối song song và bằng",
+   "got lesson_card:Hình có trục đối xứng exp Chu vi và diện tích củ"
+  ],
+  [
+   "content_only",
+   "muốn tìm số chưa biết thì làm thế nào ạ?",
+   "got lesson_practice:Hai bài toán về phân s exp Phép cộng và phép trừ "
+  ],
+  [
+   "content_only",
+   "làm sao để biết được giá trị của nó thế ",
+   "got none: exp Biểu đồ cột"
+  ],
+  [
+   "content_only",
+   "có cách nào nhóm các số cho hợp lý để tí",
+   "got none: exp Quy tắc dấu ngoặc"
+  ],
+  [
+   "trang_query",
+   "em chưa hiểu cách tìm BCNN bằng máy tính",
+   "got lesson_card:Vẽ hình đơn giản với p exp Sử dụng máy tính cầm t"
+  ],
+  [
+   "content_only",
+   "có quy tắc gì cho việc nhân hai số cùng ",
+   "got lesson_practice:Quy tắc dấu ngoặc exp Phép nhân số nguyên"
+  ],
+  [
+   "content_only",
+   "đỉnh của nó là cái điểm gì thế ạ?",
+   "got none: exp Góc"
+  ],
+  [
+   "content_only",
+   "số có dấu trừ đằng trước là số gì thế ạ?",
+   "got lesson_practice:Quy tắc dấu ngoặc exp Tập hợp các số nguyên"
+  ],
+  [
+   "name_query",
+   "bài này có cần lưu ý gì khi tìm ước khôn",
+   "got none: exp Phép chia hết - Ước và"
+  ],
+  [
+   "content_only",
+   "hình có 4 cạnh bằng nhau thì gọi là gì t",
+   "got lesson_practice:Hình tam giác đều, hìn exp Chu vi và diện tích củ"
+  ],
+  [
+   "name_query",
+   "cách vẽ hình vuông trong bài này như nào",
+   "got A_concept: exp Hình tam giác đều, hìn"
+  ],
+  [
+   "content_only",
+   "làm sao để biết phân số đó đã tối giản c",
+   "got A_concept: exp Ước chung - Ước chung "
+  ],
+  [
+   "trang_query",
+   "giải thích hộ em cái biểu thức phức tạp ",
+   "got lesson_card:Vẽ hình đơn giản với p exp Sử dụng máy tính cầm t"
+  ],
+  [
+   "trang_profile",
+   "em không hiểu chỗ số đối lắm, giải thích",
+   "got lesson_card:Vẽ hình đơn giản với p exp Phép cộng và phép trừ "
+  ],
+  [
+   "content_only",
+   "số nào thì gọi là có đúng 2 ước vậy ạ",
+   "got none: exp Số nguyên tố"
+  ],
+  [
+   "content_only",
+   "làm sao để biết một điểm có nằm trong gi",
+   "got lesson_practice:Điểm nằm giữa hai điểm exp Góc"
+  ],
+  [
+   "trang_query",
+   "mấy cái phím này dùng để làm gì thế thầy",
+   "got lesson_card:Vẽ hình đơn giản với p exp Sử dụng máy tính cầm t"
+  ],
+  [
+   "content_only",
+   "tìm GCD là để làm gì vậy ạ?",
+   "got none: exp Sử dụng máy tính cầm t"
+  ]
+ ]
+}

@@ -1,0 +1,245 @@
+{
+ "book": "toan 8 CD tap1",
+ "port": "8890",
+ "total": 500,
+ "lessons": 19,
+ "lesson_cases": 425,
+ "guard_cases": 75,
+ "errors": 0,
+ "anchor_acc": 79.1,
+ "mode_acc": 62.8,
+ "guard_acc": 100.0,
+ "cruft_on_cards": 0,
+ "latency_ms": {
+  "p50": 39.5,
+  "p95": 284.6,
+  "p99": 300.5,
+  "max": 480.4
+ },
+ "by_dimension": {
+  "content_only": {
+   "n": 82,
+   "anchor%": 23.2,
+   "mode%": 12.2,
+   "cruft": 0
+  },
+  "current_lesson": {
+   "n": 70,
+   "anchor%": 100.0,
+   "mode%": 88.6,
+   "cruft": 0
+  },
+  "guard_chitchat": {
+   "n": 24,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_offtopic": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_oob_trang": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_out_of_book": {
+   "n": 15,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_word": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_year": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "name_query": {
+   "n": 88,
+   "anchor%": 75.0,
+   "mode%": 39.8,
+   "cruft": 0
+  },
+  "practice": {
+   "n": 87,
+   "anchor%": 100.0,
+   "mode%": 87.4,
+   "cruft": 0
+  },
+  "trang_profile": {
+   "n": 44,
+   "anchor%": 95.5,
+   "mode%": 79.5,
+   "cruft": 0
+  },
+  "trang_query": {
+   "n": 54,
+   "anchor%": 96.3,
+   "mode%": 90.7,
+   "cruft": 0
+  }
+ },
+ "sample_fails": [
+  [
+   "content_only",
+   "2 đường chéo của nó có tính chất gì đặc ",
+   "got A_concept: exp Hình thoi"
+  ],
+  [
+   "name_query",
+   "bài Đồ thị của hàm số bậc nhất y = ax + ",
+   "got lesson_card:Hàm số exp Đồ thị của hàm số bậc "
+  ],
+  [
+   "name_query",
+   "có mẹo nào làm nhanh bài phép nhân phép ",
+   "got lesson_practice:Phân thức đại số exp Phép nhân, phép chia p"
+  ],
+  [
+   "content_only",
+   "nếu a = 0 thì có còn là dạng này ko",
+   "got A_concept: exp Hàm số bậc nhất y = ax"
+  ],
+  [
+   "name_query",
+   "em chưa nắm vững phần đa thức nhiều biến",
+   "got A_concept: exp Đơn thức nhiều biến. Đ"
+  ],
+  [
+   "name_query",
+   "bài phép nhân phép chia phân thức đại số",
+   "got lesson_card:Phân thức đại số exp Phép nhân, phép chia p"
+  ],
+  [
+   "content_only",
+   "cạnh đối diện góc vuông gọi là gì thế ạ?",
+   "got none: exp Định lí Pythagore"
+  ],
+  [
+   "content_only",
+   "có cần phải rút gọn kết quả cuối cùng ko",
+   "got none: exp Phép nhân, phép chia p"
+  ],
+  [
+   "trang_profile",
+   "chỗ này có gì khác hình bình hành ạ",
+   "got lesson_card:Hình bình hành exp Hình thang cân"
+  ],
+  [
+   "name_query",
+   "bài hàm số bậc nhất này có gì cần lưu ý ",
+   "got lesson_card:Hàm số exp Hàm số bậc nhất y = ax"
+  ],
+  [
+   "name_query",
+   "thầy ơi giải thích kĩ lại bài phép nhân ",
+   "got lesson_card:Phân thức đại số exp Phép nhân, phép chia p"
+  ],
+  [
+   "content_only",
+   "nếu 2 cạnh kề bằng nhau thì là hình gì?",
+   "got lesson_card:Hình thang cân exp Hình thoi"
+  ],
+  [
+   "content_only",
+   "cái đường nối từ đỉnh xuống tâm đáy gọi ",
+   "got none: exp Hình chóp tứ giác đều"
+  ],
+  [
+   "content_only",
+   "mỗi x thì chỉ được có mấy y thôi ạ?",
+   "got none: exp Hàm số"
+  ],
+  [
+   "content_only",
+   "công thức tính diện tích là gì thế ạ",
+   "got A_concept: exp Hình vuông"
+  ],
+  [
+   "name_query",
+   "có bài tập nào về đơn thức nhiều biến ko",
+   "got lesson_practice:Các phép tính với đa t exp Đơn thức nhiều biến. Đ"
+  ],
+  [
+   "content_only",
+   "biến x là gì thế ạ",
+   "got none: exp Hàm số bậc nhất y = ax"
+  ],
+  [
+   "content_only",
+   "nếu 4 cạnh bằng nhau thì nó là hình gì n",
+   "got lesson_card:Hình thoi exp Hình vuông"
+  ],
+  [
+   "content_only",
+   "trục nào là trục tung vậy ạ?",
+   "got none: exp Mặt phẳng tọa độ. Đồ t"
+  ],
+  [
+   "content_only",
+   "hình này có mấy góc vuông thế ạ?",
+   "got lesson_card:Hình vuông exp Hình chữ nhật"
+  ],
+  [
+   "content_only",
+   "tính chu vi thì làm ntn ạ",
+   "got none: exp Hình vuông"
+  ],
+  [
+   "content_only",
+   "trung đoạn là đường gì thế ạ",
+   "got A_concept: exp Hình chóp tứ giác đều"
+  ],
+  [
+   "content_only",
+   "nửa chu vi đáy tính kiểu gì thế ạ",
+   "got none: exp Hình chóp tứ giác đều"
+  ],
+  [
+   "name_query",
+   "cho em hỏi về hàm số bậc nhất y = ax + b",
+   "got lesson_practice:Hàm số exp Hàm số bậc nhất y = ax"
+  ],
+  [
+   "content_only",
+   "2 đường chéo của nó thì thế nào ạ",
+   "got lesson_card:Hình thoi exp Hình thang cân"
+  ],
+  [
+   "content_only",
+   "muốn vẽ được cái này thì cần mấy điểm ạ?",
+   "got none: exp Đồ thị của hàm số bậc "
+  ],
+  [
+   "name_query",
+   "bài phép nhân phép chia phân thức đại số",
+   "got lesson_practice:Phân thức đại số exp Phép nhân, phép chia p"
+  ],
+  [
+   "name_query",
+   "thầy giảng lại bài đồ thị của hàm số đi ",
+   "got lesson_card:Hàm số exp Mặt phẳng tọa độ. Đồ t"
+  ],
+  [
+   "content_only",
+   "công thức tính diện tích của nó là gì th",
+   "got A_concept: exp Hình chữ nhật"
+  ],
+  [
+   "content_only",
+   "mấy cái tính chất giao hoán với kết hợp ",
+   "got A_concept: exp Phép cộng, phép trừ ph"
+  ]
+ ]
+}

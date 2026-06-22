@@ -1,0 +1,245 @@
+{
+ "book": "dia_li 9 KNTT tapNone",
+ "port": "8890",
+ "total": 500,
+ "lessons": 22,
+ "lesson_cases": 425,
+ "guard_cases": 75,
+ "errors": 0,
+ "anchor_acc": 82.8,
+ "mode_acc": 71.8,
+ "guard_acc": 100.0,
+ "cruft_on_cards": 0,
+ "latency_ms": {
+  "p50": 39.3,
+  "p95": 206.7,
+  "p99": 232.9,
+  "max": 276.6
+ },
+ "by_dimension": {
+  "content_only": {
+   "n": 97,
+   "anchor%": 27.8,
+   "mode%": 24.7,
+   "cruft": 0
+  },
+  "current_lesson": {
+   "n": 75,
+   "anchor%": 100.0,
+   "mode%": 97.3,
+   "cruft": 0
+  },
+  "guard_chitchat": {
+   "n": 24,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_offtopic": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_oob_trang": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_out_of_book": {
+   "n": 15,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_word": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_year": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "name_query": {
+   "n": 92,
+   "anchor%": 96.7,
+   "mode%": 58.7,
+   "cruft": 0
+  },
+  "practice": {
+   "n": 89,
+   "anchor%": 100.0,
+   "mode%": 93.3,
+   "cruft": 0
+  },
+  "trang_profile": {
+   "n": 28,
+   "anchor%": 100.0,
+   "mode%": 96.4,
+   "cruft": 0
+  },
+  "trang_query": {
+   "n": 44,
+   "anchor%": 100.0,
+   "mode%": 100.0,
+   "cruft": 0
+  }
+ },
+ "sample_fails": [
+  [
+   "content_only",
+   "ở Hải Phòng có những ngành công nghiệp n",
+   "got lesson_card:Công nghiệp exp Thực hành: Xác định cá"
+  ],
+  [
+   "content_only",
+   "ngoài cà phê thì còn trồng được cây gì n",
+   "got none: exp Vùng Tây Nguyên"
+  ],
+  [
+   "content_only",
+   "ngoài đông nam bộ ra thì vùng nào thu nh",
+   "got lesson_practice:Vùng Đông Nam Bộ exp Thực hành: Tìm hiểu vấ"
+  ],
+  [
+   "content_only",
+   "khí hậu ở đây có gì đặc biệt không ạ?",
+   "got none: exp Duyên hải Nam Trung Bộ"
+  ],
+  [
+   "content_only",
+   "du lịch xanh là như thế nào ạ?",
+   "got none: exp Thực hành: Tìm hiểu xu"
+  ],
+  [
+   "content_only",
+   "xu hướng phát triển hiện nay là gì ạ?",
+   "got lesson_card:Thực hành: Tìm hiểu xu exp Công nghiệp"
+  ],
+  [
+   "content_only",
+   "tại sao nước mình lại phát triển nhiều c",
+   "got A_concept: exp Nông nghiệp"
+  ],
+  [
+   "content_only",
+   "đặc điểm đất đai ở đây như thế nào thế ạ",
+   "got none: exp Vùng Đồng bằng sông Cử"
+  ],
+  [
+   "content_only",
+   "vị trí của khu vực này có gì quan trọng ",
+   "got none: exp Duyên hải Nam Trung Bộ"
+  ],
+  [
+   "content_only",
+   "vụ cháy rừng 45 ha ở ninh thuận là do cá",
+   "got none: exp Thực hành: Phân tích ả"
+  ],
+  [
+   "content_only",
+   "vùng ven biển thì thường phát triển mạnh",
+   "got lesson_card:Phát triển tổng hợp ki exp Lâm nghiệp và thuỷ sản"
+  ],
+  [
+   "content_only",
+   "đất đai ở vùng này như thế nào ạ?",
+   "got none: exp Thực hành: Tìm hiểu Vù"
+  ],
+  [
+   "content_only",
+   "vùng ninh thuận bình thuận đang gặp vấn ",
+   "got none: exp Thực hành: Phân tích ả"
+  ],
+  [
+   "content_only",
+   "vùng này có đặc điểm gì về dân cư thế ạ",
+   "got lesson_card:Phân bố dân cư và các  exp Vùng Đồng bằng sông Hồ"
+  ],
+  [
+   "content_only",
+   "mùa khô ở đây có ảnh hưởng gì nhiều khôn",
+   "got A_concept: exp Vùng Tây Nguyên"
+  ],
+  [
+   "content_only",
+   "về nguồn lao động thì ở đây thế nào ạ?",
+   "got A_concept: exp Thực hành: Tìm hiểu về"
+  ],
+  [
+   "content_only",
+   "tỉ lệ dân thành thị ở đây cao ko ạ?",
+   "got lesson_card:Phân bố dân cư và các  exp Vùng Đông Nam Bộ"
+  ],
+  [
+   "content_only",
+   "tình trạng xâm nhập mặn ở đây là do đâu ",
+   "got none: exp Vùng Đồng bằng sông Cử"
+  ],
+  [
+   "content_only",
+   "cho em hỏi ở khu vực phía Nam có trung t",
+   "got none: exp Thực hành: Xác định cá"
+  ],
+  [
+   "name_query",
+   "bài này có nhắc đến mấy tỉnh nào ạ?",
+   "got none: exp Thực hành: Tìm hiểu về"
+  ],
+  [
+   "content_only",
+   "thế mạnh tự nhiên ở đây có gì nổi bật ko",
+   "got none: exp Thực hành: Tìm hiểu Vù"
+  ],
+  [
+   "content_only",
+   "nguồn lao động ở đây có tốt không ạ",
+   "got A_concept: exp Vùng Đồng bằng sông Hồ"
+  ],
+  [
+   "content_only",
+   "địa hình ở đây có những dạng nào ạ",
+   "got none: exp Vùng Trung du và miền "
+  ],
+  [
+   "content_only",
+   "thị trường với chính sách có quan trọng ",
+   "got A_concept: exp Nông nghiệp"
+  ],
+  [
+   "content_only",
+   "vùng này đóng góp bao nhiêu % vào cả nướ",
+   "got A_concept: exp Thực hành: Tìm hiểu Vù"
+  ],
+  [
+   "content_only",
+   "việc giảm khai thác thô để chuyển sang c",
+   "got none: exp Công nghiệp"
+  ],
+  [
+   "content_only",
+   "vùng này có những loại khoáng sản gì thế",
+   "got none: exp Vùng Trung du và miền "
+  ],
+  [
+   "content_only",
+   "các loại cây công nghiệp chính là gì thế",
+   "got lesson_card:Công nghiệp exp Vùng Đông Nam Bộ"
+  ],
+  [
+   "content_only",
+   "các ngành công nghiệp chính ở đây là gì?",
+   "got lesson_card:Công nghiệp exp Thực hành: Tìm hiểu Vù"
+  ],
+  [
+   "content_only",
+   "thế mạnh về kinh tế của khu vực này là g",
+   "got none: exp Vùng Trung du và miền "
+  ]
+ ]
+}

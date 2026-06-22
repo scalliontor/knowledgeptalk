@@ -1,0 +1,245 @@
+{
+ "book": "dia_li 8 CD tapNone",
+ "port": "8890",
+ "total": 435,
+ "lessons": 12,
+ "lesson_cases": 360,
+ "guard_cases": 75,
+ "errors": 0,
+ "anchor_acc": 90.3,
+ "mode_acc": 76.1,
+ "guard_acc": 92.0,
+ "cruft_on_cards": 0,
+ "latency_ms": {
+  "p50": 41.4,
+  "p95": 197.2,
+  "p99": 282.2,
+  "max": 368.6
+ },
+ "by_dimension": {
+  "content_only": {
+   "n": 72,
+   "anchor%": 56.9,
+   "mode%": 37.5,
+   "cruft": 0
+  },
+  "current_lesson": {
+   "n": 60,
+   "anchor%": 100.0,
+   "mode%": 90.0,
+   "cruft": 0
+  },
+  "guard_chitchat": {
+   "n": 24,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_offtopic": {
+   "n": 12,
+   "anchor%": 50.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_oob_trang": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_out_of_book": {
+   "n": 15,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_word": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_year": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "name_query": {
+   "n": 72,
+   "anchor%": 94.4,
+   "mode%": 65.3,
+   "cruft": 0
+  },
+  "practice": {
+   "n": 72,
+   "anchor%": 100.0,
+   "mode%": 94.4,
+   "cruft": 0
+  },
+  "trang_profile": {
+   "n": 36,
+   "anchor%": 100.0,
+   "mode%": 88.9,
+   "cruft": 0
+  },
+  "trang_query": {
+   "n": 48,
+   "anchor%": 100.0,
+   "mode%": 95.8,
+   "cruft": 0
+  }
+ },
+ "sample_fails": [
+  [
+   "name_query",
+   "giúp em bài thực hành địa hình lớp 8 này",
+   "got none: exp Thực hành: Tìm hiểu về"
+  ],
+  [
+   "content_only",
+   "nguyên nhân nào làm đất bị thoái hóa vậy",
+   "got none: exp Thổ nhưỡng Việt Nam"
+  ],
+  [
+   "content_only",
+   "việc sử dụng tài nguyên nước cần lưu ý g",
+   "got none: exp Thuỷ văn Việt Nam"
+  ],
+  [
+   "content_only",
+   "vùng đất bao gồm cả mấy cái đảo nữa đúng",
+   "got none: exp Vị trí và phạm vị lãnh"
+  ],
+  [
+   "content_only",
+   "vùng đồng bằng sông cửu long bị ảnh hưởn",
+   "got none: exp Tác động của biến đổi "
+  ],
+  [
+   "content_only",
+   "vườn quốc gia dùng để làm gì thế ạ?",
+   "got none: exp Đặc điểm chung của sin"
+  ],
+  [
+   "content_only",
+   "có mấy nhóm giải pháp để ứng phó với việ",
+   "got none: exp Tác động của biến đổi "
+  ],
+  [
+   "content_only",
+   "vùng đồng bằng thì phù hợp với loại hình",
+   "got none: exp Thực hành: Tìm hiểu về"
+  ],
+  [
+   "content_only",
+   "lượng mưa trung bình mỗi năm khoảng bao ",
+   "got none: exp Khí hậu Việt Nam"
+  ],
+  [
+   "name_query",
+   "bài thực hành về địa hình lớp 8 này có k",
+   "got none: exp Thực hành: Tìm hiểu về"
+  ],
+  [
+   "content_only",
+   "ở đồng bằng thì thường làm gì là chính ạ",
+   "got none: exp Thực hành: Tìm hiểu về"
+  ],
+  [
+   "content_only",
+   "hệ sinh thái biển với rừng nhiệt đới có ",
+   "got A_concept: exp Đặc điểm chung của sin"
+  ],
+  [
+   "content_only",
+   "vị trí địa lý của biển mình nằm ở đâu th",
+   "got none: exp Phạm vi Biển Đông: Các"
+  ],
+  [
+   "name_query",
+   "em đang học bài thực hành về địa hình, c",
+   "got A_concept: exp Thực hành: Tìm hiểu về"
+  ],
+  [
+   "content_only",
+   "bờ biển nước mình có gì đa dạng không ạ",
+   "got lesson_card:Môi trường và tài nguy exp Địa hình Việt Nam"
+  ],
+  [
+   "content_only",
+   "loại đất nào chiếm diện tích lớn nhất ở ",
+   "got lesson_card:Địa hình Việt Nam exp Thổ nhưỡng Việt Nam"
+  ],
+  [
+   "content_only",
+   "việc thay đổi cơ cấu cây trồng là thuộc ",
+   "got none: exp Tác động của biến đổi "
+  ],
+  [
+   "content_only",
+   "tại sao khí hậu mình lại là nhiệt đới ẩm",
+   "got lesson_card:Khí hậu Việt Nam exp Vị trí và phạm vị lãnh"
+  ],
+  [
+   "name_query",
+   "bài này có nói về mấy cái quần đảo hoàng",
+   "got none: exp Phạm vi Biển Đông: Các"
+  ],
+  [
+   "content_only",
+   "thềm lục địa của mình có nhiều khoáng sả",
+   "got lesson_card:Khoáng sản Việt Nam exp Môi trường và tài nguy"
+  ],
+  [
+   "content_only",
+   "càng lên cao thì nhiệt độ sẽ thay đổi th",
+   "got none: exp Khí hậu Việt Nam"
+  ],
+  [
+   "content_only",
+   "ngoài hải sản thì biển còn có gì khác nữ",
+   "got none: exp Môi trường và tài nguy"
+  ],
+  [
+   "content_only",
+   "nguy cơ suy giảm tài nguyên là do đâu vậ",
+   "got none: exp Đặc điểm chung của sin"
+  ],
+  [
+   "content_only",
+   "muốn khai thác hiệu quả thì cần lưu ý gì",
+   "got none: exp Khoáng sản Việt Nam"
+  ],
+  [
+   "content_only",
+   "vùng biển của mình gồm những phần nào vậ",
+   "got lesson_card:Phạm vi Biển Đông: Các exp Vị trí và phạm vị lãnh"
+  ],
+  [
+   "content_only",
+   "nước biển dâng thì sẽ gây ra hiện tượng ",
+   "got none: exp Tác động của biến đổi "
+  ],
+  [
+   "content_only",
+   "chiều rộng lãnh hải là bao nhiêu hải lý ",
+   "got none: exp Phạm vi Biển Đông: Các"
+  ],
+  [
+   "content_only",
+   "mấy cái đai khí hậu ở núi cao gồm những ",
+   "got none: exp Thực hành: Tìm hiểu về"
+  ],
+  [
+   "content_only",
+   "đất ở đồng bằng thì có đặc điểm gì nổi b",
+   "got lesson_card:Địa hình Việt Nam exp Thổ nhưỡng Việt Nam"
+  ],
+  [
+   "content_only",
+   "địa hình ven biển thì có lợi gì cho kinh",
+   "got lesson_card:Môi trường và tài nguy exp Thực hành: Tìm hiểu về"
+  ]
+ ]
+}

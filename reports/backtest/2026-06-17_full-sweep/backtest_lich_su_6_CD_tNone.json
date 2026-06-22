@@ -1,0 +1,245 @@
+{
+ "book": "lich_su 6 CD tapNone",
+ "port": "8890",
+ "total": 500,
+ "lessons": 20,
+ "lesson_cases": 425,
+ "guard_cases": 75,
+ "errors": 0,
+ "anchor_acc": 83.3,
+ "mode_acc": 77.2,
+ "guard_acc": 100.0,
+ "cruft_on_cards": 0,
+ "latency_ms": {
+  "p50": 39.1,
+  "p95": 288.9,
+  "p99": 305.3,
+  "max": 316.1
+ },
+ "by_dimension": {
+  "content_only": {
+   "n": 85,
+   "anchor%": 24.7,
+   "mode%": 12.9,
+   "cruft": 0
+  },
+  "current_lesson": {
+   "n": 72,
+   "anchor%": 98.6,
+   "mode%": 94.4,
+   "cruft": 0
+  },
+  "guard_chitchat": {
+   "n": 24,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_offtopic": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_oob_trang": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_out_of_book": {
+   "n": 15,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_word": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_year": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "name_query": {
+   "n": 89,
+   "anchor%": 93.3,
+   "mode%": 85.4,
+   "cruft": 0
+  },
+  "practice": {
+   "n": 87,
+   "anchor%": 100.0,
+   "mode%": 97.7,
+   "cruft": 0
+  },
+  "trang_profile": {
+   "n": 40,
+   "anchor%": 100.0,
+   "mode%": 92.5,
+   "cruft": 0
+  },
+  "trang_query": {
+   "n": 52,
+   "anchor%": 100.0,
+   "mode%": 98.1,
+   "cruft": 0
+  }
+ },
+ "sample_fails": [
+  [
+   "content_only",
+   "văn hóa phương tây được hình thành từ đâ",
+   "got none: exp Hy Lạp và La Mã cổ đại"
+  ],
+  [
+   "name_query",
+   "bài Giao lưu thương mại và Văn hóa ở Đôn",
+   "got lesson_card:Giao lưu thương mại và exp Giao lưu thương mại và"
+  ],
+  [
+   "content_only",
+   "cho em hỏi ai là người chống quân Đông N",
+   "got none: exp Các cuộc khởi nghĩa ti"
+  ],
+  [
+   "content_only",
+   "có những cách nào để dựng lại quá khứ ạ?",
+   "got none: exp Lịch sử là gì?"
+  ],
+  [
+   "content_only",
+   "người xưa dùng gì để chế biến thức ăn th",
+   "got none: exp Xã hội nguyên thủy"
+  ],
+  [
+   "content_only",
+   "tôn giáo nào phổ biến thời đó vậy ạ?",
+   "got A_concept: exp Cuộc đấu tranh giữ gìn"
+  ],
+  [
+   "content_only",
+   "ngoài nông nghiệp thì họ còn làm gì nữa?",
+   "got none: exp Vương quốc Phù Nam"
+  ],
+  [
+   "content_only",
+   "có những thành tựu nào nổi bật về kiến t",
+   "got none: exp Trung Quốc từ thời cổ "
+  ],
+  [
+   "content_only",
+   "thời kỳ này có những thay đổi gì về mặt ",
+   "got none: exp Chính sách cai trị của"
+  ],
+  [
+   "content_only",
+   "vụ xây kim tự tháp là của nước nào thế ạ",
+   "got none: exp Ai Cập và Lưỡng Hà cổ "
+  ],
+  [
+   "content_only",
+   "năm 931 có sự kiện gì liên quan đến quân",
+   "got none: exp Bước ngoặt lịch sử đầu"
+  ],
+  [
+   "content_only",
+   "mấy cái đẳng cấp này gồm những ai vậy ạ?",
+   "got none: exp Ấn Độ cổ đại"
+  ],
+  [
+   "content_only",
+   "văn hóa sa huynh có liên quan gì đến cái",
+   "got none: exp Vương quốc Chăm-Pa"
+  ],
+  [
+   "content_only",
+   "vũ khí lợi hại nhất thời đó là gì thế?",
+   "got none: exp Nước Âu Lạc"
+  ],
+  [
+   "content_only",
+   "vùng này có những con sông nào quan trọn",
+   "got none: exp Ấn Độ cổ đại"
+  ],
+  [
+   "content_only",
+   "vị trí địa lí ở đây có gì đặc biệt ạ?",
+   "got none: exp Giao lưu thương mại và"
+  ],
+  [
+   "content_only",
+   "việc giao thương đường biển giúp ích gì ",
+   "got lesson_card:Sự ra đời và phát triể exp Giao lưu thương mại và"
+  ],
+  [
+   "content_only",
+   "việc đưa thêm cây trồng vật nuôi vào thờ",
+   "got A_concept: exp Chính sách cai trị của"
+  ],
+  [
+   "name_query",
+   "bài Giao lưu thương mại và Văn hóa ở Đôn",
+   "got lesson_card:Giao lưu thương mại và exp Giao lưu thương mại và"
+  ],
+  [
+   "content_only",
+   "kinh tế thời đó chủ yếu là làm gì vậy ạ",
+   "got A_concept: exp Hy Lạp và La Mã cổ đại"
+  ],
+  [
+   "content_only",
+   "vùng đất đó nằm ở đâu bây giờ ạ?",
+   "got none: exp Nước Văn Lang"
+  ],
+  [
+   "content_only",
+   "kinh tế chính của các nước thời đó là gì",
+   "got A_concept: exp Sự ra đời và phát triể"
+  ],
+  [
+   "content_only",
+   "mấy cái triều đại đầu tiên là gì thế ạ?",
+   "got none: exp Trung Quốc từ thời cổ "
+  ],
+  [
+   "content_only",
+   "ai là người lãnh đạo chống lại thái thú ",
+   "got none: exp Các cuộc khởi nghĩa ti"
+  ],
+  [
+   "content_only",
+   "vị trí của khu vực này có gì đặc biệt về",
+   "got none: exp Giao lưu thương mại và"
+  ],
+  [
+   "name_query",
+   "tóm tắt giúp em bài Giao lưu thương mại ",
+   "got lesson_card:Giao lưu thương mại và exp Giao lưu thương mại và"
+  ],
+  [
+   "content_only",
+   "cái dựa vào mặt trăng là cái gì thế ạ?",
+   "got none: exp Thời gian trong lịch s"
+  ],
+  [
+   "content_only",
+   "vị trí của khu vực này có gì đặc biệt kh",
+   "got none: exp Sự ra đời và phát triể"
+  ],
+  [
+   "content_only",
+   "tìm thấy di cốt ở những đâu ở Đông Nam Á",
+   "got none: exp Nguồn gốc loài người"
+  ],
+  [
+   "content_only",
+   "ngoài tôn giáo thì còn nhận được gì từ Ấ",
+   "got lesson_card:Ấn Độ cổ đại exp Giao lưu thương mại và"
+  ]
+ ]
+}

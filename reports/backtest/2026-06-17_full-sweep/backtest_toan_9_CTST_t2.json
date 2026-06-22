@@ -1,0 +1,245 @@
+{
+ "book": "toan 9 CTST tap2",
+ "port": "8890",
+ "total": 465,
+ "lessons": 13,
+ "lesson_cases": 390,
+ "guard_cases": 75,
+ "errors": 0,
+ "anchor_acc": 87.2,
+ "mode_acc": 63.6,
+ "guard_acc": 100.0,
+ "cruft_on_cards": 0,
+ "latency_ms": {
+  "p50": 37.2,
+  "p95": 260.4,
+  "p99": 280.0,
+  "max": 285.6
+ },
+ "by_dimension": {
+  "content_only": {
+   "n": 78,
+   "anchor%": 38.5,
+   "mode%": 15.4,
+   "cruft": 0
+  },
+  "current_lesson": {
+   "n": 65,
+   "anchor%": 100.0,
+   "mode%": 90.8,
+   "cruft": 0
+  },
+  "guard_chitchat": {
+   "n": 24,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_offtopic": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_oob_trang": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_out_of_book": {
+   "n": 15,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_word": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_year": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "name_query": {
+   "n": 78,
+   "anchor%": 97.4,
+   "mode%": 46.2,
+   "cruft": 0
+  },
+  "practice": {
+   "n": 78,
+   "anchor%": 100.0,
+   "mode%": 89.7,
+   "cruft": 0
+  },
+  "trang_profile": {
+   "n": 39,
+   "anchor%": 100.0,
+   "mode%": 66.7,
+   "cruft": 0
+  },
+  "trang_query": {
+   "n": 52,
+   "anchor%": 100.0,
+   "mode%": 86.5,
+   "cruft": 0
+  }
+ },
+ "sample_fails": [
+  [
+   "content_only",
+   "công thức tính R của tam giác đều là gì ",
+   "got lesson_practice:Đa giác đều và phép qu exp Đường tròn ngoại tiếp "
+  ],
+  [
+   "content_only",
+   "làm sao để biết phương trình có nghiệm k",
+   "got A_concept: exp Phương trình bậc hai m"
+  ],
+  [
+   "content_only",
+   "công thức tính diện tích mặt này là gì?",
+   "got A_concept: exp Hình cầu"
+  ],
+  [
+   "content_only",
+   "cái delta này dùng để làm gì thế ạ",
+   "got none: exp Phương trình bậc hai m"
+  ],
+  [
+   "content_only",
+   "thể tích của nó phụ thuộc vào cái gì thế",
+   "got none: exp Hình cầu"
+  ],
+  [
+   "content_only",
+   "cách tính thể tích của hình này như nào?",
+   "got lesson_practice:Hình trụ exp Hình cầu"
+  ],
+  [
+   "content_only",
+   "điểm O(0;0) có liên quan gì đến cái này ",
+   "got none: exp Hàm số và đồ thị của h"
+  ],
+  [
+   "content_only",
+   "đường sinh là đoạn nối từ đỉnh xuống đâu",
+   "got A_concept: exp Hình nón"
+  ],
+  [
+   "content_only",
+   "cái hình mà quay quanh 1 cạnh là cái gì ",
+   "got A_concept: exp Hình trụ"
+  ],
+  [
+   "content_only",
+   "công thức tính cái phần bao quanh là gì ",
+   "got lesson_practice:Hình nón exp Hình trụ"
+  ],
+  [
+   "content_only",
+   "cái l với cái h khác nhau chỗ nào vậy ạ",
+   "got none: exp Hình nón"
+  ],
+  [
+   "content_only",
+   "biểu đồ hình quạt dùng để làm gì thế ạ?",
+   "got A_concept: exp Bảng tần số tương đối "
+  ],
+  [
+   "content_only",
+   "cái vật thể có bề mặt cong này là gì thế",
+   "got none: exp Hình cầu"
+  ],
+  [
+   "content_only",
+   "tần số tương đối khác gì với tần số thườ",
+   "got lesson_card:Bảng tần số tương đối  exp Biểu diễn số liệu ghép"
+  ],
+  [
+   "content_only",
+   "cái tâm của đường tròn này nằm ở đâu vậy",
+   "got A_concept: exp Tứ giác nội tiếp"
+  ],
+  [
+   "content_only",
+   "nếu muốn biểu diễn bằng hình ảnh thì làm",
+   "got lesson_practice:Biểu diễn số liệu ghép exp Bảng tần số và biểu đồ"
+  ],
+  [
+   "content_only",
+   "muốn tính tỉ lệ của một nhóm thì làm thế",
+   "got lesson_practice:Biểu diễn số liệu ghép exp Bảng tần số tương đối "
+  ],
+  [
+   "content_only",
+   "tại sao lại dùng tỉ số so với tổng số li",
+   "got none: exp Bảng tần số tương đối "
+  ],
+  [
+   "content_only",
+   "cái đường cong này gọi là gì thế ạ?",
+   "got A_concept: exp Hàm số và đồ thị của h"
+  ],
+  [
+   "content_only",
+   "nếu thiếu b hoặc c thì tính kiểu gì ạ",
+   "got none: exp Phương trình bậc hai m"
+  ],
+  [
+   "content_only",
+   "muốn tóm tắt dữ liệu gọn hơn thì làm ntn",
+   "got none: exp Biểu diễn số liệu ghép"
+  ],
+  [
+   "content_only",
+   "đồ thị này có đối xứng không ạ?",
+   "got none: exp Hàm số và đồ thị của h"
+  ],
+  [
+   "content_only",
+   "khoảng cách từ tâm đến mặt là gì vậy?",
+   "got none: exp Hình cầu"
+  ],
+  [
+   "content_only",
+   "tâm của hình này có tính chất gì thế ạ?",
+   "got lesson_card:Hình cầu exp Đa giác đều và phép qu"
+  ],
+  [
+   "content_only",
+   "nếu 4 điểm cùng nằm trên 1 đường tròn th",
+   "got A_concept: exp Tứ giác nội tiếp"
+  ],
+  [
+   "content_only",
+   "cái đường này có tên là gì vậy ạ?",
+   "got A_concept: exp Hàm số và đồ thị của h"
+  ],
+  [
+   "content_only",
+   "làm sao để biết được tổng số lượng ban đ",
+   "got none: exp Bảng tần số và biểu đồ"
+  ],
+  [
+   "content_only",
+   "cái dạng ax^2 + bx + c = 0 là gì thế ạ",
+   "got none: exp Phương trình bậc hai m"
+  ],
+  [
+   "content_only",
+   "làm sao để vẽ cái biểu đồ từ bảng này?",
+   "got lesson_practice:Bảng tần số và biểu đồ exp Biểu diễn số liệu ghép"
+  ],
+  [
+   "content_only",
+   "cách vẽ mấy cái ô vuông để biểu diễn dữ ",
+   "got A_concept: exp Bảng tần số và biểu đồ"
+  ]
+ ]
+}

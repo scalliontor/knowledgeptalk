@@ -1,0 +1,233 @@
+{
+ "book": "ngu_van 8 CTST tap2",
+ "port": "8890",
+ "total": 500,
+ "lessons": 22,
+ "lesson_cases": 425,
+ "guard_cases": 75,
+ "errors": 0,
+ "anchor_acc": 79.1,
+ "mode_acc": 69.4,
+ "guard_acc": 93.3,
+ "cruft_on_cards": 27,
+ "latency_ms": {
+  "p50": 38.9,
+  "p95": 212.2,
+  "p99": 272.7,
+  "max": 292.4
+ },
+ "by_dimension": {
+  "content_only": {
+   "n": 114,
+   "anchor%": 26.3,
+   "mode%": 21.1,
+   "cruft": 3
+  },
+  "current_lesson": {
+   "n": 93,
+   "anchor%": 98.9,
+   "mode%": 93.5,
+   "cruft": 3
+  },
+  "guard_chitchat": {
+   "n": 24,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_offtopic": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_oob_trang": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_out_of_book": {
+   "n": 15,
+   "anchor%": 66.7,
+   "mode%": 0.0,
+   "cruft": 5
+  },
+  "guard_trap_word": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_year": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "name_query": {
+   "n": 109,
+   "anchor%": 96.3,
+   "mode%": 87.2,
+   "cruft": 6
+  },
+  "practice": {
+   "n": 109,
+   "anchor%": 100.0,
+   "mode%": 81.7,
+   "cruft": 10
+  }
+ },
+ "sample_fails": [
+  [
+   "content_only",
+   "tác giả muốn khẳng định giá trị gì qua b",
+   "got none: exp Bạn đến chơi nhà"
+  ],
+  [
+   "content_only",
+   "cách xây dựng nhân vật trong bài này có ",
+   "got none: exp Bến nhà Rồng năm ấ"
+  ],
+  [
+   "content_only",
+   "cho em hỏi cái thể thơ này là gì vậy?",
+   "got none: exp Chạy giặc"
+  ],
+  [
+   "content_only",
+   "bài này nói về kiểu người trí thức thời ",
+   "got none: exp Tự trào I"
+  ],
+  [
+   "content_only",
+   "nội dung chính của đoạn này là gì vậy",
+   "got none: exp Đại Nam quốc sử diê"
+  ],
+  [
+   "content_only",
+   "cái không gian trong bài thơ có gì đặc b",
+   "got none: exp Đảo Sơn Ca"
+  ],
+  [
+   "content_only",
+   "làm thế nào để thể hiện lòng biết ơn cội",
+   "got none: exp Nghe và nắm bắt nộ"
+  ],
+  [
+   "content_only",
+   "trong truyện này có nhân vật nào là anh ",
+   "got none: exp Hoàng Lê Nhất thống"
+  ],
+  [
+   "content_only",
+   "tính chất châm biếm của bài thơ này nằm ",
+   "got none: exp Đề đền Sầm Nghi Đố"
+  ],
+  [
+   "content_only",
+   "sự thảm bại của quân xâm lược được nhắc ",
+   "got none: exp Hoàng Lê Nhất thống"
+  ],
+  [
+   "content_only",
+   "bài này kể về những sự kiện lịch sử nào ",
+   "got none: exp Đại Nam quốc sử diê"
+  ],
+  [
+   "content_only",
+   "cảnh ở đây là hùng vĩ hay là vắng vẻ ạ?",
+   "got none: exp Qua Đèo Ngang"
+  ],
+  [
+   "content_only",
+   "tác phẩm này dùng thể thơ gì thế ạ?",
+   "got none: exp Nam quốc sơn hà"
+  ],
+  [
+   "content_only",
+   "nội dung chính của văn bản này là gì vậy",
+   "got none: exp \"Tốt-tô-chan bên cửa"
+  ],
+  [
+   "content_only",
+   "chi tiết nào thể hiện lòng nhân ái trong",
+   "got none: exp Bố của Xi-mông"
+  ],
+  [
+   "content_only",
+   "nhân vật chính trong này là ai vậy ạ?",
+   "got none: exp \"Mẹ vắng nhà\" - Bộ"
+  ],
+  [
+   "content_only",
+   "bối cảnh diễn ra sự kiện này là ở đâu vậ",
+   "got none: exp Bến nhà Rồng năm ấ"
+  ],
+  [
+   "content_only",
+   "tâm lý của mấy đứa trẻ trong truyện có g",
+   "got none: exp Bồng chanh đỏ"
+  ],
+  [
+   "content_only",
+   "mục đích đi sang phương Tây của người th",
+   "got none: exp Bến nhà Rồng năm ấ"
+  ],
+  [
+   "content_only",
+   "giọng điệu của bài này là hào hùng hay b",
+   "got none: exp Nam quốc sơn hà"
+  ],
+  [
+   "content_only",
+   "bài này nói về cái gì thế ạ?",
+   "got none: exp Lòng yêu nước của n"
+  ],
+  [
+   "content_only",
+   "cảnh vật ở đây trông như thế nào ạ?",
+   "got none: exp Qua Đèo Ngang"
+  ],
+  [
+   "content_only",
+   "truyện này nói về chủ đề gì thế ạ?",
+   "got none: exp Bố của Xi-mông"
+  ],
+  [
+   "content_only",
+   "tâm trạng chung của tác giả là gì thế ạ?",
+   "got none: exp Qua Đèo Ngang"
+  ],
+  [
+   "content_only",
+   "câu chuyện này ca ngợi điều gì vậy ạ",
+   "got none: exp Cây sồi mùa đông"
+  ],
+  [
+   "content_only",
+   "điểm đặc biệt nhất của cuốn sách này là ",
+   "got none: exp \"Tốt-tô-chan bên cửa"
+  ],
+  [
+   "content_only",
+   "cuốn này nói về điều gì thế ạ?",
+   "got none: exp \"Tốt-tô-chan bên cửa"
+  ],
+  [
+   "content_only",
+   "tinh thần được nhắc đến ở đây là gì thế?",
+   "got none: exp Nghe và tóm tất nộ"
+  ],
+  [
+   "content_only",
+   "bài này có nhắc đến hình ảnh anh lính ko",
+   "got none: exp Đảo Sơn Ca"
+  ],
+  [
+   "content_only",
+   "bố cục bài này gồm mấy phần vậy ạ?",
+   "got none: exp Đề đền Sầm Nghi Đố"
+  ]
+ ]
+}

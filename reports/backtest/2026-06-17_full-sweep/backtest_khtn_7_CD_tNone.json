@@ -1,0 +1,245 @@
+{
+ "book": "khtn 7 CD tapNone",
+ "port": "8890",
+ "total": 500,
+ "lessons": 34,
+ "lesson_cases": 425,
+ "guard_cases": 75,
+ "errors": 0,
+ "anchor_acc": 87.8,
+ "mode_acc": 74.8,
+ "guard_acc": 100.0,
+ "cruft_on_cards": 0,
+ "latency_ms": {
+  "p50": 38.8,
+  "p95": 308.2,
+  "p99": 327.9,
+  "max": 342.1
+ },
+ "by_dimension": {
+  "content_only": {
+   "n": 73,
+   "anchor%": 37.0,
+   "mode%": 19.2,
+   "cruft": 0
+  },
+  "current_lesson": {
+   "n": 71,
+   "anchor%": 95.8,
+   "mode%": 87.3,
+   "cruft": 0
+  },
+  "guard_chitchat": {
+   "n": 24,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_offtopic": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_oob_trang": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_out_of_book": {
+   "n": 15,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_word": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_year": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "name_query": {
+   "n": 78,
+   "anchor%": 100.0,
+   "mode%": 73.1,
+   "cruft": 0
+  },
+  "practice": {
+   "n": 100,
+   "anchor%": 99.0,
+   "mode%": 91.0,
+   "cruft": 0
+  },
+  "trang_profile": {
+   "n": 41,
+   "anchor%": 100.0,
+   "mode%": 90.2,
+   "cruft": 0
+  },
+  "trang_query": {
+   "n": 62,
+   "anchor%": 96.8,
+   "mode%": 91.9,
+   "cruft": 0
+  }
+ },
+ "sample_fails": [
+  [
+   "content_only",
+   "làm sao biết được vật đang đi nhanh hay ",
+   "got lesson_practice:Tốc độ của chuyển động exp Đồ thị quãng đường – t"
+  ],
+  [
+   "content_only",
+   "việc đi lại hay chơi thể thao cần cái gì",
+   "got none: exp Vai của trao đổi chất "
+  ],
+  [
+   "content_only",
+   "khí oxygen và nước uống đóng vai trò gì ",
+   "got lesson_card:Hô hấp tế bào exp Vai của trao đổi chất "
+  ],
+  [
+   "content_only",
+   "nếu cây hướng dương ra hoa thì gọi là gì",
+   "got none: exp Khái quát về sinh trưở"
+  ],
+  [
+   "content_only",
+   "tại sao con giun đất lại cần đất ẩm mới ",
+   "got none: exp Trao đổi khí ở sinh vậ"
+  ],
+  [
+   "content_only",
+   "nghe tiếng gõ từ đầu kia mặt bàn là nhờ ",
+   "got none: exp Sự truyền âm"
+  ],
+  [
+   "current_lesson",
+   "cái này nghĩa là sao ạ, giải thích giúp ",
+   "got none: exp Đồ thị quãng đường – t"
+  ],
+  [
+   "current_lesson",
+   "giải thích giúp em cái vụ độ dốc với ạ",
+   "got lesson_card:Tốc độ của chuyển động exp Đồ thị quãng đường – t"
+  ],
+  [
+   "content_only",
+   "con vật đẻ con với đẻ trứng thì khác nha",
+   "got none: exp Sinh sản hữu tính ở si"
+  ],
+  [
+   "content_only",
+   "electron nó chạy như thế nào ạ?",
+   "got none: exp Nguyên tử"
+  ],
+  [
+   "trang_query",
+   "tại sao kim nam châm lại chạy được thế ạ",
+   "got lesson_card:Nam châm exp Từ trường Trái Đất"
+  ],
+  [
+   "content_only",
+   "mấy cái hoạt động sống như trao đổi chất",
+   "got lesson_practice:Khái quát về sinh sản  exp Sự thống nhất về cấu t"
+  ],
+  [
+   "content_only",
+   "làm sao để đảm bảo chế độ dinh dưỡng hợp",
+   "got A_concept: exp Trao đổi nước và các c"
+  ],
+  [
+   "content_only",
+   "hạt này có mấy thành phần chính vậy ạ?",
+   "got none: exp Nguyên tử"
+  ],
+  [
+   "content_only",
+   "sự biến đổi về chức năng cơ quan là cái ",
+   "got none: exp Khái quát về sinh trưở"
+  ],
+  [
+   "content_only",
+   "việc cắm cành hoa hồng vào đất là kiểu g",
+   "got none: exp Khái quát về sinh sản "
+  ],
+  [
+   "content_only",
+   "tại sao kích thước ảnh lại bằng vật luôn",
+   "got none: exp Sự phản xạ ánh sáng"
+  ],
+  [
+   "content_only",
+   "việc thay đổi hình thái cơ thể thì gọi l",
+   "got none: exp Khái quát về sinh trưở"
+  ],
+  [
+   "content_only",
+   "kim loại với phi kim thì thuộc loại nào ",
+   "got none: exp Phân tử, đơn chất, hợp"
+  ],
+  [
+   "content_only",
+   "mô phân sinh bên giúp cây thay đổi gì ạ",
+   "got A_concept: exp Sinh trưởng và phát tr"
+  ],
+  [
+   "content_only",
+   "nếu 2 nguyên tử có cùng số p thì gọi là ",
+   "got lesson_practice:Nguyên tử exp Nguyên tố hóa học"
+  ],
+  [
+   "content_only",
+   "khối lượng tập trung ở đâu trong cái cấu",
+   "got none: exp Nguyên tử"
+  ],
+  [
+   "trang_query",
+   "tại sao nguyên tử Na lại nhường e cho Cl",
+   "got lesson_card:Nguyên tử exp Giới thiệu về liên kết"
+  ],
+  [
+   "content_only",
+   "khí gì được giải phóng ra trong quá trìn",
+   "got none: exp Quang hợp ở thực vật"
+  ],
+  [
+   "content_only",
+   "tốc độ truyền qua chất rắn với chất khí ",
+   "got A_concept: exp Sự truyền âm"
+  ],
+  [
+   "practice",
+   "cho em xin bài tập phần này để làm thử v",
+   "got none: exp Đồ thị quãng đường – t"
+  ],
+  [
+   "content_only",
+   "cần những gì để tạo ra chất hữu cơ ạ?",
+   "got A_concept: exp Quang hợp ở thực vật"
+  ],
+  [
+   "content_only",
+   "cho em hỏi cái quá trình này tạo ra cái ",
+   "got none: exp Hô hấp tế bào"
+  ],
+  [
+   "content_only",
+   "có loại nào là dùng chung electron không",
+   "got none: exp Giới thiệu về liên kết"
+  ],
+  [
+   "content_only",
+   "cái việc tăng cân nặng của con mèo là si",
+   "got lesson_practice:Sinh trưởng và phát tr exp Khái quát về sinh trưở"
+  ]
+ ]
+}

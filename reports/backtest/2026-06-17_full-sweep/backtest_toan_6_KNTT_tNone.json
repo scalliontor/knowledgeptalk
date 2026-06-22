@@ -1,0 +1,245 @@
+{
+ "book": "toan 6 KNTT tapNone",
+ "port": "8890",
+ "total": 500,
+ "lessons": 60,
+ "lesson_cases": 425,
+ "guard_cases": 75,
+ "errors": 0,
+ "anchor_acc": 79.1,
+ "mode_acc": 53.9,
+ "guard_acc": 100.0,
+ "cruft_on_cards": 0,
+ "latency_ms": {
+  "p50": 40.3,
+  "p95": 394.2,
+  "p99": 424.6,
+  "max": 727.2
+ },
+ "by_dimension": {
+  "content_only": {
+   "n": 93,
+   "anchor%": 38.7,
+   "mode%": 11.8,
+   "cruft": 0
+  },
+  "current_lesson": {
+   "n": 81,
+   "anchor%": 100.0,
+   "mode%": 80.2,
+   "cruft": 0
+  },
+  "guard_chitchat": {
+   "n": 24,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_offtopic": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_oob_trang": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_out_of_book": {
+   "n": 15,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_word": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_year": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "name_query": {
+   "n": 80,
+   "anchor%": 93.8,
+   "mode%": 33.8,
+   "cruft": 0
+  },
+  "practice": {
+   "n": 99,
+   "anchor%": 100.0,
+   "mode%": 91.9,
+   "cruft": 0
+  },
+  "trang_profile": {
+   "n": 27,
+   "anchor%": 74.1,
+   "mode%": 55.6,
+   "cruft": 0
+  },
+  "trang_query": {
+   "n": 45,
+   "anchor%": 55.6,
+   "mode%": 44.4,
+   "cruft": 0
+  }
+ },
+ "sample_fails": [
+  [
+   "content_only",
+   "số có dấu phẩy là gì thế ạ?",
+   "got none: exp Số thập phân"
+  ],
+  [
+   "content_only",
+   "nếu 3 cạnh bằng nhau thì góc nó có bằng ",
+   "got lesson_practice:Góc exp Hình tam giác đều, hìn"
+  ],
+  [
+   "content_only",
+   "mấy cái điểm với đường thẳng thì dùng to",
+   "got A_concept: exp Vẽ hình đơn giản với p"
+  ],
+  [
+   "content_only",
+   "có cách nào nhóm các số hạng lại cho dễ ",
+   "got none: exp Chứng minh \\(A = 6 + {"
+  ],
+  [
+   "content_only",
+   "số có nhiều chữ số hơn thì lớn hơn hay n",
+   "got none: exp Thứ tự trong tập hợp c"
+  ],
+  [
+   "trang_query",
+   "cái quy tắc dấu này khó hiểu quá ạ ở tra",
+   "got lesson_card:Trung điểm của đoạn th exp Phép nhân số nguyên"
+  ],
+  [
+   "content_only",
+   "làm sao để biết một hình vẽ bằng bao nhi",
+   "got A_concept: exp Bảng thống kê và biểu "
+  ],
+  [
+   "trang_query",
+   "em quên mất quy tắc đổi dấu rồi, giảng l",
+   "got lesson_practice:Dữ liệu và thu thập dữ exp Quy tắc dấu ngoặc"
+  ],
+  [
+   "content_only",
+   "khi nào thì tích của các số là số dương ",
+   "got lesson_card:Tập hợp các số nguyên exp Phép nhân số nguyên"
+  ],
+  [
+   "content_only",
+   "mấy ký tự đặc biệt kia dùng để ghi số gì",
+   "got none: exp Cách ghi số tự nhiên"
+  ],
+  [
+   "content_only",
+   "nếu một phần tử lặp lại thì viết thế nào",
+   "got A_concept: exp Tập hợp"
+  ],
+  [
+   "content_only",
+   "quy tắc xét số bên phải là như nào thế ạ",
+   "got none: exp Làm tròn và ước lượng"
+  ],
+  [
+   "content_only",
+   "mối liên hệ giữa x và BCNN là gì thế ạ?",
+   "got none: exp Tìm số tự nhiên \\(x\\),"
+  ],
+  [
+   "content_only",
+   "hình chữ nhật thì có mấy đường thẳng chi",
+   "got lesson_practice:Hình chữ nhật, Hình th exp Hình có trục đối xứng"
+  ],
+  [
+   "content_only",
+   "kiểu này thì đếm chữ ntn là chuẩn ạ?",
+   "got none: exp Thơ bốn chữ, năm chữ"
+  ],
+  [
+   "content_only",
+   "kí hiệu của cái này viết như nào ạ?",
+   "got none: exp Góc"
+  ],
+  [
+   "name_query",
+   "bài này có cần lưu ý gì khi tìm ước khôn",
+   "got none: exp Phép chia hết - Ước và"
+  ],
+  [
+   "content_only",
+   "số đối của một phân số là gì thế ạ?",
+   "got lesson_card:Số thập phân exp Phép cộng và phép trừ "
+  ],
+  [
+   "content_only",
+   "có cần làm trong ngoặc trước ko ạ?",
+   "got lesson_practice:Quy tắc dấu ngoặc exp Tính giá trị biểu thức"
+  ],
+  [
+   "content_only",
+   "cho em hỏi cách tính khoảng cách giữa 2 ",
+   "got A_concept: exp Đoạn thẳng. Độ dài đoạ"
+  ],
+  [
+   "trang_query",
+   "phân tích giúp em tại sao số này ko chia",
+   "got lesson_card:Làm tròn và ước lượng exp Dấu hiệu chia hết"
+  ],
+  [
+   "trang_query",
+   "giải thích cho em tại sao -5 lại nhỏ hơn",
+   "got lesson_card:Trung điểm của đoạn th exp Tập hợp các số nguyên"
+  ],
+  [
+   "trang_query",
+   "cách dùng máy tính để tìm BCNN như nào ạ",
+   "got lesson_practice:Vẽ hình đơn giản với p exp Sử dụng máy tính cầm t"
+  ],
+  [
+   "content_only",
+   "có dấu ngoặc thì phải làm cái nào đầu ti",
+   "got lesson_practice:Quy tắc dấu ngoặc exp Thứ tự thực hiện các p"
+  ],
+  [
+   "name_query",
+   "em chưa hiểu phần định nghĩa của bài Góc",
+   "got A_concept: exp Góc"
+  ],
+  [
+   "content_only",
+   "muốn tìm độ dài một nửa đoạn thẳng thì l",
+   "got lesson_practice:Đoạn thẳng. Độ dài đoạ exp Trung điểm của đoạn th"
+  ],
+  [
+   "content_only",
+   "công thức tích chéo dùng khi nào thế ạ?",
+   "got none: exp Mở rộng phân số. Phân "
+  ],
+  [
+   "content_only",
+   "giá trị của mỗi chữ số phụ thuộc vào cái",
+   "got none: exp Cách ghi số tự nhiên"
+  ],
+  [
+   "trang_query",
+   "phân tích giúp em cái ví dụ trên với ạ ở",
+   "got lesson_card:Dữ liệu và thu thập dữ exp Quy tắc dấu ngoặc"
+  ],
+  [
+   "content_only",
+   "hình chữ nhật có mấy cạnh bằng nhau",
+   "got lesson_practice:Hình chữ nhật, Hình th exp Chu vi và diện tích củ"
+  ]
+ ]
+}

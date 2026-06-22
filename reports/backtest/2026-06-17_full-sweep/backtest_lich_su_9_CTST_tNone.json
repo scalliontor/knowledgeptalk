@@ -1,0 +1,251 @@
+{
+ "book": "lich_su 9 CTST tapNone",
+ "port": "8890",
+ "total": 500,
+ "lessons": 23,
+ "lesson_cases": 425,
+ "guard_cases": 75,
+ "errors": 0,
+ "anchor_acc": 73.2,
+ "mode_acc": 64.9,
+ "guard_acc": 100.0,
+ "cruft_on_cards": 0,
+ "latency_ms": {
+  "p50": 92.1,
+  "p95": 282.8,
+  "p99": 322.6,
+  "max": 775.0
+ },
+ "by_dimension": {
+  "content_only": {
+   "n": 98,
+   "anchor%": 28.6,
+   "mode%": 25.5,
+   "cruft": 0
+  },
+  "current_lesson": {
+   "n": 62,
+   "anchor%": 79.0,
+   "mode%": 74.2,
+   "cruft": 0
+  },
+  "guard_chitchat": {
+   "n": 24,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_offtopic": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_oob_trang": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_out_of_book": {
+   "n": 15,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_word": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_year": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "name_query": {
+   "n": 80,
+   "anchor%": 93.8,
+   "mode%": 73.8,
+   "cruft": 0
+  },
+  "practice": {
+   "n": 87,
+   "anchor%": 70.1,
+   "mode%": 69.0,
+   "cruft": 0
+  },
+  "recite": {
+   "n": 7,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "trang_profile": {
+   "n": 32,
+   "anchor%": 100.0,
+   "mode%": 96.9,
+   "cruft": 0
+  },
+  "trang_query": {
+   "n": 59,
+   "anchor%": 100.0,
+   "mode%": 93.2,
+   "cruft": 0
+  }
+ },
+ "sample_fails": [
+  [
+   "content_only",
+   "giai đoạn này có những thắng lợi quyết đ",
+   "got none: exp Cuộc kháng chiến chống"
+  ],
+  [
+   "content_only",
+   "hậu quả của cái cuộc chiến này lớn đến m",
+   "got A_concept: exp Chiến tranh thế giới t"
+  ],
+  [
+   "content_only",
+   "mô hình kinh tế nào đã gây ra khủng hoản",
+   "got none: exp Liên Xô và các nước Đô"
+  ],
+  [
+   "content_only",
+   "mĩ đã dùng những chiến lược gì ở miền na",
+   "got lesson_card:Việt Nam từ năm 1954 đ exp Việt Nam từ năm 1965 đ"
+  ],
+  [
+   "name_query",
+   "em muốn hỏi về phần xây dựng CNXH ở cu b",
+   "got none: exp Mỹ La-tinh từ năm 1945"
+  ],
+  [
+   "current_lesson",
+   "mấy cái khó khăn lúc này là gì thế thầy ",
+   "got none: exp Xây dựng và bảo vệ chí"
+  ],
+  [
+   "current_lesson",
+   "giải thích giúp em tại sao mình phải ký ",
+   "got none: exp Xây dựng và bảo vệ chí"
+  ],
+  [
+   "practice",
+   "làm giúp em mấy câu luyện tập về nội dun",
+   "got none: exp Chiến tranh lạnh (1947"
+  ],
+  [
+   "content_only",
+   "xu thế chung của các nước hiện nay là gì",
+   "got A_concept: exp Trật tự thế giới mới t"
+  ],
+  [
+   "content_only",
+   "các tổ chức tiêu biểu trong giai đoạn nà",
+   "got none: exp Phong trào dân tộc dân"
+  ],
+  [
+   "content_only",
+   "vị thế của nước mình trên thế giới thay ",
+   "got A_concept: exp Công cuộc Đổi mới từ n"
+  ],
+  [
+   "practice",
+   "test thử em kiến thức phần này đi",
+   "got A_concept: exp Cuộc kháng chiến chống"
+  ],
+  [
+   "content_only",
+   "so sánh tốc độ tăng trưởng kinh tế của 2",
+   "got A_concept: exp Liên bang Nga và nước "
+  ],
+  [
+   "content_only",
+   "trật tự thế giới lúc đó do ai đứng đầu ạ",
+   "got lesson_card:Trật tự thế giới mới t exp Chiến tranh lạnh (1947"
+  ],
+  [
+   "practice",
+   "test thử em kiến thức về giai đoạn 1936-",
+   "got A_concept: exp Phong trào cách mạng V"
+  ],
+  [
+   "practice",
+   "có câu hỏi nào luyện tập về phần này ko ",
+   "got none: exp Phong trào dân tộc dân"
+  ],
+  [
+   "content_only",
+   "kinh tế mình chuyển dịch theo hướng nào ",
+   "got none: exp Công cuộc Đổi mới từ n"
+  ],
+  [
+   "content_only",
+   "trong giai đoạn đầu này có sự kiện gì đặ",
+   "got none: exp Những năm đầu Việt Nam"
+  ],
+  [
+   "content_only",
+   "phần này nói về sự chuyển biến tư tưởng ",
+   "got A_concept: exp Hoạt động của Nguyễn Á"
+  ],
+  [
+   "content_only",
+   "mấy cái hũ gạo cứu đói là để giải quyết ",
+   "got none: exp Xây dựng và bảo vệ chí"
+  ],
+  [
+   "name_query",
+   "Chủ nghĩa phát xít được nhắc đến thế nào",
+   "got none: exp Châu Âu và nước Mỹ từ "
+  ],
+  [
+   "content_only",
+   "sau khi giành chính quyền thì nước mình ",
+   "got A_concept: exp Cách mạng tháng Tám nă"
+  ],
+  [
+   "content_only",
+   "Giai đoạn này có những sự kiện kinh tế l",
+   "got none: exp Châu Âu và nước Mỹ từ "
+  ],
+  [
+   "content_only",
+   "Ấn Độ dùng cách gì để chống lại thực dân",
+   "got A_concept: exp Châu Á từ năm 1918 đến"
+  ],
+  [
+   "practice",
+   "có câu hỏi nào phân biệt 2 cái hiệp định",
+   "got none: exp Xây dựng và bảo vệ chí"
+  ],
+  [
+   "content_only",
+   "sự kiện ngày 2/9/1945 có gì đặc biệt ạ?",
+   "got none: exp Cách mạng tháng Tám nă"
+  ],
+  [
+   "current_lesson",
+   "cái đoạn 19/12/1946 là sao vậy ạ, giải t",
+   "got none: exp Những năm đầu Việt Nam"
+  ],
+  [
+   "content_only",
+   "mấy cái cường quốc đang cạnh tranh nhau ",
+   "got A_concept: exp Trật tự thế giới mới t"
+  ],
+  [
+   "practice",
+   "có bài tập nào về phần điện biên phủ ko ",
+   "got none: exp Cuộc kháng chiến chống"
+  ],
+  [
+   "content_only",
+   "giai đoạn này có sự kiện gì nổi bật nhất",
+   "got none: exp Mỹ La-tinh từ năm 1945"
+  ]
+ ]
+}

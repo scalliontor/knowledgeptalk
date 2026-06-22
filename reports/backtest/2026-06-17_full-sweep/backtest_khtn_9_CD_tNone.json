@@ -1,0 +1,245 @@
+{
+ "book": "khtn 9 CD tapNone",
+ "port": "8890",
+ "total": 500,
+ "lessons": 42,
+ "lesson_cases": 425,
+ "guard_cases": 75,
+ "errors": 0,
+ "anchor_acc": 86.4,
+ "mode_acc": 76.0,
+ "guard_acc": 100.0,
+ "cruft_on_cards": 0,
+ "latency_ms": {
+  "p50": 39.9,
+  "p95": 350.3,
+  "p99": 371.7,
+  "max": 903.2
+ },
+ "by_dimension": {
+  "content_only": {
+   "n": 83,
+   "anchor%": 36.1,
+   "mode%": 24.1,
+   "cruft": 0
+  },
+  "current_lesson": {
+   "n": 70,
+   "anchor%": 100.0,
+   "mode%": 87.1,
+   "cruft": 0
+  },
+  "guard_chitchat": {
+   "n": 24,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_offtopic": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_oob_trang": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_out_of_book": {
+   "n": 15,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_word": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_year": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "name_query": {
+   "n": 80,
+   "anchor%": 95.0,
+   "mode%": 73.8,
+   "cruft": 0
+  },
+  "practice": {
+   "n": 91,
+   "anchor%": 100.0,
+   "mode%": 96.7,
+   "cruft": 0
+  },
+  "trang_profile": {
+   "n": 46,
+   "anchor%": 97.8,
+   "mode%": 91.3,
+   "cruft": 0
+  },
+  "trang_query": {
+   "n": 55,
+   "anchor%": 100.0,
+   "mode%": 96.4,
+   "cruft": 0
+  }
+ },
+ "sample_fails": [
+  [
+   "content_only",
+   "em muốn biết thêm về cách tạo ra các loạ",
+   "got none: exp Ứng dụng công nghệ di "
+  ],
+  [
+   "content_only",
+   "trong nhân tế bào có cái gì mà chứa gene",
+   "got lesson_card:Gene là trung tâm của  exp Nhiễm sắc thể và bộ nh"
+  ],
+  [
+   "name_query",
+   "cô ơi giảng lại giúp em bài Alkane với",
+   "got none: exp Hydrocarbon, alkane"
+  ],
+  [
+   "content_only",
+   "có nguồn nào trong tự nhiên mà dùng mãi ",
+   "got A_concept: exp Năng lượng tái tạo"
+  ],
+  [
+   "content_only",
+   "có phải nó tham gia cấu tạo màng tế bào ",
+   "got none: exp Lipid và chất béo"
+  ],
+  [
+   "content_only",
+   "vật liệu composite là kết hợp từ mấy thà",
+   "got A_concept: exp Polymer"
+  ],
+  [
+   "trang_profile",
+   "cái này là do dna hay protein quyết định",
+   "got lesson_card:Protein exp Nhiễm sắc thể và bộ nh"
+  ],
+  [
+   "content_only",
+   "ứng dụng của nó trong đời sống là gì vậy",
+   "got A_concept: exp Alkene"
+  ],
+  [
+   "content_only",
+   "sự hình thành loài mới thì thuộc về tiến",
+   "got lesson_card:Giới thiệu về tiến hoá exp Cơ chế tiến hoá"
+  ],
+  [
+   "content_only",
+   "thấu kính có tác dụng làm phân kỳ các ti",
+   "got lesson_card:Sự khúc xạ ánh sáng qu exp Sự tạo ảnh qua thấu kí"
+  ],
+  [
+   "content_only",
+   "vật liệu nào dùng làm vỏ máy bay mà bền ",
+   "got none: exp Tách kim loại. Sử dụng"
+  ],
+  [
+   "content_only",
+   "cái quy trình tạo ra protein từ gene gồm",
+   "got lesson_card:Protein exp Từ gene đến tính trạng"
+  ],
+  [
+   "content_only",
+   "cho em hỏi cái tác dụng làm nóng cái nồi",
+   "got none: exp Tác dụng của dòng điện"
+  ],
+  [
+   "content_only",
+   "số lượng NST trong tế bào con thay đổi n",
+   "got lesson_practice:Đột biến nhiễm sắc thể exp Nguyên phân và giảm ph"
+  ],
+  [
+   "content_only",
+   "việc dùng lại nhôm cũ thì có lợi gì khôn",
+   "got none: exp Sơ lược về hoá học vỏ "
+  ],
+  [
+   "content_only",
+   "mấy cái như tinh bột với cellulose thì t",
+   "got lesson_card:Tinh bột và cellulose exp Polymer"
+  ],
+  [
+   "content_only",
+   "nếu là giống cái thì kiểu gene là gì thế",
+   "got none: exp Di truyền liên kết và "
+  ],
+  [
+   "content_only",
+   "tại sao nó lại bị biến tính khi gặp acid",
+   "got lesson_card:Acetic acid exp Protein"
+  ],
+  [
+   "content_only",
+   "thí nghiệm năm 1953 chứng minh cái gì th",
+   "got none: exp Sự phát sinh và phát t"
+  ],
+  [
+   "content_only",
+   "tạo ra từ trường là để làm gì thế ạ?",
+   "got none: exp Tác dụng của dòng điện"
+  ],
+  [
+   "content_only",
+   "mấy cái kim loại mạnh thì phản ứng với n",
+   "got lesson_practice:Tính chất chung của ki exp Dãy hoạt động hoá học"
+  ],
+  [
+   "content_only",
+   "thủy triều thì tạo ra điện kiểu gì thế ạ",
+   "got A_concept: exp Năng lượng tái tạo"
+  ],
+  [
+   "content_only",
+   "quá trình tiến hóa này mất bao lâu vậy ạ",
+   "got none: exp Sự phát sinh và phát t"
+  ],
+  [
+   "name_query",
+   "em chưa nắm rõ bài Alkane lắm, giúp em v",
+   "got none: exp Hydrocarbon, alkane"
+  ],
+  [
+   "content_only",
+   "cấu tạo của nó gồm những thành phần nào ",
+   "got A_concept: exp Nhiễm sắc thể và bộ nh"
+  ],
+  [
+   "content_only",
+   "có phản ứng nào làm mất màu dung dịch nư",
+   "got A_concept: exp Alkene"
+  ],
+  [
+   "content_only",
+   "nguồn gốc của than đá và dầu mỏ từ đâu r",
+   "got none: exp Sử dụng năng lượng"
+  ],
+  [
+   "content_only",
+   "công thức tổng quát của nó là gì thế ạ?",
+   "got A_concept: exp Alkene"
+  ],
+  [
+   "content_only",
+   "có loại đường nào tạo ra rượu etylic khô",
+   "got lesson_card:Ethylic alcohol exp Glucose và saccharose"
+  ],
+  [
+   "content_only",
+   "trong cái này có mấy loại chính vậy ạ?",
+   "got none: exp Giới thiệu về chất hữu"
+  ]
+ ]
+}

@@ -1,0 +1,245 @@
+{
+ "book": "gdcd 6 KNTT tapNone",
+ "port": "8890",
+ "total": 435,
+ "lessons": 12,
+ "lesson_cases": 360,
+ "guard_cases": 75,
+ "errors": 0,
+ "anchor_acc": 91.4,
+ "mode_acc": 77.5,
+ "guard_acc": 100.0,
+ "cruft_on_cards": 0,
+ "latency_ms": {
+  "p50": 39.0,
+  "p95": 177.6,
+  "p99": 190.2,
+  "max": 244.0
+ },
+ "by_dimension": {
+  "content_only": {
+   "n": 72,
+   "anchor%": 58.3,
+   "mode%": 16.7,
+   "cruft": 0
+  },
+  "current_lesson": {
+   "n": 60,
+   "anchor%": 100.0,
+   "mode%": 98.3,
+   "cruft": 0
+  },
+  "guard_chitchat": {
+   "n": 24,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_offtopic": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_oob_trang": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_out_of_book": {
+   "n": 15,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_word": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_year": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "name_query": {
+   "n": 72,
+   "anchor%": 98.6,
+   "mode%": 76.4,
+   "cruft": 0
+  },
+  "practice": {
+   "n": 72,
+   "anchor%": 100.0,
+   "mode%": 100.0,
+   "cruft": 0
+  },
+  "trang_profile": {
+   "n": 36,
+   "anchor%": 100.0,
+   "mode%": 91.7,
+   "cruft": 0
+  },
+  "trang_query": {
+   "n": 48,
+   "anchor%": 100.0,
+   "mode%": 100.0,
+   "cruft": 0
+  }
+ },
+ "sample_fails": [
+  [
+   "content_only",
+   "mua sắm quá nhiều đồ ko cần thiết thì gọ",
+   "got none: exp Tiết kiệm"
+  ],
+  [
+   "content_only",
+   "các bạn nhỏ có quyền được nói lên ý kiến",
+   "got none: exp Quyền cơ bản của trẻ e"
+  ],
+  [
+   "content_only",
+   "những việc như múa hát thì thuộc nhóm qu",
+   "got none: exp Quyền cơ bản của trẻ e"
+  ],
+  [
+   "content_only",
+   "mấy cái như hiếu học hay nhân ái thì gọi",
+   "got none: exp Tự hào về truyền thống"
+  ],
+  [
+   "content_only",
+   "nếu mình hiến máu như bạn Hải An thì là ",
+   "got none: exp Yêu thương con người"
+  ],
+  [
+   "content_only",
+   "nếu em thực hiện quyền của mình mà làm ả",
+   "got lesson_card:Thực hiện quyền trẻ em exp Quyền và nghĩa vụ cơ b"
+  ],
+  [
+   "content_only",
+   "tại sao lại nói là phải đi kèm với sự tô",
+   "got lesson_card:Tôn trọng sự thật exp Yêu thương con người"
+  ],
+  [
+   "content_only",
+   "nếu dùng tiền ủng hộ đi chơi game thì có",
+   "got none: exp Yêu thương con người"
+  ],
+  [
+   "content_only",
+   "việc được đi học thì gọi là gì vậy ạ?",
+   "got none: exp Quyền và nghĩa vụ cơ b"
+  ],
+  [
+   "content_only",
+   "biểu hiện của việc sống ngay thẳng là gì",
+   "got none: exp Tôn trọng sự thật"
+  ],
+  [
+   "content_only",
+   "việc lập kế hoạch từ việc nhỏ giúp ích g",
+   "got none: exp Siêng năng, kiên trì"
+  ],
+  [
+   "content_only",
+   "việc học tập tốt để nối nghiệp cha ông l",
+   "got none: exp Tự hào về truyền thống"
+  ],
+  [
+   "content_only",
+   "đội mũ bảo hiểm khi đi xe điện là thực h",
+   "got A_concept: exp Quyền và nghĩa vụ cơ b"
+  ],
+  [
+   "content_only",
+   "trách nhiệm với nhà nước và xã hội được ",
+   "got none: exp Quyền và nghĩa vụ cơ b"
+  ],
+  [
+   "content_only",
+   "mình phải làm gì để bảo vệ bản thân khi ",
+   "got lesson_practice:Ứng phó với tình huống exp Thực hiện quyền trẻ em"
+  ],
+  [
+   "content_only",
+   "nếu cứ đợi người khác giúp mãi thì gọi l",
+   "got none: exp Tự lập"
+  ],
+  [
+   "content_only",
+   "mấy cái quyền về chính trị, văn hóa là n",
+   "got none: exp Quyền và nghĩa vụ cơ b"
+  ],
+  [
+   "content_only",
+   "việc bảo vệ tài nguyên liên quan gì đến ",
+   "got none: exp Tiết kiệm"
+  ],
+  [
+   "content_only",
+   "những giá trị tốt đẹp được truyền lại từ",
+   "got none: exp Tự hào về truyền thống"
+  ],
+  [
+   "content_only",
+   "làm hỏng đồ của bạn thì nên nhận lỗi hay",
+   "got none: exp Tôn trọng sự thật"
+  ],
+  [
+   "content_only",
+   "ngoài việc chia sẻ ra thì còn biểu hiện ",
+   "got none: exp Yêu thương con người"
+  ],
+  [
+   "content_only",
+   "nhà bạn An làm nghề gốm là thuộc loại tr",
+   "got A_concept: exp Tự hào về truyền thống"
+  ],
+  [
+   "content_only",
+   "nhà nước có bảo hộ cho công dân ko ạ?",
+   "got A_concept: exp Công dân nước Cộng hòa"
+  ],
+  [
+   "content_only",
+   "nghe ý kiến người khác có giúp mình hiểu",
+   "got none: exp Tự nhận thức bản thân"
+  ],
+  [
+   "content_only",
+   "làm sao để biết mình đang bị xâm hại ạ",
+   "got none: exp Thực hiện quyền trẻ em"
+  ],
+  [
+   "content_only",
+   "giữ gìn đồ dùng học tập là thuộc phần nà",
+   "got none: exp Tiết kiệm"
+  ],
+  [
+   "content_only",
+   "ngoài việc học tập thì còn quyền gì khác",
+   "got lesson_practice:Thực hiện quyền trẻ em exp Quyền cơ bản của trẻ e"
+  ],
+  [
+   "content_only",
+   "khi bị người lạ đe dọa thì nên làm gì ạ",
+   "got lesson_practice:Ứng phó với tình huống exp Thực hiện quyền trẻ em"
+  ],
+  [
+   "content_only",
+   "việc được đi chơi, giải trí có được tính",
+   "got none: exp Quyền cơ bản của trẻ e"
+  ],
+  [
+   "content_only",
+   "khi thấy bạn gian lận thì mình nên làm g",
+   "got none: exp Tôn trọng sự thật"
+  ]
+ ]
+}

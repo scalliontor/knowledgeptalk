@@ -1,0 +1,245 @@
+{
+ "book": "lich_su 6 CTST tapNone",
+ "port": "8890",
+ "total": 500,
+ "lessons": 27,
+ "lesson_cases": 425,
+ "guard_cases": 75,
+ "errors": 0,
+ "anchor_acc": 79.8,
+ "mode_acc": 73.2,
+ "guard_acc": 100.0,
+ "cruft_on_cards": 0,
+ "latency_ms": {
+  "p50": 39.2,
+  "p95": 280.8,
+  "p99": 294.8,
+  "max": 498.5
+ },
+ "by_dimension": {
+  "content_only": {
+   "n": 89,
+   "anchor%": 13.5,
+   "mode%": 9.0,
+   "cruft": 0
+  },
+  "current_lesson": {
+   "n": 73,
+   "anchor%": 100.0,
+   "mode%": 89.0,
+   "cruft": 0
+  },
+  "guard_chitchat": {
+   "n": 24,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_offtopic": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_oob_trang": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_out_of_book": {
+   "n": 15,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_word": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_year": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "name_query": {
+   "n": 76,
+   "anchor%": 94.7,
+   "mode%": 82.9,
+   "cruft": 0
+  },
+  "practice": {
+   "n": 89,
+   "anchor%": 100.0,
+   "mode%": 94.4,
+   "cruft": 0
+  },
+  "trang_profile": {
+   "n": 38,
+   "anchor%": 89.5,
+   "mode%": 84.2,
+   "cruft": 0
+  },
+  "trang_query": {
+   "n": 60,
+   "anchor%": 98.3,
+   "mode%": 98.3,
+   "cruft": 0
+  }
+ },
+ "sample_fails": [
+  [
+   "content_only",
+   "làm sao để biết một sự kiện diễn ra khi ",
+   "got none: exp Thời gian trong Lịch s"
+  ],
+  [
+   "content_only",
+   "trang phục của nam và nữ thời đó khác nh",
+   "got none: exp Đời sống của người Việ"
+  ],
+  [
+   "content_only",
+   "các nước này phát triển mạnh nhất vào kh",
+   "got A_concept: exp Các vương quốc ở Đông "
+  ],
+  [
+   "trang_query",
+   "tại sao việc quản lý nước lại dẫn đến vi",
+   "got lesson_card:Hy Lạp cổ đại exp Ai Cập cổ đại"
+  ],
+  [
+   "content_only",
+   "hồi đó họ dùng gì để làm việc thế?",
+   "got none: exp Xã hội nguyên thủy"
+  ],
+  [
+   "content_only",
+   "vị trí địa lý của khu vực này có lợi gì ",
+   "got none: exp Các vương quốc ở Đông "
+  ],
+  [
+   "trang_profile",
+   "em chưa rõ về cách người xưa dùng chữ vi",
+   "got lesson_card:Hy Lạp cổ đại exp Ai Cập cổ đại"
+  ],
+  [
+   "content_only",
+   "trống đồng là biểu tượng của cái gì vậy ",
+   "got none: exp Nhà nước Văn Lang, Âu "
+  ],
+  [
+   "name_query",
+   "nội dung bài các vương quốc đông nam á t",
+   "got A_concept: exp Các vương quốc Đông Na"
+  ],
+  [
+   "content_only",
+   "trong thời kỳ này mình có học thêm được ",
+   "got A_concept: exp Đấu tranh bảo tồn và p"
+  ],
+  [
+   "content_only",
+   "cho em hỏi các thành tựu về kỹ thuật gồm",
+   "got none: exp Trung Quốc từ thời cổ "
+  ],
+  [
+   "content_only",
+   "vùng này ngày xưa làm gì để giàu thế ạ",
+   "got none: exp Vương quốc cổ Phù Nam"
+  ],
+  [
+   "content_only",
+   "mấy cái phong tục như ăn trầu với nhuộm ",
+   "got none: exp Đấu tranh bảo tồn và p"
+  ],
+  [
+   "content_only",
+   "người ta sống ở đâu và làm nghề gì thế ạ",
+   "got A_concept: exp Vương quốc cổ Phù Nam"
+  ],
+  [
+   "content_only",
+   "mấy cái sản vật quý mà mình phải cống nạ",
+   "got none: exp Chính sách cai trị của"
+  ],
+  [
+   "trang_profile",
+   "em vẫn chưa thông chỗ sự khác biệt về th",
+   "got lesson_practice:Sự chuyển biến từ xã h exp Nguồn gốc loài người"
+  ],
+  [
+   "trang_profile",
+   "giảng kỹ lại cho em phần thành tựu văn h",
+   "got lesson_card:Hy Lạp cổ đại exp Ai Cập cổ đại"
+  ],
+  [
+   "content_only",
+   "kinh tế thời đó chủ yếu là làm gì vậy ạ?",
+   "got none: exp Các vương quốc Đông Na"
+  ],
+  [
+   "content_only",
+   "văn minh này hình thành bên cạnh con sôn",
+   "got lesson_card:Lưỡng Hà cổ đại exp Ai Cập cổ đại"
+  ],
+  [
+   "content_only",
+   "chế độ chính trị thời đó như thế nào ạ?",
+   "got lesson_card:Chính sách cai trị của exp Vương quốc Chăm-pa từ "
+  ],
+  [
+   "content_only",
+   "các nước ở lục địa với hải đảo có gì khá",
+   "got none: exp Các vương quốc Đông Na"
+  ],
+  [
+   "content_only",
+   "các triều đại trước thế kỉ VII gồm những",
+   "got none: exp Trung Quốc từ thời cổ "
+  ],
+  [
+   "content_only",
+   "cách họ thích nghi với môi trường sông n",
+   "got none: exp Đời sống của người Việ"
+  ],
+  [
+   "trang_profile",
+   "cái này có nghĩa là gì thế ạ, em đọc chư",
+   "got lesson_card:Vương quốc Chăm-pa từ  exp Các vương quốc ở Đông "
+  ],
+  [
+   "content_only",
+   "Những kỹ thuật sản xuất mới là gì vậy ạ?",
+   "got none: exp Đấu tranh bảo tồn và p"
+  ],
+  [
+   "content_only",
+   "công cụ lao động qua các thời kỳ có gì k",
+   "got lesson_card:Sự chuyển biến từ xã h exp Xã hội nguyên thủy"
+  ],
+  [
+   "content_only",
+   "mấy cái vương quốc thời đó hình thành dự",
+   "got A_concept: exp Các vương quốc Đông Na"
+  ],
+  [
+   "name_query",
+   "em đang học bài các vương quốc đông nam ",
+   "got lesson_card:Các vương quốc ở Đông  exp Các vương quốc Đông Na"
+  ],
+  [
+   "content_only",
+   "người ta thường trồng cây gì ở đây thế ạ",
+   "got none: exp Hy Lạp cổ đại"
+  ],
+  [
+   "content_only",
+   "ngành nghiên cứu về loài người là gì vậy",
+   "got lesson_card:Nguồn gốc loài người exp Lịch sử là gì"
+  ]
+ ]
+}

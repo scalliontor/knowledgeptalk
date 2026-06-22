@@ -1,0 +1,115 @@
+{
+ "book": "toan 6 KNTT tap2",
+ "port": "8890",
+ "total": 195,
+ "lessons": 4,
+ "lesson_cases": 120,
+ "guard_cases": 75,
+ "errors": 0,
+ "anchor_acc": 96.7,
+ "mode_acc": 56.7,
+ "guard_acc": 100.0,
+ "cruft_on_cards": 0,
+ "latency_ms": {
+  "p50": 53.3,
+  "p95": 239.6,
+  "p99": 260.6,
+  "max": 266.4
+ },
+ "by_dimension": {
+  "content_only": {
+   "n": 24,
+   "anchor%": 83.3,
+   "mode%": 16.7,
+   "cruft": 0
+  },
+  "current_lesson": {
+   "n": 20,
+   "anchor%": 100.0,
+   "mode%": 75.0,
+   "cruft": 0
+  },
+  "guard_chitchat": {
+   "n": 24,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_offtopic": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_oob_trang": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_out_of_book": {
+   "n": 15,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_word": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_year": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "name_query": {
+   "n": 24,
+   "anchor%": 100.0,
+   "mode%": 20.8,
+   "cruft": 0
+  },
+  "practice": {
+   "n": 24,
+   "anchor%": 100.0,
+   "mode%": 95.8,
+   "cruft": 0
+  },
+  "trang_profile": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 91.7,
+   "cruft": 0
+  },
+  "trang_query": {
+   "n": 16,
+   "anchor%": 100.0,
+   "mode%": 62.5,
+   "cruft": 0
+  }
+ },
+ "sample_fails": [
+  [
+   "content_only",
+   "nếu thực hiện càng nhiều lần thì kết quả",
+   "got A_concept: exp Xác suất thực nghiệm"
+  ],
+  [
+   "content_only",
+   "nếu 2 khoảng cách ko bằng nhau thì sao ạ",
+   "got A_concept: exp Trung điểm của đoạn th"
+  ],
+  [
+   "content_only",
+   "nếu biết độ dài cả đoạn thì tính nửa đoạ",
+   "got A_concept: exp Trung điểm của đoạn th"
+  ],
+  [
+   "content_only",
+   "làm thế nào để tính nhanh kết quả xấp xỉ",
+   "got none: exp Làm tròn và ước lượng"
+  ]
+ ]
+}

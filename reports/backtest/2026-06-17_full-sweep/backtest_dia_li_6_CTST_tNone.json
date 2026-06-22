@@ -1,0 +1,245 @@
+{
+ "book": "dia_li 6 CTST tapNone",
+ "port": "8890",
+ "total": 500,
+ "lessons": 24,
+ "lesson_cases": 425,
+ "guard_cases": 75,
+ "errors": 0,
+ "anchor_acc": 89.4,
+ "mode_acc": 72.5,
+ "guard_acc": 84.0,
+ "cruft_on_cards": 11,
+ "latency_ms": {
+  "p50": 40.8,
+  "p95": 205.7,
+  "p99": 222.6,
+  "max": 230.4
+ },
+ "by_dimension": {
+  "content_only": {
+   "n": 88,
+   "anchor%": 51.1,
+   "mode%": 29.5,
+   "cruft": 0
+  },
+  "current_lesson": {
+   "n": 74,
+   "anchor%": 100.0,
+   "mode%": 94.6,
+   "cruft": 6
+  },
+  "guard_chitchat": {
+   "n": 24,
+   "anchor%": 75.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_offtopic": {
+   "n": 12,
+   "anchor%": 50.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_oob_trang": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_out_of_book": {
+   "n": 15,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_word": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_year": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "name_query": {
+   "n": 82,
+   "anchor%": 97.6,
+   "mode%": 58.5,
+   "cruft": 0
+  },
+  "practice": {
+   "n": 86,
+   "anchor%": 100.0,
+   "mode%": 95.3,
+   "cruft": 0
+  },
+  "trang_profile": {
+   "n": 38,
+   "anchor%": 100.0,
+   "mode%": 71.1,
+   "cruft": 2
+  },
+  "trang_query": {
+   "n": 57,
+   "anchor%": 100.0,
+   "mode%": 96.5,
+   "cruft": 3
+  }
+ },
+ "sample_fails": [
+  [
+   "content_only",
+   "muốn làm nghiên cứu thực tế thì cần chuẩ",
+   "got A_concept: exp Thực hành tác động của"
+  ],
+  [
+   "content_only",
+   "lớp nhân có nóng nhất ko ạ?",
+   "got none: exp Cấu tạo của Trái Đất. "
+  ],
+  [
+   "content_only",
+   "tại sao lại có mùa xuân hạ thu đông ạ?",
+   "got none: exp Chuyển động quanh Mặt "
+  ],
+  [
+   "content_only",
+   "tự nhiên có vai trò gì trong sản xuất ạ?",
+   "got none: exp Con người và thiên nhi"
+  ],
+  [
+   "content_only",
+   "nước ở đại dương với sông hồ thì gọi chu",
+   "got lesson_card:Biển và đại dương exp Thủy quyền. Vòng tuần "
+  ],
+  [
+   "name_query",
+   "em cần học kỹ phần nội sinh của bài này,",
+   "got A_concept: exp Quá trình nội sinh và "
+  ],
+  [
+   "content_only",
+   "khoảng cách giữa các đường này có ý nghĩ",
+   "got none: exp Thực hành đọc lược đồ "
+  ],
+  [
+   "content_only",
+   "bán kính xích đạo là bao nhiêu thế ạ?",
+   "got none: exp Vị trí Trái Đất trong "
+  ],
+  [
+   "content_only",
+   "cho em hỏi khu vực này thường có mưa nhi",
+   "got none: exp Sinh vật và sự phân bố"
+  ],
+  [
+   "content_only",
+   "hướng chuyển động là từ đâu sang đâu vậy",
+   "got A_concept: exp Chuyển động quanh Mặt "
+  ],
+  [
+   "content_only",
+   "báo cáo sản phẩm thì nên trình bày kiểu ",
+   "got none: exp Thực hành tác động của"
+  ],
+  [
+   "content_only",
+   "mùa lũ với mùa cạn là gì vậy ạ",
+   "got none: exp Sông và hồ"
+  ],
+  [
+   "content_only",
+   "cái đường màu đỏ với cột màu xanh là để ",
+   "got none: exp Thực hành phân tích bi"
+  ],
+  [
+   "content_only",
+   "làm sao để biết cái hình tam giác hay ch",
+   "got A_concept: exp Kí hiệu và chú giải tr"
+  ],
+  [
+   "content_only",
+   "mấy cái hiện tượng này xảy ra ở đâu ạ?",
+   "got none: exp Cấu tạo của Trái Đất. "
+  ],
+  [
+   "content_only",
+   "nêu mấy ví dụ về tác động tiêu cực đi ạ",
+   "got none: exp Con người và thiên nhi"
+  ],
+  [
+   "content_only",
+   "nếu là sông ngòi hay đường đi thì dùng k",
+   "got A_concept: exp Kí hiệu và chú giải tr"
+  ],
+  [
+   "content_only",
+   "làm sao để có dữ liệu thực tế cho bài họ",
+   "got A_concept: exp Thực hành tìm hiểu môi"
+  ],
+  [
+   "content_only",
+   "một ngày đêm là bao nhiêu tiếng ạ?",
+   "got none: exp Chuyển động tự quay qu"
+  ],
+  [
+   "content_only",
+   "tại sao mấy chỗ khắc nghiệt như sa mạc l",
+   "got none: exp Dân số và phân bố dân "
+  ],
+  [
+   "content_only",
+   "các yếu tố nào ảnh hưởng đến hiện tượng ",
+   "got none: exp Thời tiết và khí hậu"
+  ],
+  [
+   "content_only",
+   "mặt trời buổi chiều thì lặn ở hướng nào ",
+   "got none: exp Thực hành xác định phư"
+  ],
+  [
+   "content_only",
+   "trong các nguồn nước thì nước ngọt chiếm",
+   "got none: exp Thủy quyền. Vòng tuần "
+  ],
+  [
+   "content_only",
+   "cho em hỏi hồ nước ngọt là gì ạ",
+   "got none: exp Sông và hồ"
+  ],
+  [
+   "content_only",
+   "có cách nào để giảm bớt tác động của thờ",
+   "got A_concept: exp Biến đổi khí hậu và ứn"
+  ],
+  [
+   "content_only",
+   "mặt cắt ngang giúp mình hình dung được g",
+   "got A_concept: exp Thực hành đọc lược đồ "
+  ],
+  [
+   "content_only",
+   "cái nào thay đổi nhanh hơn vậy ạ?",
+   "got lesson_practice:Biến đổi khí hậu và ứn exp Thời tiết và khí hậu"
+  ],
+  [
+   "content_only",
+   "độ dài đường xích đạo tầm bao nhiêu km n",
+   "got none: exp Vị trí Trái Đất trong "
+  ],
+  [
+   "content_only",
+   "làm sao để mình ghi nhớ được đường đi nh",
+   "got lesson_practice:Tìm đường đi trên bản  exp Lược đồ trí nhớ"
+  ],
+  [
+   "content_only",
+   "nếu tính trung bình tháng thì chia cho s",
+   "got none: exp Thời tiết và khí hậu"
+  ]
+ ]
+}

@@ -1,0 +1,233 @@
+{
+ "book": "ngu_van 6 CTST tap1",
+ "port": "8890",
+ "total": 500,
+ "lessons": 19,
+ "lesson_cases": 425,
+ "guard_cases": 75,
+ "errors": 0,
+ "anchor_acc": 80.9,
+ "mode_acc": 70.1,
+ "guard_acc": 100.0,
+ "cruft_on_cards": 0,
+ "latency_ms": {
+  "p50": 39.4,
+  "p95": 222.1,
+  "p99": 260.1,
+  "max": 279.6
+ },
+ "by_dimension": {
+  "content_only": {
+   "n": 111,
+   "anchor%": 28.8,
+   "mode%": 23.4,
+   "cruft": 0
+  },
+  "current_lesson": {
+   "n": 92,
+   "anchor%": 98.9,
+   "mode%": 94.6,
+   "cruft": 0
+  },
+  "guard_chitchat": {
+   "n": 24,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_offtopic": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_oob_trang": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_out_of_book": {
+   "n": 15,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_word": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_year": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "name_query": {
+   "n": 110,
+   "anchor%": 99.1,
+   "mode%": 79.1,
+   "cruft": 0
+  },
+  "practice": {
+   "n": 112,
+   "anchor%": 100.0,
+   "mode%": 87.5,
+   "cruft": 0
+  }
+ },
+ "sample_fails": [
+  [
+   "content_only",
+   "các sự vật như chị hũ bác lau sậy được n",
+   "got none: exp Cô gió mất tên"
+  ],
+  [
+   "content_only",
+   "các bước thực hiện có gì đặc biệt không ",
+   "got lesson_practice:Lập kế hoạch hoạt động exp Hội thổi cơm thi ở Đồn"
+  ],
+  [
+   "content_only",
+   "việc lấy lửa được thực hiện như thế nào ",
+   "got none: exp Hội thổi cơm thi ở Đồn"
+  ],
+  [
+   "content_only",
+   "vợ của nhân vật chính sau đó gặp chuyện ",
+   "got none: exp Sọ Dừa"
+  ],
+  [
+   "content_only",
+   "cuộc khởi nghĩa này diễn ra vào thời nào",
+   "got none: exp Sự tích hồ Gươm"
+  ],
+  [
+   "content_only",
+   "tác giả nói về sự thay đổi thể chất như ",
+   "got none: exp Một năm ở tiểu học"
+  ],
+  [
+   "content_only",
+   "tác giả viết về kỷ niệm tuổi thơ hay về ",
+   "got lesson_card:Một năm ở tiểu học exp Thương nhớ bầy ong"
+  ],
+  [
+   "content_only",
+   "kết cục của người anh như thế nào ạ?",
+   "got none: exp Non-bu và Heng-bu"
+  ],
+  [
+   "content_only",
+   "truyện này nói về kiểu người thế nào ạ?",
+   "got none: exp Non-bu và Heng-bu"
+  ],
+  [
+   "content_only",
+   "truyện này thuộc thể loại gì thế ạ?",
+   "got none: exp Giọt sương đêm"
+  ],
+  [
+   "content_only",
+   "biến cố nào làm nhân vật thay đổi suy ng",
+   "got none: exp Giọt sương đêm"
+  ],
+  [
+   "content_only",
+   "vùng đất này có gì đặc biệt thế ạ?",
+   "got none: exp Những câu hát dân gian"
+  ],
+  [
+   "content_only",
+   "trong bài này có nhấn mạnh việc làm tốt ",
+   "got none: exp Cô gió mất tên"
+  ],
+  [
+   "content_only",
+   "quy trình này có mấy bước thế ạ?",
+   "got none: exp Lập kế hoạch hoạt động"
+  ],
+  [
+   "content_only",
+   "truyện này có kết thúc có hậu ko ạ",
+   "got none: exp Sọ Dừa"
+  ],
+  [
+   "content_only",
+   "nội dung chính của mấy câu này là gì vậy",
+   "got none: exp Hoa bìm"
+  ],
+  [
+   "content_only",
+   "những hình ảnh trong bài gợi nhắc kỷ niệ",
+   "got none: exp Hoa bìm bịp"
+  ],
+  [
+   "content_only",
+   "nội dung chính của đoạn cuối là về cái g",
+   "got none: exp Lao xao ngày hè"
+  ],
+  [
+   "content_only",
+   "câu chuyện này muốn nhắn nhủ điều gì về ",
+   "got none: exp Giọt sương đêm"
+  ],
+  [
+   "content_only",
+   "cái hội này ca ngợi điều gì vậy ạ?",
+   "got none: exp Hội thổi cơm thi ở Đồn"
+  ],
+  [
+   "content_only",
+   "nội dung nói về sự gắn bó giữa con người",
+   "got none: exp Thương nhớ bầy ong"
+  ],
+  [
+   "content_only",
+   "thể thơ này có đặc điểm gì về nhạc điệu ",
+   "got none: exp Làm thơ lục bát"
+  ],
+  [
+   "content_only",
+   "cái kết của câu chuyện này là gì thế ạ?",
+   "got none: exp Bài học đường đời đầu "
+  ],
+  [
+   "content_only",
+   "sau khi thắng giặc thì nhân vật đó đi đâ",
+   "got none: exp Thánh Gióng"
+  ],
+  [
+   "content_only",
+   "vẻ đẹp của truyện cổ được nhắc đến như t",
+   "got none: exp Chuyện cổ nước mình"
+  ],
+  [
+   "content_only",
+   "nhân vật này có những phẩm chất gì đáng ",
+   "got none: exp Sọ Dừa"
+  ],
+  [
+   "content_only",
+   "mục đích của việc làm mấy bước này là gì",
+   "got none: exp Lập kế hoạch hoạt động"
+  ],
+  [
+   "content_only",
+   "cốt truyện có những yếu tố kì ảo nào vậy",
+   "got none: exp Non-bu và Heng-bu"
+  ],
+  [
+   "content_only",
+   "truyện này phê phán thói xấu gì thế ạ?",
+   "got none: exp Non-bu và Heng-bu"
+  ],
+  [
+   "content_only",
+   "nội dung chính của bài này là gì thế ạ?",
+   "got none: exp Em bé thông minh"
+  ]
+ ]
+}

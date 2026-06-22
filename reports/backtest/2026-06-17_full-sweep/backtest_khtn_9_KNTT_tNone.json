@@ -1,0 +1,245 @@
+{
+ "book": "khtn 9 KNTT tapNone",
+ "port": "8890",
+ "total": 500,
+ "lessons": 51,
+ "lesson_cases": 425,
+ "guard_cases": 75,
+ "errors": 0,
+ "anchor_acc": 86.4,
+ "mode_acc": 74.4,
+ "guard_acc": 100.0,
+ "cruft_on_cards": 0,
+ "latency_ms": {
+  "p50": 40.3,
+  "p95": 367.9,
+  "p99": 387.3,
+  "max": 411.9
+ },
+ "by_dimension": {
+  "content_only": {
+   "n": 82,
+   "anchor%": 36.6,
+   "mode%": 23.2,
+   "cruft": 0
+  },
+  "current_lesson": {
+   "n": 64,
+   "anchor%": 100.0,
+   "mode%": 85.9,
+   "cruft": 0
+  },
+  "guard_chitchat": {
+   "n": 24,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_offtopic": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_oob_trang": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_out_of_book": {
+   "n": 15,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_word": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_year": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "name_query": {
+   "n": 83,
+   "anchor%": 95.2,
+   "mode%": 75.9,
+   "cruft": 0
+  },
+  "practice": {
+   "n": 96,
+   "anchor%": 100.0,
+   "mode%": 93.8,
+   "cruft": 0
+  },
+  "trang_profile": {
+   "n": 35,
+   "anchor%": 100.0,
+   "mode%": 80.0,
+   "cruft": 0
+  },
+  "trang_query": {
+   "n": 65,
+   "anchor%": 96.9,
+   "mode%": 93.8,
+   "cruft": 0
+  }
+ },
+ "sample_fails": [
+  [
+   "content_only",
+   "cho em hỏi đèn huỳnh quang là dùng tác d",
+   "got none: exp Tác dụng của dòng diện"
+  ],
+  [
+   "content_only",
+   "công thức của tinh bột là gì thế ạ?",
+   "got lesson_card:Tinh bột và cellulose exp Polymer"
+  ],
+  [
+   "content_only",
+   "cái vụ thế năng cực đại là sao thế ạ?",
+   "got A_concept: exp Cơ năng"
+  ],
+  [
+   "name_query",
+   "em chưa hiểu rõ phần Sự ấm lên toàn cầu ",
+   "got A_concept: exp Khai thác nhiên liệu h"
+  ],
+  [
+   "content_only",
+   "tia phóng xạ với virus thì thuộc nhóm nà",
+   "got none: exp Di truyền học với con "
+  ],
+  [
+   "content_only",
+   "mấy cái loại như than đá với dầu mỏ thì ",
+   "got none: exp Khai thác nhiên liệu h"
+  ],
+  [
+   "content_only",
+   "khi cho tác dụng với NaOH thì ra sản phẩ",
+   "got none: exp Acetic acid"
+  ],
+  [
+   "content_only",
+   "sự khác biệt giữa biến dị cá thể và biến",
+   "got lesson_card:Khái quát về di truyền exp Cơ chế tiến hoá"
+  ],
+  [
+   "content_only",
+   "cái loại mà phần giữa dày hơn phần rìa l",
+   "got A_concept: exp Thấu kính"
+  ],
+  [
+   "content_only",
+   "nó được tạo từ cái gì thế ạ?",
+   "got none: exp Protein"
+  ],
+  [
+   "content_only",
+   "nếu là tế bào sinh dưỡng thì số lượng nt",
+   "got A_concept: exp Nhiễm sắc thể và bộ nh"
+  ],
+  [
+   "content_only",
+   "hội chứng down là do cái gì gây ra thế ạ",
+   "got none: exp Đột biến nhiễm sắc thể"
+  ],
+  [
+   "content_only",
+   "khối chất trong suốt này có đặc điểm gì ",
+   "got none: exp Lăng kính"
+  ],
+  [
+   "content_only",
+   "nếu một cái bị cháy thì cả mạch có mất đ",
+   "got A_concept: exp Đoạn mạch nối tiếp, so"
+  ],
+  [
+   "trang_query",
+   "phân tích giúp em cái vụ thấu kính hội t",
+   "got lesson_card:Thấu kính exp Kính lúp. Bài tập thấu"
+  ],
+  [
+   "content_only",
+   "nếu thay đổi trình tự nucleotide thì pro",
+   "got lesson_practice:Protein exp Dịch mã và mối quan hệ"
+  ],
+  [
+   "content_only",
+   "trong dải màu thì màu nào bị lệch nhiều ",
+   "got none: exp Lăng kính"
+  ],
+  [
+   "content_only",
+   "protein với dna kết hợp lại tạo thành cá",
+   "got lesson_card:Protein exp Nhiễm sắc thể và bộ nh"
+  ],
+  [
+   "content_only",
+   "tivi với tủ lạnh nhà em là mắc kiểu gì t",
+   "got none: exp Đoạn mạch nối tiếp, so"
+  ],
+  [
+   "content_only",
+   "việc tạo ra trứng ở người là do cái gì ạ",
+   "got none: exp Nguyên phân và giảm ph"
+  ],
+  [
+   "trang_query",
+   "tại sao phải có năng lượng tự nhiên thì ",
+   "got lesson_card:Cơ năng exp Sự phát sinh và phát t"
+  ],
+  [
+   "content_only",
+   "biogas với củi thì thuộc nhóm nào thế ạ?",
+   "got none: exp Nguồn nhiên liệu"
+  ],
+  [
+   "content_only",
+   "nếu thay đổi trình tự nucleotide thì sẽ ",
+   "got none: exp Đột biến gene"
+  ],
+  [
+   "content_only",
+   "nếu dòng điện chạy qua cuộn dây thì có t",
+   "got lesson_card:Cảm ứng điện từ. Nguyê exp Tác dụng của dòng diện"
+  ],
+  [
+   "content_only",
+   "loại nào là mạch đơn còn loại nào là xoắ",
+   "got lesson_card:Đoạn mạch nối tiếp, so exp Nucleic acid và gene"
+  ],
+  [
+   "content_only",
+   "phép lai giữa trội với lặn để check kiểu",
+   "got none: exp Các quy luật di truyền"
+  ],
+  [
+   "content_only",
+   "cho em hỏi về sự liên kết giữa a với t t",
+   "got lesson_card:Di truyền liên kết exp Tái bản DNA và phiên m"
+  ],
+  [
+   "content_only",
+   "xét nghiệm DNA để tìm người thì dựa vào ",
+   "got lesson_practice:Nucleic acid và gene exp Ứng dụng công nghệ di "
+  ],
+  [
+   "content_only",
+   "sự lớn lên của em bé là do cái gì tác độ",
+   "got none: exp Nguyên phân và giảm ph"
+  ],
+  [
+   "content_only",
+   "mấy cái đơn vị như chi, họ, bộ... là do ",
+   "got none: exp Cơ chế tiến hoá"
+  ]
+ ]
+}

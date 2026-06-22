@@ -1,0 +1,245 @@
+{
+ "book": "toan 4 CTST tap2",
+ "port": "8890",
+ "total": 500,
+ "lessons": 33,
+ "lesson_cases": 425,
+ "guard_cases": 75,
+ "errors": 0,
+ "anchor_acc": 85.6,
+ "mode_acc": 51.8,
+ "guard_acc": 100.0,
+ "cruft_on_cards": 0,
+ "latency_ms": {
+  "p50": 39.4,
+  "p95": 313.9,
+  "p99": 336.6,
+  "max": 499.0
+ },
+ "by_dimension": {
+  "content_only": {
+   "n": 81,
+   "anchor%": 34.6,
+   "mode%": 7.4,
+   "cruft": 0
+  },
+  "current_lesson": {
+   "n": 74,
+   "anchor%": 100.0,
+   "mode%": 67.6,
+   "cruft": 0
+  },
+  "guard_chitchat": {
+   "n": 24,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_offtopic": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_oob_trang": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_out_of_book": {
+   "n": 15,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_word": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_year": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "name_query": {
+   "n": 74,
+   "anchor%": 100.0,
+   "mode%": 25.7,
+   "cruft": 0
+  },
+  "practice": {
+   "n": 92,
+   "anchor%": 100.0,
+   "mode%": 95.7,
+   "cruft": 0
+  },
+  "trang_profile": {
+   "n": 45,
+   "anchor%": 91.1,
+   "mode%": 51.1,
+   "cruft": 0
+  },
+  "trang_query": {
+   "n": 59,
+   "anchor%": 93.2,
+   "mode%": 57.6,
+   "cruft": 0
+  }
+ },
+ "sample_fails": [
+  [
+   "content_only",
+   "cách đếm các sự kiện xuất hiện trong trò",
+   "got none: exp Ôn tập về một số yếu t"
+  ],
+  [
+   "content_only",
+   "muốn trừ 2 phân số khác mẫu thì làm sao ",
+   "got lesson_practice:Phân số exp Trừ hai phân số khác m"
+  ],
+  [
+   "content_only",
+   "em muốn biết cách tính khi mẫu số khác n",
+   "got lesson_practice:Cộng hai phân số khác  exp Trừ hai phân số khác m"
+  ],
+  [
+   "content_only",
+   "khi nào thì gọi là phân số tối giản ạ?",
+   "got lesson_card:Phân số exp Rút gọn phân số"
+  ],
+  [
+   "content_only",
+   "trong này có mấy phần chính vậy ạ?",
+   "got A_concept: exp Ôn tập cuối năm"
+  ],
+  [
+   "trang_query",
+   "giảng lại cho em phần so sánh phân số đi",
+   "got lesson_card:Phân số exp So sánh hai phân số"
+  ],
+  [
+   "content_only",
+   "làm sao để tính được 3/5 của 20 ạ?",
+   "got A_concept: exp Tìm phân số của một số"
+  ],
+  [
+   "content_only",
+   "muốn tìm x trong phép cộng thì làm thế n",
+   "got A_concept: exp Phép cộng các số tự nh"
+  ],
+  [
+   "trang_profile",
+   "tại sao lại lấy tử nhân tử mẫu nhân mẫu ",
+   "got lesson_card:Ôn tập số tự nhiên và  exp Ôn tập cuối năm"
+  ],
+  [
+   "content_only",
+   "mỗi lượt chia cần làm những bước gì vậy ",
+   "got lesson_practice:Phép chia phân số exp Chia cho số có một chữ"
+  ],
+  [
+   "content_only",
+   "làm sao để biến mấy cái phân số khác mẫu",
+   "got lesson_practice:Phân số exp Quy đồng mẫu số các ph"
+  ],
+  [
+   "content_only",
+   "làm sao để tính nhanh mấy phép tính có t",
+   "got lesson_practice:Nhân các số có tận cùn exp Chia hai số có tận cùn"
+  ],
+  [
+   "content_only",
+   "phải nhân với hàng đơn vị trước rồi mới ",
+   "got lesson_practice:Nhân với số có một chữ exp Nhân với số có hai chữ"
+  ],
+  [
+   "content_only",
+   "cách biến đổi phân số cho bằng nhau ấy ạ",
+   "got lesson_practice:Phân số exp Ôn tập phân số và các "
+  ],
+  [
+   "content_only",
+   "tổng của 2 cái tích riêng là kết quả cuố",
+   "got none: exp Nhân với số có hai chữ"
+  ],
+  [
+   "content_only",
+   "lấy số đó chia mẫu rồi nhân tử có được k",
+   "got lesson_practice:Phân số bằng nhau exp Tìm phân số của một số"
+  ],
+  [
+   "trang_query",
+   "phân số đảo ngược là gì thế ạ? ở trang 6",
+   "got lesson_card:Phân số exp Phép chia phân số"
+  ],
+  [
+   "content_only",
+   "phải viết lùi sang trái 1 cột là sao ạ?",
+   "got none: exp Nhân với số có hai chữ"
+  ],
+  [
+   "content_only",
+   "nếu chia cả tử và mẫu cho cùng 1 số thì ",
+   "got lesson_practice:Phân số exp Phân số bằng nhau"
+  ],
+  [
+   "content_only",
+   "làm sao để biết phân số này lớn hơn hay ",
+   "got lesson_practice:Phân số exp So sánh hai phân số"
+  ],
+  [
+   "content_only",
+   "phải nhân cả tử với mẫu thì mới đúng đún",
+   "got none: exp Quy đồng mẫu số các ph"
+  ],
+  [
+   "content_only",
+   "phép tính a : (b x c) thì làm thế nào?",
+   "got A_concept: exp Chia hai số có tận cùn"
+  ],
+  [
+   "trang_profile",
+   "cách cộng 2 phân số khác mẫu thế nào ạ?",
+   "got lesson_practice:Phân số exp Ôn tập phân số và các "
+  ],
+  [
+   "content_only",
+   "cách đặt tính rồi tính như nào ạ",
+   "got lesson_practice:Phép cộng các số tự nh exp Phép trừ các số tự nhi"
+  ],
+  [
+   "content_only",
+   "quy tắc trừ 2 phân số khác mẫu là gì thế",
+   "got lesson_practice:Phân số exp Trừ hai phân số khác m"
+  ],
+  [
+   "content_only",
+   "nhân xong có cần rút gọn ko ạ?",
+   "got lesson_practice:Rút gọn phân số exp Phép nhân phân số"
+  ],
+  [
+   "content_only",
+   "em có cần rút gọn phân số sau khi trừ ko",
+   "got lesson_practice:Rút gọn phân số exp Trừ hai phân số cùng m"
+  ],
+  [
+   "content_only",
+   "làm sao để nhóm các số cho ra kết quả tr",
+   "got none: exp Phép cộng các số tự nh"
+  ],
+  [
+   "content_only",
+   "phép tính này là nhân hay là chia vậy ạ?",
+   "got lesson_practice:Nhân với 10, 100, 1 00 exp Tìm phân số của một số"
+  ],
+  [
+   "content_only",
+   "công thức tính số cột đèn là gì thế ạ?",
+   "got lesson_card:Phép cộng các số tự nh exp Chia cho số có hai chữ"
+  ]
+ ]
+}

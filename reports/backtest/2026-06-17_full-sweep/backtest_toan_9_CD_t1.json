@@ -1,0 +1,245 @@
+{
+ "book": "toan 9 CD tap1",
+ "port": "8890",
+ "total": 500,
+ "lessons": 17,
+ "lesson_cases": 425,
+ "guard_cases": 75,
+ "errors": 0,
+ "anchor_acc": 88.2,
+ "mode_acc": 61.2,
+ "guard_acc": 100.0,
+ "cruft_on_cards": 0,
+ "latency_ms": {
+  "p50": 39.7,
+  "p95": 294.9,
+  "p99": 309.8,
+  "max": 382.7
+ },
+ "by_dimension": {
+  "content_only": {
+   "n": 84,
+   "anchor%": 45.2,
+   "mode%": 13.1,
+   "cruft": 0
+  },
+  "current_lesson": {
+   "n": 69,
+   "anchor%": 100.0,
+   "mode%": 84.1,
+   "cruft": 0
+  },
+  "guard_chitchat": {
+   "n": 24,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_offtopic": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_oob_trang": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_out_of_book": {
+   "n": 15,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_word": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_year": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "name_query": {
+   "n": 88,
+   "anchor%": 95.5,
+   "mode%": 37.5,
+   "cruft": 0
+  },
+  "practice": {
+   "n": 87,
+   "anchor%": 100.0,
+   "mode%": 93.1,
+   "cruft": 0
+  },
+  "trang_profile": {
+   "n": 41,
+   "anchor%": 100.0,
+   "mode%": 73.2,
+   "cruft": 0
+  },
+  "trang_query": {
+   "n": 56,
+   "anchor%": 100.0,
+   "mode%": 83.9,
+   "cruft": 0
+  }
+ },
+ "sample_fails": [
+  [
+   "content_only",
+   "mấy cái tỉ số giữa các cạnh trong tam gi",
+   "got lesson_card:Một số hệ thức về cạnh exp Tỉ số lượng giác của g"
+  ],
+  [
+   "content_only",
+   "cho em hỏi về tính đối xứng của cái hình",
+   "got A_concept: exp Đường tròn. Vị trí tươ"
+  ],
+  [
+   "content_only",
+   "cái căn bậc 2 thì điều kiện là gì ạ?",
+   "got lesson_practice:Một số phép tính về că exp Căn thức bậc hai và că"
+  ],
+  [
+   "content_only",
+   "quy tắc tách tích và thương của mấy cái ",
+   "got A_concept: exp Một số phép tính về că"
+  ],
+  [
+   "content_only",
+   "mối quan hệ giữa d với R và r là gì thế ",
+   "got none: exp Đường tròn. Vị trí tươ"
+  ],
+  [
+   "content_only",
+   "muốn tính góc khi biết 2 cạnh thì dùng g",
+   "got lesson_practice:Một số hệ thức về cạnh exp Ứng dụng của tỉ số lượ"
+  ],
+  [
+   "content_only",
+   "cái phần liên quan đến bình phương với d",
+   "got A_concept: exp Một số phép tính về că"
+  ],
+  [
+   "content_only",
+   "nếu đỉnh trùng với tâm đường tròn thì gọ",
+   "got A_concept: exp Góc ở tâm. Góc nội tiế"
+  ],
+  [
+   "content_only",
+   "loại phương trình này khi giải thì cần l",
+   "got lesson_practice:Giải hệ hai phương trì exp Phương trình quy về ph"
+  ],
+  [
+   "content_only",
+   "cái phần giữa 2 đường tròn đồng tâm gọi ",
+   "got A_concept: exp Độ dài cung tròn, diện"
+  ],
+  [
+   "content_only",
+   "phải làm gì để đưa về dạng bậc nhất một ",
+   "got lesson_practice:Bất phương trình bậc n exp Phương trình quy về ph"
+  ],
+  [
+   "name_query",
+   "giảng lại giúp em bài phương trình bậc n",
+   "got lesson_practice:Giải hệ hai phương trì exp Phương trình bậc nhất "
+  ],
+  [
+   "content_only",
+   "cho em hỏi cái phần hình phẳng nằm giữa ",
+   "got A_concept: exp Độ dài cung tròn, diện"
+  ],
+  [
+   "name_query",
+   "em chưa nắm vững bài phương trình bậc nh",
+   "got lesson_practice:Giải hệ hai phương trì exp Phương trình bậc nhất "
+  ],
+  [
+   "content_only",
+   "quy tắc lấy giá trị tuyệt đối dùng khi n",
+   "got none: exp Một số phép biến đổi c"
+  ],
+  [
+   "content_only",
+   "dạng có x mà có dấu < > ấy là gì vậy ạ?",
+   "got none: exp Bất phương trình bậc n"
+  ],
+  [
+   "content_only",
+   "làm sao biết 2 cái này cắt nhau hay ko ạ",
+   "got none: exp Đường tròn. Vị trí tươ"
+  ],
+  [
+   "name_query",
+   "cô ơi em chưa hiểu phần hệ hai phương tr",
+   "got lesson_practice:Giải hệ hai phương trì exp Phương trình bậc nhất "
+  ],
+  [
+   "content_only",
+   "nếu 2 góc cộng lại bằng 90 độ thì có liê",
+   "got none: exp Tỉ số lượng giác của g"
+  ],
+  [
+   "content_only",
+   "sao cái căn bậc 3 nó lại xác định với mọ",
+   "got none: exp Căn thức bậc hai và că"
+  ],
+  [
+   "content_only",
+   "làm sao để biết một phương trình là phươ",
+   "got A_concept: exp Phương trình quy về ph"
+  ],
+  [
+   "content_only",
+   "khi nào thì dùng dấu >= hoặc <=?",
+   "got none: exp Bất phương trình bậc n"
+  ],
+  [
+   "content_only",
+   "cái này liên quan đến tâm với bán kính đ",
+   "got none: exp Đường tròn. Vị trí tươ"
+  ],
+  [
+   "content_only",
+   "cái vụ tính chiều cao với độ dốc là dùng",
+   "got lesson_practice:Ứng dụng của tỉ số lượ exp Một số hệ thức về cạnh"
+  ],
+  [
+   "content_only",
+   "trong tam giác vuông thì cạnh đối với kề",
+   "got lesson_practice:Một số hệ thức về cạnh exp Tỉ số lượng giác của g"
+  ],
+  [
+   "content_only",
+   "khi nào thì tích của hai ngoặc bằng 0?",
+   "got A_concept: exp Phương trình quy về ph"
+  ],
+  [
+   "content_only",
+   "cái hệ này nó có đặc điểm gì thế ạ",
+   "got none: exp Phương trình bậc nhất "
+  ],
+  [
+   "content_only",
+   "cho em hỏi căn bậc 2 thì biểu thức dưới ",
+   "got lesson_practice:Một số phép tính về că exp Căn thức bậc hai và că"
+  ],
+  [
+   "content_only",
+   "làm sao để biết một số có phải là nghiệm",
+   "got lesson_practice:Phương trình bậc nhất  exp Bất phương trình bậc n"
+  ],
+  [
+   "content_only",
+   "nếu chia cho số âm thì dấu phải đổi thàn",
+   "got none: exp Bất phương trình bậc n"
+  ]
+ ]
+}

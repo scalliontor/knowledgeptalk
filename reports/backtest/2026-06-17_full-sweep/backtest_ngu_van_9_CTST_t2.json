@@ -1,0 +1,251 @@
+{
+ "book": "ngu_van 9 CTST tap2",
+ "port": "8890",
+ "total": 495,
+ "lessons": 13,
+ "lesson_cases": 420,
+ "guard_cases": 75,
+ "errors": 0,
+ "anchor_acc": 86.4,
+ "mode_acc": 70.7,
+ "guard_acc": 100.0,
+ "cruft_on_cards": 0,
+ "latency_ms": {
+  "p50": 38.9,
+  "p95": 193.4,
+  "p99": 251.5,
+  "max": 1137.5
+ },
+ "by_dimension": {
+  "content_only": {
+   "n": 78,
+   "anchor%": 26.9,
+   "mode%": 20.5,
+   "cruft": 0
+  },
+  "current_lesson": {
+   "n": 65,
+   "anchor%": 100.0,
+   "mode%": 84.6,
+   "cruft": 0
+  },
+  "guard_chitchat": {
+   "n": 24,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_offtopic": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_oob_trang": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_out_of_book": {
+   "n": 15,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_word": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_year": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "name_query": {
+   "n": 78,
+   "anchor%": 100.0,
+   "mode%": 88.5,
+   "cruft": 0
+  },
+  "practice": {
+   "n": 78,
+   "anchor%": 100.0,
+   "mode%": 74.4,
+   "cruft": 0
+  },
+  "recite": {
+   "n": 30,
+   "anchor%": 100.0,
+   "mode%": 86.7,
+   "cruft": 0
+  },
+  "trang_profile": {
+   "n": 39,
+   "anchor%": 100.0,
+   "mode%": 79.5,
+   "cruft": 0
+  },
+  "trang_query": {
+   "n": 52,
+   "anchor%": 100.0,
+   "mode%": 80.8,
+   "cruft": 0
+  }
+ },
+ "sample_fails": [
+  [
+   "content_only",
+   "vợ nhân vật này đã làm gì để chứng minh ",
+   "got none: exp Cái bóng trên tường"
+  ],
+  [
+   "content_only",
+   "cho em hỏi bài này có mấy phần chính ạ?",
+   "got none: exp Hai chữ nước nhà"
+  ],
+  [
+   "content_only",
+   "bi kịch ở đây là do ai gây ra vậy ạ?",
+   "got none: exp Cái bóng trên tường"
+  ],
+  [
+   "content_only",
+   "Cốt truyện chính xoay quanh vụ việc gì v",
+   "got none: exp Kẻ sát nhân lộ diện"
+  ],
+  [
+   "content_only",
+   "người vợ trong bài có tính cách như thế ",
+   "got none: exp Cái bóng trên tường"
+  ],
+  [
+   "content_only",
+   "Tác giả muốn nhắn nhủ điều gì qua bài nà",
+   "got none: exp Bài phát biểu của tổng"
+  ],
+  [
+   "content_only",
+   "Có phải nhân vật đang thể hiện sự khao k",
+   "got none: exp Bức thư tưởng tượng"
+  ],
+  [
+   "content_only",
+   "văn bản này tập trung vào vấn đề gì vậy ",
+   "got lesson_card:Bài phát biểu của tổng exp Kí ức tuổi thơ"
+  ],
+  [
+   "content_only",
+   "chủ đề chính là về nỗi buồn và sự lận đậ",
+   "got none: exp Tì bà hành"
+  ],
+  [
+   "content_only",
+   "Kết thúc truyện thì sự thật được làm sán",
+   "got none: exp Kẻ sát nhân lộ diện"
+  ],
+  [
+   "content_only",
+   "cho em hỏi bài này nói về sự quan tâm tr",
+   "got none: exp Cái roi tre"
+  ],
+  [
+   "content_only",
+   "tác giả nhắc về kỷ niệm gì trong thời th",
+   "got lesson_card:Kí ức tuổi thơ exp Sông Đáy"
+  ],
+  [
+   "content_only",
+   "nội dung chính của văn bản này là về cái",
+   "got none: exp Đấu tranh cho một thế "
+  ],
+  [
+   "content_only",
+   "tác phẩm này có ý nghĩa gì về sự mất mát",
+   "got none: exp Cái roi tre"
+  ],
+  [
+   "content_only",
+   "Tác giả viết cái này vào tầm năm nào vậy",
+   "got none: exp Kẻ sát nhân lộ diện"
+  ],
+  [
+   "content_only",
+   "bức tranh này có gì đặc biệt về màu sắc ",
+   "got none: exp Mùa xuân chín"
+  ],
+  [
+   "content_only",
+   "cảm xúc của tác giả khi trở về quê là vu",
+   "got none: exp Sông Đáy"
+  ],
+  [
+   "content_only",
+   "nhân vật chính dùng cách gì để giải mã b",
+   "got none: exp Ngôi mộ cổ"
+  ],
+  [
+   "content_only",
+   "hình ảnh người mẹ trong bài được khắc họ",
+   "got none: exp Sông Đáy"
+  ],
+  [
+   "content_only",
+   "bài này có nhấn mạnh vào việc giữ gìn ký",
+   "got lesson_card:Kí ức tuổi thơ exp Sông Đáy"
+  ],
+  [
+   "content_only",
+   "nội dung chính của nó là gì vậy ạ?",
+   "got none: exp Kí ức tuổi thơ"
+  ],
+  [
+   "content_only",
+   "kết thúc truyện là ông chồng thấy hối hậ",
+   "got none: exp Cái bóng trên tường"
+  ],
+  [
+   "content_only",
+   "bài này nói về mấy bước để trở thành thá",
+   "got none: exp Cách suy luận"
+  ],
+  [
+   "content_only",
+   "tâm trạng của con người ở khổ cuối là nh",
+   "got none: exp Mùa xuân chín"
+  ],
+  [
+   "content_only",
+   "bài này nói về tình cảm với quê hương nh",
+   "got lesson_card:Hai chữ nước nhà exp Sông Đáy"
+  ],
+  [
+   "content_only",
+   "bài này nói về cái gì thế ạ?",
+   "got none: exp Kí ức tuổi thơ"
+  ],
+  [
+   "content_only",
+   "Những hậu quả mà bài viết đề cập đến là ",
+   "got none: exp Bài phát biểu của tổng"
+  ],
+  [
+   "content_only",
+   "Truyện này thuộc thể loại gì thế ạ?",
+   "got none: exp Kẻ sát nhân lộ diện"
+  ],
+  [
+   "content_only",
+   "có nhắc đến việc luyện giải toán logic t",
+   "got none: exp Cách suy luận"
+  ],
+  [
+   "content_only",
+   "Thông điệp cuối cùng của bài là gì ạ?",
+   "got none: exp Bài phát biểu của tổng"
+  ]
+ ]
+}

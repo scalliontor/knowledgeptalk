@@ -1,0 +1,245 @@
+{
+ "book": "toan 9 CTST tap1",
+ "port": "8890",
+ "total": 500,
+ "lessons": 15,
+ "lesson_cases": 425,
+ "guard_cases": 75,
+ "errors": 0,
+ "anchor_acc": 87.3,
+ "mode_acc": 60.2,
+ "guard_acc": 100.0,
+ "cruft_on_cards": 0,
+ "latency_ms": {
+  "p50": 40.0,
+  "p95": 288.0,
+  "p99": 310.9,
+  "max": 323.6
+ },
+ "by_dimension": {
+  "content_only": {
+   "n": 82,
+   "anchor%": 41.5,
+   "mode%": 12.2,
+   "cruft": 0
+  },
+  "current_lesson": {
+   "n": 75,
+   "anchor%": 100.0,
+   "mode%": 86.7,
+   "cruft": 0
+  },
+  "guard_chitchat": {
+   "n": 24,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_offtopic": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_oob_trang": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_out_of_book": {
+   "n": 15,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_word": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_year": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "name_query": {
+   "n": 85,
+   "anchor%": 94.1,
+   "mode%": 38.8,
+   "cruft": 0
+  },
+  "practice": {
+   "n": 84,
+   "anchor%": 100.0,
+   "mode%": 88.1,
+   "cruft": 0
+  },
+  "trang_profile": {
+   "n": 43,
+   "anchor%": 100.0,
+   "mode%": 72.1,
+   "cruft": 0
+  },
+  "trang_query": {
+   "n": 56,
+   "anchor%": 98.2,
+   "mode%": 76.8,
+   "cruft": 0
+  }
+ },
+ "sample_fails": [
+  [
+   "content_only",
+   "khi góc chắn nửa đường tròn thì nó bằng ",
+   "got lesson_practice:Đường tròn exp Góc ở tâm, góc nội tiế"
+  ],
+  [
+   "content_only",
+   "tia nối từ điểm cắt tới tâm là tia gì nh",
+   "got none: exp Tiếp tuyến của đường t"
+  ],
+  [
+   "content_only",
+   "khi làm phép trừ 2 phương trình thì cần ",
+   "got A_concept: exp Giải hệ hai phương trì"
+  ],
+  [
+   "content_only",
+   "cộng cùng 1 số vào 2 vế thì dấu có bị ng",
+   "got none: exp Bất phương trình bậc n"
+  ],
+  [
+   "content_only",
+   "cho em hỏi cách giải khi phương trình có",
+   "got A_concept: exp Phương trình quy về ph"
+  ],
+  [
+   "content_only",
+   "máy tính bấm cái này kiểu gì ạ?",
+   "got none: exp Căn bậc ba"
+  ],
+  [
+   "content_only",
+   "nếu là số dương thì kết quả là số gì?",
+   "got lesson_practice:Căn bậc hai exp Căn bậc ba"
+  ],
+  [
+   "content_only",
+   "nếu đỉnh nằm trên đường tròn thì gọi là ",
+   "got lesson_card:Đường tròn exp Góc ở tâm, góc nội tiế"
+  ],
+  [
+   "content_only",
+   "cho em hỏi về tỉ số của cạnh đối và cạnh",
+   "got none: exp Tỉ số lượng giác của g"
+  ],
+  [
+   "content_only",
+   "cho em hỏi về cái gọi là nghiệm của bất ",
+   "got A_concept: exp Bất phương trình bậc n"
+  ],
+  [
+   "name_query",
+   "bài phương trình bậc nhất hai ẩn này khó",
+   "got lesson_practice:Giải hệ hai phương trì exp Phương trình bậc nhất "
+  ],
+  [
+   "trang_query",
+   "tại sao góc chắn nửa đường tròn lại bằng",
+   "got lesson_card:Đường tròn exp Góc ở tâm, góc nội tiế"
+  ],
+  [
+   "content_only",
+   "cái này là về căn bậc hai của tích với t",
+   "got lesson_card:Căn bậc hai exp Tính chất của phép kha"
+  ],
+  [
+   "content_only",
+   "phần này có dùng dấu giá trị tuyệt đối k",
+   "got none: exp Tính chất của phép kha"
+  ],
+  [
+   "content_only",
+   "làm thế nào để khử mẫu khi có dấu căn ở ",
+   "got none: exp Biến đổi đơn giản biểu"
+  ],
+  [
+   "name_query",
+   "em chưa nắm vững bài hệ hai phương trình",
+   "got lesson_practice:Giải hệ hai phương trì exp Phương trình bậc nhất "
+  ],
+  [
+   "content_only",
+   "mối liên hệ giữa sin và cos của 2 góc ph",
+   "got none: exp Tỉ số lượng giác của g"
+  ],
+  [
+   "content_only",
+   "cho em hỏi nếu a > b và b > c thì mối qu",
+   "got none: exp Bất đẳng thức"
+  ],
+  [
+   "content_only",
+   "có dạng A nhân B bằng 0 thì giải kiểu gì",
+   "got none: exp Phương trình quy về ph"
+  ],
+  [
+   "content_only",
+   "quy tắc khi nhân/chia với số âm là gì th",
+   "got none: exp Bất đẳng thức"
+  ],
+  [
+   "content_only",
+   "cái phần giữa 2 đường tròn đồng tâm là g",
+   "got lesson_card:Đường tròn exp Hình quạt tròn và hình"
+  ],
+  [
+   "content_only",
+   "dây cung lớn nhất là cái gì vậy ạ?",
+   "got A_concept: exp Đường tròn"
+  ],
+  [
+   "content_only",
+   "bước tìm ĐKXĐ dùng để làm gì trong mấy b",
+   "got A_concept: exp Phương trình quy về ph"
+  ],
+  [
+   "content_only",
+   "vế trái với vế phải của phương trình này",
+   "got A_concept: exp Phương trình bậc nhất "
+  ],
+  [
+   "content_only",
+   "cái này có duy nhất 1 giá trị thôi đúng ",
+   "got A_concept: exp Căn bậc ba"
+  ],
+  [
+   "content_only",
+   "nếu chia cho số âm thì dấu sẽ thay đổi t",
+   "got none: exp Bất phương trình bậc n"
+  ],
+  [
+   "content_only",
+   "biểu thức dạng √A thì điều kiện là gì ạ?",
+   "got A_concept: exp Căn bậc hai"
+  ],
+  [
+   "content_only",
+   "khi nào thì mình phải đổi chiều dấu bất ",
+   "got lesson_practice:Bất đẳng thức exp Bất phương trình bậc n"
+  ],
+  [
+   "content_only",
+   "số âm thì có kết quả như nào ạ?",
+   "got lesson_practice:Căn bậc hai exp Căn bậc ba"
+  ],
+  [
+   "content_only",
+   "số 0 thì kết quả ra sao?",
+   "got none: exp Căn bậc ba"
+  ]
+ ]
+}

@@ -1,0 +1,245 @@
+{
+ "book": "toan 9 KNTT tap1",
+ "port": "8890",
+ "total": 500,
+ "lessons": 17,
+ "lesson_cases": 425,
+ "guard_cases": 75,
+ "errors": 0,
+ "anchor_acc": 87.8,
+ "mode_acc": 59.5,
+ "guard_acc": 100.0,
+ "cruft_on_cards": 0,
+ "latency_ms": {
+  "p50": 39.2,
+  "p95": 268.3,
+  "p99": 286.6,
+  "max": 449.4
+ },
+ "by_dimension": {
+  "content_only": {
+   "n": 87,
+   "anchor%": 44.8,
+   "mode%": 11.5,
+   "cruft": 0
+  },
+  "current_lesson": {
+   "n": 69,
+   "anchor%": 100.0,
+   "mode%": 79.7,
+   "cruft": 0
+  },
+  "guard_chitchat": {
+   "n": 24,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_offtopic": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_oob_trang": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_out_of_book": {
+   "n": 15,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_word": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_year": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "name_query": {
+   "n": 89,
+   "anchor%": 95.5,
+   "mode%": 42.7,
+   "cruft": 0
+  },
+  "practice": {
+   "n": 83,
+   "anchor%": 100.0,
+   "mode%": 88.0,
+   "cruft": 0
+  },
+  "trang_profile": {
+   "n": 43,
+   "anchor%": 100.0,
+   "mode%": 79.1,
+   "cruft": 0
+  },
+  "trang_query": {
+   "n": 54,
+   "anchor%": 100.0,
+   "mode%": 79.6,
+   "cruft": 0
+  }
+ },
+ "sample_fails": [
+  [
+   "content_only",
+   "cho em hỏi khi nào thì dấu bất phương tr",
+   "got A_concept: exp Bất phương trình bậc n"
+  ],
+  [
+   "content_only",
+   "giải thích hộ em cái biểu thức dưới dấu ",
+   "got lesson_practice:Biến đổi đơn giản và r exp Căn bậc hai và căn thứ"
+  ],
+  [
+   "content_only",
+   "khi nhân với số âm thì dấu phải đổi thế ",
+   "got none: exp Bất đẳng thức và tính "
+  ],
+  [
+   "content_only",
+   "cái phần đưa số vào trong căn là làm thế",
+   "got lesson_card:Khai căn bậc hai với p exp Biến đổi đơn giản và r"
+  ],
+  [
+   "content_only",
+   "cho em hỏi cái này có phải là một đường ",
+   "got A_concept: exp Khái niệm phương trình"
+  ],
+  [
+   "content_only",
+   "cạnh kề với góc nhọn là cạnh nào vậy ạ?",
+   "got none: exp Tỉ số lượng giác của g"
+  ],
+  [
+   "content_only",
+   "khi chia cho số âm thì dấu sẽ như thế nà",
+   "got none: exp Bất phương trình bậc n"
+  ],
+  [
+   "content_only",
+   "làm sao để biết khi nào dùng phương pháp",
+   "got A_concept: exp Giải bài toán bằng các"
+  ],
+  [
+   "content_only",
+   "kiểm tra nghiệm thế nào ạ",
+   "got none: exp Khái niệm phương trình"
+  ],
+  [
+   "content_only",
+   "mọi điểm trên đường này đều có đặc điểm ",
+   "got A_concept: exp Mở đầu về đường tròn"
+  ],
+  [
+   "content_only",
+   "cho em hỏi cạnh đối là cạnh như nào ạ?",
+   "got none: exp Tỉ số lượng giác của g"
+  ],
+  [
+   "content_only",
+   "khi nào thì được phép đưa các số vào tro",
+   "got A_concept: exp Khai căn bậc hai với p"
+  ],
+  [
+   "name_query",
+   "bài này có bao nhiêu loại nghiệm thế ạ",
+   "got none: exp Khái niệm phương trình"
+  ],
+  [
+   "content_only",
+   "cho em hỏi về quy tắc nhân với số dương ",
+   "got A_concept: exp Bất đẳng thức và tính "
+  ],
+  [
+   "content_only",
+   "có công thức nào tính diện tích hình phẳ",
+   "got A_concept: exp Độ dài của cung tròn. "
+  ],
+  [
+   "content_only",
+   "làm sao để biết 1 điểm có nằm trên đường",
+   "got lesson_practice:Vị trí tương đối của h exp Mở đầu về đường tròn"
+  ],
+  [
+   "content_only",
+   "cho em hỏi khi nào thì căn thức có giá t",
+   "got A_concept: exp Căn bậc hai và căn thứ"
+  ],
+  [
+   "name_query",
+   "em chưa nắm rõ cách dùng máy tính trong ",
+   "got A_concept: exp Giải hệ hai phương trì"
+  ],
+  [
+   "content_only",
+   "tại sao lại có cả số dương lẫn số âm hả ",
+   "got A_concept: exp Căn bậc hai và căn thứ"
+  ],
+  [
+   "content_only",
+   "khi nào thì cần tìm điều kiện xác định c",
+   "got none: exp Phương trình quy về ph"
+  ],
+  [
+   "content_only",
+   "tìm điều kiện để cái căn này có nghĩa đi",
+   "got none: exp Căn bậc hai và căn thứ"
+  ],
+  [
+   "content_only",
+   "cái phần nằm giữa 2 đường tròn đồng tâm ",
+   "got A_concept: exp Độ dài của cung tròn. "
+  ],
+  [
+   "content_only",
+   "có cách nào tính góc nghiêng của cái tha",
+   "got none: exp Một số hệ thức giữa cạ"
+  ],
+  [
+   "content_only",
+   "biểu diễn trên mặt phẳng tọa độ ntn ạ",
+   "got none: exp Khái niệm phương trình"
+  ],
+  [
+   "content_only",
+   "nhân cả 2 vế với số dương thì dấu giữ ng",
+   "got A_concept: exp Bất đẳng thức và tính "
+  ],
+  [
+   "content_only",
+   "cho em hỏi cách giải dạng A(x).B(x)=0 vớ",
+   "got lesson_practice:Bất phương trình bậc n exp Phương trình quy về ph"
+  ],
+  [
+   "content_only",
+   "cái hình có 2 đường tròn đồng tâm thì gọ",
+   "got A_concept: exp Độ dài của cung tròn. "
+  ],
+  [
+   "content_only",
+   "có mấy cách để tìm ra x và y vậy ạ?",
+   "got none: exp Giải hệ hai phương trì"
+  ],
+  [
+   "content_only",
+   "kí hiệu ∛a là gì vậy ạ?",
+   "got none: exp Căn bậc ba và căn thức"
+  ],
+  [
+   "content_only",
+   "nếu a bằng 0 thì có tính là dạng này ko?",
+   "got A_concept: exp Bất phương trình bậc n"
+  ]
+ ]
+}

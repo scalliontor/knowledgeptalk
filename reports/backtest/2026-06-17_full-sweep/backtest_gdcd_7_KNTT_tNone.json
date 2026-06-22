@@ -1,0 +1,245 @@
+{
+ "book": "gdcd 7 KNTT tapNone",
+ "port": "8890",
+ "total": 500,
+ "lessons": 27,
+ "lesson_cases": 425,
+ "guard_cases": 75,
+ "errors": 0,
+ "anchor_acc": 87.5,
+ "mode_acc": 75.8,
+ "guard_acc": 100.0,
+ "cruft_on_cards": 11,
+ "latency_ms": {
+  "p50": 39.5,
+  "p95": 240.0,
+  "p99": 271.4,
+  "max": 322.9
+ },
+ "by_dimension": {
+  "content_only": {
+   "n": 99,
+   "anchor%": 47.5,
+   "mode%": 23.2,
+   "cruft": 2
+  },
+  "current_lesson": {
+   "n": 78,
+   "anchor%": 100.0,
+   "mode%": 96.2,
+   "cruft": 0
+  },
+  "guard_chitchat": {
+   "n": 24,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_offtopic": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_oob_trang": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_out_of_book": {
+   "n": 15,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_word": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_year": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "name_query": {
+   "n": 106,
+   "anchor%": 99.1,
+   "mode%": 81.1,
+   "cruft": 1
+  },
+  "practice": {
+   "n": 100,
+   "anchor%": 100.0,
+   "mode%": 98.0,
+   "cruft": 8
+  },
+  "trang_profile": {
+   "n": 16,
+   "anchor%": 100.0,
+   "mode%": 93.8,
+   "cruft": 0
+  },
+  "trang_query": {
+   "n": 26,
+   "anchor%": 100.0,
+   "mode%": 96.2,
+   "cruft": 0
+  }
+ },
+ "sample_fails": [
+  [
+   "content_only",
+   "ví dụ như việc con cái lễ phép với ông b",
+   "got none: exp Xây dựng gia đình văn "
+  ],
+  [
+   "content_only",
+   "làm sao để biết cái gì là cần cái gì là ",
+   "got none: exp Quản lí tiền"
+  ],
+  [
+   "content_only",
+   "tại sao mình cần phải tự hoàn thành bài ",
+   "got none: exp Học tập tự giác, tích "
+  ],
+  [
+   "content_only",
+   "việc quảng bá hình ảnh quê hương có phải",
+   "got none: exp Tự hào về truyền thống"
+  ],
+  [
+   "content_only",
+   "tại sao không nên bao che cho lỗi sai củ",
+   "got lesson_card:Khoan dung exp Trung thực"
+  ],
+  [
+   "content_only",
+   "làm thế nào để khẳng định giá trị cá nhâ",
+   "got none: exp Tự tin"
+  ],
+  [
+   "content_only",
+   "di tích với danh lam thắng cảnh thì là c",
+   "got none: exp Bảo vệ di sản văn hóa"
+  ],
+  [
+   "content_only",
+   "việc bầu cử là thực hiện quyền gì thế ạ?",
+   "got none: exp Nhà nước Cộng hòa xã h"
+  ],
+  [
+   "content_only",
+   "có những nguyên nhân nào gây ra tình trạ",
+   "got none: exp Ứng phó với tâm lí căn"
+  ],
+  [
+   "content_only",
+   "cái này có ý nghĩa gì trong đời sống ko ",
+   "got A_concept: exp Quan tâm, cảm thông và"
+  ],
+  [
+   "content_only",
+   "thấy người gặp khó khăn mà ko giúp thì g",
+   "got none: exp Yêu thương con người"
+  ],
+  [
+   "content_only",
+   "mình có quyền làm gì khi đi tham quan mấ",
+   "got none: exp Bảo tồn di sản văn hóa"
+  ],
+  [
+   "content_only",
+   "việc bố mẹ tôn trọng ý kiến của con thì ",
+   "got none: exp Xây dựng gia đình văn "
+  ],
+  [
+   "content_only",
+   "nếu em tự giác làm việc tốt thì là do cá",
+   "got lesson_practice:Học tập tự giác, tích  exp Đạo đức và kỉ luật"
+  ],
+  [
+   "content_only",
+   "tại sao việc dám bày tỏ ý kiến lại quan ",
+   "got none: exp Tự tin"
+  ],
+  [
+   "content_only",
+   "tại sao sự quản lý của gia đình lại quan",
+   "got A_concept: exp Phòng, chống tệ nạn xã"
+  ],
+  [
+   "content_only",
+   "giúp mối quan hệ tốt đẹp hơn là biểu hiệ",
+   "got none: exp Khoan dung"
+  ],
+  [
+   "content_only",
+   "sự khác nhau giữa hữu hình với vô hình l",
+   "got none: exp Bảo vệ di sản văn hóa"
+  ],
+  [
+   "content_only",
+   "cái gì giúp duy trì trật tự trong xã hội",
+   "got lesson_card:Tự trọng exp Đạo đức và kỉ luật"
+  ],
+  [
+   "content_only",
+   "nền tảng của xã hội là gì vậy ạ?",
+   "got lesson_card:Bộ máy nhà nước cấp cơ exp Xây dựng gia đình văn "
+  ],
+  [
+   "content_only",
+   "biết nhận lỗi khi làm sai thì gọi là gì ",
+   "got none: exp Tự trọng"
+  ],
+  [
+   "content_only",
+   "người sống đúng lương tâm thì được gọi l",
+   "got none: exp Tự trọng"
+  ],
+  [
+   "content_only",
+   "nếu không lãng phí thời gian thì được lợ",
+   "got none: exp Sống giản dị"
+  ],
+  [
+   "name_query",
+   "trách nhiệm của học sinh trong bài này l",
+   "got none: exp Phòng, chống tệ nạn xã"
+  ],
+  [
+   "content_only",
+   "nếu thấy ai lấy trộm đồ ở chùa thì mình ",
+   "got none: exp Bảo tồn di sản văn hóa"
+  ],
+  [
+   "content_only",
+   "việc tuân thủ nội quy trường học thì thu",
+   "got none: exp Đạo đức và kỉ luật"
+  ],
+  [
+   "content_only",
+   "nếu cứ đợi nhắc mới làm thì có gọi là tố",
+   "got none: exp Học tập tự giác, tích "
+  ],
+  [
+   "content_only",
+   "anh trai giúp em học bài thì là thực hiệ",
+   "got none: exp Quyền và nghĩa vụ của "
+  ],
+  [
+   "content_only",
+   "nếu không sợ sai thì gọi là gì?",
+   "got none: exp Tự tin"
+  ],
+  [
+   "content_only",
+   "khi làm sai mà dám nhận lỗi thì có ý ngh",
+   "got none: exp Trung thực"
+  ]
+ ]
+}

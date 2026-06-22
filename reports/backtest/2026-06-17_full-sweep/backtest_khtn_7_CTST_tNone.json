@@ -1,0 +1,245 @@
+{
+ "book": "khtn 7 CTST tapNone",
+ "port": "8890",
+ "total": 500,
+ "lessons": 39,
+ "lesson_cases": 425,
+ "guard_cases": 75,
+ "errors": 0,
+ "anchor_acc": 89.2,
+ "mode_acc": 75.8,
+ "guard_acc": 100.0,
+ "cruft_on_cards": 0,
+ "latency_ms": {
+  "p50": 37.9,
+  "p95": 306.1,
+  "p99": 324.3,
+  "max": 336.1
+ },
+ "by_dimension": {
+  "content_only": {
+   "n": 73,
+   "anchor%": 49.3,
+   "mode%": 32.9,
+   "cruft": 0
+  },
+  "current_lesson": {
+   "n": 80,
+   "anchor%": 98.8,
+   "mode%": 87.5,
+   "cruft": 0
+  },
+  "guard_chitchat": {
+   "n": 24,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_offtopic": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_oob_trang": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_out_of_book": {
+   "n": 15,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_word": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_year": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "name_query": {
+   "n": 85,
+   "anchor%": 96.5,
+   "mode%": 62.4,
+   "cruft": 0
+  },
+  "practice": {
+   "n": 97,
+   "anchor%": 97.9,
+   "mode%": 93.8,
+   "cruft": 0
+  },
+  "trang_profile": {
+   "n": 38,
+   "anchor%": 94.7,
+   "mode%": 92.1,
+   "cruft": 0
+  },
+  "trang_query": {
+   "n": 52,
+   "anchor%": 98.1,
+   "mode%": 94.2,
+   "cruft": 0
+  }
+ },
+ "sample_fails": [
+  [
+   "name_query",
+   "trong bài Từ trường Trái Đất – Sử dụng l",
+   "got lesson_card:Từ trường exp Từ trường Trái Đất – S"
+  ],
+  [
+   "content_only",
+   "ánh sáng với nhiệt độ thì cái nào quan t",
+   "got lesson_card:Ánh sáng, tia sáng exp Các nhân tố ảnh hưởng "
+  ],
+  [
+   "content_only",
+   "quá trình lấy chất từ môi trường rồi thả",
+   "got lesson_card:Vai trò của trao đổi c exp Trao đổi nước và các c"
+  ],
+  [
+   "content_only",
+   "tăng khối lượng cơ thể là thuộc về cái n",
+   "got none: exp Thực hành chứng minh s"
+  ],
+  [
+   "content_only",
+   "thức ăn với ánh sáng có ảnh hưởng đến si",
+   "got lesson_card:Các nhân tố ảnh hưởng  exp Các yếu tố ảnh hưởng đ"
+  ],
+  [
+   "content_only",
+   "dự báo là dựa vào cái gì để đưa ra vậy ạ",
+   "got none: exp Phương pháp và kĩ năng"
+  ],
+  [
+   "content_only",
+   "electron thì mang điện gì vậy ạ",
+   "got lesson_card:Nam châm điện exp Nguyên tử"
+  ],
+  [
+   "content_only",
+   "các hoạt động như sinh trưởng với sinh s",
+   "got lesson_practice:Sinh sản ở sinh vật exp Chứng minh cơ thể sinh"
+  ],
+  [
+   "current_lesson",
+   "cái đường sức từ là gì thế thầy/cô ơi, e",
+   "got lesson_card:Từ trường exp Từ trường Trái Đất – S"
+  ],
+  [
+   "content_only",
+   "người ta dùng cách nào để tăng năng suất",
+   "got none: exp Các yếu tố ảnh hưởng đ"
+  ],
+  [
+   "trang_profile",
+   "cái vụ từ trường bao quanh trái đất là n",
+   "got lesson_card:Từ trường exp Từ trường Trái Đất – S"
+  ],
+  [
+   "content_only",
+   "cái việc tăng chiều cao với tăng khối lư",
+   "got none: exp Sinh trưởng và phát tr"
+  ],
+  [
+   "content_only",
+   "có cách nào để lập được công thức từ 2 n",
+   "got A_concept: exp Hóa trị và công thức h"
+  ],
+  [
+   "content_only",
+   "thụ phấn xong rồi làm gì tiếp theo hả ch",
+   "got none: exp Sinh sản ở sinh vật"
+  ],
+  [
+   "content_only",
+   "oxy bị mất đi là do đâu ạ?",
+   "got none: exp Thực hành về hô hấp tế"
+  ],
+  [
+   "content_only",
+   "mô nào giúp cây cao lên thế ạ?",
+   "got none: exp Sinh trưởng và phát tr"
+  ],
+  [
+   "trang_profile",
+   "em chưa rõ chỗ liên kết giữa các nguyên ",
+   "got lesson_practice:Nguyên tử exp Hóa trị và công thức h"
+  ],
+  [
+   "content_only",
+   "cột dọc gọi là gì và hàng ngang gọi là g",
+   "got lesson_card:Đồ thị quãng đường - t exp Sơ lược bảng tuần hoàn"
+  ],
+  [
+   "trang_query",
+   "em ko hiểu tại sao từ trường Trái Đất lạ",
+   "got lesson_card:Từ trường exp Từ trường Trái Đất – S"
+  ],
+  [
+   "content_only",
+   "cho em hỏi dùng cái gì để test tính duy ",
+   "got none: exp Thực hành chứng minh q"
+  ],
+  [
+   "content_only",
+   "loại nào là do di truyền còn loại nào là",
+   "got none: exp Tập tính ở động vật"
+  ],
+  [
+   "content_only",
+   "có phải nó luôn định hướng theo hướng bắ",
+   "got lesson_card:Từ trường Trái Đất – S exp Nam châm"
+  ],
+  [
+   "content_only",
+   "cái này phụ thuộc vào mấy yếu tố chính v",
+   "got none: exp Nam châm điện"
+  ],
+  [
+   "content_only",
+   "nếu không có ánh sáng thì cây có lớn đượ",
+   "got none: exp Các nhân tố ảnh hưởng "
+  ],
+  [
+   "content_only",
+   "vùng không gian xung quanh nam châm gọi ",
+   "got lesson_card:Nam châm exp Từ trường"
+  ],
+  [
+   "content_only",
+   "biểu diễn thành phần nguyên tố bằng cách",
+   "got lesson_card:Nguyên tố hóa học exp Hóa trị và công thức h"
+  ],
+  [
+   "content_only",
+   "khi một vật rung thì nó làm gì với xung ",
+   "got none: exp Mô tả sóng âm"
+  ],
+  [
+   "content_only",
+   "việc cắt bớt lá khi trồng cây mới có tác",
+   "got none: exp Trao đổi nước và các c"
+  ],
+  [
+   "content_only",
+   "kĩ năng nào giúp mình đưa ra khả năng có",
+   "got none: exp Phương pháp và kĩ năng"
+  ],
+  [
+   "name_query",
+   "bài các yếu tố ảnh hưởng đến sinh sản có",
+   "got lesson_card:Các nhân tố ảnh hưởng  exp Các yếu tố ảnh hưởng đ"
+  ]
+ ]
+}

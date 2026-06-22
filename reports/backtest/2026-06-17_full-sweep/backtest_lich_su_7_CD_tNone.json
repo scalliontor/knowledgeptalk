@@ -1,0 +1,245 @@
+{
+ "book": "lich_su 7 CD tapNone",
+ "port": "8890",
+ "total": 500,
+ "lessons": 21,
+ "lesson_cases": 425,
+ "guard_cases": 75,
+ "errors": 0,
+ "anchor_acc": 79.1,
+ "mode_acc": 73.2,
+ "guard_acc": 100.0,
+ "cruft_on_cards": 0,
+ "latency_ms": {
+  "p50": 44.0,
+  "p95": 309.0,
+  "p99": 322.3,
+  "max": 594.8
+ },
+ "by_dimension": {
+  "content_only": {
+   "n": 87,
+   "anchor%": 19.5,
+   "mode%": 16.1,
+   "cruft": 0
+  },
+  "current_lesson": {
+   "n": 68,
+   "anchor%": 95.6,
+   "mode%": 94.1,
+   "cruft": 0
+  },
+  "guard_chitchat": {
+   "n": 24,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_offtopic": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_oob_trang": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_out_of_book": {
+   "n": 15,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_word": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_year": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "name_query": {
+   "n": 80,
+   "anchor%": 85.0,
+   "mode%": 71.2,
+   "cruft": 0
+  },
+  "practice": {
+   "n": 93,
+   "anchor%": 95.7,
+   "mode%": 91.4,
+   "cruft": 0
+  },
+  "trang_profile": {
+   "n": 43,
+   "anchor%": 100.0,
+   "mode%": 90.7,
+   "cruft": 0
+  },
+  "trang_query": {
+   "n": 54,
+   "anchor%": 100.0,
+   "mode%": 96.3,
+   "cruft": 0
+  }
+ },
+ "sample_fails": [
+  [
+   "content_only",
+   "ai là người lãnh đạo chính trong giai đo",
+   "got none: exp Khởi nghĩa Lam Sơn (14"
+  ],
+  [
+   "name_query",
+   "cho em hỏi về mác-tin lu-thơ trong bài n",
+   "got none: exp Phong trào Cải cách tô"
+  ],
+  [
+   "content_only",
+   "cho em hỏi mấy cái tư tưởng chủ đạo ở đâ",
+   "got none: exp Văn hóa Trung Quốc"
+  ],
+  [
+   "content_only",
+   "tượng Phật Lạc Sơn là thuộc về loại hình",
+   "got A_concept: exp Văn hóa Trung Quốc"
+  ],
+  [
+   "content_only",
+   "kinh tế thời này chủ yếu là làm gì thế ạ",
+   "got none: exp Khái quát lịch sử Ấn Đ"
+  ],
+  [
+   "content_only",
+   "giai đoạn này có những triều đại nào chí",
+   "got none: exp Công cuộc xây dựng và "
+  ],
+  [
+   "content_only",
+   "thời kỳ hoàng kim là nhắc đến vương triề",
+   "got none: exp Khái quát lịch sử Ấn Đ"
+  ],
+  [
+   "content_only",
+   "vua Akbar là người như thế nào ạ?",
+   "got none: exp Khái quát lịch sử Ấn Đ"
+  ],
+  [
+   "content_only",
+   "nông nghiệp thời này có gì đặc biệt khôn",
+   "got none: exp Việt Nam thời Lê Sơ (1"
+  ],
+  [
+   "content_only",
+   "thời kỳ này tập trung vào cái gì thế ạ?",
+   "got A_concept: exp Phong trào Văn hóa Phụ"
+  ],
+  [
+   "content_only",
+   "nhà minh sang nước mình với cái cớ gì th",
+   "got none: exp Nhà Hồ và cuộc kháng c"
+  ],
+  [
+   "practice",
+   "có bài tập nào về vai trò của đinh bộ lĩ",
+   "got none: exp Công cuộc xây dựng và "
+  ],
+  [
+   "content_only",
+   "tầng lớp thống trị gồm những ai vậy ạ?",
+   "got none: exp Việt Nam thời Lê Sơ (1"
+  ],
+  [
+   "name_query",
+   "Taj Mahal là công trình gì thế ạ?",
+   "got none: exp Văn hóa Ấn Độ thời pho"
+  ],
+  [
+   "content_only",
+   "kinh tế thời Minh Thanh có ổn không ạ?",
+   "got A_concept: exp Khái quát tiến trình l"
+  ],
+  [
+   "name_query",
+   "Copernicus và Galileo có đóng góp gì cho",
+   "got none: exp Phong trào Văn hóa Phụ"
+  ],
+  [
+   "content_only",
+   "ai là người chỉ huy chính trong cuộc chi",
+   "got A_concept: exp Cuộc kháng chiến chống"
+  ],
+  [
+   "content_only",
+   "văn học thời này có gì nổi tiếng không ạ",
+   "got A_concept: exp Văn hóa Ấn Độ thời pho"
+  ],
+  [
+   "content_only",
+   "kiến trúc tôn giáo ở đây có gì đặc biệt ",
+   "got none: exp Vương quốc Cam-pu-chia"
+  ],
+  [
+   "content_only",
+   "đẳng cấp varna ảnh hưởng thế nào đến xã ",
+   "got none: exp Khái quát lịch sử Ấn Đ"
+  ],
+  [
+   "content_only",
+   "những người nào có vai trò quan trọng tr",
+   "got A_concept: exp Khởi nghĩa Lam Sơn (14"
+  ],
+  [
+   "content_only",
+   "kinh tế chủ yếu là làm gì vậy ạ?",
+   "got none: exp Vương quốc Lào"
+  ],
+  [
+   "content_only",
+   "thời kỳ nào là phát triển nhất của nước ",
+   "got A_concept: exp Vương quốc Lào"
+  ],
+  [
+   "practice",
+   "em muốn làm bài tập về phần chống tống c",
+   "got A_concept: exp Công cuộc xây dựng và "
+  ],
+  [
+   "content_only",
+   "thời kỳ nào được coi là hoàng kim của kh",
+   "got none: exp Khái quát tiến trình l"
+  ],
+  [
+   "content_only",
+   "các vương quốc cổ ở đây chủ yếu làm gì đ",
+   "got A_concept: exp Khái quát lịch sử Đông"
+  ],
+  [
+   "content_only",
+   "kiến trúc thường xây về cái gì vậy ạ?",
+   "got none: exp Văn hóa Ấn Độ thời pho"
+  ],
+  [
+   "content_only",
+   "vai trò của thiên chúa giáo trong thời n",
+   "got lesson_card:Phong trào Cải cách tô exp Quá trình hình thành v"
+  ],
+  [
+   "content_only",
+   "sau vụ này thì có những giáo phái mới nà",
+   "got none: exp Phong trào Cải cách tô"
+  ],
+  [
+   "content_only",
+   "mấy cái phát minh như giấy với la bàn là",
+   "got none: exp Văn hóa Trung Quốc"
+  ]
+ ]
+}

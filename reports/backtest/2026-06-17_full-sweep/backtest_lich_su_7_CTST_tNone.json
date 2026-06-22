@@ -1,0 +1,245 @@
+{
+ "book": "lich_su 7 CTST tapNone",
+ "port": "8890",
+ "total": 500,
+ "lessons": 21,
+ "lesson_cases": 425,
+ "guard_cases": 75,
+ "errors": 0,
+ "anchor_acc": 81.2,
+ "mode_acc": 76.5,
+ "guard_acc": 100.0,
+ "cruft_on_cards": 0,
+ "latency_ms": {
+  "p50": 40.2,
+  "p95": 279.2,
+  "p99": 299.8,
+  "max": 363.4
+ },
+ "by_dimension": {
+  "content_only": {
+   "n": 83,
+   "anchor%": 18.1,
+   "mode%": 15.7,
+   "cruft": 0
+  },
+  "current_lesson": {
+   "n": 68,
+   "anchor%": 100.0,
+   "mode%": 97.1,
+   "cruft": 0
+  },
+  "guard_chitchat": {
+   "n": 24,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_offtopic": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_oob_trang": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_out_of_book": {
+   "n": 15,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_word": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_year": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "name_query": {
+   "n": 80,
+   "anchor%": 85.0,
+   "mode%": 73.8,
+   "cruft": 0
+  },
+  "practice": {
+   "n": 95,
+   "anchor%": 100.0,
+   "mode%": 96.8,
+   "cruft": 0
+  },
+  "trang_profile": {
+   "n": 44,
+   "anchor%": 100.0,
+   "mode%": 95.5,
+   "cruft": 0
+  },
+  "trang_query": {
+   "n": 55,
+   "anchor%": 100.0,
+   "mode%": 96.4,
+   "cruft": 0
+  }
+ },
+ "sample_fails": [
+  [
+   "content_only",
+   "giai đoạn đầu nghĩa quân gặp khó khăn gì",
+   "got A_concept: exp Khởi nghĩa Lam Sơn (14"
+  ],
+  [
+   "content_only",
+   "kinh tế ở đây chủ yếu là gì vậy ạ?",
+   "got none: exp Vùng đất phía nam từ đ"
+  ],
+  [
+   "content_only",
+   "ai là người có tiền và có quyền lực kinh",
+   "got none: exp Sự hình thành quan hệ "
+  ],
+  [
+   "content_only",
+   "việc phát hành tiền giấy là thuộc lĩnh v",
+   "got none: exp Nhà Hồ và cuộc kháng c"
+  ],
+  [
+   "content_only",
+   "vụ đúc đồng với làm gốm là thuộc ngành g",
+   "got none: exp Đại Việt thời Lê Sơ (1"
+  ],
+  [
+   "content_only",
+   "mục đích chính của phong trào này là gì ",
+   "got A_concept: exp Văn hóa phục hưng"
+  ],
+  [
+   "content_only",
+   "về mặt xã hội thì có gì thay đổi không ạ",
+   "got none: exp Vương triều Hồi giáo Đ"
+  ],
+  [
+   "content_only",
+   "người hồi giáo đã làm gì ở lãnh thổ này ",
+   "got none: exp Vương triều Hồi giáo Đ"
+  ],
+  [
+   "content_only",
+   "kết quả của lần xâm lược thứ 2 là thế nà",
+   "got none: exp Ba lần kháng chiến chố"
+  ],
+  [
+   "content_only",
+   "thơ ca thời đó có gì nổi bật không ạ?",
+   "got none: exp Các thành tựu văn hóa "
+  ],
+  [
+   "content_only",
+   "kiến trúc tiêu biểu nhất là gì thế ạ?",
+   "got none: exp Vương quốc Lào"
+  ],
+  [
+   "name_query",
+   "Tứ đại danh tác gồm những truyện gì thế ",
+   "got none: exp Các thành tựu văn hóa "
+  ],
+  [
+   "content_only",
+   "kinh tế thời này phát triển nhất là mảng",
+   "got A_concept: exp Vương triều Gúp-ta"
+  ],
+  [
+   "name_query",
+   "Thạt Luổng thuộc về nền văn hóa nào vậy ",
+   "got none: exp Vương quốc Lào"
+  ],
+  [
+   "content_only",
+   "văn hóa thời này có gì đặc biệt không th",
+   "got none: exp Công cuộc xây dựng đất"
+  ],
+  [
+   "content_only",
+   "nhà Minh với nhà Thanh thì có gì nổi bật",
+   "got none: exp Khái lược tiến trình l"
+  ],
+  [
+   "content_only",
+   "năm 1010 có sự kiện gì quan trọng thế ạ?",
+   "got none: exp Công cuộc xây dựng và "
+  ],
+  [
+   "name_query",
+   "mác tin lu thơ và giăng can vơ khác nhau",
+   "got none: exp Phong trào cải cách tô"
+  ],
+  [
+   "name_query",
+   "cho em hỏi thuyết Nhật tâm của Copernicu",
+   "got none: exp Văn hóa phục hưng"
+  ],
+  [
+   "content_only",
+   "văn học thời này có mấy tác phẩm lớn vậy",
+   "got none: exp Các thành tựu văn hóa "
+  ],
+  [
+   "content_only",
+   "lý do thực sự mà quân xâm lược đưa ra là",
+   "got A_concept: exp Nhà Hồ và cuộc kháng c"
+  ],
+  [
+   "content_only",
+   "kinh tế thời này chủ yếu là gì thế ạ?",
+   "got none: exp Công cuộc xây dựng đất"
+  ],
+  [
+   "content_only",
+   "trường đại học nào nổi tiếng nhất thời n",
+   "got A_concept: exp Vương triều Gúp-ta"
+  ],
+  [
+   "content_only",
+   "ngoài tôn giáo ra thì có học cái gì nữa ",
+   "got lesson_practice:Phong trào cải cách tô exp Vương triều Gúp-ta"
+  ],
+  [
+   "content_only",
+   "văn hóa bản địa kết hợp với cái gì thế ạ",
+   "got none: exp Khái quát về Đông Nam "
+  ],
+  [
+   "content_only",
+   "thời này dùng tiền gì để buôn bán thế?",
+   "got A_concept: exp Vương triều Gúp-ta"
+  ],
+  [
+   "content_only",
+   "cho em hỏi mấy cái tên tác phẩm kinh điể",
+   "got none: exp Các thành tựu văn hóa "
+  ],
+  [
+   "content_only",
+   "trong mấy lần này có lần nào đánh ở sông",
+   "got none: exp Ba lần kháng chiến chố"
+  ],
+  [
+   "content_only",
+   "sau khi thắng trận thì nhà nước mới được",
+   "got A_concept: exp Khởi nghĩa Lam Sơn (14"
+  ],
+  [
+   "content_only",
+   "thời kỳ nào là phát triển nhất của cái đ",
+   "got A_concept: exp Đế quốc Mô-gôn"
+  ]
+ ]
+}

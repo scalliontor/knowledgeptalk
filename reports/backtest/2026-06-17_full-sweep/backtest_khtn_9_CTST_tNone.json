@@ -1,0 +1,245 @@
+{
+ "book": "khtn 9 CTST tapNone",
+ "port": "8890",
+ "total": 500,
+ "lessons": 45,
+ "lesson_cases": 425,
+ "guard_cases": 75,
+ "errors": 0,
+ "anchor_acc": 84.9,
+ "mode_acc": 76.5,
+ "guard_acc": 100.0,
+ "cruft_on_cards": 0,
+ "latency_ms": {
+  "p50": 39.3,
+  "p95": 325.2,
+  "p99": 338.6,
+  "max": 351.1
+ },
+ "by_dimension": {
+  "content_only": {
+   "n": 88,
+   "anchor%": 36.4,
+   "mode%": 23.9,
+   "cruft": 0
+  },
+  "current_lesson": {
+   "n": 64,
+   "anchor%": 100.0,
+   "mode%": 93.8,
+   "cruft": 0
+  },
+  "guard_chitchat": {
+   "n": 24,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_offtopic": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_oob_trang": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_out_of_book": {
+   "n": 15,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_word": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_year": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "name_query": {
+   "n": 81,
+   "anchor%": 95.1,
+   "mode%": 81.5,
+   "cruft": 0
+  },
+  "practice": {
+   "n": 96,
+   "anchor%": 100.0,
+   "mode%": 96.9,
+   "cruft": 0
+  },
+  "trang_profile": {
+   "n": 44,
+   "anchor%": 93.2,
+   "mode%": 77.3,
+   "cruft": 0
+  },
+  "trang_query": {
+   "n": 52,
+   "anchor%": 98.1,
+   "mode%": 98.1,
+   "cruft": 0
+  }
+ },
+ "sample_fails": [
+  [
+   "content_only",
+   "nếu u tăng thì i sẽ thay đổi thế nào nhỉ",
+   "got none: exp Điện trở. Định luật Oh"
+  ],
+  [
+   "content_only",
+   "tại sao vi khuẩn lại thay đổi nhanh thế?",
+   "got none: exp Khái niệm về tiến hoá "
+  ],
+  [
+   "content_only",
+   "mấy cái đột biến gen với NST là sao ạ?",
+   "got lesson_practice:Cấu trúc nhiễm sắc thể exp Di truyền học với con "
+  ],
+  [
+   "content_only",
+   "nếu 1 cái đèn bị cháy thì mấy cái khác c",
+   "got none: exp Đoạn mạch song song"
+  ],
+  [
+   "content_only",
+   "dòng điện chạy qua các linh kiện có giốn",
+   "got lesson_card:Đoạn mạch song song exp Đoạn mạch nối tiếp"
+  ],
+  [
+   "content_only",
+   "vụ hươu cao cổ cổ dài là do cái gì tác đ",
+   "got none: exp Khái niệm về tiến hoá "
+  ],
+  [
+   "content_only",
+   "đá vôi thì dùng để làm gì trong đời sống",
+   "got lesson_practice:Khai thác đá vôi. Công exp Khai thác nhiên liệu h"
+  ],
+  [
+   "trang_profile",
+   "cho em hỏi là protein đóng vai trò gì tr",
+   "got lesson_card:Protein exp Từ gene đến tính trạng"
+  ],
+  [
+   "content_only",
+   "cái vụ di truyền tính trạng từ bố mẹ san",
+   "got lesson_card:Từ gene đến tính trạng exp Các quy luật di truyền"
+  ],
+  [
+   "content_only",
+   "khi gặp nhiệt độ thì nó bị làm sao ạ?",
+   "got none: exp Protein"
+  ],
+  [
+   "content_only",
+   "cái P với cái A khác nhau chỗ nào thế?",
+   "got A_concept: exp Năng lượng điện. Công "
+  ],
+  [
+   "content_only",
+   "các chất trong tự nhiên thường tồn tại ở",
+   "got lesson_card:Giới thiệu về hợp chất exp Sơ lược về hóa học Vỏ "
+  ],
+  [
+   "content_only",
+   "cái vụ di cư của đàn chim là thuộc nhóm ",
+   "got none: exp Cơ chế tiến hoá"
+  ],
+  [
+   "content_only",
+   "cái gì nằm trên nhiễm sắc thể để quy địn",
+   "got A_concept: exp Khái quát về di truyền"
+  ],
+  [
+   "content_only",
+   "nếu 1 bóng đèn bị cháy thì bóng kia có s",
+   "got none: exp Đoạn mạch nối tiếp"
+  ],
+  [
+   "content_only",
+   "cái đại lượng đặc trưng cho sự truyền nă",
+   "got A_concept: exp Công và công suất"
+  ],
+  [
+   "content_only",
+   "khi tắt 1 thiết bị thì mấy cái còn lại c",
+   "got none: exp Đoạn mạch song song"
+  ],
+  [
+   "content_only",
+   "đồ thị của cái này có dạng gì vậy ạ?",
+   "got none: exp Điện trở. Định luật Oh"
+  ],
+  [
+   "content_only",
+   "làm sao để biết được trình tự amino acid",
+   "got none: exp Quá trình tái bản, phi"
+  ],
+  [
+   "content_only",
+   "việc dùng xăng dầu trong giao thông thì ",
+   "got none: exp Năng lượng của Trái Đấ"
+  ],
+  [
+   "content_only",
+   "thành phần chính của gỗ là gì thế mọi ng",
+   "got A_concept: exp Tinh bột và cellulose"
+  ],
+  [
+   "content_only",
+   "sự khác biệt về màu sắc hoa là do cái gì",
+   "got lesson_card:Tán sắc ánh sáng qua l exp Từ gene đến tính trạng"
+  ],
+  [
+   "content_only",
+   "làm sao để nhìn rõ được mấy cái cấu trúc",
+   "got none: exp Thực hành: Quan sát ti"
+  ],
+  [
+   "content_only",
+   "chất nào tạo nên khung cho cây xanh vậy ",
+   "got none: exp Tinh bột và cellulose"
+  ],
+  [
+   "content_only",
+   "cái quá trình tạo ra protein từ gene là ",
+   "got lesson_card:Protein exp Quá trình tái bản, phi"
+  ],
+  [
+   "content_only",
+   "cái cấu trúc nằm trong nhân tế bào này l",
+   "got none: exp Cấu trúc nhiễm sắc thể"
+  ],
+  [
+   "content_only",
+   "chất nào không tan trong nước lạnh mà ta",
+   "got none: exp Tinh bột và cellulose"
+  ],
+  [
+   "content_only",
+   "việc khai thác tài nguyên cần lưu ý điều",
+   "got lesson_practice:Khai thác nhiên liệu h exp Sơ lược về hóa học Vỏ "
+  ],
+  [
+   "content_only",
+   "sự thay đổi đặc điểm qua các thế hệ là d",
+   "got none: exp Cơ chế tiến hoá"
+  ],
+  [
+   "content_only",
+   "cho em hỏi cái chất nào mà tạo ra xà phò",
+   "got none: exp Lipid và chất béo"
+  ]
+ ]
+}

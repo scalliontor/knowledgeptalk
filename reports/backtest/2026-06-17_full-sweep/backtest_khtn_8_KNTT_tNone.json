@@ -1,0 +1,245 @@
+{
+ "book": "khtn 8 KNTT tapNone",
+ "port": "8890",
+ "total": 500,
+ "lessons": 47,
+ "lesson_cases": 425,
+ "guard_cases": 75,
+ "errors": 0,
+ "anchor_acc": 88.7,
+ "mode_acc": 72.2,
+ "guard_acc": 100.0,
+ "cruft_on_cards": 0,
+ "latency_ms": {
+  "p50": 41.3,
+  "p95": 348.6,
+  "p99": 372.4,
+  "max": 386.8
+ },
+ "by_dimension": {
+  "content_only": {
+   "n": 94,
+   "anchor%": 48.9,
+   "mode%": 23.4,
+   "cruft": 0
+  },
+  "current_lesson": {
+   "n": 65,
+   "anchor%": 100.0,
+   "mode%": 86.2,
+   "cruft": 0
+  },
+  "guard_chitchat": {
+   "n": 24,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_offtopic": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_oob_trang": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_out_of_book": {
+   "n": 15,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_word": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_year": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "name_query": {
+   "n": 74,
+   "anchor%": 100.0,
+   "mode%": 63.5,
+   "cruft": 0
+  },
+  "practice": {
+   "n": 95,
+   "anchor%": 100.0,
+   "mode%": 97.9,
+   "cruft": 0
+  },
+  "trang_profile": {
+   "n": 40,
+   "anchor%": 100.0,
+   "mode%": 90.0,
+   "cruft": 0
+  },
+  "trang_query": {
+   "n": 57,
+   "anchor%": 100.0,
+   "mode%": 93.0,
+   "cruft": 0
+  }
+ },
+ "sample_fails": [
+  [
+   "content_only",
+   "cách tính mật độ cá thể làm ntn ạ",
+   "got none: exp Quần thể sinh vật"
+  ],
+  [
+   "content_only",
+   "cái này có dùng để làm phân bón được ko ",
+   "got lesson_card:Phân bón hóa học exp Acid"
+  ],
+  [
+   "content_only",
+   "mắt nhìn thế nào cho chuẩn khi đo chất l",
+   "got none: exp Thực hành xác định khố"
+  ],
+  [
+   "content_only",
+   "cách đo cường độ dòng điện bằng cái máy ",
+   "got lesson_practice:Thực hành đo cường độ  exp Sử dụng một số hóa chấ"
+  ],
+  [
+   "content_only",
+   "nhiều loài cùng sống trong 1 khoảng thời",
+   "got lesson_card:Quần thể sinh vật exp Quần xã sinh vật"
+  ],
+  [
+   "content_only",
+   "khi đốt cháy nến thì cái gì đã bị biến đ",
+   "got none: exp Phản ứng hóa học"
+  ],
+  [
+   "content_only",
+   "mối liên hệ giữa tỉ lệ phương trình và s",
+   "got A_concept: exp Tính theo phương trình"
+  ],
+  [
+   "content_only",
+   "tên gọi của nó được cấu tạo từ những thà",
+   "got none: exp Muối"
+  ],
+  [
+   "content_only",
+   "loại nào làm quỳ tím hóa đỏ vậy ạ?",
+   "got none: exp Acid"
+  ],
+  [
+   "content_only",
+   "nó gồm những thành phần nào thế ạ?",
+   "got none: exp Sinh quyển"
+  ],
+  [
+   "content_only",
+   "có những loại phản ứng nào xảy ra với ch",
+   "got lesson_card:Phản ứng hóa học exp Muối"
+  ],
+  [
+   "content_only",
+   "việc uống nước có tác dụng gì trong việc",
+   "got lesson_card:Muối exp Điều hòa môi trường tr"
+  ],
+  [
+   "content_only",
+   "môi trường và sinh vật có liên quan gì n",
+   "got lesson_practice:Môi trường và các nhân exp Sinh quyển"
+  ],
+  [
+   "content_only",
+   "trong rừng có mấy tầng cây vậy ạ?",
+   "got none: exp Cân bằng tự nhiên"
+  ],
+  [
+   "content_only",
+   "nếu gặp base thì nó tạo ra sản phẩm là g",
+   "got lesson_practice:Base. Thang pH exp Oxide"
+  ],
+  [
+   "content_only",
+   "dùng cái gì để đo xem nước dâng lên bao ",
+   "got lesson_practice:Thực hành đo năng lượn exp Thực hành xác định khố"
+  ],
+  [
+   "content_only",
+   "cho em hỏi về mấy cái nguyên nhân gây bi",
+   "got none: exp Bảo vệ môi trường"
+  ],
+  [
+   "content_only",
+   "nếu nhiệt độ tăng thì chuyển động của cá",
+   "got lesson_practice:Sự nở vì nhiệt exp Năng lượng nhiệt và nộ"
+  ],
+  [
+   "content_only",
+   "mấy cái nguyên tố cần lượng ít nhưng vẫn",
+   "got none: exp Phân bón hóa học"
+  ],
+  [
+   "content_only",
+   "mấy cái như công tắc hay cầu chì thì dùn",
+   "got none: exp Mạch điện đơn giản"
+  ],
+  [
+   "content_only",
+   "mấy cái thành phần vô sinh gồm những gì ",
+   "got none: exp Hệ sinh thái"
+  ],
+  [
+   "content_only",
+   "cần biết những gì để tính được cái này ạ",
+   "got none: exp Khối lượng riêng"
+  ],
+  [
+   "content_only",
+   "cái công thức tính p bằng d nhân h là dù",
+   "got A_concept: exp Áp suất chất lỏng. Áp "
+  ],
+  [
+   "content_only",
+   "mấy cái hình cảnh báo trên chai lọ là để",
+   "got none: exp Sử dụng một số hóa chấ"
+  ],
+  [
+   "content_only",
+   "cái lực đẩy này có hướng thế nào ạ?",
+   "got none: exp Lực đẩy Archimedes"
+  ],
+  [
+   "content_only",
+   "tai ngoài việc nghe thì còn tác dụng gì ",
+   "got none: exp Hệ thần kinh và các gi"
+  ],
+  [
+   "content_only",
+   "người ta dùng cái gì để ngăn máu chảy kh",
+   "got none: exp Máu và hệ tuần hoàn củ"
+  ],
+  [
+   "content_only",
+   "loại nào là của kim loại, loại nào của p",
+   "got none: exp Oxide"
+  ],
+  [
+   "content_only",
+   "làm sao để khi dùng lực thì được lợi về ",
+   "got none: exp Đòn bẩy và ứng dụng"
+  ],
+  [
+   "content_only",
+   "sinh vật sản xuất là mấy loại vậy ạ?",
+   "got none: exp Hệ sinh thái"
+  ]
+ ]
+}

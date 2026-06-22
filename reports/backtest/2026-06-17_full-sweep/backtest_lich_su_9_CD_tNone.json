@@ -1,0 +1,245 @@
+{
+ "book": "lich_su 9 CD tapNone",
+ "port": "8890",
+ "total": 500,
+ "lessons": 21,
+ "lesson_cases": 425,
+ "guard_cases": 75,
+ "errors": 0,
+ "anchor_acc": 87.1,
+ "mode_acc": 76.7,
+ "guard_acc": 100.0,
+ "cruft_on_cards": 0,
+ "latency_ms": {
+  "p50": 42.0,
+  "p95": 299.2,
+  "p99": 314.8,
+  "max": 333.6
+ },
+ "by_dimension": {
+  "content_only": {
+   "n": 81,
+   "anchor%": 37.0,
+   "mode%": 28.4,
+   "cruft": 0
+  },
+  "current_lesson": {
+   "n": 70,
+   "anchor%": 100.0,
+   "mode%": 94.3,
+   "cruft": 0
+  },
+  "guard_chitchat": {
+   "n": 24,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_offtopic": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_oob_trang": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_out_of_book": {
+   "n": 15,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_word": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_year": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "name_query": {
+   "n": 87,
+   "anchor%": 95.4,
+   "mode%": 73.6,
+   "cruft": 0
+  },
+  "practice": {
+   "n": 96,
+   "anchor%": 100.0,
+   "mode%": 93.8,
+   "cruft": 0
+  },
+  "trang_profile": {
+   "n": 42,
+   "anchor%": 100.0,
+   "mode%": 83.3,
+   "cruft": 0
+  },
+  "trang_query": {
+   "n": 49,
+   "anchor%": 100.0,
+   "mode%": 98.0,
+   "cruft": 0
+  }
+ },
+ "sample_fails": [
+  [
+   "content_only",
+   "việc các nước liên kết với nhau về văn h",
+   "got A_concept: exp Cách mạng khoa học - k"
+  ],
+  [
+   "content_only",
+   "nguyên nhân chính khiến hệ thống này tan",
+   "got none: exp Liên Xô và các nước Đô"
+  ],
+  [
+   "content_only",
+   "việc xây dựng cnxh ở cu-ba gặp phải nhữn",
+   "got none: exp Khu vực Mỹ La-tinh từ "
+  ],
+  [
+   "content_only",
+   "việc tham gia WTO hay ASEAN là thuộc phầ",
+   "got none: exp Việt Nam từ năm 1991 đ"
+  ],
+  [
+   "content_only",
+   "cho em hỏi giai đoạn này ở châu á có gì ",
+   "got none: exp Châu Á từ năm 1918 đến"
+  ],
+  [
+   "name_query",
+   "nêu ý nghĩa phong trào Đồng khởi trong b",
+   "got none: exp Việt Nam từ năm 1954 đ"
+  ],
+  [
+   "content_only",
+   "có những khối quân sự nào được thành lập",
+   "got A_concept: exp Chiến tranh lạnh (1947"
+  ],
+  [
+   "content_only",
+   "trong giai đoạn này có sự kiện nào dẫn đ",
+   "got A_concept: exp Việt Nam từ năm 1930 đ"
+  ],
+  [
+   "content_only",
+   "mấy cái tổ chức phát xít ở Đức với Ý nó ",
+   "got none: exp Châu Âu và nước Mỹ từ "
+  ],
+  [
+   "content_only",
+   "mối liên hệ giữa công nghệ với kinh tế ở",
+   "got lesson_card:Cách mạng khoa học - k exp Nước Mỹ từ năm 1991 đế"
+  ],
+  [
+   "content_only",
+   "việc chạy đua vũ trang gây ra hậu quả gì",
+   "got none: exp Chiến tranh lạnh (1947"
+  ],
+  [
+   "content_only",
+   "tại sao nói đây là thời kỳ đấu tranh quy",
+   "got none: exp Việt Nam từ năm 1930 đ"
+  ],
+  [
+   "content_only",
+   "kết quả cuối cùng là bên nào thắng thế ạ",
+   "got none: exp Chiến tranh thế giới t"
+  ],
+  [
+   "content_only",
+   "tình trạng thế giới lúc đó như thế nào ạ",
+   "got none: exp Chiến tranh lạnh (1947"
+  ],
+  [
+   "content_only",
+   "Trận đánh nào đã làm phá sản kế hoạch đá",
+   "got none: exp Việt Nam từ năm 1946 đ"
+  ],
+  [
+   "content_only",
+   "về mặt văn hóa xã hội thì có điểm gì đán",
+   "got none: exp Việt Nam từ năm 1991 đ"
+  ],
+  [
+   "content_only",
+   "internet với kinh tế số liên quan gì đến",
+   "got none: exp Cách mạng khoa học - k"
+  ],
+  [
+   "content_only",
+   "giai đoạn này có sự kiện gì nổi bật về g",
+   "got none: exp Việt Nam từ năm 1918 đ"
+  ],
+  [
+   "content_only",
+   "năm 1967 có sự kiện gì đặc biệt ở khu vự",
+   "got none: exp Châu Á từ năm 1945 đến"
+  ],
+  [
+   "content_only",
+   "tại sao họ lại giữ được vị trí dẫn đầu t",
+   "got none: exp Nước Mỹ từ năm 1991 đế"
+  ],
+  [
+   "content_only",
+   "hậu quả của vụ này lớn đến mức nào",
+   "got none: exp Chiến tranh thế giới t"
+  ],
+  [
+   "content_only",
+   "giai đoạn này có những sự kiện gì nổi bậ",
+   "got none: exp Liên Xô và các nước Đô"
+  ],
+  [
+   "content_only",
+   "nguyên nhân khiến kinh tế bị đình trệ hồ",
+   "got none: exp Liên bang Nga từ năm 1"
+  ],
+  [
+   "content_only",
+   "tại sao kinh tế họ lại mạnh thế ạ?",
+   "got lesson_card:Châu Á từ năm 1991 đến exp Nước Mỹ từ năm 1991 đế"
+  ],
+  [
+   "content_only",
+   "việc bầu cử quốc hội khóa I diễn ra vào ",
+   "got none: exp Việt Nam trong những n"
+  ],
+  [
+   "content_only",
+   "kết quả của chiến dịch cuối cùng là gì ạ",
+   "got none: exp Việt Nam từ năm 1954 đ"
+  ],
+  [
+   "content_only",
+   "có mấy phe đối lập nhau vậy ạ?",
+   "got lesson_practice:Chiến tranh lạnh (1947 exp Chiến tranh thế giới t"
+  ],
+  [
+   "name_query",
+   "trong bài này có nhắc đến chiến tranh cụ",
+   "got A_concept: exp Việt Nam từ năm 1954 đ"
+  ],
+  [
+   "name_query",
+   "bài này trong sách lớp 9 nói về Mỹ giai ",
+   "got none: exp Nước Mỹ từ năm 1991 đế"
+  ],
+  [
+   "content_only",
+   "các nước bây giờ đang tập trung vào cái ",
+   "got A_concept: exp Trật tự thế giới mới t"
+  ]
+ ]
+}

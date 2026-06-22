@@ -1,0 +1,245 @@
+{
+ "book": "khtn 6 CTST tapNone",
+ "port": "8890",
+ "total": 500,
+ "lessons": 44,
+ "lesson_cases": 425,
+ "guard_cases": 75,
+ "errors": 0,
+ "anchor_acc": 82.6,
+ "mode_acc": 66.4,
+ "guard_acc": 92.0,
+ "cruft_on_cards": 3,
+ "latency_ms": {
+  "p50": 39.4,
+  "p95": 326.9,
+  "p99": 343.1,
+  "max": 359.0
+ },
+ "by_dimension": {
+  "content_only": {
+   "n": 88,
+   "anchor%": 36.4,
+   "mode%": 21.6,
+   "cruft": 1
+  },
+  "current_lesson": {
+   "n": 78,
+   "anchor%": 97.4,
+   "mode%": 84.6,
+   "cruft": 1
+  },
+  "guard_chitchat": {
+   "n": 24,
+   "anchor%": 75.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_offtopic": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_oob_trang": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_out_of_book": {
+   "n": 15,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_word": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_year": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "name_query": {
+   "n": 82,
+   "anchor%": 92.7,
+   "mode%": 54.9,
+   "cruft": 0
+  },
+  "practice": {
+   "n": 90,
+   "anchor%": 97.8,
+   "mode%": 92.2,
+   "cruft": 0
+  },
+  "trang_profile": {
+   "n": 42,
+   "anchor%": 92.9,
+   "mode%": 76.2,
+   "cruft": 1
+  },
+  "trang_query": {
+   "n": 45,
+   "anchor%": 88.9,
+   "mode%": 82.2,
+   "cruft": 0
+  }
+ },
+ "sample_fails": [
+  [
+   "content_only",
+   "thành phần nào giúp cây quang hợp được t",
+   "got A_concept: exp Tế bào"
+  ],
+  [
+   "content_only",
+   "có loài nào tự nuôi mình được ko ạ?",
+   "got none: exp Nguyên sinh vật"
+  ],
+  [
+   "current_lesson",
+   "giải thích hộ em cái phần phân biệt này ",
+   "got none: exp Chất tinh khiết – Hỗn "
+  ],
+  [
+   "content_only",
+   "nếu có nhiều tế bào làm việc khác nhau t",
+   "got lesson_practice:Tế bào exp Cơ thể đơn bào và cơ t"
+  ],
+  [
+   "name_query",
+   "bài Thực hành quan sát vi khuẩn nói về h",
+   "got lesson_practice:Thực hành quan sát vi  exp Thực hành quan sát vi "
+  ],
+  [
+   "content_only",
+   "nó có gây bệnh cho người ko ạ?",
+   "got none: exp Nguyên sinh vật"
+  ],
+  [
+   "content_only",
+   "độ lớn của lực tác dụng lên vật gọi là g",
+   "got lesson_card:Lực và biểu diễn lực exp Lực hấp dẫn và trọng l"
+  ],
+  [
+   "content_only",
+   "làm sao để biết 2 con vật cùng họ?",
+   "got none: exp Phân loại thế giới sốn"
+  ],
+  [
+   "trang_profile",
+   "cái này là do 1 tế bào hay nhiều tế bào ",
+   "got lesson_card:Tế bào exp Cơ thể đơn bào và cơ t"
+  ],
+  [
+   "current_lesson",
+   "cái này là gì thế ạ, giải thích hộ em vớ",
+   "got none: exp Chất tinh khiết – Hỗn "
+  ],
+  [
+   "name_query",
+   "thầy ơi bài Thực hành quan sát vi khuẩn ",
+   "got lesson_practice:Thực hành quan sát vi  exp Thực hành quan sát vi "
+  ],
+  [
+   "trang_profile",
+   "nếu ko có nhân thì gọi là gì thế ạ?",
+   "got lesson_card:Vi khuẩn exp Tế bào"
+  ],
+  [
+   "trang_query",
+   "em lú quá, giảng lại đoạn tế bào chuyên ",
+   "got lesson_card:Tế bào exp Cơ thể đơn bào và cơ t"
+  ],
+  [
+   "content_only",
+   "mấy cái dụng cụ hỗ trợ gồm những gì thế ",
+   "got lesson_practice:Quy định an toàn trong exp Tìm hiểu sinh vật ngoà"
+  ],
+  [
+   "content_only",
+   "đặc điểm đối lập dùng để làm gì ạ?",
+   "got lesson_practice:Thực hành xây dựng khó exp Phân loại thế giới sốn"
+  ],
+  [
+   "trang_query",
+   "tại sao nói năng lượng ko tự sinh ra cũn",
+   "got lesson_card:Năng lượng exp Bảo toàn năng lượng và"
+  ],
+  [
+   "content_only",
+   "loại nào là không có xương sống vậy ạ?",
+   "got A_concept: exp Động vật"
+  ],
+  [
+   "content_only",
+   "cách dùng khóa lưỡng phân như nào ạ?",
+   "got lesson_practice:Thực hành xây dựng khó exp Phân loại thế giới sốn"
+  ],
+  [
+   "content_only",
+   "muốn đo cái gì đó thì cần mấy bước ạ?",
+   "got lesson_practice:Đo chiều dài exp Đo khối lượng"
+  ],
+  [
+   "content_only",
+   "loại này có màng nhân bao bọc ko ạ?",
+   "got none: exp Nguyên sinh vật"
+  ],
+  [
+   "content_only",
+   "nếu nó sống bám trên vật chủ thì gọi là ",
+   "got none: exp Nấm"
+  ],
+  [
+   "content_only",
+   "cái khí này có tác dụng gì cho sự cháy k",
+   "got A_concept: exp Oxygen"
+  ],
+  [
+   "content_only",
+   "nêu mấy đặc điểm của nhóm này đi ạ",
+   "got none: exp Động vật"
+  ],
+  [
+   "content_only",
+   "năng lượng tái tạo gồm những nguồn nào t",
+   "got lesson_card:Năng lượng exp Nhiên liệu và an ninh "
+  ],
+  [
+   "content_only",
+   "loại này là nhân sơ hay nhân thật thế ạ",
+   "got lesson_card:Nguyên sinh vật exp Vi khuẩn"
+  ],
+  [
+   "content_only",
+   "cho em hỏi mấy cái chất ở dạng lỏng như ",
+   "got lesson_practice:Sự đa dạng và các thể  exp Nhiên liệu và an ninh "
+  ],
+  [
+   "content_only",
+   "mỗi bước thì chọn đặc điểm gì để phân ch",
+   "got none: exp Thực hành xây dựng khó"
+  ],
+  [
+   "content_only",
+   "làm sao để không bị sai số khi đọc kết q",
+   "got A_concept: exp Đo thời gian"
+  ],
+  [
+   "name_query",
+   "giảng lại cho em bài thực hành quan sát ",
+   "got lesson_practice:Thực hành phân loại th exp Thực hành quan sát và "
+  ],
+  [
+   "content_only",
+   "nếu muốn nhìn tế bào thì dùng dụng cụ gì",
+   "got lesson_practice:Tế bào exp Quy định an toàn trong"
+  ]
+ ]
+}

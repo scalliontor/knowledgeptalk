@@ -1,0 +1,245 @@
+{
+ "book": "toan 8 KNTT tap1",
+ "port": "8890",
+ "total": 500,
+ "lessons": 20,
+ "lesson_cases": 425,
+ "guard_cases": 75,
+ "errors": 0,
+ "anchor_acc": 83.3,
+ "mode_acc": 66.1,
+ "guard_acc": 100.0,
+ "cruft_on_cards": 0,
+ "latency_ms": {
+  "p50": 39.5,
+  "p95": 278.9,
+  "p99": 298.3,
+  "max": 480.9
+ },
+ "by_dimension": {
+  "content_only": {
+   "n": 83,
+   "anchor%": 25.3,
+   "mode%": 10.8,
+   "cruft": 0
+  },
+  "current_lesson": {
+   "n": 66,
+   "anchor%": 98.5,
+   "mode%": 89.4,
+   "cruft": 0
+  },
+  "guard_chitchat": {
+   "n": 24,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_offtopic": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_oob_trang": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_out_of_book": {
+   "n": 15,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_word": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_year": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "name_query": {
+   "n": 85,
+   "anchor%": 95.3,
+   "mode%": 52.9,
+   "cruft": 0
+  },
+  "practice": {
+   "n": 90,
+   "anchor%": 100.0,
+   "mode%": 91.1,
+   "cruft": 0
+  },
+  "trang_profile": {
+   "n": 44,
+   "anchor%": 97.7,
+   "mode%": 84.1,
+   "cruft": 0
+  },
+  "trang_query": {
+   "n": 57,
+   "anchor%": 94.7,
+   "mode%": 86.0,
+   "cruft": 0
+  }
+ },
+ "sample_fails": [
+  [
+   "content_only",
+   "làm sao để biết là dùng công thức cộng h",
+   "got lesson_practice:Phép cộng và phép trừ  exp Tổng và hiệu hai lập p"
+  ],
+  [
+   "content_only",
+   "cách viết các tỉ số tương ứng như thế nà",
+   "got none: exp Định lí Thalès trong t"
+  ],
+  [
+   "content_only",
+   "2 đường chéo của nó có đặc điểm gì đặc b",
+   "got none: exp Hình chữ nhật"
+  ],
+  [
+   "content_only",
+   "nếu có 3 đường như này thì chu vi thay đ",
+   "got none: exp Đường trung bình của t"
+  ],
+  [
+   "content_only",
+   "nếu có 2 đường chéo cắt nhau tại trung đ",
+   "got A_concept: exp Hình bình hành"
+  ],
+  [
+   "content_only",
+   "cho em hỏi về cách biến đổi từ lập phươn",
+   "got lesson_practice:Lập phương của một tổn exp Tổng và hiệu hai lập p"
+  ],
+  [
+   "content_only",
+   "những cái như màu sắc hay tên trường thì",
+   "got none: exp Thu thập và phân loại "
+  ],
+  [
+   "content_only",
+   "cái tính chất song song này là sao ạ",
+   "got A_concept: exp Đường trung bình của t"
+  ],
+  [
+   "name_query",
+   "giảng lại cho em bài Bình phương của một",
+   "got A_concept: exp Hiệu hai bình phương. "
+  ],
+  [
+   "name_query",
+   "em quên mất dấu hiệu nhận biết hình vuôn",
+   "got A_concept: exp Hình thoi và hình vuôn"
+  ],
+  [
+   "name_query",
+   "cho em hỏi bài lập phương của một hiệu n",
+   "got A_concept: exp Lập phương của một tổn"
+  ],
+  [
+   "content_only",
+   "cái dạng có mũ 3 này khi khai triển ra d",
+   "got none: exp Lập phương của một tổn"
+  ],
+  [
+   "content_only",
+   "nếu hình bình hành có 2 cạnh kề bằng nha",
+   "got lesson_card:Hình bình hành exp Hình thoi và hình vuôn"
+  ],
+  [
+   "content_only",
+   "cái công thức có dạng (a+b)(a2-ab+b2) là",
+   "got A_concept: exp Tổng và hiệu hai lập p"
+  ],
+  [
+   "content_only",
+   "em muốn biết cách khai triển một biểu th",
+   "got A_concept: exp Hiệu hai bình phương. "
+  ],
+  [
+   "content_only",
+   "tứ giác có các cặp cạnh đối song song th",
+   "got lesson_card:Tứ giác exp Hình bình hành"
+  ],
+  [
+   "content_only",
+   "khi đặt nhân tử chung có cần để ý dấu kh",
+   "got none: exp Phân tích đa thức thàn"
+  ],
+  [
+   "content_only",
+   "làm sao biết được xu hướng của nó?",
+   "got none: exp Phân tích số liệu thốn"
+  ],
+  [
+   "content_only",
+   "hai đường chéo của nó có bằng nhau ko ạ?",
+   "got none: exp Hình chữ nhật"
+  ],
+  [
+   "content_only",
+   "khi một đường thẳng cắt 2 cạnh tam giác ",
+   "got lesson_card:Tính chất đường phân g exp Định lí Thalès trong t"
+  ],
+  [
+   "content_only",
+   "muốn chia đa thức cho đơn thức thì cần l",
+   "got lesson_practice:Đơn thức exp Phép chia đa thức cho "
+  ],
+  [
+   "content_only",
+   "cách nhìn trục tung trục hoành như nào ạ",
+   "got none: exp Phân tích số liệu thốn"
+  ],
+  [
+   "content_only",
+   "nếu biết cạnh thứ 3 thì tính đc đoạn kia",
+   "got none: exp Đường trung bình của t"
+  ],
+  [
+   "content_only",
+   "có công thức nào để nhân nhanh không ạ?",
+   "got A_concept: exp Phép nhân đa thức"
+  ],
+  [
+   "content_only",
+   "công thức chia này trông lạ quá, giải th",
+   "got A_concept: exp Phép chia đa thức cho "
+  ],
+  [
+   "content_only",
+   "cái này có đơn vị là gì thế ạ?",
+   "got lesson_card:Đơn thức exp Phân tích số liệu thốn"
+  ],
+  [
+   "content_only",
+   "công thức tính diện tích khi biết 2 đườn",
+   "got A_concept: exp Hình thoi và hình vuôn"
+  ],
+  [
+   "content_only",
+   "hình này có mấy đỉnh với mấy cạnh vậy ạ?",
+   "got A_concept: exp Tứ giác"
+  ],
+  [
+   "content_only",
+   "phân biệt giữa quan sát với hỏi trực tiế",
+   "got none: exp Thu thập và phân loại "
+  ],
+  [
+   "content_only",
+   "quy tắc dấu xen kẽ trong bài này là gì t",
+   "got none: exp Lập phương của một tổn"
+  ]
+ ]
+}

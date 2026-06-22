@@ -1,0 +1,230 @@
+{
+ "book": "gdcd 8 KNTT tapNone",
+ "port": "8890",
+ "total": 375,
+ "lessons": 10,
+ "lesson_cases": 300,
+ "guard_cases": 75,
+ "errors": 0,
+ "anchor_acc": 91.0,
+ "mode_acc": 79.7,
+ "guard_acc": 100.0,
+ "cruft_on_cards": 10,
+ "latency_ms": {
+  "p50": 37.1,
+  "p95": 171.7,
+  "p99": 189.5,
+  "max": 224.9
+ },
+ "by_dimension": {
+  "content_only": {
+   "n": 60,
+   "anchor%": 56.7,
+   "mode%": 28.3,
+   "cruft": 3
+  },
+  "current_lesson": {
+   "n": 50,
+   "anchor%": 100.0,
+   "mode%": 100.0,
+   "cruft": 0
+  },
+  "guard_chitchat": {
+   "n": 24,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_offtopic": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_oob_trang": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_out_of_book": {
+   "n": 15,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_word": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_year": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "name_query": {
+   "n": 60,
+   "anchor%": 98.3,
+   "mode%": 76.7,
+   "cruft": 1
+  },
+  "practice": {
+   "n": 60,
+   "anchor%": 100.0,
+   "mode%": 100.0,
+   "cruft": 6
+  },
+  "trang_profile": {
+   "n": 30,
+   "anchor%": 100.0,
+   "mode%": 93.3,
+   "cruft": 0
+  },
+  "trang_query": {
+   "n": 40,
+   "anchor%": 100.0,
+   "mode%": 95.0,
+   "cruft": 0
+  }
+ },
+ "sample_fails": [
+  [
+   "content_only",
+   "làm sao để giới thiệu vẻ đẹp đất nước vớ",
+   "got none: exp Tự hào về truyền thống"
+  ],
+  [
+   "content_only",
+   "biểu hiện của việc chống lại cái sai là ",
+   "got none: exp Bảo vệ lẽ phải"
+  ],
+  [
+   "content_only",
+   "nói về sự khác biệt giữa các quốc gia nh",
+   "got none: exp Tôn trọng sự đa dạng c"
+  ],
+  [
+   "content_only",
+   "việc kiểm tra thiết bị điện thường xuyên",
+   "got none: exp Phòng ngừa tai nạn vũ "
+  ],
+  [
+   "content_only",
+   "mắng nhiếc trước mặt con cái là loại nào",
+   "got none: exp Phòng, chống bạo lực g"
+  ],
+  [
+   "content_only",
+   "cần phải có những yếu tố nào để nó hiệu ",
+   "got none: exp Xác định mục tiêu cá n"
+  ],
+  [
+   "content_only",
+   "biểu hiện của việc không ngại khó là gì ",
+   "got none: exp Lao động cần cù, sáng "
+  ],
+  [
+   "content_only",
+   "mấy cái tiêu chí để biết nó hợp lý là gì",
+   "got none: exp Xác định mục tiêu cá n"
+  ],
+  [
+   "content_only",
+   "cách phân biệt đồ thiết yếu với đồ sở th",
+   "got none: exp Lập kế hoạch chi tiêu"
+  ],
+  [
+   "content_only",
+   "cho em hỏi sự hiếu thảo thì nằm trong nh",
+   "got none: exp Tự hào về truyền thống"
+  ],
+  [
+   "content_only",
+   "môi trường làm việc thế nào thì được coi",
+   "got none: exp Quyền và nghĩa vụ lao "
+  ],
+  [
+   "content_only",
+   "việc xả nước thải chưa xử lý là vi phạm ",
+   "got none: exp Bảo vệ môi trường và t"
+  ],
+  [
+   "content_only",
+   "có quy tắc nào để đặt ra cái này cho chu",
+   "got none: exp Xác định mục tiêu cá n"
+  ],
+  [
+   "content_only",
+   "mấy cái khác biệt về phong tục với lễ hộ",
+   "got none: exp Tôn trọng sự đa dạng c"
+  ],
+  [
+   "content_only",
+   "mấy cái lễ hội với nghệ thuật thì thuộc ",
+   "got none: exp Tự hào về truyền thống"
+  ],
+  [
+   "content_only",
+   "cách để biết mình có đang đi đúng hướng ",
+   "got none: exp Xác định mục tiêu cá n"
+  ],
+  [
+   "content_only",
+   "cái này chia làm mấy loại thế ạ?",
+   "got none: exp Xác định mục tiêu cá n"
+  ],
+  [
+   "content_only",
+   "những giá trị về lao động thì gồm những ",
+   "got lesson_card:Quyền và nghĩa vụ lao  exp Tự hào về truyền thống"
+  ],
+  [
+   "content_only",
+   "việc tìm hiểu văn hóa dân gian là để làm",
+   "got none: exp Tự hào về truyền thống"
+  ],
+  [
+   "content_only",
+   "kiểm soát tiền bạc thì gọi là gì vậy ạ",
+   "got lesson_practice:Lập kế hoạch chi tiêu exp Phòng, chống bạo lực g"
+  ],
+  [
+   "content_only",
+   "những cái như ẩm thực hay trang phục đặc",
+   "got none: exp Tôn trọng sự đa dạng c"
+  ],
+  [
+   "name_query",
+   "cho em hỏi ví dụ về Nelson Mandela trong",
+   "got none: exp Tôn trọng sự đa dạng c"
+  ],
+  [
+   "content_only",
+   "làm sao để biết cái gì cần cái gì muốn ạ",
+   "got none: exp Lập kế hoạch chi tiêu"
+  ],
+  [
+   "content_only",
+   "nếu thấy bạn bị oan thì mình nên làm gì ",
+   "got none: exp Bảo vệ lẽ phải"
+  ],
+  [
+   "content_only",
+   "nếu cứ làm theo cách cũ mà không đổi mới",
+   "got none: exp Lao động cần cù, sáng "
+  ],
+  [
+   "content_only",
+   "nhà có nhiều bình gas thì cần kiểm tra g",
+   "got none: exp Phòng ngừa tai nạn vũ "
+  ],
+  [
+   "content_only",
+   "làm sao để đạt được hiệu quả cao nhất tr",
+   "got none: exp Lao động cần cù, sáng "
+  ]
+ ]
+}

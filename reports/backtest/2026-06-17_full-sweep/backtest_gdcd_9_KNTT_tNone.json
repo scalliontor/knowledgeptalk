@@ -1,0 +1,225 @@
+{
+ "book": "gdcd 9 KNTT tapNone",
+ "port": "8890",
+ "total": 375,
+ "lessons": 10,
+ "lesson_cases": 300,
+ "guard_cases": 75,
+ "errors": 0,
+ "anchor_acc": 91.3,
+ "mode_acc": 74.3,
+ "guard_acc": 100.0,
+ "cruft_on_cards": 0,
+ "latency_ms": {
+  "p50": 38.6,
+  "p95": 172.1,
+  "p99": 186.0,
+  "max": 265.4
+ },
+ "by_dimension": {
+  "content_only": {
+   "n": 60,
+   "anchor%": 56.7,
+   "mode%": 26.7,
+   "cruft": 0
+  },
+  "current_lesson": {
+   "n": 50,
+   "anchor%": 100.0,
+   "mode%": 94.0,
+   "cruft": 0
+  },
+  "guard_chitchat": {
+   "n": 24,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_offtopic": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_oob_trang": {
+   "n": 12,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_out_of_book": {
+   "n": 15,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_word": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "guard_trap_year": {
+   "n": 6,
+   "anchor%": 100.0,
+   "mode%": 0.0,
+   "cruft": 0
+  },
+  "name_query": {
+   "n": 60,
+   "anchor%": 100.0,
+   "mode%": 68.3,
+   "cruft": 0
+  },
+  "practice": {
+   "n": 60,
+   "anchor%": 100.0,
+   "mode%": 96.7,
+   "cruft": 0
+  },
+  "trang_profile": {
+   "n": 30,
+   "anchor%": 100.0,
+   "mode%": 80.0,
+   "cruft": 0
+  },
+  "trang_query": {
+   "n": 40,
+   "anchor%": 100.0,
+   "mode%": 92.5,
+   "cruft": 0
+  }
+ },
+ "sample_fails": [
+  [
+   "content_only",
+   "việc không chấp nhặt hay định kiến được ",
+   "got none: exp Khoan dung"
+  ],
+  [
+   "content_only",
+   "muốn đóng góp cho xã hội thì cần làm gì ",
+   "got lesson_card:Tích cực tham gia các  exp Sống có lí tưởng"
+  ],
+  [
+   "content_only",
+   "nguồn thu cho ngân sách là từ đâu ra thế",
+   "got none: exp Quyền tự do kinh doanh"
+  ],
+  [
+   "content_only",
+   "dùng app hay sổ tay thì tốt hơn ạ?",
+   "got none: exp Quản lí thời gian hiệu"
+  ],
+  [
+   "content_only",
+   "mấy cái hiệp ước về kinh tế xanh có liên",
+   "got none: exp Bảo vệ hoà bình"
+  ],
+  [
+   "content_only",
+   "cái gì giúp tạo dựng niềm tin và sự đồng",
+   "got A_concept: exp Khách quan và công bằn"
+  ],
+  [
+   "content_only",
+   "nếu cứ trì hoãn thì hậu quả là gì ạ?",
+   "got none: exp Quản lí thời gian hiệu"
+  ],
+  [
+   "content_only",
+   "việc học tập rèn luyện thì liên quan gì ",
+   "got lesson_practice:Thích ứng với thay đổi exp Sống có lí tưởng"
+  ],
+  [
+   "content_only",
+   "việc tôn trọng chủ quyền của nước khác c",
+   "got A_concept: exp Bảo vệ hoà bình"
+  ],
+  [
+   "content_only",
+   "làm sao để xây dựng xã hội văn minh và n",
+   "got A_concept: exp Khoan dung"
+  ],
+  [
+   "content_only",
+   "muốn quản lý tài chính tốt thì cần làm g",
+   "got none: exp Tiêu dùng thông minh"
+  ],
+  [
+   "content_only",
+   "đi học muộn bị hạ hạnh kiểm thì thuộc nh",
+   "got none: exp Vi phạm pháp luật và t"
+  ],
+  [
+   "content_only",
+   "nếu ko đóng tiền cho nhà nước thì gọi là",
+   "got A_concept: exp Quyền tự do kinh doanh"
+  ],
+  [
+   "content_only",
+   "đảm bảo chất lượng hàng hóa là thuộc về ",
+   "got none: exp Quyền tự do kinh doanh"
+  ],
+  [
+   "content_only",
+   "không nên bao che cho cái xấu đúng ko ạ?",
+   "got none: exp Khoan dung"
+  ],
+  [
+   "content_only",
+   "việc giải quyết tranh chấp bằng biện phá",
+   "got A_concept: exp Bảo vệ hoà bình"
+  ],
+  [
+   "content_only",
+   "làm sao để ko bị stress khi nhiều việc t",
+   "got none: exp Quản lí thời gian hiệu"
+  ],
+  [
+   "content_only",
+   "thanh niên mình bây giờ cần hướng tới cá",
+   "got none: exp Sống có lí tưởng"
+  ],
+  [
+   "content_only",
+   "biết lắng nghe ý kiến khác biệt thì có l",
+   "got none: exp Khoan dung"
+  ],
+  [
+   "content_only",
+   "việc ko dựa vào cảm tính mà dựa vào chứn",
+   "got none: exp Khách quan và công bằn"
+  ],
+  [
+   "content_only",
+   "mấy cái vụ đầu tư y tế, giáo dục là nhờ ",
+   "got none: exp Quyền tự do kinh doanh"
+  ],
+  [
+   "content_only",
+   "việc làm thiện nguyện hay giúp đỡ người ",
+   "got none: exp Tích cực tham gia các "
+  ],
+  [
+   "content_only",
+   "việc chọn ngành nghề với địa điểm thì gọ",
+   "got none: exp Quyền tự do kinh doanh"
+  ],
+  [
+   "content_only",
+   "tại sao việc tôn trọng quyền lợi mọi ngư",
+   "got none: exp Khách quan và công bằn"
+  ],
+  [
+   "content_only",
+   "những biểu hiện của sự chung sống hữu ng",
+   "got none: exp Bảo vệ hoà bình"
+  ],
+  [
+   "content_only",
+   "mình cần có thái độ như thế nào khi tham",
+   "got none: exp Tích cực tham gia các "
+  ]
+ ]
+}
