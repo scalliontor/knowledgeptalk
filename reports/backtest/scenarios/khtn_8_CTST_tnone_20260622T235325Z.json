@@ -1,0 +1,1083 @@
+{
+ "meta": {
+  "subject": "khtn",
+  "grade": 8,
+  "book": "CTST",
+  "tap": null,
+  "n_lessons_requested": 8,
+  "n_lessons_used": 8,
+  "port": "8889",
+  "neo4j_uri": "bolt://localhost:7688",
+  "generated_utc": "20260622T235325Z"
+ },
+ "summary": {
+  "overall": {
+   "n": 48,
+   "anchor%": 100.0,
+   "knowledge_correct_avg": 1.625,
+   "knowledge_full%": 81.2,
+   "intent%": 50.0,
+   "hallucination%": 14.6,
+   "real_cruft": 0,
+   "score_avg": 0.77,
+   "total": 48,
+   "errors": 0
+  },
+  "by_subject": {
+   "khtn": {
+    "n": 48,
+    "anchor%": 100.0,
+    "knowledge_correct_avg": 1.625,
+    "knowledge_full%": 81.2,
+    "intent%": 50.0,
+    "hallucination%": 14.6,
+    "real_cruft": 0,
+    "score_avg": 0.77
+   }
+  },
+  "by_intent": {
+   "explain": {
+    "n": 34,
+    "anchor%": 100.0,
+    "knowledge_correct_avg": 1.588,
+    "knowledge_full%": 79.4,
+    "intent%": 47.1,
+    "hallucination%": 14.7,
+    "real_cruft": 0,
+    "score_avg": 0.76
+   },
+   "practice": {
+    "n": 9,
+    "anchor%": 100.0,
+    "knowledge_correct_avg": 1.556,
+    "knowledge_full%": 77.8,
+    "intent%": 88.9,
+    "hallucination%": 22.2,
+    "real_cruft": 0,
+    "score_avg": 0.761
+   },
+   "recite": {
+    "n": 5,
+    "anchor%": 100.0,
+    "knowledge_correct_avg": 2.0,
+    "knowledge_full%": 100.0,
+    "intent%": 0.0,
+    "hallucination%": 0.0,
+    "real_cruft": 0,
+    "score_avg": 0.85
+   }
+  }
+ },
+ "results": [
+  {
+   "subject": "khtn",
+   "intent": "explain",
+   "work_name": "Sử dụng hoá chất, dụng cụ và các thiết bị điện an toàn",
+   "scenario": "Thưa thầy/cô, em đang chuẩn bị làm thí nghiệm nhưng em chưa nắm rõ định nghĩa về việc sử dụng hóa chất, dụng cụ và thiết bị điện an toàn là gì ạ.",
+   "question": "Sử dụng hóa chất, dụng cụ và thiết bị điện an toàn là gì và mục đích của việc này là gì?",
+   "expected_points": [
+    "Là việc tuân thủ nghiêm ngặt các quy tắc về nhận biết, thao tác với hóa chất, sử dụng đúng chức năng dụng cụ và vận hành thiết bị điện đúng cách.",
+    "Nhằm đảm bảo tính chính xác của kết quả thực nghiệm và bảo vệ an toàn tính mạng, sức khỏe cho người thực hiện."
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Sử dụng hoá chất, dụng cụ và các thiết bị điện an toàn",
+   "latency_ms": 43.2,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": true,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 1.0
+  },
+  {
+   "subject": "khtn",
+   "intent": "explain",
+   "work_name": "Sử dụng hoá chất, dụng cụ và các thiết bị điện an toàn",
+   "scenario": "Em đang cầm một ống nghiệm vừa mới được đun nóng, em nên dùng gì để cầm cho an toàn ạ?",
+   "question": "Khi cần cầm ống nghiệm nóng hoặc chứa hóa chất để tránh bỏng và tiếp xúc trực tiếp, em nên sử dụng dụng cụ hỗ trợ nào?",
+   "expected_points": [
+    "Sử dụng kẹp gỗ để cầm ống nghiệm nóng hoặc chứa hóa chất.",
+    "Mục đích để tránh bị bỏng và tránh tiếp xúc trực tiếp với hóa chất."
+   ],
+   "served_tier": "lesson_practice",
+   "served_work": "Sử dụng hoá chất, dụng cụ và các thiết bị điện an toàn",
+   "latency_ms": 41.2,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": false,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 0.85
+  },
+  {
+   "subject": "khtn",
+   "intent": "explain",
+   "work_name": "Sử dụng hoá chất, dụng cụ và các thiết bị điện an toàn",
+   "scenario": "Thầy ơi, lúc nãy em thấy bạn dùng miệng thổi để tắt đèn cồn, em thấy như vậy có đúng quy tắc không ạ?",
+   "question": "Khi sử dụng đèn cồn, làm thế nào để dập tắt lửa một cách an toàn và tuyệt đối không được làm gì?",
+   "expected_points": [
+    "Phải dùng nắp đậy nhanh để dập tắt lửa (ngắt nguồn oxy).",
+    "Tuyệt đối không dùng miệng thổi để tắt lửa."
+   ],
+   "served_tier": "lesson_practice",
+   "served_work": "Sử dụng hoá chất, dụng cụ và các thiết bị điện an toàn",
+   "latency_ms": 42.6,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 0,
+   "intent_ok": false,
+   "hallucination": true,
+   "cruft_real": false,
+   "score": 0.0
+  },
+  {
+   "subject": "khtn",
+   "intent": "explain",
+   "work_name": "Sử dụng hoá chất, dụng cụ và các thiết bị điện an toàn",
+   "scenario": "Em đang tìm một lọ hóa chất để làm thí nghiệm nhưng lọ này không có nhãn ghi tên, em có nên dùng luôn không ạ?",
+   "question": "Việc bảo quản và sử dụng hóa chất như thế nào là đúng quy tắc an toàn?",
+   "expected_points": [
+    "Hóa chất phải được bảo quản trong lọ có nhãn ghi rõ tên và tính chất.",
+    "Không dùng hóa chất không có nhãn để tránh nhầm lẫn nguy hiểm."
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Sử dụng hoá chất, dụng cụ và các thiết bị điện an toàn",
+   "latency_ms": 43.9,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": true,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 1.0
+  },
+  {
+   "subject": "khtn",
+   "intent": "explain",
+   "work_name": "Sử dụng hoá chất, dụng cụ và các thiết bị điện an toàn",
+   "scenario": "Em chưa hiểu rõ cách sử dụng các thiết bị điện như ampe kế hay vôn kế sao cho đúng ạ.",
+   "question": "Khi sử dụng các thiết bị điện như ampe kế, vôn kế và đồng hồ đa năng, cần lưu ý điều gì?",
+   "expected_points": [
+    "Cần sử dụng đúng cực và đúng thang đo.",
+    "Ampe kế dùng để đo cường độ, vôn kế dùng để đo hiệu điện thế."
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Sử dụng hoá chất, dụng cụ và các thiết bị điện an toàn",
+   "latency_ms": 32.9,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": true,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 1.0
+  },
+  {
+   "subject": "khtn",
+   "intent": "practice",
+   "work_name": "Sử dụng hoá chất, dụng cụ và các thiết bị điện an toàn",
+   "scenario": "Thầy/cô ơi, cho em xin một vài bài tập thực hành về phần sử dụng dụng cụ và thiết bị điện an toàn để em ôn tập với ạ!",
+   "question": "Hãy nêu các quy tắc để đảm bảo an toàn khi đo thể tích chất lỏng và an toàn khi sử dụng dây dẫn điện?",
+   "expected_points": [
+    "Khi đo thể tích chất lỏng: đặt dụng cụ trên mặt phẳng, mắt nhìn ngang với mực chất lỏng để tránh sai số.",
+    "An toàn điện: không sử dụng dây dẫn hở, không chắp nối nhiều đoạn dây và phải kiểm tra thiết bị trước khi dùng."
+   ],
+   "served_tier": "lesson_practice",
+   "served_work": "Sử dụng hoá chất, dụng cụ và các thiết bị điện an toàn",
+   "latency_ms": 45.8,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": true,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 1.0
+  },
+  {
+   "subject": "khtn",
+   "intent": "explain",
+   "work_name": "Biến đổi vật lí và biến đổi hoá học",
+   "scenario": "Thầy ơi, em đang học về các loại biến đổi nhưng vẫn chưa phân biệt rõ lắm ạ.",
+   "question": "Em hãy cho biết sự khác nhau cơ bản giữa biến đổi vật lí và biến đổi hoá học là gì?",
+   "expected_points": [
+    "Biến đổi vật lí là chất thay đổi trạng thái, kích thước hoặc hình dạng nhưng vẫn giữ nguyên là chất ban đầu.",
+    "Biến đổi hoá học là chất biến đổi thành chất khác với tính chất khác hẳn so với ban đầu."
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Biến đổi vật lí và biến đổi hoá học",
+   "latency_ms": 33.4,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": true,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 1.0
+  },
+  {
+   "subject": "khtn",
+   "intent": "explain",
+   "work_name": "Biến đổi vật lí và biến đổi hoá học",
+   "scenario": "Em vừa thấy mẹ đun đường trên chảo và thấy nó chuyển sang màu đen, không biết đây là hiện tượng gì ạ?",
+   "question": "Dựa vào dấu hiệu thay đổi màu sắc, hiện tượng đường chuyển sang màu đen khi đun nóng là biến đổi vật lí hay hoá học?",
+   "expected_points": [
+    "Là biến đổi hoá học.",
+    "Dấu hiệu là sự thay đổi màu sắc."
+   ],
+   "served_tier": "lesson_practice",
+   "served_work": "Biến đổi vật lí và biến đổi hoá học",
+   "latency_ms": 38.1,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 0,
+   "intent_ok": false,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 0.25
+  },
+  {
+   "subject": "khtn",
+   "intent": "explain",
+   "work_name": "Biến đổi vật lí và biến đổi hoá học",
+   "scenario": "Em có một đống giấy vụn và một ít nước đá đang tan, em muốn biết chúng thuộc loại biến đổi nào.",
+   "question": "Việc xé nhỏ tờ giấy và hiện tượng nước đá tan chảy thành nước lỏng là biến đổi vật lí hay hoá học?",
+   "expected_points": [
+    "Là biến đổi vật lí.",
+    "Vì chỉ thay đổi về kích thước (xé nhỏ) hoặc trạng thái (rắn sang lỏng) mà không tạo ra chất mới."
+   ],
+   "served_tier": "lesson_practice",
+   "served_work": "Biến đổi vật lí và biến đổi hoá học",
+   "latency_ms": 35.3,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": false,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 0.85
+  },
+  {
+   "subject": "khtn",
+   "intent": "explain",
+   "work_name": "Biến đổi vật lí và biến đổi hoá học",
+   "scenario": "Em chưa hiểu rõ lắm về các dấu hiệu để nhận biết một chất đã bị biến đổi hoá học ạ.",
+   "question": "Trong các hiện tượng sau: tỏa nhiệt, phát sáng, sủi bọt khí hoặc tạo chất kết tủa, đâu là dấu hiệu của biến đổi hoá học?",
+   "expected_points": [
+    "Sự tỏa nhiệt hoặc phát sáng.",
+    "Sự tạo thành chất khí (sủi bọt).",
+    "Sự tạo thành chất kết tủa (chất không tan)."
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Biến đổi vật lí và biến đổi hoá học",
+   "latency_ms": 27.5,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": true,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 1.0
+  },
+  {
+   "subject": "khtn",
+   "intent": "explain",
+   "work_name": "Biến đổi vật lí và biến đổi hoá học",
+   "scenario": "Cô ơi, cho em hỏi về trường hợp sắt bị gỉ sét trong đời sống với ạ.",
+   "question": "Hiện tượng sắt bị gỉ sét và thức ăn bị ôi thiu là biến đổi vật lí hay biến đổi hoá học?",
+   "expected_points": [
+    "Là biến đổi hoá học.",
+    "Vì có sự tạo thành chất mới có tính chất khác ban đầu."
+   ],
+   "served_tier": "lesson_practice",
+   "served_work": "Biến đổi vật lí và biến đổi hoá học",
+   "latency_ms": 37.1,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": false,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 0.85
+  },
+  {
+   "subject": "khtn",
+   "intent": "practice",
+   "work_name": "Biến đổi vật lí và biến đổi hoá học",
+   "scenario": "Em đã đọc xong bài Biến đổi vật lí và biến đổi hoá học rồi, thầy cho em làm bài tập nhé!",
+   "question": "Khi quan sát một sự thay đổi, em cần đặt câu hỏi gì để xác định đó là biến đổi vật lí hay hoá học?",
+   "expected_points": [
+    "Đặt câu hỏi: 'Có chất mới được tạo ra không?'",
+    "Nếu không có chất mới là biến đổi vật lí, nếu có chất mới là biến đổi hoá học."
+   ],
+   "served_tier": "lesson_practice",
+   "served_work": "Biến đổi vật lí và biến đổi hoá học",
+   "latency_ms": 33.4,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": true,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 1.0
+  },
+  {
+   "subject": "khtn",
+   "intent": "explain",
+   "work_name": "Phản ứng hoá học và năng lượng trong các phản ứng hoá học",
+   "scenario": "Thưa thầy/cô, em đang đọc sách mà vẫn chưa rõ thế nào là phản ứng hóa học ạ.",
+   "question": "Phản ứng hóa học là gì và bản chất của quá trình này diễn ra như thế nào?",
+   "expected_points": [
+    "Là quá trình biến đổi từ chất này thành chất khác.",
+    "Bản chất là sự phá vỡ liên kết giữa các nguyên tử trong phân tử chất phản ứng và hình thành các liên kết mới để tạo nên phân tử sản phẩm."
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Phản ứng hoá học và năng lượng trong các phản ứng hoá học",
+   "latency_ms": 47.4,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": true,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 1.0
+  },
+  {
+   "subject": "khtn",
+   "intent": "explain",
+   "work_name": "Phản ứng hoá học và năng lượng trong các phản ứng hoá học",
+   "scenario": "Em thấy khi đốt cháy cồn thì thấy nóng lên rất rõ rệt, hiện tượng này thuộc loại phản ứng gì ạ?",
+   "question": "Việc đốt cháy cồn giải phóng năng lượng dưới dạng nhiệt ra môi trường xung quanh được gọi là phản ứng gì?",
+   "expected_points": [
+    "Phản ứng tỏa nhiệt.",
+    "Giải phóng năng lượng dưới dạng nhiệt ra môi trường xung quanh."
+   ],
+   "served_tier": "lesson_practice",
+   "served_work": "Phản ứng hoá học và năng lượng trong các phản ứng hoá học",
+   "latency_ms": 36.9,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": false,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 0.85
+  },
+  {
+   "subject": "khtn",
+   "intent": "explain",
+   "work_name": "Phản ứng hoá học và năng lượng trong các phản ứng hoá học",
+   "scenario": "Trong một phản ứng hóa học, em thấy các chất ban đầu biến đổi thành chất mới, vậy số lượng nguyên tử của mỗi nguyên tố có thay đổi không ạ?",
+   "question": "Trong quá trình phản ứng hóa học, liên kết giữa các nguyên tử thay đổi nhưng số lượng nguyên tử mỗi nguyên tố như thế nào?",
+   "expected_points": [
+    "Chỉ có liên kết giữa các nguyên tử thay đổi.",
+    "Số lượng nguyên tử mỗi nguyên tố được giữ nguyên."
+   ],
+   "served_tier": "lesson_practice",
+   "served_work": "Phản ứng hoá học và năng lượng trong các phản ứng hoá học",
+   "latency_ms": 42.1,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": false,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 0.85
+  },
+  {
+   "subject": "khtn",
+   "intent": "explain",
+   "work_name": "Phản ứng hoá học và năng lượng trong các phản ứng hoá học",
+   "scenario": "Em chưa hiểu rõ phần dấu hiệu nhận biết, làm sao để biết một sự biến đổi là phản ứng hóa học ạ?",
+   "question": "Có những dấu hiệu nào để nhận biết một phản ứng hóa học đã xảy ra?",
+   "expected_points": [
+    "Sự thay đổi màu sắc.",
+    "Sự tạo thành chất kết tủa hoặc chất khí.",
+    "Sự thay đổi nhiệt độ hoặc phát sáng."
+   ],
+   "served_tier": "lesson_practice",
+   "served_work": "Phản ứng hoá học và năng lượng trong các phản ứng hoá học",
+   "latency_ms": 44.3,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": false,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 0.85
+  },
+  {
+   "subject": "khtn",
+   "intent": "practice",
+   "work_name": "Phản ứng hoá học và năng lượng trong các phản ứng hoá học",
+   "scenario": "Thầy ơi, em muốn làm bài tập về phần phản ứng thu nhiệt để hiểu rõ hơn về việc hấp thụ năng lượng ạ.",
+   "question": "Em hãy cho biết đặc điểm của phản ứng thu nhiệt và lấy một ví dụ trong nội dung bài học.",
+   "expected_points": [
+    "Là phản ứng hấp thụ năng lượng từ môi trường để duy trì quá trình.",
+    "Ví dụ: phản ứng phân hủy đá vôi cần nhiệt độ cao."
+   ],
+   "served_tier": "lesson_practice",
+   "served_work": "Phản ứng hoá học và năng lượng trong các phản ứng hoá học",
+   "latency_ms": 37.7,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": true,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 1.0
+  },
+  {
+   "subject": "khtn",
+   "intent": "explain",
+   "work_name": "Phản ứng hoá học và năng lượng trong các phản ứng hoá học",
+   "scenario": "Em đang làm thí nghiệm mà trộn các chất vào nhau nhưng mãi không thấy hiện tượng gì, có phải em làm sai không?",
+   "question": "Để một phản ứng hóa học xảy ra, ngoài việc có sự tiếp xúc giữa các chất phản ứng, thường cần thêm những điều kiện gì?",
+   "expected_points": [
+    "Cần sự tiếp xúc giữa các chất phản ứng.",
+    "Thường cần thêm các điều kiện như nhiệt độ, áp suất hoặc chất xúc tác để bắt đầu."
+   ],
+   "served_tier": "lesson_practice",
+   "served_work": "Phản ứng hoá học và năng lượng trong các phản ứng hoá học",
+   "latency_ms": 37.9,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 0,
+   "intent_ok": false,
+   "hallucination": true,
+   "cruft_real": false,
+   "score": 0.0
+  },
+  {
+   "subject": "khtn",
+   "intent": "explain",
+   "work_name": "Định luật bảo toàn khối lượng và phương trình hoá học",
+   "scenario": "Thưa thầy/cô, em đang đọc phần định luật bảo toàn khối lượng nhưng chưa hiểu tại sao khối lượng các chất lại không thay đổi ạ.",
+   "question": "Theo nội dung bài học, nguyên nhân nào dẫn đến việc tổng khối lượng các chất trước và sau phản ứng hóa học được giữ nguyên?",
+   "expected_points": [
+    "Trong phản ứng hóa học, chỉ có liên kết giữa các nguyên tử thay đổi",
+    "Số lượng nguyên tử mỗi nguyên tố được giữ nguyên"
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Định luật bảo toàn khối lượng và phương trình hoá học",
+   "latency_ms": 29.8,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": true,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 1.0
+  },
+  {
+   "subject": "khtn",
+   "intent": "practice",
+   "work_name": "Định luật bảo toàn khối lượng và phương trình hoá học",
+   "scenario": "Em đang làm bài tập về phương trình hóa học mà cứ bị quên mất các bước thực hiện, thầy/cô hướng dẫn em với.",
+   "question": "Để lập một phương trình hóa học hoàn chỉnh, chúng ta cần thực hiện các bước nào?",
+   "expected_points": [
+    "Viết sơ đồ phản ứng",
+    "Cân bằng số nguyên tử mỗi nguyên tố ở hai vế",
+    "Viết phương trình hóa học hoàn chỉnh"
+   ],
+   "served_tier": "lesson_practice",
+   "served_work": "Định luật bảo toàn khối lượng và phương trình hoá học",
+   "latency_ms": 44.5,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 0,
+   "intent_ok": true,
+   "hallucination": true,
+   "cruft_real": false,
+   "score": 0.0
+  },
+  {
+   "subject": "khtn",
+   "intent": "explain",
+   "work_name": "Định luật bảo toàn khối lượng và phương trình hoá học",
+   "scenario": "Em có một bài toán thế này: đốt cháy 6g carbon trong 16g oxygen thì thu được 22g carbon dioxide, liệu có đúng với định luật không ạ?",
+   "question": "Dựa vào ví dụ về phản ứng giữa carbon và oxygen, hãy chứng minh tổng khối lượng các chất tham gia bằng tổng khối lượng sản phẩm.",
+   "expected_points": [
+    "Tổng khối lượng trước phản ứng là 6 + 16 = 22g",
+    "Tổng khối lượng sau phản ứng là 22g",
+    "Khối lượng trước và sau phản ứng bằng nhau, thỏa mãn định luật bảo toàn khối lượng"
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Định luật bảo toàn khối lượng và phương trình hoá học",
+   "latency_ms": 44.0,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": true,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 1.0
+  },
+  {
+   "subject": "khtn",
+   "intent": "recite",
+   "work_name": "Định luật bảo toàn khối lượng và phương trình hoá học",
+   "scenario": "Cô ơi, phương trình hóa học là gì vậy ạ, em thấy nó cứ ngắn gọn thế nào ấy.",
+   "question": "Phương trình hóa học được dùng để làm gì và nó bao gồm những thành phần nào?",
+   "expected_points": [
+    "Là cách biểu diễn ngắn gọn một phản ứng hóa học",
+    "Bao gồm công thức hóa học của các chất tham gia và sản phẩm"
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Định luật bảo toàn khối lượng và phương trình hoá học",
+   "latency_ms": 29.9,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": false,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 0.85
+  },
+  {
+   "subject": "khtn",
+   "intent": "practice",
+   "work_name": "Định luật bảo toàn khối lượng và phương trình hoá học",
+   "scenario": "Em đang thử lập phương trình cho phản ứng tạo thành nước từ hydrogen và oxygen nhưng chưa biết cân bằng thế nào cho đúng.",
+   "question": "Hãy hoàn thành việc cân bằng sơ đồ phản ứng: H2 + O2 -> H2O.",
+   "expected_points": [
+    "Phương trình hoàn chỉnh là: 2H2 + O2 -> 2H2O",
+    "Số nguyên tử của mỗi nguyên tố ở vế trước và vế sau phải bằng nhau"
+   ],
+   "served_tier": "lesson_practice",
+   "served_work": "Định luật bảo toàn khối lượng và phương trình hoá học",
+   "latency_ms": 40.9,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 0,
+   "intent_ok": true,
+   "hallucination": true,
+   "cruft_real": false,
+   "score": 0.0
+  },
+  {
+   "subject": "khtn",
+   "intent": "recite",
+   "work_name": "Định luật bảo toàn khối lượng và phương trình hoá học",
+   "scenario": "Em muốn học thuộc công thức tính khối lượng trong phản ứng để làm bài tập nhanh hơn ạ.",
+   "question": "Công thức tổng quát để biểu diễn mối quan hệ giữa khối lượng các chất (m1, m2, m3, m4...) trong một phản ứng là gì?",
+   "expected_points": [
+    "m1 + m2 = m3 + m4 + ...",
+    "Tổng khối lượng các chất sản phẩm bằng tổng khối lượng các chất tham gia phản ứng"
+   ],
+   "served_tier": "lesson_practice",
+   "served_work": "Định luật bảo toàn khối lượng và phương trình hoá học",
+   "latency_ms": 41.3,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": false,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 0.85
+  },
+  {
+   "subject": "khtn",
+   "intent": "explain",
+   "work_name": "Mol và tỉ khối của chất khí",
+   "scenario": "Thưa thầy/cô, em đang đọc sách mà không hiểu tại sao người ta lại dùng khái niệm 'mol' thay vì đếm trực tiếp các hạt ạ?",
+   "question": "Tại sao các nhà khoa học lại sử dụng khái niệm mol để quy đổi số lượng hạt thay vì đếm trực tiếp?",
+   "expected_points": [
+    "Vì các hạt nguyên tử, phân tử có kích thước cực kỳ nhỏ bé",
+    "Không thể đếm trực tiếp được",
+    "Dùng mol để quy đổi số lượng hạt sang một khối lượng có thể cân đo được"
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Mol và tỉ khối của chất khí",
+   "latency_ms": 39.6,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": true,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 1.0
+  },
+  {
+   "subject": "khtn",
+   "intent": "explain",
+   "work_name": "Mol và tỉ khối của chất khí",
+   "scenario": "Em vừa làm xong bài tập về khối lượng mol, nhưng em vẫn chưa rõ sự khác nhau giữa khối lượng nguyên tử và khối lượng mol là gì ạ?",
+   "question": "Khối lượng mol (M) có mối liên hệ như thế nào với khối lượng nguyên tử hoặc phân tử?",
+   "expected_points": [
+    "Khối lượng mol có cùng trị số với khối lượng nguyên tử hoặc phân tử",
+    "Đơn vị của khối lượng mol là g/mol"
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Mol và tỉ khối của chất khí",
+   "latency_ms": 33.9,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": true,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 1.0
+  },
+  {
+   "subject": "khtn",
+   "intent": "explain",
+   "work_name": "Mol và tỉ khối của chất khí",
+   "scenario": "Trong phòng thí nghiệm, em thấy một bình chứa khí, em muốn biết khí đó nặng hay nhẹ hơn khí khác thì phải làm sao?",
+   "question": "Tỉ khối của chất khí giúp chúng ta biết được điều gì và ứng dụng để dự đoán gì?",
+   "expected_points": [
+    "Cho biết sự so sánh về độ nặng hay nhẹ giữa hai chất khí với nhau",
+    "Dự đoán hướng di chuyển của chất khí (khí nhẹ bay lên, khí nặng chìm xuống) dựa trên sự chênh lệch khối lượng mol"
+   ],
+   "served_tier": "lesson_practice",
+   "served_work": "Mol và tỉ khối của chất khí",
+   "latency_ms": 37.3,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": false,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 0.85
+  },
+  {
+   "subject": "khtn",
+   "intent": "recite",
+   "work_name": "Mol và tỉ khối của chất khí",
+   "scenario": "Cô ơi, số Avogadro là gì mà nghe có vẻ quan trọng thế ạ, nó dùng để làm gì vậy cô?",
+   "question": "Số Avogadro (N) có giá trị là bao nhiêu và đóng vai trò gì?",
+   "expected_points": [
+    "Giá trị xấp xỉ 6,022 × 10^23",
+    "Là cầu nối giữa thế giới vi mô và vĩ mô"
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Mol và tỉ khối của chất khí",
+   "latency_ms": 42.8,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": false,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 0.85
+  },
+  {
+   "subject": "khtn",
+   "intent": "recite",
+   "work_name": "Mol và tỉ khối của chất khí",
+   "scenario": "Em đang tính toán thể tích khí ở điều kiện chuẩn nhưng cứ hay quên con số cụ thể, cô nhắc lại giúp em với.",
+   "question": "Ở điều kiện chuẩn (25°C, 1 bar), 1 mol bất kỳ chất khí nào cũng chiếm thể tích là bao nhiêu?",
+   "expected_points": [
+    "Ở điều kiện chuẩn (đkc: 25°C, 1 bar)",
+    "1 mol bất kỳ chất khí nào cũng chiếm thể tích là 24,79 lít"
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Mol và tỉ khối của chất khí",
+   "latency_ms": 41.1,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": false,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 0.85
+  },
+  {
+   "subject": "khtn",
+   "intent": "practice",
+   "work_name": "Mol và tỉ khối của chất khí",
+   "scenario": "Thầy ơi, thầy cho em xin một bài tập về tính toán thể tích và khối lượng chất khí để em luyện tập thêm được không ạ?",
+   "question": "Hãy nêu các công thức để tính khối lượng (m) và thể tích (V) của một lượng chất khí khi biết số mol (n)?",
+   "expected_points": [
+    "Tính khối lượng: m = n × M (trong đó n là số mol, M là khối lượng mol)",
+    "Tính thể tích ở đkc: V = n × 24,79 (trong đó n là số mol)"
+   ],
+   "served_tier": "lesson_practice",
+   "served_work": "Mol và tỉ khối của chất khí",
+   "latency_ms": 48.0,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": true,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 1.0
+  },
+  {
+   "subject": "khtn",
+   "intent": "explain",
+   "work_name": "Tính theo phương trình hoá học",
+   "scenario": "Thầy ơi, em đang đọc bài mà không hiểu rõ 'tính theo phương trình hóa học' thực chất là làm gì ạ?",
+   "question": "Em hãy cho biết khái niệm tính theo phương trình hóa học là gì?",
+   "expected_points": [
+    "Sử dụng tỉ lệ các chất trong phương trình hóa học đã cân bằng",
+    "Để tính toán khối lượng hoặc thể tích của một hoặc nhiều chất tham gia hoặc sản phẩm",
+    "Dựa trên định luật bảo toàn khối lượng và mối quan hệ số mol giữa các chất"
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Tính theo phương trình hoá học",
+   "latency_ms": 42.8,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": true,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 1.0
+  },
+  {
+   "subject": "khtn",
+   "intent": "explain",
+   "work_name": "Tính theo phương trình hoá học",
+   "scenario": "Trong khi làm thí nghiệm, em thấy có chất không phản ứng hết, vậy làm sao để biết chất nào là chất quyết định lượng sản phẩm ạ?",
+   "question": "Dựa vào đâu để xác định chất dư và chất hết trong một phản ứng hóa học?",
+   "expected_points": [
+    "Dựa vào tỉ lệ số mol giữa các chất so với hệ số trong phương trình",
+    "Chất hết sẽ quyết định lượng sản phẩm tạo thành"
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Tính theo phương trình hoá học",
+   "latency_ms": 28.2,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": true,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 1.0
+  },
+  {
+   "subject": "khtn",
+   "intent": "explain",
+   "work_name": "Tính theo phương trình hoá học",
+   "scenario": "Em chưa hiểu rõ lắm về công thức tính thể tích khí ở điều kiện chuẩn, thầy giải thích giúp em với.",
+   "question": "Thể tích của 1 mol khí ở điều kiện chuẩn (25°C, 1 bar) là bao nhiêu và công thức tính là gì?",
+   "expected_points": [
+    "Thể tích của 1 mol khí ở điều kiện chuẩn là 24,79 lít",
+    "Công thức tính thể tích: V = n * 24,79"
+   ],
+   "served_tier": "lesson_practice",
+   "served_work": "Tính theo phương trình hoá học",
+   "latency_ms": 29.9,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": false,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 0.85
+  },
+  {
+   "subject": "khtn",
+   "intent": "explain",
+   "work_name": "Tính theo phương trình hoá học",
+   "scenario": "Em làm bài tập nhưng tính ra kết quả thực tế thu được lại thấp hơn kết quả tính theo lý thuyết, có phải em dùng sai công thức hiệu suất không?",
+   "question": "Hiệu suất phản ứng là gì và có công thức tính như thế nào?",
+   "expected_points": [
+    "Hiệu suất là tỉ lệ phần trăm giữa lượng chất thực tế thu được so với lượng lý thuyết",
+    "Công thức: H = (Lượng thực tế / Lượng lý thuyết) * 100% hoặc H = (Lượng thực tế / Lượng tham gia) * 100%"
+   ],
+   "served_tier": "lesson_practice",
+   "served_work": "Tính theo phương trình hoá học",
+   "latency_ms": 47.2,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": false,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 0.85
+  },
+  {
+   "subject": "khtn",
+   "intent": "practice",
+   "work_name": "Tính theo phương trình hoá học",
+   "scenario": "Thầy ơi, em muốn luyện tập thêm các dạng bài tập tính toán liên quan đến khối lượng mol và số mol, thầy cho em bài tập nhé!",
+   "question": "Để tính được số mol (n) khi biết khối lượng (m) và khối lượng mol (M), em dùng công thức nào?",
+   "expected_points": [
+    "Công thức: n = m / M",
+    "M là khối lượng của 1 mol chất"
+   ],
+   "served_tier": "lesson_practice",
+   "served_work": "Tính theo phương trình hoá học",
+   "latency_ms": 47.9,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": true,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 1.0
+  },
+  {
+   "subject": "khtn",
+   "intent": "explain",
+   "work_name": "Tính theo phương trình hoá học",
+   "scenario": "Em đang làm bài tập tính toán mà bị rối, không biết khi nào thì phải dùng số mol của chất hết để tính sản phẩm.",
+   "question": "Khi tính toán về lượng sản phẩm hoặc lượng chất tham gia, ta phải dựa vào đâu?",
+   "expected_points": [
+    "Mọi tính toán về lượng sản phẩm hoặc lượng chất tham gia đều phải dựa trên số mol của chất đã phản ứng hết"
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Tính theo phương trình hoá học",
+   "latency_ms": 35.0,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": true,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 1.0
+  },
+  {
+   "subject": "khtn",
+   "intent": "explain",
+   "work_name": "Nồng độ dung dịch",
+   "scenario": "Thưa thầy/cô, em nghe nói nồng độ dùng để đo độ đậm đặc của dung dịch, nhưng em chưa phân biệt được nồng độ phần trăm và nồng độ mol khác nhau thế nào ạ?",
+   "question": "Nồng độ phần trăm (C%) và nồng độ mol (CM) khác nhau về cách thể hiện lượng chất tan như thế nào?",
+   "expected_points": [
+    "Nồng độ phần trăm (C%) thể hiện khối lượng chất tan trong 100g dung dịch.",
+    "Nồng độ mol (CM) thể hiện số mol chất tan trong 1 lít dung dịch."
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Nồng độ dung dịch",
+   "latency_ms": 48.7,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": true,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 1.0
+  },
+  {
+   "subject": "khtn",
+   "intent": "explain",
+   "work_name": "Nồng độ dung dịch",
+   "scenario": "Em đang làm thí nghiệm thì thấy khi đun nóng nước, chất rắn hòa tan nhanh hơn, không biết điều này có liên quan gì đến độ tan không ạ?",
+   "question": "Nhiệt độ ảnh hưởng như thế nào đến độ tan của chất rắn?",
+   "expected_points": [
+    "Độ tan của chất rắn thường tăng khi nhiệt độ tăng."
+   ],
+   "served_tier": "lesson_practice",
+   "served_work": "Nồng độ dung dịch",
+   "latency_ms": 45.5,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 0,
+   "intent_ok": false,
+   "hallucination": true,
+   "cruft_real": false,
+   "score": 0.0
+  },
+  {
+   "subject": "khtn",
+   "intent": "explain",
+   "work_name": "Nồng độ dung dịch",
+   "scenario": "Cô ơi, em muốn pha một cốc nước chanh sao cho đúng tỉ lệ ngon nhất thì phải dựa vào khái niệm nào trong bài học ạ?",
+   "question": "Việc hiểu rõ nồng độ giúp ích gì trong các ứng dụng thực tế như pha nước chanh hay nước muối sinh lý?",
+   "expected_points": [
+    "Giúp định lượng chính xác độ 'đậm đặc' hay 'loãng' thay vì dùng cảm giác.",
+    "Giúp pha chế đúng tỉ lệ trong đời sống."
+   ],
+   "served_tier": "lesson_practice",
+   "served_work": "Nồng độ dung dịch",
+   "latency_ms": 29.1,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 0,
+   "intent_ok": false,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 0.25
+  },
+  {
+   "subject": "khtn",
+   "intent": "explain",
+   "work_name": "Nồng độ dung dịch",
+   "scenario": "Em chưa hiểu rõ lắm, nếu em muốn tính nồng độ mol thì em phải dùng đơn vị thể tích là gì cho đúng ạ?",
+   "question": "Trong công thức nồng độ mol (CM), thể tích dung dịch (V) được tính bằng đơn vị nào?",
+   "expected_points": [
+    "Thể tích dung dịch tính bằng Lít (hoặc dm3)."
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Nồng độ dung dịch",
+   "latency_ms": 33.5,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": true,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 1.0
+  },
+  {
+   "subject": "khtn",
+   "intent": "practice",
+   "work_name": "Nồng độ dung dịch",
+   "scenario": "Thầy cho em xin một bài tập để em luyện tập cách tính nồng độ phần trăm với ạ!",
+   "question": "Hãy nêu công thức tính nồng độ phần trăm (C%) và các thành phần trong công thức đó?",
+   "expected_points": [
+    "C% = (m_ct / m_dd) * 100%",
+    "m_ct là khối lượng chất tan, m_dd là khối lượng dung dịch."
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Nồng độ dung dịch",
+   "latency_ms": 39.1,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": false,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 0.85
+  },
+  {
+   "subject": "khtn",
+   "intent": "recite",
+   "work_name": "Nồng độ dung dịch",
+   "scenario": "Em cần học thuộc nhanh các định nghĩa để chuẩn bị kiểm tra, thầy nhắc lại giúp em độ tan là gì được không?",
+   "question": "Độ tan (S) của một chất được định nghĩa như thế nào?",
+   "expected_points": [
+    "Độ tan là số gam chất đó hòa tan tối đa trong 100g nước ở một nhiệt độ xác định."
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Nồng độ dung dịch",
+   "latency_ms": 46.3,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": false,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 0.85
+  },
+  {
+   "subject": "khtn",
+   "intent": "explain",
+   "work_name": "Tốc độ phản ứng và chất xúc tác",
+   "scenario": "Thưa thầy/cô, em nghe nói có những phản ứng xảy ra rất nhanh như cháy, nhưng cũng có phản ứng cực kỳ chậm như việc sắt bị gỉ, điều này có phải là do tốc độ phản ứng khác nhau không ạ?",
+   "question": "Tốc độ phản ứng là gì và tại sao các phản ứng lại có sự khác nhau về thời gian diễn ra?",
+   "expected_points": [
+    "Tốc độ phản ứng là đại lượng đặc trưng cho mức độ nhanh hay chậm của một phản ứng hóa học.",
+    "Các phản ứng khác nhau có tốc độ khác nhau (có phản ứng tức thời như cháy, có phản ứng rất chậm như gỉ sắt)."
+   ],
+   "served_tier": "lesson_practice",
+   "served_work": "Tốc độ phản ứng và chất xúc tác",
+   "latency_ms": 33.4,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": false,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 0.85
+  },
+  {
+   "subject": "khtn",
+   "intent": "explain",
+   "work_name": "Tốc độ phản ứng và chất xúc tác",
+   "scenario": "Em đang làm thí nghiệm thì thấy khi tăng nhiệt độ, phản ứng xảy ra nhanh hơn hẳn, em chưa hiểu rõ cơ chế tại sao nhiệt độ lại ảnh hưởng được như vậy ạ?",
+   "question": "Khi tăng nhiệt độ, các hạt thay đổi như thế nào để làm tăng tốc độ phản ứng?",
+   "expected_points": [
+    "Khi tăng nhiệt độ, các hạt chuyển động nhanh hơn và có năng lượng lớn hơn.",
+    "Làm tăng số lượng và cường độ các va chạm có hiệu quả."
+   ],
+   "served_tier": "lesson_practice",
+   "served_work": "Tốc độ phản ứng và chất xúc tác",
+   "latency_ms": 34.8,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": false,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 0.85
+  },
+  {
+   "subject": "khtn",
+   "intent": "explain",
+   "work_name": "Tốc độ phản ứng và chất xúc tác",
+   "scenario": "Mẹ em bảo khi nấu ăn, nếu dùng nước nóng thì thức ăn sẽ chín nhanh hơn, điều này có liên quan gì đến kiến thức về tốc độ phản ứng không ạ?",
+   "question": "Việc sử dụng nhiệt độ cao để nấu chín thức ăn nhanh hơn là ứng dụng của yếu tố nào trong việc điều khiển tốc độ phản ứng?",
+   "expected_points": [
+    "Sử dụng nhiệt độ để điều khiển tốc độ phản ứng theo ý muốn.",
+    "Tăng nhiệt độ giúp phản ứng xảy ra nhanh hơn."
+   ],
+   "served_tier": "lesson_practice",
+   "served_work": "Tốc độ phản ứng và chất xúc tác",
+   "latency_ms": 35.8,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 0,
+   "intent_ok": false,
+   "hallucination": true,
+   "cruft_real": false,
+   "score": 0.0
+  },
+  {
+   "subject": "khtn",
+   "intent": "explain",
+   "work_name": "Tốc độ phản ứng và chất xúc tác",
+   "scenario": "Em thấy trong sách có nhắc đến một loại chất giúp phản ứng nhanh lên nhưng sau đó nó vẫn giữ nguyên bản chất, đó là chất gì vậy ạ?",
+   "question": "Chất xúc tác là gì và đặc điểm của nó sau khi phản ứng kết thúc như thế nào?",
+   "expected_points": [
+    "Chất xúc tác là chất làm tăng tốc độ phản ứng.",
+    "Không bị tiêu hao hay thay đổi về bản chất sau khi phản ứng kết thúc."
+   ],
+   "served_tier": "lesson_card",
+   "served_work": "Tốc độ phản ứng và chất xúc tác",
+   "latency_ms": 40.7,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": true,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 1.0
+  },
+  {
+   "subject": "khtn",
+   "intent": "practice",
+   "work_name": "Tốc độ phản ứng và chất xúc tác",
+   "scenario": "Em đang học về diện tích bề mặt tiếp xúc, em muốn thử làm bài tập liên quan đến phần này để nắm chắc hơn, thầy/cô cho em xin bài tập được không?",
+   "question": "Hãy cho biết đối với chất rắn, việc chia nhỏ hoặc nghiền mịn sẽ ảnh hưởng thế nào đến tốc độ phản ứng?",
+   "expected_points": [
+    "Khi chia nhỏ hoặc nghiền mịn, diện tích tiếp xúc giữa các chất tăng lên.",
+    "Giúp các chất dễ dàng va chạm và phản ứng nhanh hơn."
+   ],
+   "served_tier": "lesson_practice",
+   "served_work": "Tốc độ phản ứng và chất xúc tác",
+   "latency_ms": 30.1,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 2,
+   "intent_ok": true,
+   "hallucination": false,
+   "cruft_real": false,
+   "score": 1.0
+  },
+  {
+   "subject": "khtn",
+   "intent": "explain",
+   "work_name": "Tốc độ phản ứng và chất xúc tác",
+   "scenario": "Em chưa hiểu lắm về nồng độ chất phản ứng, tại sao khi nồng độ tăng thì tốc độ phản ứng lại tăng lên được ạ?",
+   "question": "Nồng độ chất phản ứng ảnh hưởng thế nào đến số lượng va chạm giữa các hạt?",
+   "expected_points": [
+    "Khi nồng độ tăng, số lượng hạt trong một đơn vị thể tích tăng lên.",
+    "Dẫn đến số lượng va chạm giữa các hạt tăng, làm tốc độ phản ứng tăng."
+   ],
+   "served_tier": "lesson_practice",
+   "served_work": "Tốc độ phản ứng và chất xúc tác",
+   "latency_ms": 28.2,
+   "error": false,
+   "anchored_ok": true,
+   "knowledge_correct": 0,
+   "intent_ok": false,
+   "hallucination": true,
+   "cruft_real": false,
+   "score": 0.0
+  }
+ ]
+}
