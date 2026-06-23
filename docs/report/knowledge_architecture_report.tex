@@ -1,0 +1,328 @@
+% Knowledge PTalk — Báo cáo kiến trúc tri thức, độ phủ & phương pháp định lượng
+% Compile: xelatex knowledge_architecture_report.tex  (chạy 2 lần cho mục lục/tham chiếu)
+% Cần: TeX Live + tikz + pgfplots + fontspec (DejaVu fonts). Tiếng Việt qua XeTeX/fontspec.
+\documentclass[11pt,a4paper]{article}
+
+\usepackage{fontspec}
+\setmainfont{DejaVu Serif}
+\setsansfont{DejaVu Sans}
+\setmonofont{DejaVu Sans Mono}[Scale=0.9]
+
+\usepackage[margin=2.2cm]{geometry}
+\usepackage{tikz}
+\usetikzlibrary{arrows.meta,positioning,shapes.geometric,fit,backgrounds,calc}
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.16}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{xcolor}
+\usepackage{titlesec}
+\usepackage[hidelinks]{hyperref}
+\usepackage{enumitem}
+\setlist{nosep,leftmargin=1.4em}
+
+\definecolor{cprim}{HTML}{2563EB}
+\definecolor{cgood}{HTML}{059669}
+\definecolor{cwarn}{HTML}{D97706}
+\definecolor{cgray}{HTML}{64748B}
+\definecolor{cbg}{HTML}{F1F5F9}
+\definecolor{cdanger}{HTML}{DC2626}
+
+\titleformat{\section}{\Large\bfseries\sffamily\color{cprim}}{\thesection}{0.6em}{}
+\titleformat{\subsection}{\large\bfseries\sffamily}{\thesubsection}{0.5em}{}
+
+\tikzset{
+  box/.style={rounded corners=2pt,draw=cgray,fill=cbg,inner sep=5pt,align=center,font=\sffamily\small},
+  svc/.style={rounded corners=2pt,draw=cprim,fill=cprim!8,inner sep=5pt,align=center,font=\sffamily\small},
+  data/.style={cylinder,shape border rotate=90,aspect=0.25,draw=cgood,fill=cgood!8,inner sep=4pt,align=center,font=\sffamily\footnotesize},
+  flow/.style={-{Stealth[length=2.4mm]},draw=cgray,thick},
+}
+
+\newcommand{\metric}[1]{{\sffamily\bfseries\color{cprim}#1}}
+
+\begin{document}
+
+\begin{titlepage}
+\centering
+\vspace*{2.5cm}
+{\sffamily\Huge\bfseries\color{cprim} Knowledge PTalk}\\[6pt]
+{\sffamily\LARGE Kiến trúc tri thức · Độ phủ · Phương pháp định lượng}\\[18pt]
+{\large Báo cáo kỹ thuật — Lớp tri thức đồng hành học bài (RAG companion)}\\[10pt]
+{\color{cgray}\large 2026-06-23}\\[1.4cm]
+\begin{tikzpicture}
+\node[svc,minimum width=3.4cm,minimum height=1cm] (d) {Thiết bị / Loa AI\\(STT $\to$ \dots $\to$ TTS)};
+\node[box,right=1.1cm of d,minimum width=3.0cm,minimum height=1cm] (p) {App thoại\\ptalk\_v1/v2/eldercare};
+\node[svc,right=1.1cm of p,minimum width=2.6cm,minimum height=1cm] (r) {RAG\\:8888};
+\draw[flow] (d)--(p); \draw[flow] (p)--(r); \draw[flow,dashed] (r) to[bend left=30] (p);
+\end{tikzpicture}\\[1cm]
+{\color{cgray}\small 1.852 bài companion · 6 môn · lớp 4–9 · CTST/KNTT/CD\\ anchor 97.0\% · guard 98.1\% · rò rỉ nguồn 0 · P95 $<$370ms}
+\vfill
+\end{titlepage}
+
+\tableofcontents
+\newpage
+
+%==================================================================
+\section{Tóm tắt}
+PTalk là \textbf{bạn đồng hành học bài} (không phải hỏi--đáp mở): bám đúng bài/trang SGK học sinh
+đang học để \emph{giảng · gợi mở · luyện tập · đọc thuộc}, sạch nguồn, độ trễ thấp, và
+\emph{từ chối khi ra ngoài bài} thay vì đoán. Báo cáo này mô tả (i) kiến trúc tri thức hai lớp,
+(ii) cách hệ thống \textbf{hiểu ý định} trong câu hỏi, (iii) \textbf{độ phủ} hiện tại, và
+(iv) \textbf{phương pháp định lượng} dùng để kiểm chứng chất lượng trước khi đưa lên production.
+
+\begin{table}[h]\centering\small\sffamily
+\begin{tabular}{lll}
+\toprule
+\textbf{Chỉ số} & \textbf{Giá trị} & \textbf{Ghi chú}\\
+\midrule
+Bài companion (\texttt{:Lesson}) & \metric{1.852} & 6 môn, lớp 4--9 \\
+Lớp nền (\texttt{:KnowledgeChunk}) & \metric{25.259} & 17.078 production-ready \\
+Anchor (đường thiết bị) & \metric{97.0\%} & backtest 81 quyển, $\sim$40k ca \\
+Guard (từ chối ngoài bài) & \metric{98.1\%} & \\
+Rò rỉ nguồn thật & \metric{0} & ``204 cruft'' = false-positive \\
+Độ trễ P95 & \metric{193--368 ms} & serve path Gemma-free \\
+\bottomrule
+\end{tabular}
+\caption{Bảng số liệu tổng quan (đo thực, 2026-06).}
+\end{table}
+
+%==================================================================
+\section{Kiến trúc hạ tầng}
+RAG là \textbf{microservice nội bộ} (cổng 8888), \emph{không} expose trực tiếp ra ngoài: thiết bị đi qua
+nginx-gateway tới các app thoại (\texttt{ptalk\_v1/v2/eldercare}), app thoại mới gọi RAG nội bộ.
+
+\begin{figure}[h]\centering
+\resizebox{\textwidth}{!}{%
+\begin{tikzpicture}[node distance=0.9cm and 1.5cm]
+\node[svc,minimum width=2.5cm] (dev) {Thiết bị\\(ESP32 / app)};
+\node[box,right=of dev,minimum width=2.3cm] (ng) {nginx\\gateway};
+\node[box,right=of ng,minimum width=2.6cm] (pt) {ptalk\_v1/v2/\\eldercare\\:8001/2/3};
+\node[svc,right=of pt,minimum width=2.4cm] (rag) {\textbf{RAG}\\rag\_server\\:8888};
+\node[data,below=1.2cm of rag,xshift=-3.2cm] (neo) {Neo4j edu\\:7688};
+\node[data,right=0.7cm of neo] (bge) {BGE-m3\\(in-proc)};
+\node[data,right=0.7cm of bge] (qd) {Qdrant\\:6333};
+\node[box,right=0.7cm of qd,fill=cwarn!10,draw=cwarn] (gm) {Gemma :8080\\(build/moderation\\— KHÔNG serve)};
+\draw[flow] (dev)--(ng); \draw[flow] (ng)--(pt); \draw[flow] (pt)--(rag);
+\draw[flow,dashed] (rag) to[bend left=25] node[above,font=\scriptsize\sffamily]{context} (pt);
+\draw[flow] (rag)--(neo); \draw[flow] (rag)--(bge); \draw[flow] (rag)--(qd);
+\draw[flow,dashed,cwarn] (rag)--(gm);
+\node[box,above=0.5cm of pt,fill=white,draw=cgray,font=\scriptsize\sffamily] (dash) {Dashboard :4321 $\to$ /v2/moderation};
+\draw[flow,dotted] (dash)--(rag);
+\end{tikzpicture}%
+}
+\caption{Topology runtime (đối chiếu \texttt{docker ps}/\texttt{ss}/nginx). Serve path \textbf{Gemma-free};
+Gemma chỉ dùng lúc build/ingest + endpoint kiểm duyệt.}
+\end{figure}
+
+%==================================================================
+\section{Hai lớp tri thức}
+Tri thức tổ chức 2 lớp: \textbf{lớp nền} (RAG rộng, dùng cho duyệt/phân tích \& fallback) và
+\textbf{lớp companion} (\texttt{:Lesson} — bộ não đồng hành mà chatbot dùng chính).
+
+\begin{figure}[h]\centering
+\begin{tikzpicture}[node distance=0.55cm and 1.1cm]
+% companion layer
+\node[svc,minimum width=2.6cm] (les) {\texttt{:Lesson}\\(bài học)};
+\node[box,above right=0.1cm and 1.3cm of les] (th) {KnowledgeChunk\\\footnotesize content\_type=theory\\\footnotesize (giảng, BGE-embed)};
+\node[box,right=1.3cm of les] (pr) {practice\_json\\\footnotesize (luyện có dẫn dắt)};
+\node[box,below right=0.1cm and 1.3cm of les] (rc) {LiteratureText\\\footnotesize (đọc thuộc)};
+\draw[flow] (les)-- node[above,font=\scriptsize\sffamily]{HAS\_THEORY} (th);
+\draw[flow] (les)-- node[above,font=\scriptsize\sffamily]{HAS\_PRACTICE} (pr);
+\draw[flow] (les)-- node[below,font=\scriptsize\sffamily]{HAS\_RECITE} (rc);
+\node[font=\sffamily\bfseries\color{cprim},above=0.1cm of th]{LỚP COMPANION (1.852)};
+% base layer
+\node[box,below=1.7cm of les,fill=cgood!6,draw=cgood,minimum width=2.6cm] (kc) {KnowledgeChunk\\\footnotesize 25.259};
+\node[box,right=1.3cm of kc,fill=cgood!6,draw=cgood] (cc) {Concept\\\footnotesize 3.405};
+\node[box,right=1.3cm of cc,fill=cgood!6,draw=cgood] (lw) {LiteraryWork\\\footnotesize 418};
+\draw[flow,cgood] (kc)-- node[above,font=\scriptsize\sffamily]{COVERS} (cc);
+\draw[flow,cgood] (kc)-- node[below,font=\scriptsize\sffamily]{ABOUT\_WORK} (lw.south west);
+\node[font=\sffamily\bfseries\color{cgood},left=0.2cm of kc,rotate=90,anchor=south]{LỚP NỀN};
+\end{tikzpicture}
+\caption{Hai lớp tri thức. Companion \texttt{:Lesson} là đơn vị đồng hành; lớp nền cấp dữ liệu \& fallback.}
+\end{figure}
+
+%==================================================================
+\section{Hệ thống ``hiểu ý định'' trong câu hỏi}
+\label{sec:intent}
+Câu hỏi được hiểu theo \textbf{nhiều tầng tín hiệu}, tất cả \emph{Gemma-free} ở đường serve (độ trễ
+$<$1ms cho phần định tuyến). Thông tin thiết bị (lớp, bộ sách, môn, \emph{bài/trang đang học}) là
+đầu vào hạng nhất.
+
+\begin{figure}[h]\centering
+\resizebox{\textwidth}{!}{%
+\begin{tikzpicture}[node distance=0.55cm,every node/.style={font=\sffamily\footnotesize}]
+\node[svc,minimum width=10cm] (q) {Query + user\_profile \{lớp, bộ sách, môn, tập, \textbf{current\_lesson}, trang\}};
+\node[box,below=of q,minimum width=10cm] (parse) {\textbf{parse\_structured\_query} — rút tín hiệu cấu trúc (bài\_no, trang, lớp, môn, bộ sách, tập) từ query + profile};
+\node[svc,below=of parse,minimum width=10cm,fill=cprim!12] (lc) {\textbf{query\_lesson\_card} (companion) — neo theo thứ tự ưu tiên};
+\node[box,below=0.35cm of lc,minimum width=10.6cm,fill=white] (anchor)
+ {(1) \texttt{current\_lesson} $\to$ (2) tên bài trong câu (\texttt{work\_name\_norm} CONTAINS) $\to$ (3) trang+tập $\to$ (4) content-vector (BGE cosine, gate $bs{\ge}0.50 \wedge (\Delta{\ge}0.04 \vee bs{\ge}0.60)$)};
+\node[box,below=of anchor,minimum width=4.7cm,xshift=-2.75cm] (intent) {\textbf{Phân loại ý định} (BGE embedding)\\recite / practice / explain\\(margin 0.035 so explain)};
+\node[box,below=of anchor,minimum width=4.7cm,xshift=2.75cm] (regex) {Regex bổ trợ\\\texttt{\_is\_recite} · \texttt{\_PRACTICE\_RE}};
+\node[box,below=0.7cm of intent,minimum width=10.6cm,xshift=2.75cm] (tier) {Nếu không neo $\to$ Tier-A (bài/trang exact) $\to$ Tier-A concept $\to$ router rule-based $\to$ vector fallback};
+\node[box,right=0.5cm of lc,fill=cdanger!8,draw=cdanger,minimum width=2.3cm,font=\sffamily\scriptsize] (ref) {Không neo \&\\ngoài bài $\to$\\\textbf{TỪ CHỐI}};
+\draw[flow] (q)--(parse); \draw[flow] (parse)--(lc); \draw[flow] (anchor)--(intent); \draw[flow] (anchor)--(regex);
+\draw[flow] (intent)--(tier); \draw[flow] (regex)--(tier);
+\end{tikzpicture}%
+}
+\caption{Pipeline hiểu ý định + định tuyến (\texttt{retrieve()}). ``Biết người dùng muốn gì'' = kết hợp
+\textbf{ngữ cảnh thiết bị} (current\_lesson/trang) + \textbf{phân loại ý định bằng embedding}
+(giảng/đọc/luyện) + \textbf{tín hiệu cấu trúc} (bài/trang/tập), neo về đúng \texttt{:Lesson}.}
+\end{figure}
+
+\textbf{Ba câu hỏi cốt lõi mà hệ trả lời:}
+\begin{itemize}
+\item \emph{``Học sinh đang ở bài nào?''} — từ \texttt{current\_lesson}/trang (thiết bị gửi) hoặc tên bài
+nêu trong câu; nếu mơ hồ thì dùng content-vector (mô tả nội dung $\to$ ra bài), có \emph{ngưỡng} chặn đoán bừa.
+\item \emph{``Muốn làm gì với bài đó?''} — \emph{giảng} (explain), \emph{đọc thuộc} (recite), hay \emph{luyện tập}
+(practice) — phân loại bằng độ gần ngữ nghĩa (BGE) + regex, không cần LLM.
+\item \emph{``Có nằm ngoài phạm vi không?''} — nếu không neo được bài và không đủ tín hiệu, hệ
+\textbf{từ chối} (guard) thay vì bịa.
+\end{itemize}
+
+%==================================================================
+\section{Độ phủ tri thức}
+\label{sec:coverage}
+
+\begin{figure}[h]\centering
+\begin{tikzpicture}
+\begin{axis}[
+  ybar, bar width=14pt, width=14cm, height=6cm,
+  ylabel={Số bài (\texttt{:Lesson})}, ymin=0, ymax=600,
+  symbolic x coords={KHTN,Toán,Lịch sử,Địa lí,GDCD,Ngữ văn},
+  xtick=data, nodes near coords, every node near coord/.append style={font=\footnotesize\sffamily},
+  tick label style={font=\small\sffamily}, ylabel style={font=\small\sffamily},
+  legend style={font=\footnotesize\sffamily,at={(0.98,0.97)},anchor=north east},
+  ybar legend,
+]
+\addplot[draw=cprim,fill=cprim!25] coordinates {(KHTN,542)(Toán,537)(Lịch sử,253)(Địa lí,246)(GDCD,147)(Ngữ văn,127)};
+\addplot[draw=cgood,fill=cgood!45] coordinates {(KHTN,523)(Toán,17)(Lịch sử,0)(Địa lí,0)(GDCD,0)(Ngữ văn,0)};
+\legend{Tổng bài, Đã enrich}
+\end{axis}
+\end{tikzpicture}
+\caption{Độ phủ companion theo môn (tổng \textbf{1.852} bài) và số bài đã \emph{enrich} theory (giàu hơn).
+KHTN gần trọn (523/542); Toán đang nâng theo schema v2; xã hội/văn dùng theory nền.}
+\end{figure}
+
+\begin{table}[h]\centering\small\sffamily
+\begin{tabular}{lrrl}
+\toprule
+\textbf{Môn} & \textbf{Bài} & \textbf{Enrich} & \textbf{Thành phần thẻ}\\
+\midrule
+KHTN     & 542 & 523 & giảng + luyện \\
+Toán     & 537 & 17  & giảng + luyện (+ phương pháp v2) \\
+Lịch sử  & 253 & 0   & giảng + luyện \\
+Địa lí   & 246 & 0   & giảng + luyện \\
+GDCD     & 147 & 0   & giảng + luyện \\
+Ngữ văn  & 127 & 0   & giảng + luyện + đọc thuộc (pilot) \\
+\midrule
+\textbf{Tổng} & \textbf{1.852} & \textbf{540} & 1.852 có giảng+luyện; 5 có đọc thuộc \\
+\bottomrule
+\end{tabular}
+\caption{Độ phủ chi tiết. Lớp nền bổ trợ: 25.259 chunk, 3.405 concept, 418 tác phẩm.}
+\end{table}
+
+%==================================================================
+\section{Phương pháp định lượng}
+\label{sec:quant}
+Mọi thay đổi đều \textbf{backtest-gated}. Có hai cấp đo:
+
+\subsection{Backtest neo \& guard (quy mô)}
+Mỗi quyển sinh $\sim$500 câu \emph{giọng học sinh thật} (Gemma) phủ các chiều
+\{current\_lesson, tên-bài, trang+tập, practice, recite, content-only\} + $\sim$15\% \emph{adversarial guard}
+(chitchat, trang ngoài sách, bẫy từ, lạc đề, bài-ngoài-sách). Chấm tự động:
+
+\begin{table}[h]\centering\small\sffamily
+\begin{tabular}{lll}
+\toprule
+\textbf{Metric} & \textbf{Ý nghĩa} & \textbf{Kết quả (81 quyển)}\\
+\midrule
+\texttt{anchor\_at\_1} & neo đúng bài (đường thiết bị) & \metric{97.0\%}\\
+\texttt{guard\_accuracy} & ngoài bài $\to$ từ chối đúng & \metric{98.1\%}\\
+\texttt{source\_cruft\_real} & rò rỉ ``vietjack/lời giải'' & \metric{0}\\
+\texttt{error\_count} & lỗi runtime & \metric{0}\\
+\texttt{latency P95} & độ trễ & \metric{193--368 ms}\\
+volume collision t1/t2 & nhầm tập 1/2 & \metric{0} (toan8: 96.4/98.8)\\
+\bottomrule
+\end{tabular}
+\caption{Metric backtest quy mô. ``204 cruft'' từng báo là \emph{false-positive} do keyword
+``giáo viên'' (từ vựng hợp lệ); verify Neo4j 1.852 chunk: rò rỉ nguồn thật = 0.}
+\end{table}
+
+\subsection{Backtest ``scenario kiến thức'' (chất lượng nội dung)}
+Khác cấp trên (chỉ đo neo), cấp này dùng \textbf{LLM-judge} chấm \emph{đúng kiến thức}: với mỗi bài,
+Gemma sinh kịch bản học tập grounded trên theory $\to$ companion trả lời $\to$ judge chấm
+\texttt{knowledge\_correct} (0--2 so với theory), \texttt{hallucination} (bịa ngoài theory),
+\texttt{intent\_ok}, \texttt{real\_cruft}.
+
+\begin{figure}[h]\centering
+\begin{tikzpicture}
+\begin{axis}[
+  ybar, bar width=20pt, width=12cm, height=5.6cm,
+  ylabel={Điểm tổng (0--1)}, ymin=0, ymax=1,
+  symbolic x coords={Ngữ văn,KHTN,Toán},
+  xtick=data, nodes near coords, every node near coord/.append style={font=\footnotesize\sffamily},
+  tick label style={font=\small\sffamily},
+  legend style={font=\footnotesize\sffamily,at={(0.5,-0.16)},anchor=north,legend columns=2},
+]
+\addplot[draw=cgray,fill=cgray!25] coordinates {(Ngữ văn,0.90)(KHTN,0.74)(Toán,0.59)};
+\addplot[draw=cgood,fill=cgood!45] coordinates {(Ngữ văn,0.90)(KHTN,0.81)(Toán,0.60)};
+\legend{Trước enrich, Sau enrich}
+\end{axis}
+\end{tikzpicture}
+\caption{Điểm scenario-kiến-thức theo môn. Văn vốn tốt (theory grounded). Enrich nâng KHOA HỌC rõ
+(KHTN $0.74{\to}0.81$); Toán cần schema v2 (ví-dụ-tự-tính làm tăng hallucination — đang tinh chỉnh).}
+\end{figure}
+
+\begin{figure}[h]\centering
+\begin{tikzpicture}
+\begin{axis}[
+  ybar, bar width=16pt, width=12cm, height=5.4cm,
+  ylabel={Giá trị}, ymin=0, ymax=100,
+  symbolic x coords={knowledge\_full(\%),hallucination(\%)},
+  xtick=data, nodes near coords, every node near coord/.append style={font=\footnotesize\sffamily},
+  tick label style={font=\small\sffamily},
+  legend style={font=\footnotesize\sffamily,at={(0.98,0.97)},anchor=north east},
+]
+\addplot[draw=cwarn,fill=cwarn!30] coordinates {(knowledge\_full(\%),75)(hallucination(\%),18.8)};
+\addplot[draw=cgood,fill=cgood!45] coordinates {(knowledge\_full(\%),83)(hallucination(\%),10.4)};
+\legend{Trước enrich (KHTN9), Sau enrich}
+\end{axis}
+\end{tikzpicture}
+\caption{Enrich KHTN (trước$\to$sau): \% trả lời \emph{đủ kiến thức} tăng (75$\to$83), \emph{hallucination}
+giảm (18.8$\to$10.4). Validate scale: khtn6 KNTT 0.785, khtn8 CTST 0.770 — recipe khoa học nhất quán.}
+\end{figure}
+
+\subsection{Refactor an toàn (parity)}
+Lõi RAG được tách monolith $\to$ \texttt{packages/} (knowledge\_core + retrieval + rag\_router) với
+\textbf{characterization test} + \textbf{parity} đối chứng thin-server vs monolith:
+
+\begin{table}[h]\centering\small\sffamily
+\begin{tabular}{lll}
+\toprule
+\textbf{Trường so khớp} & \textbf{Kết quả} & \\
+\midrule
+\texttt{intent.tier} & 144/144 & \metric{100\%}\\
+\texttt{intent.work\_name} & 144/144 & \metric{100\%}\\
+\texttt{context} (anchored) & 139/139 & \metric{100\%}\\
+unit tests (knowledge\_core) & 97 passed & golden snapshot \\
+\bottomrule
+\end{tabular}
+\caption{Behavior-equivalence: thin-server (từ \texttt{packages/}) giống monolith \textbf{byte-for-byte}.}
+\end{table}
+
+%==================================================================
+\section{Kết quả \& lộ trình}
+\textbf{Đã đạt:} companion 6 môn / 1.852 bài (đã promote prod, kèm fix chuẩn-hoá en-dash + endpoint
+kiểm duyệt); enrich KHOA HỌC toàn bộ (knowledge$\uparrow$, hallucination$\downarrow$, nhất quán);
+refactor thin-server (parity 100\%); Dashboard \emph{Lesson Card explorer} (\texttt{/kg-companion}).
+
+\textbf{Đang/sẽ làm:} (1) tinh chỉnh enrich \emph{Toán} (schema v2: phương-pháp thay ví-dụ-tự-tính,
+cấm bịa số) rồi scale; (2) làm giàu đọc-thuộc (recite) cho Văn; (3) deploy Dashboard companion view;
+(4) tích hợp client gửi đủ \texttt{current\_lesson}/trang+tập (điều kiện đạt anchor 97\%).
+
+\vspace{0.6cm}
+\begin{center}\small\color{cgray}\sffamily
+Số liệu đo thực 2026-06 trên Neo4j edu \& backtest 81 quyển. Mọi thay đổi backtest-gated, sạch nguồn (0 rò rỉ thật).
+\end{center}
+
+\end{document}
