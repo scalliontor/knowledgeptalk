@@ -1,16 +1,16 @@
-# Graph Report - Knowledgeforptalk  (2026-06-15)
+# Graph Report - Knowledgeforptalk  (2026-07-08)
 
 ## Corpus Check
-- 113 files · ~444,038 words
+- 280 files · ~736,258 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
-- 1002 nodes · 1254 edges · 130 communities (111 shown, 19 thin omitted)
-- Extraction: 91% EXTRACTED · 9% INFERRED · 0% AMBIGUOUS · INFERRED: 118 edges (avg confidence: 0.63)
+- 1824 nodes · 2395 edges · 200 communities (174 shown, 26 thin omitted)
+- Extraction: 94% EXTRACTED · 6% INFERRED · 0% AMBIGUOUS · INFERRED: 149 edges (avg confidence: 0.66)
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
-- Built from commit: `998a912b`
+- Built from commit: `d48e699e`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after code changes (no API cost).
 
@@ -67,6 +67,7 @@
 - [[_COMMUNITY_Community 54|Community 54]]
 - [[_COMMUNITY_Community 67|Community 67]]
 - [[_COMMUNITY_Community 68|Community 68]]
+- [[_COMMUNITY_Community 69|Community 69]]
 - [[_COMMUNITY_Community 75|Community 75]]
 - [[_COMMUNITY_Community 76|Community 76]]
 - [[_COMMUNITY_Community 77|Community 77]]
@@ -121,33 +122,99 @@
 - [[_COMMUNITY_Community 126|Community 126]]
 - [[_COMMUNITY_Community 127|Community 127]]
 - [[_COMMUNITY_Community 128|Community 128]]
+- [[_COMMUNITY_Community 130|Community 130]]
+- [[_COMMUNITY_Community 131|Community 131]]
+- [[_COMMUNITY_Community 132|Community 132]]
+- [[_COMMUNITY_Community 133|Community 133]]
+- [[_COMMUNITY_Community 134|Community 134]]
+- [[_COMMUNITY_Community 135|Community 135]]
+- [[_COMMUNITY_Community 136|Community 136]]
+- [[_COMMUNITY_Community 137|Community 137]]
+- [[_COMMUNITY_Community 138|Community 138]]
+- [[_COMMUNITY_Community 139|Community 139]]
+- [[_COMMUNITY_Community 140|Community 140]]
+- [[_COMMUNITY_Community 141|Community 141]]
+- [[_COMMUNITY_Community 142|Community 142]]
+- [[_COMMUNITY_Community 143|Community 143]]
+- [[_COMMUNITY_Community 144|Community 144]]
+- [[_COMMUNITY_Community 145|Community 145]]
+- [[_COMMUNITY_Community 146|Community 146]]
+- [[_COMMUNITY_Community 147|Community 147]]
+- [[_COMMUNITY_Community 148|Community 148]]
+- [[_COMMUNITY_Community 149|Community 149]]
+- [[_COMMUNITY_Community 150|Community 150]]
+- [[_COMMUNITY_Community 151|Community 151]]
+- [[_COMMUNITY_Community 152|Community 152]]
+- [[_COMMUNITY_Community 153|Community 153]]
+- [[_COMMUNITY_Community 154|Community 154]]
+- [[_COMMUNITY_Community 155|Community 155]]
+- [[_COMMUNITY_Community 156|Community 156]]
+- [[_COMMUNITY_Community 157|Community 157]]
+- [[_COMMUNITY_Community 158|Community 158]]
+- [[_COMMUNITY_Community 159|Community 159]]
+- [[_COMMUNITY_Community 160|Community 160]]
+- [[_COMMUNITY_Community 161|Community 161]]
+- [[_COMMUNITY_Community 162|Community 162]]
+- [[_COMMUNITY_Community 163|Community 163]]
+- [[_COMMUNITY_Community 164|Community 164]]
+- [[_COMMUNITY_Community 165|Community 165]]
+- [[_COMMUNITY_Community 166|Community 166]]
+- [[_COMMUNITY_Community 167|Community 167]]
+- [[_COMMUNITY_Community 168|Community 168]]
+- [[_COMMUNITY_Community 169|Community 169]]
+- [[_COMMUNITY_Community 170|Community 170]]
+- [[_COMMUNITY_Community 171|Community 171]]
+- [[_COMMUNITY_Community 172|Community 172]]
+- [[_COMMUNITY_Community 173|Community 173]]
+- [[_COMMUNITY_Community 174|Community 174]]
+- [[_COMMUNITY_Community 176|Community 176]]
+- [[_COMMUNITY_Community 177|Community 177]]
+- [[_COMMUNITY_Community 178|Community 178]]
+- [[_COMMUNITY_Community 179|Community 179]]
+- [[_COMMUNITY_Community 180|Community 180]]
+- [[_COMMUNITY_Community 181|Community 181]]
+- [[_COMMUNITY_Community 182|Community 182]]
+- [[_COMMUNITY_Community 183|Community 183]]
+- [[_COMMUNITY_Community 184|Community 184]]
+- [[_COMMUNITY_Community 185|Community 185]]
+- [[_COMMUNITY_Community 186|Community 186]]
+- [[_COMMUNITY_Community 187|Community 187]]
+- [[_COMMUNITY_Community 188|Community 188]]
+- [[_COMMUNITY_Community 189|Community 189]]
+- [[_COMMUNITY_Community 190|Community 190]]
+- [[_COMMUNITY_Community 191|Community 191]]
+- [[_COMMUNITY_Community 192|Community 192]]
+- [[_COMMUNITY_Community 193|Community 193]]
+- [[_COMMUNITY_Community 194|Community 194]]
+- [[_COMMUNITY_Community 195|Community 195]]
 
 ## God Nodes (most connected - your core abstractions)
 1. `MASTER PLAN — RAG Edu Multi-Subject` - 27 edges
 2. `RAGOrchestrator` - 23 edges
-3. `Chiến lược thử nghiệm & Evaluation` - 18 edges
-4. `QueryClassifier` - 15 edges
-5. `RetrievedItem` - 15 edges
-6. `GraphRetriever` - 15 edges
-7. `RetrievedItem` - 15 edges
-8. `RetrievedItem` - 14 edges
-9. `QueryClassifier` - 13 edges
-10. `QueryContext` - 13 edges
+3. `lesson_case()` - 19 edges
+4. `retrieve()` - 18 edges
+5. `Chiến lược thử nghiệm & Evaluation` - 18 edges
+6. `summarize_cases()` - 16 edges
+7. `lesson()` - 15 edges
+8. `QueryClassifier` - 15 edges
+9. `RetrievedItem` - 15 edges
+10. `GraphRetriever` - 15 edges
 
 ## Surprising Connections (you probably didn't know these)
+- `route_query()` --calls--> `call_gemma()`  [INFERRED]
+  packages/knowledge_core/routing.py → apps/companion_api/server.py
 - `Tier A structured + concept short-circuit` --implements--> `rag_server.py (live RAG, prod :8888)`  [INFERRED]
   docs/00_STATE.md → ARCHITECTURE.md
 - `loigiaihay KHTN 6 KNTT category page (c615)` --conceptually_related_to--> `loigiaihay.com (primary crawl source)`  [INFERRED]
   rag_edu/khtn6.html → old/1_khao_sat_nguon.md
-- `rag_edu requirements.txt` --conceptually_related_to--> `Pipeline Scrapy → JSONL → PostgreSQL + Qdrant`  [INFERRED]
-  rag_edu/requirements.txt → old/walkthrough.md
-- `Script-file + nohup launch method` --rationale_for--> `rag_server.py (live RAG, prod :8888)`  [EXTRACTED]
-  docs/RUNBOOK.md → ARCHITECTURE.md
-- `:KnowledgeChunk (doc-level retrieval unit)` --shares_data_with--> `Neo4j edu graph store`  [INFERRED]
-  docs/design/kg-schema-v3.md → ARCHITECTURE.md
+- `recite_from_full_document()` --calls--> `lines_payload()`  [INFERRED]
+  packages/retrieval/neo4j_queries.py → apps/companion_api/server.py
+- `recite_from_literature_text()` --calls--> `lines_payload()`  [INFERRED]
+  packages/retrieval/neo4j_queries.py → apps/companion_api/server.py
 
 ## Import Cycles
 - 1-file cycle: `rag_edu/src/api/main.py -> rag_edu/src/api/main.py`
+- 1-file cycle: `packages/backtest/__init__.py -> packages/backtest/__init__.py`
 
 ## Hyperedges (group relationships)
 - **3-layer decouple: Chunk—COVERS—Concept—PREREQ backbone** — design_kg_schema_v3_knowledgechunk, design_kg_schema_v3_concept_node, design_kg_schema_v3_prereq_dag, research_2026_06_03_graph_rag_companion_f1_decouple [EXTRACTED 0.90]
@@ -157,19 +224,19 @@
 - **Multi-subject ingestion flow (crawl → Postgres → Qdrant → Neo4j)** — old_walkthrough_pipeline_stack, rag_edu_data_sources_three_store_topology, old_1_khao_sat_nguon_loigiaihay_source, rag_edu_data_sources_neo4j_schema_v2 [INFERRED 0.75]
 - **LaTeX preservation + voice-text pipeline for math** — old_7_khao_sat_dac_thu_tung_mon_mathjax_loss, old_8_master_plan_preserve_mathjax, old_8_master_plan_latex_to_speech, old_7_khao_sat_dac_thu_tung_mon_voice_first_formula [INFERRED 0.85]
 
-## Communities (130 total, 19 thin omitted)
+## Communities (200 total, 26 thin omitted)
 
 ### Community 0 - "RAG Edu Retrieval Core"
 Cohesion: 0.06
-Nodes (37): ChatResponse, Enum, QueryClassifier, QueryContext, QueryContext, RetrievedItem, QdrantClient, RetrievedItem (+29 more)
+Nodes (42): ChatResponse, Enum, QueryClassifier, QueryContext, QueryContext, RetrievedItem, QdrantClient, RetrievedItem (+34 more)
 
 ### Community 1 - "rag_edu FastAPI Service & DB Init"
 Cohesion: 0.12
 Nodes (22): ChatRequest, lifespan(), retrieve_endpoint(), FastAPI, QdrantClient, init_qdrant(), insert_dummy_data(), load_jsonl_to_postgres_and_qdrant() (+14 more)
 
 ### Community 2 - "Graph Ingestion Crawler"
-Cohesion: 0.19
-Nodes (9): BaseModel, Extraction, GraphAssembler, Grounding, PassageSpan, Question, Tier 1: Traverse the DOM and apply negative filtering & strict heuristic tags., Solution (+1 more)
+Cohesion: 0.09
+Nodes (28): BaseModel, api_expand_topic(), api_retrieve(), api_retrieve_v2(), call_gemma(), _classify_intent(), _driver_factory(), expand_banned_topic() (+20 more)
 
 ### Community 3 - "Grade-9 Crawler"
 Cohesion: 0.22
@@ -180,8 +247,8 @@ Cohesion: 0.23
 Nodes (17): Path, BeautifulSoup, abs_url(), clean_text(), get(), get_cat_links(), load_done(), main() (+9 more)
 
 ### Community 5 - "Multi-Subject Master Plan"
-Cohesion: 0.22
-Nodes (10): Lịch sử disambiguation (Bạch Đằng 3 trận), KHTN sub-subject detection (Lý/Hóa/Sinh), Per-subject schema (không 1 schema chung), Khảo sát đặc thù từng môn, Classifier 3 lớp (subject → intent → retriever), 12 Qdrant collections theo loại×môn, Voice-first: cong_thuc_latex + cong_thuc_text, latex_to_speech() converter (+2 more)
+Cohesion: 0.15
+Nodes (14): Lịch sử disambiguation (Bạch Đằng 3 trận), Phụ thuộc hình ảnh (Hình 2.1) không crawl được, KHTN sub-subject detection (Lý/Hóa/Sinh), Per-subject schema (không 1 schema chung), Khảo sát đặc thù từng môn, Classifier 3 lớp (subject → intent → retriever), 12 Qdrant collections theo loại×môn, Voice-first: cong_thuc_latex + cong_thuc_text (+6 more)
 
 ### Community 6 - "Neo4j Repair/Audit"
 Cohesion: 0.29
@@ -208,16 +275,16 @@ Cohesion: 0.21
 Nodes (13): BAAI/bge-m3 embedding (1024D), CloudPTalk (RAG consumer), Ingest pipeline (crawl→parse→validate→embed→Neo4j), Knowledgeforptalk RAG knowledge & ingest pipeline, intfloat/multilingual-e5-large embedding, Neo4j edu graph store, Postgres rag_edu metadata, Qdrant vector store (+5 more)
 
 ### Community 12 - "Structured Retrieval Pipeline (design)"
-Cohesion: 0.18
-Nodes (12): CurriculumRetriever, LanguageConceptRetriever, Metadata filter trước vector search, Structure-based Retrieval Pipeline, QueryClassifier (rule + LLM), QueryContext dataclass, QueryIntent taxonomy, RAGOrchestrator (routing logic) (+4 more)
+Cohesion: 0.13
+Nodes (16): CurriculumRetriever, LanguageConceptRetriever, Metadata filter trước vector search, Structure-based Retrieval Pipeline, QueryClassifier (rule + LLM), QueryContext dataclass, QueryIntent taxonomy, RAGOrchestrator (routing logic) (+8 more)
 
 ### Community 13 - "Schema-v3 Migration & Evals"
 Cohesion: 0.32
 Nodes (12): F1 collision fix (lesson vs exercise + chuong), KG Schema v3, Verify arch Toán eval, Actor-tagged reversible mutation, KHTN migration to schema v3, KHTN subject mislabel G6-9 (Lý/Hóa/Sinh), Natural-language eval (Gemma4 voice gate), TV hybrid Toán+Văn structure (+4 more)
 
 ### Community 14 - "Data Sources & Crawl Strategy"
-Cohesion: 0.24
-Nodes (10): Phân tách loại content khi crawl (no mixed collections), Khảo sát nguồn Knowledge Base lớp 1-5, Cảnh báo pháp lý scraped content, loigiaihay.com (primary crawl source), 3 bộ SGK (KNTT, CTST, Cánh Diều), Chiến lược 3 tầng nguồn (Gold/Silver/Bronze), Pipeline Scrapy → JSONL → PostgreSQL + Qdrant, RAG Edu Data Sources & Organization (+2 more)
+Cohesion: 0.23
+Nodes (12): loigiaihay.com (primary crawl source), Chiến lược 3 tầng nguồn (Gold/Silver/Bronze), multilingual-e5-large embedding model, DB CHECK constraint grade 1-5 chặn THCS, Bug missing Lớp 8 (spider 0 links), Pipeline Scrapy → JSONL → PostgreSQL + Qdrant, Fix routing unknown + grade>=6 → soan_van, RAG Edu KB & System Walkthrough (+4 more)
 
 ### Community 15 - "Mass Graph Ingestion"
 Cohesion: 0.30
@@ -236,8 +303,8 @@ Cohesion: 0.24
 Nodes (10): :Concept node + COVERS edge, Doc-level chunk invariant, Concept-only paraphrase weakness (33%), F1 — decouple Concept from Chunk, F2 — explicit named edges, F7 — extraction size ≠ retrieval size, HippoRAG (cited), Microsoft GraphRAG (cited) (+2 more)
 
 ### Community 19 - "Evaluation Strategy & Benchmark"
-Cohesion: 0.15
-Nodes (14): Build eval set TRƯỚC, không phải sau, Checklist trước khi scale, Chiến lược thử nghiệm & Evaluation, Cảnh báo các pitfalls phổ biến, Bộ eval 200 câu hỏi từ trẻ thật, LLM judge (faithfulness/relevance), Đo lường trước khi build, Nguyên tắc: Đo lường trước khi build (+6 more)
+Cohesion: 0.09
+Nodes (24): A/B Test RAG vs Non-RAG baseline, Automated metrics, Build eval set TRƯỚC, không phải sau, Checklist trước khi scale, Chiến lược thử nghiệm & Evaluation, Cách thực hiện, Cảnh báo các pitfalls phổ biến, Bộ eval 200 câu hỏi từ trẻ thật (+16 more)
 
 ### Community 20 - "Literature KG (Văn structure)"
 Cohesion: 0.25
@@ -248,8 +315,8 @@ Cohesion: 0.18
 Nodes (10): Qwen 2.5 14B local LLM (vLLM on L40S), Schema migration thêm subject column (backward-compat), Gemma 4 OpenAI-compatible endpoint (:8000/llm/v1), Gemma 4 MoE connection guide, Neo4j Graph Schema V2 (Ngữ Văn lớp 9), eval_natural.py (Gemma4 natural-language eval gate), Schema v3 migration scripts (per-subject), Eval (+2 more)
 
 ### Community 22 - "Ingest Pipeline & Walkthrough"
-Cohesion: 0.40
-Nodes (5): A/B Test RAG vs Non-RAG baseline, K-9 EduRAG Performance Benchmark (Phase 7), Dual-Piping test (WITH profile vs cold-start), multilingual-e5-large embedding model, rag_edu requirements.txt
+Cohesion: 0.11
+Nodes (18): Canon, Canon — 15 bài, Danh sách bài ĐỌC (recite nguyên văn) — Ngữ văn, kho PTalk, Lớp 10 — 89 bài, Lớp 11 — 102 bài, Lớp 12 — 101 bài, Lớp 1 — 31 bài, Lớp 2 — 33 bài (+10 more)
 
 ### Community 23 - "Văn Eval Harness"
 Cohesion: 0.46
@@ -276,8 +343,8 @@ Cohesion: 0.57
 Nodes (6): crawl_lesson(), create_grounding(), fetch_html(), is_valid_primary_lesson(), main(), process_seed()
 
 ### Community 29 - "Subject Detector (Layer 1)"
-Cohesion: 0.40
-Nodes (5): detect_subject(), Subject detector — Layer 1 of multi-subject RAG classifier. Detects which school, Quick sanity check — run with python -m src.retrieval.subject_detector, Detect school subject from query.      Returns:         (subject, confidence) wh, test_subject_detector()
+Cohesion: 0.09
+Nodes (56): classify_failure(), classify_run(), _is_long_or_mathy(), latency_outlier_code(), _norm_differs_only_by_punct(), Classify a single backtest failure into one of 15 taxonomy classes A..O.  See do, Return 'O' if a single case exceeds the latency budget, else None.      Latency, Histogram of taxonomy codes over a list of case-results (failures only). (+48 more)
 
 ### Community 30 - "KHTN Post-Process"
 Cohesion: 0.53
@@ -292,8 +359,8 @@ Cohesion: 0.67
 Nodes (5): crawl_book_index(), crawl_qa(), fetch_html(), main(), to_safe_id()
 
 ### Community 34 - "ESP32/CloudPTalk Integration"
-Cohesion: 0.25
-Nodes (9): Tách RAG service riêng (Port 8888) khỏi Gateway, Tích hợp RAG vào PTalk Kid Physic (ESP32), kid_physic pipeline (STT → RAG → LLM via Redis), fetch_knowledge() rag_client helper, FastAPI /chat endpoint (port 8888), DB CHECK constraint grade 1-5 chặn THCS, Bug missing Lớp 8 (spider 0 links), Fix routing unknown + grade>=6 → soan_van (+1 more)
+Cohesion: 0.40
+Nodes (5): Tách RAG service riêng (Port 8888) khỏi Gateway, Tích hợp RAG vào PTalk Kid Physic (ESP32), kid_physic pipeline (STT → RAG → LLM via Redis), fetch_knowledge() rag_client helper, FastAPI /chat endpoint (port 8888)
 
 ### Community 35 - "Natural-Language Eval"
 Cohesion: 0.60
@@ -310,6 +377,10 @@ Nodes (3): extract(), fold(), slug()
 ### Community 43 - "Loigiaihay Single Spider"
 Cohesion: 0.83
 Nodes (3): create_extraction(), create_grounding(), scrape_single()
+
+### Community 69 - "Community 69"
+Cohesion: 0.11
+Nodes (30): _anchored_ok(), _as_bool(), build_scenarios(), _clamp_int(), _coerce_scenario(), _composite_score(), _gen_user_prompt(), _intent_ok() (+22 more)
 
 ### Community 75 - "Community 75"
 Cohesion: 0.08
@@ -340,8 +411,8 @@ Cohesion: 0.13
 Nodes (14): 1. AUDIT (read-only), 2. BACKFILL (actor `KHTN_AGENT_2026_06_04`, reversible), 3. CONCEPT NODES (lớp Concept tách rời — P1/P2), 4. EVAL — G5-10, 2000 case (Cypher-emulated), 5. Gap còn lại (top 3), 6. Reversibility, content_class phân bố cuối (per subject), F1-style problems phát hiện (mirror audit Toán) (+6 more)
 
 ### Community 82 - "Community 82"
-Cohesion: 0.15
-Nodes (13): MathJax/LaTeX bị strip bởi trafilatura, CHECKLIST BẮT ĐẦU NGAY, Context nhanh, Production fallback chain (RAG → LLM-only), GỢI Ý PRIORITIZATION NẾU THIẾU THỜI GIAN, KHI NÀO CÓ THỂ BẮT ĐẦU VOICE INTEGRATION?, MASTER PLAN — RAG Edu Multi-Subject, preserve_mathjax() function (+5 more)
+Cohesion: 0.10
+Nodes (21): MathJax/LaTeX bị strip bởi trafilatura, CHECKLIST BẮT ĐẦU NGAY, Context nhanh, Deliverables, Production fallback chain (RAG → LLM-only), GỢI Ý PRIORITIZATION NẾU THIẾU THỜI GIAN, KHI NÀO CÓ THỂ BẮT ĐẦU VOICE INTEGRATION?, MASTER PLAN — RAG Edu Multi-Subject (+13 more)
 
 ### Community 83 - "Community 83"
 Cohesion: 0.15
@@ -444,8 +515,8 @@ Cohesion: 0.40
 Nodes (5): Checkpoint Phase 5, Decision: crawl bộ nào?, Deliverables, PHASE 5: Tiếng Anh (7-10 ngày), Tasks đặc thù
 
 ### Community 108 - "Community 108"
-Cohesion: 0.40
-Nodes (5): Nguyên tắc 1: Ship thứ hoàn chỉnh, không ship "gần xong", Nguyên tắc 2: Validate rủi ro cao trước, Nguyên tắc 3: Đo lường từ đầu, Nguyên tắc 4: Giữ TV/NV hiện tại luôn hoạt động, NGUYÊN TẮC TRONG SUỐT PLAN
+Cohesion: 0.13
+Nodes (14): 1. Tổng quan luồng hiện tại (Gemma-anchor), 2. Các hàm chính (bảng tra), 3. Định dạng `context` trả về (⚠️ KHÔNG đồng nhất — cần biết khi parse), 4.1 Sửa `_NORM_SYS` (thêm 2 field vào JSON output), 4.2 Sửa `_normalize_query_gemma` (parse thêm), 4.3 Hàm mới `fetch_wikipedia(term)` (urllib, có cache), 4.4 Ráp vào `retrieve()` — CHỖ SỬA CHÍNH, 4.5 Fallback SGK-miss → Wiki (MẤU CHỐT chống bịa) (+6 more)
 
 ### Community 109 - "Community 109"
 Cohesion: 0.40
@@ -456,16 +527,16 @@ Cohesion: 0.50
 Nodes (4): Breakdown theo loại câu hỏi, Phase 4: A/B Test - So sánh RAG vs Non-RAG baseline, Setup, Test cùng 200 câu eval set
 
 ### Community 111 - "Community 111"
-Cohesion: 0.50
-Nodes (4): Cách thực hiện, Metrics cần đo, Phase 1: Crawl Quality (Tuần 1-2), Red flags cần watch
+Cohesion: 0.18
+Nodes (10): 🔴 A. ĐỌC NHẦM BÀI (WRONG_WORK) — sửa node, 🟠 B. ĐỌC THỪA / SAI CẤP (THUA) — lọc/siết, Báo cáo kiểm định NỘI DUNG RAG vs bản gốc SGK, 🟡 C. SAI THỨ TỰ (SAI_THUTU), 🟣 D. SAI BẢN / DỊCH SAI (BAN_KHAC) — thay bản, 🔵 E. SAI TỪ / LỖI OCR (SAI_TU) — cần dọn text nguồn (nhóm LỚN NHẤT), ⚪ F. NOT_FOUND — thiếu data (feedback cũ đã lỗi thời, KHÔNG phải lỗi đọc), ✅ G. RAG ĐÚNG — feedback là false-positive (đa phần do TTS) (+2 more)
 
 ### Community 112 - "Community 112"
 Cohesion: 0.50
 Nodes (4): 7. Thay đổi crawler cần có, Hình ảnh - không crawl được nhưng phải flag, Sub-subject detection cho KHTN, Vấn đề nghiêm trọng nhất - MathJax/LaTeX
 
 ### Community 113 - "Community 113"
-Cohesion: 0.50
-Nodes (4): Phụ thuộc hình ảnh (Hình 2.1) không crawl được, loigiaihay KHTN 6 KNTT category page (c615), loigiaihay Bài 1 Giới thiệu về KHTN 6 (lesson sample), loigiaihay Bài 55 Ngân Hà KHTN 6 (test sample)
+Cohesion: 0.15
+Nodes (24): fake_gemma(), lesson(), Unit tests for packages.backtest.scenario_knowledge.  NO Gemma, NO server, NO Ne, Return a gemma(system, user) callable that always yields `reply`., result(), scenario(), served(), test_build_scenarios_bare_array_and_bad_intent() (+16 more)
 
 ### Community 114 - "Community 114"
 Cohesion: 0.50
@@ -484,12 +555,12 @@ Cohesion: 0.50
 Nodes (4): Checkpoint Phase 7 (FINAL), Deliverables, PHASE 7: Eval Set & A/B Test (5-7 ngày), Tasks
 
 ### Community 118 - "Community 118"
-Cohesion: 0.67
-Nodes (3): Automated metrics, Human evaluation (quan trọng hơn automated), Phase 3: End-to-end Conversation Quality (Tuần 5-6)
+Cohesion: 0.29
+Nodes (6): Sheet: Auto-check (RAG), Sheet: Báo cáo lỗi, Sheet: Văn - Cấp 1, Sheet: Văn - Cấp 2, Sheet: Văn - Cấp 3, Sheet: Yêu cầu test
 
 ### Community 119 - "Community 119"
-Cohesion: 0.67
-Nodes (3): Deliverables, PHASE 8: Production Hardening (3-5 ngày), Tasks cụ thể
+Cohesion: 0.33
+Nodes (5): Sheet: Báo cáo lỗi, Sheet: Văn - Cấp 1, Sheet: Văn - Cấp 2, Sheet: Văn - Cấp 3, Sheet: Yêu cầu test
 
 ### Community 123 - "Community 123"
 Cohesion: 0.22
@@ -507,25 +578,257 @@ Nodes (6): Kết quả 2 quyển pilot (canary :8889, 2026-06-14), Nguyên lý, 
 Cohesion: 0.29
 Nodes (6): Bug phát hiện & ĐÃ fix (nhờ test kỹ + cảnh báo "trùng tập 1/2"), Còn lại (honest), Hạ tầng tái dùng, SCALE ĐA MÔN + STRESS-TEST 973 CASE — companion Lesson Card (2026-06-14), Stress-test 973 case (megatest.py — deterministic, Gemma-free, no subagent), Đã scale (Neo4j edu, actor `<SUBJECT>_PILOT_2026_06`)
 
+### Community 130 - "Community 130"
+Cohesion: 0.11
+Nodes (24): guard_case(), lesson_case(), Unit tests for packages.backtest.metrics (+ a slice of failure_taxonomy).  Run f, test_anchor_at_1_diacritic_fold(), test_anchor_miss_counts(), test_cruft_only_counts_on_emitted_card(), test_errors_excluded_from_anchor(), test_guard_accuracy_pass_and_fail() (+16 more)
+
+### Community 132 - "Community 132"
+Cohesion: 0.11
+Nodes (21): knowledge_core — pure (IO-free) RAG core extracted from rag_server_canary.py.  B, _fold(), _normalize_book_token(), normalize_text(), Pure text-normalization helpers for the PTalk RAG core.  EXTRACTED VERBATIM from, Lowercase + strip Vietnamese diacritics (self-contained: đ→d + NFD strip; matche, Normalize Vietnamese text for accent-insensitive lookup., unidecode() (+13 more)
+
+### Community 133 - "Community 133"
+Cohesion: 0.14
+Nodes (26): compare(), _fmt(), _fmt_delta(), _index(), _main(), Diff two backtest runs (before/after) and apply the regression gate.  Pure stdli, render_diff(), Knowledge PTalk backtest toolkit (pure, local, server-free).  Turns the ad-hoc G (+18 more)
+
+### Community 134 - "Community 134"
+Cohesion: 0.15
+Nodes (18): lines_payload(), Verbatim from monolith; injected into `recite_from_*`., clean_recite_title(), Extract poem/work title from a query-like string., Any, retrieval — IO-bound RAG retrieval layer extracted from rag_server_canary.py.  B, query_neo4j_knowledge_chunk(), query_neo4j_lesson_guide() (+10 more)
+
+### Community 135 - "Community 135"
+Cohesion: 0.25
+Nodes (15): _norm(), Integration stub: Client Context Contract for Knowledge PTalk /retrieve.  Đặc tả, user_profile={} + câu mơ hồ "bài này" -> KHÔNG neo (degraded).      Không có cur, trang (= client page) trong profile -> neo theo trang.      TEST_GUIDE: trang 13, tap (= client volume) phải tách trang trùng giữa tập 1 và tập 2.      Cùng số tr, Tên bài KHÔNG thuộc sách -> KHÔNG tạo thẻ (guard), kể cả đủ scope., current_lesson + scope đầy đủ -> phải neo vào bài (CARD_TIERS)., _retrieve() (+7 more)
+
+### Community 136 - "Community 136"
+Cohesion: 0.12
+Nodes (15): 0. Tóm tắt 30 giây (đọc trước), 1. Nhóm chức năng → file (repo vs server), 2. Duplicated logic (ứng viên gom vào /packages/* về sau — chưa làm vòng này), 3. Dead code (còn trong repo, KHÔNG thuộc đường production) — KHÔNG đề xuất xoá, 4. Script NGUY HIỂM (đụng DB hoặc đụng file server) — bảng cảnh báo, 5. Điểm mù của Cartographer (ghi rõ để Agent sau xử lý), A. Serving API (đường latency-critical — production), B. Router / Anchor (logic định tuyến structured-first) (+7 more)
+
+### Community 137 - "Community 137"
+Cohesion: 0.31
+Nodes (15): _pick_content_vec(), PURE: pick best/top1/top2 by dot-product similarity over candidate embeddings., _cand(), _gate(), Unit tests for the PURE content-vector selection + gate in lesson_card.  `retrie, Mirror of the in-source acceptance condition (byte-for-byte logic)., test_gate_accepts_at_min_abs_floor_via_margin_branch(), test_gate_accepts_on_clear_margin_above_floor() (+7 more)
+
+### Community 138 - "Community 138"
+Cohesion: 0.13
+Nodes (14): 0. Đọc đầu tiên (north star + sự thật hiện tại), 1. Sơ đồ đọc cho người mới (30 phút), 2. Bản đồ thư mục `docs/`, 3. operations/ — Phát hành an toàn (mới), 4. Nguyên tắc xuyên suốt (nhắc nhanh), backtest/ & evaluation/ — Đo lường *(agent khác phụ trách backtest docs)*, client/ — Hợp đồng client ↔ RAG *(agent khác phụ trách)*, data/ — Dữ liệu & ingest *(agent khác phụ trách)* (+6 more)
+
+### Community 139 - "Community 139"
+Cohesion: 0.14
+Nodes (13): anchor_at_1, Backtest Metric Definitions — Knowledge PTalk, error_count, Gate summary (release), guard_accuracy  (== refusal_recall), latency p50 / p95 / p99, mode_accuracy, path_breakdown (+5 more)
+
+### Community 140 - "Community 140"
+Cohesion: 0.14
+Nodes (13): R10 — Backtest gate phụ thuộc server đang chạy + tạo tải prod — **TRUNG**, R11 — Drift docs ↔ thực tế — **THẤP-TRUNG**, R1 — Mismatch repo ↔ server (runtime không nằm trong repo) — **CAO**, R2 — Single-file `rag_server.py` không version trong repo — **CAO**, R3 — Patch script `str.replace` vào file server — **CAO**, R4 — Script ghi Neo4j production (:7688) — **TRUNG-CAO**, R5 — venv + data nằm vật lý trong repo — **TRUNG**, R6 — Hardcoded endpoints/secret-path rải rác — **TRUNG** (+5 more)
+
+### Community 141 - "Community 141"
+Cohesion: 0.15
+Nodes (12): Migration plan — THIN SERVER + CORE-IN-REPO (retrieval layer), Risks, Rollback, Step 0 — prerequisites (do NOT skip), Step 1 — sync packages next to the runtime (no overwrite), Step 2 — make packages importable on the server, Step 3 — port the moderation endpoint (BLOCKER for promote, not for compare), Step 4 — launch thin server on a TEMP port (8891) (+4 more)
+
+### Community 142 - "Community 142"
+Cohesion: 0.15
+Nodes (12): 1. Số liệu thật, 2. Phát hiện gốc rễ: suffix bộ-sách dính vào work_name (KNTT), 3. Phát hiện phụ: variant naming (gạch ngang / giới từ / biên trang) — CTST, 4. lich_su 9 CTST: phần lớn là content_only (không phải work-name), 5. Đề xuất: tách `lesson_title_norm` vs `work_name_norm` + alias curated (chưa implement), 6. Lưu ý quan trọng cho metric, Lịch sử — chuẩn hoá work_name (gốc rễ gap 95.5%), Rủi ro & cách backtest (+4 more)
+
+### Community 143 - "Community 143"
+Cohesion: 0.15
+Nodes (12): 1. Số liệu thật theo dimension (anchor%), 2. Phân loại định lượng (sample_fails, 30/quyển), 3. Trả lời 4 câu hỏi gốc rễ, 4. Anomaly toan 8 CTST t1 (cần ưu tiên xác minh), 5. Đề xuất hướng vá AN TOÀN (chưa implement), 6. Ưu tiên đề xuất, KHÔNG nên làm, Kết luận gốc rễ (+4 more)
+
+### Community 144 - "Community 144"
+Cohesion: 0.18
+Nodes (10): build_intent_emb(), classify_intent(), Embedding-based intent classifier (recite / practice / explain).  EXTRACTED from, Precompute anchor embeddings for each intent.      Lifted verbatim from the orig, Trả 'recite'/'practice'/'explain' theo độ gần ngữ nghĩa; None nếu lỗi.      NOTE, _make_driver_factory(), query_lesson_card(), Companion "Lesson Card" retrieval — the anchored serve path.  EXTRACTED VERBATIM (+2 more)
+
+### Community 145 - "Community 145"
+Cohesion: 0.17
+Nodes (11): Baseline đo thực (full sweep 2026-06-17, run trên MERGED candidate :8890), Fix đã áp (2026-06-22, data-only, live trên edu Neo4j), Gap thật còn lại (theo mức ưu tiên), Invariant không được phá (mọi PR), Knowledge PTalk — Canonical Project State (2026-06-22), North star, Quyết định kiến trúc: THIN SERVER + LÕI Ở REPO (2026-06-22), Release gate (promote :8888) (+3 more)
+
+### Community 146 - "Community 146"
+Cohesion: 0.18
+Nodes (8): _FakeModel, List that mimics the numpy `.tolist()` the source calls on each encoded     vect, Deterministic stand-in for the BGE model. encode() returns a fixed     1-d vecto, test_build_intent_emb_uses_injected_model(), test_classify_intent_recite_with_margin(), test_classify_intent_returns_none_without_emb(), _Vec, list
+
+### Community 147 - "Community 147"
+Cohesion: 0.27
+Nodes (9): build_corpus(), _build_raw(), load_real_utterances(), Deterministic characterization corpus for packages/knowledge_core.  This module, The full ordered list of (query, profile) input pairs. Deterministic., Return the corpus as a list of {"query","profile"} dicts (JSON-safe)., Distinct student utterances from backtest sample_fails, in first-seen     order, test_corpus_is_large_enough() (+1 more)
+
+### Community 148 - "Community 148"
+Cohesion: 0.20
+Nodes (9): Checklist tổng (tick khi đã chạy + ghi run-id), Data-Quality Checklist — Knowledge PTalk (Cypher để CHẠY SAU), Q-COV — anomaly coverage (C7), Q-CRUFT — real cruft trong theory (C3) ⚠️ chỉ real, không tính "giáo viên" trần, Q-DUP — duplicate lesson (C1), Q-DUP-VOL — trang collision giữa tập 1/2 (C6), Q-MISS — lesson thiếu field anchor (C2), Q-TOAN — Concept↔Chunk qua COVERS (C5) (+1 more)
+
+### Community 149 - "Community 149"
+Cohesion: 0.20
+Nodes (9): 0. Đại lượng đo (mọi variant đều xuất), 1. Ma trận variant, 2. Cohort (quyển) chạy ablation, 3. Giả thuyết cần xác nhận (gắn với phân tích gap), 4. Quy trình chạy (đề xuất, không chạy bây giờ), 5. Gate so sánh (PASS để xét promote), 6. Đầu ra mong đợi, Anchoring — kế hoạch ablation (chạy SAU bằng framework backtest) (+1 more)
+
+### Community 150 - "Community 150"
+Cohesion: 0.20
+Nodes (9): 0. Hai loại tín hiệu vào, 1. Thứ tự ưu tiên neo bài (structured-first), 2. Scope (luôn áp ở mọi bậc), 3. Content-vector gate (bậc 4), 4. Intent / mode (độc lập với anchor), 5. Cách scorer chấm anchor (quan trọng cho phân tích gap), 6. Đường production thật vs đường backtest "yếu", Anchoring — phương pháp routing hiện tại (as-built) (+1 more)
+
+### Community 151 - "Community 151"
+Cohesion: 0.20
+Nodes (10): description, type, description, type, description, type, properties, expected_node_id (+2 more)
+
+### Community 152 - "Community 152"
+Cohesion: 0.22
+Nodes (8): 0. What the backtest must prove, 1. How a case is built and scored (the existing engine), 2. The four test tiers, 3. Targeted vs full, 4. The regression gate (Tier 4 detail), 5. Reproducing the baseline locally (no server), 6. Constraints (do not violate), Backtest Methodology — Knowledge PTalk
+
+### Community 153 - "Community 153"
+Cohesion: 0.22
+Nodes (8): 0. Hai lớp song song trong Neo4j edu, 1. Node: `:Lesson` (companion card — lớp anchor chính), 2. Edges companion, 3.1 Toán (lesson + exercise + concept), 3.2 Văn (work + section + variant + recitation; KHÔNG prereq), 3. Lớp nền — `:KnowledgeChunk` (schema-v3 design), 4. ⭐ Field dùng cho ANCHOR (tóm tắt — quan trọng nhất), Neo4j Schema v3 — tổng hợp cho Corpus / Data-Quality
+
+### Community 154 - "Community 154"
+Cohesion: 0.31
+Nodes (8): _is_recite(), Query routing (intent → subject/title/keyword/query_type).  EXTRACTED VERBATIM f, Hardened recite detection: exclude reading-comprehension/analysis uses of 'đọc'., Fast fallback when Gemma router is unavailable or returns invalid JSON., Phân tích ý định câu hỏi bằng Gemma-4.      NOTE (refactor): `call_gemma` is INJ, route_query(), route_query_rule_based(), Any
+
+### Community 155 - "Community 155"
+Cohesion: 0.22
+Nodes (8): A. Trước khi đụng prod, B. Promote (low-traffic + đã hỏi), C. Sau promote, Gate (sao y canonical — tất cả phải PASS), Khi nào dùng, Operations — Release Checklist (promote lên prod :8888), Thứ tự thực thi tổng (anh chốt — bối cảnh), Trình tự thực thi (theo thứ tự, dừng nếu bất kỳ bước fail)
+
+### Community 156 - "Community 156"
+Cohesion: 0.22
+Nodes (8): additionalProperties, allOf, description, $id, required, $schema, title, type
+
+### Community 157 - "Community 157"
+Cohesion: 0.25
+Nodes (6): main(), Regenerate the golden snapshot for knowledge_core characterization.  Run this ON, compute_record(), Pure evaluation of knowledge_core over the characterization corpus.  `compute_re, Evaluate the pure surface of knowledge_core for one input pair., Any
+
+### Community 158 - "Community 158"
+Cohesion: 0.25
+Nodes (7): 1. Định nghĩa "degraded", 2. Hành vi MONG ĐỢI ở degraded mode (đặc tả, không đổi runtime), 3. ⛔ Quy tắc tuyên bố số liệu (quan trọng — chống lặp lỗi cũ), 4. Ưu tiên: TỪ CHỐI hơn ĐOÁN, 5. Việc client PHẢI làm để thoát degraded, 6. Liên quan, Degraded Mode — khi client thiếu context bài
+
+### Community 159 - "Community 159"
+Cohesion: 0.25
+Nodes (7): 1. Endpoint + shape (đã verify trong repo), 2. Payload tối thiểu phía client (tên field theo ngôn ngữ client app), 3. Bảng field: bắt buộc / khuyến nghị / ảnh hưởng anchor nếu thiếu, 4. Ánh xạ field client → field profile server đọc (canonical), 5. Ví dụ payload đúng (3 tier), 6. Liên quan, Client → Knowledge PTalk: Required Context Contract
+
+### Community 160 - "Community 160"
+Cohesion: 0.25
+Nodes (7): 0. Quy ước đếm (quan trọng — tránh đếm trùng), 1. Tổng theo môn, 2. Bảng 65 quyển, 3. Quyển bất thường (cần để mắt), 4. Quyển 2 tập (rủi ro trùng tập 1/2), 5. Coverage gap đã biết (từ audit, chưa có trong sweep), Corpus Inventory — Knowledge PTalk (65 quyển / 1852 bài)
+
+### Community 161 - "Community 161"
+Cohesion: 0.25
+Nodes (7): 1. Hàm chuẩn `fold()` (3 file dùng chung — phải GIỐNG), 2. ⚠️ Bẫy đ/Đ (lý do bước 1 phải có RIÊNG), 3. Hợp đồng match (CẢ HAI ĐẦU phải fold), 4. ❌ Anti-pattern — fail CÂM (đừng dùng), 5. Liên hệ điểm yếu thật, 6. Test nhanh (để chạy sau, read-only), Vietnamese Normalization — `fold()` / NFD (rủi ro anchoring chính)
+
+### Community 162 - "Community 162"
+Cohesion: 0.25
+Nodes (7): A. Backup — `neo4j-admin dump` → Drive, B. Restore — từ dump, C. Backup nhẹ thay thế (khi không thể offline DB), Checklist nhanh trước release, Khi nào backup, Operations — Backup & Restore (Neo4j edu), Đối tượng backup
+
+### Community 163 - "Community 163"
+Cohesion: 0.25
+Nodes (7): A. Rollback code (file `rag_server.py`), B. Rollback data (Neo4j edu) — nếu lần release có ingest, Khi nào rollback, Lưu ý quan trọng, Nguyên tắc, Operations — Rollback (quay về bản trước khi promote), Sau rollback
+
+### Community 164 - "Community 164"
+Cohesion: 0.25
+Nodes (7): 4 thành phần của một Lesson Card, Companion flow (hồ sơ → Lesson Card), Cách NEO một thẻ (thứ tự ưu tiên = structured-first), Giới hạn đã biết (honest), Lesson Card Model — node `:Lesson` + 4 thành phần + companion flow, Vì sao thiết kế thế này (ánh xạ north star), Ý tưởng cốt lõi: 1 bài = 1 thẻ học (`:Lesson`)
+
+### Community 165 - "Community 165"
+Cohesion: 0.29
+Nodes (6): Hành trình 1 — Bé học Văn xin GIẢNG "Sang thu", Hành trình 2 — Bé xin ĐỌC THUỘC bài thơ, Hành trình 3 — Bé Toán xin LUYỆN TẬP, Hành trình 4 — Bé hỏi LẠC ĐỀ → companion TỪ CHỐI, Tóm tắt: cùng một bài, ý định khác → thành phần khác, User Journeys — 4 hành trình thật
+
+### Community 166 - "Community 166"
+Cohesion: 0.29
+Nodes (7): type, tags, default, description, items, type, uniqueItems
+
+### Community 167 - "Community 167"
+Cohesion: 0.48
+Nodes (6): _field(), load_cases(), main(), _nfc(), _post(), resp is {context, intent, sources}; path like 'intent.tier'.
+
+### Community 168 - "Community 168"
+Cohesion: 0.33
+Nodes (5): Bảng port, ⛔ Cách LAUNCH (đã tốn rất nhiều công — đọc kỹ), Operations — Ports canary / prod / merged + cách launch, ⚠️ Ràng buộc khi restart prod, Verify nhanh (read-only)
+
+### Community 169 - "Community 169"
+Cohesion: 0.33
+Nodes (5): Anti-goals (việc cố ý KHÔNG làm — refuted/deferred), Bảng LÀ vs KHÔNG phải, Gap thật (đang LÀ nhưng chưa đủ tốt — ≠ anti-goal), Goals & Anti-Goals — Knowledge PTalk LÀ gì / KHÔNG phải gì, Invariant không được phá (mọi PR)
+
+### Community 170 - "Community 170"
+Cohesion: 0.33
+Nodes (5): 6 cam kết (mỗi cam kết là một ràng buộc thiết kế), North Star — Knowledge PTalk, Tuyên ngôn, Vì sao companion-theo-bài, KHÔNG phải Q&A mở, Đo bằng gì (north star có số)
+
+### Community 171 - "Community 171"
+Cohesion: 0.40
+Nodes (4): Bảng module → file → vai trò → vị trí → rủi ro, Module Ownership — Knowledge PTalk, Owner đề xuất (để Agent refactor giao việc — chưa thực thi), Quy ước "repo có thật chạy không"
+
+### Community 172 - "Community 172"
+Cohesion: 0.40
+Nodes (4): Backtest Failure Taxonomy (A–O) — Knowledge PTalk, Classifier ordering (why first-match matters), How to use it, Inputs the classifier reads (per case)
+
+### Community 173 - "Community 173"
+Cohesion: 0.20
+Nodes (9): canonicalize_subject(), Any, rag_router — orchestrator for the thin companion RAG server.  Exports the behavi, rag_router — orchestrator extracted from the thin companion server.  Behavior-pr, # NOTE: byte-faithful to monolith — concept label uses U+1EEC ("DỬ", a source, retrieve(), query_qdrant(), Qdrant vector retrieval (math / KHTN / social fallback).  EXTRACTED VERBATIM fro (+1 more)
+
+### Community 174 - "Community 174"
+Cohesion: 0.14
+Nodes (13): 1. RAG service đặt ở đâu trong hệ sinh thái, 2. Runtime topology (verified `docker ps` / `ss -tlnp` / `ps`), 3.1 nginx-gateway routing (cổng vào ngoài cùng), 3.2 RAG HTTP API (cái mà ptalk_v*/Dashboard gọi), 3.3 Client context contract (điều kiện đạt anchor ~97%), 3.4 RAG retrieve pipeline (bên trong /v2/rag/retrieve), 3. Giao diện (interface / API surface), 4. Trạng thái code (prod vs repo) (+5 more)
+
+### Community 176 - "Community 176"
+Cohesion: 0.40
+Nodes (5): description, maximum, minimum, type, grade
+
+### Community 177 - "Community 177"
+Cohesion: 0.50
+Nodes (4): _load_golden(), The behavior-locking net: recompute every record and assert it equals     the co, test_snapshot_count_matches_corpus(), test_snapshot_lock_full_corpus()
+
+### Community 178 - "Community 178"
+Cohesion: 0.83
+Nodes (3): run_full_sweep.sh script, main(), run_one()
+
+### Community 179 - "Community 179"
+Cohesion: 0.33
+Nodes (6): Any, query_concept_exact(), query_structured_exact(), Tier A structured-first exact lookups (bài/trang + concept-name).  EXTRACTED VER, Tier A-concept: topic-only query (no bai/trang) -> exact lookup by Concept name, Tier A: exact Cypher lookup if structured ref present.
+
+### Community 180 - "Community 180"
+Cohesion: 0.50
+Nodes (4): description, enum, type, book_set
+
+### Community 181 - "Community 181"
+Cohesion: 0.50
+Nodes (4): description, enum, type, expected_tier
+
+### Community 182 - "Community 182"
+Cohesion: 0.50
+Nodes (4): description, pattern, type, id
+
+### Community 183 - "Community 183"
+Cohesion: 0.50
+Nodes (4): description, enum, type, intent
+
+### Community 184 - "Community 184"
+Cohesion: 0.50
+Nodes (4): description, minimum, type, page
+
+### Community 185 - "Community 185"
+Cohesion: 0.50
+Nodes (4): subject, description, enum, type
+
+### Community 186 - "Community 186"
+Cohesion: 0.50
+Nodes (4): utterance, description, minLength, type
+
+### Community 187 - "Community 187"
+Cohesion: 0.50
+Nodes (4): volume, description, enum, type
+
+### Community 188 - "Community 188"
+Cohesion: 0.67
+Nodes (3): description, type, current_lesson_id
+
+### Community 189 - "Community 189"
+Cohesion: 0.67
+Nodes (3): should_refuse, description, type
+
 ## Knowledge Gaps
-- **342 isolated node(s):** `eval_questions`, `run_api.sh script`, `PYTHONPATH`, `run_pipeline.sh script`, `backup_rag.sh script` (+337 more)
+- **650 isolated node(s):** `eval_questions`, `Any`, `Any`, `Any`, `run_api.sh script` (+645 more)
   These have ≤1 connection - possible missing edges or undocumented components.
-- **19 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
+- **26 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
 
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
 
-- **Why does `MASTER PLAN — RAG Edu Multi-Subject` connect `Community 82` to `Multi-Subject Master Plan`, `Community 104`, `Community 105`, `Community 106`, `Community 107`, `Community 108`, `Structured Retrieval Pipeline (design)`, `Community 114`, `Community 115`, `Community 116`, `Community 117`, `LLM Backends & Migration Scripts`, `Community 119`?**
-  _High betweenness centrality (0.016) - this node is a cross-community bridge._
-- **Why does `old/ historical docs index` connect `Structured Retrieval Pipeline (design)` to `ESP32/CloudPTalk Integration`, `Multi-Subject Master Plan`, `Data Sources & Crawl Strategy`, `Community 82`, `Evaluation Strategy & Benchmark`, `LLM Backends & Migration Scripts`, `Ingest Pipeline & Walkthrough`?**
-  _High betweenness centrality (0.016) - this node is a cross-community bridge._
+- **Why does `FastAPI` connect `rag_edu FastAPI Service & DB Init` to `RAG Edu Retrieval Core`, `Graph Ingestion Crawler`?**
+  _High betweenness centrality (0.007) - this node is a cross-community bridge._
 - **Why does `RAGOrchestrator` connect `RAG Edu Retrieval Core` to `rag_edu FastAPI Service & DB Init`?**
-  _High betweenness centrality (0.010) - this node is a cross-community bridge._
+  _High betweenness centrality (0.006) - this node is a cross-community bridge._
+- **Why does `lines_payload()` connect `Community 134` to `Graph Ingestion Crawler`?**
+  _High betweenness centrality (0.006) - this node is a cross-community bridge._
 - **Are the 18 inferred relationships involving `RAGOrchestrator` (e.g. with `ChatRequest` and `ChatResponse`) actually correct?**
   _`RAGOrchestrator` has 18 INFERRED edges - model-reasoned connections that need verification._
-- **Are the 9 inferred relationships involving `QueryClassifier` (e.g. with `ChatRequest` and `ChatResponse`) actually correct?**
-  _`QueryClassifier` has 9 INFERRED edges - model-reasoned connections that need verification._
-- **What connects `eval_questions`, `Scrapy Crawler cho loigiaihay.com - Lớp 1-5 Tiếng Việt =========================`, `Extract metadata từ URL pattern của loigiaihay.          Examples:       /bai-82` to the rest of the system?**
-  _407 weakly-connected nodes found - possible documentation gaps or missing edges._
+- **Are the 16 inferred relationships involving `retrieve()` (e.g. with `parse_structured_query()` and `route_query_rule_based()`) actually correct?**
+  _`retrieve()` has 16 INFERRED edges - model-reasoned connections that need verification._
+- **What connects `PTalk applications (thin servers). See docs/refactor/migration-plan.md.`, `Thin companion RAG API. server.py wires knowledge_core + retrieval packages.`, `THIN companion API server — SKELETON for the THIN-SERVER + CORE-IN-REPO refactor` to the rest of the system?**
+  _832 weakly-connected nodes found - possible documentation gaps or missing edges._
 - **Should `RAG Edu Retrieval Core` be split into smaller, more focused modules?**
-  _Cohesion score 0.06479081821547575 - nodes in this community are weakly interconnected._
+  _Cohesion score 0.05759493670886076 - nodes in this community are weakly interconnected._

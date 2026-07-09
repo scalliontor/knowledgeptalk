@@ -27,3 +27,14 @@ node_modules/
 # Claude agent config
 .claude/
 server.txt
+
+# --- large data / generated artifacts (session 2026-07) ---
+*.pdf
+*.xlsx
+*.bundle
+test.txt
+recite_backup_*.json
+recite_audit_*.json
+dup_tags_backup_*.json
+graphify-out/*
+!graphify-out/GRAPH_REPORT.md
