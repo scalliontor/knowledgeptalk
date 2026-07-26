@@ -1,0 +1,6953 @@
+{
+ "4": [
+  {
+   "title": "Nước Văn Lang",
+   "lessons": [
+    {
+     "bai": 1,
+     "title": "Nước Văn Lang",
+     "book": "Sách cũ",
+     "raw": "Bài 1. Nước Văn Lang"
+    },
+    {
+     "bai": 2,
+     "title": "Nước Âu Lạc",
+     "book": "Sách cũ",
+     "raw": "Bài 2. Nước Âu Lạc"
+    }
+   ]
+  },
+  {
+   "title": "Nước ta dưới ách đô hộ của các triều đại phong kiến phương Bắc",
+   "lessons": [
+    {
+     "bai": 3,
+     "title": "Nước ta dưới ách đô hộ của các triều đại phong kiến phương Bắc",
+     "book": "Sách cũ",
+     "raw": "Bài 3. Nước ta dưới ách đô hộ của các triều đại phong kiến phương Bắc"
+    }
+   ]
+  },
+  {
+   "title": "Khởi nghĩa Hai Bà Trưng (Năm 40)",
+   "lessons": [
+    {
+     "bai": 4,
+     "title": "Khởi nghĩa Hai Bà Trưng (Năm 40)",
+     "book": "Sách cũ",
+     "raw": "Bài 4. Khởi nghĩa Hai Bà Trưng (Năm 40)"
+    }
+   ]
+  },
+  {
+   "title": "Chiến thắng Bạch Đằng do Ngô Quyền lãnh đạo (Năm 938)",
+   "lessons": [
+    {
+     "bai": 5,
+     "title": "Chiến thắng Bạch Đằng do Ngô Quyền lãnh đạo (Năm 938)",
+     "book": "Sách cũ",
+     "raw": "Bài 5. Chiến thắng Bạch Đằng do Ngô Quyền lãnh đạo (Năm 938)"
+    }
+   ]
+  },
+  {
+   "title": "Ôn tập",
+   "lessons": [
+    {
+     "bai": 6,
+     "title": "Ôn tập",
+     "book": "Sách cũ",
+     "raw": "Bài 6. Ôn tập"
+    },
+    {
+     "bai": 20,
+     "title": "Ôn tập",
+     "book": "Sách cũ",
+     "raw": "Bài 20. Ôn tập"
+    },
+    {
+     "bai": 14,
+     "title": "Ôn tập",
+     "book": "KNTT",
+     "raw": "Bài 14: Ôn tập"
+    },
+    {
+     "bai": 29,
+     "title": "Ôn tập",
+     "book": "KNTT",
+     "raw": "Bài 29: Ôn tập"
+    }
+   ]
+  },
+  {
+   "title": "Đinh Bộ Lĩnh dẹp loạn 12 sứ quân",
+   "lessons": [
+    {
+     "bai": 7,
+     "title": "Đinh Bộ Lĩnh dẹp loạn 12 sứ quân",
+     "book": "Sách cũ",
+     "raw": "Bài 7. Đinh Bộ Lĩnh dẹp loạn 12 sứ quân"
+    }
+   ]
+  },
+  {
+   "title": "Cuộc kháng chiến chống quân Tống xâm lược lần thứ nhất (Năm 981)",
+   "lessons": [
+    {
+     "bai": 8,
+     "title": "Cuộc kháng chiến chống quân Tống xâm lược lần thứ nhất (Năm 981)",
+     "book": "Sách cũ",
+     "raw": "Bài 8. Cuộc kháng chiến chống quân Tống xâm lược lần thứ nhất (Năm 981)"
+    },
+    {
+     "bai": 11,
+     "title": "Cuộc kháng chiến chống quân Tống xâm lược lần thứ hai (1075 - 1077)",
+     "book": "Sách cũ",
+     "raw": "Bài 11. Cuộc kháng chiến chống quân Tống xâm lược lần thứ hai (1075 - 1077)"
+    },
+    {
+     "bai": 14,
+     "title": "Cuộc kháng chiến chống quân xâm lược Mông - Nguyên",
+     "book": "Sách cũ",
+     "raw": "Bài 14. Cuộc kháng chiến chống quân xâm lược Mông - Nguyên"
+    }
+   ]
+  },
+  {
+   "title": "Nhà Lý dời đô ra Thăng Long",
+   "lessons": [
+    {
+     "bai": 9,
+     "title": "Nhà Lý dời đô ra Thăng Long",
+     "book": "Sách cũ",
+     "raw": "Bài 9. Nhà Lý dời đô ra Thăng Long"
+    }
+   ]
+  },
+  {
+   "title": "Chùa thời Lý",
+   "lessons": [
+    {
+     "bai": 10,
+     "title": "Chùa thời Lý",
+     "book": "Sách cũ",
+     "raw": "Bài 10. Chùa thời Lý"
+    }
+   ]
+  },
+  {
+   "title": "Nhà Trần thành lập",
+   "lessons": [
+    {
+     "bai": 12,
+     "title": "Nhà Trần thành lập",
+     "book": "Sách cũ",
+     "raw": "Bài 12. Nhà Trần thành lập"
+    },
+    {
+     "bai": 27,
+     "title": "Nhà Nguyễn thành lập",
+     "book": "Sách cũ",
+     "raw": "Bài 27. Nhà Nguyễn thành lập"
+    }
+   ]
+  },
+  {
+   "title": "Nhà Trần và việc đắp đê",
+   "lessons": [
+    {
+     "bai": 13,
+     "title": "Nhà Trần và việc đắp đê",
+     "book": "Sách cũ",
+     "raw": "Bài 13. Nhà Trần và việc đắp đê"
+    }
+   ]
+  },
+  {
+   "title": "Nước ta cuối thời Trần",
+   "lessons": [
+    {
+     "bai": 15,
+     "title": "Nước ta cuối thời Trần",
+     "book": "Sách cũ",
+     "raw": "Bài 15. Nước ta cuối thời Trần"
+    }
+   ]
+  },
+  {
+   "title": "Chiến thắng Chi Lăng",
+   "lessons": [
+    {
+     "bai": 16,
+     "title": "Chiến thắng Chi Lăng",
+     "book": "Sách cũ",
+     "raw": "Bài 16. Chiến thắng Chi Lăng"
+    }
+   ]
+  },
+  {
+   "title": "Nhà Hậu Lê và việc tổ chức quản lí đất nước",
+   "lessons": [
+    {
+     "bai": 17,
+     "title": "Nhà Hậu Lê và việc tổ chức quản lí đất nước",
+     "book": "Sách cũ",
+     "raw": "Bài 17. Nhà Hậu Lê và việc tổ chức quản lí đất nước"
+    }
+   ]
+  },
+  {
+   "title": "Trường học thời Hậu Lê",
+   "lessons": [
+    {
+     "bai": 18,
+     "title": "Trường học thời Hậu Lê",
+     "book": "Sách cũ",
+     "raw": "Bài 18. Trường học thời Hậu Lê"
+    }
+   ]
+  },
+  {
+   "title": "Văn học và khoa học thời Hậu Lê",
+   "lessons": [
+    {
+     "bai": 19,
+     "title": "Văn học và khoa học thời Hậu Lê",
+     "book": "Sách cũ",
+     "raw": "Bài 19. Văn học và khoa học thời Hậu Lê"
+    }
+   ]
+  },
+  {
+   "title": "Trịnh - Nguyễn phân tranh",
+   "lessons": [
+    {
+     "bai": 21,
+     "title": "Trịnh - Nguyễn phân tranh",
+     "book": "Sách cũ",
+     "raw": "Bài 21. Trịnh - Nguyễn phân tranh"
+    }
+   ]
+  },
+  {
+   "title": "Cuộc khẩn hoang ở Đàng Trong",
+   "lessons": [
+    {
+     "bai": 22,
+     "title": "Cuộc khẩn hoang ở Đàng Trong",
+     "book": "Sách cũ",
+     "raw": "Bài 22. Cuộc khẩn hoang ở Đàng Trong"
+    }
+   ]
+  },
+  {
+   "title": "Thành thị ở thế kỷ XVI - XVII",
+   "lessons": [
+    {
+     "bai": 23,
+     "title": "Thành thị ở thế kỷ XVI - XVII",
+     "book": "Sách cũ",
+     "raw": "Bài 23. Thành thị ở thế kỷ XVI - XVII"
+    }
+   ]
+  },
+  {
+   "title": "Nghĩa quân Tây Sơn tiến ra Thăng Long (Năm 1786)",
+   "lessons": [
+    {
+     "bai": 24,
+     "title": "Nghĩa quân Tây Sơn tiến ra Thăng Long (Năm 1786)",
+     "book": "Sách cũ",
+     "raw": "Bài 24. Nghĩa quân Tây Sơn tiến ra Thăng Long (Năm 1786)"
+    }
+   ]
+  },
+  {
+   "title": "Quang Trung đại phá quân Thanh (Năm 1789)",
+   "lessons": [
+    {
+     "bai": 25,
+     "title": "Quang Trung đại phá quân Thanh (Năm 1789)",
+     "book": "Sách cũ",
+     "raw": "Bài 25. Quang Trung đại phá quân Thanh (Năm 1789)"
+    }
+   ]
+  },
+  {
+   "title": "Những chính sách về kinh tế và văn hóa của vua Quang Trung",
+   "lessons": [
+    {
+     "bai": 26,
+     "title": "Những chính sách về kinh tế và văn hóa của vua Quang Trung",
+     "book": "Sách cũ",
+     "raw": "Bài 26. Những chính sách về kinh tế và văn hóa của vua Quang Trung"
+    }
+   ]
+  },
+  {
+   "title": "Kinh thành Huế",
+   "lessons": [
+    {
+     "bai": 28,
+     "title": "Kinh thành Huế",
+     "book": "Sách cũ",
+     "raw": "Bài 28. Kinh thành Huế"
+    }
+   ]
+  },
+  {
+   "title": "Làm quen với phương tiện học tập môn Lịch sử và Địa lí",
+   "lessons": [
+    {
+     "bai": 1,
+     "title": "Làm quen với phương tiện học tập môn Lịch sử và Địa lí",
+     "book": "CTST",
+     "raw": "Bài 1: Làm quen với phương tiện học tập môn Lịch sử và Địa lí"
+    },
+    {
+     "bai": 1,
+     "title": "Làm quen với phương tiện học tập môn Lịch sử và Địa lí",
+     "book": "KNTT",
+     "raw": "Bài 1: Làm quen với phương tiện học tập môn Lịch sử và Địa lí"
+    },
+    {
+     "bai": 1,
+     "title": "Làm quen với phương tiện học tập môn Lịch sử và Địa lí",
+     "book": "Cánh diều",
+     "raw": "Bài 1: Làm quen với phương tiện học tập môn Lịch sử và Địa lí"
+    }
+   ]
+  },
+  {
+   "title": "Thiên nhiên và con người địa phương",
+   "lessons": [
+    {
+     "bai": 2,
+     "title": "Thiên nhiên và con người địa phương",
+     "book": "CTST",
+     "raw": "Bài 2: Thiên nhiên và con người địa phương"
+    },
+    {
+     "bai": 2,
+     "title": "Thiên nhiên và con người địa phương em",
+     "book": "KNTT",
+     "raw": "Bài 2: Thiên nhiên và con người địa phương em"
+    }
+   ]
+  },
+  {
+   "title": "Lịch sử và văn hoá truyền thống địa phương",
+   "lessons": [
+    {
+     "bai": 3,
+     "title": "Lịch sử và văn hoá truyền thống địa phương",
+     "book": "CTST",
+     "raw": "Bài 3: Lịch sử và văn hoá truyền thống địa phương"
+    },
+    {
+     "bai": 3,
+     "title": "Lịch sử và văn hoá truyền thống địa phương em",
+     "book": "KNTT",
+     "raw": "Bài 3: Lịch sử và văn hoá truyền thống địa phương em"
+    }
+   ]
+  },
+  {
+   "title": "Thiên nhiên vùng Trung du và miền núi Bắc Bộ",
+   "lessons": [
+    {
+     "bai": 4,
+     "title": "Thiên nhiên vùng Trung du và miền núi Bắc Bộ",
+     "book": "CTST",
+     "raw": "Bài 4: Thiên nhiên vùng Trung du và miền núi Bắc Bộ"
+    },
+    {
+     "bai": 6,
+     "title": "Một số nét văn hoá ở vùng Trung du và miền núi Bắc Bộ",
+     "book": "CTST",
+     "raw": "Bài 6: Một số nét văn hoá ở vùng Trung du và miền núi Bắc Bộ"
+    },
+    {
+     "bai": 8,
+     "title": "Thiên nhiên vùng Đồng bằng Bắc Bộ",
+     "book": "CTST",
+     "raw": "Bài 8: Thiên nhiên vùng Đồng bằng Bắc Bộ"
+    },
+    {
+     "bai": 4,
+     "title": "Thiên nhiên vùng Trung du và miền núi Bắc Bộ",
+     "book": "KNTT",
+     "raw": "Bài 4: Thiên nhiên vùng Trung du và miền núi Bắc Bộ"
+    },
+    {
+     "bai": 6,
+     "title": "Một số nét văn hoá ở vùng Trung du và miền núi Bắc Bộ",
+     "book": "KNTT",
+     "raw": "Bài 6: Một số nét văn hoá ở vùng Trung du và miền núi Bắc Bộ"
+    },
+    {
+     "bai": 8,
+     "title": "Thiên nhiên vùng Đồng bằng Bắc Bộ",
+     "book": "KNTT",
+     "raw": "Bài 8: Thiên nhiên vùng Đồng bằng Bắc Bộ"
+    },
+    {
+     "bai": 3,
+     "title": "Thiên nhiên vùng Trung du và miền núi Bắc Bộ",
+     "book": "Cánh diều",
+     "raw": "Bài 3: Thiên nhiên vùng Trung du và miền núi Bắc Bộ"
+    },
+    {
+     "bai": 6,
+     "title": "Thiên nhiên vùng Đồng bằng Bắc Bộ",
+     "book": "Cánh diều",
+     "raw": "Bài 6: Thiên nhiên vùng Đồng bằng Bắc Bộ"
+    }
+   ]
+  },
+  {
+   "title": "Dân cư và hoạt động sản xuất ở vùng Trung du và miền núi Bắc Bộ",
+   "lessons": [
+    {
+     "bai": 5,
+     "title": "Dân cư và hoạt động sản xuất ở vùng Trung du và miền núi Bắc Bộ",
+     "book": "CTST",
+     "raw": "Bài 5: Dân cư và hoạt động sản xuất ở vùng Trung du và miền núi Bắc Bộ"
+    },
+    {
+     "bai": 9,
+     "title": "Dân cư và hoạt động sản xuất ở vùng Đồng bằng Bắc Bộ",
+     "book": "CTST",
+     "raw": "Bài 9: Dân cư và hoạt động sản xuất ở vùng Đồng bằng Bắc Bộ"
+    },
+    {
+     "bai": 15,
+     "title": "Dân cư và hoạt động sản xuất ở vùng Duyên hải miền Trung",
+     "book": "CTST",
+     "raw": "Bài 15: Dân cư và hoạt động sản xuất ở vùng Duyên hải miền Trung"
+    },
+    {
+     "bai": 20,
+     "title": "Dân cư và hoạt động sản xuất ở vùng Tây Nguyên",
+     "book": "CTST",
+     "raw": "Bài 20: Dân cư và hoạt động sản xuất ở vùng Tây Nguyên"
+    },
+    {
+     "bai": 24,
+     "title": "Dân cư và hoạt động sản xuất ở vùng Nam Bộ",
+     "book": "CTST",
+     "raw": "Bài 24: Dân cư và hoạt động sản xuất ở vùng Nam Bộ"
+    },
+    {
+     "bai": 5,
+     "title": "Dân cư và hoạt động sản xuất ở vùng Trung du và miền núi Bắc Bộ",
+     "book": "KNTT",
+     "raw": "Bài 5: Dân cư và hoạt động sản xuất ở vùng Trung du và miền núi Bắc Bộ"
+    },
+    {
+     "bai": 9,
+     "title": "Dân cư và hoạt động sản xuất ở vùng Đồng bằng Bắc Bộ",
+     "book": "KNTT",
+     "raw": "Bài 9: Dân cư và hoạt động sản xuất ở vùng Đồng bằng Bắc Bộ"
+    },
+    {
+     "bai": 16,
+     "title": "Dân cư và hoạt động sản xuất ở vùng Duyên hải miền Trung",
+     "book": "KNTT",
+     "raw": "Bài 16: Dân cư và hoạt động sản xuất ở vùng Duyên hải miền Trung"
+    },
+    {
+     "bai": 21,
+     "title": "Dân cư và hoạt động sản xuất ở vùng Tây Nguyên",
+     "book": "KNTT",
+     "raw": "Bài 21: Dân cư và hoạt động sản xuất ở vùng Tây Nguyên"
+    },
+    {
+     "bai": 25,
+     "title": "Dân cư và hoạt động sản xuất ở vùng Nam Bộ",
+     "book": "KNTT",
+     "raw": "Bài 25: Dân cư và hoạt động sản xuất ở vùng Nam Bộ"
+    },
+    {
+     "bai": 4,
+     "title": "Dân cư, hoạt động sản xuất và một số nét văn hoá ở vùng Trung du và miền núi Bắc Bộ",
+     "book": "Cánh diều",
+     "raw": "Bài 4: Dân cư, hoạt động sản xuất và một số nét văn hoá ở vùng Trung du và miền núi Bắc Bộ"
+    }
+   ]
+  },
+  {
+   "title": "Đền Hùng và Lễ Giỗ Tổ Hùng Vương",
+   "lessons": [
+    {
+     "bai": 7,
+     "title": "Đền Hùng và Lễ Giỗ Tổ Hùng Vương",
+     "book": "CTST",
+     "raw": "Bài 7: Đền Hùng và Lễ Giỗ Tổ Hùng Vương"
+    },
+    {
+     "bai": 7,
+     "title": "Đền Hùng và lễ giỗ Tổ Hùng Vương",
+     "book": "KNTT",
+     "raw": "Bài 7: Đền Hùng và lễ giỗ Tổ Hùng Vương"
+    },
+    {
+     "bai": 5,
+     "title": "Đền Hùng và lễ giỗ Tổ Hùng Vương",
+     "book": "Cánh diều",
+     "raw": "Bài 5: Đền Hùng và lễ giỗ Tổ Hùng Vương"
+    }
+   ]
+  },
+  {
+   "title": "Một số nét văn hoá ở làng quê vùng Đồng bằng Bắc Bộ",
+   "lessons": [
+    {
+     "bai": 10,
+     "title": "Một số nét văn hoá ở làng quê vùng Đồng bằng Bắc Bộ",
+     "book": "CTST",
+     "raw": "Bài 10: Một số nét văn hoá ở làng quê vùng Đồng bằng Bắc Bộ"
+    },
+    {
+     "bai": 10,
+     "title": "Một số nét văn hoá ở vùng Đồng bằng Bắc Bộ",
+     "book": "KNTT",
+     "raw": "Bài 10: Một số nét văn hoá ở vùng Đồng bằng Bắc Bộ"
+    }
+   ]
+  },
+  {
+   "title": "Sông Hồng và văn minh sông Hồng",
+   "lessons": [
+    {
+     "bai": 11,
+     "title": "Sông Hồng và văn minh sông Hồng",
+     "book": "CTST",
+     "raw": "Bài 11: Sông Hồng và văn minh sông Hồng"
+    },
+    {
+     "bai": 11,
+     "title": "Sông Hồng và văn minh sông Hồng",
+     "book": "KNTT",
+     "raw": "Bài 11: Sông Hồng và văn minh sông Hồng"
+    },
+    {
+     "bai": 8,
+     "title": "Sông Hồng và văn minh sông Hồng",
+     "book": "Cánh diều",
+     "raw": "Bài 8: Sông Hồng và văn minh sông Hồng"
+    }
+   ]
+  },
+  {
+   "title": "Thăng Long – Hà Nội",
+   "lessons": [
+    {
+     "bai": 12,
+     "title": "Thăng Long – Hà Nội",
+     "book": "CTST",
+     "raw": "Bài 12: Thăng Long – Hà Nội"
+    },
+    {
+     "bai": 12,
+     "title": "Thăng Long – Hà Nội",
+     "book": "KNTT",
+     "raw": "Bài 12: Thăng Long – Hà Nội"
+    },
+    {
+     "bai": 9,
+     "title": "Thăng Long – Hà Nội",
+     "book": "Cánh diều",
+     "raw": "Bài 9: Thăng Long – Hà Nội"
+    }
+   ]
+  },
+  {
+   "title": "Văn Miếu – Quốc Tử Giám",
+   "lessons": [
+    {
+     "bai": 13,
+     "title": "Văn Miếu – Quốc Tử Giám",
+     "book": "CTST",
+     "raw": "Bài 13: Văn Miếu – Quốc Tử Giám"
+    },
+    {
+     "bai": 13,
+     "title": "Văn Miếu – Quốc Tử Giám",
+     "book": "KNTT",
+     "raw": "Bài 13: Văn Miếu – Quốc Tử Giám"
+    },
+    {
+     "bai": 10,
+     "title": "Văn Miếu – Quốc Tử Giám",
+     "book": "Cánh diều",
+     "raw": "Bài 10: Văn Miếu – Quốc Tử Giám"
+    }
+   ]
+  },
+  {
+   "title": "Thiên nhiên vùng Duyên hải miền Trung",
+   "lessons": [
+    {
+     "bai": 14,
+     "title": "Thiên nhiên vùng Duyên hải miền Trung",
+     "book": "CTST",
+     "raw": "Bài 14: Thiên nhiên vùng Duyên hải miền Trung"
+    },
+    {
+     "bai": 16,
+     "title": "Một số nét văn hoá ở vùng Duyên hải miền Trung",
+     "book": "CTST",
+     "raw": "Bài 16: Một số nét văn hoá ở vùng Duyên hải miền Trung"
+    },
+    {
+     "bai": 15,
+     "title": "Thiên nhiên vùng Duyên hải miền Trung",
+     "book": "KNTT",
+     "raw": "Bài 15: Thiên nhiên vùng Duyên hải miền Trung"
+    },
+    {
+     "bai": 17,
+     "title": "Một số nét văn hoá ở vùng Duyên hải miền Trung",
+     "book": "KNTT",
+     "raw": "Bài 17: Một số nét văn hoá ở vùng Duyên hải miền Trung"
+    },
+    {
+     "bai": 11,
+     "title": "Thiên nhiên vùng Duyên hải miền Trung",
+     "book": "Cánh diều",
+     "raw": "Bài 11: Thiên nhiên vùng Duyên hải miền Trung"
+    }
+   ]
+  },
+  {
+   "title": "Cố đô Huế",
+   "lessons": [
+    {
+     "bai": 17,
+     "title": "Cố đô Huế",
+     "book": "CTST",
+     "raw": "Bài 17: Cố đô Huế"
+    },
+    {
+     "bai": 18,
+     "title": "Cố đô Huế",
+     "book": "KNTT",
+     "raw": "Bài 18: Cố đô Huế"
+    },
+    {
+     "bai": 13,
+     "title": "Cố đô Huế",
+     "book": "Cánh diều",
+     "raw": "Bài 13: Cố đô Huế"
+    }
+   ]
+  },
+  {
+   "title": "Phố cổ Hội An",
+   "lessons": [
+    {
+     "bai": 18,
+     "title": "Phố cổ Hội An",
+     "book": "CTST",
+     "raw": "Bài 18: Phố cổ Hội An"
+    },
+    {
+     "bai": 19,
+     "title": "Phố cổ Hội An",
+     "book": "KNTT",
+     "raw": "Bài 19: Phố cổ Hội An"
+    },
+    {
+     "bai": 14,
+     "title": "Phố cổ Hội An",
+     "book": "Cánh diều",
+     "raw": "Bài 14: Phố cổ Hội An"
+    }
+   ]
+  },
+  {
+   "title": "Thiên nhiên vùng Tây Nguyên",
+   "lessons": [
+    {
+     "bai": 19,
+     "title": "Thiên nhiên vùng Tây Nguyên",
+     "book": "CTST",
+     "raw": "Bài 19: Thiên nhiên vùng Tây Nguyên"
+    },
+    {
+     "bai": 23,
+     "title": "Thiên nhiên vùng Nam Bộ",
+     "book": "CTST",
+     "raw": "Bài 23: Thiên nhiên vùng Nam Bộ"
+    },
+    {
+     "bai": 20,
+     "title": "Thiên nhiên vùng Tây Nguyên",
+     "book": "KNTT",
+     "raw": "Bài 20: Thiên nhiên vùng Tây Nguyên"
+    },
+    {
+     "bai": 24,
+     "title": "Thiên nhiên vùng Nam Bộ",
+     "book": "KNTT",
+     "raw": "Bài 24: Thiên nhiên vùng Nam Bộ"
+    },
+    {
+     "bai": 15,
+     "title": "Thiên nhiên vùng Tây Nguyên",
+     "book": "Cánh diều",
+     "raw": "Bài 15: Thiên nhiên vùng Tây Nguyên"
+    },
+    {
+     "bai": 18,
+     "title": "Thiên nhiên vùng Nam Bộ",
+     "book": "Cánh diều",
+     "raw": "Bài 18: Thiên nhiên vùng Nam Bộ"
+    }
+   ]
+  },
+  {
+   "title": "Một số nét văn hoá và lịch sử của đồng bào Tây Nguyên",
+   "lessons": [
+    {
+     "bai": 21,
+     "title": "Một số nét văn hoá và lịch sử của đồng bào Tây Nguyên",
+     "book": "CTST",
+     "raw": "Bài 21: Một số nét văn hoá và lịch sử của đồng bào Tây Nguyên"
+    }
+   ]
+  },
+  {
+   "title": "Lễ hội Cồng chiêng Tây Nguyên",
+   "lessons": [
+    {
+     "bai": 22,
+     "title": "Lễ hội Cồng chiêng Tây Nguyên",
+     "book": "CTST",
+     "raw": "Bài 22: Lễ hội Cồng chiêng Tây Nguyên"
+    },
+    {
+     "bai": 23,
+     "title": "Lễ hội Cồng chiêng Tây Nguyên",
+     "book": "KNTT",
+     "raw": "Bài 23: Lễ hội Cồng chiêng Tây Nguyên"
+    },
+    {
+     "bai": 17,
+     "title": "Lễ hội Cồng chiêng Tây Nguyên",
+     "book": "Cánh diều",
+     "raw": "Bài 17: Lễ hội Cồng chiêng Tây Nguyên"
+    }
+   ]
+  },
+  {
+   "title": "Một số nét văn hoá và truyền thống cách mạng ở vùng Nam Bộ",
+   "lessons": [
+    {
+     "bai": 25,
+     "title": "Một số nét văn hoá và truyền thống cách mạng ở vùng Nam Bộ",
+     "book": "CTST",
+     "raw": "Bài 25: Một số nét văn hoá và truyền thống cách mạng ở vùng Nam Bộ"
+    },
+    {
+     "bai": 22,
+     "title": "Một số nét văn hoá và truyền thống yêu nước, cách mạng của đồng bào Tây Nguyên",
+     "book": "KNTT",
+     "raw": "Bài 22: Một số nét văn hoá và truyền thống yêu nước, cách mạng của đồng bào Tây Nguyên"
+    },
+    {
+     "bai": 26,
+     "title": "Một số nét văn hoá và truyền thống yêu nước, cách mạng của đồng bào Nam Bộ",
+     "book": "KNTT",
+     "raw": "Bài 26: Một số nét văn hoá và truyền thống yêu nước, cách mạng của đồng bào Nam Bộ"
+    }
+   ]
+  },
+  {
+   "title": "Thành phố Hồ Chí Minh",
+   "lessons": [
+    {
+     "bai": 26,
+     "title": "Thành phố Hồ Chí Minh",
+     "book": "CTST",
+     "raw": "Bài 26: Thành phố Hồ Chí Minh"
+    },
+    {
+     "bai": 27,
+     "title": "Thành phố Hồ Chí Minh",
+     "book": "KNTT",
+     "raw": "Bài 27: Thành phố Hồ Chí Minh"
+    },
+    {
+     "bai": 20,
+     "title": "Thành phố Hồ Chí Minh",
+     "book": "Cánh diều",
+     "raw": "Bài 20: Thành phố Hồ Chí Minh"
+    }
+   ]
+  },
+  {
+   "title": "Địa đạo Củ Chi",
+   "lessons": [
+    {
+     "bai": 27,
+     "title": "Địa đạo Củ Chi",
+     "book": "CTST",
+     "raw": "Bài 27: Địa đạo Củ Chi"
+    },
+    {
+     "bai": 28,
+     "title": "Địa đạo Củ Chi",
+     "book": "KNTT",
+     "raw": "Bài 28: Địa đạo Củ Chi"
+    },
+    {
+     "bai": 21,
+     "title": "Địa đạo Củ Chi",
+     "book": "Cánh diều",
+     "raw": "Bài 21: Địa đạo Củ Chi"
+    }
+   ]
+  },
+  {
+   "title": "Địa phương em (tỉnh, thành phố trực thuộc Trung ương)",
+   "lessons": [
+    {
+     "bai": 2,
+     "title": "Địa phương em (tỉnh, thành phố trực thuộc Trung ương)",
+     "book": "Cánh diều",
+     "raw": "Bài 2: Địa phương em (tỉnh, thành phố trực thuộc Trung ương)"
+    }
+   ]
+  },
+  {
+   "title": "Dân cư, hoạt động sản xuất và một số nét văn hoá ở vùng Đồng bằng Bắc Bộ",
+   "lessons": [
+    {
+     "bai": 7,
+     "title": "Dân cư, hoạt động sản xuất và một số nét văn hoá ở vùng Đồng bằng Bắc Bộ",
+     "book": "Cánh diều",
+     "raw": "Bài 7: Dân cư, hoạt động sản xuất và một số nét văn hoá ở vùng Đồng bằng Bắc Bộ"
+    },
+    {
+     "bai": 12,
+     "title": "Dân cư, hoạt động sản xuất và một số nét văn hoá ở vùng Duyên hải miền Trung",
+     "book": "Cánh diều",
+     "raw": "Bài 12: Dân cư, hoạt động sản xuất và một số nét văn hoá ở vùng Duyên hải miền Trung"
+    },
+    {
+     "bai": 16,
+     "title": "Dân cư, hoạt động sản xuất và một số nét văn hoá ở vùng Tây Nguyên",
+     "book": "Cánh diều",
+     "raw": "Bài 16: Dân cư, hoạt động sản xuất và một số nét văn hoá ở vùng Tây Nguyên"
+    },
+    {
+     "bai": 19,
+     "title": "Dân cư, hoạt động sản xuất và một số nét văn hoá ở vùng Nam Bộ",
+     "book": "Cánh diều",
+     "raw": "Bài 19: Dân cư, hoạt động sản xuất và một số nét văn hoá ở vùng Nam Bộ"
+    }
+   ]
+  }
+ ],
+ "5": [
+  {
+   "title": "“Bình Tây Đại nguyên soái” Trương Định",
+   "lessons": [
+    {
+     "bai": 1,
+     "title": "“Bình Tây Đại nguyên soái” Trương Định",
+     "book": "NXBDG",
+     "raw": "Bài 1: “Bình Tây Đại nguyên soái” Trương Định"
+    }
+   ]
+  },
+  {
+   "title": "Nguyễn Trường Tộ mong muốn canh tân đất nước",
+   "lessons": [
+    {
+     "bai": 2,
+     "title": "Nguyễn Trường Tộ mong muốn canh tân đất nước",
+     "book": "NXBDG",
+     "raw": "Bài 2: Nguyễn Trường Tộ mong muốn canh tân đất nước"
+    }
+   ]
+  },
+  {
+   "title": "Cuộc phản công ở kinh thành Huế",
+   "lessons": [
+    {
+     "bai": 3,
+     "title": "Cuộc phản công ở kinh thành Huế",
+     "book": "NXBDG",
+     "raw": "Bài 3: Cuộc phản công ở kinh thành Huế"
+    }
+   ]
+  },
+  {
+   "title": "Xã hội Việt Nam cuối thế kỉ XIX - đầu thế kỉ XX",
+   "lessons": [
+    {
+     "bai": 4,
+     "title": "Xã hội Việt Nam cuối thế kỉ XIX - đầu thế kỉ XX",
+     "book": "NXBDG",
+     "raw": "Bài 4: Xã hội Việt Nam cuối thế kỉ XIX - đầu thế kỉ XX"
+    }
+   ]
+  },
+  {
+   "title": "Phan Bội Châu và phong trào Đông du",
+   "lessons": [
+    {
+     "bai": 5,
+     "title": "Phan Bội Châu và phong trào Đông du",
+     "book": "NXBDG",
+     "raw": "Bài 5: Phan Bội Châu và phong trào Đông du"
+    }
+   ]
+  },
+  {
+   "title": "Quyết chí ra đi tìm đường cứu nước",
+   "lessons": [
+    {
+     "bai": 6,
+     "title": "Quyết chí ra đi tìm đường cứu nước",
+     "book": "NXBDG",
+     "raw": "Bài 6: Quyết chí ra đi tìm đường cứu nước"
+    }
+   ]
+  },
+  {
+   "title": "Đảng Cộng sản Việt Nam ra đời",
+   "lessons": [
+    {
+     "bai": 7,
+     "title": "Đảng Cộng sản Việt Nam ra đời",
+     "book": "NXBDG",
+     "raw": "Bài 7: Đảng Cộng sản Việt Nam ra đời"
+    }
+   ]
+  },
+  {
+   "title": "Xô viết Nghệ - Tĩnh",
+   "lessons": [
+    {
+     "bai": 8,
+     "title": "Xô viết Nghệ - Tĩnh",
+     "book": "NXBDG",
+     "raw": "Bài 8: Xô viết Nghệ - Tĩnh"
+    }
+   ]
+  },
+  {
+   "title": "Cách mạng mùa thu",
+   "lessons": [
+    {
+     "bai": 9,
+     "title": "Cách mạng mùa thu",
+     "book": "NXBDG",
+     "raw": "Bài 9: Cách mạng mùa thu"
+    }
+   ]
+  },
+  {
+   "title": "Bác Hồ đọc Tuyên ngôn Độc lập",
+   "lessons": [
+    {
+     "bai": 10,
+     "title": "Bác Hồ đọc Tuyên ngôn Độc lập",
+     "book": "NXBDG",
+     "raw": "Bài 10: Bác Hồ đọc Tuyên ngôn Độc lập"
+    }
+   ]
+  },
+  {
+   "title": "Ôn tập: Hơn tám mươi năm chống thực dân Pháp xâm lược và đô hộ (1858 - 1945)",
+   "lessons": [
+    {
+     "bai": 11,
+     "title": "Ôn tập: Hơn tám mươi năm chống thực dân Pháp xâm lược và đô hộ (1858 - 1945)",
+     "book": "NXBDG",
+     "raw": "Bài 11: Ôn tập: Hơn tám mươi năm chống thực dân Pháp xâm lược và đô hộ (1858 - 1945)"
+    }
+   ]
+  },
+  {
+   "title": "Vượt qua tình thế hiểm nghèo",
+   "lessons": [
+    {
+     "bai": 12,
+     "title": "Vượt qua tình thế hiểm nghèo",
+     "book": "NXBDG",
+     "raw": "Bài 12: Vượt qua tình thế hiểm nghèo"
+    }
+   ]
+  },
+  {
+   "title": "“Thà hi sinh tất cả, chứ nhất định không chịu mất nước”",
+   "lessons": [
+    {
+     "bai": 13,
+     "title": "“Thà hi sinh tất cả, chứ nhất định không chịu mất nước”",
+     "book": "NXBDG",
+     "raw": "Bài 13: “Thà hi sinh tất cả, chứ nhất định không chịu mất nước”"
+    }
+   ]
+  },
+  {
+   "title": "Thu - đông 1947, Việt Bắc “mồ chôn giặc Pháp”",
+   "lessons": [
+    {
+     "bai": 14,
+     "title": "Thu - đông 1947, Việt Bắc “mồ chôn giặc Pháp”",
+     "book": "NXBDG",
+     "raw": "Bài 14: Thu - đông 1947, Việt Bắc “mồ chôn giặc Pháp”"
+    }
+   ]
+  },
+  {
+   "title": "Chiến thắng Biên giới thu - đông 1950",
+   "lessons": [
+    {
+     "bai": 15,
+     "title": "Chiến thắng Biên giới thu - đông 1950",
+     "book": "NXBDG",
+     "raw": "Bài 15: Chiến thắng Biên giới thu - đông 1950"
+    }
+   ]
+  },
+  {
+   "title": "Hậu phương những năm sau chiến dịch Biên giới",
+   "lessons": [
+    {
+     "bai": 16,
+     "title": "Hậu phương những năm sau chiến dịch Biên giới",
+     "book": "NXBDG",
+     "raw": "Bài 16: Hậu phương những năm sau chiến dịch Biên giới"
+    }
+   ]
+  },
+  {
+   "title": "Chiến thắng lịch sử Điện Biên Phủ",
+   "lessons": [
+    {
+     "bai": 17,
+     "title": "Chiến thắng lịch sử Điện Biên Phủ",
+     "book": "NXBDG",
+     "raw": "Bài 17: Chiến thắng lịch sử Điện Biên Phủ"
+    },
+    {
+     "bai": 24,
+     "title": "Chiến thắng \"Điện Biên Phủ trên không\"",
+     "book": "NXBDG",
+     "raw": "Bài 24: Chiến thắng \"Điện Biên Phủ trên không\""
+    }
+   ]
+  },
+  {
+   "title": "Ôn tập: Chín năm kháng chiến bảo vệ độc lập dân tộc (1945 - 1954)",
+   "lessons": [
+    {
+     "bai": 18,
+     "title": "Ôn tập: Chín năm kháng chiến bảo vệ độc lập dân tộc (1945 - 1954)",
+     "book": "NXBDG",
+     "raw": "Bài 18: Ôn tập: Chín năm kháng chiến bảo vệ độc lập dân tộc (1945 - 1954)"
+    }
+   ]
+  },
+  {
+   "title": "Nước nhà bị chia cắt",
+   "lessons": [
+    {
+     "bai": 19,
+     "title": "Nước nhà bị chia cắt",
+     "book": "NXBDG",
+     "raw": "Bài 19: Nước nhà bị chia cắt"
+    }
+   ]
+  },
+  {
+   "title": "Bến Tre đồng khởi",
+   "lessons": [
+    {
+     "bai": 20,
+     "title": "Bến Tre đồng khởi",
+     "book": "NXBDG",
+     "raw": "Bài 20: Bến Tre đồng khởi"
+    }
+   ]
+  },
+  {
+   "title": "Nhà máy hiện đại đầu tiên của nước ta",
+   "lessons": [
+    {
+     "bai": 21,
+     "title": "Nhà máy hiện đại đầu tiên của nước ta",
+     "book": "NXBDG",
+     "raw": "Bài 21: Nhà máy hiện đại đầu tiên của nước ta"
+    }
+   ]
+  },
+  {
+   "title": "Đường Trường Sơn",
+   "lessons": [
+    {
+     "bai": 22,
+     "title": "Đường Trường Sơn",
+     "book": "NXBDG",
+     "raw": "Bài 22: Đường Trường Sơn"
+    }
+   ]
+  },
+  {
+   "title": "Sấm sét đêm giao thừa",
+   "lessons": [
+    {
+     "bai": 23,
+     "title": "Sấm sét đêm giao thừa",
+     "book": "NXBDG",
+     "raw": "Bài 23: Sấm sét đêm giao thừa"
+    }
+   ]
+  },
+  {
+   "title": "Lễ kí Hiệp định Pa-ri",
+   "lessons": [
+    {
+     "bai": 25,
+     "title": "Lễ kí Hiệp định Pa-ri",
+     "book": "NXBDG",
+     "raw": "Bài 25: Lễ kí Hiệp định Pa-ri"
+    }
+   ]
+  },
+  {
+   "title": "Tiến vào Dinh Độc Lập",
+   "lessons": [
+    {
+     "bai": 26,
+     "title": "Tiến vào Dinh Độc Lập",
+     "book": "NXBDG",
+     "raw": "Bài 26: Tiến vào Dinh Độc Lập"
+    }
+   ]
+  },
+  {
+   "title": "Hoàn thành thống nhất đất nước",
+   "lessons": [
+    {
+     "bai": 27,
+     "title": "Hoàn thành thống nhất đất nước",
+     "book": "NXBDG",
+     "raw": "Bài 27: Hoàn thành thống nhất đất nước"
+    }
+   ]
+  },
+  {
+   "title": "Xây dựng Nhà máy Thuỷ điện Hoà Bình",
+   "lessons": [
+    {
+     "bai": 28,
+     "title": "Xây dựng Nhà máy Thuỷ điện Hoà Bình",
+     "book": "NXBDG",
+     "raw": "Bài 28: Xây dựng Nhà máy Thuỷ điện Hoà Bình"
+    }
+   ]
+  },
+  {
+   "title": "Ôn tập: Lịch sử nước ta từ giữa thế kỉ XIX đến nay",
+   "lessons": [
+    {
+     "bai": 29,
+     "title": "Ôn tập: Lịch sử nước ta từ giữa thế kỉ XIX đến nay",
+     "book": "NXBDG",
+     "raw": "Bài 29: Ôn tập: Lịch sử nước ta từ giữa thế kỉ XIX đến nay"
+    }
+   ]
+  },
+  {
+   "title": "Vị trí địa lí, lãnh thổ, đơn vị hành chính, Quốc kì, Quốc huy, Quốc ca",
+   "lessons": [
+    {
+     "bai": 1,
+     "title": "Vị trí địa lí, lãnh thổ, đơn vị hành chính, Quốc kì, Quốc huy, Quốc ca",
+     "book": "KNTT",
+     "raw": "Bài 1: Vị trí địa lí, lãnh thổ, đơn vị hành chính, Quốc kì, Quốc huy, Quốc ca"
+    },
+    {
+     "bai": 1,
+     "title": "Vị trí địa lí, lãnh thổ, đơn vị hành chính, Quốc kì, Quốc huy, Quốc ca của Việt Nam",
+     "book": "Cánh diều",
+     "raw": "Bài 1: Vị trí địa lí, lãnh thổ, đơn vị hành chính, Quốc kì, Quốc huy, Quốc ca của Việt Nam"
+    },
+    {
+     "bai": 1,
+     "title": "Vị trí địa lí, lãnh thổ, đơn vị hành chính, Quốc kì, Quốc huy, Quốc ca",
+     "book": "CTST",
+     "raw": "Bài 1: Vị trí địa lí, lãnh thổ, đơn vị hành chính, Quốc kì, Quốc huy, Quốc ca"
+    }
+   ]
+  },
+  {
+   "title": "Thiên nhiên Việt Nam",
+   "lessons": [
+    {
+     "bai": 2,
+     "title": "Thiên nhiên Việt Nam",
+     "book": "KNTT",
+     "raw": "Bài 2: Thiên nhiên Việt Nam"
+    },
+    {
+     "bai": 2,
+     "title": "Thiên nhiên Việt Nam",
+     "book": "Cánh diều",
+     "raw": "Bài 2: Thiên nhiên Việt Nam"
+    },
+    {
+     "bai": 2,
+     "title": "Thiên nhiên Việt Nam",
+     "book": "CTST",
+     "raw": "Bài 2: Thiên nhiên Việt Nam"
+    }
+   ]
+  },
+  {
+   "title": "Biển, đảo Việt Nam",
+   "lessons": [
+    {
+     "bai": 3,
+     "title": "Biển, đảo Việt Nam",
+     "book": "KNTT",
+     "raw": "Bài 3: Biển, đảo Việt Nam"
+    },
+    {
+     "bai": 3,
+     "title": "Biển, đảo Việt Nam",
+     "book": "Cánh diều",
+     "raw": "Bài 3: Biển, đảo Việt Nam"
+    },
+    {
+     "bai": 3,
+     "title": "Biển, đảo Việt Nam",
+     "book": "CTST",
+     "raw": "Bài 3: Biển, đảo Việt Nam"
+    }
+   ]
+  },
+  {
+   "title": "Dân cư và dân tộc ở Việt Nam",
+   "lessons": [
+    {
+     "bai": 4,
+     "title": "Dân cư và dân tộc ở Việt Nam",
+     "book": "KNTT",
+     "raw": "Bài 4: Dân cư và dân tộc ở Việt Nam"
+    },
+    {
+     "bai": 4,
+     "title": "Dân cư và dân tộc ở Việt Nam",
+     "book": "Cánh diều",
+     "raw": "Bài 4: Dân cư và dân tộc ở Việt Nam"
+    },
+    {
+     "bai": 4,
+     "title": "Dân cư và dân tộc ở Việt Nam",
+     "book": "CTST",
+     "raw": "Bài 4: Dân cư và dân tộc ở Việt Nam"
+    }
+   ]
+  },
+  {
+   "title": "Nhà nước Văn Lang, Nhà nước Âu Lạc",
+   "lessons": [
+    {
+     "bai": 5,
+     "title": "Nhà nước Văn Lang, Nhà nước Âu Lạc",
+     "book": "KNTT",
+     "raw": "Bài 5: Nhà nước Văn Lang, Nhà nước Âu Lạc"
+    },
+    {
+     "bai": 5,
+     "title": "Nước Văn Lang, Âu Lạc",
+     "book": "Cánh diều",
+     "raw": "Bài 5: Nước Văn Lang, Âu Lạc"
+    },
+    {
+     "bai": 5,
+     "title": "Nước Văn Lang, Âu Lạc",
+     "book": "CTST",
+     "raw": "Bài 5: Nước Văn Lang, Âu Lạc"
+    }
+   ]
+  },
+  {
+   "title": "Vương quốc Phù Nam",
+   "lessons": [
+    {
+     "bai": 6,
+     "title": "Vương quốc Phù Nam",
+     "book": "KNTT",
+     "raw": "Bài 6: Vương quốc Phù Nam"
+    },
+    {
+     "bai": 7,
+     "title": "Vương quốc Chăm-pa",
+     "book": "KNTT",
+     "raw": "Bài 7: Vương quốc Chăm-pa"
+    },
+    {
+     "bai": 6,
+     "title": "Vương quốc Phù Nam",
+     "book": "Cánh diều",
+     "raw": "Bài 6: Vương quốc Phù Nam"
+    },
+    {
+     "bai": 6,
+     "title": "Vương quốc Phù Nam",
+     "book": "CTST",
+     "raw": "Bài 6: Vương quốc Phù Nam"
+    }
+   ]
+  },
+  {
+   "title": "Đấu tranh giành độc lập thời kì Bắc thuộc",
+   "lessons": [
+    {
+     "bai": 8,
+     "title": "Đấu tranh giành độc lập thời kì Bắc thuộc",
+     "book": "KNTT",
+     "raw": "Bài 8: Đấu tranh giành độc lập thời kì Bắc thuộc"
+    },
+    {
+     "bai": 8,
+     "title": "Đấu tranh giành độc lập thời kì Bắc thuộc",
+     "book": "Cánh diều",
+     "raw": "Bài 8: Đấu tranh giành độc lập thời kì Bắc thuộc"
+    },
+    {
+     "bai": 8,
+     "title": "Đấu tranh giành độc lập thời kì Bắc thuộc",
+     "book": "CTST",
+     "raw": "Bài 8: Đấu tranh giành độc lập thời kì Bắc thuộc"
+    }
+   ]
+  },
+  {
+   "title": "Triều Lý và việc định đô ở Thăng Long",
+   "lessons": [
+    {
+     "bai": 9,
+     "title": "Triều Lý và việc định đô ở Thăng Long",
+     "book": "KNTT",
+     "raw": "Bài 9: Triều Lý và việc định đô ở Thăng Long"
+    },
+    {
+     "bai": 9,
+     "title": "Triều Lý và việc định đô ở Thăng Long",
+     "book": "Cánh diều",
+     "raw": "Bài 9: Triều Lý và việc định đô ở Thăng Long"
+    },
+    {
+     "bai": 9,
+     "title": "Triều Lý và việc định đô ở Thăng Long",
+     "book": "CTST",
+     "raw": "Bài 9: Triều Lý và việc định đô ở Thăng Long"
+    }
+   ]
+  },
+  {
+   "title": "Triều Trần xây dựng đất nước và kháng chiến chống quân Mông - Nguyên xâm lược",
+   "lessons": [
+    {
+     "bai": 10,
+     "title": "Triều Trần xây dựng đất nước và kháng chiến chống quân Mông - Nguyên xâm lược",
+     "book": "KNTT",
+     "raw": "Bài 10: Triều Trần xây dựng đất nước và kháng chiến chống quân Mông - Nguyên xâm lược"
+    },
+    {
+     "bai": 10,
+     "title": "Triều Trần và kháng chiến chống Mông - Nguyên",
+     "book": "Cánh diều",
+     "raw": "Bài 10: Triều Trần và kháng chiến chống Mông - Nguyên"
+    },
+    {
+     "bai": 10,
+     "title": "Triều Trần và kháng chiến chống Mông – Nguyên",
+     "book": "CTST",
+     "raw": "Bài 10: Triều Trần và kháng chiến chống Mông – Nguyên"
+    }
+   ]
+  },
+  {
+   "title": "Ôn tập",
+   "lessons": [
+    {
+     "bai": 11,
+     "title": "Ôn tập",
+     "book": "KNTT",
+     "raw": "Bài 11: Ôn tập"
+    },
+    {
+     "bai": 28,
+     "title": "Ôn tập",
+     "book": "KNTT",
+     "raw": "Bài 28: Ôn tập"
+    }
+   ]
+  },
+  {
+   "title": "Khởi nghĩa Lam Sơn và Triều Hậu Lê",
+   "lessons": [
+    {
+     "bai": 12,
+     "title": "Khởi nghĩa Lam Sơn và Triều Hậu Lê",
+     "book": "KNTT",
+     "raw": "Bài 12: Khởi nghĩa Lam Sơn và Triều Hậu Lê"
+    },
+    {
+     "bai": 11,
+     "title": "Khởi nghĩa Lam Sơn và Triều Hậu Lê",
+     "book": "Cánh diều",
+     "raw": "Bài 11: Khởi nghĩa Lam Sơn và Triều Hậu Lê"
+    },
+    {
+     "bai": 11,
+     "title": "Khởi nghĩa Lam Sơn và Triều Hậu Lê",
+     "book": "CTST",
+     "raw": "Bài 11: Khởi nghĩa Lam Sơn và Triều Hậu Lê"
+    }
+   ]
+  },
+  {
+   "title": "Triều Nguyễn",
+   "lessons": [
+    {
+     "bai": 13,
+     "title": "Triều Nguyễn",
+     "book": "KNTT",
+     "raw": "Bài 13: Triều Nguyễn"
+    },
+    {
+     "bai": 12,
+     "title": "Triều Nguyễn",
+     "book": "Cánh diều",
+     "raw": "Bài 12: Triều Nguyễn"
+    },
+    {
+     "bai": 12,
+     "title": "Triều Nguyễn",
+     "book": "CTST",
+     "raw": "Bài 12: Triều Nguyễn"
+    }
+   ]
+  },
+  {
+   "title": "Cách mạng tháng Tám năm 1945",
+   "lessons": [
+    {
+     "bai": 14,
+     "title": "Cách mạng tháng Tám năm 1945",
+     "book": "KNTT",
+     "raw": "Bài 14: Cách mạng tháng Tám năm 1945"
+    },
+    {
+     "bai": 13,
+     "title": "Cách mạng tháng Tám năm 1945",
+     "book": "Cánh diều",
+     "raw": "Bài 13: Cách mạng tháng Tám năm 1945"
+    },
+    {
+     "bai": 13,
+     "title": "Cách mạng tháng Tám năm 1945",
+     "book": "CTST",
+     "raw": "Bài 13: Cách mạng tháng Tám năm 1945"
+    }
+   ]
+  },
+  {
+   "title": "Chiến dịch Điện Biên Phủ năm 1954",
+   "lessons": [
+    {
+     "bai": 15,
+     "title": "Chiến dịch Điện Biên Phủ năm 1954",
+     "book": "KNTT",
+     "raw": "Bài 15: Chiến dịch Điện Biên Phủ năm 1954"
+    },
+    {
+     "bai": 14,
+     "title": "Chiến dịch Điện Biên Phủ năm 1954",
+     "book": "Cánh diều",
+     "raw": "Bài 14: Chiến dịch Điện Biên Phủ năm 1954"
+    },
+    {
+     "bai": 14,
+     "title": "Chiến dịch Điện Biên Phủ năm 1954",
+     "book": "CTST",
+     "raw": "Bài 14: Chiến dịch Điện Biên Phủ năm 1954"
+    }
+   ]
+  },
+  {
+   "title": "Chiến dịch Hồ Chí Minh năm 1975",
+   "lessons": [
+    {
+     "bai": 16,
+     "title": "Chiến dịch Hồ Chí Minh năm 1975",
+     "book": "KNTT",
+     "raw": "Bài 16: Chiến dịch Hồ Chí Minh năm 1975"
+    },
+    {
+     "bai": 15,
+     "title": "Chiến dịch Hồ Chí Minh năm 1975",
+     "book": "Cánh diều",
+     "raw": "Bài 15: Chiến dịch Hồ Chí Minh năm 1975"
+    },
+    {
+     "bai": 15,
+     "title": "Chiến dịch Hồ Chí Minh năm 1975",
+     "book": "CTST",
+     "raw": "Bài 15: Chiến dịch Hồ Chí Minh năm 1975"
+    }
+   ]
+  },
+  {
+   "title": "Đất nước Đổi mới",
+   "lessons": [
+    {
+     "bai": 17,
+     "title": "Đất nước Đổi mới",
+     "book": "KNTT",
+     "raw": "Bài 17: Đất nước Đổi mới"
+    },
+    {
+     "bai": 16,
+     "title": "Đất nước đổi mới",
+     "book": "Cánh diều",
+     "raw": "Bài 16: Đất nước đổi mới"
+    },
+    {
+     "bai": 16,
+     "title": "Đất nước đổi mới",
+     "book": "CTST",
+     "raw": "Bài 16: Đất nước đổi mới"
+    }
+   ]
+  },
+  {
+   "title": "Nước Cộng hoà Nhân dân Trung Hoa",
+   "lessons": [
+    {
+     "bai": 18,
+     "title": "Nước Cộng hoà Nhân dân Trung Hoa",
+     "book": "KNTT",
+     "raw": "Bài 18: Nước Cộng hoà Nhân dân Trung Hoa"
+    },
+    {
+     "bai": 19,
+     "title": "Nước Cộng hoà Dân chủ Nhân dân Lào",
+     "book": "KNTT",
+     "raw": "Bài 19: Nước Cộng hoà Dân chủ Nhân dân Lào"
+    },
+    {
+     "bai": 17,
+     "title": "Nước Cộng hoà Nhân dân Trung Hoa",
+     "book": "Cánh diều",
+     "raw": "Bài 17: Nước Cộng hoà Nhân dân Trung Hoa"
+    },
+    {
+     "bai": 17,
+     "title": "Nước Cộng hoà Nhân dân Trung Hoa",
+     "book": "CTST",
+     "raw": "Bài 17: Nước Cộng hoà Nhân dân Trung Hoa"
+    },
+    {
+     "bai": 18,
+     "title": "Nước Cộng hoà Dân chủ Nhân dân Lào",
+     "book": "CTST",
+     "raw": "Bài 18: Nước Cộng hoà Dân chủ Nhân dân Lào"
+    }
+   ]
+  },
+  {
+   "title": "Vương quốc Cam-pu-chia",
+   "lessons": [
+    {
+     "bai": 20,
+     "title": "Vương quốc Cam-pu-chia",
+     "book": "KNTT",
+     "raw": "Bài 20: Vương quốc Cam-pu-chia"
+    },
+    {
+     "bai": 7,
+     "title": "Vương quốc Chăm-pa",
+     "book": "Cánh diều",
+     "raw": "Bài 7: Vương quốc Chăm-pa"
+    },
+    {
+     "bai": 7,
+     "title": "Vương quốc Chăm-pa",
+     "book": "CTST",
+     "raw": "Bài 7: Vương quốc Chăm-pa"
+    },
+    {
+     "bai": 19,
+     "title": "Vương quốc Cam-pu-chia",
+     "book": "CTST",
+     "raw": "Bài 19: Vương quốc Cam-pu-chia"
+    }
+   ]
+  },
+  {
+   "title": "Hiệp hội các quốc gia Đông Nam Á",
+   "lessons": [
+    {
+     "bai": 21,
+     "title": "Hiệp hội các quốc gia Đông Nam Á",
+     "book": "KNTT",
+     "raw": "Bài 21: Hiệp hội các quốc gia Đông Nam Á"
+    },
+    {
+     "bai": 19,
+     "title": "Hiệp hội các quốc gia Đông Nam Á",
+     "book": "Cánh diều",
+     "raw": "Bài 19: Hiệp hội các quốc gia Đông Nam Á"
+    },
+    {
+     "bai": 20,
+     "title": "Hiệp hội các quốc gia Đông Nam Á (ASEAN)",
+     "book": "CTST",
+     "raw": "Bài 20: Hiệp hội các quốc gia Đông Nam Á (ASEAN)"
+    }
+   ]
+  },
+  {
+   "title": "Các châu lục và đại dương trên thế giới",
+   "lessons": [
+    {
+     "bai": 22,
+     "title": "Các châu lục và đại dương trên thế giới",
+     "book": "KNTT",
+     "raw": "Bài 22: Các châu lục và đại dương trên thế giới"
+    },
+    {
+     "bai": 20,
+     "title": "Các châu lục và đại dương trên thế giới",
+     "book": "Cánh diều",
+     "raw": "Bài 20: Các châu lục và đại dương trên thế giới"
+    },
+    {
+     "bai": 21,
+     "title": "Các châu lục và đại dương trên thế giới",
+     "book": "CTST",
+     "raw": "Bài 21: Các châu lục và đại dương trên thế giới"
+    }
+   ]
+  },
+  {
+   "title": "Dân số và các chủng tộc chính trên thế giới",
+   "lessons": [
+    {
+     "bai": 23,
+     "title": "Dân số và các chủng tộc chính trên thế giới",
+     "book": "KNTT",
+     "raw": "Bài 23: Dân số và các chủng tộc chính trên thế giới"
+    },
+    {
+     "bai": 21,
+     "title": "Dân số và các chủng tộc trên thế giới",
+     "book": "Cánh diều",
+     "raw": "Bài 21: Dân số và các chủng tộc trên thế giới"
+    },
+    {
+     "bai": 22,
+     "title": "Dân số và các chủng tộc trên thế giới",
+     "book": "CTST",
+     "raw": "Bài 22: Dân số và các chủng tộc trên thế giới"
+    }
+   ]
+  },
+  {
+   "title": "Văn minh Ai Cập",
+   "lessons": [
+    {
+     "bai": 24,
+     "title": "Văn minh Ai Cập",
+     "book": "KNTT",
+     "raw": "Bài 24: Văn minh Ai Cập"
+    },
+    {
+     "bai": 25,
+     "title": "Văn minh Hy Lạp",
+     "book": "KNTT",
+     "raw": "Bài 25: Văn minh Hy Lạp"
+    },
+    {
+     "bai": 23,
+     "title": "Văn minh Ai Cập",
+     "book": "CTST",
+     "raw": "Bài 23: Văn minh Ai Cập"
+    },
+    {
+     "bai": 24,
+     "title": "Văn minh Hy Lạp",
+     "book": "CTST",
+     "raw": "Bài 24: Văn minh Hy Lạp"
+    }
+   ]
+  },
+  {
+   "title": "Xây dựng thế giới xanh - sạch - đẹp",
+   "lessons": [
+    {
+     "bai": 26,
+     "title": "Xây dựng thế giới xanh - sạch - đẹp",
+     "book": "KNTT",
+     "raw": "Bài 26: Xây dựng thế giới xanh - sạch - đẹp"
+    },
+    {
+     "bai": 23,
+     "title": "Xây dựng thế giới xanh - sạch - đẹp",
+     "book": "Cánh diều",
+     "raw": "Bài 23: Xây dựng thế giới xanh - sạch - đẹp"
+    },
+    {
+     "bai": 25,
+     "title": "Xây dựng thế giới xanh – sạch – đẹp",
+     "book": "CTST",
+     "raw": "Bài 25: Xây dựng thế giới xanh – sạch – đẹp"
+    }
+   ]
+  },
+  {
+   "title": "Xây dựng thế giới hoà bình",
+   "lessons": [
+    {
+     "bai": 27,
+     "title": "Xây dựng thế giới hoà bình",
+     "book": "KNTT",
+     "raw": "Bài 27: Xây dựng thế giới hoà bình"
+    },
+    {
+     "bai": 24,
+     "title": "Xây dựng thế giới hoà bình",
+     "book": "Cánh diều",
+     "raw": "Bài 24: Xây dựng thế giới hoà bình"
+    },
+    {
+     "bai": 26,
+     "title": "Xây dựng thế giới hoà bình",
+     "book": "CTST",
+     "raw": "Bài 26: Xây dựng thế giới hoà bình"
+    }
+   ]
+  },
+  {
+   "title": "Nước Cộng hoà Dân chủ Nhân dân Lào và Vương quốc Cam-pu-chia",
+   "lessons": [
+    {
+     "bai": 18,
+     "title": "Nước Cộng hoà Dân chủ Nhân dân Lào và Vương quốc Cam-pu-chia",
+     "book": "Cánh diều",
+     "raw": "Bài 18: Nước Cộng hoà Dân chủ Nhân dân Lào và Vương quốc Cam-pu-chia"
+    }
+   ]
+  },
+  {
+   "title": "Một số nền văn minh nổi tiếng thế giới",
+   "lessons": [
+    {
+     "bai": 22,
+     "title": "Một số nền văn minh nổi tiếng thế giới",
+     "book": "Cánh diều",
+     "raw": "Bài 22: Một số nền văn minh nổi tiếng thế giới"
+    }
+   ]
+  }
+ ],
+ "6": [
+  {
+   "title": "Sơ lược về môn Lịch sử",
+   "lessons": [
+    {
+     "bai": 1,
+     "title": "Sơ lược về môn Lịch sử",
+     "book": "Sách cũ",
+     "raw": "Bài 1: Sơ lược về môn Lịch sử"
+    }
+   ]
+  },
+  {
+   "title": "Cách tính thời gian trong lịch sử",
+   "lessons": [
+    {
+     "bai": 2,
+     "title": "Cách tính thời gian trong lịch sử",
+     "book": "Sách cũ",
+     "raw": "Bài 2: Cách tính thời gian trong lịch sử"
+    },
+    {
+     "bai": 2,
+     "title": "Thời gian trong lịch sử",
+     "book": "CTST",
+     "raw": "Bài 2: Thời gian trong lịch sử"
+    },
+    {
+     "bai": 3,
+     "title": "Thời gian trong lịch sử",
+     "book": "KNTT",
+     "raw": "Bài 3: Thời gian trong lịch sử"
+    },
+    {
+     "bai": 2,
+     "title": "Thời gian trong lịch sử",
+     "book": "Cánh diều",
+     "raw": "Bài 2: Thời gian trong lịch sử"
+    }
+   ]
+  },
+  {
+   "title": "Xã hội nguyên thuỷ",
+   "lessons": [
+    {
+     "bai": 3,
+     "title": "Xã hội nguyên thuỷ",
+     "book": "Sách cũ",
+     "raw": "Bài 3: Xã hội nguyên thuỷ"
+    },
+    {
+     "bai": 4,
+     "title": "Xã hội nguyên thuỷ",
+     "book": "CTST",
+     "raw": "Bài 4: Xã hội nguyên thuỷ"
+    },
+    {
+     "bai": 5,
+     "title": "Xã hội nguyên thuỷ",
+     "book": "KNTT",
+     "raw": "Bài 5: Xã hội nguyên thuỷ"
+    },
+    {
+     "bai": 4,
+     "title": "Xã hội nguyên thuỷ",
+     "book": "Cánh diều",
+     "raw": "Bài 4: Xã hội nguyên thuỷ"
+    }
+   ]
+  },
+  {
+   "title": "Các quốc gia cổ đại phương Đông",
+   "lessons": [
+    {
+     "bai": 4,
+     "title": "Các quốc gia cổ đại phương Đông",
+     "book": "Sách cũ",
+     "raw": "Bài 4: Các quốc gia cổ đại phương Đông"
+    },
+    {
+     "bai": 5,
+     "title": "Các quốc gia cổ đại phương Tây",
+     "book": "Sách cũ",
+     "raw": "Bài 5: Các quốc gia cổ đại phương Tây"
+    },
+    {
+     "bai": 11,
+     "title": "Các quốc gia sơ kì ở Đông Nam Á",
+     "book": "KNTT",
+     "raw": "Bài 11: Các quốc gia sơ kì ở Đông Nam Á"
+    }
+   ]
+  },
+  {
+   "title": "Văn hoá cổ đại",
+   "lessons": [
+    {
+     "bai": 6,
+     "title": "Văn hoá cổ đại",
+     "book": "Sách cũ",
+     "raw": "Bài 6: Văn hoá cổ đại"
+    },
+    {
+     "bai": 6,
+     "title": "Ai Cập cổ đại",
+     "book": "CTST",
+     "raw": "Bài 6: Ai Cập cổ đại"
+    },
+    {
+     "bai": 7,
+     "title": "Lưỡng Hà cổ đại",
+     "book": "CTST",
+     "raw": "Bài 7: Lưỡng Hà cổ đại"
+    },
+    {
+     "bai": 8,
+     "title": "Ấn Độ cổ đại",
+     "book": "CTST",
+     "raw": "Bài 8: Ấn Độ cổ đại"
+    },
+    {
+     "bai": 11,
+     "title": "La Mã cổ đại",
+     "book": "CTST",
+     "raw": "Bài 11: La Mã cổ đại"
+    },
+    {
+     "bai": 8,
+     "title": "Ấn Độ cổ đại",
+     "book": "KNTT",
+     "raw": "Bài 8: Ấn Độ cổ đại"
+    },
+    {
+     "bai": 7,
+     "title": "Ấn Độ cổ đại",
+     "book": "Cánh diều",
+     "raw": "Bài 7: Ấn Độ cổ đại"
+    }
+   ]
+  },
+  {
+   "title": "Ôn tập",
+   "lessons": [
+    {
+     "bai": 7,
+     "title": "Ôn tập",
+     "book": "Sách cũ",
+     "raw": "Bài 7: Ôn tập"
+    },
+    {
+     "bai": 28,
+     "title": "Ôn tập",
+     "book": "Sách cũ",
+     "raw": "Bài 28: Ôn tập"
+    }
+   ]
+  },
+  {
+   "title": "Thời nguyên thuỷ trên đất nước ta",
+   "lessons": [
+    {
+     "bai": 8,
+     "title": "Thời nguyên thuỷ trên đất nước ta",
+     "book": "Sách cũ",
+     "raw": "Bài 8: Thời nguyên thuỷ trên đất nước ta"
+    },
+    {
+     "bai": 9,
+     "title": "Đời sống của người nguyên thuỷ trên đất nước ta",
+     "book": "Sách cũ",
+     "raw": "Bài 9: Đời sống của người nguyên thuỷ trên đất nước ta"
+    }
+   ]
+  },
+  {
+   "title": "Những chuyển biến trong đời sống kinh tế",
+   "lessons": [
+    {
+     "bai": 10,
+     "title": "Những chuyển biến trong đời sống kinh tế",
+     "book": "Sách cũ",
+     "raw": "Bài 10: Những chuyển biến trong đời sống kinh tế"
+    }
+   ]
+  },
+  {
+   "title": "Những chuyển biến về xã hội",
+   "lessons": [
+    {
+     "bai": 11,
+     "title": "Những chuyển biến về xã hội",
+     "book": "Sách cũ",
+     "raw": "Bài 11: Những chuyển biến về xã hội"
+    }
+   ]
+  },
+  {
+   "title": "Nước Văn Lang",
+   "lessons": [
+    {
+     "bai": 12,
+     "title": "Nước Văn Lang",
+     "book": "Sách cũ",
+     "raw": "Bài 12: Nước Văn Lang"
+    },
+    {
+     "bai": 14,
+     "title": "Nước Âu Lạc",
+     "book": "Sách cũ",
+     "raw": "Bài 14: Nước Âu Lạc"
+    },
+    {
+     "bai": 12,
+     "title": "Nước Văn Lang",
+     "book": "Cánh diều",
+     "raw": "Bài 12: Nước Văn Lang"
+    },
+    {
+     "bai": 13,
+     "title": "Nước Âu Lạc",
+     "book": "Cánh diều",
+     "raw": "Bài 13: Nước Âu Lạc"
+    }
+   ]
+  },
+  {
+   "title": "Đời sống vật chất và tinh thần của cư dân Văn Lang",
+   "lessons": [
+    {
+     "bai": 13,
+     "title": "Đời sống vật chất và tinh thần của cư dân Văn Lang",
+     "book": "Sách cũ",
+     "raw": "Bài 13: Đời sống vật chất và tinh thần của cư dân Văn Lang"
+    }
+   ]
+  },
+  {
+   "title": "Nước Âu Lạc (tiếp theo)",
+   "lessons": [
+    {
+     "bai": 15,
+     "title": "Nước Âu Lạc (tiếp theo)",
+     "book": "Sách cũ",
+     "raw": "Bài 15: Nước Âu Lạc (tiếp theo)"
+    }
+   ]
+  },
+  {
+   "title": "Ôn tập chương I và II",
+   "lessons": [
+    {
+     "bai": 16,
+     "title": "Ôn tập chương I và II",
+     "book": "Sách cũ",
+     "raw": "Bài 16: Ôn tập chương I và II"
+    },
+    {
+     "bai": 25,
+     "title": "Ôn tập chương III",
+     "book": "Sách cũ",
+     "raw": "Bài 25: Ôn tập chương III"
+    }
+   ]
+  },
+  {
+   "title": "Cuộc khởi nghĩa Hai Bà Trưng (năm 40)",
+   "lessons": [
+    {
+     "bai": 17,
+     "title": "Cuộc khởi nghĩa Hai Bà Trưng (năm 40)",
+     "book": "Sách cũ",
+     "raw": "Bài 17: Cuộc khởi nghĩa Hai Bà Trưng (năm 40)"
+    }
+   ]
+  },
+  {
+   "title": "Trưng Vương và cuộc kháng chiến chống quân xâm lược Hán",
+   "lessons": [
+    {
+     "bai": 18,
+     "title": "Trưng Vương và cuộc kháng chiến chống quân xâm lược Hán",
+     "book": "Sách cũ",
+     "raw": "Bài 18: Trưng Vương và cuộc kháng chiến chống quân xâm lược Hán"
+    }
+   ]
+  },
+  {
+   "title": "Từ sau Trưng Vương đến trước Lý Nam Đế (Giữa thế kỉ I - Giữa thế kỉ VI)",
+   "lessons": [
+    {
+     "bai": 19,
+     "title": "Từ sau Trưng Vương đến trước Lý Nam Đế (Giữa thế kỉ I - Giữa thế kỉ VI)",
+     "book": "Sách cũ",
+     "raw": "Bài 19: Từ sau Trưng Vương đến trước Lý Nam Đế (Giữa thế kỉ I - Giữa thế kỉ VI)"
+    },
+    {
+     "bai": 20,
+     "title": "Từ sau Trưng Vương đến trước Lý Nam Đế (Giữa thế kỉ I - Giữa thế kỉ VI) (tiếp theo)",
+     "book": "Sách cũ",
+     "raw": "Bài 20: Từ sau Trưng Vương đến trước Lý Nam Đế (Giữa thế kỉ I - Giữa thế kỉ VI) (tiếp theo)"
+    }
+   ]
+  },
+  {
+   "title": "Khởi nghĩa Lý Bí. Nước Vạn Xuân (542-602)",
+   "lessons": [
+    {
+     "bai": 21,
+     "title": "Khởi nghĩa Lý Bí. Nước Vạn Xuân (542-602)",
+     "book": "Sách cũ",
+     "raw": "Bài 21: Khởi nghĩa Lý Bí. Nước Vạn Xuân (542-602)"
+    },
+    {
+     "bai": 22,
+     "title": "Khởi nghĩa Lý Bí. Nước Vạn Xuân (542-602) (tiếp theo)",
+     "book": "Sách cũ",
+     "raw": "Bài 22: Khởi nghĩa Lý Bí. Nước Vạn Xuân (542-602) (tiếp theo)"
+    }
+   ]
+  },
+  {
+   "title": "Những cuộc khởi nghĩa lớn trong các thế kỉ VII-IX",
+   "lessons": [
+    {
+     "bai": 23,
+     "title": "Những cuộc khởi nghĩa lớn trong các thế kỉ VII-IX",
+     "book": "Sách cũ",
+     "raw": "Bài 23: Những cuộc khởi nghĩa lớn trong các thế kỉ VII-IX"
+    }
+   ]
+  },
+  {
+   "title": "Nước Chăm-pa từ thế kỉ II đến thế kỉ X",
+   "lessons": [
+    {
+     "bai": 24,
+     "title": "Nước Chăm-pa từ thế kỉ II đến thế kỉ X",
+     "book": "Sách cũ",
+     "raw": "Bài 24: Nước Chăm-pa từ thế kỉ II đến thế kỉ X"
+    },
+    {
+     "bai": 20,
+     "title": "Vương quốc Chăm-pa từ thế kỉ II đến thế kỉ X",
+     "book": "CTST",
+     "raw": "Bài 20: Vương quốc Chăm-pa từ thế kỉ II đến thế kỉ X"
+    },
+    {
+     "bai": 19,
+     "title": "Vương quốc Chăm-pa từ thế kỉ II đến thế kỉ X",
+     "book": "KNTT",
+     "raw": "Bài 19: Vương quốc Chăm-pa từ thế kỉ II đến thế kỉ X"
+    }
+   ]
+  },
+  {
+   "title": "Cuộc đấu tranh giành quyền tự chủ của họ Khúc, họ Dương",
+   "lessons": [
+    {
+     "bai": 26,
+     "title": "Cuộc đấu tranh giành quyền tự chủ của họ Khúc, họ Dương",
+     "book": "Sách cũ",
+     "raw": "Bài 26: Cuộc đấu tranh giành quyền tự chủ của họ Khúc, họ Dương"
+    }
+   ]
+  },
+  {
+   "title": "Ngô Quyền và chiến thắng Bạch Đằng năm 938",
+   "lessons": [
+    {
+     "bai": 27,
+     "title": "Ngô Quyền và chiến thắng Bạch Đằng năm 938",
+     "book": "Sách cũ",
+     "raw": "Bài 27: Ngô Quyền và chiến thắng Bạch Đằng năm 938"
+    }
+   ]
+  },
+  {
+   "title": "Lịch sử là gì?",
+   "lessons": [
+    {
+     "bai": 1,
+     "title": "Lịch sử là gì?",
+     "book": "CTST",
+     "raw": "Bài 1: Lịch sử là gì?"
+    },
+    {
+     "bai": 1,
+     "title": "Lịch sử là gì?",
+     "book": "Cánh diều",
+     "raw": "Bài 1: Lịch sử là gì?"
+    }
+   ]
+  },
+  {
+   "title": "Nguồn gốc loài người",
+   "lessons": [
+    {
+     "bai": 3,
+     "title": "Nguồn gốc loài người",
+     "book": "CTST",
+     "raw": "Bài 3: Nguồn gốc loài người"
+    },
+    {
+     "bai": 4,
+     "title": "Nguồn gốc loài người",
+     "book": "KNTT",
+     "raw": "Bài 4: Nguồn gốc loài người"
+    },
+    {
+     "bai": 3,
+     "title": "Nguồn gốc loài người",
+     "book": "Cánh diều",
+     "raw": "Bài 3: Nguồn gốc loài người"
+    }
+   ]
+  },
+  {
+   "title": "Sự chuyển biến từ xã hội nguyên thuỷ sang xã hội có giai cấp",
+   "lessons": [
+    {
+     "bai": 5,
+     "title": "Sự chuyển biến từ xã hội nguyên thuỷ sang xã hội có giai cấp",
+     "book": "CTST",
+     "raw": "Bài 5: Sự chuyển biến từ xã hội nguyên thuỷ sang xã hội có giai cấp"
+    }
+   ]
+  },
+  {
+   "title": "Trung Quốc từ thời cổ đại đến thế kỉ VII",
+   "lessons": [
+    {
+     "bai": 9,
+     "title": "Trung Quốc từ thời cổ đại đến thế kỉ VII",
+     "book": "CTST",
+     "raw": "Bài 9: Trung Quốc từ thời cổ đại đến thế kỉ VII"
+    },
+    {
+     "bai": 9,
+     "title": "Trung Quốc từ thời cổ đại đến thế kỉ VII",
+     "book": "KNTT",
+     "raw": "Bài 9: Trung Quốc từ thời cổ đại đến thế kỉ VII"
+    },
+    {
+     "bai": 8,
+     "title": "Trung Quốc từ thời cổ đại đến thế kỉ VII",
+     "book": "Cánh diều",
+     "raw": "Bài 8: Trung Quốc từ thời cổ đại đến thế kỉ VII"
+    }
+   ]
+  },
+  {
+   "title": "Hy Lạp cổ đại",
+   "lessons": [
+    {
+     "bai": 10,
+     "title": "Hy Lạp cổ đại",
+     "book": "CTST",
+     "raw": "Bài 10: Hy Lạp cổ đại"
+    },
+    {
+     "bai": 10,
+     "title": "Hy Lạp và La Mã cổ đại",
+     "book": "KNTT",
+     "raw": "Bài 10: Hy Lạp và La Mã cổ đại"
+    },
+    {
+     "bai": 9,
+     "title": "Hy Lạp và La Mã cổ đại",
+     "book": "Cánh diều",
+     "raw": "Bài 9: Hy Lạp và La Mã cổ đại"
+    }
+   ]
+  },
+  {
+   "title": "Các vương quốc ở Đông Nam Á trước thế kỉ X",
+   "lessons": [
+    {
+     "bai": 12,
+     "title": "Các vương quốc ở Đông Nam Á trước thế kỉ X",
+     "book": "CTST",
+     "raw": "Bài 12: Các vương quốc ở Đông Nam Á trước thế kỉ X"
+    }
+   ]
+  },
+  {
+   "title": "Giao lưu thương mại và văn hoá ở Đông Nam Á từ đầu Công nguyên đến thế kỉ X",
+   "lessons": [
+    {
+     "bai": 13,
+     "title": "Giao lưu thương mại và văn hoá ở Đông Nam Á từ đầu Công nguyên đến thế kỉ X",
+     "book": "CTST",
+     "raw": "Bài 13: Giao lưu thương mại và văn hoá ở Đông Nam Á từ đầu Công nguyên đến thế kỉ X"
+    },
+    {
+     "bai": 13,
+     "title": "Giao lưu văn hoá ở Đông Nam Á từ đầu Công nguyên đến thế kỉ X",
+     "book": "KNTT",
+     "raw": "Bài 13: Giao lưu văn hoá ở Đông Nam Á từ đầu Công nguyên đến thế kỉ X"
+    },
+    {
+     "bai": 11,
+     "title": "Giao lưu thương mại và văn hoá ở Đông Nam Á (từ đầu Công nguyên đến thế kỉ X)",
+     "book": "Cánh diều",
+     "raw": "Bài 11: Giao lưu thương mại và văn hoá ở Đông Nam Á (từ đầu Công nguyên đến thế kỉ X)"
+    }
+   ]
+  },
+  {
+   "title": "Nhà nước Văn Lang, Âu Lạc",
+   "lessons": [
+    {
+     "bai": 14,
+     "title": "Nhà nước Văn Lang, Âu Lạc",
+     "book": "CTST",
+     "raw": "Bài 14: Nhà nước Văn Lang, Âu Lạc"
+    },
+    {
+     "bai": 14,
+     "title": "Nhà nước Văn Lang – Âu Lạc",
+     "book": "KNTT",
+     "raw": "Bài 14: Nhà nước Văn Lang – Âu Lạc"
+    }
+   ]
+  },
+  {
+   "title": "Đời sống của người Việt thời kì Văn Lang, Âu Lạc",
+   "lessons": [
+    {
+     "bai": 15,
+     "title": "Đời sống của người Việt thời kì Văn Lang, Âu Lạc",
+     "book": "CTST",
+     "raw": "Bài 15: Đời sống của người Việt thời kì Văn Lang, Âu Lạc"
+    }
+   ]
+  },
+  {
+   "title": "Chính sách cai trị của phong kiến phương Bắc và sự chuyển biến của Việt Nam thời kì Bắc thuộc",
+   "lessons": [
+    {
+     "bai": 16,
+     "title": "Chính sách cai trị của phong kiến phương Bắc và sự chuyển biến của Việt Nam thời kì Bắc thuộc",
+     "book": "CTST",
+     "raw": "Bài 16: Chính sách cai trị của phong kiến phương Bắc và sự chuyển biến của Việt Nam thời kì Bắc thuộc"
+    },
+    {
+     "bai": 15,
+     "title": "Chính sách cai trị của các triều đại phong kiến phương Bắc và sự chuyển biến của xã hội Âu Lạc",
+     "book": "KNTT",
+     "raw": "Bài 15: Chính sách cai trị của các triều đại phong kiến phương Bắc và sự chuyển biến của xã hội Âu Lạc"
+    },
+    {
+     "bai": 14,
+     "title": "Chính sách cai trị của các triều đại phong kiến phương Bắc và chuyển biến kinh tế, xã hội, văn hoá của Việt Nam thời Bắc thuộc",
+     "book": "Cánh diều",
+     "raw": "Bài 14: Chính sách cai trị của các triều đại phong kiến phương Bắc và chuyển biến kinh tế, xã hội, văn hoá của Việt Nam thời Bắc thuộc"
+    }
+   ]
+  },
+  {
+   "title": "Đấu tranh bảo tồn và phát triển văn hoá dân tộc thời Bắc thuộc",
+   "lessons": [
+    {
+     "bai": 17,
+     "title": "Đấu tranh bảo tồn và phát triển văn hoá dân tộc thời Bắc thuộc",
+     "book": "CTST",
+     "raw": "Bài 17: Đấu tranh bảo tồn và phát triển văn hoá dân tộc thời Bắc thuộc"
+    },
+    {
+     "bai": 17,
+     "title": "Cuộc đấu tranh bảo tồn và phát triển văn hoá dân tộc của người Việt",
+     "book": "KNTT",
+     "raw": "Bài 17: Cuộc đấu tranh bảo tồn và phát triển văn hoá dân tộc của người Việt"
+    },
+    {
+     "bai": 16,
+     "title": "Cuộc đấu tranh giữ gìn và phát triển văn hoá dân tộc thời Bắc thuộc",
+     "book": "Cánh diều",
+     "raw": "Bài 16: Cuộc đấu tranh giữ gìn và phát triển văn hoá dân tộc thời Bắc thuộc"
+    }
+   ]
+  },
+  {
+   "title": "Các cuộc đấu tranh giành độc lập dân tộc trước thế kỉ X",
+   "lessons": [
+    {
+     "bai": 18,
+     "title": "Các cuộc đấu tranh giành độc lập dân tộc trước thế kỉ X",
+     "book": "CTST",
+     "raw": "Bài 18: Các cuộc đấu tranh giành độc lập dân tộc trước thế kỉ X"
+    },
+    {
+     "bai": 16,
+     "title": "Các cuộc khởi nghĩa tiêu biểu giành độc lập trước thế kỉ X",
+     "book": "KNTT",
+     "raw": "Bài 16: Các cuộc khởi nghĩa tiêu biểu giành độc lập trước thế kỉ X"
+    }
+   ]
+  },
+  {
+   "title": "Bước ngoặt lịch sử đầu thế kỉ X",
+   "lessons": [
+    {
+     "bai": 19,
+     "title": "Bước ngoặt lịch sử đầu thế kỉ X",
+     "book": "CTST",
+     "raw": "Bài 19: Bước ngoặt lịch sử đầu thế kỉ X"
+    },
+    {
+     "bai": 18,
+     "title": "Bước ngoặt lịch sử đầu thế kỉ X",
+     "book": "KNTT",
+     "raw": "Bài 18: Bước ngoặt lịch sử đầu thế kỉ X"
+    },
+    {
+     "bai": 17,
+     "title": "Bước ngoặt lịch sử đầu thế kỉ X",
+     "book": "Cánh diều",
+     "raw": "Bài 17: Bước ngoặt lịch sử đầu thế kỉ X"
+    }
+   ]
+  },
+  {
+   "title": "Vương quốc cổ Phù Nam",
+   "lessons": [
+    {
+     "bai": 21,
+     "title": "Vương quốc cổ Phù Nam",
+     "book": "CTST",
+     "raw": "Bài 21: Vương quốc cổ Phù Nam"
+    },
+    {
+     "bai": 20,
+     "title": "Vương quốc Phù Nam",
+     "book": "KNTT",
+     "raw": "Bài 20: Vương quốc Phù Nam"
+    },
+    {
+     "bai": 18,
+     "title": "Vương quốc Chăm-pa",
+     "book": "Cánh diều",
+     "raw": "Bài 18: Vương quốc Chăm-pa"
+    },
+    {
+     "bai": 19,
+     "title": "Vương quốc Phù Nam",
+     "book": "Cánh diều",
+     "raw": "Bài 19: Vương quốc Phù Nam"
+    }
+   ]
+  },
+  {
+   "title": "Lịch sử và cuộc sống",
+   "lessons": [
+    {
+     "bai": 1,
+     "title": "Lịch sử và cuộc sống",
+     "book": "KNTT",
+     "raw": "Bài 1: Lịch sử và cuộc sống"
+    }
+   ]
+  },
+  {
+   "title": "Dựa vào đâu để biết và phục dựng lại lịch sử?",
+   "lessons": [
+    {
+     "bai": 2,
+     "title": "Dựa vào đâu để biết và phục dựng lại lịch sử?",
+     "book": "KNTT",
+     "raw": "Bài 2: Dựa vào đâu để biết và phục dựng lại lịch sử?"
+    }
+   ]
+  },
+  {
+   "title": "Sự chuyển biến và phân hoá của xã hội nguyên thuỷ",
+   "lessons": [
+    {
+     "bai": 6,
+     "title": "Sự chuyển biến và phân hoá của xã hội nguyên thuỷ",
+     "book": "KNTT",
+     "raw": "Bài 6: Sự chuyển biến và phân hoá của xã hội nguyên thuỷ"
+    }
+   ]
+  },
+  {
+   "title": "Ai Cập và Lưỡng Hà cổ đại",
+   "lessons": [
+    {
+     "bai": 7,
+     "title": "Ai Cập và Lưỡng Hà cổ đại",
+     "book": "KNTT",
+     "raw": "Bài 7: Ai Cập và Lưỡng Hà cổ đại"
+    },
+    {
+     "bai": 6,
+     "title": "Ai Cập và Lưỡng Hà cổ đại",
+     "book": "Cánh diều",
+     "raw": "Bài 6: Ai Cập và Lưỡng Hà cổ đại"
+    }
+   ]
+  },
+  {
+   "title": "Sự hình thành và bước đầu phát triển của các vương quốc phong kiến ở Đông Nam Á (từ thế kỉ VII đến thế kỉ X)",
+   "lessons": [
+    {
+     "bai": 12,
+     "title": "Sự hình thành và bước đầu phát triển của các vương quốc phong kiến ở Đông Nam Á (từ thế kỉ VII đến thế kỉ X)",
+     "book": "KNTT",
+     "raw": "Bài 12: Sự hình thành và bước đầu phát triển của các vương quốc phong kiến ở Đông Nam Á (từ thế kỉ VII đến thế kỉ X)"
+    }
+   ]
+  },
+  {
+   "title": "Chuyển biến về kinh tế, xã hội cuối thời nguyên thuỷ",
+   "lessons": [
+    {
+     "bai": 5,
+     "title": "Chuyển biến về kinh tế, xã hội cuối thời nguyên thuỷ",
+     "book": "Cánh diều",
+     "raw": "Bài 5: Chuyển biến về kinh tế, xã hội cuối thời nguyên thuỷ"
+    }
+   ]
+  },
+  {
+   "title": "Sự ra đời và phát triển của các vương quốc ở Đông Nam Á (từ những thế kỉ tiếp giáp Công nguyên đến thế kỉ X)",
+   "lessons": [
+    {
+     "bai": 10,
+     "title": "Sự ra đời và phát triển của các vương quốc ở Đông Nam Á (từ những thế kỉ tiếp giáp Công nguyên đến thế kỉ X)",
+     "book": "Cánh diều",
+     "raw": "Bài 10: Sự ra đời và phát triển của các vương quốc ở Đông Nam Á (từ những thế kỉ tiếp giáp Công nguyên đến thế kỉ X)"
+    }
+   ]
+  },
+  {
+   "title": "Các cuộc khởi nghĩa tiêu biểu giành độc lập, tự chủ (từ đầu Công nguyên đến trước thế kỉ X)",
+   "lessons": [
+    {
+     "bai": 15,
+     "title": "Các cuộc khởi nghĩa tiêu biểu giành độc lập, tự chủ (từ đầu Công nguyên đến trước thế kỉ X)",
+     "book": "Cánh diều",
+     "raw": "Bài 15: Các cuộc khởi nghĩa tiêu biểu giành độc lập, tự chủ (từ đầu Công nguyên đến trước thế kỉ X)"
+    }
+   ]
+  }
+ ],
+ "7": [
+  {
+   "title": "Quá trình hình thành và phát triển chế độ phong kiến ở Tây Âu",
+   "lessons": [
+    {
+     "bai": 1,
+     "title": "Quá trình hình thành và phát triển chế độ phong kiến ở Tây Âu",
+     "book": "Cánh diều",
+     "raw": "Bài 1: Quá trình hình thành và phát triển chế độ phong kiến ở Tây Âu"
+    },
+    {
+     "bai": 1,
+     "title": "Quá trình hình thành và phát triển của chế độ phong kiến ở Tây Âu",
+     "book": "KNTT",
+     "raw": "Bài 1: Quá trình hình thành và phát triển của chế độ phong kiến ở Tây Âu"
+    },
+    {
+     "bai": 1,
+     "title": "Sự hình thành và phát triển của xã hội phong kiến ở châu Âu",
+     "book": "cũ",
+     "raw": "Bài 1 - Sự hình thành và phát triển của xã hội phong kiến ở châu Âu"
+    },
+    {
+     "bai": 1,
+     "title": "Quá trình hình thành và phát triển chế độ phong kiến ở Tây Âu",
+     "book": "CTST",
+     "raw": "Bài 1: Quá trình hình thành và phát triển chế độ phong kiến ở Tây Âu"
+    }
+   ]
+  },
+  {
+   "title": "Các cuộc phát kiến địa lí từ thế kỉ XV đến thế kỉ XVI",
+   "lessons": [
+    {
+     "bai": 2,
+     "title": "Các cuộc phát kiến địa lí từ thế kỉ XV đến thế kỉ XVI",
+     "book": "Cánh diều",
+     "raw": "Bài 2: Các cuộc phát kiến địa lí từ thế kỉ XV đến thế kỉ XVI"
+    }
+   ]
+  },
+  {
+   "title": "Phong trào Văn hoá Phục hưng",
+   "lessons": [
+    {
+     "bai": 3,
+     "title": "Phong trào Văn hoá Phục hưng",
+     "book": "Cánh diều",
+     "raw": "Bài 3: Phong trào Văn hoá Phục hưng"
+    },
+    {
+     "bai": 3,
+     "title": "Phong trào Văn hoá Phục hưng và Cải cách tôn giáo",
+     "book": "KNTT",
+     "raw": "Bài 3: Phong trào Văn hoá Phục hưng và Cải cách tôn giáo"
+    },
+    {
+     "bai": 4,
+     "title": "Văn hoá Phục hưng",
+     "book": "CTST",
+     "raw": "Bài 4: Văn hoá Phục hưng"
+    }
+   ]
+  },
+  {
+   "title": "Phong trào Cải cách tôn giáo",
+   "lessons": [
+    {
+     "bai": 4,
+     "title": "Phong trào Cải cách tôn giáo",
+     "book": "Cánh diều",
+     "raw": "Bài 4: Phong trào Cải cách tôn giáo"
+    },
+    {
+     "bai": 5,
+     "title": "Phong trào Cải cách tôn giáo",
+     "book": "CTST",
+     "raw": "Bài 5: Phong trào Cải cách tôn giáo"
+    }
+   ]
+  },
+  {
+   "title": "Sự hình thành quan hệ sản xuất tư bản chủ nghĩa ở Tây Âu trung đại",
+   "lessons": [
+    {
+     "bai": 5,
+     "title": "Sự hình thành quan hệ sản xuất tư bản chủ nghĩa ở Tây Âu trung đại",
+     "book": "Cánh diều",
+     "raw": "Bài 5: Sự hình thành quan hệ sản xuất tư bản chủ nghĩa ở Tây Âu trung đại"
+    },
+    {
+     "bai": 2,
+     "title": "Các cuộc phát kiến địa lí và sự hình thành quan hệ sản xuất tư bản chủ nghĩa ở Tây Âu",
+     "book": "KNTT",
+     "raw": "Bài 2: Các cuộc phát kiến địa lí và sự hình thành quan hệ sản xuất tư bản chủ nghĩa ở Tây Âu"
+    },
+    {
+     "bai": 3,
+     "title": "Sự hình thành quan hệ sản xuất tư bản chủ nghĩa ở Tây Âu trung đại",
+     "book": "CTST",
+     "raw": "Bài 3: Sự hình thành quan hệ sản xuất tư bản chủ nghĩa ở Tây Âu trung đại"
+    }
+   ]
+  },
+  {
+   "title": "Khái quát tiến trình lịch sử Trung Quốc",
+   "lessons": [
+    {
+     "bai": 6,
+     "title": "Khái quát tiến trình lịch sử Trung Quốc",
+     "book": "Cánh diều",
+     "raw": "Bài 6: Khái quát tiến trình lịch sử Trung Quốc"
+    }
+   ]
+  },
+  {
+   "title": "Văn hoá Trung Quốc (từ thế kỉ VII đến giữa thế kỉ XIX)",
+   "lessons": [
+    {
+     "bai": 7,
+     "title": "Văn hoá Trung Quốc (từ thế kỉ VII đến giữa thế kỉ XIX)",
+     "book": "Cánh diều",
+     "raw": "Bài 7: Văn hoá Trung Quốc (từ thế kỉ VII đến giữa thế kỉ XIX)"
+    },
+    {
+     "bai": 4,
+     "title": "Trung Quốc từ thế kỉ VII đến giữa thế kỉ XIX",
+     "book": "KNTT",
+     "raw": "Bài 4: Trung Quốc từ thế kỉ VII đến giữa thế kỉ XIX"
+    },
+    {
+     "bai": 5,
+     "title": "Ấn Độ từ thế kỉ IV đến giữa thế kỉ XIX",
+     "book": "KNTT",
+     "raw": "Bài 5: Ấn Độ từ thế kỉ IV đến giữa thế kỉ XIX"
+    },
+    {
+     "bai": 6,
+     "title": "Khái quát tiến trình lịch sử Trung Quốc từ thế kỉ VII đến giữa thế kỉ XIX",
+     "book": "CTST",
+     "raw": "Bài 6: Khái quát tiến trình lịch sử Trung Quốc từ thế kỉ VII đến giữa thế kỉ XIX"
+    },
+    {
+     "bai": 7,
+     "title": "Các thành tựu văn hoá chủ yếu của Trung Quốc từ thế kỉ VII đến giữa thế kỉ XIX",
+     "book": "CTST",
+     "raw": "Bài 7: Các thành tựu văn hoá chủ yếu của Trung Quốc từ thế kỉ VII đến giữa thế kỉ XIX"
+    }
+   ]
+  },
+  {
+   "title": "Khái quát lịch sử Ấn Độ thời phong kiến",
+   "lessons": [
+    {
+     "bai": 8,
+     "title": "Khái quát lịch sử Ấn Độ thời phong kiến",
+     "book": "Cánh diều",
+     "raw": "Bài 8: Khái quát lịch sử Ấn Độ thời phong kiến"
+    },
+    {
+     "bai": 9,
+     "title": "Văn hoá Ấn Độ thời phong kiến",
+     "book": "Cánh diều",
+     "raw": "Bài 9: Văn hoá Ấn Độ thời phong kiến"
+    }
+   ]
+  },
+  {
+   "title": "Khái quát lịch sử Đông Nam Á",
+   "lessons": [
+    {
+     "bai": 10,
+     "title": "Khái quát lịch sử Đông Nam Á",
+     "book": "Cánh diều",
+     "raw": "Bài 10: Khái quát lịch sử Đông Nam Á"
+    }
+   ]
+  },
+  {
+   "title": "Vương quốc Cam-pu-chia",
+   "lessons": [
+    {
+     "bai": 11,
+     "title": "Vương quốc Cam-pu-chia",
+     "book": "Cánh diều",
+     "raw": "Bài 11: Vương quốc Cam-pu-chia"
+    },
+    {
+     "bai": 8,
+     "title": "Vương quốc Cam-pu-chia",
+     "book": "KNTT",
+     "raw": "Bài 8: Vương quốc Cam-pu-chia"
+    },
+    {
+     "bai": 12,
+     "title": "Vương quốc Cam-pu-chia",
+     "book": "CTST",
+     "raw": "Bài 12: Vương quốc Cam-pu-chia"
+    }
+   ]
+  },
+  {
+   "title": "Vương quốc Lào",
+   "lessons": [
+    {
+     "bai": 12,
+     "title": "Vương quốc Lào",
+     "book": "Cánh diều",
+     "raw": "Bài 12: Vương quốc Lào"
+    },
+    {
+     "bai": 7,
+     "title": "Vương quốc Lào",
+     "book": "KNTT",
+     "raw": "Bài 7: Vương quốc Lào"
+    },
+    {
+     "bai": 13,
+     "title": "Vương quốc Lào",
+     "book": "CTST",
+     "raw": "Bài 13: Vương quốc Lào"
+    }
+   ]
+  },
+  {
+   "title": "Công cuộc xây dựng đất nước thời Ngô, Đinh, Tiền Lê (939 – 1009)",
+   "lessons": [
+    {
+     "bai": 13,
+     "title": "Công cuộc xây dựng đất nước thời Ngô, Đinh, Tiền Lê (939 – 1009)",
+     "book": "Cánh diều",
+     "raw": "Bài 13: Công cuộc xây dựng đất nước thời Ngô, Đinh, Tiền Lê (939 – 1009)"
+    },
+    {
+     "bai": 14,
+     "title": "Công cuộc xây dựng đất nước thời Lý (1009 – 1225)",
+     "book": "Cánh diều",
+     "raw": "Bài 14: Công cuộc xây dựng đất nước thời Lý (1009 – 1225)"
+    },
+    {
+     "bai": 16,
+     "title": "Công cuộc xây dựng đất nước thời Trần (1226 – 1400)",
+     "book": "Cánh diều",
+     "raw": "Bài 16: Công cuộc xây dựng đất nước thời Trần (1226 – 1400)"
+    },
+    {
+     "bai": 14,
+     "title": "Công cuộc xây dựng và bảo vệ đất nước thời Ngô – Đinh – Tiền Lê (938 – 1009)",
+     "book": "CTST",
+     "raw": "Bài 14: Công cuộc xây dựng và bảo vệ đất nước thời Ngô – Đinh – Tiền Lê (938 – 1009)"
+    },
+    {
+     "bai": 16,
+     "title": "Công cuộc xây dựng đất nước thời Trần (1226 – 1400)",
+     "book": "CTST",
+     "raw": "Bài 16: Công cuộc xây dựng đất nước thời Trần (1226 – 1400)"
+    }
+   ]
+  },
+  {
+   "title": "Cuộc kháng chiến chống xâm lược Tống của nhà Lý (1075 – 1077)",
+   "lessons": [
+    {
+     "bai": 15,
+     "title": "Cuộc kháng chiến chống xâm lược Tống của nhà Lý (1075 – 1077)",
+     "book": "Cánh diều",
+     "raw": "Bài 15: Cuộc kháng chiến chống xâm lược Tống của nhà Lý (1075 – 1077)"
+    },
+    {
+     "bai": 12,
+     "title": "Cuộc kháng chiến chống quân xâm lược Tống (1075 - 1077)",
+     "book": "KNTT",
+     "raw": "Bài 12: Cuộc kháng chiến chống quân xâm lược Tống (1075 - 1077)"
+    },
+    {
+     "bai": 11,
+     "title": "Cuộc kháng chiến chống quân xâm lược Tống (1075 - 1077)",
+     "book": "cũ",
+     "raw": "Bài 11 - Cuộc kháng chiến chống quân xâm lược Tống (1075 - 1077)"
+    }
+   ]
+  },
+  {
+   "title": "Ba lần kháng chiến chống xâm lược Mông – Nguyên của nhà Trần (thế kỉ XIII)",
+   "lessons": [
+    {
+     "bai": 17,
+     "title": "Ba lần kháng chiến chống xâm lược Mông – Nguyên của nhà Trần (thế kỉ XIII)",
+     "book": "Cánh diều",
+     "raw": "Bài 17: Ba lần kháng chiến chống xâm lược Mông – Nguyên của nhà Trần (thế kỉ XIII)"
+    },
+    {
+     "bai": 14,
+     "title": "Ba lần kháng chiến chống quân xâm lược Mông - Nguyên",
+     "book": "KNTT",
+     "raw": "Bài 14: Ba lần kháng chiến chống quân xâm lược Mông - Nguyên"
+    },
+    {
+     "bai": 14,
+     "title": "Ba lần kháng chiến chống quân xâm lược Mông - Nguyên (thế kỉ XIII)",
+     "book": "cũ",
+     "raw": "Bài 14 - Ba lần kháng chiến chống quân xâm lược Mông - Nguyên (thế kỉ XIII)"
+    },
+    {
+     "bai": 17,
+     "title": "Ba lần kháng chiến chống quân xâm lược Mông – Nguyên",
+     "book": "CTST",
+     "raw": "Bài 17: Ba lần kháng chiến chống quân xâm lược Mông – Nguyên"
+    }
+   ]
+  },
+  {
+   "title": "Nhà Hồ và cuộc kháng chiến chống quân Minh xâm lược",
+   "lessons": [
+    {
+     "bai": 18,
+     "title": "Nhà Hồ và cuộc kháng chiến chống quân Minh xâm lược",
+     "book": "Cánh diều",
+     "raw": "Bài 18: Nhà Hồ và cuộc kháng chiến chống quân Minh xâm lược"
+    },
+    {
+     "bai": 18,
+     "title": "Nhà Hồ và cuộc kháng chiến chống quân xâm lược Minh (1400 – 1407)",
+     "book": "CTST",
+     "raw": "Bài 18: Nhà Hồ và cuộc kháng chiến chống quân xâm lược Minh (1400 – 1407)"
+    }
+   ]
+  },
+  {
+   "title": "Khởi nghĩa Lam Sơn (1418 – 1427)",
+   "lessons": [
+    {
+     "bai": 19,
+     "title": "Khởi nghĩa Lam Sơn (1418 – 1427)",
+     "book": "Cánh diều",
+     "raw": "Bài 19: Khởi nghĩa Lam Sơn (1418 – 1427)"
+    },
+    {
+     "bai": 16,
+     "title": "Khởi nghĩa Lam Sơn (1418 - 1427)",
+     "book": "KNTT",
+     "raw": "Bài 16: Khởi nghĩa Lam Sơn (1418 - 1427)"
+    },
+    {
+     "bai": 19,
+     "title": "Cuộc khởi nghĩa Lam Sơn (1418 - 1427)",
+     "book": "cũ",
+     "raw": "Bài 19 - Cuộc khởi nghĩa Lam Sơn (1418 - 1427)"
+    },
+    {
+     "bai": 19,
+     "title": "Khởi nghĩa Lam Sơn (1418 – 1427)",
+     "book": "CTST",
+     "raw": "Bài 19: Khởi nghĩa Lam Sơn (1418 – 1427)"
+    }
+   ]
+  },
+  {
+   "title": "Việt Nam thời Lê sơ (1428 – 1527)",
+   "lessons": [
+    {
+     "bai": 20,
+     "title": "Việt Nam thời Lê sơ (1428 – 1527)",
+     "book": "Cánh diều",
+     "raw": "Bài 20: Việt Nam thời Lê sơ (1428 – 1527)"
+    },
+    {
+     "bai": 17,
+     "title": "Đại Việt thời Lê sơ (1428 - 1527)",
+     "book": "KNTT",
+     "raw": "Bài 17: Đại Việt thời Lê sơ (1428 - 1527)"
+    },
+    {
+     "bai": 20,
+     "title": "Nước Đại Việt thời Lê sơ (1428 - 1527)",
+     "book": "cũ",
+     "raw": "Bài 20 - Nước Đại Việt thời Lê sơ (1428 - 1527)"
+    },
+    {
+     "bai": 20,
+     "title": "Đại Việt thời Lê sơ (1428 – 1527)",
+     "book": "CTST",
+     "raw": "Bài 20: Đại Việt thời Lê sơ (1428 – 1527)"
+    }
+   ]
+  },
+  {
+   "title": "Vùng đất phía nam",
+   "lessons": [
+    {
+     "bai": 21,
+     "title": "Vùng đất phía nam",
+     "book": "Cánh diều",
+     "raw": "Bài 21: Vùng đất phía nam"
+    }
+   ]
+  },
+  {
+   "title": "Các vương quốc phong kiến Đông Nam Á từ nửa sau thế kỉ X đến nửa đầu thế kỉ XVI",
+   "lessons": [
+    {
+     "bai": 6,
+     "title": "Các vương quốc phong kiến Đông Nam Á từ nửa sau thế kỉ X đến nửa đầu thế kỉ XVI",
+     "book": "KNTT",
+     "raw": "Bài 6: Các vương quốc phong kiến Đông Nam Á từ nửa sau thế kỉ X đến nửa đầu thế kỉ XVI"
+    },
+    {
+     "bai": 18,
+     "title": "Vương quốc Chăm-pa và vùng đất Nam Bộ từ đầu thế kỉ X đến đầu thế kỉ XVI",
+     "book": "KNTT",
+     "raw": "Bài 18: Vương quốc Chăm-pa và vùng đất Nam Bộ từ đầu thế kỉ X đến đầu thế kỉ XVI"
+    },
+    {
+     "bai": 11,
+     "title": "Khái quát về Đông Nam Á từ nửa sau thế kỉ X đến nửa đầu thế kỉ XVI",
+     "book": "CTST",
+     "raw": "Bài 11: Khái quát về Đông Nam Á từ nửa sau thế kỉ X đến nửa đầu thế kỉ XVI"
+    }
+   ]
+  },
+  {
+   "title": "Đất nước buổi đầu độc lập (939 - 967)",
+   "lessons": [
+    {
+     "bai": 9,
+     "title": "Đất nước buổi đầu độc lập (939 - 967)",
+     "book": "KNTT",
+     "raw": "Bài 9: Đất nước buổi đầu độc lập (939 - 967)"
+    }
+   ]
+  },
+  {
+   "title": "Đại Cồ Việt thời Đinh và Tiền Lê (968 - 1009)",
+   "lessons": [
+    {
+     "bai": 10,
+     "title": "Đại Cồ Việt thời Đinh và Tiền Lê (968 - 1009)",
+     "book": "KNTT",
+     "raw": "Bài 10: Đại Cồ Việt thời Đinh và Tiền Lê (968 - 1009)"
+    },
+    {
+     "bai": 9,
+     "title": "Nước Đại Cồ Việt thời Đinh - Tiền Lê",
+     "book": "cũ",
+     "raw": "Bài 9 - Nước Đại Cồ Việt thời Đinh - Tiền Lê"
+    }
+   ]
+  },
+  {
+   "title": "Nhà Lý xây dựng và phát triển đất nước (1009 - 1225)",
+   "lessons": [
+    {
+     "bai": 11,
+     "title": "Nhà Lý xây dựng và phát triển đất nước (1009 - 1225)",
+     "book": "KNTT",
+     "raw": "Bài 11: Nhà Lý xây dựng và phát triển đất nước (1009 - 1225)"
+    },
+    {
+     "bai": 15,
+     "title": "Công cuộc xây dựng và bảo vệ đất nước thời Lý (1009 – 1225)",
+     "book": "CTST",
+     "raw": "Bài 15: Công cuộc xây dựng và bảo vệ đất nước thời Lý (1009 – 1225)"
+    }
+   ]
+  },
+  {
+   "title": "Đại Việt thời Trần (1226 - 1400)",
+   "lessons": [
+    {
+     "bai": 13,
+     "title": "Đại Việt thời Trần (1226 - 1400)",
+     "book": "KNTT",
+     "raw": "Bài 13: Đại Việt thời Trần (1226 - 1400)"
+    }
+   ]
+  },
+  {
+   "title": "Nước Đại Ngu thời Hồ (1400 - 1407)",
+   "lessons": [
+    {
+     "bai": 15,
+     "title": "Nước Đại Ngu thời Hồ (1400 - 1407)",
+     "book": "KNTT",
+     "raw": "Bài 15: Nước Đại Ngu thời Hồ (1400 - 1407)"
+    }
+   ]
+  },
+  {
+   "title": "Sự suy vong của chế độ phong kiến và sự hình thành chủ nghĩa tư bản ở châu Âu",
+   "lessons": [
+    {
+     "bai": 2,
+     "title": "Sự suy vong của chế độ phong kiến và sự hình thành chủ nghĩa tư bản ở châu Âu",
+     "book": "cũ",
+     "raw": "Bài 2 - Sự suy vong của chế độ phong kiến và sự hình thành chủ nghĩa tư bản ở châu Âu"
+    }
+   ]
+  },
+  {
+   "title": "Cuộc đấu tranh của giai cấp tư sản chống phong kiến thời hậu kì trung đại ở châu Âu",
+   "lessons": [
+    {
+     "bai": 3,
+     "title": "Cuộc đấu tranh của giai cấp tư sản chống phong kiến thời hậu kì trung đại ở châu Âu",
+     "book": "cũ",
+     "raw": "Bài 3 - Cuộc đấu tranh của giai cấp tư sản chống phong kiến thời hậu kì trung đại ở châu Âu"
+    }
+   ]
+  },
+  {
+   "title": "Trung Quốc thời phong kiến",
+   "lessons": [
+    {
+     "bai": 4,
+     "title": "Trung Quốc thời phong kiến",
+     "book": "cũ",
+     "raw": "Bài 4 - Trung Quốc thời phong kiến"
+    },
+    {
+     "bai": 5,
+     "title": "Ấn Độ thời phong kiến",
+     "book": "cũ",
+     "raw": "Bài 5 - Ấn Độ thời phong kiến"
+    }
+   ]
+  },
+  {
+   "title": "Các quốc gia phong kiến Đông Nam Á",
+   "lessons": [
+    {
+     "bai": 6,
+     "title": "Các quốc gia phong kiến Đông Nam Á",
+     "book": "cũ",
+     "raw": "Bài 6 - Các quốc gia phong kiến Đông Nam Á"
+    }
+   ]
+  },
+  {
+   "title": "Những nét chung về xã hội phong kiến",
+   "lessons": [
+    {
+     "bai": 7,
+     "title": "Những nét chung về xã hội phong kiến",
+     "book": "cũ",
+     "raw": "Bài 7 - Những nét chung về xã hội phong kiến"
+    }
+   ]
+  },
+  {
+   "title": "Nước ta buổi đầu độc lập",
+   "lessons": [
+    {
+     "bai": 8,
+     "title": "Nước ta buổi đầu độc lập",
+     "book": "cũ",
+     "raw": "Bài 8 - Nước ta buổi đầu độc lập"
+    }
+   ]
+  },
+  {
+   "title": "Nhà Lý đẩy mạnh công cuộc xây dựng đất nước",
+   "lessons": [
+    {
+     "bai": 10,
+     "title": "Nhà Lý đẩy mạnh công cuộc xây dựng đất nước",
+     "book": "cũ",
+     "raw": "Bài 10 - Nhà Lý đẩy mạnh công cuộc xây dựng đất nước"
+    }
+   ]
+  },
+  {
+   "title": "Đời sống kinh tế, văn hoá",
+   "lessons": [
+    {
+     "bai": 12,
+     "title": "Đời sống kinh tế, văn hoá",
+     "book": "cũ",
+     "raw": "Bài 12 - Đời sống kinh tế, văn hoá"
+    }
+   ]
+  },
+  {
+   "title": "Nước Đại Việt ở thế kỉ XIII",
+   "lessons": [
+    {
+     "bai": 13,
+     "title": "Nước Đại Việt ở thế kỉ XIII",
+     "book": "cũ",
+     "raw": "Bài 13 - Nước Đại Việt ở thế kỉ XIII"
+    }
+   ]
+  },
+  {
+   "title": "Sự phát triển kinh tế và văn hoá thời Trần",
+   "lessons": [
+    {
+     "bai": 15,
+     "title": "Sự phát triển kinh tế và văn hoá thời Trần",
+     "book": "cũ",
+     "raw": "Bài 15 - Sự phát triển kinh tế và văn hoá thời Trần"
+    }
+   ]
+  },
+  {
+   "title": "Sự suy sụp của nhà Trần cuối thế kỉ XIV",
+   "lessons": [
+    {
+     "bai": 16,
+     "title": "Sự suy sụp của nhà Trần cuối thế kỉ XIV",
+     "book": "cũ",
+     "raw": "Bài 16 - Sự suy sụp của nhà Trần cuối thế kỉ XIV"
+    }
+   ]
+  },
+  {
+   "title": "Cuộc kháng chiến của nhà Hồ và phong trào khởi nghĩa chống quân Minh đầu thế kỉ XV",
+   "lessons": [
+    {
+     "bai": 18,
+     "title": "Cuộc kháng chiến của nhà Hồ và phong trào khởi nghĩa chống quân Minh đầu thế kỉ XV",
+     "book": "cũ",
+     "raw": "Bài 18 - Cuộc kháng chiến của nhà Hồ và phong trào khởi nghĩa chống quân Minh đầu thế kỉ XV"
+    }
+   ]
+  },
+  {
+   "title": "Sự suy yếu của nhà nước phong kiến tập quyền (thế kỉ XVI - XVIII)",
+   "lessons": [
+    {
+     "bai": 22,
+     "title": "Sự suy yếu của nhà nước phong kiến tập quyền (thế kỉ XVI - XVIII)",
+     "book": "cũ",
+     "raw": "Bài 22 - Sự suy yếu của nhà nước phong kiến tập quyền (thế kỉ XVI - XVIII)"
+    }
+   ]
+  },
+  {
+   "title": "Kinh tế, văn hoá thế kỉ XVI - XVIII",
+   "lessons": [
+    {
+     "bai": 23,
+     "title": "Kinh tế, văn hoá thế kỉ XVI - XVIII",
+     "book": "cũ",
+     "raw": "Bài 23 - Kinh tế, văn hoá thế kỉ XVI - XVIII"
+    }
+   ]
+  },
+  {
+   "title": "Khởi nghĩa nông dân Đàng Ngoài thế kỉ XVIII",
+   "lessons": [
+    {
+     "bai": 24,
+     "title": "Khởi nghĩa nông dân Đàng Ngoài thế kỉ XVIII",
+     "book": "cũ",
+     "raw": "Bài 24 - Khởi nghĩa nông dân Đàng Ngoài thế kỉ XVIII"
+    }
+   ]
+  },
+  {
+   "title": "Phong trào Tây Sơn",
+   "lessons": [
+    {
+     "bai": 25,
+     "title": "Phong trào Tây Sơn",
+     "book": "cũ",
+     "raw": "Bài 25 - Phong trào Tây Sơn"
+    }
+   ]
+  },
+  {
+   "title": "Quang Trung xây dựng đất nước",
+   "lessons": [
+    {
+     "bai": 26,
+     "title": "Quang Trung xây dựng đất nước",
+     "book": "cũ",
+     "raw": "Bài 26 - Quang Trung xây dựng đất nước"
+    }
+   ]
+  },
+  {
+   "title": "Chế độ phong kiến nhà Nguyễn",
+   "lessons": [
+    {
+     "bai": 27,
+     "title": "Chế độ phong kiến nhà Nguyễn",
+     "book": "cũ",
+     "raw": "Bài 27 - Chế độ phong kiến nhà Nguyễn"
+    }
+   ]
+  },
+  {
+   "title": "Sự phát triển của văn hoá dân tộc cuối thế kỉ XVIII - nửa đầu thế kỉ XIX",
+   "lessons": [
+    {
+     "bai": 28,
+     "title": "Sự phát triển của văn hoá dân tộc cuối thế kỉ XVIII - nửa đầu thế kỉ XIX",
+     "book": "cũ",
+     "raw": "Bài 28 - Sự phát triển của văn hoá dân tộc cuối thế kỉ XVIII - nửa đầu thế kỉ XIX"
+    }
+   ]
+  },
+  {
+   "title": "Các cuộc phát kiến địa lí",
+   "lessons": [
+    {
+     "bai": 2,
+     "title": "Các cuộc phát kiến địa lí",
+     "book": "CTST",
+     "raw": "Bài 2: Các cuộc phát kiến địa lí"
+    }
+   ]
+  },
+  {
+   "title": "Vương triều Gúp-ta",
+   "lessons": [
+    {
+     "bai": 8,
+     "title": "Vương triều Gúp-ta",
+     "book": "CTST",
+     "raw": "Bài 8: Vương triều Gúp-ta"
+    }
+   ]
+  },
+  {
+   "title": "Vương triều Hồi giáo Đê-li",
+   "lessons": [
+    {
+     "bai": 9,
+     "title": "Vương triều Hồi giáo Đê-li",
+     "book": "CTST",
+     "raw": "Bài 9: Vương triều Hồi giáo Đê-li"
+    }
+   ]
+  },
+  {
+   "title": "Đế quốc Mô-gôn",
+   "lessons": [
+    {
+     "bai": 10,
+     "title": "Đế quốc Mô-gôn",
+     "book": "CTST",
+     "raw": "Bài 10: Đế quốc Mô-gôn"
+    }
+   ]
+  },
+  {
+   "title": "Vùng đất phía Nam từ đầu thế kỉ X đến đầu thế kỉ XVI",
+   "lessons": [
+    {
+     "bai": 21,
+     "title": "Vùng đất phía Nam từ đầu thế kỉ X đến đầu thế kỉ XVI",
+     "book": "CTST",
+     "raw": "Bài 21: Vùng đất phía Nam từ đầu thế kỉ X đến đầu thế kỉ XVI"
+    }
+   ]
+  }
+ ],
+ "8": [
+  {
+   "title": "Cách mạng tư sản Anh và Chiến tranh giành độc lập của 13 thuộc địa Anh ở Bắc Mỹ",
+   "lessons": [
+    {
+     "bai": 1,
+     "title": "Cách mạng tư sản Anh và Chiến tranh giành độc lập của 13 thuộc địa Anh ở Bắc Mỹ",
+     "book": "KNTT",
+     "raw": "Bài 1: Cách mạng tư sản Anh và Chiến tranh giành độc lập của 13 thuộc địa Anh ở Bắc Mỹ"
+    }
+   ]
+  },
+  {
+   "title": "Cách mạng tư sản Pháp cuối thế kỉ XVIII",
+   "lessons": [
+    {
+     "bai": 2,
+     "title": "Cách mạng tư sản Pháp cuối thế kỉ XVIII",
+     "book": "KNTT",
+     "raw": "Bài 2: Cách mạng tư sản Pháp cuối thế kỉ XVIII"
+    },
+    {
+     "bai": 2,
+     "title": "Cách mạng tư sản Pháp cuối thế kỉ XVIII",
+     "book": "NXBDG",
+     "raw": "Bài 2: Cách mạng tư sản Pháp cuối thế kỉ XVIII"
+    }
+   ]
+  },
+  {
+   "title": "Cách mạng công nghiệp (nửa sau thế kỉ XVIII - giữa thế kỉ XIX)",
+   "lessons": [
+    {
+     "bai": 3,
+     "title": "Cách mạng công nghiệp (nửa sau thế kỉ XVIII - giữa thế kỉ XIX)",
+     "book": "KNTT",
+     "raw": "Bài 3: Cách mạng công nghiệp (nửa sau thế kỉ XVIII - giữa thế kỉ XIX)"
+    },
+    {
+     "bai": 4,
+     "title": "Đông Nam Á từ nửa sau thế kỉ XVI đến giữa thế kỉ XIX",
+     "book": "KNTT",
+     "raw": "Bài 4: Đông Nam Á từ nửa sau thế kỉ XVI đến giữa thế kỉ XIX"
+    }
+   ]
+  },
+  {
+   "title": "Cuộc xung đột Nam - Bắc triều và Trịnh - Nguyễn",
+   "lessons": [
+    {
+     "bai": 5,
+     "title": "Cuộc xung đột Nam - Bắc triều và Trịnh - Nguyễn",
+     "book": "KNTT",
+     "raw": "Bài 5: Cuộc xung đột Nam - Bắc triều và Trịnh - Nguyễn"
+    },
+    {
+     "bai": 4,
+     "title": "Xung đột Nam - Bắc triều, Trịnh - Nguyễn",
+     "book": "cánh diều",
+     "raw": "Bài 4: Xung đột Nam - Bắc triều, Trịnh - Nguyễn"
+    },
+    {
+     "bai": 4,
+     "title": "Xung đột Nam - Bắc triều và Trịnh - Nguyễn",
+     "book": "CTST",
+     "raw": "Bài 4: Xung đột Nam - Bắc triều và Trịnh - Nguyễn"
+    }
+   ]
+  },
+  {
+   "title": "Công cuộc khai phá vùng đất phía Nam từ thế kỉ XVI đến thế kỉ XVIII",
+   "lessons": [
+    {
+     "bai": 6,
+     "title": "Công cuộc khai phá vùng đất phía Nam từ thế kỉ XVI đến thế kỉ XVIII",
+     "book": "KNTT",
+     "raw": "Bài 6: Công cuộc khai phá vùng đất phía Nam từ thế kỉ XVI đến thế kỉ XVIII"
+    },
+    {
+     "bai": 5,
+     "title": "Quá trình khai phá vùng đất phía Nam từ thế kỉ XVI đến thế kỉ XVIII",
+     "book": "CTST",
+     "raw": "Bài 5: Quá trình khai phá vùng đất phía Nam từ thế kỉ XVI đến thế kỉ XVIII"
+    }
+   ]
+  },
+  {
+   "title": "Khởi nghĩa nông dân ở Đàng Ngoài thế kỉ XVIII",
+   "lessons": [
+    {
+     "bai": 7,
+     "title": "Khởi nghĩa nông dân ở Đàng Ngoài thế kỉ XVIII",
+     "book": "KNTT",
+     "raw": "Bài 7: Khởi nghĩa nông dân ở Đàng Ngoài thế kỉ XVIII"
+    },
+    {
+     "bai": 6,
+     "title": "Khởi nghĩa nông dân ở Đàng Ngoài thế kỉ XVIII",
+     "book": "cánh diều",
+     "raw": "Bài 6: Khởi nghĩa nông dân ở Đàng Ngoài thế kỉ XVIII"
+    },
+    {
+     "bai": 7,
+     "title": "Khởi nghĩa nông dân ở Đàng Ngoài thế kỉ XVIII",
+     "book": "CTST",
+     "raw": "Bài 7: Khởi nghĩa nông dân ở Đàng Ngoài thế kỉ XVIII"
+    }
+   ]
+  },
+  {
+   "title": "Phong trào Tây Sơn",
+   "lessons": [
+    {
+     "bai": 8,
+     "title": "Phong trào Tây Sơn",
+     "book": "KNTT",
+     "raw": "Bài 8: Phong trào Tây Sơn"
+    },
+    {
+     "bai": 7,
+     "title": "Phong trào Tây Sơn thế kỉ XVIII",
+     "book": "cánh diều",
+     "raw": "Bài 7: Phong trào Tây Sơn thế kỉ XVIII"
+    },
+    {
+     "bai": 8,
+     "title": "Phong trào Tây Sơn",
+     "book": "CTST",
+     "raw": "Bài 8: Phong trào Tây Sơn"
+    }
+   ]
+  },
+  {
+   "title": "Tình hình kinh tế, văn hoá, tôn giáo trong các thế kỉ XVI - XVIII",
+   "lessons": [
+    {
+     "bai": 9,
+     "title": "Tình hình kinh tế, văn hoá, tôn giáo trong các thế kỉ XVI - XVIII",
+     "book": "KNTT",
+     "raw": "Bài 9: Tình hình kinh tế, văn hoá, tôn giáo trong các thế kỉ XVI - XVIII"
+    },
+    {
+     "bai": 8,
+     "title": "Kinh tế, văn hoá và tôn giáo Đại Việt trong các thế kỉ XVI - XVIII",
+     "book": "cánh diều",
+     "raw": "Bài 8: Kinh tế, văn hoá và tôn giáo Đại Việt trong các thế kỉ XVI - XVIII"
+    },
+    {
+     "bai": 6,
+     "title": "Kinh tế, văn hoá và tôn giáo ở Đại Việt trong các thế kỉ XVI - XVIII",
+     "book": "CTST",
+     "raw": "Bài 6: Kinh tế, văn hoá và tôn giáo ở Đại Việt trong các thế kỉ XVI - XVIII"
+    }
+   ]
+  },
+  {
+   "title": "Sự hình thành chủ nghĩa đế quốc ở các nước Âu - Mỹ (cuối thế kỉ XIX - đầu thế kỉ XX)",
+   "lessons": [
+    {
+     "bai": 10,
+     "title": "Sự hình thành chủ nghĩa đế quốc ở các nước Âu - Mỹ (cuối thế kỉ XIX - đầu thế kỉ XX)",
+     "book": "KNTT",
+     "raw": "Bài 10: Sự hình thành chủ nghĩa đế quốc ở các nước Âu - Mỹ (cuối thế kỉ XIX - đầu thế kỉ XX)"
+    }
+   ]
+  },
+  {
+   "title": "Phong trào công nhân từ cuối thế kỉ XVIII đến đầu thế kỉ XX và sự ra đời của chủ nghĩa xã hội khoa học",
+   "lessons": [
+    {
+     "bai": 11,
+     "title": "Phong trào công nhân từ cuối thế kỉ XVIII đến đầu thế kỉ XX và sự ra đời của chủ nghĩa xã hội khoa học",
+     "book": "KNTT",
+     "raw": "Bài 11: Phong trào công nhân từ cuối thế kỉ XVIII đến đầu thế kỉ XX và sự ra đời của chủ nghĩa xã hội khoa học"
+    }
+   ]
+  },
+  {
+   "title": "Chiến tranh thế giới thứ nhất (1914 - 1918) và Cách mạng tháng Mười Nga năm 1917",
+   "lessons": [
+    {
+     "bai": 12,
+     "title": "Chiến tranh thế giới thứ nhất (1914 - 1918) và Cách mạng tháng Mười Nga năm 1917",
+     "book": "KNTT",
+     "raw": "Bài 12: Chiến tranh thế giới thứ nhất (1914 - 1918) và Cách mạng tháng Mười Nga năm 1917"
+    },
+    {
+     "bai": 11,
+     "title": "Chiến tranh thế giới thứ nhất (1914 - 1918) và Cách mạng tháng Mười Nga năm 1917",
+     "book": "cánh diều",
+     "raw": "Bài 11: Chiến tranh thế giới thứ nhất (1914 - 1918) và Cách mạng tháng Mười Nga năm 1917"
+    }
+   ]
+  },
+  {
+   "title": "Sự phát triển của khoa học, kĩ thuật, văn học, nghệ thuật trong các thế kỉ XVIII - XIX",
+   "lessons": [
+    {
+     "bai": 13,
+     "title": "Sự phát triển của khoa học, kĩ thuật, văn học, nghệ thuật trong các thế kỉ XVIII - XIX",
+     "book": "KNTT",
+     "raw": "Bài 13: Sự phát triển của khoa học, kĩ thuật, văn học, nghệ thuật trong các thế kỉ XVIII - XIX"
+    },
+    {
+     "bai": 12,
+     "title": "Sự phát triển của khoa học, kĩ thuật, văn học, nghệ thuật trong các thế kỉ XVIII - XIX",
+     "book": "cánh diều",
+     "raw": "Bài 12: Sự phát triển của khoa học, kĩ thuật, văn học, nghệ thuật trong các thế kỉ XVIII - XIX"
+    },
+    {
+     "bai": 8,
+     "title": "Sự phát triển của kĩ thuật, khoa học, văn học và nghệ thuật thế kỉ XVIII - XIX",
+     "book": "NXBDG",
+     "raw": "Bài 8: Sự phát triển của kĩ thuật, khoa học, văn học và nghệ thuật thế kỉ XVIII - XIX"
+    },
+    {
+     "bai": 22,
+     "title": "Sự phát triển của khoa học - kĩ thuật và văn hoá thế giới nửa đầu thế kỉ XX",
+     "book": "NXBDG",
+     "raw": "Bài 22: Sự phát triển của khoa học - kĩ thuật và văn hoá thế giới nửa đầu thế kỉ XX"
+    },
+    {
+     "bai": 14,
+     "title": "Sự phát triển của khoa học, kĩ thuật, văn học, nghệ thuật trong các thế kỉ XVIII - XIX",
+     "book": "CTST",
+     "raw": "Bài 14: Sự phát triển của khoa học, kĩ thuật, văn học, nghệ thuật trong các thế kỉ XVIII - XIX"
+    }
+   ]
+  },
+  {
+   "title": "Trung Quốc và Nhật Bản từ nửa sau thế kỉ XIX đến đầu thế kỉ XX",
+   "lessons": [
+    {
+     "bai": 14,
+     "title": "Trung Quốc và Nhật Bản từ nửa sau thế kỉ XIX đến đầu thế kỉ XX",
+     "book": "KNTT",
+     "raw": "Bài 14: Trung Quốc và Nhật Bản từ nửa sau thế kỉ XIX đến đầu thế kỉ XX"
+    },
+    {
+     "bai": 15,
+     "title": "Ấn Độ và Đông Nam Á từ nửa sau thế kỉ XIX đến đầu thế kỉ XX",
+     "book": "KNTT",
+     "raw": "Bài 15: Ấn Độ và Đông Nam Á từ nửa sau thế kỉ XIX đến đầu thế kỉ XX"
+    },
+    {
+     "bai": 3,
+     "title": "Đông Nam Á từ nửa sau thế kỉ XVI đến thế kỉ XIX",
+     "book": "cánh diều",
+     "raw": "Bài 3: Đông Nam Á từ nửa sau thế kỉ XVI đến thế kỉ XIX"
+    },
+    {
+     "bai": 9,
+     "title": "Các nước Âu - Mỹ từ cuối thế kỉ XIX đến đầu thế kỉ XX",
+     "book": "cánh diều",
+     "raw": "Bài 9: Các nước Âu - Mỹ từ cuối thế kỉ XIX đến đầu thế kỉ XX"
+    },
+    {
+     "bai": 3,
+     "title": "Tình hình Đông Nam Á từ nửa sau thế kỉ XVI đến thế kỉ XIX",
+     "book": "CTST",
+     "raw": "Bài 3: Tình hình Đông Nam Á từ nửa sau thế kỉ XVI đến thế kỉ XIX"
+    }
+   ]
+  },
+  {
+   "title": "Việt Nam dưới thời Nguyễn (nửa đầu thế kỉ XIX)",
+   "lessons": [
+    {
+     "bai": 16,
+     "title": "Việt Nam dưới thời Nguyễn (nửa đầu thế kỉ XIX)",
+     "book": "KNTT",
+     "raw": "Bài 16: Việt Nam dưới thời Nguyễn (nửa đầu thế kỉ XIX)"
+    },
+    {
+     "bai": 15,
+     "title": "Việt Nam nửa đầu thế kỉ XIX",
+     "book": "cánh diều",
+     "raw": "Bài 15: Việt Nam nửa đầu thế kỉ XIX"
+    },
+    {
+     "bai": 16,
+     "title": "Việt Nam nửa sau thế kỉ XIX",
+     "book": "cánh diều",
+     "raw": "Bài 16: Việt Nam nửa sau thế kỉ XIX"
+    }
+   ]
+  },
+  {
+   "title": "Cuộc kháng chiến chống thực dân Pháp xâm lược từ năm 1858 đến năm 1884",
+   "lessons": [
+    {
+     "bai": 17,
+     "title": "Cuộc kháng chiến chống thực dân Pháp xâm lược từ năm 1858 đến năm 1884",
+     "book": "KNTT",
+     "raw": "Bài 17: Cuộc kháng chiến chống thực dân Pháp xâm lược từ năm 1858 đến năm 1884"
+    },
+    {
+     "bai": 20,
+     "title": "Cuộc kháng chiến chống thực dân Pháp xâm lược của nhân dân Việt Nam (1858 - 1884)",
+     "book": "CTST",
+     "raw": "Bài 20: Cuộc kháng chiến chống thực dân Pháp xâm lược của nhân dân Việt Nam (1858 - 1884)"
+    }
+   ]
+  },
+  {
+   "title": "Phong trào chống Pháp trong những năm 1885 - 1896",
+   "lessons": [
+    {
+     "bai": 18,
+     "title": "Phong trào chống Pháp trong những năm 1885 - 1896",
+     "book": "KNTT",
+     "raw": "Bài 18: Phong trào chống Pháp trong những năm 1885 - 1896"
+    }
+   ]
+  },
+  {
+   "title": "Phong trào yêu nước chống Pháp ở Việt Nam từ đầu thế kỉ XX đến năm 1917",
+   "lessons": [
+    {
+     "bai": 19,
+     "title": "Phong trào yêu nước chống Pháp ở Việt Nam từ đầu thế kỉ XX đến năm 1917",
+     "book": "KNTT",
+     "raw": "Bài 19: Phong trào yêu nước chống Pháp ở Việt Nam từ đầu thế kỉ XX đến năm 1917"
+    },
+    {
+     "bai": 30,
+     "title": "Phong trào yêu nước chống Pháp từ đầu thế kỉ XX đến năm 1918",
+     "book": "NXBDG",
+     "raw": "Bài 30: Phong trào yêu nước chống Pháp từ đầu thế kỉ XX đến năm 1918"
+    }
+   ]
+  },
+  {
+   "title": "Cách mạng tư sản ở châu Âu và Bắc Mỹ",
+   "lessons": [
+    {
+     "bai": 1,
+     "title": "Cách mạng tư sản ở châu Âu và Bắc Mỹ",
+     "book": "cánh diều",
+     "raw": "Bài 1: Cách mạng tư sản ở châu Âu và Bắc Mỹ"
+    },
+    {
+     "bai": 1,
+     "title": "Các cuộc cách mạng tư sản ở châu Âu và Bắc Mỹ",
+     "book": "CTST",
+     "raw": "Bài 1: Các cuộc cách mạng tư sản ở châu Âu và Bắc Mỹ"
+    }
+   ]
+  },
+  {
+   "title": "Cách mạng công nghiệp",
+   "lessons": [
+    {
+     "bai": 2,
+     "title": "Cách mạng công nghiệp",
+     "book": "cánh diều",
+     "raw": "Bài 2: Cách mạng công nghiệp"
+    },
+    {
+     "bai": 2,
+     "title": "Cách mạng công nghiệp",
+     "book": "CTST",
+     "raw": "Bài 2: Cách mạng công nghiệp"
+    }
+   ]
+  },
+  {
+   "title": "Quá trình khai phá của Đại Việt trong các thế kỉ XVI - XVIII",
+   "lessons": [
+    {
+     "bai": 5,
+     "title": "Quá trình khai phá của Đại Việt trong các thế kỉ XVI - XVIII",
+     "book": "cánh diều",
+     "raw": "Bài 5: Quá trình khai phá của Đại Việt trong các thế kỉ XVI - XVIII"
+    }
+   ]
+  },
+  {
+   "title": "Phong trào công nhân và sự ra đời của chủ nghĩa Mác",
+   "lessons": [
+    {
+     "bai": 10,
+     "title": "Phong trào công nhân và sự ra đời của chủ nghĩa Mác",
+     "book": "cánh diều",
+     "raw": "Bài 10: Phong trào công nhân và sự ra đời của chủ nghĩa Mác"
+    },
+    {
+     "bai": 4,
+     "title": "Phong trào công nhân và sự ra đời của chủ nghĩa Mác",
+     "book": "NXBDG",
+     "raw": "Bài 4: Phong trào công nhân và sự ra đời của chủ nghĩa Mác"
+    },
+    {
+     "bai": 11,
+     "title": "Phong trào công nhân và sự ra đời của chủ nghĩa Mác",
+     "book": "CTST",
+     "raw": "Bài 11: Phong trào công nhân và sự ra đời của chủ nghĩa Mác"
+    }
+   ]
+  },
+  {
+   "title": "Trung Quốc và Nhật Bản",
+   "lessons": [
+    {
+     "bai": 13,
+     "title": "Trung Quốc và Nhật Bản",
+     "book": "cánh diều",
+     "raw": "Bài 13: Trung Quốc và Nhật Bản"
+    }
+   ]
+  },
+  {
+   "title": "Ấn Độ và khu vực Đông Nam Á",
+   "lessons": [
+    {
+     "bai": 14,
+     "title": "Ấn Độ và khu vực Đông Nam Á",
+     "book": "cánh diều",
+     "raw": "Bài 14: Ấn Độ và khu vực Đông Nam Á"
+    }
+   ]
+  },
+  {
+   "title": "Việt Nam đầu thế kỉ XX",
+   "lessons": [
+    {
+     "bai": 17,
+     "title": "Việt Nam đầu thế kỉ XX",
+     "book": "cánh diều",
+     "raw": "Bài 17: Việt Nam đầu thế kỉ XX"
+    },
+    {
+     "bai": 19,
+     "title": "Việt Nam nửa đầu thế kỉ XIX",
+     "book": "CTST",
+     "raw": "Bài 19: Việt Nam nửa đầu thế kỉ XIX"
+    },
+    {
+     "bai": 23,
+     "title": "Việt Nam đầu thế kỉ XX",
+     "book": "CTST",
+     "raw": "Bài 23: Việt Nam đầu thế kỉ XX"
+    }
+   ]
+  },
+  {
+   "title": "Những cuộc cách mạng tư sản đầu tiên",
+   "lessons": [
+    {
+     "bai": 1,
+     "title": "Những cuộc cách mạng tư sản đầu tiên",
+     "book": "NXBDG",
+     "raw": "Bài 1: Những cuộc cách mạng tư sản đầu tiên"
+    }
+   ]
+  },
+  {
+   "title": "Chủ nghĩa tư bản được xác lập trên phạm vi thế giới",
+   "lessons": [
+    {
+     "bai": 3,
+     "title": "Chủ nghĩa tư bản được xác lập trên phạm vi thế giới",
+     "book": "NXBDG",
+     "raw": "Bài 3: Chủ nghĩa tư bản được xác lập trên phạm vi thế giới"
+    }
+   ]
+  },
+  {
+   "title": "Công xã Pa-ri 1871",
+   "lessons": [
+    {
+     "bai": 5,
+     "title": "Công xã Pa-ri 1871",
+     "book": "NXBDG",
+     "raw": "Bài 5: Công xã Pa-ri 1871"
+    },
+    {
+     "bai": 10,
+     "title": "Công xã Pa-ri (năm 1871)",
+     "book": "CTST",
+     "raw": "Bài 10: Công xã Pa-ri (năm 1871)"
+    }
+   ]
+  },
+  {
+   "title": "Các nước Anh, Pháp, Đức, Mĩ cuối thế kỉ XIX - đầu thế kỉ XX",
+   "lessons": [
+    {
+     "bai": 6,
+     "title": "Các nước Anh, Pháp, Đức, Mĩ cuối thế kỉ XIX - đầu thế kỉ XX",
+     "book": "NXBDG",
+     "raw": "Bài 6: Các nước Anh, Pháp, Đức, Mĩ cuối thế kỉ XIX - đầu thế kỉ XX"
+    },
+    {
+     "bai": 11,
+     "title": "Các nước Đông Nam Á cuối thế kỉ XIX - đầu thế kỉ XX",
+     "book": "NXBDG",
+     "raw": "Bài 11: Các nước Đông Nam Á cuối thế kỉ XIX - đầu thế kỉ XX"
+    }
+   ]
+  },
+  {
+   "title": "Phong trào công nhân quốc tế cuối thế kỉ XIX - đầu thế kỉ XX",
+   "lessons": [
+    {
+     "bai": 7,
+     "title": "Phong trào công nhân quốc tế cuối thế kỉ XIX - đầu thế kỉ XX",
+     "book": "NXBDG",
+     "raw": "Bài 7: Phong trào công nhân quốc tế cuối thế kỉ XIX - đầu thế kỉ XX"
+    }
+   ]
+  },
+  {
+   "title": "Ấn Độ thế kỉ XVIII - đầu thế kỉ XX",
+   "lessons": [
+    {
+     "bai": 9,
+     "title": "Ấn Độ thế kỉ XVIII - đầu thế kỉ XX",
+     "book": "NXBDG",
+     "raw": "Bài 9: Ấn Độ thế kỉ XVIII - đầu thế kỉ XX"
+    },
+    {
+     "bai": 10,
+     "title": "Trung Quốc giữa thế kỉ XIX - đầu thế kỉ XX",
+     "book": "NXBDG",
+     "raw": "Bài 10: Trung Quốc giữa thế kỉ XIX - đầu thế kỉ XX"
+    },
+    {
+     "bai": 12,
+     "title": "Nhật Bản giữa thế kỉ XIX - đầu thế kỉ XX",
+     "book": "NXBDG",
+     "raw": "Bài 12: Nhật Bản giữa thế kỉ XIX - đầu thế kỉ XX"
+    }
+   ]
+  },
+  {
+   "title": "Chiến tranh thế giới thứ nhất (1914 - 1918)",
+   "lessons": [
+    {
+     "bai": 13,
+     "title": "Chiến tranh thế giới thứ nhất (1914 - 1918)",
+     "book": "NXBDG",
+     "raw": "Bài 13: Chiến tranh thế giới thứ nhất (1914 - 1918)"
+    },
+    {
+     "bai": 21,
+     "title": "Chiến tranh thế giới thứ hai (1939 - 1945)",
+     "book": "NXBDG",
+     "raw": "Bài 21: Chiến tranh thế giới thứ hai (1939 - 1945)"
+    },
+    {
+     "bai": 12,
+     "title": "Chiến tranh thế giới thứ nhất (1914 - 1918)",
+     "book": "CTST",
+     "raw": "Bài 12: Chiến tranh thế giới thứ nhất (1914 - 1918)"
+    }
+   ]
+  },
+  {
+   "title": "Ôn tập lịch sử thế giới cận đại (Từ giữa thế kỉ XVI đến năm 1917)",
+   "lessons": [
+    {
+     "bai": 14,
+     "title": "Ôn tập lịch sử thế giới cận đại (Từ giữa thế kỉ XVI đến năm 1917)",
+     "book": "NXBDG",
+     "raw": "Bài 14: Ôn tập lịch sử thế giới cận đại (Từ giữa thế kỉ XVI đến năm 1917)"
+    },
+    {
+     "bai": 23,
+     "title": "Ôn tập lịch sử thế giới hiện đại (Phần từ năm 1917 đến năm 1945)",
+     "book": "NXBDG",
+     "raw": "Bài 23: Ôn tập lịch sử thế giới hiện đại (Phần từ năm 1917 đến năm 1945)"
+    }
+   ]
+  },
+  {
+   "title": "Cách mạng tháng Mười Nga năm 1917 và cuộc đấu tranh bảo vệ cách mạng (1917 - 1921)",
+   "lessons": [
+    {
+     "bai": 15,
+     "title": "Cách mạng tháng Mười Nga năm 1917 và cuộc đấu tranh bảo vệ cách mạng (1917 - 1921)",
+     "book": "NXBDG",
+     "raw": "Bài 15: Cách mạng tháng Mười Nga năm 1917 và cuộc đấu tranh bảo vệ cách mạng (1917 - 1921)"
+    }
+   ]
+  },
+  {
+   "title": "Liên Xô xây dựng chủ nghĩa xã hội (1921 - 1941)",
+   "lessons": [
+    {
+     "bai": 16,
+     "title": "Liên Xô xây dựng chủ nghĩa xã hội (1921 - 1941)",
+     "book": "NXBDG",
+     "raw": "Bài 16: Liên Xô xây dựng chủ nghĩa xã hội (1921 - 1941)"
+    }
+   ]
+  },
+  {
+   "title": "Châu Âu giữa hai cuộc chiến tranh thế giới (1918 - 1939)",
+   "lessons": [
+    {
+     "bai": 17,
+     "title": "Châu Âu giữa hai cuộc chiến tranh thế giới (1918 - 1939)",
+     "book": "NXBDG",
+     "raw": "Bài 17: Châu Âu giữa hai cuộc chiến tranh thế giới (1918 - 1939)"
+    },
+    {
+     "bai": 18,
+     "title": "Nước Mĩ giữa hai cuộc chiến tranh thế giới (1918 - 1939)",
+     "book": "NXBDG",
+     "raw": "Bài 18: Nước Mĩ giữa hai cuộc chiến tranh thế giới (1918 - 1939)"
+    },
+    {
+     "bai": 19,
+     "title": "Nhật Bản giữa hai cuộc chiến tranh thế giới (1918 - 1939)",
+     "book": "NXBDG",
+     "raw": "Bài 19: Nhật Bản giữa hai cuộc chiến tranh thế giới (1918 - 1939)"
+    }
+   ]
+  },
+  {
+   "title": "Phong trào độc lập dân tộc ở châu Á (1918 - 1939)",
+   "lessons": [
+    {
+     "bai": 20,
+     "title": "Phong trào độc lập dân tộc ở châu Á (1918 - 1939)",
+     "book": "NXBDG",
+     "raw": "Bài 20: Phong trào độc lập dân tộc ở châu Á (1918 - 1939)"
+    }
+   ]
+  },
+  {
+   "title": "Cuộc kháng chiến từ năm 1858 đến năm 1873",
+   "lessons": [
+    {
+     "bai": 24,
+     "title": "Cuộc kháng chiến từ năm 1858 đến năm 1873",
+     "book": "NXBDG",
+     "raw": "Bài 24: Cuộc kháng chiến từ năm 1858 đến năm 1873"
+    }
+   ]
+  },
+  {
+   "title": "Kháng chiến lan rộng ra toàn quốc (1873 - 1884)",
+   "lessons": [
+    {
+     "bai": 25,
+     "title": "Kháng chiến lan rộng ra toàn quốc (1873 - 1884)",
+     "book": "NXBDG",
+     "raw": "Bài 25: Kháng chiến lan rộng ra toàn quốc (1873 - 1884)"
+    }
+   ]
+  },
+  {
+   "title": "Phong trào kháng chiến chống Pháp trong những năm cuối thế kỉ XIX",
+   "lessons": [
+    {
+     "bai": 26,
+     "title": "Phong trào kháng chiến chống Pháp trong những năm cuối thế kỉ XIX",
+     "book": "NXBDG",
+     "raw": "Bài 26: Phong trào kháng chiến chống Pháp trong những năm cuối thế kỉ XIX"
+    },
+    {
+     "bai": 21,
+     "title": "Phong trào chống Pháp của nhân dân Việt Nam trong những năm cuối thế kỉ XIX",
+     "book": "CTST",
+     "raw": "Bài 21: Phong trào chống Pháp của nhân dân Việt Nam trong những năm cuối thế kỉ XIX"
+    }
+   ]
+  },
+  {
+   "title": "Khởi nghĩa Yên Thế và phong trào chống Pháp của đồng bào miền núi cuối thế kỉ XIX",
+   "lessons": [
+    {
+     "bai": 27,
+     "title": "Khởi nghĩa Yên Thế và phong trào chống Pháp của đồng bào miền núi cuối thế kỉ XIX",
+     "book": "NXBDG",
+     "raw": "Bài 27: Khởi nghĩa Yên Thế và phong trào chống Pháp của đồng bào miền núi cuối thế kỉ XIX"
+    }
+   ]
+  },
+  {
+   "title": "Trào lưu cải cách duy tân ở Việt Nam nửa cuối thế kỉ XIX",
+   "lessons": [
+    {
+     "bai": 28,
+     "title": "Trào lưu cải cách duy tân ở Việt Nam nửa cuối thế kỉ XIX",
+     "book": "NXBDG",
+     "raw": "Bài 28: Trào lưu cải cách duy tân ở Việt Nam nửa cuối thế kỉ XIX"
+    },
+    {
+     "bai": 22,
+     "title": "Trào lưu cải cách ở Việt Nam nửa cuối thế kỉ XIX",
+     "book": "CTST",
+     "raw": "Bài 22: Trào lưu cải cách ở Việt Nam nửa cuối thế kỉ XIX"
+    }
+   ]
+  },
+  {
+   "title": "Chính sách khai thác thuộc địa của thực dân Pháp và những chuyển biến về kinh tế, xã hội ở Việt Nam",
+   "lessons": [
+    {
+     "bai": 29,
+     "title": "Chính sách khai thác thuộc địa của thực dân Pháp và những chuyển biến về kinh tế, xã hội ở Việt Nam",
+     "book": "NXBDG",
+     "raw": "Bài 29: Chính sách khai thác thuộc địa của thực dân Pháp và những chuyển biến về kinh tế, xã hội ở Việt Nam"
+    }
+   ]
+  },
+  {
+   "title": "Ôn tập lịch sử Việt Nam từ năm 1858 đến năm 1918",
+   "lessons": [
+    {
+     "bai": 31,
+     "title": "Ôn tập lịch sử Việt Nam từ năm 1858 đến năm 1918",
+     "book": "NXBDG",
+     "raw": "Bài 31: Ôn tập lịch sử Việt Nam từ năm 1858 đến năm 1918"
+    }
+   ]
+  },
+  {
+   "title": "Các nước Anh, Pháp, Đức, Mỹ chuyển sang giai đoạn chủ nghĩa đế quốc",
+   "lessons": [
+    {
+     "bai": 9,
+     "title": "Các nước Anh, Pháp, Đức, Mỹ chuyển sang giai đoạn chủ nghĩa đế quốc",
+     "book": "CTST",
+     "raw": "Bài 9: Các nước Anh, Pháp, Đức, Mỹ chuyển sang giai đoạn chủ nghĩa đế quốc"
+    }
+   ]
+  },
+  {
+   "title": "Cách mạng tháng Mười Nga năm 1917",
+   "lessons": [
+    {
+     "bai": 13,
+     "title": "Cách mạng tháng Mười Nga năm 1917",
+     "book": "CTST",
+     "raw": "Bài 13: Cách mạng tháng Mười Nga năm 1917"
+    }
+   ]
+  },
+  {
+   "title": "Trung Quốc",
+   "lessons": [
+    {
+     "bai": 15,
+     "title": "Trung Quốc",
+     "book": "CTST",
+     "raw": "Bài 15: Trung Quốc"
+    }
+   ]
+  },
+  {
+   "title": "Nhật Bản",
+   "lessons": [
+    {
+     "bai": 16,
+     "title": "Nhật Bản",
+     "book": "CTST",
+     "raw": "Bài 16: Nhật Bản"
+    }
+   ]
+  },
+  {
+   "title": "Ấn Độ",
+   "lessons": [
+    {
+     "bai": 17,
+     "title": "Ấn Độ",
+     "book": "CTST",
+     "raw": "Bài 17: Ấn Độ"
+    }
+   ]
+  },
+  {
+   "title": "Đông Nam Á",
+   "lessons": [
+    {
+     "bai": 18,
+     "title": "Đông Nam Á",
+     "book": "CTST",
+     "raw": "Bài 18: Đông Nam Á"
+    }
+   ]
+  }
+ ],
+ "9": [
+  {
+   "title": "Nước Nga và Liên Xô từ năm 1918 đến năm 1945",
+   "lessons": [
+    {
+     "bai": 1,
+     "title": "Nước Nga và Liên Xô từ năm 1918 đến năm 1945",
+     "book": "cánh diều",
+     "raw": "Bài 1: Nước Nga và Liên Xô từ năm 1918 đến năm 1945"
+    },
+    {
+     "bai": 1,
+     "title": "Nước Nga và Liên Xô từ năm 1918 đến năm 1945",
+     "book": "KNTT",
+     "raw": "Bài 1: Nước Nga và Liên Xô từ năm 1918 đến năm 1945"
+    },
+    {
+     "bai": 1,
+     "title": "Nước Nga và Liên Xô từ năm 1918 đến năm 1945",
+     "book": "CTST",
+     "raw": "Bài 1: Nước Nga và Liên Xô từ năm 1918 đến năm 1945"
+    }
+   ]
+  },
+  {
+   "title": "Châu Âu và nước Mỹ từ năm 1918 đến năm 1945",
+   "lessons": [
+    {
+     "bai": 2,
+     "title": "Châu Âu và nước Mỹ từ năm 1918 đến năm 1945",
+     "book": "cánh diều",
+     "raw": "Bài 2: Châu Âu và nước Mỹ từ năm 1918 đến năm 1945"
+    },
+    {
+     "bai": 3,
+     "title": "Châu Á từ năm 1918 đến năm 1945",
+     "book": "cánh diều",
+     "raw": "Bài 3: Châu Á từ năm 1918 đến năm 1945"
+    },
+    {
+     "bai": 10,
+     "title": "Châu Á từ năm 1945 đến năm 1991",
+     "book": "cánh diều",
+     "raw": "Bài 10: Châu Á từ năm 1945 đến năm 1991"
+    },
+    {
+     "bai": 2,
+     "title": "Châu Âu và nước Mỹ từ năm 1918 đến năm 1945",
+     "book": "KNTT",
+     "raw": "Bài 2: Châu Âu và nước Mỹ từ năm 1918 đến năm 1945"
+    },
+    {
+     "bai": 3,
+     "title": "Châu Á từ năm 1918 đến năm 1945",
+     "book": "KNTT",
+     "raw": "Bài 3: Châu Á từ năm 1918 đến năm 1945"
+    },
+    {
+     "bai": 2,
+     "title": "Châu Âu và nước Mỹ từ năm 1918 đến năm 1945",
+     "book": "CTST",
+     "raw": "Bài 2: Châu Âu và nước Mỹ từ năm 1918 đến năm 1945"
+    },
+    {
+     "bai": 3,
+     "title": "Châu Á từ năm 1918 đến năm 1945",
+     "book": "CTST",
+     "raw": "Bài 3: Châu Á từ năm 1918 đến năm 1945"
+    }
+   ]
+  },
+  {
+   "title": "Chiến tranh thế giới thứ hai (1939-1945)",
+   "lessons": [
+    {
+     "bai": 4,
+     "title": "Chiến tranh thế giới thứ hai (1939-1945)",
+     "book": "cánh diều",
+     "raw": "Bài 4: Chiến tranh thế giới thứ hai (1939-1945)"
+    },
+    {
+     "bai": 4,
+     "title": "Chiến tranh thế giới thứ hai (1939 – 1945)",
+     "book": "KNTT",
+     "raw": "Bài 4: Chiến tranh thế giới thứ hai (1939 – 1945)"
+    },
+    {
+     "bai": 4,
+     "title": "Chiến tranh thế giới thứ hai (1939 – 1945)",
+     "book": "CTST",
+     "raw": "Bài 4: Chiến tranh thế giới thứ hai (1939 – 1945)"
+    }
+   ]
+  },
+  {
+   "title": "Việt Nam từ năm 1918 đến năm 1930",
+   "lessons": [
+    {
+     "bai": 5,
+     "title": "Việt Nam từ năm 1918 đến năm 1930",
+     "book": "cánh diều",
+     "raw": "Bài 5: Việt Nam từ năm 1918 đến năm 1930"
+    },
+    {
+     "bai": 6,
+     "title": "Việt Nam từ năm 1930 đến năm 1945",
+     "book": "cánh diều",
+     "raw": "Bài 6: Việt Nam từ năm 1930 đến năm 1945"
+    },
+    {
+     "bai": 13,
+     "title": "Việt Nam từ năm 1946 đến năm 1954",
+     "book": "cánh diều",
+     "raw": "Bài 13: Việt Nam từ năm 1946 đến năm 1954"
+    },
+    {
+     "bai": 14,
+     "title": "Việt Nam từ năm 1954 đến năm 1991",
+     "book": "cánh diều",
+     "raw": "Bài 14: Việt Nam từ năm 1954 đến năm 1991"
+    },
+    {
+     "bai": 15,
+     "title": "Việt Nam từ 1975 đến năm 1991",
+     "book": "cánh diều",
+     "raw": "Bài 15: Việt Nam từ 1975 đến năm 1991"
+    },
+    {
+     "bai": 20,
+     "title": "Việt Nam từ năm 1991 đến nay",
+     "book": "cánh diều",
+     "raw": "Bài 20: Việt Nam từ năm 1991 đến nay"
+    },
+    {
+     "bai": 18,
+     "title": "Việt Nam từ năm 1976 đến năm 1991",
+     "book": "KNTT",
+     "raw": "Bài 18: Việt Nam từ năm 1976 đến năm 1991"
+    },
+    {
+     "bai": 21,
+     "title": "Việt Nam từ năm 1991 đến nay",
+     "book": "KNTT",
+     "raw": "Bài 21: Việt Nam từ năm 1991 đến nay"
+    },
+    {
+     "bai": 17,
+     "title": "Việt Nam từ năm 1954 đến năm 1965",
+     "book": "CTST",
+     "raw": "Bài 17: Việt Nam từ năm 1954 đến năm 1965"
+    },
+    {
+     "bai": 18,
+     "title": "Việt Nam từ năm 1965 đến năm 1975",
+     "book": "CTST",
+     "raw": "Bài 18: Việt Nam từ năm 1965 đến năm 1975"
+    },
+    {
+     "bai": 19,
+     "title": "Việt Nam từ năm 1976 đến năm 1991",
+     "book": "CTST",
+     "raw": "Bài 19: Việt Nam từ năm 1976 đến năm 1991"
+    }
+   ]
+  },
+  {
+   "title": "Chiến tranh lạnh (1947-1989)",
+   "lessons": [
+    {
+     "bai": 7,
+     "title": "Chiến tranh lạnh (1947-1989)",
+     "book": "cánh diều",
+     "raw": "Bài 7: Chiến tranh lạnh (1947-1989)"
+    },
+    {
+     "bai": 9,
+     "title": "Chiến tranh lạnh (1947 – 1989)",
+     "book": "KNTT",
+     "raw": "Bài 9: Chiến tranh lạnh (1947 – 1989)"
+    },
+    {
+     "bai": 9,
+     "title": "Chiến tranh lạnh (1947 – 1989)",
+     "book": "CTST",
+     "raw": "Bài 9: Chiến tranh lạnh (1947 – 1989)"
+    }
+   ]
+  },
+  {
+   "title": "Liên Xô và các nước Đông Âu từ năm 1945 đến năm 1991",
+   "lessons": [
+    {
+     "bai": 8,
+     "title": "Liên Xô và các nước Đông Âu từ năm 1945 đến năm 1991",
+     "book": "cánh diều",
+     "raw": "Bài 8: Liên Xô và các nước Đông Âu từ năm 1945 đến năm 1991"
+    },
+    {
+     "bai": 9,
+     "title": "Nước Mỹ và các nước Tây Âu từ năm 1945 đến năm 1991",
+     "book": "cánh diều",
+     "raw": "Bài 9: Nước Mỹ và các nước Tây Âu từ năm 1945 đến năm 1991"
+    },
+    {
+     "bai": 1,
+     "title": "Liên Xô và các nước Đông Âu từ năm 1945 đến giữa những năm 70 của thế kỉ XX",
+     "book": "NXBDG",
+     "raw": "Bài 1: Liên Xô và các nước Đông Âu từ năm 1945 đến giữa những năm 70 của thế kỉ XX"
+    },
+    {
+     "bai": 1,
+     "title": "Liên Xô và các nước Đông Âu từ năm 1945 đến giữa những năm 70 của thế kỉ XX",
+     "book": "NXBDG",
+     "raw": "Bài 1: Liên Xô và các nước Đông Âu từ năm 1945 đến giữa những năm 70 của thế kỉ XX"
+    },
+    {
+     "bai": 10,
+     "title": "Liên Xô và Đông Âu từ năm 1945 đến năm 1991",
+     "book": "KNTT",
+     "raw": "Bài 10: Liên Xô và Đông Âu từ năm 1945 đến năm 1991"
+    },
+    {
+     "bai": 10,
+     "title": "Liên Xô và các nước Đông Âu từ năm 1945 đến năm 1991",
+     "book": "CTST",
+     "raw": "Bài 10: Liên Xô và các nước Đông Âu từ năm 1945 đến năm 1991"
+    },
+    {
+     "bai": 11,
+     "title": "Nước Mỹ và các nước Tây Âu từ năm 1945 đến năm 1991",
+     "book": "CTST",
+     "raw": "Bài 11: Nước Mỹ và các nước Tây Âu từ năm 1945 đến năm 1991"
+    },
+    {
+     "bai": 13,
+     "title": "Một số nước ở châu Á từ năm 1945 đến năm 1991",
+     "book": "CTST",
+     "raw": "Bài 13: Một số nước ở châu Á từ năm 1945 đến năm 1991"
+    }
+   ]
+  },
+  {
+   "title": "Khu vực Mỹ La-tinh từ năm 1945 đến năm 1991",
+   "lessons": [
+    {
+     "bai": 11,
+     "title": "Khu vực Mỹ La-tinh từ năm 1945 đến năm 1991",
+     "book": "cánh diều",
+     "raw": "Bài 11: Khu vực Mỹ La-tinh từ năm 1945 đến năm 1991"
+    },
+    {
+     "bai": 11,
+     "title": "Nước Mỹ và Tây Âu từ năm 1945 đến năm 1991",
+     "book": "KNTT",
+     "raw": "Bài 11: Nước Mỹ và Tây Âu từ năm 1945 đến năm 1991"
+    },
+    {
+     "bai": 12,
+     "title": "Khu vực Mỹ La-tinh và châu Á từ năm 1945 đến năm 1991",
+     "book": "KNTT",
+     "raw": "Bài 12: Khu vực Mỹ La-tinh và châu Á từ năm 1945 đến năm 1991"
+    },
+    {
+     "bai": 12,
+     "title": "Mỹ La-tinh từ năm 1945 đến năm 1991",
+     "book": "CTST",
+     "raw": "Bài 12: Mỹ La-tinh từ năm 1945 đến năm 1991"
+    }
+   ]
+  },
+  {
+   "title": "Việt Nam trong những năm đầu sau cách mạng tháng tám 1945",
+   "lessons": [
+    {
+     "bai": 12,
+     "title": "Việt Nam trong những năm đầu sau cách mạng tháng tám 1945",
+     "book": "cánh diều",
+     "raw": "Bài 12: Việt Nam trong những năm đầu sau cách mạng tháng tám 1945"
+    },
+    {
+     "bai": 31,
+     "title": "Việt Nam trong năm đầu sau đại thắng Xuân 1975",
+     "book": "NXBDG",
+     "raw": "Bài 31: Việt Nam trong năm đầu sau đại thắng Xuân 1975"
+    },
+    {
+     "bai": 13,
+     "title": "Việt Nam trong năm đầu sau Cách mạng tháng Tám năm 1945",
+     "book": "KNTT",
+     "raw": "Bài 13: Việt Nam trong năm đầu sau Cách mạng tháng Tám năm 1945"
+    }
+   ]
+  },
+  {
+   "title": "Trật tự thế giới mới từ 1991 đến nay",
+   "lessons": [
+    {
+     "bai": 16,
+     "title": "Trật tự thế giới mới từ 1991 đến nay",
+     "book": "cánh diều",
+     "raw": "Bài 16: Trật tự thế giới mới từ 1991 đến nay"
+    },
+    {
+     "bai": 20,
+     "title": "Trật tự thế giới mới từ năm 1991 đến nay",
+     "book": "CTST",
+     "raw": "Bài 20: Trật tự thế giới mới từ năm 1991 đến nay"
+    }
+   ]
+  },
+  {
+   "title": "Liên Bang Nga từ năm 1991 đến nay",
+   "lessons": [
+    {
+     "bai": 17,
+     "title": "Liên Bang Nga từ năm 1991 đến nay",
+     "book": "cánh diều",
+     "raw": "Bài 17: Liên Bang Nga từ năm 1991 đến nay"
+    },
+    {
+     "bai": 18,
+     "title": "Nước Mỹ từ năm 1991 đến nay",
+     "book": "cánh diều",
+     "raw": "Bài 18: Nước Mỹ từ năm 1991 đến nay"
+    },
+    {
+     "bai": 19,
+     "title": "Châu Á từ năm 1991 đến nay",
+     "book": "cánh diều",
+     "raw": "Bài 19: Châu Á từ năm 1991 đến nay"
+    },
+    {
+     "bai": 20,
+     "title": "Châu Á từ năm 1991 đến nay",
+     "book": "KNTT",
+     "raw": "Bài 20: Châu Á từ năm 1991 đến nay"
+    },
+    {
+     "bai": 21,
+     "title": "Liên bang Nga và nước Mỹ từ năm 1991 đến nay",
+     "book": "CTST",
+     "raw": "Bài 21: Liên bang Nga và nước Mỹ từ năm 1991 đến nay"
+    },
+    {
+     "bai": 22,
+     "title": "Châu Á từ năm 1991 đến nay",
+     "book": "CTST",
+     "raw": "Bài 22: Châu Á từ năm 1991 đến nay"
+    }
+   ]
+  },
+  {
+   "title": "Cách mạng khoa học - kĩ thuật và xu thế toàn cầu hóa",
+   "lessons": [
+    {
+     "bai": 21,
+     "title": "Cách mạng khoa học - kĩ thuật và xu thế toàn cầu hóa",
+     "book": "cánh diều",
+     "raw": "Bài 21: Cách mạng khoa học - kĩ thuật và xu thế toàn cầu hóa"
+    },
+    {
+     "bai": 22,
+     "title": "Cách mạng khoa học – kĩ thuật và xu thế toàn cầu hoá",
+     "book": "KNTT",
+     "raw": "Bài 22: Cách mạng khoa học – kĩ thuật và xu thế toàn cầu hoá"
+    },
+    {
+     "bai": 24,
+     "title": "Cách mạng khoa học, kĩ thuật và xu thế toàn cầu hoá",
+     "book": "CTST",
+     "raw": "Bài 24: Cách mạng khoa học, kĩ thuật và xu thế toàn cầu hoá"
+    }
+   ]
+  },
+  {
+   "title": "Liên Xô và các nước Đông Âu từ giữa những năm 70 đến đầu những năm 90 của thế kỉ XX",
+   "lessons": [
+    {
+     "bai": 2,
+     "title": "Liên Xô và các nước Đông Âu từ giữa những năm 70 đến đầu những năm 90 của thế kỉ XX",
+     "book": "NXBDG",
+     "raw": "Bài 2: Liên Xô và các nước Đông Âu từ giữa những năm 70 đến đầu những năm 90 của thế kỉ XX"
+    }
+   ]
+  },
+  {
+   "title": "Quá trình phát triển của phong trào giải phóng dân tộc và sự tan rã của hệ thống thuộc địa",
+   "lessons": [
+    {
+     "bai": 3,
+     "title": "Quá trình phát triển của phong trào giải phóng dân tộc và sự tan rã của hệ thống thuộc địa",
+     "book": "NXBDG",
+     "raw": "Bài 3: Quá trình phát triển của phong trào giải phóng dân tộc và sự tan rã của hệ thống thuộc địa"
+    }
+   ]
+  },
+  {
+   "title": "Các nước châu Á",
+   "lessons": [
+    {
+     "bai": 4,
+     "title": "Các nước châu Á",
+     "book": "NXBDG",
+     "raw": "Bài 4: Các nước châu Á"
+    },
+    {
+     "bai": 6,
+     "title": "Các nước châu Phi",
+     "book": "NXBDG",
+     "raw": "Bài 6: Các nước châu Phi"
+    },
+    {
+     "bai": 10,
+     "title": "Các nước Tây Âu",
+     "book": "NXBDG",
+     "raw": "Bài 10: Các nước Tây Âu"
+    }
+   ]
+  },
+  {
+   "title": "Các nước Đông Nam Á",
+   "lessons": [
+    {
+     "bai": 5,
+     "title": "Các nước Đông Nam Á",
+     "book": "NXBDG",
+     "raw": "Bài 5: Các nước Đông Nam Á"
+    }
+   ]
+  },
+  {
+   "title": "Các nước Mĩ La-tinh",
+   "lessons": [
+    {
+     "bai": 7,
+     "title": "Các nước Mĩ La-tinh",
+     "book": "NXBDG",
+     "raw": "Bài 7: Các nước Mĩ La-tinh"
+    }
+   ]
+  },
+  {
+   "title": "Nước Mĩ",
+   "lessons": [
+    {
+     "bai": 8,
+     "title": "Nước Mĩ",
+     "book": "NXBDG",
+     "raw": "Bài 8: Nước Mĩ"
+    }
+   ]
+  },
+  {
+   "title": "Nhật Bản",
+   "lessons": [
+    {
+     "bai": 9,
+     "title": "Nhật Bản",
+     "book": "NXBDG",
+     "raw": "Bài 9: Nhật Bản"
+    }
+   ]
+  },
+  {
+   "title": "Trật tự thế giới mới sau Chiến tranh thế giới thứ hai",
+   "lessons": [
+    {
+     "bai": 11,
+     "title": "Trật tự thế giới mới sau Chiến tranh thế giới thứ hai",
+     "book": "NXBDG",
+     "raw": "Bài 11: Trật tự thế giới mới sau Chiến tranh thế giới thứ hai"
+    },
+    {
+     "bai": 14,
+     "title": "Việt Nam sau Chiến tranh thế giới thứ nhất",
+     "book": "NXBDG",
+     "raw": "Bài 14: Việt Nam sau Chiến tranh thế giới thứ nhất"
+    }
+   ]
+  },
+  {
+   "title": "Những thành tựu chủ yếu và ý nghĩa lịch sử của cách mạng khoa học - kĩ thuật",
+   "lessons": [
+    {
+     "bai": 12,
+     "title": "Những thành tựu chủ yếu và ý nghĩa lịch sử của cách mạng khoa học - kĩ thuật",
+     "book": "NXBDG",
+     "raw": "Bài 12: Những thành tựu chủ yếu và ý nghĩa lịch sử của cách mạng khoa học - kĩ thuật"
+    }
+   ]
+  },
+  {
+   "title": "Tổng kết lịch sử thế giới từ sau năm 1945 đến nay",
+   "lessons": [
+    {
+     "bai": 13,
+     "title": "Tổng kết lịch sử thế giới từ sau năm 1945 đến nay",
+     "book": "NXBDG",
+     "raw": "Bài 13: Tổng kết lịch sử thế giới từ sau năm 1945 đến nay"
+    }
+   ]
+  },
+  {
+   "title": "Phong trào cách mạng Việt Nam sau Chiến tranh thế giới thứ nhất (1919 - 1925)",
+   "lessons": [
+    {
+     "bai": 15,
+     "title": "Phong trào cách mạng Việt Nam sau Chiến tranh thế giới thứ nhất (1919 - 1925)",
+     "book": "NXBDG",
+     "raw": "Bài 15: Phong trào cách mạng Việt Nam sau Chiến tranh thế giới thứ nhất (1919 - 1925)"
+    },
+    {
+     "bai": 34,
+     "title": "Tổng kết lịch sử Việt Nam từ sau Chiến tranh thế giới thứ nhất đến năm 2000",
+     "book": "NXBDG",
+     "raw": "Bài 34: Tổng kết lịch sử Việt Nam từ sau Chiến tranh thế giới thứ nhất đến năm 2000"
+    }
+   ]
+  },
+  {
+   "title": "Hoạt động của Nguyễn Ái Quốc ở nước ngoài trong những năm 1919 - 1925",
+   "lessons": [
+    {
+     "bai": 16,
+     "title": "Hoạt động của Nguyễn Ái Quốc ở nước ngoài trong những năm 1919 - 1925",
+     "book": "NXBDG",
+     "raw": "Bài 16: Hoạt động của Nguyễn Ái Quốc ở nước ngoài trong những năm 1919 - 1925"
+    }
+   ]
+  },
+  {
+   "title": "Cách mạng Việt Nam trước khi Đảng Cộng sản ra đời",
+   "lessons": [
+    {
+     "bai": 17,
+     "title": "Cách mạng Việt Nam trước khi Đảng Cộng sản ra đời",
+     "book": "NXBDG",
+     "raw": "Bài 17: Cách mạng Việt Nam trước khi Đảng Cộng sản ra đời"
+    }
+   ]
+  },
+  {
+   "title": "Đảng Cộng sản Việt Nam ra đời",
+   "lessons": [
+    {
+     "bai": 18,
+     "title": "Đảng Cộng sản Việt Nam ra đời",
+     "book": "NXBDG",
+     "raw": "Bài 18: Đảng Cộng sản Việt Nam ra đời"
+    }
+   ]
+  },
+  {
+   "title": "Phong trào cách mạng trong những năm 1930 - 1935",
+   "lessons": [
+    {
+     "bai": 19,
+     "title": "Phong trào cách mạng trong những năm 1930 - 1935",
+     "book": "NXBDG",
+     "raw": "Bài 19: Phong trào cách mạng trong những năm 1930 - 1935"
+    },
+    {
+     "bai": 5,
+     "title": "Phong trào dân tộc dân chủ trong những năm 1918 – 1930",
+     "book": "KNTT",
+     "raw": "Bài 5: Phong trào dân tộc dân chủ trong những năm 1918 – 1930"
+    },
+    {
+     "bai": 7,
+     "title": "Phong trào cách mạng Việt Nam thời kì 1930 – 1939",
+     "book": "KNTT",
+     "raw": "Bài 7: Phong trào cách mạng Việt Nam thời kì 1930 – 1939"
+    },
+    {
+     "bai": 5,
+     "title": "Phong trào dân tộc dân chủ những năm 1918 – 1930",
+     "book": "CTST",
+     "raw": "Bài 5: Phong trào dân tộc dân chủ những năm 1918 – 1930"
+    },
+    {
+     "bai": 7,
+     "title": "Phong trào cách mạng Việt Nam thời kì 1930 – 1939",
+     "book": "CTST",
+     "raw": "Bài 7: Phong trào cách mạng Việt Nam thời kì 1930 – 1939"
+    }
+   ]
+  },
+  {
+   "title": "Cuộc vận động dân chủ trong những năm 1936 - 1939",
+   "lessons": [
+    {
+     "bai": 20,
+     "title": "Cuộc vận động dân chủ trong những năm 1936 - 1939",
+     "book": "NXBDG",
+     "raw": "Bài 20: Cuộc vận động dân chủ trong những năm 1936 - 1939"
+    }
+   ]
+  },
+  {
+   "title": "Việt Nam trong những năm 1939 - 1945",
+   "lessons": [
+    {
+     "bai": 21,
+     "title": "Việt Nam trong những năm 1939 - 1945",
+     "book": "NXBDG",
+     "raw": "Bài 21: Việt Nam trong những năm 1939 - 1945"
+    }
+   ]
+  },
+  {
+   "title": "Cao trào cách mạng tiến tới Tổng khởi nghĩa tháng Tám năm 1945",
+   "lessons": [
+    {
+     "bai": 22,
+     "title": "Cao trào cách mạng tiến tới Tổng khởi nghĩa tháng Tám năm 1945",
+     "book": "NXBDG",
+     "raw": "Bài 22: Cao trào cách mạng tiến tới Tổng khởi nghĩa tháng Tám năm 1945"
+    }
+   ]
+  },
+  {
+   "title": "Tổng khởi nghĩa tháng Tám năm 1945 và sự thành lập nước Việt Nam Dân chủ Cộng hoà",
+   "lessons": [
+    {
+     "bai": 23,
+     "title": "Tổng khởi nghĩa tháng Tám năm 1945 và sự thành lập nước Việt Nam Dân chủ Cộng hoà",
+     "book": "NXBDG",
+     "raw": "Bài 23: Tổng khởi nghĩa tháng Tám năm 1945 và sự thành lập nước Việt Nam Dân chủ Cộng hoà"
+    }
+   ]
+  },
+  {
+   "title": "Cuộc đấu tranh bảo vệ và xây dựng chính quyền dân chủ nhân dân (1945 - 1946)",
+   "lessons": [
+    {
+     "bai": 24,
+     "title": "Cuộc đấu tranh bảo vệ và xây dựng chính quyền dân chủ nhân dân (1945 - 1946)",
+     "book": "NXBDG",
+     "raw": "Bài 24: Cuộc đấu tranh bảo vệ và xây dựng chính quyền dân chủ nhân dân (1945 - 1946)"
+    }
+   ]
+  },
+  {
+   "title": "Những năm đầu của cuộc kháng chiến toàn quốc chống thực dân Pháp (1946 - 1950)",
+   "lessons": [
+    {
+     "bai": 25,
+     "title": "Những năm đầu của cuộc kháng chiến toàn quốc chống thực dân Pháp (1946 - 1950)",
+     "book": "NXBDG",
+     "raw": "Bài 25: Những năm đầu của cuộc kháng chiến toàn quốc chống thực dân Pháp (1946 - 1950)"
+    },
+    {
+     "bai": 26,
+     "title": "Bước phát triển mới của cuộc kháng chiến toàn quốc chống thực dân Pháp (1950 - 1953)",
+     "book": "NXBDG",
+     "raw": "Bài 26: Bước phát triển mới của cuộc kháng chiến toàn quốc chống thực dân Pháp (1950 - 1953)"
+    },
+    {
+     "bai": 27,
+     "title": "Cuộc kháng chiến toàn quốc chống thực dân Pháp xâm lược kết thúc (1953 - 1954)",
+     "book": "NXBDG",
+     "raw": "Bài 27: Cuộc kháng chiến toàn quốc chống thực dân Pháp xâm lược kết thúc (1953 - 1954)"
+    }
+   ]
+  },
+  {
+   "title": "Xây dựng chủ nghĩa xã hội ở miền Bắc, đấu tranh chống đế quốc Mĩ và chính quyền Sài Gòn ở miền Nam (1954 - 1965)",
+   "lessons": [
+    {
+     "bai": 28,
+     "title": "Xây dựng chủ nghĩa xã hội ở miền Bắc, đấu tranh chống đế quốc Mĩ và chính quyền Sài Gòn ở miền Nam (1954 - 1965)",
+     "book": "NXBDG",
+     "raw": "Bài 28: Xây dựng chủ nghĩa xã hội ở miền Bắc, đấu tranh chống đế quốc Mĩ và chính quyền Sài Gòn ở miền Nam (1954 - 1965)"
+    }
+   ]
+  },
+  {
+   "title": "Cả nước trực tiếp chiến đấu chống Mĩ, cứu nước (1965 - 1973)",
+   "lessons": [
+    {
+     "bai": 29,
+     "title": "Cả nước trực tiếp chiến đấu chống Mĩ, cứu nước (1965 - 1973)",
+     "book": "NXBDG",
+     "raw": "Bài 29: Cả nước trực tiếp chiến đấu chống Mĩ, cứu nước (1965 - 1973)"
+    }
+   ]
+  },
+  {
+   "title": "Hoàn thành giải phóng miền Nam, thống nhất đất nước (1973 - 1975)",
+   "lessons": [
+    {
+     "bai": 30,
+     "title": "Hoàn thành giải phóng miền Nam, thống nhất đất nước (1973 - 1975)",
+     "book": "NXBDG",
+     "raw": "Bài 30: Hoàn thành giải phóng miền Nam, thống nhất đất nước (1973 - 1975)"
+    }
+   ]
+  },
+  {
+   "title": "Xây dựng đất nước, đấu tranh bảo vệ Tổ quốc (1976 - 1985)",
+   "lessons": [
+    {
+     "bai": 32,
+     "title": "Xây dựng đất nước, đấu tranh bảo vệ Tổ quốc (1976 - 1985)",
+     "book": "NXBDG",
+     "raw": "Bài 32: Xây dựng đất nước, đấu tranh bảo vệ Tổ quốc (1976 - 1985)"
+    }
+   ]
+  },
+  {
+   "title": "Việt Nam trên đường đổi mới đi lên chủ nghĩa xã hội (từ năm 1986 đến năm 2000)",
+   "lessons": [
+    {
+     "bai": 33,
+     "title": "Việt Nam trên đường đổi mới đi lên chủ nghĩa xã hội (từ năm 1986 đến năm 2000)",
+     "book": "NXBDG",
+     "raw": "Bài 33: Việt Nam trên đường đổi mới đi lên chủ nghĩa xã hội (từ năm 1986 đến năm 2000)"
+    }
+   ]
+  },
+  {
+   "title": "Hoạt động của Nguyễn Ái Quốc và sự thành lập Đảng Cộng sản Việt Nam",
+   "lessons": [
+    {
+     "bai": 6,
+     "title": "Hoạt động của Nguyễn Ái Quốc và sự thành lập Đảng Cộng sản Việt Nam",
+     "book": "KNTT",
+     "raw": "Bài 6: Hoạt động của Nguyễn Ái Quốc và sự thành lập Đảng Cộng sản Việt Nam"
+    },
+    {
+     "bai": 6,
+     "title": "Hoạt động của Nguyễn Ái Quốc và sự thành lập Đảng Cộng sản Việt Nam",
+     "book": "CTST",
+     "raw": "Bài 6: Hoạt động của Nguyễn Ái Quốc và sự thành lập Đảng Cộng sản Việt Nam"
+    }
+   ]
+  },
+  {
+   "title": "Cách mạng tháng Tám năm 1945",
+   "lessons": [
+    {
+     "bai": 8,
+     "title": "Cách mạng tháng Tám năm 1945",
+     "book": "KNTT",
+     "raw": "Bài 8: Cách mạng tháng Tám năm 1945"
+    },
+    {
+     "bai": 8,
+     "title": "Cách mạng tháng Tám năm 1945",
+     "book": "CTST",
+     "raw": "Bài 8: Cách mạng tháng Tám năm 1945"
+    }
+   ]
+  },
+  {
+   "title": "Việt Nam kháng chiến chống thực dân Pháp xâm lược giai đoạn 1946 – 1950",
+   "lessons": [
+    {
+     "bai": 14,
+     "title": "Việt Nam kháng chiến chống thực dân Pháp xâm lược giai đoạn 1946 – 1950",
+     "book": "KNTT",
+     "raw": "Bài 14: Việt Nam kháng chiến chống thực dân Pháp xâm lược giai đoạn 1946 – 1950"
+    },
+    {
+     "bai": 15,
+     "title": "Việt Nam kháng chiến chống thực dân Pháp xâm lược giai đoạn 1951 – 1954",
+     "book": "KNTT",
+     "raw": "Bài 15: Việt Nam kháng chiến chống thực dân Pháp xâm lược giai đoạn 1951 – 1954"
+    },
+    {
+     "bai": 16,
+     "title": "Việt Nam kháng chiến chống Mỹ, cứu nước, thống nhất đất nước giai đoạn 1954 – 1965",
+     "book": "KNTT",
+     "raw": "Bài 16: Việt Nam kháng chiến chống Mỹ, cứu nước, thống nhất đất nước giai đoạn 1954 – 1965"
+    },
+    {
+     "bai": 17,
+     "title": "Việt Nam kháng chiến chống Mỹ, cứu nước, thống nhất đất nước giai đoạn 1965 – 1975",
+     "book": "KNTT",
+     "raw": "Bài 17: Việt Nam kháng chiến chống Mỹ, cứu nước, thống nhất đất nước giai đoạn 1965 – 1975"
+    },
+    {
+     "bai": 15,
+     "title": "Những năm đầu Việt Nam kháng chiến chống thực dân Pháp xâm lược (1946 – 1950)",
+     "book": "CTST",
+     "raw": "Bài 15: Những năm đầu Việt Nam kháng chiến chống thực dân Pháp xâm lược (1946 – 1950)"
+    }
+   ]
+  },
+  {
+   "title": "Trật tự thế giới mới từ năm 1991 đến nay. Liên bang Nga và nước Mỹ từ năm 1991 đến nay",
+   "lessons": [
+    {
+     "bai": 19,
+     "title": "Trật tự thế giới mới từ năm 1991 đến nay. Liên bang Nga và nước Mỹ từ năm 1991 đến nay",
+     "book": "KNTT",
+     "raw": "Bài 19: Trật tự thế giới mới từ năm 1991 đến nay. Liên bang Nga và nước Mỹ từ năm 1991 đến nay"
+    }
+   ]
+  },
+  {
+   "title": "Xây dựng và bảo vệ chính quyền nước Việt Nam Dân chủ Cộng hoà (từ tháng 9 – 1945 đến tháng 12 – 1946)",
+   "lessons": [
+    {
+     "bai": 14,
+     "title": "Xây dựng và bảo vệ chính quyền nước Việt Nam Dân chủ Cộng hoà (từ tháng 9 – 1945 đến tháng 12 – 1946)",
+     "book": "CTST",
+     "raw": "Bài 14: Xây dựng và bảo vệ chính quyền nước Việt Nam Dân chủ Cộng hoà (từ tháng 9 – 1945 đến tháng 12 – 1946)"
+    }
+   ]
+  },
+  {
+   "title": "Cuộc kháng chiến chống thực dân Pháp kết thúc thắng lợi (1951 – 1954)",
+   "lessons": [
+    {
+     "bai": 16,
+     "title": "Cuộc kháng chiến chống thực dân Pháp kết thúc thắng lợi (1951 – 1954)",
+     "book": "CTST",
+     "raw": "Bài 16: Cuộc kháng chiến chống thực dân Pháp kết thúc thắng lợi (1951 – 1954)"
+    }
+   ]
+  },
+  {
+   "title": "Công cuộc Đổi mới từ năm 1991 đến nay",
+   "lessons": [
+    {
+     "bai": 23,
+     "title": "Công cuộc Đổi mới từ năm 1991 đến nay",
+     "book": "CTST",
+     "raw": "Bài 23: Công cuộc Đổi mới từ năm 1991 đến nay"
+    }
+   ]
+  }
+ ],
+ "10": [
+  {
+   "title": "Hiện thực lịch sử và nhận thức lịch sử",
+   "lessons": [
+    {
+     "bai": 1,
+     "title": "Hiện thực lịch sử và nhận thức lịch sử",
+     "book": "cánh diều",
+     "raw": "Bài 1: Hiện thực lịch sử và nhận thức lịch sử"
+    },
+    {
+     "bai": 1,
+     "title": "Hiện thực lịch sử và nhận thức lịch sử",
+     "book": "KNTT",
+     "raw": "Bài 1: Hiện thực lịch sử và nhận thức lịch sử"
+    },
+    {
+     "bai": 1,
+     "title": "Hiện thực lịch sử và nhận thức lịch sử",
+     "book": "CTST",
+     "raw": "Bài 1: Hiện thực lịch sử và nhận thức lịch sử"
+    }
+   ]
+  },
+  {
+   "title": "Tri thức lịch sử và cuộc sống",
+   "lessons": [
+    {
+     "bai": 2,
+     "title": "Tri thức lịch sử và cuộc sống",
+     "book": "cánh diều",
+     "raw": "Bài 2: Tri thức lịch sử và cuộc sống"
+    },
+    {
+     "bai": 2,
+     "title": "Tri thức lịch sử và cuộc sống",
+     "book": "KNTT",
+     "raw": "Bài 2: Tri thức lịch sử và cuộc sống"
+    },
+    {
+     "bai": 2,
+     "title": "Tri thức lịch sử và cuộc sống",
+     "book": "CTST",
+     "raw": "Bài 2: Tri thức lịch sử và cuộc sống"
+    }
+   ]
+  },
+  {
+   "title": "Sử học với các lĩnh vực khoa học khác",
+   "lessons": [
+    {
+     "bai": 3,
+     "title": "Sử học với các lĩnh vực khoa học khác",
+     "book": "cánh diều",
+     "raw": "Bài 3: Sử học với các lĩnh vực khoa học khác"
+    },
+    {
+     "bai": 3,
+     "title": "Sử học với các lĩnh vực khoa học",
+     "book": "KNTT",
+     "raw": "Bài 3: Sử học với các lĩnh vực khoa học"
+    },
+    {
+     "bai": 3,
+     "title": "Sử học với các lĩnh vực khoa học khác",
+     "book": "CTST",
+     "raw": "Bài 3: Sử học với các lĩnh vực khoa học khác"
+    }
+   ]
+  },
+  {
+   "title": "Sử học với một số lĩnh vực, ngành nghề hiện đại",
+   "lessons": [
+    {
+     "bai": 4,
+     "title": "Sử học với một số lĩnh vực, ngành nghề hiện đại",
+     "book": "cánh diều",
+     "raw": "Bài 4: Sử học với một số lĩnh vực, ngành nghề hiện đại"
+    },
+    {
+     "bai": 4,
+     "title": "Sử học với một số lĩnh vực, ngành nghề hiện đại",
+     "book": "KNTT",
+     "raw": "Bài 4: Sử học với một số lĩnh vực, ngành nghề hiện đại"
+    },
+    {
+     "bai": 4,
+     "title": "Sử học với một số lĩnh vực, ngành nghề hiện đại",
+     "book": "CTST",
+     "raw": "Bài 4: Sử học với một số lĩnh vực, ngành nghề hiện đại"
+    }
+   ]
+  },
+  {
+   "title": "Khái niệm văn minh",
+   "lessons": [
+    {
+     "bai": 5,
+     "title": "Khái niệm văn minh",
+     "book": "cánh diều",
+     "raw": "Bài 5: Khái niệm văn minh"
+    }
+   ]
+  },
+  {
+   "title": "Một số nền văn minh phương Đông",
+   "lessons": [
+    {
+     "bai": 6,
+     "title": "Một số nền văn minh phương Đông",
+     "book": "cánh diều",
+     "raw": "Bài 6: Một số nền văn minh phương Đông"
+    },
+    {
+     "bai": 7,
+     "title": "Một số nền văn minh phương Tây",
+     "book": "cánh diều",
+     "raw": "Bài 7: Một số nền văn minh phương Tây"
+    }
+   ]
+  },
+  {
+   "title": "Cách mạng công nghiệp thời kì cận đại",
+   "lessons": [
+    {
+     "bai": 8,
+     "title": "Cách mạng công nghiệp thời kì cận đại",
+     "book": "cánh diều",
+     "raw": "Bài 8: Cách mạng công nghiệp thời kì cận đại"
+    },
+    {
+     "bai": 9,
+     "title": "Cách mạng công nghiệp thời kì hiện đại",
+     "book": "cánh diều",
+     "raw": "Bài 9: Cách mạng công nghiệp thời kì hiện đại"
+    },
+    {
+     "bai": 32,
+     "title": "Cách mạng công nghiệp ở châu Âu",
+     "book": "NXBDG",
+     "raw": "Bài 32: Cách mạng công nghiệp ở châu Âu"
+    },
+    {
+     "bai": 7,
+     "title": "Các cuộc cách mạng công nghiệp thời kì cận đại",
+     "book": "KNTT",
+     "raw": "Bài 7: Các cuộc cách mạng công nghiệp thời kì cận đại"
+    },
+    {
+     "bai": 8,
+     "title": "Các cuộc cách mạng công nghiệp thời kì hiện đại",
+     "book": "KNTT",
+     "raw": "Bài 8: Các cuộc cách mạng công nghiệp thời kì hiện đại"
+    },
+    {
+     "bai": 11,
+     "title": "Các cuộc Cách mạng công nghiệp thời kì cận đại",
+     "book": "CTST",
+     "raw": "Bài 11: Các cuộc Cách mạng công nghiệp thời kì cận đại"
+    },
+    {
+     "bai": 12,
+     "title": "Các cuộc Cách mạng công nghiệp thời kì hiện đại",
+     "book": "CTST",
+     "raw": "Bài 12: Các cuộc Cách mạng công nghiệp thời kì hiện đại"
+    }
+   ]
+  },
+  {
+   "title": "Cơ sở hình thành văn minh Đông Nam Á thời kì cổ – trung đại",
+   "lessons": [
+    {
+     "bai": 10,
+     "title": "Cơ sở hình thành văn minh Đông Nam Á thời kì cổ – trung đại",
+     "book": "cánh diều",
+     "raw": "Bài 10: Cơ sở hình thành văn minh Đông Nam Á thời kì cổ – trung đại"
+    },
+    {
+     "bai": 11,
+     "title": "Hành trình phát triển và thành tựu của văn minh Đông Nam Á thời kì cổ – trung đại",
+     "book": "cánh diều",
+     "raw": "Bài 11: Hành trình phát triển và thành tựu của văn minh Đông Nam Á thời kì cổ – trung đại"
+    },
+    {
+     "bai": 6,
+     "title": "Một số nền văn minh phương Tây thời kì cổ – trung đại",
+     "book": "KNTT",
+     "raw": "Bài 6: Một số nền văn minh phương Tây thời kì cổ – trung đại"
+    },
+    {
+     "bai": 9,
+     "title": "Cơ sở hình thành văn minh Đông Nam Á thời kì cổ – trung đại",
+     "book": "KNTT",
+     "raw": "Bài 9: Cơ sở hình thành văn minh Đông Nam Á thời kì cổ – trung đại"
+    },
+    {
+     "bai": 10,
+     "title": "Hành trình phát triển và thành tựu của văn minh Đông Nam Á thời kì cổ – trung đại",
+     "book": "KNTT",
+     "raw": "Bài 10: Hành trình phát triển và thành tựu của văn minh Đông Nam Á thời kì cổ – trung đại"
+    },
+    {
+     "bai": 13,
+     "title": "Cơ sở hình thành văn minh Đông Nam Á thời cổ – trung đại",
+     "book": "CTST",
+     "raw": "Bài 13: Cơ sở hình thành văn minh Đông Nam Á thời cổ – trung đại"
+    },
+    {
+     "bai": 14,
+     "title": "Hành trình phát triển và thành tựu văn minh Đông Nam Á thời cổ – trung đại",
+     "book": "CTST",
+     "raw": "Bài 14: Hành trình phát triển và thành tựu văn minh Đông Nam Á thời cổ – trung đại"
+    }
+   ]
+  },
+  {
+   "title": "Văn minh Văn Lang – Âu Lạc",
+   "lessons": [
+    {
+     "bai": 12,
+     "title": "Văn minh Văn Lang – Âu Lạc",
+     "book": "cánh diều",
+     "raw": "Bài 12: Văn minh Văn Lang – Âu Lạc"
+    },
+    {
+     "bai": 15,
+     "title": "Văn minh Văn Lang – Âu Lạc",
+     "book": "CTST",
+     "raw": "Bài 15: Văn minh Văn Lang – Âu Lạc"
+    }
+   ]
+  },
+  {
+   "title": "Văn minh Chăm-pa, văn minh Phù Nam",
+   "lessons": [
+    {
+     "bai": 13,
+     "title": "Văn minh Chăm-pa, văn minh Phù Nam",
+     "book": "cánh diều",
+     "raw": "Bài 13: Văn minh Chăm-pa, văn minh Phù Nam"
+    }
+   ]
+  },
+  {
+   "title": "Cơ sở hình thành và quá trình phát triển của văn minh Đại Việt",
+   "lessons": [
+    {
+     "bai": 14,
+     "title": "Cơ sở hình thành và quá trình phát triển của văn minh Đại Việt",
+     "book": "cánh diều",
+     "raw": "Bài 14: Cơ sở hình thành và quá trình phát triển của văn minh Đại Việt"
+    }
+   ]
+  },
+  {
+   "title": "Một số thành tựu của văn minh Đại Việt",
+   "lessons": [
+    {
+     "bai": 15,
+     "title": "Một số thành tựu của văn minh Đại Việt",
+     "book": "cánh diều",
+     "raw": "Bài 15: Một số thành tựu của văn minh Đại Việt"
+    }
+   ]
+  },
+  {
+   "title": "Các dân tộc trên đất nước Việt Nam",
+   "lessons": [
+    {
+     "bai": 16,
+     "title": "Các dân tộc trên đất nước Việt Nam",
+     "book": "cánh diều",
+     "raw": "Bài 16: Các dân tộc trên đất nước Việt Nam"
+    },
+    {
+     "bai": 14,
+     "title": "Các quốc gia cổ đại trên đất nước Việt Nam",
+     "book": "NXBDG",
+     "raw": "Bài 14: Các quốc gia cổ đại trên đất nước Việt Nam"
+    },
+    {
+     "bai": 19,
+     "title": "Các dân tộc trên đất nước Việt Nam",
+     "book": "CTST",
+     "raw": "Bài 19: Các dân tộc trên đất nước Việt Nam"
+    }
+   ]
+  },
+  {
+   "title": "Khối đại đoàn kết dân tộc trong lịch sử Việt Nam",
+   "lessons": [
+    {
+     "bai": 17,
+     "title": "Khối đại đoàn kết dân tộc trong lịch sử Việt Nam",
+     "book": "cánh diều",
+     "raw": "Bài 17: Khối đại đoàn kết dân tộc trong lịch sử Việt Nam"
+    },
+    {
+     "bai": 14,
+     "title": "Khối đại đoàn kết dân tộc trong lịch sử Việt Nam",
+     "book": "KNTT",
+     "raw": "Bài 14: Khối đại đoàn kết dân tộc trong lịch sử Việt Nam"
+    },
+    {
+     "bai": 20,
+     "title": "Khối đại đoàn kết dân tộc Việt Nam",
+     "book": "CTST",
+     "raw": "Bài 20: Khối đại đoàn kết dân tộc Việt Nam"
+    }
+   ]
+  },
+  {
+   "title": "Sự xuất hiện loài người và bầy người nguyên thuỷ",
+   "lessons": [
+    {
+     "bai": 1,
+     "title": "Sự xuất hiện loài người và bầy người nguyên thuỷ",
+     "book": "NXBDG",
+     "raw": "Bài 1: Sự xuất hiện loài người và bầy người nguyên thuỷ"
+    }
+   ]
+  },
+  {
+   "title": "Xã hội nguyên thuỷ",
+   "lessons": [
+    {
+     "bai": 2,
+     "title": "Xã hội nguyên thuỷ",
+     "book": "NXBDG",
+     "raw": "Bài 2: Xã hội nguyên thuỷ"
+    },
+    {
+     "bai": 13,
+     "title": "Việt Nam thời nguyên thuỷ",
+     "book": "NXBDG",
+     "raw": "Bài 13: Việt Nam thời nguyên thuỷ"
+    }
+   ]
+  },
+  {
+   "title": "Các quốc gia cổ đại phương Đông",
+   "lessons": [
+    {
+     "bai": 3,
+     "title": "Các quốc gia cổ đại phương Đông",
+     "book": "NXBDG",
+     "raw": "Bài 3: Các quốc gia cổ đại phương Đông"
+    }
+   ]
+  },
+  {
+   "title": "Các quốc gia cổ đại phương Tây – Hi Lạp và Rô-ma",
+   "lessons": [
+    {
+     "bai": 4,
+     "title": "Các quốc gia cổ đại phương Tây – Hi Lạp và Rô-ma",
+     "book": "NXBDG",
+     "raw": "Bài 4: Các quốc gia cổ đại phương Tây – Hi Lạp và Rô-ma"
+    }
+   ]
+  },
+  {
+   "title": "Trung Quốc thời phong kiến",
+   "lessons": [
+    {
+     "bai": 5,
+     "title": "Trung Quốc thời phong kiến",
+     "book": "NXBDG",
+     "raw": "Bài 5: Trung Quốc thời phong kiến"
+    }
+   ]
+  },
+  {
+   "title": "Các quốc gia Ấn và văn hoá truyền thống Ấn Độ",
+   "lessons": [
+    {
+     "bai": 6,
+     "title": "Các quốc gia Ấn và văn hoá truyền thống Ấn Độ",
+     "book": "NXBDG",
+     "raw": "Bài 6: Các quốc gia Ấn và văn hoá truyền thống Ấn Độ"
+    }
+   ]
+  },
+  {
+   "title": "Sự phát triển lịch sử và nền văn hoá đa dạng của Ấn Độ",
+   "lessons": [
+    {
+     "bai": 7,
+     "title": "Sự phát triển lịch sử và nền văn hoá đa dạng của Ấn Độ",
+     "book": "NXBDG",
+     "raw": "Bài 7: Sự phát triển lịch sử và nền văn hoá đa dạng của Ấn Độ"
+    }
+   ]
+  },
+  {
+   "title": "Sự hình thành và phát triển các vương quốc chính ở Đông Nam Á",
+   "lessons": [
+    {
+     "bai": 8,
+     "title": "Sự hình thành và phát triển các vương quốc chính ở Đông Nam Á",
+     "book": "NXBDG",
+     "raw": "Bài 8: Sự hình thành và phát triển các vương quốc chính ở Đông Nam Á"
+    },
+    {
+     "bai": 36,
+     "title": "Sự hình thành và phát triển của phong trào công nhân",
+     "book": "NXBDG",
+     "raw": "Bài 36: Sự hình thành và phát triển của phong trào công nhân"
+    }
+   ]
+  },
+  {
+   "title": "Vương quốc Cam-pu-chia và Vương quốc Lào",
+   "lessons": [
+    {
+     "bai": 9,
+     "title": "Vương quốc Cam-pu-chia và Vương quốc Lào",
+     "book": "NXBDG",
+     "raw": "Bài 9: Vương quốc Cam-pu-chia và Vương quốc Lào"
+    }
+   ]
+  },
+  {
+   "title": "Thời kì hình thành và phát triển của chế độ phong kiến ở Tây Âu (Từ thế kỉ V đến thế kỉ XIV)",
+   "lessons": [
+    {
+     "bai": 10,
+     "title": "Thời kì hình thành và phát triển của chế độ phong kiến ở Tây Âu (Từ thế kỉ V đến thế kỉ XIV)",
+     "book": "NXBDG",
+     "raw": "Bài 10: Thời kì hình thành và phát triển của chế độ phong kiến ở Tây Âu (Từ thế kỉ V đến thế kỉ XIV)"
+    },
+    {
+     "bai": 17,
+     "title": "Quá trình hình thành và phát triển của nhà nước phong kiến (Từ thế kỉ X đến thế kỉ XV)",
+     "book": "NXBDG",
+     "raw": "Bài 17: Quá trình hình thành và phát triển của nhà nước phong kiến (Từ thế kỉ X đến thế kỉ XV)"
+    }
+   ]
+  },
+  {
+   "title": "Tây Âu thời hậu kì trung đại",
+   "lessons": [
+    {
+     "bai": 11,
+     "title": "Tây Âu thời hậu kì trung đại",
+     "book": "NXBDG",
+     "raw": "Bài 11: Tây Âu thời hậu kì trung đại"
+    }
+   ]
+  },
+  {
+   "title": "Ôn tập: Lịch sử thế giới thời nguyên thuỷ, cổ đại và trung đại",
+   "lessons": [
+    {
+     "bai": 12,
+     "title": "Ôn tập: Lịch sử thế giới thời nguyên thuỷ, cổ đại và trung đại",
+     "book": "NXBDG",
+     "raw": "Bài 12: Ôn tập: Lịch sử thế giới thời nguyên thuỷ, cổ đại và trung đại"
+    }
+   ]
+  },
+  {
+   "title": "Thời Bắc thuộc và các cuộc đấu tranh giành độc lập dân tộc (Từ thế kỉ II TCN đến đầu thế kỉ X)",
+   "lessons": [
+    {
+     "bai": 15,
+     "title": "Thời Bắc thuộc và các cuộc đấu tranh giành độc lập dân tộc (Từ thế kỉ II TCN đến đầu thế kỉ X)",
+     "book": "NXBDG",
+     "raw": "Bài 15: Thời Bắc thuộc và các cuộc đấu tranh giành độc lập dân tộc (Từ thế kỉ II TCN đến đầu thế kỉ X)"
+    },
+    {
+     "bai": 16,
+     "title": "Thời Bắc thuộc và các cuộc đấu tranh giành độc lập dân tộc (Tiếp theo)",
+     "book": "NXBDG",
+     "raw": "Bài 16: Thời Bắc thuộc và các cuộc đấu tranh giành độc lập dân tộc (Tiếp theo)"
+    }
+   ]
+  },
+  {
+   "title": "Công cuộc xây dựng và phát triển kinh tế trong các thế kỉ X - XV",
+   "lessons": [
+    {
+     "bai": 18,
+     "title": "Công cuộc xây dựng và phát triển kinh tế trong các thế kỉ X - XV",
+     "book": "NXBDG",
+     "raw": "Bài 18: Công cuộc xây dựng và phát triển kinh tế trong các thế kỉ X - XV"
+    },
+    {
+     "bai": 20,
+     "title": "Xây dựng và phát triển văn hoá dân tộc trong các thế kỉ X - XV",
+     "book": "NXBDG",
+     "raw": "Bài 20: Xây dựng và phát triển văn hoá dân tộc trong các thế kỉ X - XV"
+    }
+   ]
+  },
+  {
+   "title": "Những cuộc kháng chiến chống ngoại xâm ở các thế kỉ X - XV",
+   "lessons": [
+    {
+     "bai": 19,
+     "title": "Những cuộc kháng chiến chống ngoại xâm ở các thế kỉ X - XV",
+     "book": "NXBDG",
+     "raw": "Bài 19: Những cuộc kháng chiến chống ngoại xâm ở các thế kỉ X - XV"
+    }
+   ]
+  },
+  {
+   "title": "Những biến đổi của nhà nước phong kiến trong các thế kỉ XVI - XVIII",
+   "lessons": [
+    {
+     "bai": 21,
+     "title": "Những biến đổi của nhà nước phong kiến trong các thế kỉ XVI - XVIII",
+     "book": "NXBDG",
+     "raw": "Bài 21: Những biến đổi của nhà nước phong kiến trong các thế kỉ XVI - XVIII"
+    }
+   ]
+  },
+  {
+   "title": "Tình hình kinh tế ở các thế kỉ XVI - XVIII",
+   "lessons": [
+    {
+     "bai": 22,
+     "title": "Tình hình kinh tế ở các thế kỉ XVI - XVIII",
+     "book": "NXBDG",
+     "raw": "Bài 22: Tình hình kinh tế ở các thế kỉ XVI - XVIII"
+    },
+    {
+     "bai": 24,
+     "title": "Tình hình văn hoá ở các thế kỉ XVI - XVIII",
+     "book": "NXBDG",
+     "raw": "Bài 24: Tình hình văn hoá ở các thế kỉ XVI - XVIII"
+    }
+   ]
+  },
+  {
+   "title": "Phong trào Tây Sơn và sự nghiệp thống nhất đất nước, bảo vệ Tổ quốc cuối thế kỉ XVIII",
+   "lessons": [
+    {
+     "bai": 23,
+     "title": "Phong trào Tây Sơn và sự nghiệp thống nhất đất nước, bảo vệ Tổ quốc cuối thế kỉ XVIII",
+     "book": "NXBDG",
+     "raw": "Bài 23: Phong trào Tây Sơn và sự nghiệp thống nhất đất nước, bảo vệ Tổ quốc cuối thế kỉ XVIII"
+    }
+   ]
+  },
+  {
+   "title": "Tình hình chính trị, kinh tế, văn hoá dưới triều Nguyễn (Nửa đầu thế kỉ XIX)",
+   "lessons": [
+    {
+     "bai": 25,
+     "title": "Tình hình chính trị, kinh tế, văn hoá dưới triều Nguyễn (Nửa đầu thế kỉ XIX)",
+     "book": "NXBDG",
+     "raw": "Bài 25: Tình hình chính trị, kinh tế, văn hoá dưới triều Nguyễn (Nửa đầu thế kỉ XIX)"
+    }
+   ]
+  },
+  {
+   "title": "Tình hình xã hội ở nửa đầu thế kỉ XIX và phong trào đấu tranh của nhân dân",
+   "lessons": [
+    {
+     "bai": 26,
+     "title": "Tình hình xã hội ở nửa đầu thế kỉ XIX và phong trào đấu tranh của nhân dân",
+     "book": "NXBDG",
+     "raw": "Bài 26: Tình hình xã hội ở nửa đầu thế kỉ XIX và phong trào đấu tranh của nhân dân"
+    }
+   ]
+  },
+  {
+   "title": "Quá trình dựng nước và giữ nước",
+   "lessons": [
+    {
+     "bai": 27,
+     "title": "Quá trình dựng nước và giữ nước",
+     "book": "NXBDG",
+     "raw": "Bài 27: Quá trình dựng nước và giữ nước"
+    }
+   ]
+  },
+  {
+   "title": "Truyền thống yêu nước của dân tộc Việt Nam thời phong kiến",
+   "lessons": [
+    {
+     "bai": 28,
+     "title": "Truyền thống yêu nước của dân tộc Việt Nam thời phong kiến",
+     "book": "NXBDG",
+     "raw": "Bài 28: Truyền thống yêu nước của dân tộc Việt Nam thời phong kiến"
+    }
+   ]
+  },
+  {
+   "title": "Cách mạng Hà Lan và cách mạng tư sản Anh",
+   "lessons": [
+    {
+     "bai": 29,
+     "title": "Cách mạng Hà Lan và cách mạng tư sản Anh",
+     "book": "NXBDG",
+     "raw": "Bài 29: Cách mạng Hà Lan và cách mạng tư sản Anh"
+    }
+   ]
+  },
+  {
+   "title": "Chiến tranh giành độc lập của các thuộc địa Anh ở Bắc Mĩ",
+   "lessons": [
+    {
+     "bai": 30,
+     "title": "Chiến tranh giành độc lập của các thuộc địa Anh ở Bắc Mĩ",
+     "book": "NXBDG",
+     "raw": "Bài 30: Chiến tranh giành độc lập của các thuộc địa Anh ở Bắc Mĩ"
+    }
+   ]
+  },
+  {
+   "title": "Cách mạng tư sản Pháp cuối thế kỉ XVIII",
+   "lessons": [
+    {
+     "bai": 31,
+     "title": "Cách mạng tư sản Pháp cuối thế kỉ XVIII",
+     "book": "NXBDG",
+     "raw": "Bài 31: Cách mạng tư sản Pháp cuối thế kỉ XVIII"
+    }
+   ]
+  },
+  {
+   "title": "Hoàn thành cách mạng tư sản ở châu Âu và Mĩ giữa thế kỉ XIX",
+   "lessons": [
+    {
+     "bai": 33,
+     "title": "Hoàn thành cách mạng tư sản ở châu Âu và Mĩ giữa thế kỉ XIX",
+     "book": "NXBDG",
+     "raw": "Bài 33: Hoàn thành cách mạng tư sản ở châu Âu và Mĩ giữa thế kỉ XIX"
+    }
+   ]
+  },
+  {
+   "title": "Các nước tư bản chuyển sang giai đoạn đế quốc chủ nghĩa",
+   "lessons": [
+    {
+     "bai": 34,
+     "title": "Các nước tư bản chuyển sang giai đoạn đế quốc chủ nghĩa",
+     "book": "NXBDG",
+     "raw": "Bài 34: Các nước tư bản chuyển sang giai đoạn đế quốc chủ nghĩa"
+    }
+   ]
+  },
+  {
+   "title": "Các nước Anh, Pháp, Đức, Mĩ và sự bành trướng thuộc địa",
+   "lessons": [
+    {
+     "bai": 35,
+     "title": "Các nước Anh, Pháp, Đức, Mĩ và sự bành trướng thuộc địa",
+     "book": "NXBDG",
+     "raw": "Bài 35: Các nước Anh, Pháp, Đức, Mĩ và sự bành trướng thuộc địa"
+    }
+   ]
+  },
+  {
+   "title": "Mác và Ăng-ghen. Sự ra đời của chủ nghĩa xã hội khoa học",
+   "lessons": [
+    {
+     "bai": 37,
+     "title": "Mác và Ăng-ghen. Sự ra đời của chủ nghĩa xã hội khoa học",
+     "book": "NXBDG",
+     "raw": "Bài 37: Mác và Ăng-ghen. Sự ra đời của chủ nghĩa xã hội khoa học"
+    }
+   ]
+  },
+  {
+   "title": "Quốc tế thứ nhất và Công xã Pa-ri 1871",
+   "lessons": [
+    {
+     "bai": 38,
+     "title": "Quốc tế thứ nhất và Công xã Pa-ri 1871",
+     "book": "NXBDG",
+     "raw": "Bài 38: Quốc tế thứ nhất và Công xã Pa-ri 1871"
+    }
+   ]
+  },
+  {
+   "title": "Quốc tế thứ hai",
+   "lessons": [
+    {
+     "bai": 39,
+     "title": "Quốc tế thứ hai",
+     "book": "NXBDG",
+     "raw": "Bài 39: Quốc tế thứ hai"
+    }
+   ]
+  },
+  {
+   "title": "Lê-nin và phong trào công nhân Nga đầu thế kỉ XX",
+   "lessons": [
+    {
+     "bai": 40,
+     "title": "Lê-nin và phong trào công nhân Nga đầu thế kỉ XX",
+     "book": "NXBDG",
+     "raw": "Bài 40: Lê-nin và phong trào công nhân Nga đầu thế kỉ XX"
+    }
+   ]
+  },
+  {
+   "title": "Khái niệm văn minh. Một số nền văn minh phương Đông thời kì cổ – trung đại",
+   "lessons": [
+    {
+     "bai": 5,
+     "title": "Khái niệm văn minh. Một số nền văn minh phương Đông thời kì cổ – trung đại",
+     "book": "KNTT",
+     "raw": "Bài 5: Khái niệm văn minh. Một số nền văn minh phương Đông thời kì cổ – trung đại"
+    }
+   ]
+  },
+  {
+   "title": "Một số nền văn minh cổ trên đất nước Việt Nam",
+   "lessons": [
+    {
+     "bai": 11,
+     "title": "Một số nền văn minh cổ trên đất nước Việt Nam",
+     "book": "KNTT",
+     "raw": "Bài 11: Một số nền văn minh cổ trên đất nước Việt Nam"
+    }
+   ]
+  },
+  {
+   "title": "Văn minh Đại Việt",
+   "lessons": [
+    {
+     "bai": 12,
+     "title": "Văn minh Đại Việt",
+     "book": "KNTT",
+     "raw": "Bài 12: Văn minh Đại Việt"
+    },
+    {
+     "bai": 18,
+     "title": "Văn minh Đại Việt",
+     "book": "CTST",
+     "raw": "Bài 18: Văn minh Đại Việt"
+    }
+   ]
+  },
+  {
+   "title": "Đời sống vật chất và tinh thần của cộng đồng các dân tộc Việt Nam",
+   "lessons": [
+    {
+     "bai": 13,
+     "title": "Đời sống vật chất và tinh thần của cộng đồng các dân tộc Việt Nam",
+     "book": "KNTT",
+     "raw": "Bài 13: Đời sống vật chất và tinh thần của cộng đồng các dân tộc Việt Nam"
+    }
+   ]
+  },
+  {
+   "title": "Khái quát lịch sử văn minh thế giới cổ – trung đại",
+   "lessons": [
+    {
+     "bai": 5,
+     "title": "Khái quát lịch sử văn minh thế giới cổ – trung đại",
+     "book": "CTST",
+     "raw": "Bài 5: Khái quát lịch sử văn minh thế giới cổ – trung đại"
+    }
+   ]
+  },
+  {
+   "title": "Văn minh Ai Cập cổ đại",
+   "lessons": [
+    {
+     "bai": 6,
+     "title": "Văn minh Ai Cập cổ đại",
+     "book": "CTST",
+     "raw": "Bài 6: Văn minh Ai Cập cổ đại"
+    },
+    {
+     "bai": 9,
+     "title": "Văn minh Hy Lạp – La Mã cổ đại",
+     "book": "CTST",
+     "raw": "Bài 9: Văn minh Hy Lạp – La Mã cổ đại"
+    }
+   ]
+  },
+  {
+   "title": "Văn minh Trung Hoa cổ – trung đại",
+   "lessons": [
+    {
+     "bai": 7,
+     "title": "Văn minh Trung Hoa cổ – trung đại",
+     "book": "CTST",
+     "raw": "Bài 7: Văn minh Trung Hoa cổ – trung đại"
+    },
+    {
+     "bai": 8,
+     "title": "Văn minh Ấn Độ cổ – trung đại",
+     "book": "CTST",
+     "raw": "Bài 8: Văn minh Ấn Độ cổ – trung đại"
+    }
+   ]
+  },
+  {
+   "title": "Văn minh Tây Âu thời Phục hưng",
+   "lessons": [
+    {
+     "bai": 10,
+     "title": "Văn minh Tây Âu thời Phục hưng",
+     "book": "CTST",
+     "raw": "Bài 10: Văn minh Tây Âu thời Phục hưng"
+    }
+   ]
+  },
+  {
+   "title": "Văn minh Chăm-pa",
+   "lessons": [
+    {
+     "bai": 16,
+     "title": "Văn minh Chăm-pa",
+     "book": "CTST",
+     "raw": "Bài 16: Văn minh Chăm-pa"
+    },
+    {
+     "bai": 17,
+     "title": "Văn minh Phù Nam",
+     "book": "CTST",
+     "raw": "Bài 17: Văn minh Phù Nam"
+    }
+   ]
+  }
+ ],
+ "11": [
+  {
+   "title": "Một số vấn đề chung về cách mạng tư sản",
+   "lessons": [
+    {
+     "bai": 1,
+     "title": "Một số vấn đề chung về cách mạng tư sản",
+     "book": "cánh diều",
+     "raw": "Bài 1: Một số vấn đề chung về cách mạng tư sản"
+    },
+    {
+     "bai": 1,
+     "title": "Một số vấn đề chung về cách mạng tư sản",
+     "book": "KNTT",
+     "raw": "Bài 1: Một số vấn đề chung về cách mạng tư sản"
+    },
+    {
+     "bai": 1,
+     "title": "Một số vấn đề chung về cách mạng tư sản",
+     "book": "CTST",
+     "raw": "Bài 1: Một số vấn đề chung về cách mạng tư sản"
+    }
+   ]
+  },
+  {
+   "title": "Sự xác lập và phát triển của chủ nghĩa tư bản",
+   "lessons": [
+    {
+     "bai": 2,
+     "title": "Sự xác lập và phát triển của chủ nghĩa tư bản",
+     "book": "cánh diều",
+     "raw": "Bài 2: Sự xác lập và phát triển của chủ nghĩa tư bản"
+    },
+    {
+     "bai": 2,
+     "title": "Sự xác lập và phát triển của chủ nghĩa tư bản",
+     "book": "KNTT",
+     "raw": "Bài 2: Sự xác lập và phát triển của chủ nghĩa tư bản"
+    },
+    {
+     "bai": 2,
+     "title": "Sự xác lập và phát triển của chủ nghĩa tư bản",
+     "book": "CTST",
+     "raw": "Bài 2: Sự xác lập và phát triển của chủ nghĩa tư bản"
+    }
+   ]
+  },
+  {
+   "title": "Sự hình thành Liên bang Cộng hoà xã hội chủ nghĩa Xô viết",
+   "lessons": [
+    {
+     "bai": 3,
+     "title": "Sự hình thành Liên bang Cộng hoà xã hội chủ nghĩa Xô viết",
+     "book": "cánh diều",
+     "raw": "Bài 3: Sự hình thành Liên bang Cộng hoà xã hội chủ nghĩa Xô viết"
+    },
+    {
+     "bai": 3,
+     "title": "Sự hình thành Liên bang Cộng hoà xã hội chủ nghĩa Xô viết",
+     "book": "KNTT",
+     "raw": "Bài 3: Sự hình thành Liên bang Cộng hoà xã hội chủ nghĩa Xô viết"
+    }
+   ]
+  },
+  {
+   "title": "Sự phát triển của chủ nghĩa xã hội từ sau Chiến tranh thế giới thứ hai đến nay",
+   "lessons": [
+    {
+     "bai": 4,
+     "title": "Sự phát triển của chủ nghĩa xã hội từ sau Chiến tranh thế giới thứ hai đến nay",
+     "book": "cánh diều",
+     "raw": "Bài 4: Sự phát triển của chủ nghĩa xã hội từ sau Chiến tranh thế giới thứ hai đến nay"
+    },
+    {
+     "bai": 4,
+     "title": "Sự phát triển của chủ nghĩa xã hội từ sau Chiến tranh thế giới thứ hai đến nay",
+     "book": "KNTT",
+     "raw": "Bài 4: Sự phát triển của chủ nghĩa xã hội từ sau Chiến tranh thế giới thứ hai đến nay"
+    }
+   ]
+  },
+  {
+   "title": "Quá trình xâm lược và cai trị của chủ nghĩa thực dân ở Đông Nam Á",
+   "lessons": [
+    {
+     "bai": 5,
+     "title": "Quá trình xâm lược và cai trị của chủ nghĩa thực dân ở Đông Nam Á",
+     "book": "cánh diều",
+     "raw": "Bài 5: Quá trình xâm lược và cai trị của chủ nghĩa thực dân ở Đông Nam Á"
+    },
+    {
+     "bai": 5,
+     "title": "Quá trình xâm lược và cai trị của chủ nghĩa thực dân ở Đông Nam Á",
+     "book": "KNTT",
+     "raw": "Bài 5: Quá trình xâm lược và cai trị của chủ nghĩa thực dân ở Đông Nam Á"
+    },
+    {
+     "bai": 5,
+     "title": "Quá trình xâm lược và cai trị của chủ nghĩa thực dân ở Đông Nam Á",
+     "book": "CTST",
+     "raw": "Bài 5: Quá trình xâm lược và cai trị của chủ nghĩa thực dân ở Đông Nam Á"
+    }
+   ]
+  },
+  {
+   "title": "Hành trình đi đến độc lập dân tộc ở Đông Nam Á",
+   "lessons": [
+    {
+     "bai": 6,
+     "title": "Hành trình đi đến độc lập dân tộc ở Đông Nam Á",
+     "book": "cánh diều",
+     "raw": "Bài 6: Hành trình đi đến độc lập dân tộc ở Đông Nam Á"
+    },
+    {
+     "bai": 6,
+     "title": "Hành trình đi đến độc lập dân tộc ở Đông Nam Á",
+     "book": "KNTT",
+     "raw": "Bài 6: Hành trình đi đến độc lập dân tộc ở Đông Nam Á"
+    },
+    {
+     "bai": 6,
+     "title": "Hành trình đi đến độc lập dân tộc ở Đông Nam Á",
+     "book": "CTST",
+     "raw": "Bài 6: Hành trình đi đến độc lập dân tộc ở Đông Nam Á"
+    }
+   ]
+  },
+  {
+   "title": "Khái quát về chiến tranh bảo vệ Tổ quốc trong lịch sử Việt Nam",
+   "lessons": [
+    {
+     "bai": 7,
+     "title": "Khái quát về chiến tranh bảo vệ Tổ quốc trong lịch sử Việt Nam",
+     "book": "cánh diều",
+     "raw": "Bài 7: Khái quát về chiến tranh bảo vệ Tổ quốc trong lịch sử Việt Nam"
+    },
+    {
+     "bai": 7,
+     "title": "Chiến tranh bảo vệ Tổ quốc trong lịch sử Việt Nam",
+     "book": "KNTT",
+     "raw": "Bài 7: Chiến tranh bảo vệ Tổ quốc trong lịch sử Việt Nam"
+    },
+    {
+     "bai": 7,
+     "title": "Chiến tranh bảo vệ Tổ quốc trong lịch sử Việt Nam (trước năm 1945)",
+     "book": "CTST",
+     "raw": "Bài 7: Chiến tranh bảo vệ Tổ quốc trong lịch sử Việt Nam (trước năm 1945)"
+    }
+   ]
+  },
+  {
+   "title": "Một số cuộc khởi nghĩa và chiến tranh giải phóng trong lịch sử Việt Nam (từ thế kỉ III TCN đến cuối thế kỉ XIX)",
+   "lessons": [
+    {
+     "bai": 8,
+     "title": "Một số cuộc khởi nghĩa và chiến tranh giải phóng trong lịch sử Việt Nam (từ thế kỉ III TCN đến cuối thế kỉ XIX)",
+     "book": "cánh diều",
+     "raw": "Bài 8: Một số cuộc khởi nghĩa và chiến tranh giải phóng trong lịch sử Việt Nam (từ thế kỉ III TCN đến cuối thế kỉ XIX)"
+    },
+    {
+     "bai": 8,
+     "title": "Một số cuộc khởi nghĩa và chiến tranh giải phóng trong lịch sử Việt Nam (từ thế kỉ III trước Công nguyên đến cuối thế kỉ XIX)",
+     "book": "KNTT",
+     "raw": "Bài 8: Một số cuộc khởi nghĩa và chiến tranh giải phóng trong lịch sử Việt Nam (từ thế kỉ III trước Công nguyên đến cuối thế kỉ XIX)"
+    },
+    {
+     "bai": 8,
+     "title": "Một số cuộc khởi nghĩa và chiến tranh giải phóng trong lịch sử Việt Nam (từ thế kỉ III TCN – đến cuối thế kỉ XIX)",
+     "book": "CTST",
+     "raw": "Bài 8: Một số cuộc khởi nghĩa và chiến tranh giải phóng trong lịch sử Việt Nam (từ thế kỉ III TCN – đến cuối thế kỉ XIX)"
+    }
+   ]
+  },
+  {
+   "title": "Cuộc cải cách của Hồ Quý Ly và triều Hồ (cuối thế kỉ XIV, đầu thế kỉ XV)",
+   "lessons": [
+    {
+     "bai": 9,
+     "title": "Cuộc cải cách của Hồ Quý Ly và triều Hồ (cuối thế kỉ XIV, đầu thế kỉ XV)",
+     "book": "cánh diều",
+     "raw": "Bài 9: Cuộc cải cách của Hồ Quý Ly và triều Hồ (cuối thế kỉ XIV, đầu thế kỉ XV)"
+    }
+   ]
+  },
+  {
+   "title": "Cuộc cải cách của Lê Thánh Tông (thế kỉ XV)",
+   "lessons": [
+    {
+     "bai": 10,
+     "title": "Cuộc cải cách của Lê Thánh Tông (thế kỉ XV)",
+     "book": "cánh diều",
+     "raw": "Bài 10: Cuộc cải cách của Lê Thánh Tông (thế kỉ XV)"
+    },
+    {
+     "bai": 11,
+     "title": "Cuộc cải cách của Minh Mạng (nửa đầu thế kỉ XIX)",
+     "book": "cánh diều",
+     "raw": "Bài 11: Cuộc cải cách của Minh Mạng (nửa đầu thế kỉ XIX)"
+    },
+    {
+     "bai": 10,
+     "title": "Cuộc cải cách của Lê Thánh Tông (thế kỉ XV)",
+     "book": "KNTT",
+     "raw": "Bài 10: Cuộc cải cách của Lê Thánh Tông (thế kỉ XV)"
+    },
+    {
+     "bai": 11,
+     "title": "Cuộc cải cách của Minh Mạng (nửa đầu thế kỉ XIX)",
+     "book": "KNTT",
+     "raw": "Bài 11: Cuộc cải cách của Minh Mạng (nửa đầu thế kỉ XIX)"
+    },
+    {
+     "bai": 10,
+     "title": "Cuộc cải cách của Lê Thánh Tông (thế kỉ XV)",
+     "book": "CTST",
+     "raw": "Bài 10: Cuộc cải cách của Lê Thánh Tông (thế kỉ XV)"
+    },
+    {
+     "bai": 11,
+     "title": "Cuộc cải cách của Minh Mạng (nửa đầu thế kỉ XIX)",
+     "book": "CTST",
+     "raw": "Bài 11: Cuộc cải cách của Minh Mạng (nửa đầu thế kỉ XIX)"
+    }
+   ]
+  },
+  {
+   "title": "Vị trí và tầm quan trọng của Biển Đông",
+   "lessons": [
+    {
+     "bai": 12,
+     "title": "Vị trí và tầm quan trọng của Biển Đông",
+     "book": "cánh diều",
+     "raw": "Bài 12: Vị trí và tầm quan trọng của Biển Đông"
+    },
+    {
+     "bai": 12,
+     "title": "Vị trí và tầm quan trọng của Biển Đông",
+     "book": "KNTT",
+     "raw": "Bài 12: Vị trí và tầm quan trọng của Biển Đông"
+    },
+    {
+     "bai": 12,
+     "title": "Vị trí và tầm quan trọng của Biển Đông",
+     "book": "CTST",
+     "raw": "Bài 12: Vị trí và tầm quan trọng của Biển Đông"
+    }
+   ]
+  },
+  {
+   "title": "Việt Nam và Biển Đông",
+   "lessons": [
+    {
+     "bai": 13,
+     "title": "Việt Nam và Biển Đông",
+     "book": "cánh diều",
+     "raw": "Bài 13: Việt Nam và Biển Đông"
+    },
+    {
+     "bai": 13,
+     "title": "Việt Nam và Biển Đông",
+     "book": "KNTT",
+     "raw": "Bài 13: Việt Nam và Biển Đông"
+    },
+    {
+     "bai": 13,
+     "title": "Việt Nam và Biển Đông",
+     "book": "CTST",
+     "raw": "Bài 13: Việt Nam và Biển Đông"
+    }
+   ]
+  },
+  {
+   "title": "Nhật Bản",
+   "lessons": [
+    {
+     "bai": 1,
+     "title": "Nhật Bản",
+     "book": "NXBDG",
+     "raw": "Bài 1: Nhật Bản"
+    }
+   ]
+  },
+  {
+   "title": "Ấn Độ",
+   "lessons": [
+    {
+     "bai": 2,
+     "title": "Ấn Độ",
+     "book": "NXBDG",
+     "raw": "Bài 2: Ấn Độ"
+    }
+   ]
+  },
+  {
+   "title": "Trung Quốc",
+   "lessons": [
+    {
+     "bai": 3,
+     "title": "Trung Quốc",
+     "book": "NXBDG",
+     "raw": "Bài 3: Trung Quốc"
+    }
+   ]
+  },
+  {
+   "title": "Các nước Đông Nam Á (Cuối thế kỉ XIX - đầu thế kỉ XX)",
+   "lessons": [
+    {
+     "bai": 4,
+     "title": "Các nước Đông Nam Á (Cuối thế kỉ XIX - đầu thế kỉ XX)",
+     "book": "NXBDG",
+     "raw": "Bài 4: Các nước Đông Nam Á (Cuối thế kỉ XIX - đầu thế kỉ XX)"
+    }
+   ]
+  },
+  {
+   "title": "Châu Phi và khu vực Mĩ Latinh (Thế kỉ XIX - đầu thế kỉ XX)",
+   "lessons": [
+    {
+     "bai": 5,
+     "title": "Châu Phi và khu vực Mĩ Latinh (Thế kỉ XIX - đầu thế kỉ XX)",
+     "book": "NXBDG",
+     "raw": "Bài 5: Châu Phi và khu vực Mĩ Latinh (Thế kỉ XIX - đầu thế kỉ XX)"
+    }
+   ]
+  },
+  {
+   "title": "Chiến tranh thế giới thứ nhất (1914 - 1918)",
+   "lessons": [
+    {
+     "bai": 6,
+     "title": "Chiến tranh thế giới thứ nhất (1914 - 1918)",
+     "book": "NXBDG",
+     "raw": "Bài 6: Chiến tranh thế giới thứ nhất (1914 - 1918)"
+    },
+    {
+     "bai": 17,
+     "title": "Chiến tranh thế giới thứ hai (1939 - 1945)",
+     "book": "NXBDG",
+     "raw": "Bài 17: Chiến tranh thế giới thứ hai (1939 - 1945)"
+    },
+    {
+     "bai": 24,
+     "title": "Việt Nam trong những năm Chiến tranh thế giới thứ nhất (1914 - 1918)",
+     "book": "NXBDG",
+     "raw": "Bài 24: Việt Nam trong những năm Chiến tranh thế giới thứ nhất (1914 - 1918)"
+    }
+   ]
+  },
+  {
+   "title": "Những thành tựu văn hoá thời cận đại",
+   "lessons": [
+    {
+     "bai": 7,
+     "title": "Những thành tựu văn hoá thời cận đại",
+     "book": "NXBDG",
+     "raw": "Bài 7: Những thành tựu văn hoá thời cận đại"
+    }
+   ]
+  },
+  {
+   "title": "Ôn tập lịch sử thế giới cận đại",
+   "lessons": [
+    {
+     "bai": 8,
+     "title": "Ôn tập lịch sử thế giới cận đại",
+     "book": "NXBDG",
+     "raw": "Bài 8: Ôn tập lịch sử thế giới cận đại"
+    }
+   ]
+  },
+  {
+   "title": "Cách mạng tháng Mười Nga năm 1917 và cuộc đấu tranh bảo vệ cách mạng (1917 - 1921)",
+   "lessons": [
+    {
+     "bai": 9,
+     "title": "Cách mạng tháng Mười Nga năm 1917 và cuộc đấu tranh bảo vệ cách mạng (1917 - 1921)",
+     "book": "NXBDG",
+     "raw": "Bài 9: Cách mạng tháng Mười Nga năm 1917 và cuộc đấu tranh bảo vệ cách mạng (1917 - 1921)"
+    }
+   ]
+  },
+  {
+   "title": "Liên Xô xây dựng chủ nghĩa xã hội (1921 - 1941)",
+   "lessons": [
+    {
+     "bai": 10,
+     "title": "Liên Xô xây dựng chủ nghĩa xã hội (1921 - 1941)",
+     "book": "NXBDG",
+     "raw": "Bài 10: Liên Xô xây dựng chủ nghĩa xã hội (1921 - 1941)"
+    }
+   ]
+  },
+  {
+   "title": "Tình hình các nước tư bản giữa hai cuộc chiến tranh thế giới (1918 - 1939)",
+   "lessons": [
+    {
+     "bai": 11,
+     "title": "Tình hình các nước tư bản giữa hai cuộc chiến tranh thế giới (1918 - 1939)",
+     "book": "NXBDG",
+     "raw": "Bài 11: Tình hình các nước tư bản giữa hai cuộc chiến tranh thế giới (1918 - 1939)"
+    },
+    {
+     "bai": 12,
+     "title": "Nước Đức giữa hai cuộc chiến tranh thế giới (1918 - 1939)",
+     "book": "NXBDG",
+     "raw": "Bài 12: Nước Đức giữa hai cuộc chiến tranh thế giới (1918 - 1939)"
+    },
+    {
+     "bai": 13,
+     "title": "Nước Mĩ giữa hai cuộc chiến tranh thế giới (1918 - 1939)",
+     "book": "NXBDG",
+     "raw": "Bài 13: Nước Mĩ giữa hai cuộc chiến tranh thế giới (1918 - 1939)"
+    },
+    {
+     "bai": 14,
+     "title": "Nhật Bản giữa hai cuộc chiến tranh thế giới (1918 - 1939)",
+     "book": "NXBDG",
+     "raw": "Bài 14: Nhật Bản giữa hai cuộc chiến tranh thế giới (1918 - 1939)"
+    },
+    {
+     "bai": 16,
+     "title": "Các nước Đông Nam Á giữa hai cuộc chiến tranh thế giới (1918 - 1939)",
+     "book": "NXBDG",
+     "raw": "Bài 16: Các nước Đông Nam Á giữa hai cuộc chiến tranh thế giới (1918 - 1939)"
+    }
+   ]
+  },
+  {
+   "title": "Phong trào cách mạng ở Trung Quốc và Ấn Độ (1918 - 1939)",
+   "lessons": [
+    {
+     "bai": 15,
+     "title": "Phong trào cách mạng ở Trung Quốc và Ấn Độ (1918 - 1939)",
+     "book": "NXBDG",
+     "raw": "Bài 15: Phong trào cách mạng ở Trung Quốc và Ấn Độ (1918 - 1939)"
+    }
+   ]
+  },
+  {
+   "title": "Ôn tập lịch sử thế giới hiện đại (Phần từ năm 1917 đến năm 1945)",
+   "lessons": [
+    {
+     "bai": 18,
+     "title": "Ôn tập lịch sử thế giới hiện đại (Phần từ năm 1917 đến năm 1945)",
+     "book": "NXBDG",
+     "raw": "Bài 18: Ôn tập lịch sử thế giới hiện đại (Phần từ năm 1917 đến năm 1945)"
+    }
+   ]
+  },
+  {
+   "title": "Nhân dân Việt Nam kháng chiến chống Pháp xâm lược (Từ năm 1858 đến trước năm 1873)",
+   "lessons": [
+    {
+     "bai": 19,
+     "title": "Nhân dân Việt Nam kháng chiến chống Pháp xâm lược (Từ năm 1858 đến trước năm 1873)",
+     "book": "NXBDG",
+     "raw": "Bài 19: Nhân dân Việt Nam kháng chiến chống Pháp xâm lược (Từ năm 1858 đến trước năm 1873)"
+    }
+   ]
+  },
+  {
+   "title": "Chiến sự lan rộng ra cả nước. Cuộc kháng chiến của nhân dân ta từ năm 1873 đến năm 1884. Nhà Nguyễn đầu hàng",
+   "lessons": [
+    {
+     "bai": 20,
+     "title": "Chiến sự lan rộng ra cả nước. Cuộc kháng chiến của nhân dân ta từ năm 1873 đến năm 1884. Nhà Nguyễn đầu hàng",
+     "book": "NXBDG",
+     "raw": "Bài 20: Chiến sự lan rộng ra cả nước. Cuộc kháng chiến của nhân dân ta từ năm 1873 đến năm 1884. Nhà Nguyễn đầu hàng"
+    }
+   ]
+  },
+  {
+   "title": "Phong trào yêu nước chống Pháp của nhân dân Việt Nam trong những năm cuối thế kỉ XIX",
+   "lessons": [
+    {
+     "bai": 21,
+     "title": "Phong trào yêu nước chống Pháp của nhân dân Việt Nam trong những năm cuối thế kỉ XIX",
+     "book": "NXBDG",
+     "raw": "Bài 21: Phong trào yêu nước chống Pháp của nhân dân Việt Nam trong những năm cuối thế kỉ XIX"
+    }
+   ]
+  },
+  {
+   "title": "Xã hội Việt Nam trong cuộc khai thác lần thứ nhất của thực dân Pháp",
+   "lessons": [
+    {
+     "bai": 22,
+     "title": "Xã hội Việt Nam trong cuộc khai thác lần thứ nhất của thực dân Pháp",
+     "book": "NXBDG",
+     "raw": "Bài 22: Xã hội Việt Nam trong cuộc khai thác lần thứ nhất của thực dân Pháp"
+    }
+   ]
+  },
+  {
+   "title": "Phong trào yêu nước và cách mạng ở Việt Nam từ đầu thế kỉ XX đến Chiến tranh thế giới thứ nhất (1914)",
+   "lessons": [
+    {
+     "bai": 23,
+     "title": "Phong trào yêu nước và cách mạng ở Việt Nam từ đầu thế kỉ XX đến Chiến tranh thế giới thứ nhất (1914)",
+     "book": "NXBDG",
+     "raw": "Bài 23: Phong trào yêu nước và cách mạng ở Việt Nam từ đầu thế kỉ XX đến Chiến tranh thế giới thứ nhất (1914)"
+    }
+   ]
+  },
+  {
+   "title": "Cuộc cải cách của Hồ Quý Ly và triều Hồ",
+   "lessons": [
+    {
+     "bai": 9,
+     "title": "Cuộc cải cách của Hồ Quý Ly và triều Hồ",
+     "book": "KNTT",
+     "raw": "Bài 9: Cuộc cải cách của Hồ Quý Ly và triều Hồ"
+    },
+    {
+     "bai": 9,
+     "title": "Cuộc cải cách của Hồ Quý Ly và triều Hồ",
+     "book": "CTST",
+     "raw": "Bài 9: Cuộc cải cách của Hồ Quý Ly và triều Hồ"
+    }
+   ]
+  },
+  {
+   "title": "Liên bang Cộng hoà xã hội chủ nghĩa Xô viết ra đời và sự phát triển của chủ nghĩa xã hội sau Chiến tranh thế giới thứ hai",
+   "lessons": [
+    {
+     "bai": 3,
+     "title": "Liên bang Cộng hoà xã hội chủ nghĩa Xô viết ra đời và sự phát triển của chủ nghĩa xã hội sau Chiến tranh thế giới thứ hai",
+     "book": "CTST",
+     "raw": "Bài 3: Liên bang Cộng hoà xã hội chủ nghĩa Xô viết ra đời và sự phát triển của chủ nghĩa xã hội sau Chiến tranh thế giới thứ hai"
+    }
+   ]
+  },
+  {
+   "title": "Chủ nghĩa xã hội từ năm 1991 đến nay",
+   "lessons": [
+    {
+     "bai": 4,
+     "title": "Chủ nghĩa xã hội từ năm 1991 đến nay",
+     "book": "CTST",
+     "raw": "Bài 4: Chủ nghĩa xã hội từ năm 1991 đến nay"
+    }
+   ]
+  }
+ ],
+ "12": [
+  {
+   "title": "Liên hợp quốc",
+   "lessons": [
+    {
+     "bai": 1,
+     "title": "Liên hợp quốc",
+     "book": "cánh diều",
+     "raw": "Bài 1: Liên hợp quốc"
+    },
+    {
+     "bai": 1,
+     "title": "Liên hợp quốc",
+     "book": "KNTT",
+     "raw": "Bài 1: Liên hợp quốc"
+    },
+    {
+     "bai": 1,
+     "title": "Liên hợp quốc",
+     "book": "CTST",
+     "raw": "Bài 1: Liên hợp quốc"
+    }
+   ]
+  },
+  {
+   "title": "Trật tự thế giới trong Chiến tranh lạnh",
+   "lessons": [
+    {
+     "bai": 2,
+     "title": "Trật tự thế giới trong Chiến tranh lạnh",
+     "book": "cánh diều",
+     "raw": "Bài 2: Trật tự thế giới trong Chiến tranh lạnh"
+    },
+    {
+     "bai": 3,
+     "title": "Trật tự thế giới sau Chiến tranh lạnh",
+     "book": "cánh diều",
+     "raw": "Bài 3: Trật tự thế giới sau Chiến tranh lạnh"
+    },
+    {
+     "bai": 2,
+     "title": "Trật tự thế giới trong Chiến tranh lạnh",
+     "book": "KNTT",
+     "raw": "Bài 2: Trật tự thế giới trong Chiến tranh lạnh"
+    },
+    {
+     "bai": 3,
+     "title": "Trật tự thế giới sau Chiến tranh lạnh",
+     "book": "KNTT",
+     "raw": "Bài 3: Trật tự thế giới sau Chiến tranh lạnh"
+    },
+    {
+     "bai": 2,
+     "title": "Trật tự thế giới trong Chiến tranh lạnh",
+     "book": "CTST",
+     "raw": "Bài 2: Trật tự thế giới trong Chiến tranh lạnh"
+    },
+    {
+     "bai": 3,
+     "title": "Trật tự thế giới sau Chiến tranh lạnh",
+     "book": "CTST",
+     "raw": "Bài 3: Trật tự thế giới sau Chiến tranh lạnh"
+    }
+   ]
+  },
+  {
+   "title": "Sự ra đời và phát triển của Hiệp hội các quốc gia Đông Nam Á (ASEAN)",
+   "lessons": [
+    {
+     "bai": 4,
+     "title": "Sự ra đời và phát triển của Hiệp hội các quốc gia Đông Nam Á (ASEAN)",
+     "book": "cánh diều",
+     "raw": "Bài 4: Sự ra đời và phát triển của Hiệp hội các quốc gia Đông Nam Á (ASEAN)"
+    },
+    {
+     "bai": 4,
+     "title": "Sự ra đời và phát triển của Hiệp hội các quốc gia Đông Nam Á (ASEAN)",
+     "book": "KNTT",
+     "raw": "Bài 4: Sự ra đời và phát triển của Hiệp hội các quốc gia Đông Nam Á (ASEAN)"
+    },
+    {
+     "bai": 4,
+     "title": "Sự ra đời và phát triển của Hiệp hội các quốc gia Đông Nam Á (ASEAN)",
+     "book": "CTST",
+     "raw": "Bài 4: Sự ra đời và phát triển của Hiệp hội các quốc gia Đông Nam Á (ASEAN)"
+    }
+   ]
+  },
+  {
+   "title": "Cộng đồng ASEAN: từ ý tưởng đến hiện thực",
+   "lessons": [
+    {
+     "bai": 5,
+     "title": "Cộng đồng ASEAN: từ ý tưởng đến hiện thực",
+     "book": "cánh diều",
+     "raw": "Bài 5: Cộng đồng ASEAN: từ ý tưởng đến hiện thực"
+    },
+    {
+     "bai": 5,
+     "title": "Cộng đồng ASEAN: Từ ý tưởng đến hiện thực",
+     "book": "KNTT",
+     "raw": "Bài 5: Cộng đồng ASEAN: Từ ý tưởng đến hiện thực"
+    },
+    {
+     "bai": 5,
+     "title": "Cộng đồng ASEAN: Từ ý tưởng đến hiện thực",
+     "book": "CTST",
+     "raw": "Bài 5: Cộng đồng ASEAN: Từ ý tưởng đến hiện thực"
+    }
+   ]
+  },
+  {
+   "title": "Cách mạng tháng Tám năm 1945",
+   "lessons": [
+    {
+     "bai": 6,
+     "title": "Cách mạng tháng Tám năm 1945",
+     "book": "cánh diều",
+     "raw": "Bài 6: Cách mạng tháng Tám năm 1945"
+    },
+    {
+     "bai": 6,
+     "title": "Cách mạng tháng Tám năm 1945",
+     "book": "KNTT",
+     "raw": "Bài 6: Cách mạng tháng Tám năm 1945"
+    },
+    {
+     "bai": 6,
+     "title": "Cách mạng tháng Tám năm 1945",
+     "book": "CTST",
+     "raw": "Bài 6: Cách mạng tháng Tám năm 1945"
+    }
+   ]
+  },
+  {
+   "title": "Cuộc kháng chiến chống thực dân Pháp (1945 – 1954)",
+   "lessons": [
+    {
+     "bai": 7,
+     "title": "Cuộc kháng chiến chống thực dân Pháp (1945 – 1954)",
+     "book": "cánh diều",
+     "raw": "Bài 7: Cuộc kháng chiến chống thực dân Pháp (1945 – 1954)"
+    },
+    {
+     "bai": 21,
+     "title": "Những năm đầu của cuộc kháng chiến toàn quốc chống thực dân Pháp (1946 - 1950)",
+     "book": "NXBDG",
+     "raw": "Bài 21: Những năm đầu của cuộc kháng chiến toàn quốc chống thực dân Pháp (1946 - 1950)"
+    },
+    {
+     "bai": 22,
+     "title": "Bước phát triển của cuộc kháng chiến toàn quốc chống thực dân Pháp (1951 - 1953)",
+     "book": "NXBDG",
+     "raw": "Bài 22: Bước phát triển của cuộc kháng chiến toàn quốc chống thực dân Pháp (1951 - 1953)"
+    },
+    {
+     "bai": 23,
+     "title": "Cuộc kháng chiến toàn quốc chống thực dân Pháp kết thúc (1953 - 1954)",
+     "book": "NXBDG",
+     "raw": "Bài 23: Cuộc kháng chiến toàn quốc chống thực dân Pháp kết thúc (1953 - 1954)"
+    },
+    {
+     "bai": 7,
+     "title": "Cuộc kháng chiến chống thực dân Pháp (1945 – 1954)",
+     "book": "KNTT",
+     "raw": "Bài 7: Cuộc kháng chiến chống thực dân Pháp (1945 – 1954)"
+    },
+    {
+     "bai": 7,
+     "title": "Cuộc kháng chiến chống thực dân Pháp (1945 – 1954)",
+     "book": "CTST",
+     "raw": "Bài 7: Cuộc kháng chiến chống thực dân Pháp (1945 – 1954)"
+    }
+   ]
+  },
+  {
+   "title": "Cuộc kháng chiến chống Mỹ, cứu nước (1954 – 1975)",
+   "lessons": [
+    {
+     "bai": 8,
+     "title": "Cuộc kháng chiến chống Mỹ, cứu nước (1954 – 1975)",
+     "book": "cánh diều",
+     "raw": "Bài 8: Cuộc kháng chiến chống Mỹ, cứu nước (1954 – 1975)"
+    },
+    {
+     "bai": 8,
+     "title": "Cuộc kháng chiến chống Mỹ, cứu nước (1954 – 1975)",
+     "book": "KNTT",
+     "raw": "Bài 8: Cuộc kháng chiến chống Mỹ, cứu nước (1954 – 1975)"
+    },
+    {
+     "bai": 8,
+     "title": "Cuộc kháng chiến chống Mỹ, cứu nước (1954 – 1975)",
+     "book": "CTST",
+     "raw": "Bài 8: Cuộc kháng chiến chống Mỹ, cứu nước (1954 – 1975)"
+    }
+   ]
+  },
+  {
+   "title": "Đấu tranh bảo vệ Tổ quốc từ sau tháng 4 năm 1975 đến nay. Một số bài học lịch sử của các cuộc kháng chiến bảo vệ Tổ quốc từ năm 1945 đến nay.",
+   "lessons": [
+    {
+     "bai": 9,
+     "title": "Đấu tranh bảo vệ Tổ quốc từ sau tháng 4 năm 1975 đến nay. Một số bài học lịch sử của các cuộc kháng chiến bảo vệ Tổ quốc từ năm 1945 đến nay.",
+     "book": "cánh diều",
+     "raw": "Bài 9: Đấu tranh bảo vệ Tổ quốc từ sau tháng 4 năm 1975 đến nay. Một số bài học lịch sử của các cuộc kháng chiến bảo vệ Tổ quốc từ năm 1945 đến nay."
+    },
+    {
+     "bai": 9,
+     "title": "Cuộc đấu tranh bảo vệ Tổ quốc từ sau tháng 4 – 1975 đến nay. Một số bài học lịch sử của các cuộc kháng chiến bảo vệ Tổ quốc từ năm 1945 đến nay",
+     "book": "KNTT",
+     "raw": "Bài 9: Cuộc đấu tranh bảo vệ Tổ quốc từ sau tháng 4 – 1975 đến nay. Một số bài học lịch sử của các cuộc kháng chiến bảo vệ Tổ quốc từ năm 1945 đến nay"
+    },
+    {
+     "bai": 9,
+     "title": "Đấu tranh bảo vệ Tổ quốc từ sau tháng 4 – 1975 đến nay. Một số bài học lịch sử của các cuộc kháng chiến bảo vệ Tổ quốc từ năm 1945 đến nay",
+     "book": "CTST",
+     "raw": "Bài 9: Đấu tranh bảo vệ Tổ quốc từ sau tháng 4 – 1975 đến nay. Một số bài học lịch sử của các cuộc kháng chiến bảo vệ Tổ quốc từ năm 1945 đến nay"
+    }
+   ]
+  },
+  {
+   "title": "Khái quát về công cuộc Đổi mới từ năm 1986 đến nay",
+   "lessons": [
+    {
+     "bai": 10,
+     "title": "Khái quát về công cuộc Đổi mới từ năm 1986 đến nay",
+     "book": "cánh diều",
+     "raw": "Bài 10: Khái quát về công cuộc Đổi mới từ năm 1986 đến nay"
+    },
+    {
+     "bai": 10,
+     "title": "Khái quát về công cuộc Đổi mới từ năm 1986 đến nay",
+     "book": "KNTT",
+     "raw": "Bài 10: Khái quát về công cuộc Đổi mới từ năm 1986 đến nay"
+    },
+    {
+     "bai": 10,
+     "title": "Khái quát về công cuộc Đổi mới từ năm 1986 đến nay",
+     "book": "CTST",
+     "raw": "Bài 10: Khái quát về công cuộc Đổi mới từ năm 1986 đến nay"
+    }
+   ]
+  },
+  {
+   "title": "Thành tựu cơ bản và bài học của công cuộc Đổi mới ở Việt Nam từ năm 1986 đến nay",
+   "lessons": [
+    {
+     "bai": 11,
+     "title": "Thành tựu cơ bản và bài học của công cuộc Đổi mới ở Việt Nam từ năm 1986 đến nay",
+     "book": "cánh diều",
+     "raw": "Bài 11: Thành tựu cơ bản và bài học của công cuộc Đổi mới ở Việt Nam từ năm 1986 đến nay"
+    },
+    {
+     "bai": 11,
+     "title": "Thành tựu cơ bản và bài học của công cuộc Đổi mới ở Việt Nam từ năm 1986 đến nay",
+     "book": "KNTT",
+     "raw": "Bài 11: Thành tựu cơ bản và bài học của công cuộc Đổi mới ở Việt Nam từ năm 1986 đến nay"
+    },
+    {
+     "bai": 11,
+     "title": "Thành tựu cơ bản và bài học của công cuộc Đổi mới ở Việt Nam từ năm 1986 đến nay",
+     "book": "CTST",
+     "raw": "Bài 11: Thành tựu cơ bản và bài học của công cuộc Đổi mới ở Việt Nam từ năm 1986 đến nay"
+    }
+   ]
+  },
+  {
+   "title": "Hoạt động đối ngoại của Việt Nam từ đầu thế kỉ XX đến năm 1975",
+   "lessons": [
+    {
+     "bai": 12,
+     "title": "Hoạt động đối ngoại của Việt Nam từ đầu thế kỉ XX đến năm 1975",
+     "book": "cánh diều",
+     "raw": "Bài 12: Hoạt động đối ngoại của Việt Nam từ đầu thế kỉ XX đến năm 1975"
+    },
+    {
+     "bai": 13,
+     "title": "Hoạt động đối ngoại của Việt Nam từ năm 1975 đến nay",
+     "book": "cánh diều",
+     "raw": "Bài 13: Hoạt động đối ngoại của Việt Nam từ năm 1975 đến nay"
+    },
+    {
+     "bai": 14,
+     "title": "Hoạt động đối ngoại của Việt Nam từ năm 1975 đến nay",
+     "book": "KNTT",
+     "raw": "Bài 14: Hoạt động đối ngoại của Việt Nam từ năm 1975 đến nay"
+    },
+    {
+     "bai": 13,
+     "title": "Hoạt động đối ngoại của Việt Nam từ sau Cách mạng tháng Tám năm 1945 đến nay",
+     "book": "CTST",
+     "raw": "Bài 13: Hoạt động đối ngoại của Việt Nam từ sau Cách mạng tháng Tám năm 1945 đến nay"
+    }
+   ]
+  },
+  {
+   "title": "Khái quát về cuộc đời và sự nghiệp của Hồ Chí Minh",
+   "lessons": [
+    {
+     "bai": 14,
+     "title": "Khái quát về cuộc đời và sự nghiệp của Hồ Chí Minh",
+     "book": "cánh diều",
+     "raw": "Bài 14: Khái quát về cuộc đời và sự nghiệp của Hồ Chí Minh"
+    },
+    {
+     "bai": 15,
+     "title": "Khái quát cuộc đời và sự nghiệp của Hồ Chí Minh",
+     "book": "KNTT",
+     "raw": "Bài 15: Khái quát cuộc đời và sự nghiệp của Hồ Chí Minh"
+    },
+    {
+     "bai": 14,
+     "title": "Khái quát về cuộc đời và sự nghiệp của Hồ Chí Minh",
+     "book": "CTST",
+     "raw": "Bài 14: Khái quát về cuộc đời và sự nghiệp của Hồ Chí Minh"
+    }
+   ]
+  },
+  {
+   "title": "Hồ Chí Minh – Anh hùng giải phóng dân tộc",
+   "lessons": [
+    {
+     "bai": 15,
+     "title": "Hồ Chí Minh – Anh hùng giải phóng dân tộc",
+     "book": "cánh diều",
+     "raw": "Bài 15: Hồ Chí Minh – Anh hùng giải phóng dân tộc"
+    },
+    {
+     "bai": 16,
+     "title": "Hồ Chí Minh – Anh hùng giải phóng dân tộc",
+     "book": "KNTT",
+     "raw": "Bài 16: Hồ Chí Minh – Anh hùng giải phóng dân tộc"
+    },
+    {
+     "bai": 15,
+     "title": "Hồ Chí Minh – Anh hùng giải phóng dân tộc",
+     "book": "CTST",
+     "raw": "Bài 15: Hồ Chí Minh – Anh hùng giải phóng dân tộc"
+    }
+   ]
+  },
+  {
+   "title": "Dấu ấn Hồ Chí Minh trong lòng nhân dân thế giới và Việt Nam",
+   "lessons": [
+    {
+     "bai": 16,
+     "title": "Dấu ấn Hồ Chí Minh trong lòng nhân dân thế giới và Việt Nam",
+     "book": "cánh diều",
+     "raw": "Bài 16: Dấu ấn Hồ Chí Minh trong lòng nhân dân thế giới và Việt Nam"
+    },
+    {
+     "bai": 17,
+     "title": "Dấu ấn Hồ Chí Minh trong lòng nhân dân thế giới và Việt Nam",
+     "book": "KNTT",
+     "raw": "Bài 17: Dấu ấn Hồ Chí Minh trong lòng nhân dân thế giới và Việt Nam"
+    },
+    {
+     "bai": 16,
+     "title": "Dấu ấn Hồ Chí Minh trong lòng nhân dân thế giới và Việt Nam",
+     "book": "CTST",
+     "raw": "Bài 16: Dấu ấn Hồ Chí Minh trong lòng nhân dân thế giới và Việt Nam"
+    }
+   ]
+  },
+  {
+   "title": "Sự hình thành trật tự thế giới mới sau Chiến tranh thế giới thứ hai (1945 - 1949)",
+   "lessons": [
+    {
+     "bai": 1,
+     "title": "Sự hình thành trật tự thế giới mới sau Chiến tranh thế giới thứ hai (1945 - 1949)",
+     "book": "NXBDG",
+     "raw": "Bài 1: Sự hình thành trật tự thế giới mới sau Chiến tranh thế giới thứ hai (1945 - 1949)"
+    }
+   ]
+  },
+  {
+   "title": "Liên Xô và các nước Đông Âu (1945 - 1991). Liên bang Nga (1991 - 2000)",
+   "lessons": [
+    {
+     "bai": 2,
+     "title": "Liên Xô và các nước Đông Âu (1945 - 1991). Liên bang Nga (1991 - 2000)",
+     "book": "NXBDG",
+     "raw": "Bài 2: Liên Xô và các nước Đông Âu (1945 - 1991). Liên bang Nga (1991 - 2000)"
+    }
+   ]
+  },
+  {
+   "title": "Trung Quốc và bán đảo Triều Tiên",
+   "lessons": [
+    {
+     "bai": 3,
+     "title": "Trung Quốc và bán đảo Triều Tiên",
+     "book": "NXBDG",
+     "raw": "Bài 3: Trung Quốc và bán đảo Triều Tiên"
+    }
+   ]
+  },
+  {
+   "title": "Các nước Đông Nam Á",
+   "lessons": [
+    {
+     "bai": 4,
+     "title": "Các nước Đông Nam Á",
+     "book": "NXBDG",
+     "raw": "Bài 4: Các nước Đông Nam Á"
+    }
+   ]
+  },
+  {
+   "title": "Ấn Độ và khu vực Trung Đông",
+   "lessons": [
+    {
+     "bai": 5,
+     "title": "Ấn Độ và khu vực Trung Đông",
+     "book": "NXBDG",
+     "raw": "Bài 5: Ấn Độ và khu vực Trung Đông"
+    }
+   ]
+  },
+  {
+   "title": "Các nước châu Phi và Mĩ Latinh",
+   "lessons": [
+    {
+     "bai": 6,
+     "title": "Các nước châu Phi và Mĩ Latinh",
+     "book": "NXBDG",
+     "raw": "Bài 6: Các nước châu Phi và Mĩ Latinh"
+    }
+   ]
+  },
+  {
+   "title": "Nước Mĩ",
+   "lessons": [
+    {
+     "bai": 7,
+     "title": "Nước Mĩ",
+     "book": "NXBDG",
+     "raw": "Bài 7: Nước Mĩ"
+    }
+   ]
+  },
+  {
+   "title": "Tây Âu",
+   "lessons": [
+    {
+     "bai": 8,
+     "title": "Tây Âu",
+     "book": "NXBDG",
+     "raw": "Bài 8: Tây Âu"
+    }
+   ]
+  },
+  {
+   "title": "Nhật Bản",
+   "lessons": [
+    {
+     "bai": 9,
+     "title": "Nhật Bản",
+     "book": "NXBDG",
+     "raw": "Bài 9: Nhật Bản"
+    }
+   ]
+  },
+  {
+   "title": "Quan hệ quốc tế trong và sau thời kì Chiến tranh lạnh",
+   "lessons": [
+    {
+     "bai": 10,
+     "title": "Quan hệ quốc tế trong và sau thời kì Chiến tranh lạnh",
+     "book": "NXBDG",
+     "raw": "Bài 10: Quan hệ quốc tế trong và sau thời kì Chiến tranh lạnh"
+    }
+   ]
+  },
+  {
+   "title": "Cách mạng khoa học - công nghệ và xu thế toàn cầu hoá nửa sau thế kỉ XX",
+   "lessons": [
+    {
+     "bai": 11,
+     "title": "Cách mạng khoa học - công nghệ và xu thế toàn cầu hoá nửa sau thế kỉ XX",
+     "book": "NXBDG",
+     "raw": "Bài 11: Cách mạng khoa học - công nghệ và xu thế toàn cầu hoá nửa sau thế kỉ XX"
+    }
+   ]
+  },
+  {
+   "title": "Tổng kết lịch sử thế giới hiện đại từ năm 1945 đến năm 2000",
+   "lessons": [
+    {
+     "bai": 12,
+     "title": "Tổng kết lịch sử thế giới hiện đại từ năm 1945 đến năm 2000",
+     "book": "NXBDG",
+     "raw": "Bài 12: Tổng kết lịch sử thế giới hiện đại từ năm 1945 đến năm 2000"
+    },
+    {
+     "bai": 32,
+     "title": "Tổng kết lịch sử Việt Nam từ năm 1919 đến năm 2000",
+     "book": "NXBDG",
+     "raw": "Bài 32: Tổng kết lịch sử Việt Nam từ năm 1919 đến năm 2000"
+    }
+   ]
+  },
+  {
+   "title": "Những chuyển biến mới về kinh tế và xã hội ở Việt Nam sau Chiến tranh thế giới thứ nhất",
+   "lessons": [
+    {
+     "bai": 13,
+     "title": "Những chuyển biến mới về kinh tế và xã hội ở Việt Nam sau Chiến tranh thế giới thứ nhất",
+     "book": "NXBDG",
+     "raw": "Bài 13: Những chuyển biến mới về kinh tế và xã hội ở Việt Nam sau Chiến tranh thế giới thứ nhất"
+    }
+   ]
+  },
+  {
+   "title": "Phong trào dân tộc dân chủ ở Việt Nam từ năm 1919 đến năm 1925",
+   "lessons": [
+    {
+     "bai": 14,
+     "title": "Phong trào dân tộc dân chủ ở Việt Nam từ năm 1919 đến năm 1925",
+     "book": "NXBDG",
+     "raw": "Bài 14: Phong trào dân tộc dân chủ ở Việt Nam từ năm 1919 đến năm 1925"
+    },
+    {
+     "bai": 15,
+     "title": "Phong trào dân tộc dân chủ ở Việt Nam từ năm 1925 đến năm 1930",
+     "book": "NXBDG",
+     "raw": "Bài 15: Phong trào dân tộc dân chủ ở Việt Nam từ năm 1925 đến năm 1930"
+    }
+   ]
+  },
+  {
+   "title": "Phong trào cách mạng 1930 - 1935",
+   "lessons": [
+    {
+     "bai": 16,
+     "title": "Phong trào cách mạng 1930 - 1935",
+     "book": "NXBDG",
+     "raw": "Bài 16: Phong trào cách mạng 1930 - 1935"
+    },
+    {
+     "bai": 17,
+     "title": "Phong trào dân chủ 1936 - 1939",
+     "book": "NXBDG",
+     "raw": "Bài 17: Phong trào dân chủ 1936 - 1939"
+    }
+   ]
+  },
+  {
+   "title": "Phong trào giải phóng dân tộc 1939 - 1945",
+   "lessons": [
+    {
+     "bai": 18,
+     "title": "Phong trào giải phóng dân tộc 1939 - 1945",
+     "book": "NXBDG",
+     "raw": "Bài 18: Phong trào giải phóng dân tộc 1939 - 1945"
+    }
+   ]
+  },
+  {
+   "title": "Cao trào kháng Nhật cứu nước và Tổng khởi nghĩa tháng Tám năm 1945. Nước Việt Nam Dân chủ Cộng hoà ra đời",
+   "lessons": [
+    {
+     "bai": 19,
+     "title": "Cao trào kháng Nhật cứu nước và Tổng khởi nghĩa tháng Tám năm 1945. Nước Việt Nam Dân chủ Cộng hoà ra đời",
+     "book": "NXBDG",
+     "raw": "Bài 19: Cao trào kháng Nhật cứu nước và Tổng khởi nghĩa tháng Tám năm 1945. Nước Việt Nam Dân chủ Cộng hoà ra đời"
+    }
+   ]
+  },
+  {
+   "title": "Nước Việt Nam Dân chủ Cộng hoà từ sau ngày 2 - 9 - 1945 đến trước ngày 19 - 12 - 1946",
+   "lessons": [
+    {
+     "bai": 20,
+     "title": "Nước Việt Nam Dân chủ Cộng hoà từ sau ngày 2 - 9 - 1945 đến trước ngày 19 - 12 - 1946",
+     "book": "NXBDG",
+     "raw": "Bài 20: Nước Việt Nam Dân chủ Cộng hoà từ sau ngày 2 - 9 - 1945 đến trước ngày 19 - 12 - 1946"
+    }
+   ]
+  },
+  {
+   "title": "Miền Bắc thực hiện những nhiệm vụ kinh tế - xã hội, miền Nam đấu tranh chống chế độ Mĩ - Diệm, gìn giữ hoà bình (1954 - 1960)",
+   "lessons": [
+    {
+     "bai": 24,
+     "title": "Miền Bắc thực hiện những nhiệm vụ kinh tế - xã hội, miền Nam đấu tranh chống chế độ Mĩ - Diệm, gìn giữ hoà bình (1954 - 1960)",
+     "book": "NXBDG",
+     "raw": "Bài 24: Miền Bắc thực hiện những nhiệm vụ kinh tế - xã hội, miền Nam đấu tranh chống chế độ Mĩ - Diệm, gìn giữ hoà bình (1954 - 1960)"
+    }
+   ]
+  },
+  {
+   "title": "Xây dựng chủ nghĩa xã hội ở miền Bắc, chiến đấu chống chiến lược \"Chiến tranh đặc biệt\" của đế quốc Mĩ ở miền Nam (1961 - 1965)",
+   "lessons": [
+    {
+     "bai": 25,
+     "title": "Xây dựng chủ nghĩa xã hội ở miền Bắc, chiến đấu chống chiến lược \"Chiến tranh đặc biệt\" của đế quốc Mĩ ở miền Nam (1961 - 1965)",
+     "book": "NXBDG",
+     "raw": "Bài 25: Xây dựng chủ nghĩa xã hội ở miền Bắc, chiến đấu chống chiến lược \"Chiến tranh đặc biệt\" của đế quốc Mĩ ở miền Nam (1961 - 1965)"
+    }
+   ]
+  },
+  {
+   "title": "Chiến đấu chống chiến lược \"Chiến tranh cục bộ\" ở miền Nam và chiến tranh phá hoại miền Bắc lần thứ nhất của đế quốc Mĩ (1965 - 1968)",
+   "lessons": [
+    {
+     "bai": 26,
+     "title": "Chiến đấu chống chiến lược \"Chiến tranh cục bộ\" ở miền Nam và chiến tranh phá hoại miền Bắc lần thứ nhất của đế quốc Mĩ (1965 - 1968)",
+     "book": "NXBDG",
+     "raw": "Bài 26: Chiến đấu chống chiến lược \"Chiến tranh cục bộ\" ở miền Nam và chiến tranh phá hoại miền Bắc lần thứ nhất của đế quốc Mĩ (1965 - 1968)"
+    },
+    {
+     "bai": 27,
+     "title": "Chiến đấu chống chiến lược \"Việt Nam hoá chiến tranh\" ở miền Nam và chiến tranh phá hoại miền Bắc lần thứ hai của đế quốc Mĩ (1969 - 1973)",
+     "book": "NXBDG",
+     "raw": "Bài 27: Chiến đấu chống chiến lược \"Việt Nam hoá chiến tranh\" ở miền Nam và chiến tranh phá hoại miền Bắc lần thứ hai của đế quốc Mĩ (1969 - 1973)"
+    }
+   ]
+  },
+  {
+   "title": "Khôi phục và phát triển kinh tế - xã hội miền Bắc, giải phóng hoàn toàn miền Nam (1973 - 1975)",
+   "lessons": [
+    {
+     "bai": 28,
+     "title": "Khôi phục và phát triển kinh tế - xã hội miền Bắc, giải phóng hoàn toàn miền Nam (1973 - 1975)",
+     "book": "NXBDG",
+     "raw": "Bài 28: Khôi phục và phát triển kinh tế - xã hội miền Bắc, giải phóng hoàn toàn miền Nam (1973 - 1975)"
+    }
+   ]
+  },
+  {
+   "title": "Việt Nam trong năm đầu sau Đại thắng mùa Xuân 1975",
+   "lessons": [
+    {
+     "bai": 29,
+     "title": "Việt Nam trong năm đầu sau Đại thắng mùa Xuân 1975",
+     "book": "NXBDG",
+     "raw": "Bài 29: Việt Nam trong năm đầu sau Đại thắng mùa Xuân 1975"
+    }
+   ]
+  },
+  {
+   "title": "Việt Nam xây dựng chủ nghĩa xã hội và đấu tranh bảo vệ Tổ quốc (1976 - 1986)",
+   "lessons": [
+    {
+     "bai": 30,
+     "title": "Việt Nam xây dựng chủ nghĩa xã hội và đấu tranh bảo vệ Tổ quốc (1976 - 1986)",
+     "book": "NXBDG",
+     "raw": "Bài 30: Việt Nam xây dựng chủ nghĩa xã hội và đấu tranh bảo vệ Tổ quốc (1976 - 1986)"
+    }
+   ]
+  },
+  {
+   "title": "Việt Nam trên đường đổi mới đi lên chủ nghĩa xã hội (1986 - 2000)",
+   "lessons": [
+    {
+     "bai": 31,
+     "title": "Việt Nam trên đường đổi mới đi lên chủ nghĩa xã hội (1986 - 2000)",
+     "book": "NXBDG",
+     "raw": "Bài 31: Việt Nam trên đường đổi mới đi lên chủ nghĩa xã hội (1986 - 2000)"
+    }
+   ]
+  },
+  {
+   "title": "Hoạt động đối ngoại của Việt Nam trong đấu tranh giành độc lập dân tộc (từ đầu thế kỉ XX đến Cách mạng tháng Tám năm 1945)",
+   "lessons": [
+    {
+     "bai": 12,
+     "title": "Hoạt động đối ngoại của Việt Nam trong đấu tranh giành độc lập dân tộc (từ đầu thế kỉ XX đến Cách mạng tháng Tám năm 1945)",
+     "book": "KNTT",
+     "raw": "Bài 12: Hoạt động đối ngoại của Việt Nam trong đấu tranh giành độc lập dân tộc (từ đầu thế kỉ XX đến Cách mạng tháng Tám năm 1945)"
+    },
+    {
+     "bai": 12,
+     "title": "Hoạt động đối ngoại của Việt Nam trong đấu tranh giành độc lập dân tộc (đầu thế kỉ XX đến Cách mạng tháng Tám năm 1945)",
+     "book": "CTST",
+     "raw": "Bài 12: Hoạt động đối ngoại của Việt Nam trong đấu tranh giành độc lập dân tộc (đầu thế kỉ XX đến Cách mạng tháng Tám năm 1945)"
+    }
+   ]
+  },
+  {
+   "title": "Hoạt động đối ngoại của Việt Nam trong kháng chiến chống Pháp (1945 – 1954) và kháng chiến chống Mỹ (1954 – 1975)",
+   "lessons": [
+    {
+     "bai": 13,
+     "title": "Hoạt động đối ngoại của Việt Nam trong kháng chiến chống Pháp (1945 – 1954) và kháng chiến chống Mỹ (1954 – 1975)",
+     "book": "KNTT",
+     "raw": "Bài 13: Hoạt động đối ngoại của Việt Nam trong kháng chiến chống Pháp (1945 – 1954) và kháng chiến chống Mỹ (1954 – 1975)"
+    }
+   ]
+  }
+ ]
+}

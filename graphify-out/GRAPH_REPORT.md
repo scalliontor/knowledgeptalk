@@ -1,16 +1,16 @@
-# Graph Report - Knowledgeforptalk  (2026-07-08)
+# Graph Report - Knowledgeforptalk  (2026-07-14)
 
 ## Corpus Check
-- 280 files · ~736,258 words
+- 281 files · ~639,431 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
-- 1824 nodes · 2395 edges · 200 communities (174 shown, 26 thin omitted)
+- 1846 nodes · 2417 edges · 201 communities (174 shown, 27 thin omitted)
 - Extraction: 94% EXTRACTED · 6% INFERRED · 0% AMBIGUOUS · INFERRED: 149 edges (avg confidence: 0.66)
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
-- Built from commit: `d48e699e`
+- Built from commit: `df85f7bd`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after code changes (no API cost).
 
@@ -187,6 +187,7 @@
 - [[_COMMUNITY_Community 193|Community 193]]
 - [[_COMMUNITY_Community 194|Community 194]]
 - [[_COMMUNITY_Community 195|Community 195]]
+- [[_COMMUNITY_Community 199|Community 199]]
 
 ## God Nodes (most connected - your core abstractions)
 1. `MASTER PLAN — RAG Edu Multi-Subject` - 27 edges
@@ -201,16 +202,16 @@
 10. `GraphRetriever` - 15 edges
 
 ## Surprising Connections (you probably didn't know these)
+- `recite_from_full_document()` --calls--> `lines_payload()`  [INFERRED]
+  packages/retrieval/neo4j_queries.py → apps/companion_api/server.py
+- `recite_from_literature_text()` --calls--> `lines_payload()`  [INFERRED]
+  packages/retrieval/neo4j_queries.py → apps/companion_api/server.py
 - `route_query()` --calls--> `call_gemma()`  [INFERRED]
   packages/knowledge_core/routing.py → apps/companion_api/server.py
 - `Tier A structured + concept short-circuit` --implements--> `rag_server.py (live RAG, prod :8888)`  [INFERRED]
   docs/00_STATE.md → ARCHITECTURE.md
 - `loigiaihay KHTN 6 KNTT category page (c615)` --conceptually_related_to--> `loigiaihay.com (primary crawl source)`  [INFERRED]
   rag_edu/khtn6.html → old/1_khao_sat_nguon.md
-- `recite_from_full_document()` --calls--> `lines_payload()`  [INFERRED]
-  packages/retrieval/neo4j_queries.py → apps/companion_api/server.py
-- `recite_from_literature_text()` --calls--> `lines_payload()`  [INFERRED]
-  packages/retrieval/neo4j_queries.py → apps/companion_api/server.py
 
 ## Import Cycles
 - 1-file cycle: `rag_edu/src/api/main.py -> rag_edu/src/api/main.py`
@@ -224,19 +225,19 @@
 - **Multi-subject ingestion flow (crawl → Postgres → Qdrant → Neo4j)** — old_walkthrough_pipeline_stack, rag_edu_data_sources_three_store_topology, old_1_khao_sat_nguon_loigiaihay_source, rag_edu_data_sources_neo4j_schema_v2 [INFERRED 0.75]
 - **LaTeX preservation + voice-text pipeline for math** — old_7_khao_sat_dac_thu_tung_mon_mathjax_loss, old_8_master_plan_preserve_mathjax, old_8_master_plan_latex_to_speech, old_7_khao_sat_dac_thu_tung_mon_voice_first_formula [INFERRED 0.85]
 
-## Communities (200 total, 26 thin omitted)
+## Communities (201 total, 27 thin omitted)
 
 ### Community 0 - "RAG Edu Retrieval Core"
 Cohesion: 0.06
-Nodes (42): ChatResponse, Enum, QueryClassifier, QueryContext, QueryContext, RetrievedItem, QdrantClient, RetrievedItem (+34 more)
+Nodes (43): ChatResponse, Enum, FastAPI, QueryClassifier, QueryContext, QueryContext, RetrievedItem, QdrantClient (+35 more)
 
 ### Community 1 - "rag_edu FastAPI Service & DB Init"
 Cohesion: 0.12
-Nodes (22): ChatRequest, lifespan(), retrieve_endpoint(), FastAPI, QdrantClient, init_qdrant(), insert_dummy_data(), load_jsonl_to_postgres_and_qdrant() (+14 more)
+Nodes (21): ChatRequest, lifespan(), retrieve_endpoint(), QdrantClient, init_qdrant(), insert_dummy_data(), load_jsonl_to_postgres_and_qdrant(), Post-process crawled JSONL → PostgreSQL + Qdrant Version 2: index ALL content ty (+13 more)
 
 ### Community 2 - "Graph Ingestion Crawler"
-Cohesion: 0.09
-Nodes (28): BaseModel, api_expand_topic(), api_retrieve(), api_retrieve_v2(), call_gemma(), _classify_intent(), _driver_factory(), expand_banned_topic() (+20 more)
+Cohesion: 0.08
+Nodes (31): BaseModel, api_expand_topic(), api_retrieve(), api_retrieve_v2(), call_gemma(), _classify_intent(), _driver_factory(), expand_banned_topic() (+23 more)
 
 ### Community 3 - "Grade-9 Crawler"
 Cohesion: 0.22
@@ -555,12 +556,12 @@ Cohesion: 0.50
 Nodes (4): Checkpoint Phase 7 (FINAL), Deliverables, PHASE 7: Eval Set & A/B Test (5-7 ngày), Tasks
 
 ### Community 118 - "Community 118"
-Cohesion: 0.29
-Nodes (6): Sheet: Auto-check (RAG), Sheet: Báo cáo lỗi, Sheet: Văn - Cấp 1, Sheet: Văn - Cấp 2, Sheet: Văn - Cấp 3, Sheet: Yêu cầu test
+Cohesion: 0.11
+Nodes (17): 0. Trạng thái LIVE (prod :8888), 1.1 `context` — nhận DẠNG bằng MARKER (⚠️ không đồng nhất), 1.2 `intent` — field mới cần biết, 1. HỢP ĐỒNG `retrieve()` — cái mọi consumer phải bám, 2.1 Đã đúng (giữ nguyên), 2.2 ✅ GRADE-ANCHOR (option B) — ĐÃ IMPLEMENT TRONG RAG, KHÔNG cần sửa pipeline, 2. `stt_worker.py` — đã khớp HOÀN TOÀN (grade-anchor tự động qua profile, 0 sửa), 3. `rag_client.py` / `llm_worker.py` / `tts_worker.py` (+9 more)
 
 ### Community 119 - "Community 119"
-Cohesion: 0.33
-Nodes (5): Sheet: Báo cáo lỗi, Sheet: Văn - Cấp 1, Sheet: Văn - Cấp 2, Sheet: Văn - Cấp 3, Sheet: Yêu cầu test
+Cohesion: 0.15
+Nodes (12): 0. Luồng chính CloudPTalk có phải sửa không? → **KHÔNG. Chỉ sửa `rag_server.py`.**, 1. Thiết kế cuối — 1 luật nhất quán (đã chốt sau review 5 lăng kính), 2. Router mở rộng (Gemma `_NORM_SYS`), 3. Thêm gì vào `rag_server.py` (tái tạo bằng `make_canary.py`), 4. Kết quả test canary (`scratchpad/test_canary.py`, mỗi câu 1 session_id riêng), 4b. Adversarial battery (166 tựa thật + 5 nhóm khó, 2026-07-08) — PASS, 5. Vận hành canary, 6. Patch `stt_worker.py` (provenance — HIGH#7) — ĐỂ DÀNH NHỊP RESTART (+4 more)
 
 ### Community 123 - "Community 123"
 Cohesion: 0.22
@@ -583,16 +584,16 @@ Cohesion: 0.11
 Nodes (24): guard_case(), lesson_case(), Unit tests for packages.backtest.metrics (+ a slice of failure_taxonomy).  Run f, test_anchor_at_1_diacritic_fold(), test_anchor_miss_counts(), test_cruft_only_counts_on_emitted_card(), test_errors_excluded_from_anchor(), test_guard_accuracy_pass_and_fail() (+16 more)
 
 ### Community 132 - "Community 132"
-Cohesion: 0.11
-Nodes (21): knowledge_core — pure (IO-free) RAG core extracted from rag_server_canary.py.  B, _fold(), _normalize_book_token(), normalize_text(), Pure text-normalization helpers for the PTalk RAG core.  EXTRACTED VERBATIM from, Lowercase + strip Vietnamese diacritics (self-contained: đ→d + NFD strip; matche, Normalize Vietnamese text for accent-insensitive lookup., unidecode() (+13 more)
+Cohesion: 0.14
+Nodes (15): knowledge_core — pure (IO-free) RAG core extracted from rag_server_canary.py.  B, _normalize_book_token(), normalize_text(), Pure text-normalization helpers for the PTalk RAG core.  EXTRACTED VERBATIM from, Normalize Vietnamese text for accent-insensitive lookup., unidecode(), build_lines_payload_dict(), Recitation payload builder.  ⚠️ DEPENDENCY NOTE (read before using):  The source (+7 more)
 
 ### Community 133 - "Community 133"
 Cohesion: 0.14
 Nodes (26): compare(), _fmt(), _fmt_delta(), _index(), _main(), Diff two backtest runs (before/after) and apply the regression gate.  Pure stdli, render_diff(), Knowledge PTalk backtest toolkit (pure, local, server-free).  Turns the ad-hoc G (+18 more)
 
 ### Community 134 - "Community 134"
-Cohesion: 0.15
-Nodes (18): lines_payload(), Verbatim from monolith; injected into `recite_from_*`., clean_recite_title(), Extract poem/work title from a query-like string., Any, retrieval — IO-bound RAG retrieval layer extracted from rag_server_canary.py.  B, query_neo4j_knowledge_chunk(), query_neo4j_lesson_guide() (+10 more)
+Cohesion: 0.17
+Nodes (15): clean_recite_title(), Extract poem/work title from a query-like string., Any, retrieval — IO-bound RAG retrieval layer extracted from rag_server_canary.py.  B, query_neo4j_knowledge_chunk(), query_neo4j_lesson_guide(), query_neo4j_vector(), Neo4j vector / knowledge-chunk / lesson-guide retrieval + recitation lookups.  E (+7 more)
 
 ### Community 135 - "Community 135"
 Cohesion: 0.25
@@ -767,8 +768,8 @@ Cohesion: 0.83
 Nodes (3): run_full_sweep.sh script, main(), run_one()
 
 ### Community 179 - "Community 179"
-Cohesion: 0.33
-Nodes (6): Any, query_concept_exact(), query_structured_exact(), Tier A structured-first exact lookups (bài/trang + concept-name).  EXTRACTED VER, Tier A-concept: topic-only query (no bai/trang) -> exact lookup by Concept name, Tier A: exact Cypher lookup if structured ref present.
+Cohesion: 0.18
+Nodes (12): _fold(), Lowercase + strip Vietnamese diacritics (self-contained: đ→d + NFD strip; matche, parse_structured_query(), Structured-query parser (Tier A signal extraction).  EXTRACTED VERBATIM from /tm, Extract structured signals từ query + user_profile., Any, Any, query_concept_exact() (+4 more)
 
 ### Community 180 - "Community 180"
 Cohesion: 0.50
@@ -811,24 +812,24 @@ Cohesion: 0.67
 Nodes (3): should_refuse, description, type
 
 ## Knowledge Gaps
-- **650 isolated node(s):** `eval_questions`, `Any`, `Any`, `Any`, `run_api.sh script` (+645 more)
+- **661 isolated node(s):** `eval_questions`, `Any`, `Any`, `Any`, `run_api.sh script` (+656 more)
   These have ≤1 connection - possible missing edges or undocumented components.
-- **26 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
+- **27 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
 
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
 
-- **Why does `FastAPI` connect `rag_edu FastAPI Service & DB Init` to `RAG Edu Retrieval Core`, `Graph Ingestion Crawler`?**
+- **Why does `FastAPI` connect `RAG Edu Retrieval Core` to `rag_edu FastAPI Service & DB Init`, `Graph Ingestion Crawler`?**
   _High betweenness centrality (0.007) - this node is a cross-community bridge._
 - **Why does `RAGOrchestrator` connect `RAG Edu Retrieval Core` to `rag_edu FastAPI Service & DB Init`?**
   _High betweenness centrality (0.006) - this node is a cross-community bridge._
-- **Why does `lines_payload()` connect `Community 134` to `Graph Ingestion Crawler`?**
-  _High betweenness centrality (0.006) - this node is a cross-community bridge._
+- **Why does `lines_payload()` connect `Graph Ingestion Crawler` to `Community 134`?**
+  _High betweenness centrality (0.005) - this node is a cross-community bridge._
 - **Are the 18 inferred relationships involving `RAGOrchestrator` (e.g. with `ChatRequest` and `ChatResponse`) actually correct?**
   _`RAGOrchestrator` has 18 INFERRED edges - model-reasoned connections that need verification._
 - **Are the 16 inferred relationships involving `retrieve()` (e.g. with `parse_structured_query()` and `route_query_rule_based()`) actually correct?**
   _`retrieve()` has 16 INFERRED edges - model-reasoned connections that need verification._
 - **What connects `PTalk applications (thin servers). See docs/refactor/migration-plan.md.`, `Thin companion RAG API. server.py wires knowledge_core + retrieval packages.`, `THIN companion API server — SKELETON for the THIN-SERVER + CORE-IN-REPO refactor` to the rest of the system?**
-  _832 weakly-connected nodes found - possible documentation gaps or missing edges._
+  _843 weakly-connected nodes found - possible documentation gaps or missing edges._
 - **Should `RAG Edu Retrieval Core` be split into smaller, more focused modules?**
-  _Cohesion score 0.05759493670886076 - nodes in this community are weakly interconnected._
+  _Cohesion score 0.056790123456790124 - nodes in this community are weakly interconnected._
