@@ -1,0 +1,1038 @@
+{
+ "grade": 5,
+ "chunk": 1,
+ "cards": [
+  {
+   "name": "Chiến dịch Biên giới thu - đông 1950",
+   "kind": "campaign",
+   "year": 1950,
+   "date_start": "1950-09-16",
+   "date_end": "1950-10-14",
+   "place": "Biên giới Việt - Trung, dọc đường số 4 từ Cao Bằng đến Lạng Sơn",
+   "summary": "Chiến dịch lớn do ta chủ động mở trên tuyến biên giới Việt - Trung mùa thu - đông 1950, mở màn bằng trận Đông Khê, khai thông biên giới và đưa quân ta giành thế chủ động trên chiến trường Bắc Bộ.",
+   "facts": [
+    "Sáng ngày 16/9/1950, quân ta nổ súng tấn công cụm cứ điểm Đông Khê, mở màn chiến dịch Biên giới thu - đông 1950.",
+    "Sau ba ngày chiến đấu ác liệt, ngày 18/9/1950 quân ta chiếm được Đông Khê, khiến quân Pháp trên đường số 4 bị chia cắt và rơi vào thế cô lập.",
+    "Trong chiến dịch Biên giới 1950, Chủ tịch Hồ Chí Minh trực tiếp lên mặt trận để theo dõi và chỉ đạo trận đánh mở màn ở Đông Khê.",
+    "Đại tướng Võ Nguyên Giáp là chỉ huy trưởng của chiến dịch Biên giới thu - đông 1950.",
+    "Đến giữa tháng 10/1950 chiến dịch kết thúc thắng lợi: ta diệt và bắt nhiều tiểu đoàn địch, giải phóng tuyến biên giới dọc đường số 4 từ Cao Bằng về Lạng Sơn.",
+    "Thắng lợi Biên giới thu - đông 1950 khai thông biên giới Việt - Trung, nối liền nước ta với Trung Quốc, Liên Xô và các nước bạn để nhận sự ủng hộ, viện trợ.",
+    "Chính nhờ chiến thắng Biên giới thu - đông 1950 mà quân ta giành được thế chủ động trên chiến trường chính Bắc Bộ, chuyển dần từ đánh du kích sang mở các chiến dịch lớn."
+   ],
+   "actors": [
+    "Hồ Chí Minh",
+    "Võ Nguyên Giáp",
+    "La Văn Cầu"
+   ],
+   "aliases": [
+    "Chiến dịch Biên giới 1950",
+    "Chiến thắng Biên giới thu - đông 1950",
+    "trận Đông Khê 1950"
+   ],
+   "traps": [
+    "Đừng nhầm với chiến dịch Việt Bắc thu - đông 1947: năm 1947 Pháp tấn công lên Việt Bắc và ta phản công; còn Biên giới 1950 là chiến dịch ta CHỦ ĐỘNG mở.",
+    "Trận mở màn chiến dịch là Đông Khê (16/9/1950), không phải Cao Bằng hay Thất Khê.",
+    "Bác Hồ ra mặt trận trong chiến dịch Biên giới 1950, không phải trong chiến dịch Điện Biên Phủ 1954."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 15
+    }
+   ],
+   "topic_title": "Chiến thắng Biên giới thu - đông 1950",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_d%E1%BB%8Bch_Bi%C3%AAn_gi%E1%BB%9Bi"
+   ]
+  },
+  {
+   "name": "La Văn Cầu",
+   "kind": "person",
+   "year": null,
+   "date_start": "1931",
+   "date_end": null,
+   "place": "Trùng Khánh, Cao Bằng",
+   "summary": "Anh hùng quân đội người dân tộc Tày, nổi tiếng với hành động nhờ đồng đội chặt cánh tay bị thương để tiếp tục đánh bộc phá trong trận Đông Khê thuộc chiến dịch Biên giới 1950.",
+   "facts": [
+    "La Văn Cầu sinh năm 1931, là người dân tộc Tày, quê ở huyện Trùng Khánh, tỉnh Cao Bằng.",
+    "Trong trận Đông Khê mở màn chiến dịch Biên giới tháng 9/1950, La Văn Cầu chỉ huy tổ bộc phá đánh vào cứ điểm của Pháp.",
+    "Khi bị đạn địch bắn dập nát một phần cánh tay phải, La Văn Cầu đã nhờ đồng đội chặt đứt cánh tay bị thương để tiếp tục ôm bộc phá phá lô cốt, mở đường cho đơn vị tiến lên.",
+    "Ngày 19/5/1952, La Văn Cầu được Nhà nước phong tặng danh hiệu Anh hùng, là một trong bảy anh hùng đầu tiên được tuyên dương tại Đại hội Chiến sĩ thi đua toàn quốc lần thứ nhất năm 1952."
+   ],
+   "actors": [
+    "La Văn Cầu"
+   ],
+   "aliases": [
+    "anh hùng La Văn Cầu"
+   ],
+   "traps": [
+    "La Văn Cầu lập công trong trận Đông Khê thuộc chiến dịch Biên giới 1950 — không phải ở Điện Biên Phủ 1954 (ở Điện Biên Phủ là Phan Đình Giót, Tô Vĩnh Diện).",
+    "Người nhờ đồng đội chặt cánh tay để tiếp tục chiến đấu là La Văn Cầu; người lấp lỗ châu mai là Phan Đình Giót — hai người khác nhau."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 15
+    }
+   ],
+   "topic_title": "Chiến thắng Biên giới thu - đông 1950",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/La_V%C4%83n_C%E1%BA%A7u",
+    "https://thinhvuongvietnam.com/Content/nhung-ai-duoc-vinh-danh-anh-hung-tai-dai-hoi-thi-dua-yeu-uoc-toan-quoc-lan-dau-tien-12328"
+   ]
+  },
+  {
+   "name": "Đại hội đại biểu toàn quốc lần thứ II của Đảng (1951)",
+   "kind": "event",
+   "year": 1951,
+   "date_start": "1951-02-11",
+   "date_end": "1951-02-19",
+   "place": "Xã Vinh Quang, huyện Chiêm Hoá, tỉnh Tuyên Quang",
+   "summary": "Đại hội Đảng họp tháng 2/1951 tại Chiêm Hoá (Tuyên Quang), quyết định đưa Đảng ra hoạt động công khai với tên Đảng Lao động Việt Nam để lãnh đạo kháng chiến đến thắng lợi.",
+   "facts": [
+    "Đại hội đại biểu toàn quốc lần thứ II của Đảng họp từ ngày 11 đến 19/2/1951 tại xã Vinh Quang, huyện Chiêm Hoá, tỉnh Tuyên Quang, giữa vùng căn cứ Việt Bắc.",
+    "Đại hội II (2/1951) quyết định đưa Đảng ra hoạt động công khai với tên mới là Đảng Lao động Việt Nam.",
+    "Tại Đại hội II năm 1951, Hồ Chí Minh được bầu làm Chủ tịch Đảng, còn Trường Chinh được bầu làm Tổng Bí thư.",
+    "Sau chiến thắng Biên giới 1950, Đại hội II năm 1951 vạch phương hướng đưa cuộc kháng chiến chống Pháp đến thắng lợi hoàn toàn, nên hậu phương càng đẩy mạnh thi đua sản xuất và học tập."
+   ],
+   "actors": [
+    "Hồ Chí Minh",
+    "Trường Chinh"
+   ],
+   "aliases": [
+    "Đại hội II của Đảng",
+    "Đại hội Đảng lần thứ hai năm 1951"
+   ],
+   "traps": [
+    "Tổng Bí thư được bầu tại Đại hội II (1951) là Trường Chinh; còn Tổng Bí thư ĐẦU TIÊN của Đảng là Trần Phú (bầu tháng 10/1930) — không phải Nguyễn Ái Quốc.",
+    "Tên Đảng Lao động Việt Nam có từ Đại hội II (2/1951); khi thành lập ngày 3/2/1930 Đảng mang tên Đảng Cộng sản Việt Nam."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 16
+    }
+   ],
+   "topic_title": "Hậu phương những năm sau chiến dịch Biên giới",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_h%E1%BB%99i_%C4%90%E1%BA%A3ng_C%E1%BB%99ng_s%E1%BA%A3n_Vi%E1%BB%87t_Nam_l%E1%BA%A7n_th%E1%BB%A9_II"
+   ]
+  },
+  {
+   "name": "Đại hội Chiến sĩ thi đua và cán bộ gương mẫu toàn quốc lần thứ nhất (1952)",
+   "kind": "event",
+   "year": 1952,
+   "date_start": "1952-05-01",
+   "date_end": "1952-05-06",
+   "place": "Chiến khu Việt Bắc",
+   "summary": "Đại hội thi đua đầu tiên của cả nước, khai mạc ngày 1/5/1952 tại Việt Bắc, tuyên dương bảy anh hùng tiêu biểu của phong trào thi đua kháng chiến.",
+   "facts": [
+    "Đại hội Chiến sĩ thi đua và cán bộ gương mẫu toàn quốc lần thứ nhất khai mạc ngày 1/5/1952 tại chiến khu Việt Bắc, có Chủ tịch Hồ Chí Minh tới dự.",
+    "Đại hội năm 1952 quy tụ 158 đại biểu tiêu biểu của các ngành công nghiệp, nông nghiệp, quân đội và trí thức, thể hiện sức mạnh hậu phương thi đua chi viện tiền tuyến.",
+    "Đại hội 1952 tuyên dương bảy anh hùng đầu tiên: bốn anh hùng quân đội là Cù Chính Lan (truy tặng), La Văn Cầu, Nguyễn Quốc Trị, Nguyễn Thị Chiên và ba anh hùng lao động là Ngô Gia Khảm, Trần Đại Nghĩa, Hoàng Hanh.",
+    "Nguyễn Thị Chiên trở thành nữ anh hùng quân đội đầu tiên của nước ta khi mới 22 tuổi và được Bác Hồ tặng một khẩu súng ngắn tại Đại hội năm 1952.",
+    "Sau chiến thắng Biên giới 1950, hậu phương ta lớn mạnh về mọi mặt, và Đại hội thi đua 1/5/1952 là dịp tổng kết, biểu dương những tấm gương tiêu biểu của phong trào đó."
+   ],
+   "actors": [
+    "Hồ Chí Minh",
+    "Cù Chính Lan",
+    "La Văn Cầu",
+    "Nguyễn Quốc Trị",
+    "Nguyễn Thị Chiên",
+    "Ngô Gia Khảm",
+    "Trần Đại Nghĩa",
+    "Hoàng Hanh"
+   ],
+   "aliases": [
+    "Đại hội thi đua yêu nước toàn quốc lần thứ nhất",
+    "Đại hội anh hùng chiến sĩ thi đua lần thứ nhất 1952"
+   ],
+   "traps": [
+    "Bảy anh hùng đầu tiên được tuyên dương năm 1952 gồm 4 anh hùng quân đội và 3 anh hùng lao động — không phải tất cả đều là bộ đội.",
+    "Anh hùng Cù Chính Lan được TRUY TẶNG vì đã hy sinh cuối năm 1951, trước khi Đại hội diễn ra."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 16
+    }
+   ],
+   "topic_title": "Hậu phương những năm sau chiến dịch Biên giới",
+   "sources": [
+    "https://binhphuoc.gov.vn/vi/news/tin-noi-bat/cac-ky-dai-hoi-thi-dua-yeu-nuoc-toan-quoc-23327.html",
+    "https://baotanglichsu.vn/VI/Articles/3097/16448/5-1952-dien-ra-djai-hoi-chien-si-thi-djua-va-can-bo-guong-mau-toan-quoc-lan-thu-nhat.html",
+    "https://thinhvuongvietnam.com/Content/nhung-ai-duoc-vinh-danh-anh-hung-tai-dai-hoi-thi-dua-yeu-uoc-toan-quoc-lan-dau-tien-12328"
+   ]
+  },
+  {
+   "name": "Chiến dịch Điện Biên Phủ",
+   "kind": "campaign",
+   "year": 1954,
+   "date_start": "1954-03-13",
+   "date_end": "1954-05-07",
+   "place": "Lòng chảo Điện Biên Phủ (nay thuộc tỉnh Điện Biên)",
+   "summary": "Chiến dịch quyết chiến chiến lược kéo dài 56 ngày đêm (13/3 - 7/5/1954), tiêu diệt tập đoàn cứ điểm mạnh nhất của Pháp ở Điện Biên Phủ, buộc Pháp phải ký Hiệp định Giơ-ne-vơ chấm dứt chiến tranh.",
+   "facts": [
+    "Chiến dịch Điện Biên Phủ diễn ra từ ngày 13/3 đến ngày 7/5/1954, tổng cộng 56 ngày đêm, chia làm ba đợt tấn công.",
+    "Đại tướng Võ Nguyên Giáp là Tư lệnh chiến dịch Điện Biên Phủ, còn chỉ huy quân Pháp ở tập đoàn cứ điểm là tướng Đờ Ca-xtơ-ri (De Castries).",
+    "Ngày 13/3/1954, quân ta mở màn chiến dịch bằng trận tiêu diệt cứ điểm Him Lam; trong trận này anh Phan Đình Giót đã lấy thân mình lấp lỗ châu mai để đồng đội xông lên.",
+    "Trước ngày mở màn, ngày 1/2/1954, anh Tô Vĩnh Diện đã lấy thân mình chèn khẩu pháo cao xạ đang lao xuống vực khi kéo pháo vào trận địa và anh dũng hy sinh.",
+    "Chiều ngày 7/5/1954, quân ta đánh chiếm sở chỉ huy địch, tướng Đờ Ca-xtơ-ri cùng toàn bộ bộ chỉ huy tập đoàn cứ điểm Điện Biên Phủ bị bắt sống, lá cờ Quyết chiến Quyết thắng tung bay trên nóc hầm.",
+    "Trong chiến dịch Điện Biên Phủ, hơn 11.700 quân Pháp bị bắt làm tù binh — thất bại nặng nề nhất của Pháp trong cuộc chiến tranh Đông Dương.",
+    "Chính chiến thắng Điện Biên Phủ ngày 7/5/1954 đã buộc thực dân Pháp phải ký Hiệp định Giơ-ne-vơ (21/7/1954), chấm dứt chiến tranh, kết thúc thắng lợi chín năm kháng chiến chống Pháp."
+   ],
+   "actors": [
+    "Võ Nguyên Giáp",
+    "Đờ Ca-xtơ-ri (De Castries)",
+    "Phan Đình Giót",
+    "Tô Vĩnh Diện",
+    "Hồ Chí Minh"
+   ],
+   "aliases": [
+    "Chiến thắng lịch sử Điện Biên Phủ",
+    "trận Điện Biên Phủ 1954",
+    "chiến thắng Điện Biên Phủ 7/5/1954"
+   ],
+   "traps": [
+    "KHÔNG nhầm với 'Điện Biên Phủ trên không': đó là 12 ngày đêm đánh máy bay B-52 trên bầu trời Hà Nội cuối tháng 12/1972, còn chiến dịch Điện Biên Phủ là trận đánh trên mặt đất năm 1954.",
+    "Chiến dịch kết thúc ngày 7/5/1954; Hiệp định Giơ-ne-vơ ký sau đó ngày 21/7/1954 — hai mốc khác nhau, đừng gộp làm một.",
+    "Tướng Đờ Ca-xtơ-ri bị BẮT SỐNG chứ không bị tiêu diệt.",
+    "Phan Đình Giót lấp lỗ châu mai, Tô Vĩnh Diện chèn pháo, La Văn Cầu chặt cánh tay (ở Đông Khê 1950) — ba chiến công của ba người khác nhau."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 17
+    }
+   ],
+   "topic_title": "Chiến thắng lịch sử Điện Biên Phủ",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_d%E1%BB%8Bch_%C4%90i%E1%BB%87n_Bi%C3%AAn_Ph%E1%BB%A7",
+    "https://chinhsachcuocsong.vnanet.vn/70-nam-chien-thang-dien-bien-phu-thang-5-tren-que-huong-anh-hung-phan-dinh-giot/38140.html",
+    "https://vi.wikipedia.org/wiki/T%C3%B4_V%C4%A9nh_Di%E1%BB%87n"
+   ]
+  },
+  {
+   "name": "Chiến thắng \"Điện Biên Phủ trên không\"",
+   "kind": "campaign",
+   "year": 1972,
+   "date_start": "1972-12-18",
+   "date_end": "1972-12-30",
+   "place": "Bầu trời Hà Nội, Hải Phòng và một số nơi ở miền Bắc",
+   "summary": "Trận quyết chiến 12 ngày đêm cuối tháng 12/1972 khi quân dân miền Bắc, nòng cốt là Hà Nội, đánh bại cuộc tập kích bằng máy bay B-52 của Mỹ, buộc Mỹ phải ký Hiệp định Pa-ri đầu năm 1973.",
+   "facts": [
+    "Từ ngày 18 đến 30/12/1972, đế quốc Mỹ dùng máy bay ném bom chiến lược B-52 đánh phá dữ dội Hà Nội, Hải Phòng và một số nơi ở miền Bắc suốt 12 ngày đêm.",
+    "Đêm 26/12/1972, bom B-52 rải thảm xuống phố Khâm Thiên (Hà Nội), phá sập hàng nghìn ngôi nhà và làm gần 300 người dân thiệt mạng.",
+    "Ngày 22/12/1972, bom Mỹ rơi trúng Bệnh viện Bạch Mai ở Hà Nội khi trong viện còn hàng trăm bệnh nhân đang điều trị.",
+    "Trong 12 ngày đêm cuối năm 1972, theo công bố của Việt Nam, quân dân miền Bắc đã bắn rơi 34 máy bay B-52, trong đó 16 chiếc rơi tại chỗ — điều chưa nước nào làm được trước đó.",
+    "Thắng lợi vang dội này được ví như một trận 'Điện Biên Phủ trên không' vì tầm vóc của nó ngang chiến thắng Điện Biên Phủ năm 1954.",
+    "Chính thất bại trong trận 'Điện Biên Phủ trên không' cuối tháng 12/1972 đã buộc Mỹ phải ngừng ném bom miền Bắc, nối lại đàm phán và ký Hiệp định Pa-ri ngày 27/1/1973."
+   ],
+   "actors": [
+    "quân dân Hà Nội",
+    "bộ đội tên lửa - phòng không - không quân Việt Nam"
+   ],
+   "aliases": [
+    "Điện Biên Phủ trên không",
+    "Hà Nội - Điện Biên Phủ trên không",
+    "chiến dịch Lai-nơ-bếch-cơ II",
+    "Linebacker II",
+    "12 ngày đêm cuối năm 1972"
+   ],
+   "traps": [
+    "'Điện Biên Phủ trên không' diễn ra CUỐI NĂM 1972 (18 - 30/12/1972), KHÔNG phải năm 1973 — năm 1973 chỉ là năm ký Hiệp định Pa-ri sau chiến thắng này.",
+    "Trận này đánh trên bầu trời HÀ NỘI và miền Bắc, hoàn toàn không diễn ra ở Điện Biên Phủ; tên gọi chỉ là cách ví thắng lợi to lớn như chiến thắng Điện Biên Phủ 1954.",
+    "Đừng lẫn với chiến dịch Điện Biên Phủ 13/3 - 7/5/1954 đánh quân Pháp — 'Điện Biên Phủ trên không' 1972 là đánh máy bay B-52 của Mỹ."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 24
+    }
+   ],
+   "topic_title": "Chiến thắng lịch sử Điện Biên Phủ",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_d%E1%BB%8Bch_Linebacker_II",
+    "https://vi.wikipedia.org/wiki/V%E1%BB%A5_n%C3%A9m_bom_ph%E1%BB%91_Kh%C3%A2m_Thi%C3%AAn",
+    "https://laodongthudo.vn/ky-uc-dau-thuong-o-benh-vien-bach-mai-nhung-ngay-dien-bien-phu-tren-khong-150162.html"
+   ]
+  },
+  {
+   "name": "Võ Nguyên Giáp",
+   "kind": "person",
+   "year": null,
+   "date_start": "1911-08-25",
+   "date_end": "2013-10-04",
+   "place": "Lệ Thủy, Quảng Bình",
+   "summary": "Đại tướng đầu tiên của Quân đội nhân dân Việt Nam, Tổng tư lệnh trong kháng chiến chống Pháp, người chỉ huy làm nên chiến thắng Điện Biên Phủ năm 1954.",
+   "facts": [
+    "Võ Nguyên Giáp sinh ngày 25/8/1911 tại làng An Xá, huyện Lệ Thủy, tỉnh Quảng Bình.",
+    "Năm 1948, khi mới 37 tuổi, Võ Nguyên Giáp được phong quân hàm Đại tướng, trở thành Đại tướng đầu tiên của Quân đội nhân dân Việt Nam.",
+    "Võ Nguyên Giáp là chỉ huy trưởng chiến dịch Biên giới 1950 và là Tư lệnh chiến dịch Điện Biên Phủ 1954.",
+    "Trước trận Điện Biên Phủ đầu năm 1954, Đại tướng Võ Nguyên Giáp quyết định chuyển phương châm từ 'đánh nhanh, thắng nhanh' sang 'đánh chắc, tiến chắc' — quyết định then chốt góp phần làm nên chiến thắng 7/5/1954.",
+    "Đại tướng Võ Nguyên Giáp qua đời ngày 4/10/2013 tại Hà Nội, thọ 102 tuổi, và được an táng tại quê hương Quảng Bình."
+   ],
+   "actors": [
+    "Võ Nguyên Giáp"
+   ],
+   "aliases": [
+    "Đại tướng Võ Nguyên Giáp",
+    "Tổng tư lệnh Võ Nguyên Giáp"
+   ],
+   "traps": [
+    "Người chỉ huy chiến dịch Điện Biên Phủ 1954 là Võ Nguyên Giáp; còn Tư lệnh chiến dịch Hồ Chí Minh 1975 là Đại tướng Văn Tiến Dũng — đừng nhầm hai vị tướng.",
+    "Võ Nguyên Giáp là Đại tướng ĐẦU TIÊN của Quân đội nhân dân Việt Nam (phong năm 1948)."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 17
+    }
+   ],
+   "topic_title": "Chiến thắng lịch sử Điện Biên Phủ",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/V%C3%B5_Nguy%C3%AAn_Gi%C3%A1p"
+   ]
+  },
+  {
+   "name": "Phan Đình Giót",
+   "kind": "person",
+   "year": null,
+   "date_start": "1922",
+   "date_end": "1954-03-13",
+   "place": "Cẩm Xuyên, Hà Tĩnh",
+   "summary": "Anh hùng quân đội hy sinh ngay đêm mở màn chiến dịch Điện Biên Phủ khi lấy thân mình lấp lỗ châu mai ở cứ điểm Him Lam.",
+   "facts": [
+    "Phan Đình Giót sinh năm 1922 trong một gia đình nghèo ở làng Tam Quang, huyện Cẩm Xuyên, tỉnh Hà Tĩnh, và vào bộ đội chủ lực năm 1950.",
+    "Trong trận mở màn chiến dịch Điện Biên Phủ đánh cứ điểm Him Lam ngày 13/3/1954, Phan Đình Giót đã lấy thân mình lấp lỗ châu mai, dập tắt hỏa điểm địch để đồng đội xông lên tiêu diệt cứ điểm.",
+    "Phan Đình Giót hy sinh vào đêm 13/3/1954, đúng ngày mở màn chiến dịch Điện Biên Phủ, và trở thành biểu tượng 'lấy thân mình lấp lỗ châu mai' của bộ đội ta."
+   ],
+   "actors": [
+    "Phan Đình Giót"
+   ],
+   "aliases": [
+    "anh hùng Phan Đình Giót",
+    "người lấp lỗ châu mai"
+   ],
+   "traps": [
+    "Phan Đình Giót lấp lỗ châu mai ở Him Lam (Điện Biên Phủ, 13/3/1954); đừng nhầm với Tô Vĩnh Diện là người lấy thân chèn pháo (1/2/1954) hay La Văn Cầu chặt cánh tay ở Đông Khê (1950)."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 17
+    }
+   ],
+   "topic_title": "Chiến thắng lịch sử Điện Biên Phủ",
+   "sources": [
+    "https://nguoikesu.com/nhan-vat/phan-dinh-giot",
+    "https://chinhsachcuocsong.vnanet.vn/70-nam-chien-thang-dien-bien-phu-thang-5-tren-que-huong-anh-hung-phan-dinh-giot/38140.html"
+   ]
+  },
+  {
+   "name": "Kháng chiến chống thực dân Pháp (1945 - 1954)",
+   "kind": "period",
+   "year": null,
+   "date_start": "1945",
+   "date_end": "1954",
+   "place": "Cả nước Việt Nam",
+   "summary": "Chín năm cả nước kháng chiến chống thực dân Pháp quay lại xâm lược, từ lời kêu gọi toàn quốc kháng chiến cuối năm 1946 đến chiến thắng Điện Biên Phủ và Hiệp định Giơ-ne-vơ năm 1954.",
+   "facts": [
+    "Ngày 19/12/1946, hưởng ứng lời kêu gọi của Chủ tịch Hồ Chí Minh, cả nước ta nhất tề đứng lên tiến hành cuộc kháng chiến toàn quốc chống thực dân Pháp.",
+    "Thu - đông năm 1947, quân dân ta đánh bại cuộc tấn công quy mô lớn của Pháp lên căn cứ địa Việt Bắc, bảo vệ an toàn cơ quan đầu não kháng chiến.",
+    "Thu - đông năm 1950, ta chủ động mở chiến dịch Biên giới (16/9 - giữa tháng 10/1950), khai thông biên giới Việt - Trung và giành thế chủ động trên chiến trường.",
+    "Tháng 2/1951, Đại hội lần thứ II của Đảng họp ở Tuyên Quang, đưa Đảng ra hoạt động công khai với tên Đảng Lao động Việt Nam để lãnh đạo kháng chiến; ngày 1/5/1952 Đại hội Chiến sĩ thi đua toàn quốc lần thứ nhất biểu dương lực lượng hậu phương.",
+    "Từ 13/3 đến 7/5/1954, quân ta tiêu diệt toàn bộ tập đoàn cứ điểm Điện Biên Phủ — trận thắng quyết định của chín năm kháng chiến.",
+    "Vì thất bại ở Điện Biên Phủ, thực dân Pháp phải ký Hiệp định Giơ-ne-vơ ngày 21/7/1954, chấm dứt chiến tranh, kết thúc thắng lợi chín năm kháng chiến (1945 - 1954)."
+   ],
+   "actors": [
+    "Hồ Chí Minh",
+    "Võ Nguyên Giáp"
+   ],
+   "aliases": [
+    "chín năm kháng chiến",
+    "kháng chiến chống Pháp",
+    "9 năm kháng chiến bảo vệ độc lập dân tộc"
+   ],
+   "traps": [
+    "Thứ tự đúng các mốc lớn: toàn quốc kháng chiến 19/12/1946 → Việt Bắc thu - đông 1947 → Biên giới thu - đông 1950 → Điện Biên Phủ 13/3 - 7/5/1954 → Hiệp định Giơ-ne-vơ 21/7/1954.",
+    "Việt Bắc 1947 là ta PHẢN CÔNG khi Pháp tấn công lên căn cứ địa; Biên giới 1950 là ta CHỦ ĐỘNG tiến công — hai chiến dịch khác tính chất.",
+    "Chín năm kháng chiến tính từ 1945 (Pháp quay lại xâm lược) đến 1954, không phải từ 1946."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 18
+    }
+   ],
+   "topic_title": "Ôn tập: Chín năm kháng chiến bảo vệ độc lập dân tộc (1945 - 1954)",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_d%E1%BB%8Bch_Bi%C3%AAn_gi%E1%BB%9Bi",
+    "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_d%E1%BB%8Bch_%C4%90i%E1%BB%87n_Bi%C3%AAn_Ph%E1%BB%A7",
+    "http://quocphongthudo.vn/xa-hoi/chang-duong-lich-su-va-thang-loi-vi-dai-cua-nuoc-ta-tu-1945-.html"
+   ]
+  },
+  {
+   "name": "Hiệp định Giơ-ne-vơ 1954",
+   "kind": "treaty",
+   "year": 1954,
+   "date_start": "1954-07-21",
+   "date_end": null,
+   "place": "Giơ-ne-vơ (Genève), Thụy Sĩ",
+   "summary": "Hiệp định chấm dứt chiến tranh ở Đông Dương ký tháng 7/1954, lấy vĩ tuyến 17 (sông Bến Hải) làm giới tuyến quân sự tạm thời; do Mỹ - Diệm phá hoại tổng tuyển cử, đất nước bị chia cắt lâu dài.",
+   "facts": [
+    "Hiệp định Giơ-ne-vơ về chấm dứt chiến tranh ở Đông Dương được ký kết tại Giơ-ne-vơ (Thụy Sĩ); văn kiện đình chỉ chiến sự ở Việt Nam ký vào đêm 20 rạng ngày 21/7/1954, nên mốc thường ghi là 21/7/1954.",
+    "Chính chiến thắng Điện Biên Phủ ngày 7/5/1954 đã buộc thực dân Pháp phải ngồi vào bàn đàm phán và ký Hiệp định Giơ-ne-vơ.",
+    "Theo Hiệp định Giơ-ne-vơ 1954, sông Bến Hải ở vĩ tuyến 17 (tỉnh Quảng Trị) được chọn làm giới tuyến quân sự tạm thời: quân ta tập kết ra Bắc, quân Pháp rút vào Nam rồi rút khỏi Việt Nam.",
+    "Hiệp định Giơ-ne-vơ quy định đến tháng 7/1956 hai miền sẽ tổng tuyển cử tự do để thống nhất đất nước, và ghi rõ giới tuyến chỉ là tạm thời, không phải biên giới chính trị hay lãnh thổ.",
+    "Vì Mỹ và chính quyền Ngô Đình Diệm ở miền Nam từ chối hiệp thương, phá hoại tổng tuyển cử, nước ta bị chia cắt thành hai miền suốt hơn 20 năm (1954 - 1975)."
+   ],
+   "actors": [
+    "phái đoàn Việt Nam Dân chủ Cộng hòa",
+    "Pháp",
+    "Ngô Đình Diệm"
+   ],
+   "aliases": [
+    "Hiệp định Genève",
+    "Hiệp định Giơnevơ",
+    "Hiệp định Giơ-ne-vơ về Đông Dương"
+   ],
+   "traps": [
+    "Giới tuyến tạm thời là VĨ TUYẾN 17 (sông Bến Hải, Quảng Trị) — không phải vĩ tuyến 16 hay vĩ tuyến 38 (vĩ tuyến 38 là ở Triều Tiên).",
+    "Hiệp định Giơ-ne-vơ 1954 kết thúc chiến tranh với PHÁP; Hiệp định Pa-ri 1973 mới là hiệp định buộc MỸ rút quân — hai hiệp định khác nhau.",
+    "Một số tài liệu ghi ngày ký 20/7/1954 (văn kiện đình chiến), sách giáo khoa lấy mốc 21/7/1954 — cùng một sự kiện.",
+    "Tổng tuyển cử dự kiến tháng 7/1956 KHÔNG diễn ra do Mỹ - Diệm phá hoại, chứ không phải do miền Bắc từ chối."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 19
+    }
+   ],
+   "topic_title": "Nước nhà bị chia cắt",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Hi%E1%BB%87p_%C4%91%E1%BB%8Bnh_Gen%C3%A8ve_1954",
+    "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Hi%E1%BB%81n_L%C6%B0%C6%A1ng"
+   ]
+  },
+  {
+   "name": "Cầu Hiền Lương - sông Bến Hải",
+   "kind": "place",
+   "year": null,
+   "date_start": "1954",
+   "date_end": "1975",
+   "place": "Vĩnh Linh, Quảng Trị",
+   "summary": "Cây cầu bắc qua sông Bến Hải ở vĩ tuyến 17 (Quảng Trị), trở thành ranh giới chia cắt hai miền Nam - Bắc từ 1954 đến 1975 và là biểu tượng nỗi đau chia cắt đất nước.",
+   "facts": [
+    "Cầu Hiền Lương bắc qua sông Bến Hải ở vĩ tuyến 17, thuộc huyện Vĩnh Linh, tỉnh Quảng Trị.",
+    "Sau Hiệp định Giơ-ne-vơ tháng 7/1954, sông Bến Hải và cầu Hiền Lương trở thành giới tuyến quân sự tạm thời chia đất nước thành hai miền suốt 1954 - 1975.",
+    "Trong những năm chia cắt, đôi bờ Hiền Lương diễn ra các cuộc 'đấu cờ', 'đấu loa', 'đấu sơn màu cầu' giữa hai miền, thể hiện khát vọng thống nhất của nhân dân.",
+    "Ở miền Nam sau 1954, chính quyền Ngô Đình Diệm thực hiện chính sách 'tố cộng, diệt cộng' và ban hành Luật 10/59 (ngày 6/5/1959) lập tòa án quân sự đặc biệt, dùng cả máy chém đàn áp những người yêu nước.",
+    "Ngày nay, cụm di tích đôi bờ Hiền Lương - Bến Hải ở Quảng Trị là di tích lịch sử quốc gia, nhắc nhở về thời kỳ đất nước bị chia cắt."
+   ],
+   "actors": [
+    "Ngô Đình Diệm"
+   ],
+   "aliases": [
+    "vĩ tuyến 17",
+    "sông Bến Hải",
+    "giới tuyến quân sự tạm thời",
+    "đôi bờ Hiền Lương"
+   ],
+   "traps": [
+    "Cầu Hiền Lương bắc qua sông BẾN HẢI ở Quảng Trị — không phải sông Thạch Hãn hay sông Gianh.",
+    "Giới tuyến vĩ tuyến 17 chỉ là TẠM THỜI theo Hiệp định Giơ-ne-vơ, nhưng do Mỹ - Diệm phá hoại tổng tuyển cử nên nước ta bị chia cắt hơn 20 năm."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 19
+    }
+   ],
+   "topic_title": "Nước nhà bị chia cắt",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/C%E1%BA%A7u_Hi%E1%BB%81n_L%C6%B0%C6%A1ng",
+    "https://baotangdanang.vn/dao-luat-10-59-cua-chinh-quyen-viet-nam-cong-hoa-va-chiec-may-chem-gay-toi-ac.html"
+   ]
+  },
+  {
+   "name": "Phong trào Đồng khởi Bến Tre",
+   "kind": "movement",
+   "year": 1960,
+   "date_start": "1960-01-17",
+   "date_end": "1960",
+   "place": "Huyện Mỏ Cày, tỉnh Bến Tre",
+   "summary": "Cuộc nổi dậy đồng loạt của nhân dân Bến Tre bùng nổ ngày 17/1/1960, mở đầu phong trào Đồng khởi lan khắp miền Nam và dẫn tới sự ra đời của Mặt trận Dân tộc Giải phóng miền Nam Việt Nam.",
+   "facts": [
+    "Do chính quyền Mỹ - Diệm khủng bố tàn bạo, nhất là sau Luật 10/59 lê máy chém khắp miền Nam, nhân dân miền Nam không còn con đường nào khác ngoài vùng lên đấu tranh — đó là nguyên nhân bùng nổ Đồng khởi.",
+    "Ngày 17/1/1960, nhân dân ba xã Định Thủy, Phước Hiệp, Bình Khánh thuộc huyện Mỏ Cày, tỉnh Bến Tre đồng loạt nổi dậy, mở đầu phong trào Đồng khởi.",
+    "Bà Nguyễn Thị Định là một trong những người lãnh đạo, trực tiếp chỉ đạo cuộc Đồng khởi ở Bến Tre ngày 17/1/1960.",
+    "Từ Bến Tre, trong năm 1960 phong trào Đồng khởi lan nhanh khắp miền Nam, làm tan rã bộ máy chính quyền cơ sở của địch ở hàng nghìn xã.",
+    "Trong Đồng khởi Bến Tre, hàng nghìn phụ nữ được tổ chức thành 'đội quân tóc dài' nổi tiếng, đấu tranh chính trị trực diện với địch.",
+    "Thắng lợi của phong trào Đồng khởi năm 1960 dẫn tới sự ra đời của Mặt trận Dân tộc Giải phóng miền Nam Việt Nam ngày 20/12/1960."
+   ],
+   "actors": [
+    "Nguyễn Thị Định",
+    "nhân dân Bến Tre"
+   ],
+   "aliases": [
+    "Bến Tre đồng khởi",
+    "Đồng khởi 1960",
+    "phong trào Đồng khởi"
+   ],
+   "traps": [
+    "Đồng khởi Bến Tre nổ ra ngày 17/1/1960 — không phải năm 1959; Nghị quyết 15 của Đảng (đầu năm 1959) là tiền đề cho phong trào.",
+    "Người lãnh đạo Đồng khởi Bến Tre là bà Nguyễn Thị Định — đừng nhầm với bà Nguyễn Thị Bình (người ký Hiệp định Pa-ri 1973).",
+    "Nhân - quả đúng chiều: Mỹ - Diệm khủng bố (Luật 10/59) LÀM BÙNG NỔ Đồng khởi, và Đồng khởi thắng lợi DẪN TỚI Mặt trận Dân tộc Giải phóng miền Nam ra đời 20/12/1960."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 20
+    }
+   ],
+   "topic_title": "Bến Tre đồng khởi",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Phong_tr%C3%A0o_%C4%90%E1%BB%93ng_kh%E1%BB%9Fi",
+    "https://www.vietnamplus.vn/60-nam-phong-trao-dong-khoi-huyen-thoai-doi-quan-toc-dai-ben-tre-post618978.vnp"
+   ]
+  },
+  {
+   "name": "Nguyễn Thị Định",
+   "kind": "person",
+   "year": null,
+   "date_start": "1920-03-15",
+   "date_end": "1992-08-26",
+   "place": "Xã Lương Hòa, tỉnh Bến Tre",
+   "summary": "Nữ tướng quê Bến Tre, người chỉ đạo cuộc Đồng khởi 17/1/1960, linh hồn của 'đội quân tóc dài' và là nữ Thiếu tướng đầu tiên của Quân đội nhân dân Việt Nam.",
+   "facts": [
+    "Nguyễn Thị Định sinh ngày 15/3/1920 tại xã Lương Hòa, tỉnh Bến Tre.",
+    "Ngày 17/1/1960, bà Nguyễn Thị Định trực tiếp chỉ đạo cuộc Đồng khởi ở ba xã của huyện Mỏ Cày, mở đầu phong trào Đồng khởi Bến Tre.",
+    "Bà Nguyễn Thị Định là linh hồn của 'đội quân tóc dài' — lực lượng hàng nghìn phụ nữ Bến Tre đấu tranh chính trị ra đời trong phong trào Đồng khởi năm 1960.",
+    "Năm 1965, bà Nguyễn Thị Định làm Phó Tư lệnh Quân Giải phóng miền Nam Việt Nam, và năm 1974 bà được phong Thiếu tướng — nữ tướng đầu tiên của Quân đội nhân dân Việt Nam.",
+    "Sau ngày thống nhất, bà Nguyễn Thị Định làm Chủ tịch Hội Liên hiệp Phụ nữ Việt Nam và Phó Chủ tịch Hội đồng Nhà nước (1987 - 1992); bà mất ngày 26/8/1992."
+   ],
+   "actors": [
+    "Nguyễn Thị Định"
+   ],
+   "aliases": [
+    "bà Ba Định",
+    "nữ tướng Nguyễn Thị Định"
+   ],
+   "traps": [
+    "Nữ tướng của Đồng khởi Bến Tre là Nguyễn Thị Định; người phụ nữ ký Hiệp định Pa-ri 1973 là Nguyễn Thị Bình — hai người khác nhau.",
+    "Nữ Thiếu tướng ĐẦU TIÊN của Quân đội nhân dân Việt Nam là Nguyễn Thị Định (phong năm 1974)."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 20
+    }
+   ],
+   "topic_title": "Bến Tre đồng khởi",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Nguy%E1%BB%85n_Th%E1%BB%8B_%C4%90%E1%BB%8Bnh",
+    "https://tienphong.vn/nu-tuong-nguyen-thi-dinh-linh-hon-cua-doi-quan-toc-dai-huyen-thoai-post1725222.tpo"
+   ]
+  },
+  {
+   "name": "Nhà máy Cơ khí Hà Nội",
+   "kind": "org",
+   "year": 1958,
+   "date_start": "1955-12-15",
+   "date_end": null,
+   "place": "Hà Nội",
+   "summary": "Nhà máy hiện đại đầu tiên của nước ta, được Liên Xô giúp xây dựng từ cuối năm 1955 và khánh thành ngày 12/4/1958, chuyên chế tạo máy công cụ cho công cuộc xây dựng miền Bắc.",
+   "facts": [
+    "Sau năm 1954, miền Bắc bước vào xây dựng chủ nghĩa xã hội để làm hậu phương lớn cho miền Nam, và Nhà máy Cơ khí Hà Nội ra đời trong bối cảnh đó.",
+    "Tháng 12/1955, với sự giúp đỡ của Liên Xô, Nhà máy Cơ khí Hà Nội được khởi công xây dựng.",
+    "Sau gần ba năm xây dựng, ngày 12/4/1958 Nhà máy Cơ khí Hà Nội khánh thành — đây là nhà máy hiện đại đầu tiên của nước ta.",
+    "Nhà máy Cơ khí Hà Nội chuyên sản xuất máy công cụ như máy tiện, máy phay, máy khoan phục vụ công cuộc xây dựng đất nước, được coi là 'con chim đầu đàn' của ngành cơ khí Việt Nam.",
+    "Nhà máy Cơ khí Hà Nội vinh dự được 9 lần đón Bác Hồ về thăm — điều cho thấy Đảng và Bác rất quan tâm đến ngành công nghiệp non trẻ."
+   ],
+   "actors": [
+    "Hồ Chí Minh",
+    "chuyên gia Liên Xô",
+    "công nhân Hà Nội"
+   ],
+   "aliases": [
+    "nhà máy hiện đại đầu tiên của nước ta",
+    "Công ty Cơ khí Hà Nội",
+    "Hameco"
+   ],
+   "traps": [
+    "Nhà máy hiện đại ĐẦU TIÊN của nước ta là Nhà máy Cơ khí Hà Nội (khánh thành 12/4/1958) — đừng nhầm với Nhà máy Thủy điện Hòa Bình (mãi 1979 mới khởi công).",
+    "Nước giúp ta xây Nhà máy Cơ khí Hà Nội là LIÊN XÔ, không phải Trung Quốc."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 21
+    }
+   ],
+   "topic_title": "Nhà máy hiện đại đầu tiên của nước ta",
+   "sources": [
+    "https://congthuong.vn/ngay-nay-nam-xua-124-khanh-thanh-nha-may-may-co-khi-ha-noi-thiet-lap-ngoai-giao-voi-cong-hoa-phap-249901.html",
+    "https://vndoc.com/giai-bai-tap-sgk-lich-su-5-bai-21-nha-may-hien-dai-dau-tien-cua-nuoc-ta-4269"
+   ]
+  },
+  {
+   "name": "Đường Trường Sơn",
+   "kind": "place",
+   "year": 1959,
+   "date_start": "1959-05-19",
+   "date_end": "1975",
+   "place": "Dãy Trường Sơn, nối miền Bắc với chiến trường miền Nam",
+   "summary": "Tuyến chi viện chiến lược mở ngày 19/5/1959 dọc dãy Trường Sơn, còn gọi là đường Hồ Chí Minh, đưa sức người sức của từ miền Bắc vào miền Nam suốt kháng chiến chống Mỹ.",
+   "facts": [
+    "Ngày 19/5/1959, Trung ương quyết định mở đường Trường Sơn và thành lập Đoàn 559 do Thượng tá Võ Bẩm chỉ huy để vận chuyển chi viện cho miền Nam.",
+    "Vì ra đời đúng ngày 19/5/1959 — sinh nhật Bác Hồ — nên tuyến đường Trường Sơn còn được gọi là đường Hồ Chí Minh, và đơn vị phụ trách mang phiên hiệu Đoàn 559.",
+    "Đường Trường Sơn có nhiệm vụ đưa bộ đội, vũ khí, lương thực, thuốc men từ hậu phương miền Bắc vào chiến trường miền Nam.",
+    "Trong 16 năm hoạt động (1959 - 1975), tuyến đường Trường Sơn đã vận chuyển hơn 1 triệu tấn hàng hóa và hơn 2 triệu lượt bộ đội, cán bộ vào Nam ra Bắc.",
+    "Nhờ tuyến chi viện chiến lược Trường Sơn, miền Bắc làm tròn vai trò hậu phương lớn, góp phần quyết định để miền Nam đánh thắng đế quốc Mỹ.",
+    "Máy bay Mỹ đánh phá đường Trường Sơn vô cùng ác liệt, nhưng bộ đội và thanh niên xung phong vẫn giữ cho tuyến đường thông suốt suốt cuộc kháng chiến."
+   ],
+   "actors": [
+    "Đoàn 559",
+    "Võ Bẩm",
+    "bộ đội Trường Sơn",
+    "thanh niên xung phong"
+   ],
+   "aliases": [
+    "đường Hồ Chí Minh",
+    "đường mòn Hồ Chí Minh",
+    "đường 559",
+    "tuyến chi viện chiến lược Trường Sơn"
+   ],
+   "traps": [
+    "Đường Trường Sơn mở ngày 19/5/1959 — trùng sinh nhật Bác Hồ nên mang tên đường Hồ Chí Minh; đừng nhớ nhầm sang năm 1954 hay 1960.",
+    "Đường Trường Sơn trên bộ khác với đường Hồ Chí Minh TRÊN BIỂN (tuyến vận tải bằng tàu thuyền dọc Biển Đông) — hai tuyến chi viện khác nhau."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 22
+    }
+   ],
+   "topic_title": "Đường Trường Sơn",
+   "sources": [
+    "http://baotanglichsu.vn/vi/Articles/3097/16370/19-5-1959-thanh-lap-djoan-559-mo-djuong-truong-son-djuong-mon-ho-chi-minh-chi-vien-cho-mien-nam.html",
+    "https://vi.wikipedia.org/wiki/%C4%90%C6%B0%E1%BB%9Dng_Tr%C6%B0%E1%BB%9Dng_S%C6%A1n"
+   ]
+  },
+  {
+   "name": "Tổng tiến công và nổi dậy Tết Mậu Thân 1968",
+   "kind": "campaign",
+   "year": 1968,
+   "date_start": "1968-01-30",
+   "date_end": "1968",
+   "place": "Các thành phố, thị xã khắp miền Nam Việt Nam",
+   "summary": "Cuộc tổng tiến công bất ngờ vào đêm giao thừa Tết Mậu Thân (đêm 30 rạng 31/1/1968) đánh vào hầu khắp các thành phố miền Nam, làm lung lay ý chí xâm lược của Mỹ và buộc Mỹ phải đàm phán ở Pa-ri.",
+   "facts": [
+    "Đêm 30 rạng ngày 31/1/1968 — đúng đêm giao thừa Tết Mậu Thân — quân giải phóng đồng loạt tổng tiến công và nổi dậy ở hầu khắp các thành phố, thị xã miền Nam.",
+    "Trong Tết Mậu Thân 1968, quân giải phóng tấn công 6 thành phố lớn và hàng chục thị xã; tại Sài Gòn, các mục tiêu đầu não bị đánh gồm Đại sứ quán Mỹ, Dinh Độc Lập, Đài phát thanh, Bộ Tổng tham mưu và sân bay Tân Sơn Nhất.",
+    "Trận đánh táo bạo vào Đại sứ quán Mỹ ở Sài Gòn rạng sáng 31/1/1968 gây chấn động dư luận nước Mỹ và thế giới.",
+    "Do lịch âm hai miền lệch nhau một ngày, một số địa phương ở khu 5 đã nổ súng sớm hơn một đêm so với kế hoạch chung của Tết Mậu Thân 1968.",
+    "Cuộc Tổng tiến công Tết Mậu Thân 1968 làm lung lay ý chí xâm lược của Mỹ: Tổng thống Giôn-xơn phải tuyên bố ngừng ném bom miền Bắc, chấp nhận ngồi vào bàn đàm phán ở Pa-ri và không ra tranh cử tổng thống nữa.",
+    "Sau Mậu Thân 1968, cuộc kháng chiến chống Mỹ chuyển sang giai đoạn mới 'vừa đánh vừa đàm', kéo dài đến khi Hiệp định Pa-ri được ký năm 1973."
+   ],
+   "actors": [
+    "quân giải phóng miền Nam",
+    "Tổng thống Mỹ Giôn-xơn (Johnson)"
+   ],
+   "aliases": [
+    "Tết Mậu Thân",
+    "Mậu Thân 1968",
+    "sấm sét đêm giao thừa",
+    "Tổng tiến công và nổi dậy Xuân Mậu Thân 1968"
+   ],
+   "traps": [
+    "'Sấm sét đêm giao thừa' là cách gọi cuộc Tổng tiến công Tết Mậu Thân NĂM 1968 — không phải 1965 hay 1972.",
+    "Mậu Thân 1968 buộc Mỹ NGỒI VÀO ĐÀM PHÁN ở Pa-ri (bắt đầu 1968), nhưng Hiệp định Pa-ri mãi ngày 27/1/1973 mới được ký — hai mốc khác nhau.",
+    "Đánh dịp Tết còn có trận Quang Trung đại phá quân Thanh Tết Kỷ Dậu 1789 — đừng lẫn hai sự kiện cách nhau gần 180 năm."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 23
+    }
+   ],
+   "topic_title": "Sấm sét đêm giao thừa",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/S%E1%BB%B1_ki%E1%BB%87n_T%E1%BA%BFt_M%E1%BA%ADu_Th%C3%A2n"
+   ]
+  },
+  {
+   "name": "Hiệp định Pa-ri về Việt Nam 1973",
+   "kind": "treaty",
+   "year": 1973,
+   "date_start": "1973-01-27",
+   "date_end": null,
+   "place": "Pa-ri (Paris), Pháp",
+   "summary": "Hiệp định ký ngày 27/1/1973 tại Pa-ri, buộc Mỹ cam kết chấm dứt chiến tranh, rút hết quân khỏi Việt Nam và tôn trọng độc lập, chủ quyền, thống nhất, toàn vẹn lãnh thổ của Việt Nam.",
+   "facts": [
+    "Hiệp định Pa-ri về chấm dứt chiến tranh, lập lại hòa bình ở Việt Nam được ký ngày 27/1/1973 tại Pa-ri, thủ đô nước Pháp.",
+    "Hiệp định Pa-ri là kết quả của gần 5 năm đàm phán gay go từ năm 1968 đến đầu năm 1973, trong đó cố vấn Lê Đức Thọ đàm phán trực tiếp với Kít-xinh-giơ (Kissinger) của Mỹ.",
+    "Bốn bên ký Hiệp định Pa-ri ngày 27/1/1973: Việt Nam Dân chủ Cộng hòa (Nguyễn Duy Trinh), Chính phủ Cách mạng lâm thời Cộng hòa miền Nam Việt Nam (bà Nguyễn Thị Bình), Hoa Kỳ (William Rogers) và chính quyền Sài Gòn (Trần Văn Lắm).",
+    "Theo Hiệp định Pa-ri 1973, Mỹ cam kết chấm dứt chiến tranh, rút hết quân đội khỏi Việt Nam và tôn trọng độc lập, chủ quyền, thống nhất, toàn vẹn lãnh thổ của Việt Nam.",
+    "Chính thất bại 'Điện Biên Phủ trên không' cuối tháng 12/1972 đã buộc Mỹ phải quay lại bàn đàm phán và ký Hiệp định Pa-ri ngày 27/1/1973.",
+    "Năm 1973, Lê Đức Thọ được trao giải Nobel Hòa bình cùng Kissinger nhưng ông từ chối nhận, vì cho rằng hòa bình chưa thực sự lập lại ở Việt Nam.",
+    "Hiệp định Pa-ri buộc Mỹ rút quân, làm thay đổi hẳn so sánh lực lượng ở miền Nam, tạo điều kiện để quân dân ta tiến tới giải phóng hoàn toàn miền Nam mùa xuân 1975."
+   ],
+   "actors": [
+    "Lê Đức Thọ",
+    "Nguyễn Duy Trinh",
+    "Nguyễn Thị Bình",
+    "Kít-xinh-giơ (Henry Kissinger)",
+    "William Rogers",
+    "Trần Văn Lắm"
+   ],
+   "aliases": [
+    "Hiệp định Paris",
+    "Hiệp định Pa-ri",
+    "Lễ ký Hiệp định Pa-ri",
+    "Paris Peace Accords"
+   ],
+   "traps": [
+    "Hiệp định Pa-ri ký ngày 27/1/1973 tại PA-RI (Pháp) — không phải ở Hà Nội và không phải năm 1972.",
+    "Hiệp định Pa-ri 1973 (Mỹ rút quân) khác Hiệp định Giơ-ne-vơ 1954 (kết thúc chiến tranh với Pháp) — đừng lẫn hai hiệp định.",
+    "Người phụ nữ ký Hiệp định Pa-ri là bà Nguyễn Thị Bình (Chính phủ Cách mạng lâm thời) — không phải nữ tướng Nguyễn Thị Định."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 25
+    }
+   ],
+   "topic_title": "Lễ kí Hiệp định Pa-ri",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Hi%E1%BB%87p_%C4%91%E1%BB%8Bnh_Paris_1973"
+   ]
+  },
+  {
+   "name": "Chiến dịch Hồ Chí Minh",
+   "kind": "campaign",
+   "year": 1975,
+   "date_start": "1975-04-26",
+   "date_end": "1975-04-30",
+   "place": "Sài Gòn - Gia Định",
+   "summary": "Chiến dịch quyết chiến cuối cùng (26 - 30/4/1975) với năm cánh quân tiến vào Sài Gòn; trưa 30/4/1975 xe tăng ta húc đổ cổng Dinh Độc Lập, giải phóng hoàn toàn miền Nam.",
+   "facts": [
+    "Chiến dịch giải phóng Sài Gòn - Gia Định được mang tên Chiến dịch Hồ Chí Minh, diễn ra từ ngày 26 đến 30/4/1975.",
+    "Đại tướng Văn Tiến Dũng là Tư lệnh Chiến dịch Hồ Chí Minh, chỉ huy năm cánh quân từ năm hướng cùng tiến vào Sài Gòn.",
+    "Trưa ngày 30/4/1975, xe tăng 843 do Đại đội trưởng Bùi Quang Thận chỉ huy húc vào cổng phụ Dinh Độc Lập và bị kẹt lại; ngay sau đó xe tăng 390 do Chính trị viên Vũ Đăng Toàn chỉ huy húc đổ cổng chính, tiến thẳng vào sân Dinh.",
+    "Bùi Quang Thận là người cắm lá cờ cách mạng trên nóc Dinh Độc Lập; lúc 11 giờ 30 phút ngày 30/4/1975, lá cờ tung bay báo hiệu Sài Gòn hoàn toàn giải phóng.",
+    "Ngày 30/4/1975, Tổng thống cuối cùng của chính quyền Sài Gòn là Dương Văn Minh tuyên bố đầu hàng vô điều kiện.",
+    "Chiến dịch Hồ Chí Minh toàn thắng ngày 30/4/1975 đã kết thúc cuộc kháng chiến chống Mỹ cứu nước, non sông thu về một mối, mở đường cho việc thống nhất đất nước về mặt nhà nước năm 1976."
+   ],
+   "actors": [
+    "Văn Tiến Dũng",
+    "Bùi Quang Thận",
+    "Vũ Đăng Toàn",
+    "Dương Văn Minh"
+   ],
+   "aliases": [
+    "giải phóng Sài Gòn",
+    "ngày 30 tháng 4",
+    "giải phóng miền Nam 30/4/1975",
+    "tiến vào Dinh Độc Lập"
+   ],
+   "traps": [
+    "Xe tăng húc đổ cổng CHÍNH Dinh Độc Lập là xe 390 (Vũ Đăng Toàn chỉ huy); xe 843 của Bùi Quang Thận húc cổng phụ và bị kẹt — nhưng chính Bùi Quang Thận là người cắm cờ trên nóc Dinh.",
+    "Tư lệnh Chiến dịch Hồ Chí Minh là Văn Tiến Dũng — không phải Võ Nguyên Giáp (Võ Nguyên Giáp chỉ huy Điện Biên Phủ 1954).",
+    "30/4/1975 là ngày giải phóng miền Nam; còn việc đổi tên nước thành Cộng hòa xã hội chủ nghĩa Việt Nam là ngày 2/7/1976 — hai mốc khác nhau."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 26
+    }
+   ],
+   "topic_title": "Tiến vào Dinh Độc Lập",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_d%E1%BB%8Bch_H%E1%BB%93_Ch%C3%AD_Minh",
+    "https://baocaobang.vn/ong-vu-dang-toan-nguoi-chi-huy-xe-tang-390-huc-do-cong-dinh-doc-lap-3176641.html"
+   ]
+  },
+  {
+   "name": "Dinh Độc Lập",
+   "kind": "place",
+   "year": null,
+   "date_start": null,
+   "date_end": null,
+   "place": "135 Nam Kỳ Khởi Nghĩa, Thành phố Hồ Chí Minh",
+   "summary": "Tòa dinh thự ở trung tâm Sài Gòn, nơi làm việc của tổng thống chính quyền Sài Gòn, chứng kiến giờ phút lịch sử trưa 30/4/1975; nay là di tích Hội trường Thống Nhất.",
+   "facts": [
+    "Dinh Độc Lập nằm ở trung tâm Thành phố Hồ Chí Minh, được xây trên nền Dinh Norodom thời Pháp thuộc.",
+    "Tòa nhà Dinh Độc Lập hiện nay do kiến trúc sư Ngô Viết Thụ thiết kế và hoàn thành ngày 31/10/1966.",
+    "Trước năm 1975, Dinh Độc Lập là nơi ở và làm việc của tổng thống chính quyền Sài Gòn.",
+    "Trưa ngày 30/4/1975, xe tăng quân giải phóng húc đổ cổng Dinh Độc Lập; đến 11 giờ 30 phút cùng ngày, lá cờ cách mạng tung bay trên nóc Dinh, đánh dấu miền Nam hoàn toàn giải phóng.",
+    "Ngày nay Dinh Độc Lập do Hội trường Thống Nhất quản lý và được xếp hạng di tích quốc gia đặc biệt từ năm 2009."
+   ],
+   "actors": [
+    "Ngô Viết Thụ"
+   ],
+   "aliases": [
+    "Hội trường Thống Nhất",
+    "Dinh Norodom",
+    "Dinh Thống Nhất"
+   ],
+   "traps": [
+    "Dinh Độc Lập và Hội trường Thống Nhất là CÙNG MỘT nơi — tên gọi trước và sau 1975.",
+    "Dinh Độc Lập ở Thành phố Hồ Chí Minh — đừng nhầm với Phủ Chủ tịch ở Hà Nội."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 26
+    }
+   ],
+   "topic_title": "Tiến vào Dinh Độc Lập",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Dinh_%C4%90%E1%BB%99c_L%E1%BA%ADp"
+   ]
+  },
+  {
+   "name": "Tổng tuyển cử bầu Quốc hội chung 25/4/1976",
+   "kind": "event",
+   "year": 1976,
+   "date_start": "1976-04-25",
+   "date_end": "1976-07-02",
+   "place": "Cả nước Việt Nam",
+   "summary": "Cuộc tổng tuyển cử ngày 25/4/1976 bầu Quốc hội chung của cả nước (khóa VI); kỳ họp đầu tiên của Quốc hội này quyết định tên nước, quốc kỳ, quốc ca và hoàn thành thống nhất đất nước về mặt nhà nước.",
+   "facts": [
+    "Ngày 25/4/1976, hơn 23 triệu cử tri cả nước (đạt tỷ lệ 98,77%) đi bỏ phiếu bầu Quốc hội chung của nước Việt Nam thống nhất — Quốc hội khóa VI — với 492 đại biểu trúng cử.",
+    "Kỳ họp thứ nhất của Quốc hội khóa VI khai mạc ngày 24/6/1976 tại Hà Nội để quyết định những vấn đề trọng đại của đất nước thống nhất.",
+    "Ngày 2/7/1976, Quốc hội khóa VI quyết định đổi tên nước Việt Nam Dân chủ Cộng hòa thành nước Cộng hòa xã hội chủ nghĩa Việt Nam.",
+    "Quốc hội khóa VI năm 1976 quyết định Quốc kỳ là lá cờ đỏ sao vàng, Quốc ca là bài Tiến quân ca, thủ đô là Hà Nội, và chính thức đặt tên Thành phố Hồ Chí Minh cho thành phố Sài Gòn - Gia Định.",
+    "Sau đại thắng 30/4/1975 non sông đã liền một dải, nên cuộc Tổng tuyển cử 25/4/1976 chính là bước hoàn thành thống nhất đất nước về mặt nhà nước."
+   ],
+   "actors": [
+    "cử tri cả nước",
+    "Quốc hội khóa VI"
+   ],
+   "aliases": [
+    "Tổng tuyển cử 1976",
+    "bầu cử Quốc hội khóa VI",
+    "Quốc hội của nước Việt Nam thống nhất"
+   ],
+   "traps": [
+    "Tổng tuyển cử ĐẦU TIÊN của nước ta là ngày 6/1/1946; còn 25/4/1976 là tổng tuyển cử đầu tiên của nước Việt Nam THỐNG NHẤT (bầu Quốc hội khóa VI).",
+    "Tên nước Cộng hòa xã hội chủ nghĩa Việt Nam có từ ngày 2/7/1976 — không phải ngay ngày 30/4/1975.",
+    "Sài Gòn - Gia Định được Quốc hội khóa VI chính thức đổi tên thành Thành phố Hồ Chí Minh vào năm 1976."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 27
+    }
+   ],
+   "topic_title": "Hoàn thành thống nhất đất nước",
+   "sources": [
+    "https://baocaobang.vn/-36503.html",
+    "https://baophapluat.vn/271976-quoc-hoi-khoa-vi-quyet-dinh-doi-ten-thanh-nuoc-chxhcn-viet-nam-post43508.html"
+   ]
+  },
+  {
+   "name": "Nhà máy Thủy điện Hòa Bình",
+   "kind": "org",
+   "year": null,
+   "date_start": "1979-11-06",
+   "date_end": "1994-12-20",
+   "place": "Sông Đà, thành phố Hòa Bình (nay thuộc tỉnh Phú Thọ)",
+   "summary": "Công trình thủy điện lớn trên sông Đà do Liên Xô giúp xây dựng, khởi công năm 1979 và khánh thành năm 1994, từng là nhà máy thủy điện lớn nhất Việt Nam và Đông Nam Á.",
+   "facts": [
+    "Ngày 6/11/1979, Nhà máy Thủy điện Hòa Bình được khởi công xây dựng trên sông Đà, với sự giúp đỡ to lớn của Liên Xô.",
+    "Sau 9 năm thi công, ngày 30/12/1988 tổ máy đầu tiên của Thủy điện Hòa Bình bắt đầu phát điện.",
+    "Ngày 20/12/1994, Nhà máy Thủy điện Hòa Bình khánh thành với 8 tổ máy, tổng công suất 1.920 MW.",
+    "Từ năm 1994 đến 2012, Thủy điện Hòa Bình là nhà máy thủy điện lớn nhất Việt Nam và Đông Nam Á, cho đến khi Thủy điện Sơn La hoàn thành năm 2012.",
+    "Thủy điện Hòa Bình có vai trò chống lũ cho đồng bằng sông Hồng, cung cấp điện cho cả nước (có thời kỳ khoảng một phần tư sản lượng điện quốc gia) và cấp nước tưới cho sản xuất.",
+    "Trong quá trình xây dựng công trình Thủy điện Hòa Bình (1979 - 1994), 168 người, cả cán bộ công nhân Việt Nam và chuyên gia Liên Xô, đã hy sinh."
+   ],
+   "actors": [
+    "công nhân Việt Nam",
+    "chuyên gia Liên Xô"
+   ],
+   "aliases": [
+    "Thủy điện Hòa Bình",
+    "công trình thủy điện sông Đà"
+   ],
+   "traps": [
+    "Thủy điện Hòa Bình xây trên SÔNG ĐÀ — không phải sông Hồng hay sông Mã.",
+    "Nhà máy HIỆN ĐẠI đầu tiên của nước ta là Nhà máy Cơ khí Hà Nội (1958); Thủy điện Hòa Bình (1979 - 1994) là công trình thủy điện lớn thời kỳ sau thống nhất — đừng lẫn hai nhà máy.",
+    "Hòa Bình chỉ là thủy điện lớn nhất Đông Nam Á ĐẾN NĂM 2012, khi Thủy điện Sơn La vượt qua."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 28
+    }
+   ],
+   "topic_title": "Xây dựng Nhà máy Thuỷ điện Hoà Bình",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Nh%C3%A0_m%C3%A1y_th%E1%BB%A7y_%C4%91i%E1%BB%87n_H%C3%B2a_B%C3%ACnh"
+   ]
+  },
+  {
+   "name": "Các mốc lớn của lịch sử Việt Nam từ năm 1858 đến nay",
+   "kind": "concept",
+   "year": null,
+   "date_start": "1858",
+   "date_end": null,
+   "place": "Việt Nam",
+   "summary": "Chuỗi mốc son xuyên suốt chương trình Lịch sử lớp 5: từ khi Pháp nổ súng xâm lược năm 1858 đến khi đất nước thống nhất và xây dựng lại sau năm 1975.",
+   "facts": [
+    "Ngày 1/9/1858, liên quân Pháp - Tây Ban Nha nổ súng tấn công Đà Nẵng, mở đầu cuộc xâm lược của thực dân Pháp đối với nước ta.",
+    "Ngày 3/2/1930, Đảng Cộng sản Việt Nam ra đời, từ đó lãnh đạo nhân dân ta đấu tranh giành độc lập.",
+    "Tháng 8/1945, Cách mạng tháng Tám thành công (Hà Nội giành chính quyền ngày 19/8/1945), và ngày 2/9/1945 Chủ tịch Hồ Chí Minh đọc Tuyên ngôn Độc lập tại Quảng trường Ba Đình, khai sinh nước Việt Nam Dân chủ Cộng hòa.",
+    "Ngày 19/12/1946, toàn quốc kháng chiến chống thực dân Pháp bùng nổ, và chín năm sau, chiến thắng Điện Biên Phủ 7/5/1954 cùng Hiệp định Giơ-ne-vơ 21/7/1954 kết thúc thắng lợi cuộc kháng chiến chống Pháp.",
+    "Sau năm 1954 đất nước bị chia cắt ở vĩ tuyến 17; nhân dân ta kháng chiến chống Mỹ với các mốc lớn: Đồng khởi 17/1/1960, Tết Mậu Thân 1968, 'Điện Biên Phủ trên không' 12/1972 và Hiệp định Pa-ri 27/1/1973.",
+    "Ngày 30/4/1975 Chiến dịch Hồ Chí Minh toàn thắng, giải phóng hoàn toàn miền Nam; ngày 25/4/1976 cả nước tổng tuyển cử bầu Quốc hội chung, và ngày 2/7/1976 nước ta mang tên Cộng hòa xã hội chủ nghĩa Việt Nam.",
+    "Sau thống nhất, cả nước bước vào xây dựng đất nước với những công trình lớn như Nhà máy Thủy điện Hòa Bình (khởi công 6/11/1979, khánh thành 20/12/1994)."
+   ],
+   "actors": [
+    "Hồ Chí Minh",
+    "Đảng Cộng sản Việt Nam",
+    "nhân dân Việt Nam"
+   ],
+   "aliases": [
+    "lịch sử Việt Nam từ giữa thế kỷ XIX đến nay",
+    "các mốc son lịch sử cận - hiện đại Việt Nam"
+   ],
+   "traps": [
+    "Pháp bắt đầu xâm lược nước ta ngày 1/9/1858 tại ĐÀ NẴNG — không phải ở Sài Gòn hay Huế.",
+    "Ngày 2/9/1945 là ngày đọc Tuyên ngôn Độc lập; ngày 19/8/1945 là ngày Hà Nội giành chính quyền — hai mốc khác nhau trong Cách mạng tháng Tám.",
+    "Chuỗi nhân - quả đúng chiều: Điện Biên Phủ 1954 buộc Pháp ký Giơ-ne-vơ; 'Điện Biên Phủ trên không' 1972 buộc Mỹ ký Pa-ri 1973; Hiệp định Pa-ri tạo điều kiện cho đại thắng 30/4/1975."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 29
+    }
+   ],
+   "topic_title": "Ôn tập: Lịch sử nước ta từ giữa thế kỉ XIX đến nay",
+   "sources": [
+    "https://danang.gov.vn/chi-tiet?id=2962&_c=36",
+    "http://quocphongthudo.vn/xa-hoi/chang-duong-lich-su-va-thang-loi-vi-dai-cua-nuoc-ta-tu-1945-.html",
+    "https://hoilhpn.org.vn/tin-chi-tiet/-/chi-tiet/nhung-thanh-tuu-noi-bat-75-nam-nuoc-cong-hoa-xhcn-viet-nam-34950-4535.html"
+   ]
+  },
+  {
+   "name": "Trần Phú",
+   "kind": "person",
+   "year": null,
+   "date_start": "1904-05-01",
+   "date_end": "1931-09-06",
+   "place": "Quê Đức Thọ, Hà Tĩnh (sinh tại Phú Yên)",
+   "summary": "Tổng Bí thư đầu tiên của Đảng, người soạn thảo Luận cương chính trị tháng 10/1930, hy sinh trong nhà tù thực dân năm 1931 khi mới 27 tuổi.",
+   "facts": [
+    "Trần Phú sinh ngày 1/5/1904, quê gốc ở huyện Đức Thọ, tỉnh Hà Tĩnh, nhưng sinh ra tại Phú Yên.",
+    "Tại Hội nghị Ban Chấp hành Trung ương tháng 10/1930, Trần Phú được bầu làm Tổng Bí thư — ông là Tổng Bí thư ĐẦU TIÊN của Đảng.",
+    "Trần Phú là người soạn thảo Luận cương chính trị được Hội nghị Trung ương tháng 10/1930 thông qua.",
+    "Bị thực dân Pháp bắt tháng 4/1931 tại Sài Gòn, Trần Phú hy sinh trong tù ngày 6/9/1931 khi mới 27 tuổi, để lại lời nhắn nổi tiếng 'Hãy giữ vững chí khí chiến đấu'."
+   ],
+   "actors": [
+    "Trần Phú"
+   ],
+   "aliases": [
+    "Tổng Bí thư Trần Phú",
+    "Tổng Bí thư đầu tiên của Đảng"
+   ],
+   "traps": [
+    "Tổng Bí thư ĐẦU TIÊN của Đảng là TRẦN PHÚ (bầu tháng 10/1930) — KHÔNG phải Nguyễn Ái Quốc; Nguyễn Ái Quốc là người chủ trì hội nghị thành lập Đảng ngày 3/2/1930 nhưng không giữ chức Tổng Bí thư lúc đó.",
+    "Luận cương chính trị tháng 10/1930 do Trần Phú soạn thảo — khác với Chính cương vắn tắt do Nguyễn Ái Quốc soạn đầu năm 1930."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 29
+    }
+   ],
+   "topic_title": "Ôn tập: Lịch sử nước ta từ giữa thế kỉ XIX đến nay",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Tr%E1%BA%A7n_Ph%C3%BA"
+   ]
+  },
+  {
+   "name": "Nguyễn Trung Trực",
+   "kind": "person",
+   "year": null,
+   "date_start": "1838",
+   "date_end": "1868-10-27",
+   "place": "Làng Bình Nhựt, phủ Tân An, Gia Định (nay thuộc tỉnh Tây Ninh)",
+   "summary": "Thủ lĩnh nghĩa quân chống Pháp ở Nam Kỳ, nổi tiếng với chiến công đốt tàu Hy Vọng trên sông Nhật Tảo và câu nói bất hủ về ý chí đánh Tây của người dân nước Nam.",
+   "facts": [
+    "Nguyễn Trung Trực sinh năm 1838 ở làng Bình Nhựt, phủ Tân An, tỉnh Gia Định, là thủ lĩnh nghĩa quân chống Pháp ở Nam Kỳ nửa cuối thế kỷ XIX.",
+    "Năm 1861, Nguyễn Trung Trực chỉ huy nghĩa quân đốt cháy tàu chiến Hy Vọng (L'Espérance) của Pháp trên vàm sông Nhật Tảo (sông Vàm Cỏ Đông) — chiến công vang dội khắp Nam Kỳ.",
+    "Tháng 6/1868, Nguyễn Trung Trực chỉ huy nghĩa quân đánh chiếm đồn Kiên Giang (Rạch Giá), tiêu diệt nhiều sĩ quan và binh lính Pháp.",
+    "Ngày 27/10/1868, Nguyễn Trung Trực bị thực dân Pháp xử chém tại Rạch Giá khi mới 30 tuổi.",
+    "Trước khi hy sinh năm 1868, Nguyễn Trung Trực để lại câu nói bất hủ: 'Bao giờ người Tây nhổ hết cỏ nước Nam thì mới hết người Nam đánh Tây'.",
+    "Nhân dân Nam Bộ tôn Nguyễn Trung Trực làm anh hùng dân tộc và lập đền thờ ông ở nhiều nơi, nhất là vùng đồng bằng sông Cửu Long."
+   ],
+   "actors": [
+    "Nguyễn Trung Trực"
+   ],
+   "aliases": [
+    "Quản Chơn",
+    "Quản Lịch",
+    "anh hùng Nguyễn Trung Trực"
+   ],
+   "traps": [
+    "Câu 'Bao giờ người Tây nhổ hết cỏ nước Nam thì mới hết người Nam đánh Tây' là của NGUYỄN TRUNG TRỰC — KHÔNG phải Phan Bội Châu (Phan Bội Châu là lãnh tụ phong trào Đông du đầu thế kỷ XX).",
+    "Nguyễn Trung Trực đốt tàu Hy Vọng trên sông NHẬT TẢO (Vàm Cỏ Đông) năm 1861 — đừng nhầm với trận Rạch Giá năm 1868 là trận đánh đồn.",
+    "Nguyễn Trung Trực chống PHÁP ở Nam Kỳ thế kỷ XIX — cùng thời với Trương Định, không thuộc thời chống Mỹ."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 29
+    }
+   ],
+   "topic_title": "Ôn tập: Lịch sử nước ta từ giữa thế kỉ XIX đến nay",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Nguy%E1%BB%85n_Trung_Tr%E1%BB%B1c"
+   ]
+  },
+  {
+   "name": "Dục Đức",
+   "kind": "person",
+   "year": null,
+   "date_start": "1852",
+   "date_end": "1883",
+   "place": "Huế",
+   "summary": "Vị vua thứ năm của triều Nguyễn, chỉ ở ngôi 3 ngày trong tháng 7/1883 — thời gian trị vì ngắn nhất trong các vua triều Nguyễn — trước khi bị hai phụ chính đại thần phế truất.",
+   "facts": [
+    "Dục Đức tên thật là Nguyễn Phúc Ưng Chân, sinh năm 1852, là vị vua thứ năm của triều Nguyễn.",
+    "Sau khi vua Tự Đức mất, Dục Đức lên ngôi tháng 7/1883 nhưng chỉ ở ngôi được 3 ngày — thời gian trị vì ngắn nhất trong 13 vua triều Nguyễn.",
+    "Dục Đức bị hai phụ chính đại thần Nguyễn Văn Tường và Tôn Thất Thuyết phế truất ngay tháng 7/1883.",
+    "Sau khi bị phế năm 1883, Dục Đức bị giam trong ngục và chết vì bị bỏ đói.",
+    "Việc phế lập vua liên tiếp năm 1883 cho thấy triều đình Huế rối ren khi thực dân Pháp đang từng bước thôn tính nước ta."
+   ],
+   "actors": [
+    "Dục Đức (Nguyễn Phúc Ưng Chân)",
+    "Nguyễn Văn Tường",
+    "Tôn Thất Thuyết"
+   ],
+   "aliases": [
+    "Nguyễn Phúc Ưng Chân",
+    "Nguyễn Phúc Ưng Ái",
+    "vua Dục Đức"
+   ],
+   "traps": [
+    "Vua ở ngôi NGẮN NHẤT triều Nguyễn (và lịch sử Việt Nam) là DỤC ĐỨC — chỉ 3 ngày năm 1883; KHÔNG phải Lê Hiến Tông.",
+    "Người phế truất Dục Đức là hai phụ chính đại thần Nguyễn Văn Tường và Tôn Thất Thuyết — không phải thực dân Pháp trực tiếp làm.",
+    "Tôn Thất Thuyết sau này chính là người lãnh đạo cuộc phản công ở kinh thành Huế (1885) — cùng một nhân vật xuất hiện ở hai sự kiện."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 29
+    }
+   ],
+   "topic_title": "Ôn tập: Lịch sử nước ta từ giữa thế kỉ XIX đến nay",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/D%E1%BB%A5c_%C4%90%E1%BB%A9c"
+   ]
+  }
+ ]
+}

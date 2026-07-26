@@ -1,0 +1,1016 @@
+{
+ "grade": 6,
+ "chunk": 1,
+ "cards": [
+  {
+   "name": "Thành Cổ Loa",
+   "kind": "place",
+   "summary": "Kinh đô kiêm căn cứ quân sự của nước Âu Lạc do An Dương Vương xây ở Đông Anh (Hà Nội) vào thế kỉ III TCN, nổi tiếng với ba vòng thành xoáy trôn ốc.",
+   "facts": [
+    "Thành Cổ Loa được An Dương Vương cho xây vào khoảng thế kỉ III TCN tại vùng Phong Khê, nay thuộc huyện Đông Anh, Hà Nội, để làm kinh đô của nước Âu Lạc.",
+    "Theo dấu tích khảo cổ, Cổ Loa có ba vòng thành khép kín đắp bằng đất: vòng ngoài dài hơn 8 km, vòng giữa khoảng 6,5 km, vòng trong khoảng 1,6 km, bên ngoài các vòng đều có hào nước bao quanh.",
+    "Vì các vòng thành uốn lượn như hình xoáy trôn ốc nên dân gian gọi Cổ Loa là Loa thành.",
+    "Các cuộc khai quật ở Cổ Loa tìm thấy hàng vạn mũi tên đồng cùng lưỡi cày, rìu đồng, cho thấy đây vừa là kinh đô vừa là một căn cứ quân sự lớn của nước Âu Lạc.",
+    "Cổ Loa nằm ở đỉnh đồng bằng sông Hồng, nối với sông Hoàng, nên kiểm soát được cả đường thủy lẫn đường bộ của vùng Bắc Bộ thời đó.",
+    "Hơn một nghìn năm sau, năm 939 Ngô Quyền lại chọn Cổ Loa làm kinh đô của nhà Ngô, và năm 2012 khu di tích Cổ Loa được xếp hạng di tích quốc gia đặc biệt."
+   ],
+   "traps": [
+    "Cổ Loa là kinh đô của nước ÂU LẠC (và sau này của nhà Ngô từ năm 939), KHÔNG phải kinh đô của nước Văn Lang — kinh đô Văn Lang là Phong Châu (Phú Thọ).",
+    "Truyền thuyết kể thành có 9 vòng xoáy trôn ốc, nhưng khảo cổ học chỉ xác nhận 3 vòng thành."
+   ],
+   "aliases": [
+    "Loa thành",
+    "thành ốc",
+    "khu di tích Cổ Loa",
+    "Cổ Loa thành"
+   ],
+   "actors": [
+    "An Dương Vương",
+    "Ngô Quyền"
+   ],
+   "place": "Đông Anh, Hà Nội",
+   "year": null,
+   "date_start": "thế kỉ III TCN",
+   "date_end": null,
+   "topic_title": "Nước Âu Lạc (tiếp theo)",
+   "lessons": [
+    {
+     "book": "Sách cũ",
+     "bai": 15
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/C%E1%BB%95_Loa"
+   ]
+  },
+  {
+   "name": "Triệu Đà thôn tính Âu Lạc (179 TCN)",
+   "kind": "event",
+   "summary": "Sau nhiều lần đánh không thắng, Triệu Đà dùng mưu kế nội gián chiếm được Âu Lạc năm 179 TCN, mở đầu hơn một nghìn năm Bắc thuộc.",
+   "facts": [
+    "Khoảng năm 208 TCN (sử cũ chép năm 257 TCN), Thục Phán — tức An Dương Vương — hợp nhất người Tây Âu và Lạc Việt lập ra nước Âu Lạc, đóng đô ở Cổ Loa.",
+    "Tương truyền tướng Cao Lỗ chế ra nỏ bắn được nhiều mũi tên (nỏ thần), và hàng vạn mũi tên đồng đào được ở Cổ Loa cho thấy sức mạnh vũ khí của Âu Lạc là có thật.",
+    "Đánh mãi không thắng, Triệu Đà giả vờ cầu hòa rồi dùng mưu kế nội gián — gắn với truyền thuyết Mỵ Châu - Trọng Thủy — để phá bí mật quân sự của Âu Lạc.",
+    "Năm 179 TCN, Triệu Đà đánh chiếm được Âu Lạc, An Dương Vương thất bại, nước ta rơi vào ách thống trị của phương Bắc.",
+    "Vì Âu Lạc mất năm 179 TCN nên nước ta bước vào thời Bắc thuộc kéo dài hơn một nghìn năm, mãi đến chiến thắng Bạch Đằng năm 938 mới chấm dứt.",
+    "Chuyện mất nước Âu Lạc để lại bài học lớn về tinh thần cảnh giác: An Dương Vương thất bại vì chủ quan, mắc mưu địch chứ không phải vì thiếu vũ khí hay thành lũy."
+   ],
+   "traps": [
+    "Năm Âu Lạc rơi vào tay Triệu Đà theo SGK và đa số nhà nghiên cứu là 179 TCN, không phải 207/208 TCN như một số sử cũ chép.",
+    "An Dương Vương tên thật là Thục Phán, là người lập nước Âu Lạc, không phải vua Hùng cuối cùng của Văn Lang."
+   ],
+   "aliases": [
+    "An Dương Vương mất nước",
+    "Âu Lạc sụp đổ",
+    "truyền thuyết Mỵ Châu - Trọng Thủy",
+    "nỏ thần Cao Lỗ",
+    "năm 179 TCN"
+   ],
+   "actors": [
+    "An Dương Vương (Thục Phán)",
+    "Triệu Đà",
+    "Cao Lỗ",
+    "Mỵ Châu",
+    "Trọng Thủy"
+   ],
+   "place": "Cổ Loa, Đông Anh, Hà Nội",
+   "year": -179,
+   "date_start": "208 TCN",
+   "date_end": "179 TCN",
+   "topic_title": "Nước Âu Lạc (tiếp theo)",
+   "lessons": [
+    {
+     "book": "Sách cũ",
+     "bai": 15
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/An_D%C6%B0%C6%A1ng_V%C6%B0%C6%A1ng",
+    "https://vi.wikipedia.org/wiki/C%E1%BB%95_Loa"
+   ]
+  },
+  {
+   "name": "Thời đại dựng nước Văn Lang - Âu Lạc",
+   "kind": "period",
+   "summary": "Thời đại dựng nước đầu tiên của người Việt: Văn Lang của các vua Hùng (khoảng thế kỉ VII TCN) rồi Âu Lạc của An Dương Vương, kết thúc năm 179 TCN.",
+   "facts": [
+    "Vào khoảng thế kỉ VII TCN, các vua Hùng lập ra nước Văn Lang — nhà nước đầu tiên trong lịch sử Việt Nam — đóng đô ở Phong Châu (Phú Thọ ngày nay).",
+    "Nước Văn Lang chia thành 15 bộ; giúp việc vua Hùng có các Lạc hầu lo việc văn và Lạc tướng lo việc võ.",
+    "Thời Văn Lang gắn liền với văn hóa Đông Sơn nổi tiếng với trống đồng, cùng các phong tục như làm bánh chưng, xăm mình.",
+    "Khoảng cuối thế kỉ III TCN (sử cũ chép năm 257 TCN, nhiều nhà nghiên cứu cho là năm 208 TCN), Thục Phán thay thế vua Hùng, hợp nhất cư dân Tây Âu và Lạc Việt lập nước Âu Lạc, xưng An Dương Vương.",
+    "Nước Âu Lạc đóng đô ở Cổ Loa và tồn tại đến năm 179 TCN thì bị Triệu Đà thôn tính.",
+    "Thời Văn Lang - Âu Lạc đặt nền tảng đầu tiên của dân tộc Việt: nghề trồng lúa nước, tục thờ cúng tổ tiên và ý thức cộng đồng chung."
+   ],
+   "traps": [
+    "Văn Lang có TRƯỚC, Âu Lạc có SAU: Văn Lang do vua Hùng lập (khoảng thế kỉ VII TCN, đô ở Phong Châu), Âu Lạc do An Dương Vương lập (cuối thế kỉ III TCN, đô ở Cổ Loa) — đừng lẫn hai kinh đô."
+   ],
+   "aliases": [
+    "thời Hùng Vương - An Dương Vương",
+    "thời dựng nước",
+    "nước Văn Lang",
+    "nước Âu Lạc"
+   ],
+   "actors": [
+    "Hùng Vương",
+    "An Dương Vương (Thục Phán)"
+   ],
+   "place": "Bắc Bộ và Bắc Trung Bộ Việt Nam",
+   "year": null,
+   "date_start": "thế kỉ VII TCN",
+   "date_end": "179 TCN",
+   "topic_title": "Ôn tập chương I và II",
+   "lessons": [
+    {
+     "book": "Sách cũ",
+     "bai": 16
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/V%C4%83n_Lang",
+    "https://vi.wikipedia.org/wiki/An_D%C6%B0%C6%A1ng_V%C6%B0%C6%A1ng"
+   ]
+  },
+  {
+   "name": "Thời kì Bắc thuộc (179 TCN - 938)",
+   "kind": "period",
+   "summary": "Hơn một nghìn năm nước ta bị các triều đại phương Bắc đô hộ, bóc lột và đồng hóa, nhưng các cuộc khởi nghĩa nối tiếp nhau cho đến chiến thắng Bạch Đằng 938.",
+   "facts": [
+    "Thời Bắc thuộc bắt đầu năm 179 TCN khi Triệu Đà thôn tính Âu Lạc và kéo dài hơn một nghìn năm, đến chiến thắng Bạch Đằng năm 938 mới chấm dứt hẳn.",
+    "Các triều đại phương Bắc chia nước ta thành các quận, huyện như Giao Chỉ, Cửu Chân, Nhật Nam và cử quan lại người Hán sang cai trị; thời Đường lập An Nam đô hộ phủ.",
+    "Chính quyền đô hộ bóc lột dân ta bằng nhiều thứ thuế nặng — nặng nhất là thuế muối và thuế sắt — cùng lệ cống nạp sản vật quý như ngà voi, sừng tê, ngọc trai.",
+    "Chúng nắm độc quyền về muối và sắt vì đây là hai mặt hàng thiết yếu: kiểm soát muối, sắt vừa vơ vét được lợi lớn vừa ngăn dân ta rèn vũ khí chống lại.",
+    "Chính sách đồng hóa được thi hành ráo riết — đưa người Hán sang ở lẫn, bắt dân ta theo phong tục và chữ Hán — nhưng người Việt vẫn giữ được tiếng nói và phong tục riêng.",
+    "Suốt thời Bắc thuộc, các cuộc khởi nghĩa nối tiếp nhau: Hai Bà Trưng (năm 40), Bà Triệu (248), Lý Bí (542), Mai Thúc Loan (713-722), Phùng Hưng (cuối thế kỉ VIII), chứng tỏ ý chí độc lập không bao giờ tắt.",
+    "Từ năm 905 họ Khúc giành quyền tự chủ, tạo bàn đạp để Ngô Quyền đánh tan quân Nam Hán trên sông Bạch Đằng năm 938, kết thúc hoàn toàn thời Bắc thuộc."
+   ],
+   "traps": [
+    "Theo SGK, Bắc thuộc tính từ năm 179 TCN (Triệu Đà chiếm Âu Lạc), không phải từ năm 111 TCN (nhà Hán diệt Nam Việt).",
+    "Năm 905 họ Khúc mới giành quyền TỰ CHỦ; nền độc lập chỉ được khẳng định dứt khoát bằng chiến thắng Bạch Đằng năm 938."
+   ],
+   "aliases": [
+    "Bắc thuộc",
+    "một nghìn năm Bắc thuộc",
+    "thời kì đô hộ của phong kiến phương Bắc"
+   ],
+   "actors": [
+    "nhà Triệu",
+    "nhà Hán",
+    "nhà Ngô",
+    "nhà Lương",
+    "nhà Tùy",
+    "nhà Đường"
+   ],
+   "place": "miền Bắc và Bắc Trung Bộ Việt Nam",
+   "year": null,
+   "date_start": "179 TCN",
+   "date_end": "938",
+   "topic_title": "Ôn tập chương I và II",
+   "lessons": [
+    {
+     "book": "Sách cũ",
+     "bai": 25
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/B%E1%BA%AFc_thu%E1%BB%99c",
+    "https://hoc247.net/hoi-dap/lich-su-6/vi-sao-chinh-quyen-do-ho-nam-doc-quyen-ve-sat-va-muoi-faq308114.html"
+   ]
+  },
+  {
+   "name": "Khởi nghĩa Hai Bà Trưng (năm 40)",
+   "kind": "movement",
+   "summary": "Cuộc khởi nghĩa đầu tiên thời Bắc thuộc do Trưng Trắc, Trưng Nhị lãnh đạo năm 40, đánh đuổi Thái thú Tô Định, giành độc lập ba năm.",
+   "facts": [
+    "Mùa xuân năm 40 (tháng 2 năm 40), Trưng Trắc cùng em là Trưng Nhị phất cờ khởi nghĩa ở Hát Môn (nay thuộc huyện Phúc Thọ, Hà Nội).",
+    "Nguyên nhân sâu xa là ách cai trị tàn bạo, bóc lột và đồng hóa gắt gao của nhà Hán; theo các sử gia Việt Nam, việc Thái thú Tô Định giết Thi Sách — chồng bà Trưng Trắc — càng thổi bùng ngọn lửa khởi nghĩa.",
+    "Khởi nghĩa lan nhanh, nghĩa quân hạ được 65 thành, chính quyền Đông Hán tan rã, Thái thú Tô Định phải bỏ chạy về nước.",
+    "Thắng lợi, Trưng Trắc được suy tôn làm vua (Trưng Vương), đóng đô ở Mê Linh, giữ nền độc lập trong ba năm 40-43.",
+    "Đây là cuộc khởi nghĩa lớn đầu tiên của người Việt thời Bắc thuộc và do phụ nữ lãnh đạo, mở đầu truyền thống bất khuất chống ách đô hộ phương Bắc."
+   ],
+   "traps": [
+    "Phân biệt hai giai đoạn: KHỞI NGHĨA thắng lợi năm 40 (đánh đuổi Tô Định) và cuộc KHÁNG CHIẾN chống quân Mã Viện năm 42-43 (thất bại).",
+    "Hai Bà Trưng quê ở Mê Linh, nhưng nơi phất cờ khởi nghĩa là Hát Môn (Phúc Thọ, Hà Nội)."
+   ],
+   "aliases": [
+    "khởi nghĩa Trưng Trắc - Trưng Nhị",
+    "Hai Bà Trưng phất cờ khởi nghĩa",
+    "khởi nghĩa năm 40"
+   ],
+   "actors": [
+    "Trưng Trắc",
+    "Trưng Nhị",
+    "Tô Định",
+    "Thi Sách"
+   ],
+   "place": "Hát Môn, Phúc Thọ, Hà Nội",
+   "year": 40,
+   "date_start": "40",
+   "date_end": "43",
+   "topic_title": "Cuộc khởi nghĩa Hai Bà Trưng (năm 40)",
+   "lessons": [
+    {
+     "book": "Sách cũ",
+     "bai": 17
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Kh%E1%BB%9Fi_ngh%C4%A9a_Hai_B%C3%A0_Tr%C6%B0ng"
+   ]
+  },
+  {
+   "name": "Hai Bà Trưng",
+   "kind": "person",
+   "summary": "Trưng Trắc và Trưng Nhị — con gái Lạc tướng Mê Linh — lãnh đạo khởi nghĩa năm 40, Trưng Trắc lên làm vua, cả hai hi sinh năm 43.",
+   "facts": [
+    "Trưng Trắc và Trưng Nhị là hai chị em, con gái Lạc tướng huyện Mê Linh.",
+    "Chồng bà Trưng Trắc là Thi Sách, người huyện Chu Diên; sử Việt chép ông bị Thái thú Tô Định sát hại trước khởi nghĩa.",
+    "Năm 40, hai bà lãnh đạo khởi nghĩa đánh đuổi chính quyền Đông Hán; Trưng Trắc lên làm vua — sử gọi là Trưng Vương hay Trưng Nữ Vương — trị vì trong ba năm 40-43.",
+    "Năm 43, sau thất bại ở Cấm Khê trước quân Mã Viện, Hai Bà hi sinh; truyền thuyết Việt kể hai bà gieo mình xuống sông Hát tuẫn tiết.",
+    "Hai Bà Trưng được tôn là những nữ anh hùng đầu tiên của dân tộc và được nhân dân lập đền thờ ở nhiều nơi."
+   ],
+   "traps": [
+    "Hai Bà hi sinh năm 43 trong cuộc kháng chiến chống Mã Viện, không phải năm 40 — năm 40 là năm khởi nghĩa thắng lợi.",
+    "Trưng Trắc là chị và là người xưng vương; Trưng Nhị là em."
+   ],
+   "aliases": [
+    "Trưng Trắc",
+    "Trưng Nhị",
+    "Trưng Vương",
+    "Trưng Nữ Vương",
+    "Bà Trưng"
+   ],
+   "actors": [
+    "Trưng Trắc",
+    "Trưng Nhị"
+   ],
+   "place": "Mê Linh",
+   "year": null,
+   "date_start": null,
+   "date_end": "43",
+   "topic_title": "Cuộc khởi nghĩa Hai Bà Trưng (năm 40)",
+   "lessons": [
+    {
+     "book": "Sách cũ",
+     "bai": 17
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Hai_B%C3%A0_Tr%C6%B0ng"
+   ]
+  },
+  {
+   "name": "Kháng chiến chống quân Hán xâm lược (42-43)",
+   "kind": "campaign",
+   "summary": "Cuộc kháng chiến của Trưng Vương chống đại quân Mã Viện năm 42-43, thất bại ở Cấm Khê, Hai Bà hi sinh, nhà Hán tái đô hộ.",
+   "facts": [
+    "Sau khởi nghĩa thắng lợi năm 40, Trưng Trắc xưng vương, đóng đô ở Mê Linh và xây dựng chính quyền tự chủ trong khoảng ba năm 40-43.",
+    "Năm 42, nhà Hán sai lão tướng Mã Viện chỉ huy đại quân sang tái chiếm nước ta.",
+    "Quân của Hai Bà chặn đánh quyết liệt ở Lãng Bạc nhưng thất lợi, phải lui dần về Cấm Khê.",
+    "Năm 43, Hai Bà Trưng hi sinh ở Cấm Khê; theo truyền thuyết Việt, hai bà gieo mình xuống sông Hát để giữ trọn khí tiết.",
+    "Kháng chiến thất bại, nhà Hán đặt lại ách đô hộ lên nước ta, mở đầu thời Bắc thuộc lần thứ hai (43-541).",
+    "Tuy thất bại, tấm gương của Trưng Vương tiếp tục cổ vũ các cuộc khởi nghĩa chống Bắc thuộc suốt các thế kỉ sau."
+   ],
+   "traps": [
+    "Tướng chỉ huy quân Hán sang đàn áp năm 42-43 là MÃ VIỆN, không phải Tô Định — Tô Định là Thái thú đã bị đánh đuổi từ năm 40."
+   ],
+   "aliases": [
+    "kháng chiến chống Mã Viện",
+    "trận Lãng Bạc",
+    "trận Cấm Khê",
+    "Trưng Vương chống Hán"
+   ],
+   "actors": [
+    "Trưng Trắc (Trưng Vương)",
+    "Trưng Nhị",
+    "Mã Viện"
+   ],
+   "place": "Lãng Bạc, Cấm Khê",
+   "year": 43,
+   "date_start": "42",
+   "date_end": "43",
+   "topic_title": "Trưng Vương và cuộc kháng chiến chống quân xâm lược Hán",
+   "lessons": [
+    {
+     "book": "Sách cũ",
+     "bai": 18
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Kh%E1%BB%9Fi_ngh%C4%A9a_Hai_B%C3%A0_Tr%C6%B0ng",
+    "https://vi.wikipedia.org/wiki/Hai_B%C3%A0_Tr%C6%B0ng"
+   ]
+  },
+  {
+   "name": "Ách đô hộ phương Bắc ở Giao Châu (thế kỉ I - VI)",
+   "kind": "concept",
+   "summary": "Chính sách cai trị, bóc lột và đồng hóa của các triều Hán, Ngô, Lương ở Giao Châu từ sau năm 43 đến giữa thế kỉ VI.",
+   "facts": [
+    "Từ sau năm 43, các triều đại Hán, Ngô rồi Lương thay nhau đô hộ nước ta, siết chặt bộ máy cai trị và đưa quan lại người Hán sang nắm các châu, quận.",
+    "Nhân dân Giao Châu phải nộp nhiều thứ thuế — nặng nhất là thuế muối và thuế sắt — lại phải cống nạp sản vật quý; nhà Ngô, nhà Lương còn bắt cả thợ khéo đưa về phương Bắc.",
+    "Chính quyền đô hộ nắm độc quyền muối và sắt để vừa vơ vét của cải vừa ngăn dân ta có sắt rèn vũ khí chống lại.",
+    "Chúng tiếp tục đưa người Hán sang ở lẫn với dân ta, bắt theo phong tục Hán nhằm đồng hóa, nhưng người Việt vẫn giữ tiếng nói và phong tục tập quán của mình.",
+    "Chính ách bóc lột tàn bạo kéo dài suốt các thế kỉ I-VI là nguyên nhân trực tiếp làm bùng nổ các cuộc khởi nghĩa lớn như Bà Triệu (248) và Lý Bí (542)."
+   ],
+   "traps": [
+    "Thời kì này nước ta lần lượt bị nhà Hán, Ngô, Lương... đô hộ — khởi nghĩa Bà Triệu (248) chống nhà NGÔ, khởi nghĩa Lý Bí (542) chống nhà LƯƠNG, đừng gán chung tất cả cho 'nhà Hán'."
+   ],
+   "aliases": [
+    "Bắc thuộc lần thứ hai",
+    "chính sách cai trị của phong kiến phương Bắc",
+    "Giao Châu thời thuộc Hán - Ngô - Lương"
+   ],
+   "actors": [
+    "nhà Hán",
+    "nhà Ngô",
+    "nhà Lương"
+   ],
+   "place": "Giao Châu",
+   "year": null,
+   "date_start": "43",
+   "date_end": "541",
+   "topic_title": "Từ sau Trưng Vương đến trước Lý Nam Đế (Giữa thế kỉ I - Giữa thế kỉ VI)",
+   "lessons": [
+    {
+     "book": "Sách cũ",
+     "bai": 19
+    },
+    {
+     "book": "Sách cũ",
+     "bai": 20
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/B%E1%BA%AFc_thu%E1%BB%99c",
+    "https://hoc247.net/hoi-dap/lich-su-6/vi-sao-chinh-quyen-do-ho-nam-doc-quyen-ve-sat-va-muoi-faq308114.html"
+   ]
+  },
+  {
+   "name": "Khởi nghĩa Bà Triệu (248)",
+   "kind": "movement",
+   "summary": "Cuộc khởi nghĩa tiêu biểu thế kỉ III do Bà Triệu và anh trai Triệu Quốc Đạt lãnh đạo ở Cửu Chân năm 248, chống ách đô hộ nhà Ngô.",
+   "facts": [
+    "Năm 248, Bà Triệu cùng anh trai là hào trưởng Triệu Quốc Đạt dấy binh khởi nghĩa ở quận Cửu Chân (Thanh Hóa ngày nay), với căn cứ ở vùng núi Nưa.",
+    "Từ căn cứ, nghĩa quân tiến xuống đánh chiếm quận lỵ Tư Phố bên sông Mã, làm rung chuyển chính quyền đô hộ.",
+    "Nhà Ngô phải cử tướng Lục Dận đem quân sang đàn áp; sau hơn hai tháng chống cự quyết liệt, khởi nghĩa thất bại.",
+    "Bà Triệu hi sinh trên núi Tùng (nay thuộc xã Triệu Lộc, huyện Hậu Lộc, Thanh Hóa) năm 248, khi mới khoảng 23 tuổi.",
+    "Khởi nghĩa Bà Triệu là cuộc nổi dậy tiêu biểu nhất của nhân dân ta ở thế kỉ III, tiếp nối ngọn lửa Hai Bà Trưng chống ách đô hộ phương Bắc."
+   ],
+   "traps": [
+    "Khởi nghĩa Bà Triệu (248) chống ách đô hộ nhà NGÔ thời Tam Quốc, không phải chống nhà Hán; tướng giặc là Lục Dận do vua Ngô Tôn Quyền cử sang."
+   ],
+   "aliases": [
+    "khởi nghĩa Triệu Thị Trinh",
+    "khởi nghĩa năm 248",
+    "khởi nghĩa núi Nưa"
+   ],
+   "actors": [
+    "Bà Triệu (Triệu Thị Trinh)",
+    "Triệu Quốc Đạt",
+    "Lục Dận"
+   ],
+   "place": "Cửu Chân (Thanh Hóa)",
+   "year": 248,
+   "date_start": "248",
+   "date_end": "248",
+   "topic_title": "Từ sau Trưng Vương đến trước Lý Nam Đế (Giữa thế kỉ I - Giữa thế kỉ VI)",
+   "lessons": [
+    {
+     "book": "Sách cũ",
+     "bai": 20
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/B%C3%A0_Tri%E1%BB%87u",
+    "https://nguoikesu.com/nhan-vat/ba-trieu"
+   ]
+  },
+  {
+   "name": "Bà Triệu",
+   "kind": "person",
+   "summary": "Triệu Thị Trinh (226-248), nữ anh hùng quê Cửu Chân (Thanh Hóa), lãnh đạo khởi nghĩa chống quân Ngô năm 248, hi sinh trên núi Tùng.",
+   "facts": [
+    "Bà Triệu tên là Triệu Thị Trinh, sinh năm 226 ở vùng Quan Yên, quận Cửu Chân (nay thuộc Thanh Hóa).",
+    "Tương truyền năm 19 tuổi, khi được hỏi chuyện chồng con, bà đáp: 'Tôi chỉ muốn cưỡi cơn gió mạnh, đạp luồng sóng dữ, chém cá trường kình ở biển Đông, lấy lại giang sơn, dựng nền độc lập, cởi ách nô lệ, chứ không chịu khom lưng làm tì thiếp cho người!'",
+    "Năm 248, bà cùng anh trai Triệu Quốc Đạt lãnh đạo khởi nghĩa chống quân Ngô ở Cửu Chân; khi ra trận bà được gọi là Nhụy Kiều tướng quân.",
+    "Khởi nghĩa thất bại trước quân của Lục Dận, bà hi sinh trên núi Tùng (Hậu Lộc, Thanh Hóa) năm 248, lúc mới 22-23 tuổi.",
+    "Bà Triệu được xem là nữ anh hùng sánh ngang Hai Bà Trưng, được lập đền thờ và hương khói đến ngày nay."
+   ],
+   "traps": [
+    "Câu 'Tôi chỉ muốn cưỡi cơn gió mạnh, đạp luồng sóng dữ...' là của BÀ TRIỆU, đừng gán cho Hai Bà Trưng hay nhân vật khác."
+   ],
+   "aliases": [
+    "Triệu Thị Trinh",
+    "Triệu Trinh Nương",
+    "Nhụy Kiều tướng quân",
+    "Lệ Hải bà vương"
+   ],
+   "actors": [
+    "Bà Triệu",
+    "Triệu Quốc Đạt"
+   ],
+   "place": "Quan Yên, Cửu Chân (Thanh Hóa)",
+   "year": null,
+   "date_start": "226",
+   "date_end": "248",
+   "topic_title": "Từ sau Trưng Vương đến trước Lý Nam Đế (Giữa thế kỉ I - Giữa thế kỉ VI)",
+   "lessons": [
+    {
+     "book": "Sách cũ",
+     "bai": 20
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/B%C3%A0_Tri%E1%BB%87u",
+    "https://nguoikesu.com/nhan-vat/ba-trieu"
+   ]
+  },
+  {
+   "name": "Khởi nghĩa Lý Bí (542)",
+   "kind": "movement",
+   "summary": "Cuộc khởi nghĩa do Lý Bí lãnh đạo lật đổ ách đô hộ nhà Lương năm 542, dẫn tới việc lập nước Vạn Xuân năm 544.",
+   "facts": [
+    "Cuối năm 541 - mùa xuân năm 542, Lý Bí lãnh đạo hào kiệt các châu nổi dậy chống ách đô hộ nhà Lương; thứ sử Tiêu Tư khiếp sợ bỏ chạy về nước.",
+    "Nguyên nhân bùng nổ là chính sách cai trị hà khắc, thuế khóa nặng nề của nhà Lương khiến lòng dân oán hận.",
+    "Nghĩa quân nhanh chóng làm chủ Giao Châu, đánh lui các cuộc phản công của quân Lương ở phía bắc và đẩy lùi quân Lâm Ấp quấy phá ở phía nam.",
+    "Mùa xuân năm 544, Lý Bí lên ngôi hoàng đế — sử gọi là Lý Nam Đế — đặt tên nước là Vạn Xuân, niên hiệu Thiên Đức, cho dựng điện Vạn Thọ và lập triều đình riêng.",
+    "Ông cử Triệu Túc làm thái phó, Tinh Thiều đứng đầu ban văn và lão tướng Phạm Tu đứng đầu ban võ.",
+    "Việc Lý Bí xưng đế và đặt niên hiệu riêng thể hiện ý thức khẳng định nước ta độc lập, ngang hàng với phương Bắc, không còn là quận huyện của họ."
+   ],
+   "traps": [
+    "Lý Bí xưng ĐẾ (Lý Nam Đế — hoàng đế nước Nam) chứ không chỉ xưng vương; khởi nghĩa chống nhà LƯƠNG, không phải nhà Hán hay nhà Đường."
+   ],
+   "aliases": [
+    "khởi nghĩa Lý Bôn",
+    "khởi nghĩa năm 542",
+    "Lý Bí dựng nước Vạn Xuân"
+   ],
+   "actors": [
+    "Lý Bí",
+    "Tiêu Tư",
+    "Triệu Túc",
+    "Tinh Thiều",
+    "Phạm Tu"
+   ],
+   "place": "Giao Châu",
+   "year": 542,
+   "date_start": "542",
+   "date_end": "544",
+   "topic_title": "Khởi nghĩa Lý Bí. Nước Vạn Xuân (542-602)",
+   "lessons": [
+    {
+     "book": "Sách cũ",
+     "bai": 21
+    },
+    {
+     "book": "Sách cũ",
+     "bai": 22
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/L%C3%BD_Nam_%C4%90%E1%BA%BF"
+   ]
+  },
+  {
+   "name": "Nước Vạn Xuân (544-602)",
+   "kind": "org",
+   "summary": "Nhà nước độc lập do Lý Nam Đế lập năm 544 với mong muốn xã tắc bền vững muôn đời, tồn tại 58 năm đến khi nhà Tùy xâm lược năm 602.",
+   "facts": [
+    "Nước Vạn Xuân được Lý Nam Đế thành lập mùa xuân năm 544; quốc hiệu mang ý mong xã tắc lâu dài đến muôn đời.",
+    "Năm 545, nhà Lương cử Trần Bá Tiên đem quân sang đàn áp; Lý Nam Đế thất lợi phải lui về động Khuất Lão (vùng Phú Thọ), trao quyền chỉ huy cho Triệu Quang Phục rồi mất vì bệnh năm 548.",
+    "Triệu Quang Phục lui về đầm Dạ Trạch (Hưng Yên) đánh du kích: ban ngày tuyệt không để lộ khói lửa và dấu người, ban đêm đem quân ra đánh doanh trại giặc.",
+    "Năm 550, nhân lúc Trần Bá Tiên bị gọi về Trung Quốc, Triệu Quang Phục phản công đánh bại quân Lương và xưng là Triệu Việt Vương.",
+    "Năm 571, Lý Phật Tử đánh úp Triệu Việt Vương giành quyền hành; đến năm 602, nhà Tùy sai Lưu Phương đem quân sang, Lý Phật Tử đầu hàng, nước Vạn Xuân chấm dứt.",
+    "Vạn Xuân tồn tại 58 năm (544-602) — lần đầu tiên sau nhiều thế kỉ Bắc thuộc, người Việt lập được một nhà nước độc lập có quốc hiệu, hoàng đế và niên hiệu riêng."
+   ],
+   "traps": [
+    "Nước Vạn Xuân tồn tại đến năm 602 mới chấm dứt (khi Lý Phật Tử hàng nhà Tùy), không phải kết thúc năm 548 khi Lý Nam Đế mất."
+   ],
+   "aliases": [
+    "Vạn Xuân",
+    "nhà Tiền Lý",
+    "nhà nước Vạn Xuân"
+   ],
+   "actors": [
+    "Lý Nam Đế",
+    "Triệu Quang Phục",
+    "Lý Phật Tử",
+    "Trần Bá Tiên",
+    "Lưu Phương"
+   ],
+   "place": "miền Bắc Việt Nam",
+   "year": 544,
+   "date_start": "544",
+   "date_end": "602",
+   "topic_title": "Khởi nghĩa Lý Bí. Nước Vạn Xuân (542-602)",
+   "lessons": [
+    {
+     "book": "Sách cũ",
+     "bai": 21
+    },
+    {
+     "book": "Sách cũ",
+     "bai": 22
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Nh%C3%A0_Ti%E1%BB%81n_L%C3%BD",
+    "https://vi.wikipedia.org/wiki/Tri%E1%BB%87u_Vi%E1%BB%87t_V%C6%B0%C6%A1ng"
+   ]
+  },
+  {
+   "name": "Lý Bí (Lý Nam Đế)",
+   "kind": "person",
+   "summary": "Lý Bí (503-548) lãnh đạo khởi nghĩa lật ách nhà Lương năm 542, năm 544 xưng Nam Việt Đế, lập nước Vạn Xuân.",
+   "facts": [
+    "Lý Bí (503-548), còn gọi là Lý Bôn, xuất thân hào trưởng có uy tín ở Giao Châu.",
+    "Năm 542 (cuối năm 541 theo một số thư tịch), ông lãnh đạo khởi nghĩa lật đổ ách đô hộ nhà Lương, đuổi thứ sử Tiêu Tư.",
+    "Mùa xuân năm 544, ông lên ngôi, xưng Nam Việt Đế — được coi là người Việt đầu tiên tự xưng hoàng đế — lập nước Vạn Xuân, niên hiệu Thiên Đức.",
+    "Năm 545, quân Lương do Trần Bá Tiên chỉ huy phản công; sau các thất bại, ông lui về động Khuất Lão và giao binh quyền cho Triệu Quang Phục.",
+    "Ông mất vì bệnh ở động Khuất Lão năm 548 sau khoảng 5 năm làm vua, và được xếp vào hàng 14 anh hùng tiêu biểu của dân tộc Việt Nam."
+   ],
+   "traps": [
+    "Đừng nhầm Lý Nam Đế (Lý Bí, thế kỉ VI, nhà Tiền Lý) với các vua nhà Lý sau này (Lý Công Uẩn lập năm 1009, thế kỉ XI)."
+   ],
+   "aliases": [
+    "Lý Bôn",
+    "Lý Nam Đế",
+    "Nam Việt Đế",
+    "Nam Đế"
+   ],
+   "actors": [
+    "Lý Bí",
+    "Trần Bá Tiên",
+    "Triệu Quang Phục"
+   ],
+   "place": "Giao Châu",
+   "year": null,
+   "date_start": "503",
+   "date_end": "548",
+   "topic_title": "Khởi nghĩa Lý Bí. Nước Vạn Xuân (542-602)",
+   "lessons": [
+    {
+     "book": "Sách cũ",
+     "bai": 21
+    },
+    {
+     "book": "Sách cũ",
+     "bai": 22
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/L%C3%BD_Nam_%C4%90%E1%BA%BF"
+   ]
+  },
+  {
+   "name": "Triệu Quang Phục (Triệu Việt Vương)",
+   "kind": "person",
+   "summary": "Vị tướng được Lý Nam Đế trao quyền, lập căn cứ đầm Dạ Trạch đánh du kích, năm 550 đánh bại quân Lương, xưng Triệu Việt Vương, mất năm 571.",
+   "facts": [
+    "Triệu Quang Phục là tướng được Lý Nam Đế tin cậy trao quyền chỉ huy cuộc kháng chiến chống quân Lương khoảng năm 545-546.",
+    "Năm 547, ông đưa quân về đầm Dạ Trạch (Hưng Yên) — vùng lầy lội hiểm trở — làm căn cứ kháng chiến, nên còn được gọi là Dạ Trạch Vương.",
+    "Ông đánh du kích rất kỉ luật: ban ngày tuyệt không để lộ khói lửa và dấu người, ban đêm mới đem quân ra tập kích doanh trại giặc.",
+    "Năm 550, nhân lúc Trần Bá Tiên bị triệu về Trung Quốc, ông tổng phản công đánh tan quân Lương, giữ vững nước Vạn Xuân và xưng là Triệu Việt Vương.",
+    "Năm 571, ông bị Lý Phật Tử bất ngờ đánh úp, phải chạy đến cửa biển Đại Nha và tự vẫn tại đó."
+   ],
+   "traps": [
+    "Người đánh úp Triệu Việt Vương năm 571 là LÝ PHẬT TỬ — người cùng họ với Lý Nam Đế — chứ không phải tướng phương Bắc."
+   ],
+   "aliases": [
+    "Triệu Việt Vương",
+    "Dạ Trạch Vương"
+   ],
+   "actors": [
+    "Triệu Quang Phục",
+    "Trần Bá Tiên",
+    "Lý Phật Tử"
+   ],
+   "place": "đầm Dạ Trạch, Hưng Yên",
+   "year": null,
+   "date_start": null,
+   "date_end": "571",
+   "topic_title": "Khởi nghĩa Lý Bí. Nước Vạn Xuân (542-602)",
+   "lessons": [
+    {
+     "book": "Sách cũ",
+     "bai": 22
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Tri%E1%BB%87u_Vi%E1%BB%87t_V%C6%B0%C6%A1ng"
+   ]
+  },
+  {
+   "name": "Khởi nghĩa Mai Thúc Loan (713-722)",
+   "kind": "movement",
+   "summary": "Cuộc khởi nghĩa lớn đầu thế kỉ VIII chống nhà Đường ở Hoan Châu; Mai Thúc Loan xưng đế (Mai Hắc Đế), xây thành Vạn An, thất bại năm 722.",
+   "facts": [
+    "Đầu thế kỉ VIII (khoảng năm 713), Mai Thúc Loan phát động khởi nghĩa chống ách đô hộ nhà Đường tại Hoan Châu (vùng Nghệ An - Hà Tĩnh ngày nay).",
+    "Nguyên nhân là chính sách thuế khóa, cống nạp và lao dịch nặng nề của nhà Đường đè lên dân Hoan Châu.",
+    "Ông xưng đế, nhân dân gọi là Mai Hắc Đế (Vua Đen) — tương truyền vì nước da đen của ông — và cho xây thành Vạn An ở Nghệ An làm quốc đô.",
+    "Mai Hắc Đế còn liên kết với Chăm-pa (Lâm Ấp) và Chân Lạp để tăng thêm lực lượng cùng chống quân Đường.",
+    "Năm 722, nhà Đường cử Dương Tư Húc đem đại quân sang đàn áp, khởi nghĩa thất bại; Mai Thúc Loan rút vào rừng núi và mất năm 723."
+   ],
+   "traps": [
+    "Khởi nghĩa Mai Thúc Loan chống nhà ĐƯỜNG (thế kỉ VIII), không phải nhà Hán; 'Mai Hắc Đế' nghĩa là 'Vua Đen', là tôn hiệu chứ không phải tên thật."
+   ],
+   "aliases": [
+    "Mai Hắc Đế",
+    "Vua Đen",
+    "khởi nghĩa Hoan Châu",
+    "khởi nghĩa Mai Hắc Đế"
+   ],
+   "actors": [
+    "Mai Thúc Loan (Mai Hắc Đế)",
+    "Dương Tư Húc"
+   ],
+   "place": "Hoan Châu (Nghệ An - Hà Tĩnh)",
+   "year": 713,
+   "date_start": "713",
+   "date_end": "722",
+   "topic_title": "Những cuộc khởi nghĩa lớn trong các thế kỉ VII-IX",
+   "lessons": [
+    {
+     "book": "Sách cũ",
+     "bai": 23
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Mai_H%E1%BA%AFc_%C4%90%E1%BA%BF"
+   ]
+  },
+  {
+   "name": "Khởi nghĩa Phùng Hưng (cuối thế kỉ VIII)",
+   "kind": "movement",
+   "summary": "Cuộc khởi nghĩa chống nhà Đường do Phùng Hưng — hào trưởng Đường Lâm — lãnh đạo khoảng những năm 776-791, chiếm phủ thành Tống Bình, được tôn Bố Cái Đại Vương.",
+   "facts": [
+    "Khoảng cuối thế kỉ VIII (các tài liệu ghi trong khoảng năm 776-791), Phùng Hưng — hào trưởng đất Đường Lâm (Sơn Tây, Hà Nội ngày nay) — dấy binh chống ách đô hộ nhà Đường.",
+    "Nghĩa quân vây đánh phủ thành Tống Bình (Hà Nội ngày nay) và giành quyền cai quản đất nước trong một thời gian.",
+    "Sau khi Phùng Hưng mất, con là Phùng An lên nối nghiệp, nhưng ít lâu sau nhà Đường khôi phục lại quyền đô hộ.",
+    "Nhân dân tôn Phùng Hưng là Bố Cái Đại Vương; theo sách Việt điện u linh, 'bố cái' nghĩa là cha mẹ — dân coi ông như cha mẹ của mình.",
+    "Khởi nghĩa Phùng Hưng cùng khởi nghĩa Mai Thúc Loan cho thấy ách cai trị hà khắc của nhà Đường ở các thế kỉ VII-IX liên tục làm bùng nổ những cuộc nổi dậy lớn của người Việt."
+   ],
+   "traps": [
+    "Đường Lâm (Sơn Tây) là quê của cả Phùng Hưng và Ngô Quyền nên được gọi là 'đất hai vua' — hai nhân vật sống cách nhau hơn một thế kỉ, đừng nhầm lẫn.",
+    "Phùng Hưng khởi nghĩa chống nhà ĐƯỜNG, không phải nhà Hán hay Nam Hán."
+   ],
+   "aliases": [
+    "Bố Cái Đại Vương",
+    "khởi nghĩa Bố Cái Đại Vương"
+   ],
+   "actors": [
+    "Phùng Hưng",
+    "Phùng An"
+   ],
+   "place": "Đường Lâm - Tống Bình (Hà Nội)",
+   "year": 776,
+   "date_start": "776",
+   "date_end": "791",
+   "topic_title": "Những cuộc khởi nghĩa lớn trong các thế kỉ VII-IX",
+   "lessons": [
+    {
+     "book": "Sách cũ",
+     "bai": 23
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Ph%C3%B9ng_H%C6%B0ng",
+    "https://vi.wikipedia.org/wiki/B%E1%BA%AFc_thu%E1%BB%99c"
+   ]
+  },
+  {
+   "name": "Nước Lâm Ấp ra đời (192)",
+   "kind": "event",
+   "summary": "Năm 192, Khu Liên lãnh đạo nhân dân huyện Tượng Lâm (quận Nhật Nam) nổi dậy lật ách nhà Hán, lập nước Lâm Ấp — tiền thân của vương quốc Chăm-pa.",
+   "facts": [
+    "Năm 192, nhân dân huyện Tượng Lâm thuộc quận Nhật Nam, dưới sự lãnh đạo của Khu Liên, nổi dậy lật đổ ách cai trị của nhà Hán và lập ra nước Lâm Ấp.",
+    "Chính ách cai trị hà khắc của nhà Hán ở quận Nhật Nam đã làm bùng nổ cuộc nổi dậy của dân Tượng Lâm, dẫn tới sự ra đời của nhà nước Lâm Ấp.",
+    "Lãnh thổ Lâm Ấp ban đầu trải từ vùng Quảng Bình đến Quảng Nam ngày nay, về sau mở rộng dần về phía nam.",
+    "Nước Lâm Ấp về sau phát triển thành vương quốc Chăm-pa; từ khoảng năm 605, kinh đô chuyển về Simhapura (Trà Kiệu, vùng Quảng Nam).",
+    "Chăm-pa trở thành quốc gia cổ tồn tại lâu dài trên dải đất miền Trung Việt Nam ngày nay, vừa giao lưu vừa xung đột với các triều đại phương Bắc và người Việt."
+   ],
+   "traps": [
+    "Chăm-pa ra đời từ cuộc nổi dậy của nhân dân Tượng Lâm chống nhà HÁN năm 192 (tên nước ban đầu là Lâm Ấp), do Khu Liên sáng lập — không phải do phong kiến phương Bắc hay người Việt lập ra."
+   ],
+   "aliases": [
+    "Lâm Ấp",
+    "khởi nghĩa Tượng Lâm",
+    "Chăm-pa ra đời",
+    "Champa",
+    "Chiêm Thành"
+   ],
+   "actors": [
+    "Khu Liên"
+   ],
+   "place": "Tượng Lâm, quận Nhật Nam (miền Trung Việt Nam)",
+   "year": 192,
+   "date_start": "192",
+   "date_end": null,
+   "topic_title": "Nước Chăm-pa từ thế kỉ II đến thế kỉ X",
+   "lessons": [
+    {
+     "book": "Sách cũ",
+     "bai": 24
+    },
+    {
+     "book": "CTST",
+     "bai": 20
+    },
+    {
+     "book": "KNTT",
+     "bai": 19
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/L%C3%A2m_%E1%BA%A4p"
+   ]
+  },
+  {
+   "name": "Kinh tế và văn hóa Chăm-pa (thế kỉ II - X)",
+   "kind": "concept",
+   "summary": "Nền kinh tế lúa nước - thương mại biển và nền văn hóa chịu ảnh hưởng Ấn Độ của Chăm-pa: chữ viết gốc Phạn, Ấn Độ giáo, đền tháp gạch với thánh địa Mỹ Sơn.",
+   "facts": [
+    "Cư dân Chăm-pa sống chủ yếu bằng nghề trồng lúa nước với hệ thống thủy lợi khéo léo, kết hợp khai thác sản vật và buôn bán đường biển.",
+    "Các cảng của Chăm-pa là điểm dừng quan trọng trên 'con đường tơ lụa trên biển', xuất bán trầm hương, ngà voi và nhiều sản vật quý.",
+    "Người Chăm sớm tiếp thu chữ Phạn của Ấn Độ rồi phát triển thành chữ viết riêng; nhiều bia đá khắc chữ còn lại đến nay là nguồn sử liệu quý về xã hội Chăm-pa cổ.",
+    "Về tôn giáo, người Chăm theo Ấn Độ giáo — nổi bật là tục thờ thần Shiva — và cả Phật giáo (thịnh hành ở thế kỉ IX-X).",
+    "Người Chăm xây nhiều đền tháp bằng gạch nổi tiếng; thánh địa Mỹ Sơn bên thượng nguồn sông Thu Bồn (Quảng Nam cũ, nay thuộc thành phố Đà Nẵng) được khởi dựng từ khoảng thế kỉ IV và được UNESCO công nhận Di sản văn hóa thế giới năm 1999.",
+    "Văn hóa Chăm-pa chịu ảnh hưởng sâu của văn minh Ấn Độ nhưng vẫn mang bản sắc riêng, có phong cách khác nghệ thuật Java hay Khmer."
+   ],
+   "traps": [
+    "Chữ viết Chăm-pa bắt nguồn từ chữ PHẠN của Ấn Độ, không phải chữ Hán; đền tháp Chăm chủ yếu thờ thần Ấn Độ giáo (như Shiva), không phải chùa thờ Phật thuần túy."
+   ],
+   "aliases": [
+    "văn hóa Chăm",
+    "văn minh Chăm-pa",
+    "thánh địa Mỹ Sơn",
+    "tháp Chăm",
+    "đền tháp Chăm-pa"
+   ],
+   "actors": [],
+   "place": "miền Trung Việt Nam",
+   "year": null,
+   "date_start": "thế kỉ II",
+   "date_end": "thế kỉ X",
+   "topic_title": "Nước Chăm-pa từ thế kỉ II đến thế kỉ X",
+   "lessons": [
+    {
+     "book": "Sách cũ",
+     "bai": 24
+    },
+    {
+     "book": "CTST",
+     "bai": 20
+    },
+    {
+     "book": "KNTT",
+     "bai": 19
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Ch%C4%83m_Pa",
+    "https://vi.wikipedia.org/wiki/Th%C3%A1nh_%C4%91%E1%BB%8Ba_M%E1%BB%B9_S%C6%A1n"
+   ]
+  },
+  {
+   "name": "Khúc Thừa Dụ dựng nền tự chủ (905)",
+   "kind": "event",
+   "summary": "Nhân nhà Đường suy yếu, năm 905 Khúc Thừa Dụ chiếm thành Tống Bình, tự xưng Tiết độ sứ, mở đầu nền tự chủ của người Việt.",
+   "facts": [
+    "Cuối thế kỉ IX - đầu thế kỉ X, nhà Đường suy yếu nghiêm trọng, không còn kiểm soát nổi An Nam — đây chính là thời cơ để người Việt vùng lên giành quyền tự chủ.",
+    "Năm 905, hào trưởng Khúc Thừa Dụ (quê Hồng Châu, vùng Hải Dương ngày nay) đánh chiếm thành Tống Bình (Đại La) và tự xưng Tiết độ sứ.",
+    "Đầu năm 906, vua Đường buộc phải công nhận việc đã rồi, phong thêm cho Khúc Thừa Dụ chức Đồng bình chương sự — trên danh nghĩa ông vẫn là quan nhà Đường nhưng thực chất đã nắm toàn quyền.",
+    "Sự kiện năm 905 mở đầu nền tự chủ của người Việt sau khoảng một nghìn năm Bắc thuộc; Khúc Thừa Dụ được coi là người đặt cơ sở cho nền độc lập dân tộc.",
+    "Năm 907, Khúc Thừa Dụ mất, con là Khúc Hạo lên thay và tiếp tục củng cố nền tự chủ."
+   ],
+   "traps": [
+    "Khúc Thừa Dụ giành quyền TỰ CHỦ (905) một cách khôn khéo bằng danh nghĩa Tiết độ sứ của nhà Đường, chưa xưng vương, chưa tuyên bố độc lập — độc lập hoàn toàn phải đến chiến thắng Bạch Đằng năm 938."
+   ],
+   "aliases": [
+    "họ Khúc dựng quyền tự chủ",
+    "Khúc Thừa Dụ xưng Tiết độ sứ",
+    "sự kiện năm 905"
+   ],
+   "actors": [
+    "Khúc Thừa Dụ",
+    "Khúc Hạo"
+   ],
+   "place": "thành Tống Bình (Đại La, Hà Nội)",
+   "year": 905,
+   "date_start": "905",
+   "date_end": "907",
+   "topic_title": "Cuộc đấu tranh giành quyền tự chủ của họ Khúc, họ Dương",
+   "lessons": [
+    {
+     "book": "Sách cũ",
+     "bai": 26
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Kh%C3%BAc_Th%E1%BB%ABa_D%E1%BB%A5"
+   ]
+  },
+  {
+   "name": "Cải cách của Khúc Hạo (907-917)",
+   "kind": "event",
+   "summary": "Cuộc cải cách hành chính - thuế khóa của Khúc Hạo từ năm 907 nhằm xây nền tự chủ, theo phương châm khoan dung, giản dị để dân được yên vui.",
+   "facts": [
+    "Khúc Hạo nắm quyền Tiết độ sứ từ năm 907 đến 917, kế nghiệp cha là Khúc Thừa Dụ.",
+    "Ông chia lại các đơn vị hành chính thành lộ, phủ, châu, giáp, xã và đặt các chức quản giáp, phó tri giáp trông coi việc thu thuế, hộ khẩu — đưa bộ máy quản lý về tận cơ sở.",
+    "Ông sửa đổi chế độ thuế theo hướng bình quân thuế ruộng, tha bỏ lực dịch (lao dịch cưỡng bức) và lập sổ hộ khẩu để quản lý dân cư.",
+    "Đường lối trị nước của ông là 'chính sự cốt chuộng khoan dung, giản dị, nhân dân đều được yên vui'.",
+    "Nhờ cải cách của Khúc Hạo, nền tự chủ non trẻ được củng cố, đời sống dân bớt khổ so với thời đô hộ — tạo cơ sở để người Việt giữ vững quyền tự chủ trong các thập kỉ sau."
+   ],
+   "traps": [
+    "Người tiến hành cải cách là KHÚC HẠO (con), không phải Khúc Thừa Dụ (cha); tinh thần cải cách là giảm nhẹ bóc lột — ngược hẳn chính sách vơ vét của chính quyền đô hộ."
+   ],
+   "aliases": [
+    "cải cách Khúc Hạo",
+    "chính sách khoan dung giản dị",
+    "Khúc Hạo"
+   ],
+   "actors": [
+    "Khúc Hạo"
+   ],
+   "place": "Tĩnh Hải quân (miền Bắc Việt Nam)",
+   "year": 907,
+   "date_start": "907",
+   "date_end": "917",
+   "topic_title": "Cuộc đấu tranh giành quyền tự chủ của họ Khúc, họ Dương",
+   "lessons": [
+    {
+     "book": "Sách cũ",
+     "bai": 26
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Kh%C3%BAc_H%E1%BA%A1o"
+   ]
+  },
+  {
+   "name": "Dương Đình Nghệ đánh bại quân Nam Hán (931)",
+   "kind": "event",
+   "summary": "Năm 931, Dương Đình Nghệ đem quân từ Thanh Hóa ra chiếm lại thành Đại La, đánh tan quân Nam Hán, khôi phục nền tự chủ và tự xưng Tiết độ sứ.",
+   "facts": [
+    "Năm 930, quân Nam Hán xâm lược nước ta, đánh bại và bắt Tiết độ sứ Khúc Thừa Mỹ, chiếm đóng thành Đại La.",
+    "Năm 931, Dương Đình Nghệ — tướng cũ của họ Khúc, quê Ái Châu (Thanh Hóa) — đem 3.000 quân từ Thanh Hóa tiến ra Bắc, chiếm lại thành Đại La và đánh tan quân Nam Hán.",
+    "Thắng lợi rồi, ông không xưng vương mà tự xưng Tiết độ sứ, tiếp tục đường lối tự chủ của họ Khúc.",
+    "Năm 937, Dương Đình Nghệ bị nha tướng Kiều Công Tiễn sát hại để đoạt chức.",
+    "Chính vì Kiều Công Tiễn giết Dương Đình Nghệ rồi cầu cứu Nam Hán mà con rể ông là Ngô Quyền kéo quân ra Bắc trị tội, dẫn thẳng đến trận Bạch Đằng lịch sử năm 938."
+   ],
+   "traps": [
+    "Dương Đình Nghệ đánh quân NAM HÁN năm 931 — Nam Hán là một nước thời Ngũ đại Thập quốc ở Trung Quốc, không phải nhà Hán thời Hai Bà Trưng."
+   ],
+   "aliases": [
+    "Dương Đình Nghệ",
+    "Dương Diên Nghệ",
+    "họ Dương giành lại tự chủ"
+   ],
+   "actors": [
+    "Dương Đình Nghệ",
+    "Khúc Thừa Mỹ",
+    "Kiều Công Tiễn"
+   ],
+   "place": "thành Đại La (Hà Nội)",
+   "year": 931,
+   "date_start": "931",
+   "date_end": "937",
+   "topic_title": "Cuộc đấu tranh giành quyền tự chủ của họ Khúc, họ Dương",
+   "lessons": [
+    {
+     "book": "Sách cũ",
+     "bai": 26
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/D%C6%B0%C6%A1ng_%C4%90%C3%ACnh_Ngh%E1%BB%87"
+   ]
+  },
+  {
+   "name": "Trận Bạch Đằng (938)",
+   "kind": "battle",
+   "summary": "Ngô Quyền dùng trận địa cọc ngầm và thủy triều trên sông Bạch Đằng đánh tan thủy quân Nam Hán cuối năm 938, chấm dứt hơn một nghìn năm Bắc thuộc.",
+   "facts": [
+    "Năm 937, Kiều Công Tiễn giết Dương Đình Nghệ để đoạt chức; khi bị Ngô Quyền kéo quân ra hỏi tội, hắn cầu cứu vua Nam Hán — hành động này trực tiếp dẫn tới cuộc xâm lược của Nam Hán năm 938.",
+    "Vua Nam Hán Lưu Cung sai con là Lưu Hoằng Tháo chỉ huy khoảng 2 vạn thủy quân theo đường biển tiến vào nước ta.",
+    "Ngô Quyền nhanh chóng tiêu diệt Kiều Công Tiễn, rồi cho đóng cọc gỗ đầu bịt sắt nhọn xuống lòng sông Bạch Đằng và bố trí quân mai phục, lợi dụng quy luật lên xuống của thủy triều.",
+    "Cuối năm 938, khi triều lên, thuyền nhẹ của ta ra khiêu chiến rồi giả thua nhử địch vượt qua bãi cọc; lúc triều rút, quân ta phản công dữ dội, thuyền giặc va vào cọc vỡ tan, chủ tướng Lưu Hoằng Tháo tử trận.",
+    "Chiến thắng Bạch Đằng năm 938 đè bẹp ý chí xâm lược của Nam Hán, chấm dứt hơn một nghìn năm Bắc thuộc và mở ra thời kì độc lập lâu dài của dân tộc.",
+    "Năm 939, Ngô Quyền xưng vương, lập nhà Ngô và đóng đô ở Cổ Loa, khẳng định nền độc lập hoàn toàn."
+   ],
+   "traps": [
+    "Trận Bạch Đằng năm 938 là của NGÔ QUYỀN chống quân NAM HÁN — đừng nhầm với Bạch Đằng năm 981 (Lê Hoàn chống Tống) hay Bạch Đằng năm 1288 (Trần Hưng Đạo chống quân Nguyên).",
+    "Chiều nhân-quả đúng: Kiều Công Tiễn giết Dương Đình Nghệ rồi cầu cứu Nam Hán → Nam Hán đem quân sang → Ngô Quyền đánh tan trên sông Bạch Đằng; không phải Nam Hán sang trước rồi Kiều Công Tiễn mới cầu cứu."
+   ],
+   "aliases": [
+    "chiến thắng Bạch Đằng năm 938",
+    "Ngô Quyền đại phá quân Nam Hán",
+    "trận thủy chiến Bạch Đằng"
+   ],
+   "actors": [
+    "Ngô Quyền",
+    "Kiều Công Tiễn",
+    "Lưu Hoằng Tháo",
+    "Lưu Cung"
+   ],
+   "place": "cửa sông Bạch Đằng (vùng Hải Phòng - Quảng Ninh)",
+   "year": 938,
+   "date_start": "938",
+   "date_end": "938",
+   "topic_title": "Ngô Quyền và chiến thắng Bạch Đằng năm 938",
+   "lessons": [
+    {
+     "book": "Sách cũ",
+     "bai": 27
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Tr%E1%BA%ADn_B%E1%BA%A1ch_%C4%90%E1%BA%B1ng_(938)",
+    "https://vi.wikipedia.org/wiki/Ng%C3%B4_Quy%E1%BB%81n"
+   ]
+  },
+  {
+   "name": "Ngô Quyền",
+   "kind": "person",
+   "summary": "Ngô Quyền (898-944), quê Đường Lâm, con rể Dương Đình Nghệ, người đánh tan quân Nam Hán trên sông Bạch Đằng năm 938 và xưng vương năm 939.",
+   "facts": [
+    "Ngô Quyền (898-944) quê ở Đường Lâm (Sơn Tây, Hà Nội ngày nay) — cùng quê với Phùng Hưng, nên Đường Lâm được gọi là 'đất hai vua'.",
+    "Ông là con rể và là tướng giỏi dưới quyền Dương Đình Nghệ; sau khi cha vợ bị Kiều Công Tiễn sát hại năm 937, ông kéo quân ra Bắc diệt kẻ phản bội.",
+    "Năm 938, ông chỉ huy trận Bạch Đằng, dùng trận địa cọc ngầm kết hợp thủy triều đánh tan thủy quân Nam Hán.",
+    "Năm 939, ông xưng vương, lập nhà Ngô và đóng đô ở Cổ Loa — kinh đô cũ của An Dương Vương — như một cách nối lại quốc thống.",
+    "Ông làm vua được 5 năm thì mất (năm 944); đời sau tôn ông là vị tổ trung hưng của dân tộc và xếp ông vào hàng 14 anh hùng dân tộc tiêu biểu."
+   ],
+   "traps": [
+    "Ngô Quyền xưng VƯƠNG (Ngô Vương) năm 939 chứ không xưng đế, và đóng đô ở CỔ LOA — không phải Đại La hay Hoa Lư."
+   ],
+   "aliases": [
+    "Tiền Ngô Vương",
+    "Ngô Vương",
+    "Ngô Vương Quyền"
+   ],
+   "actors": [
+    "Ngô Quyền",
+    "Dương Đình Nghệ",
+    "Kiều Công Tiễn"
+   ],
+   "place": "Đường Lâm, Sơn Tây (Hà Nội)",
+   "year": null,
+   "date_start": "898",
+   "date_end": "944",
+   "topic_title": "Ngô Quyền và chiến thắng Bạch Đằng năm 938",
+   "lessons": [
+    {
+     "book": "Sách cũ",
+     "bai": 27
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Ng%C3%B4_Quy%E1%BB%81n"
+   ]
+  },
+  {
+   "name": "Lịch sử và các loại tư liệu lịch sử",
+   "kind": "concept",
+   "summary": "Khái niệm mở đầu môn Lịch sử lớp 6: lịch sử là những gì đã diễn ra trong quá khứ, được dựng lại nhờ tư liệu truyền miệng, hiện vật, chữ viết và tư liệu gốc.",
+   "facts": [
+    "Lịch sử là tất cả những gì đã diễn ra trong quá khứ; môn Lịch sử là môn học tìm hiểu và dựng lại quá khứ ấy của con người.",
+    "Muốn dựng lại lịch sử, con người phải dựa vào các nguồn tư liệu, thường chia thành tư liệu truyền miệng, tư liệu hiện vật và tư liệu chữ viết.",
+    "Tư liệu truyền miệng gồm truyền thuyết, cổ tích, thần thoại... được kể truyền từ đời này sang đời khác.",
+    "Tư liệu hiện vật là những dấu tích vật chất của người xưa như di tích, công trình, trống đồng, đồ gốm, văn bia.",
+    "Tư liệu chữ viết gồm sách, bản ghi chép, nhật kí, báo... phản ánh tương đối đầy đủ các mặt đời sống và các sự kiện đã xảy ra.",
+    "Tư liệu gốc là tư liệu ra đời vào đúng thời điểm sự kiện diễn ra và liên quan trực tiếp đến sự kiện, nên có giá trị xác thực cao nhất.",
+    "Học lịch sử giúp ta biết cội nguồn của tổ tiên, quê hương, đất nước và rút ra bài học kinh nghiệm cho hiện tại, tương lai."
+   ],
+   "traps": [
+    "'Tư liệu gốc' không phải một loại tách biệt với hiện vật hay chữ viết: một hiện vật hoặc một văn bản đều có thể là tư liệu gốc, miễn nó ra đời cùng thời điểm sự kiện — giá trị của nó nằm ở tính trực tiếp, xác thực nhất."
+   ],
+   "aliases": [
+    "tư liệu lịch sử",
+    "tư liệu gốc",
+    "tư liệu hiện vật",
+    "tư liệu chữ viết",
+    "tư liệu truyền miệng",
+    "lịch sử là gì"
+   ],
+   "actors": [],
+   "place": null,
+   "year": null,
+   "date_start": null,
+   "date_end": null,
+   "topic_title": "Lịch sử là gì?",
+   "lessons": [
+    {
+     "book": "CTST",
+     "bai": 1
+    },
+    {
+     "book": "Cánh diều",
+     "bai": 1
+    }
+   ],
+   "sources": [
+    "https://vietjack.com/lich-su-6-ct/cau-hoi-1-trang-12-lich-su-lop-6-chan-troi-sang-tao.jsp",
+    "https://vietjack.com/lich-su-6-ket-noi/luyen-tap-1-trang-13-lich-su-lop-6-ket-noi-tri-thuc.jsp"
+   ]
+  }
+ ]
+}

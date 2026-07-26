@@ -45,6 +45,40 @@ Thứ tự tầng cho câu Sử: **(1) HistEvent exact/alias/year match** (rẻ,
 - `hist_battery.json`: ~40 câu regression đúc từ chính lỗi user ghi (expect/forbid marker) — chạy trước/sau trên :8888 vs :8893.
 - Test cũ: `probe/cmp_hist_t1` 40 câu (3/30→24/30).
 
+## 5b. T2 ĐÃ BUILD + TEST XANH trên canary :8893 (2026-07-26)
+
+### Dữ liệu đã nạp (data-only, reversible, KHÔNG cần restart prod)
+| Nhãn | Số lượng | Ghi chú |
+|---|---|---|
+| `:HistLesson` | 808 | khung 813 bài SGK L4-12 (`ingest_batch='hist_v1_2026_07_26'`) |
+| `:HistEvent` | 334 | 26 **GOLD** (`verified=true`) + 308 chờ verify (`verified=false`, **KHÔNG serve**) |
+| `:HistAlias` | 1399 (+65) | alias node riêng để index-seek; alias ngắn + alias **mô tả** cho câu đố-ngược |
+
+- **GOLD = 26 thẻ dựng từ chính 34 ghi chú lỗi của user** (giáo viên đã ghi đáp án đúng → nguồn chuẩn nhất). Chỉ thẻ GOLD được serve.
+- 308 thẻ web-generated (L4-L7, từ 15/34 chunk) đã qua **gate tất định** 357/358: format + tự-nhất-quán (năm-trong-tên vs field year, range đảo, facts nhắc năm) + known-fact exact. Nhưng **chưa web-verify** (workflow chết vì hết hạn mức phiên) → giữ `verified=false`.
+- Cảnh báo nguồn: **87/357 thẻ chỉ dựa loigiaihay/vietjack** (`source_tier='soanbai'|'unknown'`) — phải verify kỹ trước khi bật.
+
+### Code T2 (canary `rag_server_canary8892.py`, backup `.bak_pre_t2_20260726`)
+`query_hist_event()` = Tier-1 đặt **TRƯỚC B2/wiki**: alias-longest qua `:HistAlias` → year-filter → tie-break lớp → **sibling-guard** → build "THẺ SỰ KIỆN". Kill-switch `HISTEVENT_ENABLED=0`. Chỉ ăn câu **factoid** (`_hist_is_factoid`), câu recite/giảng đi tiếp tầng dưới.
+
+**3 BUG đã bắt & sửa khi test (đáng ghi nhớ):**
+1. **NORM LỆCH** — `_fold` của server giữ dấu gạch nối (`gio-ne-vo`) còn alias lưu dạng space (`gio ne vo`) → mọi tên có gạch nối trượt. Thêm `_hfold()` dùng đúng công thức lúc ingest. *(Cùng lớp lỗi en-dash 2026-06-22.)*
+2. **YEAR-FILTER MÙ khi chỉ 1 ứng viên** — "Điện Biên Phủ **năm 1972**" trả thẻ **1954**, tức SAI CÓ UY QUYỀN. Sửa: câu nêu năm mà thẻ khớp sai năm → tìm anh-em cùng tiền tố đúng năm; không có → **nhường tầng dưới**, tuyệt đối không trả thẻ sai năm.
+3. **Session scope** — truy vấn sibling dùng session đã đóng → guard **im lặng không chạy** (exception bị nuốt).
+
+### Kết quả đo (battery 40 câu đúc từ lỗi thật của user)
+| | PASS | nguồn | dính bẫy |
+|---|---|---|---|
+| **prod** (code cũ) | **18/40** | 18 wiki, 0 KB | 0 |
+| canary T1 (chỉ gate môn) | 15/40 | 15 KB | 3 |
+| **canary T2** (fact-node) | **25/40** | **18 KB** + 7 wiki | **0** |
+
+Test chi tiết 12 ca: **12/12 đạt kỳ vọng** — ĐBP-trên-không→1972 ✓, Tạm ước→Pa-ri ✓, Nava→2 bước ✓, Giơ-ne-vơ→21/7 ✓, Trần Phú ✓, Nguyễn Hiền ✓ (đố-ngược), "Điện Biên Phủ" trần → **hỏi lại** thay vì đoán ✓, "vì sao thắng ĐBP" → vẫn đi giảng (không false-abstain) ✓, recite + realtime nguyên vẹn ✓.
+
+15 câu NOFACT còn lại = **chưa có thẻ GOLD** (mới 26 thẻ) → sẽ hết khi verify xong 308 thẻ + build tiếp L8-L12.
+
+**BÀI HỌC BỘ CHẤM (lặp lại bài học cũ "test tuyến ≠ test nội dung"):** bộ chấm đầu báo 11 TRAP toàn **false-positive** — vì thẻ có mục "LƯU Ý TRÁNH NHẦM" cố ý chứa số sai ("không phải 1973"), và thẻ đúng vẫn được nhắc mốc khác có thật (Hiệp định Paris 1973). Phải cắt mục traps + chấm forbid trên phần dữ kiện chính.
+
 ## 6. Trạng thái & việc còn
 - [x] T1 canary + test; [x] :HistLesson 808; [x] battery; [ ] workflow fact-card xong → gate cuối + dedup liên-lớp → ingest :HistEvent (reversible); [ ] T2 hook canary + battery so sánh; [ ] **xin user restart prod** (gộp: T1 + few-shot recite 16/19 + T2).
 - Nguyên tắc giữ nguyên: restart prod PHẢI XIN; data-only tự do nhưng backup per-eid; phán đoán agent phải có cổng tất định gác.

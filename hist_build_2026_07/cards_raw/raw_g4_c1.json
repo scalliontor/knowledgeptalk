@@ -1,0 +1,824 @@
+{
+ "grade": 4,
+ "chunk": 1,
+ "cards": [
+  {
+   "name": "Sự suy yếu của nhà Trần cuối thế kỷ XIV",
+   "kind": "period",
+   "summary": "Từ giữa thế kỷ XIV, nhà Trần suy yếu vì vua quan ăn chơi, không chăm lo dân, dẫn đến việc Hồ Quý Ly truất ngôi nhà Trần năm 1400.",
+   "topic_title": "Nước ta cuối thời Trần",
+   "year": null,
+   "date_start": null,
+   "date_end": "1400",
+   "place": "Đại Việt",
+   "actors": [
+    "Trần Dụ Tông",
+    "Chu Văn An",
+    "Hồ Quý Ly"
+   ],
+   "aliases": [
+    "Nước ta cuối thời Trần",
+    "nhà Trần suy vong",
+    "sự suy sụp của nhà Trần cuối thế kỉ XIV"
+   ],
+   "facts": [
+    "Từ giữa thế kỷ XIV, nhà Trần bước vào thời kỳ suy yếu vì vua quan chỉ lo ăn chơi hưởng lạc, không chăm lo đời sống của nhân dân.",
+    "Dưới thời vua Trần Dụ Tông giữa thế kỷ XIV, nhiều quan lại tham lam, ham rượu chè cờ bạc khiến triều đình ngày càng mục nát.",
+    "Vì đê điều không được chăm sóc và mất mùa liên tiếp, đời sống nhân dân cuối thời Trần rất cực khổ nên nhiều nơi nông dân và nô tì đã nổi dậy đấu tranh.",
+    "Thầy giáo Chu Văn An dâng 'Thất trảm sớ' xin vua Trần Dụ Tông chém 7 tên quan nịnh thần, nhưng vua không nghe nên ông từ quan về quê dạy học.",
+    "Chính sự suy yếu kéo dài của nhà Trần đã dẫn đến việc Hồ Quý Ly truất ngôi vua Trần vào năm 1400, chấm dứt triều đại nhà Trần tồn tại từ năm 1226."
+   ],
+   "traps": [
+    "Chu Văn An dâng Thất trảm sớ dưới thời vua Trần Dụ Tông cuối thời Trần — đừng nhầm ông sang thời Lý hay thời Lê.",
+    "Nhà Trần mất ngôi về tay Hồ Quý Ly năm 1400, không phải bị quân Minh trực tiếp lật đổ; quân Minh sang xâm lược sau đó (1406) và đánh bại nhà Hồ."
+   ],
+   "lessons": [
+    {
+     "book": "Sách cũ",
+     "bai": 15
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Nh%C3%A0_Tr%E1%BA%A7n",
+    "https://danviet.vn/nguoi-thay-noi-tieng-nhat-viet-nam-viet-that-tram-so-nhung-bi-vua-lam-ngo-20241023163620009-d1191139.html"
+   ]
+  },
+  {
+   "name": "Hồ Quý Ly và nhà Hồ",
+   "kind": "dynasty",
+   "summary": "Năm 1400, Hồ Quý Ly truất ngôi vua Trần lập nhà Hồ, đổi tên nước là Đại Ngu, đóng đô ở Tây Đô; nhà Hồ sụp đổ năm 1407 khi quân Minh xâm lược.",
+   "topic_title": "Nước ta cuối thời Trần",
+   "year": 1400,
+   "date_start": "1400",
+   "date_end": "1407",
+   "place": "Thành Tây Đô (Vĩnh Lộc, Thanh Hóa)",
+   "actors": [
+    "Hồ Quý Ly",
+    "Hồ Hán Thương"
+   ],
+   "aliases": [
+    "nhà Hồ",
+    "triều Hồ",
+    "nước Đại Ngu",
+    "Hồ Quý Ly"
+   ],
+   "facts": [
+    "Năm 1400, Hồ Quý Ly truất ngôi vua Trần, tự lên làm vua, lập ra nhà Hồ và đổi tên nước từ Đại Việt thành Đại Ngu.",
+    "Nhà Hồ dời kinh đô từ Thăng Long về thành Tây Đô ở Thanh Hóa; tòa thành đá này ngày nay gọi là Thành nhà Hồ.",
+    "Hồ Quý Ly tiến hành nhiều cải cách như thay thế các quan lại yếu kém, phát hành tiền giấy, hạn chế ruộng đất và nô tì của quý tộc.",
+    "Cuối năm 1406, nhà Minh đem quân sang xâm lược nước ta; đến giữa năm 1407 cha con Hồ Quý Ly bị bắt, nhà Hồ sụp đổ sau 7 năm tồn tại.",
+    "Vì nhà Hồ chỉ dựa vào quân đội mà không đoàn kết được toàn dân, cuộc kháng chiến chống quân Minh thất bại nhanh chóng, khiến nước ta rơi vào ách đô hộ của nhà Minh hai mươi năm."
+   ],
+   "traps": [
+    "Quốc hiệu nước ta thời nhà Hồ là Đại Ngu, không phải Đại Việt hay Đại Cồ Việt.",
+    "Thành nhà Hồ (Tây Đô) nằm ở Thanh Hóa, không phải ở Thăng Long - Hà Nội."
+   ],
+   "lessons": [
+    {
+     "book": "Sách cũ",
+     "bai": 15
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Nh%C3%A0_H%E1%BB%93",
+    "https://thanhnhaho.vn/NewsDetail.aspx?Id=7683"
+   ]
+  },
+  {
+   "name": "Chiến thắng Chi Lăng",
+   "kind": "battle",
+   "summary": "Tháng 10/1427, nghĩa quân Lam Sơn mai phục tại ải Chi Lăng (Lạng Sơn) chém chết chủ tướng viện binh Minh là Liễu Thăng, buộc quân Minh xin hòa và rút về nước, kết thúc thắng lợi khởi nghĩa Lam Sơn.",
+   "topic_title": "Chiến thắng Chi Lăng",
+   "year": 1427,
+   "date_start": "1427-09-18",
+   "date_end": "1427-12-10",
+   "place": "Ải Chi Lăng, Lạng Sơn",
+   "actors": [
+    "Lê Lợi",
+    "Liễu Thăng",
+    "Vương Thông"
+   ],
+   "aliases": [
+    "trận Chi Lăng",
+    "trận Chi Lăng - Xương Giang",
+    "chiến thắng ải Chi Lăng năm 1427"
+   ],
+   "facts": [
+    "Cuối năm 1427, vua Minh sai tướng Liễu Thăng dẫn khoảng 10 vạn viện binh kéo sang cứu đạo quân Minh đang bị nghĩa quân Lam Sơn vây hãm ở thành Đông Quan.",
+    "Nghĩa quân Lam Sơn do Lê Lợi lãnh đạo chọn ải Chi Lăng ở Lạng Sơn — vùng núi hiểm trở trên đường từ biên giới về Thăng Long — làm trận địa mai phục viện binh giặc.",
+    "Ngày 10/10/1427, nghĩa quân giả thua nhử Liễu Thăng cùng đội kỵ binh đuổi theo lọt vào trận địa mai phục ở ải Chi Lăng rồi bất ngờ đổ ra đánh, chém chết Liễu Thăng.",
+    "Chủ tướng Liễu Thăng tử trận khiến đạo viện binh hoảng loạn mất tinh thần, sau đó bị nghĩa quân tiêu diệt và bắt sống gần hết ở Xương Giang vào cuối tháng 10, đầu tháng 11 năm 1427.",
+    "Nghe tin viện binh tan vỡ, tướng Vương Thông ở Đông Quan hoảng sợ xin hòa; ngày 10/12/1427 hội thề Đông Quan diễn ra, quân Minh cam kết rút hết về nước vào đầu năm 1428.",
+    "Chiến thắng Chi Lăng - Xương Giang năm 1427 kết thúc thắng lợi cuộc khởi nghĩa Lam Sơn kéo dài mười năm (1418-1427), giành lại độc lập cho đất nước."
+   ],
+   "traps": [
+    "Chiến thắng Chi Lăng năm 1427 là đánh quân MINH — đừng nhầm với đánh quân Thanh (1789) hay quân Tống (981, 1077).",
+    "Liễu Thăng bị chém tại ải Chi Lăng (Lạng Sơn), không phải tại Xương Giang hay Đông Quan.",
+    "Ải Chi Lăng thuộc tỉnh Lạng Sơn, trên con đường từ biên giới phía bắc về Thăng Long."
+   ],
+   "lessons": [
+    {
+     "book": "Sách cũ",
+     "bai": 16
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Tr%E1%BA%ADn_Chi_L%C4%83ng_%E2%80%93_X%C6%B0%C6%A1ng_Giang",
+    "https://nguoikesu.com/tu-lieu/quan-su/tran-chi-lang-xuong-giang",
+    "https://baotanglichsu.vn/vi/Articles/2002/68094/ngay-10-12-1427-hoi-the-djong-quan-ket-thuc-thang-loi-cuoc-khang-chien-chong-quan-minh.html"
+   ]
+  },
+  {
+   "name": "Lê Lợi",
+   "kind": "person",
+   "summary": "Lê Lợi (1385-1433) là thủ lĩnh khởi nghĩa Lam Sơn đánh đuổi quân Minh; năm 1428 ông lên ngôi hoàng đế, lập ra nhà Hậu Lê.",
+   "topic_title": "Chiến thắng Chi Lăng",
+   "year": null,
+   "date_start": "1385",
+   "date_end": "1433",
+   "place": "Lam Sơn, Thanh Hóa",
+   "actors": [
+    "Lê Lợi"
+   ],
+   "aliases": [
+    "Lê Thái Tổ",
+    "Bình Định Vương",
+    "vua Lê Thái Tổ"
+   ],
+   "facts": [
+    "Lê Lợi (1385-1433) là một hào trưởng vùng Lam Sơn, Thanh Hóa; đầu năm 1418 ông phất cờ khởi nghĩa Lam Sơn chống ách đô hộ của nhà Minh.",
+    "Sau mười năm chiến đấu (1418-1427), nghĩa quân Lam Sơn của Lê Lợi đánh bại hoàn toàn quân Minh, đỉnh cao là chiến thắng Chi Lăng - Xương Giang cuối năm 1427.",
+    "Năm 1428, Lê Lợi lên ngôi hoàng đế, tức vua Lê Thái Tổ, lập ra nhà Hậu Lê, khôi phục quốc hiệu Đại Việt và đóng đô ở Thăng Long (khi đó gọi là Đông Kinh).",
+    "Lê Lợi gắn với truyền thuyết trả gươm thần cho Rùa Vàng ở hồ Tả Vọng sau khi thắng giặc, từ đó hồ mang tên Hồ Gươm (hồ Hoàn Kiếm)."
+   ],
+   "traps": [
+    "Lê Lợi lập nhà HẬU LÊ năm 1428; còn nhà TIỀN LÊ do Lê Hoàn lập năm 980 — hai triều đại khác nhau.",
+    "Lê Lợi lãnh đạo khởi nghĩa Lam Sơn chống quân Minh, không phải chống quân Nguyên (thời Trần) hay quân Thanh (thời Tây Sơn)."
+   ],
+   "lessons": [
+    {
+     "book": "Sách cũ",
+     "bai": 16
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/L%C3%AA_Th%C3%A1i_T%E1%BB%95",
+    "https://vi.wikipedia.org/wiki/Kh%E1%BB%9Fi_ngh%C4%A9a_Lam_S%C6%A1n"
+   ]
+  },
+  {
+   "name": "Nhà Hậu Lê",
+   "kind": "dynasty",
+   "summary": "Nhà Hậu Lê do Lê Lợi lập năm 1428, tổ chức bộ máy nhà nước ngày càng chặt chẽ; đến đời Lê Thánh Tông, vua nắm mọi quyền hành, có bản đồ và bộ luật riêng để quản lý đất nước.",
+   "topic_title": "Nhà Hậu Lê và việc tổ chức quản lí đất nước",
+   "year": 1428,
+   "date_start": "1428",
+   "date_end": null,
+   "place": "Đông Kinh (Thăng Long, Hà Nội)",
+   "actors": [
+    "Lê Lợi",
+    "Lê Thánh Tông"
+   ],
+   "aliases": [
+    "nhà Lê sơ",
+    "triều Hậu Lê",
+    "thời Lê sơ"
+   ],
+   "facts": [
+    "Nhà Hậu Lê được Lê Lợi lập ra năm 1428 sau thắng lợi của khởi nghĩa Lam Sơn, đặt tên nước là Đại Việt và đóng đô ở Thăng Long.",
+    "Đến đời vua Lê Thánh Tông (trị vì 1460-1497), bộ máy nhà nước Hậu Lê đạt mức hoàn chỉnh nhất: vua trực tiếp nắm mọi quyền hành, kể cả quyền tổng chỉ huy quân đội.",
+    "Thời Hậu Lê, cả nước được chia thành các đạo thừa tuyên, dưới đạo là phủ, huyện, xã, giúp triều đình quản lý chặt chẽ đến tận địa phương.",
+    "Để quản lý đất nước, nhà Hậu Lê cho vẽ bản đồ Hồng Đức — bản đồ hành chính đầu tiên của nước ta, hoàn thành năm 1490 — và ban hành Bộ luật Hồng Đức.",
+    "Nhờ tổ chức bộ máy chặt chẽ và có pháp luật rõ ràng, nước Đại Việt thời vua Lê Thánh Tông trở nên hùng mạnh, kỷ cương nề nếp."
+   ],
+   "traps": [
+    "Nhà Hậu Lê (Lê Lợi sáng lập năm 1428) khác nhà Tiền Lê (Lê Hoàn sáng lập năm 980).",
+    "Bản đồ Hồng Đức và Bộ luật Hồng Đức ra đời dưới thời vua Lê Thánh Tông, không phải thời Lê Lợi (Lê Thái Tổ)."
+   ],
+   "lessons": [
+    {
+     "book": "Sách cũ",
+     "bai": 17
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Nh%C3%A0_L%C3%AA_s%C6%A1",
+    "https://hoangthanhthanglong.vn/bo-luat-hong-duc-va-ban-do-hong-duc/"
+   ]
+  },
+  {
+   "name": "Bộ luật Hồng Đức",
+   "kind": "artifact",
+   "summary": "Bộ luật Hồng Đức (Quốc triều hình luật) ban hành thời vua Lê Thánh Tông khoảng năm 1483, là bộ luật hoàn chỉnh và nổi tiếng nhất thời phong kiến Việt Nam.",
+   "topic_title": "Nhà Hậu Lê và việc tổ chức quản lí đất nước",
+   "year": 1483,
+   "date_start": null,
+   "date_end": null,
+   "place": null,
+   "actors": [
+    "Lê Thánh Tông"
+   ],
+   "aliases": [
+    "Quốc triều hình luật",
+    "luật Hồng Đức",
+    "Lê triều hình luật"
+   ],
+   "facts": [
+    "Bộ luật Hồng Đức được ban hành dưới thời vua Lê Thánh Tông, khoảng năm 1483, dưới niên hiệu Hồng Đức.",
+    "Bộ luật Hồng Đức có tên chữ là Quốc triều hình luật, gồm 13 chương với 722 điều.",
+    "Nội dung chính của luật Hồng Đức là bảo vệ quyền lợi của vua quan, bảo vệ chủ quyền quốc gia, khuyến khích phát triển kinh tế và giữ gìn truyền thống tốt đẹp của dân tộc.",
+    "Điểm tiến bộ nổi bật của Bộ luật Hồng Đức là có nhiều điều khoản bảo vệ quyền lợi của phụ nữ — điều hiếm thấy trong luật pháp phong kiến.",
+    "Nhờ có bộ luật thành văn rõ ràng, việc cai trị đất nước thời Hậu Lê đi vào nề nếp, người dân có pháp luật để noi theo."
+   ],
+   "traps": [
+    "Bộ luật Hồng Đức ra đời thời vua Lê Thánh Tông nhà Hậu Lê — đừng nhầm với bộ Hình thư thời Lý hay bộ luật Gia Long thời Nguyễn.",
+    "'Hồng Đức' là niên hiệu của vua Lê Thánh Tông, không phải tên người soạn luật."
+   ],
+   "lessons": [
+    {
+     "book": "Sách cũ",
+     "bai": 17
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/B%E1%BB%99_lu%E1%BA%ADt_H%E1%BB%93ng_%C4%90%E1%BB%A9c",
+    "https://hoangthanhthanglong.vn/bo-luat-hong-duc-va-ban-do-hong-duc/"
+   ]
+  },
+  {
+   "name": "Lê Thánh Tông",
+   "kind": "person",
+   "summary": "Lê Thánh Tông (1442-1497) là vị vua đưa nhà Hậu Lê lên đỉnh cao thịnh trị: ban Bộ luật Hồng Đức, vẽ bản đồ Hồng Đức, dựng bia tiến sĩ và lập hội thơ Tao Đàn.",
+   "topic_title": "Nhà Hậu Lê và việc tổ chức quản lí đất nước",
+   "year": null,
+   "date_start": "1442",
+   "date_end": "1497",
+   "place": "Thăng Long (Đông Kinh)",
+   "actors": [
+    "Lê Thánh Tông"
+   ],
+   "aliases": [
+    "Lê Tư Thành",
+    "vua Lê Thánh Tông",
+    "vua Hồng Đức"
+   ],
+   "facts": [
+    "Lê Thánh Tông (1442-1497), tên thật là Lê Tư Thành, trị vì 37 năm (1460-1497) — thời kỳ thịnh trị nhất của nhà Hậu Lê.",
+    "Dưới thời Lê Thánh Tông, nhà nước ban hành Bộ luật Hồng Đức (khoảng năm 1483) và hoàn thành bản đồ Hồng Đức (năm 1490) để quản lý đất nước.",
+    "Lê Thánh Tông rất chăm lo việc học: năm 1484 ông cho dựng bia tiến sĩ ở Văn Miếu để khắc tên những người đỗ đạt, khuyến khích nhân tài.",
+    "Lê Thánh Tông còn là nhà thơ lớn, đứng đầu hội thơ Tao Đàn và để lại tập thơ chữ Nôm 'Hồng Đức quốc âm thi tập'.",
+    "Hai niên hiệu của vua Lê Thánh Tông là Quang Thuận (1460-1469) và Hồng Đức (1470-1497)."
+   ],
+   "traps": [
+    "Lê Thánh Tông là vua nhà Hậu Lê ở thế kỷ XV — đừng nhầm với Lý Thánh Tông (nhà Lý) hay Trần Thánh Tông (nhà Trần)."
+   ],
+   "lessons": [
+    {
+     "book": "Sách cũ",
+     "bai": 17
+    }
+   ],
+   "sources": [
+    "https://portal.vinhlong.gov.vn/portal/wpthuvientinh/thuvientinh/page/xemtin.cpx?item=62b58445e324dafca7fc3e45",
+    "https://hoangthanhthanglong.vn/bo-luat-hong-duc-va-ban-do-hong-duc/"
+   ]
+  },
+  {
+   "name": "Giáo dục và khoa cử thời Hậu Lê",
+   "kind": "concept",
+   "summary": "Thời Hậu Lê, giáo dục phát triển mạnh và có nề nếp: Quốc Tử Giám được mở rộng nhận cả con thường dân giỏi, ba năm mở một kỳ thi, có lễ xướng danh, lễ vinh quy và bia tiến sĩ tôn vinh người tài.",
+   "topic_title": "Trường học thời Hậu Lê",
+   "year": null,
+   "date_start": null,
+   "date_end": null,
+   "place": "Văn Miếu - Quốc Tử Giám, Thăng Long",
+   "actors": [
+    "Lê Thánh Tông"
+   ],
+   "aliases": [
+    "trường học thời Hậu Lê",
+    "khoa cử thời Lê sơ",
+    "giáo dục thời Hậu Lê"
+   ],
+   "facts": [
+    "Thời Hậu Lê, Văn Miếu - Quốc Tử Giám ở Thăng Long được mở rộng, xây thêm nhà Thái Học với lớp học, chỗ ở cho học trò và kho sách, trở thành trung tâm đào tạo nhân tài lớn nhất cả nước.",
+    "Khác với thời Lý - Trần, trường Quốc Tử Giám thời Hậu Lê thu nhận cả con em thường dân học giỏi chứ không chỉ con em vua quan.",
+    "Nội dung học tập và thi cử thời Hậu Lê chủ yếu là Nho giáo, học trò phải học thuộc những điều Nho giáo dạy để đi thi.",
+    "Cứ ba năm, triều đình Hậu Lê mở một kỳ thi Hương ở các địa phương và thi Hội ở kinh thành để chọn người tài ra giúp nước.",
+    "Nhà Hậu Lê đặt ra lễ xướng danh (lễ đọc tên người đỗ) và lễ vinh quy (lễ đón rước người đỗ cao về làng) để tôn vinh người có tài.",
+    "Năm 1484, vua Lê Thánh Tông cho dựng bia đá ở Văn Miếu, khắc tên tiến sĩ từ khoa thi năm 1442 trở đi; ngày nay còn lại 82 tấm bia tiến sĩ."
+   ],
+   "traps": [
+    "Quốc Tử Giám được lập từ thời Lý (năm 1076); thời Hậu Lê chỉ mở rộng và phát triển thêm chứ không phải xây lần đầu.",
+    "Bia tiến sĩ bắt đầu dựng năm 1484 nhưng khắc tên từ khoa thi 1442; hiện còn 82 bia, không phải đủ bia của mọi khoa thi."
+   ],
+   "lessons": [
+    {
+     "book": "Sách cũ",
+     "bai": 18
+    }
+   ],
+   "sources": [
+    "http://dsvh.gov.vn/bia-de-danh-tien-si-tai-van-mieu-quoc-tu-giam-(ha-noi)",
+    "https://nguoikesu.com/dia-danh/van-mieu-quoc-tu-giam",
+    "http://vanmieu.gov.vn/vi/di-tich/"
+   ]
+  },
+  {
+   "name": "Nguyễn Hiền",
+   "kind": "person",
+   "summary": "Nguyễn Hiền là trạng nguyên trẻ nhất lịch sử khoa bảng Việt Nam, đỗ năm 13 tuổi tại khoa thi 1247 thời vua Trần Thái Tông — thẻ liên hệ cho các câu hỏi về trạng nguyên, khoa bảng khi học bài trường học xưa.",
+   "topic_title": "Trường học thời Hậu Lê",
+   "year": null,
+   "date_start": "1234",
+   "date_end": null,
+   "place": "Dương A, Nam Trực, Nam Định",
+   "actors": [
+    "Nguyễn Hiền",
+    "Trần Thái Tông"
+   ],
+   "aliases": [
+    "trạng nguyên Nguyễn Hiền",
+    "Ông Trạng thả diều",
+    "Khai quốc Trạng nguyên"
+   ],
+   "facts": [
+    "Nguyễn Hiền sinh năm 1234, quê ở làng Dương A (nay thuộc huyện Nam Trực, tỉnh Nam Định), nổi tiếng thần đồng từ nhỏ.",
+    "Tại khoa thi tháng 2 năm 1247 dưới thời vua Trần Thái Tông, Nguyễn Hiền đỗ trạng nguyên khi mới 13 tuổi, trở thành trạng nguyên trẻ nhất trong lịch sử khoa bảng Việt Nam.",
+    "Khoa thi năm 1247 là khoa thi đầu tiên đặt ra danh hiệu tam khôi gồm trạng nguyên, bảng nhãn, thám hoa.",
+    "Vì trạng nguyên còn quá nhỏ tuổi, vua Trần Thái Tông cho Nguyễn Hiền về quê học thêm lễ nghĩa ba năm rồi mới gọi ra làm quan.",
+    "Câu chuyện 'Ông Trạng thả diều' trong sách Tiếng Việt lớp 4 kể về chính Nguyễn Hiền — cậu bé nhà nghèo vừa chăn trâu thả diều vừa ham học mà đỗ trạng."
+   ],
+   "traps": [
+    "Trạng nguyên trẻ nhất lịch sử khoa bảng Việt Nam là NGUYỄN HIỀN, đỗ năm 13 tuổi tại khoa thi 1247 thời Trần Thái Tông; 'Nguyễn Minh Sát' là cái tên bịa, hoàn toàn không có thật.",
+    "Nguyễn Hiền đỗ trạng nguyên thời TRẦN (1247), trước khi có bia tiến sĩ thời Hậu Lê — đừng gán ông vào thời Hậu Lê."
+   ],
+   "lessons": [
+    {
+     "book": "Sách cũ",
+     "bai": 18
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Nguy%E1%BB%85n_Hi%E1%BB%81n",
+    "https://baolamdong.vn/nguyen-hien-trang-nguyen-13-tuoi-tre-nhat-lich-su-viet-nam-397665.html"
+   ]
+  },
+  {
+   "name": "Nguyễn Trãi",
+   "kind": "person",
+   "summary": "Nguyễn Trãi (1380-1442), hiệu Ức Trai, là anh hùng dân tộc và nhà văn hóa lớn thời Hậu Lê, tác giả Bình Ngô đại cáo, Quốc âm thi tập, Dư địa chí, Lam Sơn thực lục.",
+   "topic_title": "Văn học và khoa học thời Hậu Lê",
+   "year": null,
+   "date_start": "1380",
+   "date_end": "1442",
+   "place": null,
+   "actors": [
+    "Nguyễn Trãi",
+    "Lê Lợi"
+   ],
+   "aliases": [
+    "Ức Trai",
+    "anh hùng dân tộc Nguyễn Trãi"
+   ],
+   "facts": [
+    "Nguyễn Trãi (1380-1442), hiệu là Ức Trai, từng giúp Lê Lợi bày mưu tính kế trong suốt cuộc khởi nghĩa Lam Sơn (1418-1427).",
+    "Năm 1428, sau khi quân Minh bị đánh đuổi, Nguyễn Trãi viết 'Bình Ngô đại cáo' — áng văn tổng kết cuộc kháng chiến, được coi như bản tuyên ngôn độc lập thứ hai của nước ta.",
+    "'Quốc âm thi tập' của Nguyễn Trãi là tập thơ chữ Nôm cổ nhất còn giữ được đến ngày nay, mở đường cho thơ ca viết bằng tiếng Việt.",
+    "'Dư địa chí' do Nguyễn Trãi biên soạn là một trong những sách địa lý sớm nhất của Việt Nam, ghi chép núi sông, sản vật của các vùng đất nước.",
+    "Nguyễn Trãi còn viết 'Lam Sơn thực lục' kể lại quá trình khởi nghĩa Lam Sơn và tập thơ chữ Hán 'Ức Trai thi tập'."
+   ],
+   "traps": [
+    "'Bình Ngô đại cáo' do Nguyễn Trãi viết năm 1428 sau khi thắng quân MINH — đừng nhầm với 'Nam quốc sơn hà' (kháng chiến chống Tống) hay 'Hịch tướng sĩ' của Trần Hưng Đạo (chống Mông - Nguyên)."
+   ],
+   "lessons": [
+    {
+     "book": "Sách cũ",
+     "bai": 19
+    }
+   ],
+   "sources": [
+    "https://giaoducthoidai.vn/nguyen-trai-tu-tuong-nhan-nghia-trong-quoc-am-thi-tap-post487203.html",
+    "https://vnuhcmpress.edu.vn/uc-trai-di-tap-du-dia-chi-b40121.html"
+   ]
+  },
+  {
+   "name": "Văn học thời Hậu Lê",
+   "kind": "concept",
+   "summary": "Văn học thời Hậu Lê phát triển rực rỡ cả chữ Hán lẫn chữ Nôm, tiêu biểu là các tác phẩm của Nguyễn Trãi và vua Lê Thánh Tông cùng hội thơ Tao Đàn.",
+   "topic_title": "Văn học và khoa học thời Hậu Lê",
+   "year": null,
+   "date_start": null,
+   "date_end": null,
+   "place": null,
+   "actors": [
+    "Nguyễn Trãi",
+    "Lê Thánh Tông"
+   ],
+   "aliases": [
+    "văn học thời Lê sơ",
+    "thơ văn thời Hậu Lê"
+   ],
+   "facts": [
+    "Văn học thời Hậu Lê (thế kỷ XV) phát triển rực rỡ với cả hai loại chữ: chữ Hán và chữ Nôm — thứ chữ ghi lại tiếng nói của dân tộc.",
+    "Các tác phẩm tiêu biểu thời Hậu Lê gồm 'Bình Ngô đại cáo', 'Ức Trai thi tập', 'Quốc âm thi tập' của Nguyễn Trãi và 'Hồng Đức quốc âm thi tập' của vua Lê Thánh Tông.",
+    "Vua Lê Thánh Tông lập hội thơ Tao Đàn quy tụ các nhà thơ tài giỏi của triều đình và tự mình làm chủ soái.",
+    "Nhờ dùng chữ Nôm để sáng tác, thơ văn thời Hậu Lê thể hiện được tiếng nói và tâm hồn của người Việt chứ không chỉ mượn chữ Hán của nước ngoài."
+   ],
+   "traps": [
+    "'Quốc âm thi tập' là của Nguyễn Trãi, còn 'Hồng Đức quốc âm thi tập' là của vua Lê Thánh Tông — hai tập thơ Nôm khác nhau."
+   ],
+   "lessons": [
+    {
+     "book": "Sách cũ",
+     "bai": 19
+    }
+   ],
+   "sources": [
+    "https://giaoducthoidai.vn/nguyen-trai-tu-tuong-nhan-nghia-trong-quoc-am-thi-tap-post487203.html",
+    "https://portal.vinhlong.gov.vn/portal/wpthuvientinh/thuvientinh/page/xemtin.cpx?item=62b58445e324dafca7fc3e45"
+   ]
+  },
+  {
+   "name": "Khoa học thời Hậu Lê",
+   "kind": "concept",
+   "summary": "Thời Hậu Lê có nhiều công trình khoa học nổi tiếng: bộ sử Đại Việt sử ký toàn thư của Ngô Sĩ Liên, sách địa lý Dư địa chí của Nguyễn Trãi và sách toán Đại thành toán pháp của Lương Thế Vinh.",
+   "topic_title": "Văn học và khoa học thời Hậu Lê",
+   "year": null,
+   "date_start": null,
+   "date_end": null,
+   "place": null,
+   "actors": [
+    "Ngô Sĩ Liên",
+    "Nguyễn Trãi",
+    "Lương Thế Vinh"
+   ],
+   "aliases": [
+    "khoa học thời Lê sơ",
+    "sử học địa lý toán học thời Hậu Lê"
+   ],
+   "facts": [
+    "Về sử học, năm 1479 sử thần Ngô Sĩ Liên vâng lệnh vua Lê Thánh Tông biên soạn bộ 'Đại Việt sử ký toàn thư', ghi lại lịch sử nước ta từ thời Hùng Vương đến đầu thời Hậu Lê.",
+    "Ngô Sĩ Liên đỗ tiến sĩ tại khoa thi năm 1442 — khoa thi đầu tiên được khắc tên trên bia đá ở Văn Miếu.",
+    "'Lam Sơn thực lục' của Nguyễn Trãi ghi lại diễn biến cuộc khởi nghĩa Lam Sơn chống quân Minh (1418-1427).",
+    "Về địa lý, bộ 'Dư địa chí' của Nguyễn Trãi xác định rõ lãnh thổ quốc gia và ghi chép tài nguyên, sản vật của từng vùng.",
+    "Về toán học, Lương Thế Vinh (1441-1496) — người đỗ trạng nguyên năm 1463, dân gian gọi là Trạng Lường — soạn bộ 'Đại thành toán pháp' nổi tiếng."
+   ],
+   "traps": [
+    "'Đại Việt sử ký toàn thư' do Ngô Sĩ Liên biên soạn thời Hậu Lê — đừng nhầm với 'Đại Việt sử ký' của Lê Văn Hưu thời Trần.",
+    "'Đại thành toán pháp' là của Lương Thế Vinh (Trạng Lường), không phải của Nguyễn Trãi hay Ngô Sĩ Liên."
+   ],
+   "lessons": [
+    {
+     "book": "Sách cũ",
+     "bai": 19
+    }
+   ],
+   "sources": [
+    "https://trithucvn2.net/van-hoa/su-quan-ngo-si-lien-va-dai-viet-su-ky-toan-thu.html",
+    "https://vov2.vov.vn/van-hoa-giai-tri/vua-le-thanh-tong-va-viec-bien-soan-quoc-su-50916.vov2"
+   ]
+  },
+  {
+   "name": "Chiến tranh Nam triều - Bắc triều",
+   "kind": "period",
+   "summary": "Năm 1527 Mạc Đăng Dung lập nhà Mạc (Bắc triều); năm 1533 các cựu thần nhà Lê lập Nam triều ở Thanh Hóa; hai bên đánh nhau hơn 50 năm, đến năm 1592 mới cơ bản chấm dứt.",
+   "topic_title": "Trịnh - Nguyễn phân tranh",
+   "year": null,
+   "date_start": "1527",
+   "date_end": "1592",
+   "place": "Bắc Bộ và Thanh Hóa - Nghệ An",
+   "actors": [
+    "Mạc Đăng Dung",
+    "Nguyễn Kim"
+   ],
+   "aliases": [
+    "Nam - Bắc triều",
+    "chiến tranh Nam - Bắc triều",
+    "Lê - Mạc phân tranh"
+   ],
+   "facts": [
+    "Năm 1527, Mạc Đăng Dung ép vua Lê nhường ngôi, lập ra nhà Mạc; sử cũ gọi chính quyền nhà Mạc ở phía bắc là Bắc triều.",
+    "Năm 1533, các cựu thần nhà Lê do Nguyễn Kim đứng đầu đưa một người thuộc dòng dõi vua Lê lên ngôi ở vùng Thanh Hóa, lập nên Nam triều để chống nhà Mạc.",
+    "Nam triều và Bắc triều đánh nhau liên miên hơn 50 năm; đến năm 1592, Nam triều chiếm được Thăng Long, chiến tranh mới cơ bản chấm dứt.",
+    "Cuộc nội chiến Nam - Bắc triều kéo dài làm mùa màng bị tàn phá, nhân dân đói khổ và đất nước suy yếu."
+   ],
+   "traps": [
+    "Nam triều - Bắc triều là cuộc chiến giữa nhà Lê trung hưng và nhà Mạc ở thế kỷ XVI, KHÁC với Trịnh - Nguyễn phân tranh diễn ra sau đó ở thế kỷ XVII.",
+    "Bắc triều là nhà Mạc, Nam triều là phe nhà Lê — đừng đảo ngược hai bên."
+   ],
+   "lessons": [
+    {
+     "book": "Sách cũ",
+     "bai": 21
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Tr%E1%BB%8Bnh_%E2%80%93_Nguy%E1%BB%85n_ph%C3%A2n_tranh",
+    "https://loigiaihay.com/chien-tranh-trinh-nguyen-va-su-chia-cat-dang-trong-dang-ngoai-c82a13958.html"
+   ]
+  },
+  {
+   "name": "Trịnh - Nguyễn phân tranh",
+   "kind": "period",
+   "summary": "Từ 1627 đến 1672, họ Trịnh và họ Nguyễn đánh nhau bảy lần không phân thắng bại, phải lấy sông Gianh làm ranh giới chia đất nước thành Đàng Ngoài và Đàng Trong hơn 100 năm.",
+   "topic_title": "Trịnh - Nguyễn phân tranh",
+   "year": null,
+   "date_start": "1627",
+   "date_end": "1672",
+   "place": "Sông Gianh, Quảng Bình",
+   "actors": [
+    "chúa Trịnh",
+    "chúa Nguyễn",
+    "Nguyễn Hoàng",
+    "Trịnh Tráng",
+    "Nguyễn Phúc Nguyên"
+   ],
+   "aliases": [
+    "chiến tranh Trịnh - Nguyễn",
+    "Trịnh Nguyễn phân tranh",
+    "Đàng Trong - Đàng Ngoài"
+   ],
+   "facts": [
+    "Sau chiến tranh Nam - Bắc triều, họ Trịnh nắm quyền bên cạnh vua Lê ở phía bắc, còn Nguyễn Hoàng vào trấn thủ vùng Thuận Hóa từ năm 1558 rồi dần xây dựng thế lực riêng ở phía nam.",
+    "Từ năm 1627 đến năm 1672, họ Trịnh và họ Nguyễn đánh nhau bảy lần mà không bên nào thắng được bên nào.",
+    "Vì không phân được thắng bại, hai họ lấy sông Gianh ở Quảng Bình làm ranh giới: phía bắc sông là Đàng Ngoài, phía nam sông là Đàng Trong.",
+    "Ở Đàng Ngoài, vua Lê chỉ đứng đầu trên danh nghĩa còn mọi quyền hành nằm trong tay chúa Trịnh; ở Đàng Trong, chúa Nguyễn cai quản.",
+    "Cuộc phân tranh Trịnh - Nguyễn khiến đất nước bị chia cắt hơn 100 năm, đến khi nghĩa quân Tây Sơn lật đổ chúa Trịnh năm 1786 mới mở đầu việc thống nhất trở lại.",
+    "Chiến tranh liên miên giữa hai họ Trịnh - Nguyễn làm nhân dân hai miền cực khổ, sản xuất bị đình trệ."
+   ],
+   "traps": [
+    "Ranh giới chia Đàng Trong - Đàng Ngoài là SÔNG GIANH ở Quảng Bình — đừng nhầm với sông Bến Hải (vĩ tuyến 17) chia cắt đất nước sau Hiệp định Giơ-ne-vơ 1954.",
+    "Đàng Ngoài (phía bắc) do vua Lê - chúa Trịnh cai quản, Đàng Trong (phía nam) do chúa Nguyễn cai quản — đừng đảo ngược.",
+    "Trịnh - Nguyễn giao tranh 1627-1672 ở thế kỷ XVII, xảy ra SAU chiến tranh Nam - Bắc triều (Lê - Mạc) thế kỷ XVI."
+   ],
+   "lessons": [
+    {
+     "book": "Sách cũ",
+     "bai": 21
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Tr%E1%BB%8Bnh_%E2%80%93_Nguy%E1%BB%85n_ph%C3%A2n_tranh",
+    "https://loigiaihay.com/chien-tranh-trinh-nguyen-va-su-chia-cat-dang-trong-dang-ngoai-c82a13958.html",
+    "https://kienthuc.net.vn/di-san/dong-song-phan-chia-dang-trong-va-dang-ngoai-hon-150-nam-1474907.html"
+   ]
+  },
+  {
+   "name": "Cuộc khẩn hoang ở Đàng Trong",
+   "kind": "movement",
+   "summary": "Từ cuối thế kỷ XVI, các chúa Nguyễn khuyến khích dân vào nam khai khẩn đất hoang; nhờ đó xóm làng, ruộng đồng mở rộng dần đến đồng bằng sông Cửu Long, người Việt sống hòa hợp với người Chăm, Khơ-me.",
+   "topic_title": "Cuộc khẩn hoang ở Đàng Trong",
+   "year": null,
+   "date_start": "1558",
+   "date_end": "1698",
+   "place": "Đàng Trong (từ Phú Yên đến đồng bằng sông Cửu Long)",
+   "actors": [
+    "các chúa Nguyễn",
+    "Nguyễn Hoàng",
+    "Lương Văn Chánh",
+    "Nguyễn Hữu Cảnh"
+   ],
+   "aliases": [
+    "khẩn hoang Đàng Trong",
+    "mở cõi về phương Nam",
+    "Nam tiến thời chúa Nguyễn"
+   ],
+   "facts": [
+    "Từ cuối thế kỷ XVI, các chúa Nguyễn ra sức khuyến khích dân chúng vào phía nam khai khẩn đất hoang, lập làng xóm mới.",
+    "Những người đi khẩn hoang được chính quyền chúa Nguyễn giúp đỡ lương thực và nông cụ trong buổi đầu lập nghiệp; thậm chí tù phạm cũng được xá tội nếu tình nguyện đi mở đất.",
+    "Năm 1611, chúa Nguyễn lập phủ Phú Yên; Lương Văn Chánh là người có công lớn trong việc chiêu tập dân nghèo vào khai khẩn vùng đất này.",
+    "Đầu thế kỷ XVII, những nhóm dân Việt đầu tiên từ vùng Thuận - Quảng vào khai phá Mô Xoài (Bà Rịa) và Đồng Nai, mở đầu việc khẩn hoang Nam Bộ; đến năm 1698, phủ Gia Định được thành lập.",
+    "Trên vùng đất mới, người Việt sống hòa hợp, đoàn kết với người Chăm và người Khơ-me, cùng nhau khai phá và xây dựng quê hương.",
+    "Nhờ cuộc khẩn hoang, ruộng đồng và xóm làng ở Đàng Trong ngày càng mở rộng, lãnh thổ nước ta dần kéo dài tới tận đồng bằng sông Cửu Long."
+   ],
+   "traps": [
+    "Cuộc khẩn hoang ở Đàng Trong do các CHÚA Nguyễn tổ chức từ thế kỷ XVI-XVIII, trước khi triều Nguyễn (nhà vua) thành lập năm 1802 — đừng lẫn 'chúa Nguyễn' với 'nhà Nguyễn'.",
+    "Người Việt khẩn hoang sống hòa hợp với người Chăm, Khơ-me chứ không phải xua đuổi họ."
+   ],
+   "lessons": [
+    {
+     "book": "Sách cũ",
+     "bai": 22
+    }
+   ],
+   "sources": [
+    "https://his.ussh.vnu.edu.vn/vi/news/nguyen-viet-hoang/nguyen-phuc-nguyen-vi-chua-cua-nhung-ky-cong-mo-coi-dau-the-ky-xvii-gs-ts-nguyen-quang-ngoc-5747.html",
+    "https://phuyentourism.gov.vn/gioi-thieu/lich-su-phu-yen.html",
+    "http://khaocohoc.gov.vn/nam-bo-duoi-thoi-chua-nguyen-ky-xvii-xviii"
+   ]
+  },
+  {
+   "name": "Thành thị Đại Việt thế kỷ XVI - XVII",
+   "kind": "concept",
+   "summary": "Thế kỷ XVI - XVII, nước ta có ba thành thị sầm uất nổi tiếng: Thăng Long (Kẻ Chợ), Phố Hiến ở Đàng Ngoài và Hội An ở Đàng Trong, cho thấy công thương nghiệp thời này rất phát triển.",
+   "topic_title": "Thành thị ở thế kỷ XVI - XVII",
+   "year": null,
+   "date_start": null,
+   "date_end": null,
+   "place": "Thăng Long, Phố Hiến (Hưng Yên), Hội An (Quảng Nam)",
+   "actors": [],
+   "aliases": [
+    "Kẻ Chợ - Phố Hiến - Hội An",
+    "thành thị thế kỉ 16 - 17",
+    "đô thị Đại Việt thế kỷ XVI - XVII"
+   ],
+   "facts": [
+    "Vào thế kỷ XVI - XVII, nước ta có ba thành thị lớn nổi tiếng sầm uất: Thăng Long và Phố Hiến ở Đàng Ngoài, Hội An ở Đàng Trong.",
+    "Thăng Long thời đó còn được gọi là Kẻ Chợ, nổi tiếng với 36 phố phường buôn bán tấp nập; thương nhân nước ngoài nhận xét đây là thành thị lớn chẳng kém nhiều đô thị ở châu Á.",
+    "Phố Hiến (nay thuộc thành phố Hưng Yên) thịnh vượng nhất vào thế kỷ XVII, là nơi trung chuyển hàng hóa vào Thăng Long; dân gian có câu 'Thứ nhất Kinh Kỳ, thứ nhì Phố Hiến'.",
+    "Hội An (Quảng Nam) là thành phố cảng lớn nhất ở Đàng Trong, nơi thuyền buôn Nhật Bản, Trung Quốc và phương Tây thường xuyên ra vào buôn bán trong các thế kỷ XVII - XVIII.",
+    "Sự phồn thịnh của các thành thị thế kỷ XVI - XVII chứng tỏ nghề thủ công và việc buôn bán, kể cả buôn bán với nước ngoài, thời kỳ này rất phát triển."
+   ],
+   "traps": [
+    "Ba thành thị lớn thế kỷ XVI - XVII là Thăng Long (Kẻ Chợ), Phố Hiến và Hội An — Vân Đồn là thương cảng thời Lý - Trần, không thuộc nhóm này.",
+    "Kẻ Chợ là tên gọi khác của Thăng Long; Phố Hiến ở Hưng Yên (Đàng Ngoài), còn Hội An ở Quảng Nam (Đàng Trong)."
+   ],
+   "lessons": [
+    {
+     "book": "Sách cũ",
+     "bai": 23
+    }
+   ],
+   "sources": [
+    "https://thanhdiavietnamhoc.com/da%CC%A3c-sac-doi-song-kinh-te-xa-hoi-van-hoa-o-thang-long-cuoi-the-ky-xvi-va-the-ky-xvii/",
+    "https://thanhtra.com.vn/xa-hoi/doi-song/phuc-dung-pho-hien-xua-tro-thanh-diem-du-lich-mang-tinh-lich-su-van-hoa-194239.html"
+   ]
+  },
+  {
+   "name": "Nghĩa quân Tây Sơn tiến ra Thăng Long",
+   "kind": "campaign",
+   "summary": "Tháng 7 năm 1786, Nguyễn Huệ chỉ huy nghĩa quân Tây Sơn với danh nghĩa 'phù Lê diệt Trịnh' tiến ra Thăng Long lật đổ chúa Trịnh, mở đầu việc thống nhất đất nước sau hơn 200 năm chia cắt.",
+   "topic_title": "Nghĩa quân Tây Sơn tiến ra Thăng Long (Năm 1786)",
+   "year": 1786,
+   "date_start": "1786-06",
+   "date_end": "1786-07",
+   "place": "Thăng Long (Hà Nội)",
+   "actors": [
+    "Nguyễn Huệ",
+    "Nguyễn Nhạc",
+    "Nguyễn Hữu Chỉnh",
+    "Trịnh Khải"
+   ],
+   "aliases": [
+    "Tây Sơn ra Bắc 1786",
+    "chiến dịch Thăng Long 1786",
+    "phù Lê diệt Trịnh"
+   ],
+   "facts": [
+    "Năm 1771, ba anh em Nguyễn Nhạc, Nguyễn Huệ, Nguyễn Lữ dựng cờ khởi nghĩa ở vùng Tây Sơn (Bình Định), mở đầu phong trào Tây Sơn.",
+    "Sau khi làm chủ vùng đất của chúa Nguyễn ở Đàng Trong, giữa năm 1786 nghĩa quân Tây Sơn do Nguyễn Huệ chỉ huy đánh chiếm thành Phú Xuân (Huế).",
+    "Với danh nghĩa 'phù Lê diệt Trịnh' (giúp vua Lê, diệt chúa Trịnh), tháng 7 năm 1786 Nguyễn Huệ tiến quân ra Bắc đánh vào Thăng Long.",
+    "Chúa Trịnh Khải bỏ chạy khỏi Thăng Long, bị bắt rồi tự sát; thế lực họ Trịnh nắm quyền hơn 200 năm ở Đàng Ngoài bị lật đổ.",
+    "Sau khi thắng lợi, Nguyễn Huệ trao lại chính quyền ở Đàng Ngoài cho vua Lê rồi rút quân về Nam.",
+    "Việc nghĩa quân Tây Sơn lật đổ chúa Nguyễn ở Đàng Trong rồi chúa Trịnh ở Đàng Ngoài đã xóa bỏ ranh giới sông Gianh, mở đầu cho việc thống nhất lại đất nước sau hơn 200 năm chia cắt."
+   ],
+   "traps": [
+    "Năm 1786, Nguyễn Huệ ra Thăng Long để LẬT ĐỔ CHÚA TRỊNH ('phù Lê diệt Trịnh'), không phải để đánh vua Lê, càng không phải đánh quân Thanh — việc đại phá quân Thanh diễn ra năm 1789.",
+    "Khởi nghĩa Tây Sơn bùng nổ năm 1771 ở Bình Định do ba anh em Nguyễn Nhạc, Nguyễn Huệ, Nguyễn Lữ lãnh đạo."
+   ],
+   "lessons": [
+    {
+     "book": "Sách cũ",
+     "bai": 24
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_d%E1%BB%8Bch_Th%C4%83ng_Long_(1786)",
+    "https://nguoikesu.com/dong-lich-su/nha-tay-son/lat-do-chua-trinh"
+   ]
+  },
+  {
+   "name": "Quang Trung đại phá quân Thanh",
+   "kind": "campaign",
+   "summary": "Tết Kỷ Dậu 1789, vua Quang Trung hành quân thần tốc ra Bắc, chỉ trong 5 ngày với các trận Hà Hồi, Ngọc Hồi, Đống Đa đã quét sạch 29 vạn quân Thanh xâm lược khỏi Thăng Long.",
+   "topic_title": "Quang Trung đại phá quân Thanh (Năm 1789)",
+   "year": 1789,
+   "date_start": "1789-01-25",
+   "date_end": "1789-01-30",
+   "place": "Hà Hồi, Ngọc Hồi, Đống Đa (Thăng Long, Hà Nội)",
+   "actors": [
+    "Quang Trung (Nguyễn Huệ)",
+    "Tôn Sĩ Nghị",
+    "Sầm Nghi Đống",
+    "Lê Chiêu Thống"
+   ],
+   "aliases": [
+    "chiến thắng Ngọc Hồi - Đống Đa",
+    "trận Đống Đa 1789",
+    "đại phá 29 vạn quân Thanh",
+    "chiến thắng Kỷ Dậu 1789"
+   ],
+   "facts": [
+    "Cuối năm 1788, vua Lê Chiêu Thống sang cầu cứu nhà Thanh; mượn cớ đó, 29 vạn quân Thanh do Tôn Sĩ Nghị chỉ huy kéo sang chiếm đóng Thăng Long.",
+    "Nghe tin quân Thanh xâm lược, ngày 22/12/1788 Nguyễn Huệ lên ngôi hoàng đế tại Phú Xuân, lấy niên hiệu Quang Trung, rồi lập tức kéo quân ra Bắc.",
+    "Đến Tam Điệp (Ninh Bình), vua Quang Trung cho quân ăn Tết trước và hẹn đến mùng 7 Tết sẽ ăn mừng chiến thắng ở Thăng Long, rồi chia quân thành các đạo hành quân thần tốc.",
+    "Đêm mùng 3 Tết Kỷ Dậu (28/1/1789), quân Tây Sơn bí mật vây chặt đồn Hà Hồi; quân Thanh trong đồn hoảng sợ xin hàng mà ta không tốn một mũi tên.",
+    "Mờ sáng mùng 5 Tết (30/1/1789), quân Tây Sơn dùng ván gỗ quấn rơm ướt chống đạn tấn công hạ đồn Ngọc Hồi; cùng lúc, một cánh quân khác đánh tan đồn Đống Đa khiến tướng giặc Sầm Nghi Đống phải thắt cổ tự tử.",
+    "Tổng đốc Tôn Sĩ Nghị hoảng hốt bỏ cả ấn tín, vượt sông Hồng tháo chạy về nước; trưa mùng 5 Tết, vua Quang Trung tiến vào Thăng Long trong niềm vui của nhân dân.",
+    "Chỉ trong 5 ngày Tết Kỷ Dậu 1789, quân Tây Sơn quét sạch 29 vạn quân Thanh, bảo vệ nền độc lập của đất nước; từ đó mùng 5 Tết hằng năm trở thành ngày hội gò Đống Đa."
+   ],
+   "traps": [
+    "Quang Trung đại phá quân THANH vào Tết Kỷ Dậu 1789 — đừng nhầm với đánh quân Minh (Chi Lăng 1427) hay quân Mông - Nguyên (thời Trần).",
+    "Nguyễn Huệ lên ngôi hoàng đế Quang Trung ngày 22/12/1788 TRƯỚC khi ra Bắc đánh quân Thanh, không phải sau chiến thắng.",
+    "Trận Ngọc Hồi - Đống Đa diễn ra sáng mùng 5 Tết Kỷ Dậu (30/1/1789); Sầm Nghi Đống tự tử ở Đống Đa, còn Tôn Sĩ Nghị chạy thoát về Trung Quốc."
+   ],
+   "lessons": [
+    {
+     "book": "Sách cũ",
+     "bai": 25
+    }
+   ],
+   "sources": [
+    "https://vietsu.org/su-kien/quang-trung-dai-pha-quan-thanh-nam-1789/",
+    "https://giaoduc.net.vn/nhin-lai-tran-ngoc-hoi-dong-da-nam-1789-post195246.gd"
+   ]
+  },
+  {
+   "name": "Quang Trung (Nguyễn Huệ)",
+   "kind": "person",
+   "summary": "Nguyễn Huệ (1753-1792) là thủ lĩnh kiệt xuất của phong trào Tây Sơn; ông lên ngôi hoàng đế lấy niên hiệu Quang Trung năm 1788, đại phá quân Thanh năm 1789 và ban nhiều chính sách tiến bộ trước khi mất sớm năm 1792.",
+   "topic_title": "Quang Trung đại phá quân Thanh (Năm 1789)",
+   "year": null,
+   "date_start": "1753",
+   "date_end": "1792",
+   "place": "Tây Sơn, Bình Định",
+   "actors": [
+    "Nguyễn Huệ",
+    "Nguyễn Nhạc",
+    "Nguyễn Lữ"
+   ],
+   "aliases": [
+    "Nguyễn Huệ",
+    "Hồ Thơm",
+    "Bắc Bình Vương",
+    "vua Quang Trung",
+    "Quang Trung hoàng đế"
+   ],
+   "facts": [
+    "Nguyễn Huệ (1753-1792) sinh ở vùng Tây Sơn, Bình Định, là một trong ba anh em thủ lĩnh phong trào Tây Sơn cùng Nguyễn Nhạc và Nguyễn Lữ; thuở nhỏ ông có tên là Hồ Thơm.",
+    "Năm 1786, Nguyễn Huệ chỉ huy nghĩa quân Tây Sơn tiến ra Thăng Long lật đổ chúa Trịnh, góp phần chấm dứt cảnh đất nước chia cắt Đàng Trong - Đàng Ngoài.",
+    "Ngày 22/12/1788, Nguyễn Huệ lên ngôi hoàng đế lấy niên hiệu Quang Trung; Tết Kỷ Dậu 1789, ông chỉ huy đại phá 29 vạn quân Thanh với các trận Hà Hồi, Ngọc Hồi, Đống Đa.",
+    "Sau chiến thắng, vua Quang Trung ban hành nhiều chính sách tiến bộ như Chiếu khuyến nông, Chiếu lập học và đề cao chữ Nôm.",
+    "Vua Quang Trung mất đột ngột năm 1792 khi mới khoảng 40 tuổi, khiến nhiều dự định xây dựng đất nước còn dang dở; một số tài liệu ghi năm sinh của ông là 1752."
+   ],
+   "traps": [
+    "Quang Trung và Nguyễn Huệ là MỘT người: Nguyễn Huệ lấy niên hiệu Quang Trung khi lên ngôi hoàng đế ngày 22/12/1788.",
+    "Quang Trung là người đại phá quân Thanh năm 1789 — không liên quan tới chiến thắng Chi Lăng 1427 (Lê Lợi) hay Bạch Đằng 938 (Ngô Quyền)."
+   ],
+   "lessons": [
+    {
+     "book": "Sách cũ",
+     "bai": 25
+    }
+   ],
+   "sources": [
+    "https://thptquangtrungcattien.edu.vn/about/TIEU-SU-VA-SU-NGHIEP-VUA-QUANG-TRUNG-NGUYEN-HUE-1752-1792.html",
+    "https://vietsu.org/su-kien/quang-trung-dai-pha-quan-thanh-nam-1789/"
+   ]
+  },
+  {
+   "name": "Chính sách kinh tế và văn hóa của vua Quang Trung",
+   "kind": "concept",
+   "summary": "Sau khi thắng quân Thanh, vua Quang Trung ban Chiếu khuyến nông khôi phục ruộng đồng, mở mang buôn bán, ban Chiếu lập học và đưa chữ Nôm thành chữ viết chính thức của quốc gia (1789-1792).",
+   "topic_title": "Những chính sách về kinh tế và văn hóa của vua Quang Trung",
+   "year": null,
+   "date_start": "1789",
+   "date_end": "1792",
+   "place": "Phú Xuân (Huế)",
+   "actors": [
+    "Quang Trung",
+    "Nguyễn Thiếp (La Sơn phu tử)"
+   ],
+   "aliases": [
+    "Chiếu khuyến nông",
+    "Chiếu lập học",
+    "chính sách của vua Quang Trung"
+   ],
+   "facts": [
+    "Vì chiến tranh kéo dài khiến ruộng đồng bỏ hoang, làng xóm xơ xác, năm 1789 vua Quang Trung ban 'Chiếu khuyến nông' lệnh cho dân phiêu tán trở về quê cũ cày cấy, khai phá ruộng hoang.",
+    "Nhờ Chiếu khuyến nông, chỉ sau vài năm mùa màng trở lại tươi tốt, làng xóm dần thanh bình.",
+    "Về buôn bán, vua Quang Trung cho đúc tiền mới, mở cửa biển và mở cửa biên giới để hàng hóa lưu thông thuận lợi, kể cả việc buôn bán với nhà Thanh.",
+    "Về giáo dục, vua Quang Trung ban 'Chiếu lập học' khuyến khích mở trường học ở các làng xã, với quan điểm 'xây dựng đất nước lấy việc học làm đầu'.",
+    "Vua Quang Trung là vị vua đầu tiên đưa chữ Nôm — thứ chữ ghi âm tiếng Việt — lên vị trí chữ viết chính thức của quốc gia thay cho chữ Hán.",
+    "Năm 1791, vua Quang Trung cho lập Viện Sùng Chính do La Sơn phu tử Nguyễn Thiếp đứng đầu để dịch sách chữ Hán ra chữ Nôm làm tài liệu học tập.",
+    "Vì vua Quang Trung mất đột ngột năm 1792, nhiều chính sách canh tân kinh tế, văn hóa của ông phải bỏ dở."
+   ],
+   "traps": [
+    "Chữ được vua Quang Trung đề cao làm chữ viết chính thức là chữ NÔM, không phải chữ Quốc ngữ — chữ Quốc ngữ chỉ phổ biến về sau.",
+    "'Chiếu khuyến nông' và 'Chiếu lập học' là của vua Quang Trung (1789-1792) — đừng gán cho các vua triều Nguyễn."
+   ],
+   "lessons": [
+    {
+     "book": "Sách cũ",
+     "bai": 26
+    }
+   ],
+   "sources": [
+    "https://loigiaihay.com/vua-quang-trung-co-nhung-chinh-sach-gi-de-phuc-hoi-phat-trien-kinh-te-on-dinh-xa-hoi-va-phat-trien-van-hoa-dan-toc-c82a14049.html",
+    "https://www.vanhoavaphattrien.vn/hoang-de-quang-trung-va-chinh-sach-su-dung-nhan-tai-a21681.html",
+    "https://www.cdspkg.edu.vn/cac-don-vi/to-chuc-chinh-tri-xa-hoi/hoi-khuyen-hoc/663-vua-quang-trung-hoai-bao-xay-dung-mot-nen-giao-duc-mang-dam-tinh-dan-toc"
+   ]
+  }
+ ]
+}

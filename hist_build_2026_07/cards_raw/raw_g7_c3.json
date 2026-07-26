@@ -1,0 +1,1005 @@
+{
+ "grade": 7,
+ "chunk": 3,
+ "cards": [
+  {
+   "name": "Nhà Mạc thành lập (1527)",
+   "kind": "event",
+   "year": 1527,
+   "date_start": "1527",
+   "date_end": null,
+   "place": "Thăng Long",
+   "summary": "Năm 1527, Mạc Đăng Dung ép vua Lê Cung Hoàng nhường ngôi, lập ra nhà Mạc (Bắc triều); năm 1533 phe phù Lê lập Nam triều, mở màn cục diện Nam - Bắc triều.",
+   "facts": [
+    "Đầu thế kỉ XVI, nhà Lê sơ suy yếu, vua quan ăn chơi sa đọa, các phe phái đánh giết lẫn nhau và khởi nghĩa nông dân nổ ra nhiều nơi, tạo điều kiện cho võ quan Mạc Đăng Dung thâu tóm quyền hành.",
+    "Năm 1527, Mạc Đăng Dung ép vua Lê Cung Hoàng nhường ngôi, lập ra nhà Mạc và vẫn đóng đô ở Thăng Long.",
+    "Vì nhà Mạc cai quản vùng phía bắc với kinh đô Thăng Long nên sử gọi chính quyền này là Bắc triều.",
+    "Năm 1533, võ quan Nguyễn Kim chạy vào Thanh Hóa rồi sang Lào, tôn Lê Duy Ninh lên ngôi (vua Lê Trang Tông), lấy danh nghĩa phù Lê diệt Mạc, lập ra Nam triều.",
+    "Việc tồn tại song song hai triều đình Bắc triều (nhà Mạc) và Nam triều (nhà Lê trung hưng) từ năm 1533 trực tiếp dẫn tới cuộc nội chiến Nam - Bắc triều kéo dài gần 60 năm."
+   ],
+   "traps": [
+    "Bắc triều là NHÀ MẠC (đóng ở Thăng Long), Nam triều là nhà Lê trung hưng (dựng ở Thanh Hóa) — nhiều bạn hay gán ngược lại.",
+    "Mạc Đăng Dung lập nhà Mạc năm 1527, không phải 1533 — năm 1533 là mốc lập Nam triều và nội chiến bắt đầu."
+   ],
+   "aliases": [
+    "Mạc Đăng Dung cướp ngôi nhà Lê",
+    "Mạc Thái Tổ",
+    "Bắc triều"
+   ],
+   "actors": [
+    "Mạc Đăng Dung",
+    "Lê Cung Hoàng",
+    "Nguyễn Kim",
+    "Lê Trang Tông"
+   ],
+   "topic_title": "Sự suy yếu của nhà nước phong kiến tập quyền (thế kỉ XVI - XVIII)",
+   "lessons": [
+    {
+     "book": "cũ",
+     "bai": 22
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Nh%C3%A0_M%E1%BA%A1c",
+    "https://mactrieu.vn/nha-mac-1527-1592-va-thai-to-mac-dang-dung-1527-1529-trong-lich-su-dan-toc",
+    "https://nghiencuulichsu.com/2016/04/29/mac-dang-dung-va-trieu-dai-nha-mac-1527-1592/"
+   ]
+  },
+  {
+   "name": "Chiến tranh Nam - Bắc triều (1533-1592)",
+   "kind": "event",
+   "year": 1533,
+   "date_start": "1533",
+   "date_end": "1592",
+   "place": "Thanh Hóa - Nghệ An",
+   "summary": "Cuộc nội chiến gần 60 năm (1533-1592) giữa Bắc triều nhà Mạc và Nam triều nhà Lê trung hưng, tàn phá đất nước và làm nhà nước phong kiến tập quyền suy yếu.",
+   "facts": [
+    "Chiến tranh Nam - Bắc triều diễn ra từ năm 1533 đến năm 1592 giữa Bắc triều của nhà Mạc và Nam triều của nhà Lê trung hưng.",
+    "Trong gần 60 năm, hai bên đánh nhau 38 trận lớn nhỏ, chiến trường chính là vùng Thanh Hóa - Nghệ An.",
+    "Năm 1592, quân Nam triều chiếm được Thăng Long, họ Mạc phải rút chạy lên Cao Bằng, cục diện chiến tranh Nam - Bắc triều về cơ bản chấm dứt.",
+    "Cuộc nội chiến khiến làng mạc bị tàn phá, sản xuất đình trệ, nhân dân đói khổ phải phiêu tán — đây là hậu quả nặng nề nhất của chiến tranh Nam - Bắc triều.",
+    "Chiến tranh Nam - Bắc triều làm nhà nước phong kiến tập quyền suy yếu, mở đường cho cục diện vua Lê - chúa Trịnh và mâu thuẫn Trịnh - Nguyễn ngay sau đó."
+   ],
+   "traps": [
+    "Đừng nhầm chiến tranh Nam - Bắc triều (Mạc với Lê trung hưng, 1533-1592) với chiến tranh Trịnh - Nguyễn (1627-1672) — hai cuộc xung đột khác nhau, nối tiếp nhau."
+   ],
+   "aliases": [
+    "chiến tranh Lê - Mạc",
+    "nội chiến Nam - Bắc triều"
+   ],
+   "actors": [
+    "nhà Mạc",
+    "nhà Lê trung hưng",
+    "Nguyễn Kim",
+    "họ Trịnh"
+   ],
+   "topic_title": "Sự suy yếu của nhà nước phong kiến tập quyền (thế kỉ XVI - XVIII)",
+   "lessons": [
+    {
+     "book": "cũ",
+     "bai": 22
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_tranh_L%C3%AA_%E2%80%93_M%E1%BA%A1c",
+    "https://baotuyenquang.com.vn/tuyen-quang-trong-cuoc-noi-chien-nam-bac-trieu-1533-1592!-193728.html",
+    "https://lichsuvietnam.org/nam-trieu-bac-trieu/"
+   ]
+  },
+  {
+   "name": "Chiến tranh Trịnh - Nguyễn và sự chia cắt Đàng Trong - Đàng Ngoài (1627-1672)",
+   "kind": "event",
+   "year": 1627,
+   "date_start": "1627",
+   "date_end": "1672",
+   "place": "Quảng Bình - Hà Tĩnh",
+   "summary": "Từ 1627 đến 1672, họ Trịnh và họ Nguyễn đánh nhau 7 lần bất phân thắng bại, cuối cùng lấy sông Gianh làm ranh giới, chia đất nước thành Đàng Ngoài và Đàng Trong gần hai thế kỉ.",
+   "facts": [
+    "Sau khi cục diện Nam - Bắc triều chấm dứt năm 1592, họ Trịnh nắm mọi quyền hành ở phía bắc tạo nên cảnh vua Lê - chúa Trịnh, còn họ Nguyễn xây dựng thế lực riêng ở vùng Thuận Hóa - Quảng Nam, khiến mâu thuẫn hai dòng họ ngày càng gay gắt.",
+    "Từ năm 1627 đến năm 1672, họ Trịnh và họ Nguyễn đánh nhau 7 lần, chiến trường chính là vùng Quảng Bình - Hà Tĩnh ngày nay, nhưng không phân thắng bại.",
+    "Năm 1672, hai bên ngừng chiến, lấy sông Gianh (Quảng Bình) làm ranh giới: từ sông Gianh trở ra là Đàng Ngoài của vua Lê - chúa Trịnh, từ sông Gianh trở vào là Đàng Trong của chúa Nguyễn.",
+    "Hậu quả lớn nhất của chiến tranh Trịnh - Nguyễn là đất nước bị chia cắt thành Đàng Trong và Đàng Ngoài kéo dài gần hai thế kỉ, cản trở sự phát triển chung của quốc gia.",
+    "Tình trạng chia cắt Đàng Trong - Đàng Ngoài chỉ được xóa bỏ khi phong trào Tây Sơn lật đổ cả chúa Nguyễn (1777) lẫn chúa Trịnh (1786) vào cuối thế kỉ XVIII."
+   ],
+   "traps": [
+    "Ranh giới chia cắt Đàng Trong - Đàng Ngoài là SÔNG GIANH (Quảng Bình), không phải sông Bến Hải — sông Bến Hải (vĩ tuyến 17) là giới tuyến của thời kì 1954-1975.",
+    "Đàng Ngoài thuộc vua Lê - chúa TRỊNH, Đàng Trong thuộc chúa NGUYỄN — hay bị gán ngược."
+   ],
+   "aliases": [
+    "Trịnh - Nguyễn phân tranh",
+    "chiến tranh Đàng Trong - Đàng Ngoài"
+   ],
+   "actors": [
+    "chúa Trịnh",
+    "chúa Nguyễn"
+   ],
+   "topic_title": "Sự suy yếu của nhà nước phong kiến tập quyền (thế kỉ XVI - XVIII)",
+   "lessons": [
+    {
+     "book": "cũ",
+     "bai": 22
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Tr%E1%BB%8Bnh_%E2%80%93_Nguy%E1%BB%85n_ph%C3%A2n_tranh",
+    "https://loigiaihay.com/chien-tranh-trinh-nguyen-va-su-chia-cat-dang-trong-dang-ngoai-c82a13958.html"
+   ]
+  },
+  {
+   "name": "Sự hưng khởi của các đô thị thế kỉ XVII",
+   "kind": "concept",
+   "year": null,
+   "date_start": null,
+   "date_end": null,
+   "place": null,
+   "summary": "Thế kỉ XVII, buôn bán trong và ngoài nước phát triển làm hưng khởi các đô thị: Thăng Long (Kẻ Chợ), Phố Hiến ở Đàng Ngoài; Hội An, Thanh Hà ở Đàng Trong.",
+   "facts": [
+    "Thế kỉ XVII, nhờ thủ công nghiệp và buôn bán phát triển, nhiều đô thị ở nước ta hưng khởi cả ở Đàng Ngoài lẫn Đàng Trong.",
+    "Ở Đàng Ngoài, Thăng Long với tên gọi dân gian Kẻ Chợ có 36 phố phường buôn bán sầm uất, còn Phố Hiến (Hưng Yên) lúc thịnh vượng có khoảng 2.000 nóc nhà với 20 phường sản xuất và buôn bán — dân gian có câu 'Thứ nhất Kinh Kỳ, thứ nhì Phố Hiến'.",
+    "Ở Đàng Trong, Hội An (Quảng Nam) là thương cảng lớn nhất, từ đầu thế kỉ XVII đã có khu phố riêng của người Nhật và người Hoa; Thanh Hà bên sông Hương gần Phú Xuân (Huế) do thương nhân người Hoa lập nên với sự đồng ý của chúa Nguyễn.",
+    "Trong thế kỉ XVII, thương nhân nhiều nước châu Á và châu Âu như Trung Quốc, Nhật Bản, Hà Lan, Anh, Pháp đến Phố Hiến, Hội An buôn bán tấp nập.",
+    "Từ nửa sau thế kỉ XVIII, các chúa Trịnh, chúa Nguyễn thi hành chính sách hạn chế ngoại thương nên các đô thị dần suy tàn."
+   ],
+   "traps": [
+    "'Kẻ Chợ' chính là Thăng Long (Hà Nội ngày nay), không phải một đô thị riêng nào khác.",
+    "Hội An và Thanh Hà là đô thị của ĐÀNG TRONG, còn Thăng Long và Phố Hiến thuộc ĐÀNG NGOÀI — tránh xếp nhầm."
+   ],
+   "aliases": [
+    "Kẻ Chợ",
+    "Phố Hiến",
+    "Hội An",
+    "Thanh Hà",
+    "hưng khởi đô thị Đại Việt"
+   ],
+   "actors": [],
+   "topic_title": "Kinh tế, văn hoá thế kỉ XVI - XVIII",
+   "lessons": [
+    {
+     "book": "cũ",
+     "bai": 23
+    }
+   ],
+   "sources": [
+    "https://loigiaihay.com/su-hung-khoi-cua-cac-do-thi-c85a12176.html",
+    "https://nguoikesu.com/hoi-dap/lop-7/phan-2/chuong-5/bai-23p1",
+    "https://hoc24.vn/ly-thuyet/bai-23-kinh-te-van-hoa-the-ki-xvi-xviii.1552"
+   ]
+  },
+  {
+   "name": "Chữ Quốc ngữ ra đời (thế kỉ XVII)",
+   "kind": "concept",
+   "year": null,
+   "date_start": null,
+   "date_end": null,
+   "place": null,
+   "summary": "Đầu thế kỉ XVII, các giáo sĩ phương Tây dùng chữ cái La-tinh ghi âm tiếng Việt, tạo ra chữ Quốc ngữ; mốc quan trọng là Từ điển Việt - Bồ - La do Alexandre de Rhodes in năm 1651.",
+   "facts": [
+    "Đầu thế kỉ XVII, các giáo sĩ phương Tây khi truyền đạo Thiên Chúa ở nước ta đã dùng chữ cái La-tinh để ghi âm tiếng Việt, từ đó chữ Quốc ngữ ra đời.",
+    "Giáo sĩ người Bồ Đào Nha Phran-xi-xcô đơ Pi-na (Francisco de Pina) là giáo sĩ đầu tiên thông thạo tiếng Việt và đi đầu trong việc dùng chữ La-tinh ghi âm tiếng Việt.",
+    "Năm 1651, giáo sĩ A-lếch-xăng đơ Rốt (Alexandre de Rhodes) cho in cuốn Từ điển Việt - Bồ - La tại Rô-ma, cột mốc quan trọng đánh dấu sự định hình của chữ Quốc ngữ.",
+    "Chữ Quốc ngữ là thành quả của nhiều giáo sĩ cùng sự cộng tác của người Việt, trong đó Alexandre de Rhodes có công lớn hệ thống hóa và phổ biến.",
+    "Vì tiện lợi và khoa học, chữ Quốc ngữ dần được phổ biến và ngày nay trở thành chữ viết chính thức của người Việt."
+   ],
+   "traps": [
+    "Alexandre de Rhodes KHÔNG một mình 'sáng tạo' chữ Quốc ngữ — đây là công trình tập thể của nhiều giáo sĩ (Francisco de Pina đi đầu) cùng người Việt; ông có công hệ thống hóa và in Từ điển Việt - Bồ - La năm 1651.",
+    "Thế kỉ XVII chữ Quốc ngữ mới ra đời nhưng CHƯA được dùng rộng rãi ngay — thời Tây Sơn và nhà Nguyễn, chữ Hán và chữ Nôm vẫn là chữ viết chính."
+   ],
+   "aliases": [
+    "chữ La-tinh ghi âm tiếng Việt",
+    "A-lếch-xăng đơ Rốt",
+    "Alexandre de Rhodes",
+    "Từ điển Việt - Bồ - La"
+   ],
+   "actors": [
+    "Alexandre de Rhodes",
+    "Francisco de Pina"
+   ],
+   "topic_title": "Kinh tế, văn hoá thế kỉ XVI - XVIII",
+   "lessons": [
+    {
+     "book": "cũ",
+     "bai": 23
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Ch%E1%BB%AF_Qu%E1%BB%91c_ng%E1%BB%AF",
+    "https://tuoitre.vn/chu-quoc-ngu-nhung-nguoi-dau-tien-khai-sang-20191206213804476.htm",
+    "https://tuoitre.vn/alexandre-de-rhodes-khong-phai-la-cha-de-chu-quoc-ngu-1160539.htm"
+   ]
+  },
+  {
+   "name": "Phong trào khởi nghĩa nông dân Đàng Ngoài thế kỉ XVIII",
+   "kind": "movement",
+   "year": null,
+   "date_start": "1737",
+   "date_end": "1770",
+   "place": "Đàng Ngoài (Bắc Bộ và Bắc Trung Bộ)",
+   "summary": "Giữa thế kỉ XVIII, chính quyền Lê - Trịnh mục nát khiến hàng loạt khởi nghĩa nông dân bùng nổ ở Đàng Ngoài, tiêu biểu là Nguyễn Hữu Cầu và Hoàng Công Chất, làm chính quyền lung lay.",
+   "facts": [
+    "Giữa thế kỉ XVIII, chính quyền Lê - Trịnh ở Đàng Ngoài mục nát, thuế khóa nặng nề, đê vỡ gây mất mùa liên tiếp, khiến nông dân phiêu tán và hàng loạt cuộc khởi nghĩa bùng nổ.",
+    "Mở đầu là khởi nghĩa Nguyễn Dương Hưng năm 1737 ở Sơn Tây, tiếp đó khởi nghĩa Lê Duy Mật (1738-1770) hoạt động ở vùng Thanh Hóa - Nghệ An.",
+    "Khởi nghĩa Nguyễn Danh Phương (1740-1751) lập căn cứ ở núi Tam Đảo (Vĩnh Phúc) rồi mở rộng hoạt động ra Sơn Tây, Tuyên Quang.",
+    "Khởi nghĩa Nguyễn Hữu Cầu, tục gọi quận He (1741-1751), xuất phát từ Đồ Sơn (Hải Phòng) lên Kinh Bắc uy hiếp Thăng Long, nêu khẩu hiệu 'lấy của nhà giàu chia cho người nghèo'.",
+    "Khởi nghĩa Hoàng Công Chất (1739-1769) sau thời gian hoạt động ở đồng bằng đã chuyển lên Tây Bắc, xây căn cứ ở vùng Điện Biên và được đồng bào các dân tộc hết lòng ủng hộ.",
+    "Các cuộc khởi nghĩa đều thất bại nhưng làm chính quyền Lê - Trịnh lung lay tận gốc, tạo điều kiện cho phong trào Tây Sơn phát triển mạnh ra Đàng Ngoài cuối thế kỉ XVIII."
+   ],
+   "traps": [
+    "Đây là các cuộc khởi nghĩa ở ĐÀNG NGOÀI chống chính quyền Lê - Trịnh, không phải ở Đàng Trong chống chúa Nguyễn.",
+    "'Quận He' là biệt danh của NGUYỄN HỮU CẦU, không phải của Nguyễn Danh Phương."
+   ],
+   "aliases": [
+    "khởi nghĩa quận He",
+    "khởi nghĩa Hoàng Công Chất",
+    "khởi nghĩa Nguyễn Danh Phương",
+    "khởi nghĩa Lê Duy Mật"
+   ],
+   "actors": [
+    "Nguyễn Hữu Cầu",
+    "Hoàng Công Chất",
+    "Nguyễn Danh Phương",
+    "Lê Duy Mật",
+    "Nguyễn Dương Hưng"
+   ],
+   "topic_title": "Khởi nghĩa nông dân Đàng Ngoài thế kỉ XVIII",
+   "lessons": [
+    {
+     "book": "cũ",
+     "bai": 24
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Kh%E1%BB%9Fi_ngh%C4%A9a_n%C3%B4ng_d%C3%A2n_%C4%90%C3%A0ng_Ngo%C3%A0i",
+    "https://loigiaihay.com/bai-7-khoi-nghia-nong-dan-o-dang-ngoai-the-ki-xviii-sgk-lich-su-va-dia-li-8-ket-noi-tri-thuc-a149624.html",
+    "https://vietjack.com/lich-su-8-kn/ly-thuyet-bai-7-khoi-nghia-nong-dan-o-dang-ngoai-the-ki-xviii.jsp"
+   ]
+  },
+  {
+   "name": "Khởi nghĩa Tây Sơn bùng nổ (1771)",
+   "kind": "movement",
+   "year": 1771,
+   "date_start": "1771",
+   "date_end": "1777",
+   "place": "Tây Sơn, Bình Định",
+   "summary": "Năm 1771, ba anh em Nguyễn Nhạc, Nguyễn Huệ, Nguyễn Lữ dựng cờ khởi nghĩa ở Tây Sơn (Bình Định); đến năm 1777 nghĩa quân lật đổ chính quyền chúa Nguyễn ở Đàng Trong.",
+   "facts": [
+    "Năm 1771, ba anh em Nguyễn Nhạc, Nguyễn Huệ, Nguyễn Lữ dựng cờ khởi nghĩa ở vùng Tây Sơn (nay thuộc Bình Định), mở đầu phong trào Tây Sơn.",
+    "Nguyên nhân khởi nghĩa là chính quyền chúa Nguyễn ở Đàng Trong suy đồi, quan lại tham nhũng, thuế khóa nặng nề khiến nhân dân cực khổ, oán hận.",
+    "Nghĩa quân nêu khẩu hiệu trừng trị quan tham và 'lấy của người giàu chia cho người nghèo' nên được đông đảo các tầng lớp nhân dân ủng hộ.",
+    "Năm 1773, nghĩa quân Tây Sơn hạ được phủ thành Quy Nhơn rồi mở rộng vùng kiểm soát ra các phủ lân cận như Quảng Ngãi, Phú Yên, Khánh Hòa.",
+    "Năm 1776, Nguyễn Nhạc cho sửa lại thành Chà Bàn (Đồ Bàn) làm đại bản doanh và tự xưng Tây Sơn vương.",
+    "Năm 1777, quân Tây Sơn bắt giết được chúa Nguyễn Phúc Thuần và Nguyễn Phúc Dương, lật đổ chính quyền chúa Nguyễn ở Đàng Trong; chỉ còn Nguyễn Ánh chạy thoát."
+   ],
+   "traps": [
+    "Khởi nghĩa Tây Sơn bùng nổ năm 1771 ở Bình Định (Đàng Trong) và đánh chúa NGUYỄN trước; mãi năm 1786 quân Tây Sơn mới tiến ra Bắc lật đổ chúa Trịnh.",
+    "Trong ba anh em Tây Sơn, Nguyễn Nhạc là anh cả và là người xưng Tây Sơn vương năm 1776; lúc đó Nguyễn Huệ còn là tướng, chưa làm vua."
+   ],
+   "aliases": [
+    "phong trào Tây Sơn",
+    "ba anh em Tây Sơn",
+    "khởi nghĩa nông dân Tây Sơn"
+   ],
+   "actors": [
+    "Nguyễn Nhạc",
+    "Nguyễn Huệ",
+    "Nguyễn Lữ",
+    "Nguyễn Ánh"
+   ],
+   "topic_title": "Phong trào Tây Sơn",
+   "lessons": [
+    {
+     "book": "cũ",
+     "bai": 25
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_tranh_T%C3%A2y_S%C6%A1n_%E2%80%93_Ch%C3%BAa_Nguy%E1%BB%85n_(1771%E2%80%931785)",
+    "https://vi.wikipedia.org/wiki/Nh%C3%A0_T%C3%A2y_S%C6%A1n",
+    "https://baobinhphuoc.com.vn/news/1/24494/cuoc-khoi-nghia-tay-son"
+   ]
+  },
+  {
+   "name": "Trận Rạch Gầm - Xoài Mút (19-1-1785)",
+   "kind": "battle",
+   "year": 1785,
+   "date_start": "1785-01-19",
+   "date_end": "1785-01-19",
+   "place": "sông Tiền, đoạn Rạch Gầm - Xoài Mút (Tiền Giang)",
+   "summary": "Ngày 19-1-1785, Nguyễn Huệ mai phục trên sông Tiền đoạn Rạch Gầm - Xoài Mút, tiêu diệt gần như toàn bộ khoảng 5 vạn quân Xiêm sang xâm lược theo lời cầu cứu của Nguyễn Ánh.",
+   "facts": [
+    "Sau khi bị Tây Sơn đánh bại, Nguyễn Ánh sang cầu cứu vua Xiêm, vì thế giữa năm 1784 khoảng 5 vạn quân thủy bộ Xiêm kéo vào đánh chiếm miền Tây Gia Định.",
+    "Tháng 1-1785, Nguyễn Huệ đưa quân vào Gia Định và chọn khúc sông Tiền từ Rạch Gầm đến Xoài Mút (nay thuộc tỉnh Tiền Giang, gần Mỹ Tho) làm trận địa quyết chiến.",
+    "Rạng sáng ngày 19-1-1785, Nguyễn Huệ dùng mưu nhử quân Xiêm vào trận địa mai phục rồi cho thủy binh từ nhiều phía đổ ra đánh, tiêu diệt gần như toàn bộ quân địch chỉ trong một ngày.",
+    "Chiến thắng Rạch Gầm - Xoài Mút là một trong những trận thủy chiến lớn và lừng lẫy nhất trong lịch sử chống ngoại xâm của dân tộc ta, đập tan mưu đồ xâm lược của quân Xiêm.",
+    "Sau trận Rạch Gầm - Xoài Mút năm 1785, quân Tây Sơn làm chủ hoàn toàn Đàng Trong; địa điểm chiến thắng ngày nay được xếp hạng di tích lịch sử quốc gia."
+   ],
+   "traps": [
+    "Rạch Gầm - Xoài Mút (19-1-1785) là trận đánh quân XIÊM trên sông Tiền — đừng nhầm với trận Ngọc Hồi - Đống Đa (1789) đánh quân THANH.",
+    "Người chỉ huy trận này là Nguyễn Huệ khi CHƯA lên ngôi — ông chỉ trở thành hoàng đế Quang Trung cuối năm 1788."
+   ],
+   "aliases": [
+    "chiến thắng Rạch Gầm - Xoài Mút",
+    "trận đánh quân Xiêm 1785"
+   ],
+   "actors": [
+    "Nguyễn Huệ",
+    "Nguyễn Ánh",
+    "quân Xiêm"
+   ],
+   "topic_title": "Phong trào Tây Sơn",
+   "lessons": [
+    {
+     "book": "cũ",
+     "bai": 25
+    }
+   ],
+   "sources": [
+    "https://dsvh.gov.vn/di-tich-lich-su-dia-diem-chien-thang-rach-gam-xoai-mut-1209",
+    "https://vi.wikipedia.org/wiki/Tr%E1%BA%ADn_R%E1%BA%A1ch_G%E1%BA%A7m_%E2%80%93_Xo%C3%A0i_M%C3%BAt",
+    "https://nguoikesu.com/tu-lieu/quan-su/tran-rach-gam-xoai-mut-nam-1785"
+   ]
+  },
+  {
+   "name": "Tây Sơn lật đổ chúa Trịnh và chính quyền vua Lê (1786-1788)",
+   "kind": "event",
+   "year": 1786,
+   "date_start": "1786",
+   "date_end": "1788",
+   "place": "Phú Xuân - Thăng Long",
+   "summary": "Năm 1786 Nguyễn Huệ hạ Phú Xuân rồi ra Thăng Long lật đổ chúa Trịnh với danh nghĩa 'phù Lê diệt Trịnh'; năm 1788 chính quyền vua Lê sụp đổ, Lê Chiêu Thống cầu cứu nhà Thanh.",
+   "facts": [
+    "Giữa năm 1786, Nguyễn Huệ chỉ huy quân Tây Sơn đánh chiếm Phú Xuân rồi tiến thẳng ra Thăng Long với danh nghĩa 'phù Lê diệt Trịnh'.",
+    "Cũng trong năm 1786, chính quyền chúa Trịnh tồn tại hơn 200 năm ở Đàng Ngoài bị lật đổ; Nguyễn Huệ trao lại quyền hành cho vua Lê rồi rút quân về Nam.",
+    "Sau đó Bắc Hà rối loạn, năm 1788 Nguyễn Huệ phải đem quân ra Bắc lần nữa, chính quyền vua Lê sụp đổ, vua Lê Chiêu Thống bỏ chạy rồi sang cầu cứu nhà Thanh.",
+    "Việc Lê Chiêu Thống cầu cứu nhà Thanh là nguyên nhân trực tiếp khiến 29 vạn quân Thanh kéo sang xâm lược nước ta cuối năm 1788.",
+    "Như vậy từ 1771 đến 1788, phong trào Tây Sơn đã lần lượt lật đổ các tập đoàn phong kiến Nguyễn, Trịnh, Lê, xóa bỏ ranh giới sông Gianh chia cắt đất nước, đặt cơ sở cho việc thống nhất quốc gia."
+   ],
+   "traps": [
+    "Chiều nhân - quả đúng: Lê Chiêu Thống cầu cứu TRƯỚC, quân Thanh mới kéo sang xâm lược (cuối 1788) — không phải quân Thanh tự sang rồi Lê Chiêu Thống theo sau.",
+    "Năm 1786 Tây Sơn lật đổ chúa TRỊNH ở Đàng Ngoài; còn chúa NGUYỄN ở Đàng Trong đã bị lật đổ từ năm 1777."
+   ],
+   "aliases": [
+    "phù Lê diệt Trịnh",
+    "Nguyễn Huệ ra Bắc lần thứ nhất"
+   ],
+   "actors": [
+    "Nguyễn Huệ",
+    "chúa Trịnh",
+    "Lê Chiêu Thống"
+   ],
+   "topic_title": "Phong trào Tây Sơn",
+   "lessons": [
+    {
+     "book": "cũ",
+     "bai": 25
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Nh%C3%A0_T%C3%A2y_S%C6%A1n",
+    "https://loigiaihay.com/lap-nien-bieu-hoat-dong-cua-phong-trao-tay-son-tu-nam-1771-den-nam-1789-c82a38471.html"
+   ]
+  },
+  {
+   "name": "Trận Ngọc Hồi - Đống Đa (Quang Trung đại phá quân Thanh, 1789)",
+   "kind": "battle",
+   "year": 1789,
+   "date_start": "1789-01-25",
+   "date_end": "1789-01-30",
+   "place": "Ngọc Hồi, Đống Đa - Thăng Long (Hà Nội)",
+   "summary": "Tết Kỷ Dậu 1789, vua Quang Trung hành quân thần tốc, chỉ trong khoảng 5 ngày đánh tan 29 vạn quân Thanh của Tôn Sĩ Nghị với đỉnh cao là trận Ngọc Hồi - Đống Đa mùng 5 Tết (30-1-1789).",
+   "facts": [
+    "Cuối năm 1788, theo lời cầu cứu của Lê Chiêu Thống, vua Thanh sai Tôn Sĩ Nghị đem 29 vạn quân tràn vào chiếm đóng Thăng Long.",
+    "Ngày 22-12-1788 (25-11 năm Mậu Thân), Nguyễn Huệ lên ngôi hoàng đế tại núi Bân (Phú Xuân), lấy niên hiệu Quang Trung, rồi lập tức tiến quân thần tốc ra Bắc.",
+    "Đêm 30 Tết Kỷ Dậu, quân Tây Sơn vượt sông Gián mở màn cuộc tiến công trong lúc quân Thanh còn mải mê yến tiệc đón xuân, chủ quan khinh địch.",
+    "Mờ sáng mùng 5 Tết Kỷ Dậu (30-1-1789), quân Tây Sơn đồng loạt hạ đồn Ngọc Hồi và đồn Đống Đa do Sầm Nghi Đống trấn giữ, đánh tan lực lượng chủ lực của địch; Tôn Sĩ Nghị hoảng sợ bỏ chạy về nước.",
+    "Trưa mùng 5 Tết, vua Quang Trung tiến vào Thăng Long, hoàn thành cuộc đại phá 29 vạn quân Thanh chỉ trong khoảng 5 ngày.",
+    "Chiến thắng Ngọc Hồi - Đống Đa năm 1789 bảo vệ vững chắc nền độc lập dân tộc và trở thành mẫu mực của lối đánh thần tốc, táo bạo, bất ngờ trong lịch sử quân sự Việt Nam."
+   ],
+   "traps": [
+    "Đội quân bị đại phá Tết Kỷ Dậu 1789 là quân THANH do Tôn Sĩ Nghị chỉ huy — không phải quân Minh hay quân Xiêm.",
+    "Mùng 5 Tết Kỷ Dậu ứng với ngày 30-1-1789 dương lịch.",
+    "Quang Trung lên ngôi hoàng đế ngày 22-12-1788 TRƯỚC khi ra Bắc đánh quân Thanh, không phải lên ngôi sau chiến thắng."
+   ],
+   "aliases": [
+    "Quang Trung đại phá quân Thanh",
+    "chiến thắng Kỷ Dậu 1789",
+    "trận Đống Đa",
+    "chiến thắng Ngọc Hồi - Đống Đa"
+   ],
+   "actors": [
+    "Quang Trung (Nguyễn Huệ)",
+    "Tôn Sĩ Nghị",
+    "Lê Chiêu Thống",
+    "Sầm Nghi Đống"
+   ],
+   "topic_title": "Phong trào Tây Sơn",
+   "lessons": [
+    {
+     "book": "cũ",
+     "bai": 25
+    }
+   ],
+   "sources": [
+    "https://giaoduc.net.vn/nhin-lai-tran-ngoc-hoi-dong-da-nam-1789-post195246.gd",
+    "https://vi.wikipedia.org/wiki/Quang_Trung"
+   ]
+  },
+  {
+   "name": "Quang Trung (Nguyễn Huệ)",
+   "kind": "person",
+   "year": null,
+   "date_start": "1753",
+   "date_end": "1792",
+   "place": "Tây Sơn, Bình Định",
+   "summary": "Nguyễn Huệ (1753-1792), anh hùng dân tộc lãnh đạo phong trào Tây Sơn, đánh tan quân Xiêm (1785) và quân Thanh (1789), lên ngôi hoàng đế lấy niên hiệu Quang Trung năm 1788.",
+   "facts": [
+    "Nguyễn Huệ sinh năm 1753, quê ở vùng Tây Sơn (Bình Định), là một trong ba anh em lãnh đạo khởi nghĩa Tây Sơn từ năm 1771.",
+    "Ông là nhà quân sự kiệt xuất, trực tiếp chỉ huy hai chiến thắng chống ngoại xâm lừng lẫy: Rạch Gầm - Xoài Mút đánh quân Xiêm (19-1-1785) và Ngọc Hồi - Đống Đa đánh quân Thanh (Tết Kỷ Dậu 1789).",
+    "Ngày 22-12-1788, Nguyễn Huệ lên ngôi hoàng đế tại núi Bân (Phú Xuân), lấy niên hiệu Quang Trung, ngay trước khi tiến quân ra Bắc đánh quân Thanh.",
+    "Sau chiến tranh, vua Quang Trung ban hành nhiều chính sách tiến bộ về nông nghiệp, giáo dục và đề cao chữ Nôm để phục hồi, xây dựng đất nước.",
+    "Vua Quang Trung mất đột ngột ngày 16-9-1792 khi mới khoảng 39-40 tuổi, khiến nhiều dự định cải cách dang dở và nhà Tây Sơn nhanh chóng suy yếu."
+   ],
+   "traps": [
+    "Quang Trung và Nguyễn Huệ là MỘT người — Nguyễn Huệ lấy niên hiệu Quang Trung khi lên ngôi cuối năm 1788; nhiều bạn tưởng là hai nhân vật khác nhau.",
+    "Trước khi làm vua, Nguyễn Huệ từng được phong Bắc Bình Vương — Bắc Bình Vương không phải là một người khác."
+   ],
+   "aliases": [
+    "Nguyễn Huệ",
+    "vua Quang Trung",
+    "Bắc Bình Vương",
+    "Hồ Thơm"
+   ],
+   "actors": [
+    "Nguyễn Huệ",
+    "Nguyễn Nhạc",
+    "Nguyễn Lữ"
+   ],
+   "topic_title": "Quang Trung xây dựng đất nước",
+   "lessons": [
+    {
+     "book": "cũ",
+     "bai": 26
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Quang_Trung"
+   ]
+  },
+  {
+   "name": "Chính sách xây dựng đất nước của vua Quang Trung",
+   "kind": "concept",
+   "year": null,
+   "date_start": "1789",
+   "date_end": "1792",
+   "place": "Phú Xuân (Huế)",
+   "summary": "Sau năm 1789, vua Quang Trung ban Chiếu khuyến nông, Chiếu lập học, đề cao chữ Nôm và lập Viện Sùng Chính do Nguyễn Thiếp đứng đầu để phục hồi kinh tế, chấn hưng giáo dục dân tộc.",
+   "facts": [
+    "Sau đại thắng quân Thanh năm 1789, vua Quang Trung đóng đô ở Phú Xuân và bắt tay xây dựng lại đất nước bị chiến tranh tàn phá.",
+    "Vua Quang Trung ban Chiếu khuyến nông để giải quyết tình trạng ruộng đất bỏ hoang và dân phiêu tán, nhờ đó chỉ vài năm sau sản xuất nông nghiệp dần phục hồi.",
+    "Ông ban Chiếu lập học, khuyến khích mở trường học đến tận làng xã — điều các triều đại trước chưa từng làm.",
+    "Vua Quang Trung đề cao chữ Nôm, dùng chữ Nôm trong văn kiện nhà nước và học tập, thi cử để khẳng định ý thức tự chủ của dân tộc.",
+    "Ông lập Viện Sùng Chính do La Sơn phu tử Nguyễn Thiếp đứng đầu để dịch sách chữ Hán ra chữ Nôm làm tài liệu học tập; đến năm 1792 đã dịch xong các bộ Tứ thư, Tiểu học.",
+    "Vua Quang Trung mất ngày 16-9-1792 khi công cuộc cải cách đang tiến hành, khiến nhiều chính sách phải bỏ dở."
+   ],
+   "traps": [
+    "Viện Sùng Chính dịch sách chữ Hán ra chữ NÔM (không phải chữ Quốc ngữ), và người đứng đầu là NGUYỄN THIẾP.",
+    "Chiếu khuyến nông lo phục hồi NÔNG NGHIỆP (ruộng hoang, dân phiêu tán), còn Chiếu lập học lo GIÁO DỤC — hai chiếu khác nhau, đừng lẫn nội dung."
+   ],
+   "aliases": [
+    "Chiếu khuyến nông",
+    "Chiếu lập học",
+    "Viện Sùng Chính",
+    "cải cách của Quang Trung"
+   ],
+   "actors": [
+    "Quang Trung",
+    "Nguyễn Thiếp (La Sơn phu tử)"
+   ],
+   "topic_title": "Quang Trung xây dựng đất nước",
+   "lessons": [
+    {
+     "book": "cũ",
+     "bai": 26
+    }
+   ],
+   "sources": [
+    "https://qtu.edu.vn/vua-quang-trung-va-hoai-bao-xay-dung-mot-nen-giao-duc-mang-dam-tinh-dan-toc/",
+    "https://www.cdspkg.edu.vn/cac-don-vi/to-chuc-chinh-tri-xa-hoi/hoi-khuyen-hoc/663-vua-quang-trung-hoai-bao-xay-dung-mot-nen-giao-duc-mang-dam-tinh-dan-toc",
+    "https://doctailieu.com/trac-nghiem/vua-quang-trung-ban-hanh-chieu-khuyen-nong-nham-muc-dich-gi-d-giai-quyet-tinh-69455"
+   ]
+  },
+  {
+   "name": "Nhà Nguyễn",
+   "kind": "dynasty",
+   "year": 1802,
+   "date_start": "1802",
+   "date_end": "1945",
+   "place": "Phú Xuân (Huế)",
+   "summary": "Năm 1802, Nguyễn Ánh đánh bại Tây Sơn, lên ngôi lấy niên hiệu Gia Long, lập nhà Nguyễn đóng đô ở Phú Xuân (Huế) — triều đại phong kiến cuối cùng của Việt Nam với 13 đời vua (1802-1945).",
+   "facts": [
+    "Sau khi vua Quang Trung mất năm 1792, triều Tây Sơn suy yếu, Nguyễn Ánh đem quân đánh bại Tây Sơn và đến năm 1802 lên ngôi vua, đặt niên hiệu Gia Long, lập ra nhà Nguyễn.",
+    "Nhà Nguyễn đóng đô ở Phú Xuân (Huế) và là triều đại phong kiến cuối cùng trong lịch sử Việt Nam, trải 13 đời vua từ năm 1802 đến năm 1945.",
+    "Buổi đầu, vua Gia Long chia cả nước thành Bắc thành, Gia Định thành và các trực doanh do triều đình trực tiếp cai quản.",
+    "Năm 1815, nhà Nguyễn ban hành bộ Hoàng triều luật lệ, thường gọi là luật Gia Long.",
+    "Trong hai năm 1831-1832, vua Minh Mạng tiến hành cải cách hành chính, bãi bỏ Bắc thành và Gia Định thành, chia cả nước thành 30 tỉnh và 1 phủ Thừa Thiên trực thuộc triều đình.",
+    "Vị vua trị vì ngắn nhất triều Nguyễn và cũng ngắn nhất lịch sử Việt Nam là Dục Đức: lên ngôi tháng 7-1883, chỉ sau 3 ngày đã bị hai phụ chính đại thần Tôn Thất Thuyết và Nguyễn Văn Tường phế truất."
+   ],
+   "traps": [
+    "Vua trị vì ngắn nhất triều Nguyễn là DỤC ĐỨC — chỉ 3 ngày năm 1883 — KHÔNG phải Lê Hiến Tông (Lê Hiến Tông là vua thời Lê sơ, triều đại khác).",
+    "Gia Long chính là Nguyễn Ánh — một người với hai tên gọi, không phải hai nhân vật.",
+    "Việc chia cả nước thành 30 tỉnh là cải cách của MINH MẠNG (1831-1832), không phải của Gia Long."
+   ],
+   "aliases": [
+    "triều Nguyễn",
+    "nhà Nguyễn thành lập",
+    "Gia Long lên ngôi",
+    "Nguyễn Ánh"
+   ],
+   "actors": [
+    "Gia Long (Nguyễn Ánh)",
+    "Minh Mạng",
+    "Dục Đức",
+    "Tôn Thất Thuyết",
+    "Nguyễn Văn Tường"
+   ],
+   "topic_title": "Chế độ phong kiến nhà Nguyễn",
+   "lessons": [
+    {
+     "book": "cũ",
+     "bai": 27
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/H%C3%A0nh_ch%C3%ADnh_Vi%E1%BB%87t_Nam_th%E1%BB%9Di_Nguy%E1%BB%85n",
+    "https://luatduonggia.vn/giao-duc/bo-may-nha-nuoc-cac-vi-vua-trieu-nha-nguyen-1802-1945/",
+    "https://tuoitre.vn/can-canh-noi-an-nghi-cua-vi-vua-trieu-nguyen-chi-o-ngoi-3-ngay-20240731231813956.htm",
+    "https://vtcnews.vn/vi-vua-tai-vi-ngan-nhat-lich-su-trieu-nguyen-bi-bo-doi-den-chet-do-la-ai-ar748981.html"
+   ]
+  },
+  {
+   "name": "Các cuộc nổi dậy chống triều Nguyễn nửa đầu thế kỉ XIX",
+   "kind": "movement",
+   "year": null,
+   "date_start": "1821",
+   "date_end": "1856",
+   "place": null,
+   "summary": "Nửa đầu thế kỉ XIX, đời sống cực khổ khiến hàng trăm cuộc nổi dậy chống triều Nguyễn bùng nổ khắp nơi, tiêu biểu là Phan Bá Vành, Nông Văn Vân, Lê Văn Khôi và Cao Bá Quát.",
+   "facts": [
+    "Dưới triều Nguyễn nửa đầu thế kỉ XIX, tô thuế và lao dịch nặng nề, đê vỡ gây mất mùa đói kém liên miên, khiến hàng trăm cuộc nổi dậy của nông dân và các dân tộc bùng nổ.",
+    "Khởi nghĩa Phan Bá Vành (1821-1827) lập căn cứ chính ở Trà Lũ (Nam Định), đánh hàng chục trận lớn với quân triều đình.",
+    "Khởi nghĩa Nông Văn Vân (1833-1835) do một tù trưởng người Tày ở Bảo Lạc (Cao Bằng) lãnh đạo, lan rộng khắp miền núi Việt Bắc; triều đình phải ba lần đem quân đàn áp mới dập tắt được.",
+    "Khởi nghĩa Lê Văn Khôi (1833-1835) nổ ra ở phía nam: tháng 6-1833 ông chiếm thành Phiên An (Gia Định), tự xưng Bình Nam Đại nguyên soái, được cả sáu tỉnh Nam Kỳ hưởng ứng.",
+    "Khởi nghĩa Cao Bá Quát (1854-1856) do một nhà nho, nhà thơ nổi tiếng quê Gia Lâm (Hà Nội) lãnh đạo, hoạt động ở vùng Hà Nội và Hà Tây cũ.",
+    "Các cuộc nổi dậy đều bị đàn áp nhưng cho thấy mâu thuẫn sâu sắc giữa nhân dân với triều Nguyễn ngay từ nửa đầu thế kỉ XIX."
+   ],
+   "traps": [
+    "Cao Bá Quát lãnh đạo khởi nghĩa CHỐNG TRIỀU NGUYỄN (1854-1856) — đừng nhầm ông với các thủ lĩnh chống Pháp cuối thế kỉ XIX.",
+    "Nông Văn Vân nổi dậy ở MIỀN NÚI PHÍA BẮC (Cao Bằng), còn Lê Văn Khôi ở GIA ĐỊNH (Nam Kỳ) — hai cuộc cùng thời gian 1833-1835 nên rất dễ lẫn địa bàn."
+   ],
+   "aliases": [
+    "khởi nghĩa Phan Bá Vành",
+    "khởi nghĩa Nông Văn Vân",
+    "khởi nghĩa Lê Văn Khôi",
+    "khởi nghĩa Cao Bá Quát"
+   ],
+   "actors": [
+    "Phan Bá Vành",
+    "Nông Văn Vân",
+    "Lê Văn Khôi",
+    "Cao Bá Quát"
+   ],
+   "topic_title": "Chế độ phong kiến nhà Nguyễn",
+   "lessons": [
+    {
+     "book": "cũ",
+     "bai": 27
+    }
+   ],
+   "sources": [
+    "https://hoc247.net/hoi-dap/lich-su-7/lap-bang-thong-ke-cac-cuoc-khoi-nghia-lon-thoi-nguyen-faq258331.html",
+    "https://loga.vn/hoi-dap/nguyen-nhan-va-dien-bien-khoi-nghia-phan-ba-vanh-em-hay-neu-nguyen-nhan-dien-bien-ket-qua-cua-ca-65595",
+    "https://rdsic.edu.vn/blog/blog-5/409641cac-cuoc-khoi-nghia-cua-nong-dan-duoi-thoi-nha-nguyen-no-ra-vi-cb.html"
+   ]
+  },
+  {
+   "name": "Nguyễn Du và Truyện Kiều",
+   "kind": "person",
+   "year": null,
+   "date_start": "1765",
+   "date_end": "1820",
+   "place": null,
+   "summary": "Nguyễn Du (1765-1820), đại thi hào dân tộc quê gốc Hà Tĩnh, tác giả Truyện Kiều — kiệt tác 3.254 câu thơ lục bát chữ Nôm, đỉnh cao của văn học Việt Nam.",
+   "facts": [
+    "Nguyễn Du (1765-1820), tên tự Tố Như, quê gốc ở Nghi Xuân (Hà Tĩnh) và sinh tại Thăng Long, là đại thi hào của dân tộc Việt Nam.",
+    "Kiệt tác Truyện Kiều của Nguyễn Du (tên gốc là Đoạn trường tân thanh) gồm 3.254 câu thơ lục bát viết bằng chữ Nôm, kể về cuộc đời chìm nổi của nàng Thúy Kiều tài sắc.",
+    "Truyện Kiều tố cáo xã hội phong kiến bất công chà đạp con người, đồng thời thể hiện niềm cảm thương sâu sắc với thân phận người phụ nữ.",
+    "Nguyễn Du được thế giới vinh danh là Danh nhân văn hóa, và Truyện Kiều đã góp phần đưa văn học Việt Nam vượt ra ngoài biên giới quốc gia."
+   ],
+   "traps": [
+    "Truyện Kiều được viết bằng chữ NÔM — không phải chữ Hán, càng không phải chữ Quốc ngữ.",
+    "Nguyễn Du sống vào cuối thế kỉ XVIII - đầu thế kỉ XIX (1765-1820), giai đoạn Lê mạt - Tây Sơn - Nguyễn sơ, không phải thời Lê sơ."
+   ],
+   "aliases": [
+    "Tố Như",
+    "đại thi hào Nguyễn Du",
+    "Truyện Kiều",
+    "Đoạn trường tân thanh"
+   ],
+   "actors": [
+    "Nguyễn Du"
+   ],
+   "topic_title": "Sự phát triển của văn hoá dân tộc cuối thế kỉ XVIII - nửa đầu thế kỉ XIX",
+   "lessons": [
+    {
+     "book": "cũ",
+     "bai": 28
+    }
+   ],
+   "sources": [
+    "https://hanam.gov.vn/Pages/Danh-nhan-van-hoa-the-gioi--%C4%90ai-thi-hao-Nguyen-Du-(1765---2015)2118879219.aspx",
+    "https://nghixuan.hatinh.gov.vn/nguyen-du-va-truyen-kieu/nhung-gia-tri-ma-danh-nhan-van-hoa-the-gioi-dai-thi-hao-nguyen-du-de-lai-cho-doi.html",
+    "https://www.baoquangbinh.vn/van-hoa-van-nghe/201512/nguyen-du-va-kiet-tac-truyen-kieu-2130598/"
+   ]
+  },
+  {
+   "name": "Văn học chữ Nôm và nghệ thuật dân gian cuối thế kỉ XVIII - nửa đầu thế kỉ XIX",
+   "kind": "concept",
+   "year": null,
+   "date_start": null,
+   "date_end": null,
+   "place": null,
+   "summary": "Cuối thế kỉ XVIII - nửa đầu XIX, văn học chữ Nôm đạt đỉnh cao với Nguyễn Du, Hồ Xuân Hương, Bà Huyện Thanh Quan; nghệ thuật dân gian như chèo, tuồng, tranh Đông Hồ nở rộ.",
+   "facts": [
+    "Cuối thế kỉ XVIII - nửa đầu thế kỉ XIX, văn học chữ Nôm phát triển đến đỉnh cao với Truyện Kiều của Nguyễn Du và thơ của Hồ Xuân Hương, Bà Huyện Thanh Quan, Cao Bá Quát, Nguyễn Văn Siêu.",
+    "Hồ Xuân Hương được mệnh danh là 'Bà chúa thơ Nôm' với những vần thơ trào phúng sắc sảo, bênh vực người phụ nữ.",
+    "Văn nghệ dân gian thời kì này phát triển phong phú: sân khấu chèo, tuồng phổ biến khắp nơi, các làn điệu dân ca lan rộng ở nhiều vùng miền.",
+    "Tranh dân gian, tiêu biểu là dòng tranh Đông Hồ (Bắc Ninh), phản ánh sinh động cuộc sống lao động và ước vọng của nhân dân.",
+    "Văn học giai đoạn này phản ánh sâu sắc hiện thực xã hội đương thời cùng tâm tư, nguyện vọng của con người Việt Nam."
+   ],
+   "traps": [
+    "'Bà chúa thơ Nôm' là HỒ XUÂN HƯƠNG, không phải Bà Huyện Thanh Quan."
+   ],
+   "aliases": [
+    "văn học chữ Nôm",
+    "Bà chúa thơ Nôm",
+    "tranh Đông Hồ"
+   ],
+   "actors": [
+    "Hồ Xuân Hương",
+    "Bà Huyện Thanh Quan",
+    "Nguyễn Du",
+    "Cao Bá Quát",
+    "Nguyễn Văn Siêu"
+   ],
+   "topic_title": "Sự phát triển của văn hoá dân tộc cuối thế kỉ XVIII - nửa đầu thế kỉ XIX",
+   "lessons": [
+    {
+     "book": "cũ",
+     "bai": 28
+    }
+   ],
+   "sources": [
+    "https://loigiaihay.com/tinh-hinh-kinh-te-van-hoa-o-cac-the-ki-xvi-nua-dau-the-ki-xix-c82a14123.html",
+    "https://suretest.vn/cung-co/bai-24-tinh-hinh-van-hoa-o-the-ki-xvi-xviii-6962.html"
+   ]
+  },
+  {
+   "name": "Thành tựu sử học, địa lí, y học cuối thế kỉ XVIII - nửa đầu thế kỉ XIX",
+   "kind": "concept",
+   "year": null,
+   "date_start": null,
+   "date_end": null,
+   "place": null,
+   "summary": "Khoa học nước ta cuối thế kỉ XVIII - nửa đầu XIX có nhiều thành tựu: Lê Quý Đôn với các bộ sách bách khoa, Phan Huy Chú với Lịch triều hiến chương loại chí, danh y Lê Hữu Trác (Hải Thượng Lãn Ông).",
+   "facts": [
+    "Lê Quý Đôn — nhà bác học lớn nhất của thế kỉ XVIII — để lại nhiều bộ sách đồ sộ về sử học, địa lí như Đại Việt thông sử, Phủ biên tạp lục, Vân đài loại ngữ, Kiến văn tiểu lục.",
+    "Phan Huy Chú biên soạn bộ Lịch triều hiến chương loại chí, công trình lớn khảo cứu điển chương, chế độ của các triều đại Việt Nam.",
+    "Về y học, danh y Lê Hữu Trác, hiệu Hải Thượng Lãn Ông (thế kỉ XVIII), phát hiện thêm công dụng của 305 vị thuốc nam và sưu tầm được 2.854 phương thuốc chữa bệnh trong dân gian.",
+    "Tri thức y học của Lê Hữu Trác được tập hợp trong bộ sách nổi tiếng Hải Thượng y tông tâm lĩnh, di sản quý của y học cổ truyền Việt Nam."
+   ],
+   "traps": [
+    "Hải Thượng Lãn Ông là biệt hiệu của LÊ HỮU TRÁC (thế kỉ XVIII) — đừng nhầm với danh y Tuệ Tĩnh sống thời Trần.",
+    "Lịch triều hiến chương loại chí là của PHAN HUY CHÚ, còn Phủ biên tạp lục là của LÊ QUÝ ĐÔN — hay bị hoán đổi tác giả."
+   ],
+   "aliases": [
+    "Hải Thượng Lãn Ông",
+    "Lê Hữu Trác",
+    "Lê Quý Đôn",
+    "Phan Huy Chú"
+   ],
+   "actors": [
+    "Lê Quý Đôn",
+    "Phan Huy Chú",
+    "Lê Hữu Trác (Hải Thượng Lãn Ông)"
+   ],
+   "topic_title": "Sự phát triển của văn hoá dân tộc cuối thế kỉ XVIII - nửa đầu thế kỉ XIX",
+   "lessons": [
+    {
+     "book": "cũ",
+     "bai": 28
+    }
+   ],
+   "sources": [
+    "https://loigiaihay.com/su-hoc-dia-li-u-hoc-nuoc-ta-cuoi-the-ki-xviii-dau-the-ki-xix-c82a14080.html"
+   ]
+  },
+  {
+   "name": "Các cuộc phát kiến địa lí lớn thế kỉ XV - XVI",
+   "kind": "event",
+   "year": null,
+   "date_start": "1487",
+   "date_end": "1522",
+   "place": null,
+   "summary": "Từ cuối thế kỉ XV, người Tây Âu mở các chuyến thám hiểm đường biển lớn: Đi-a-xơ đến mũi Hảo Vọng (1487), Cô-lôm-bô tìm ra châu Mỹ (1492), Va-xcô đơ Ga-ma đến Ấn Độ (1498) và đoàn Ma-gien-lăng vòng quanh thế giới (1519-1522).",
+   "facts": [
+    "Từ thế kỉ XV, nhu cầu vàng bạc, nguyên liệu, thị trường cùng việc con đường buôn bán qua Tây Á bị chiếm giữ đã thúc đẩy người Tây Âu tìm đường biển mới sang phương Đông, dẫn tới các cuộc phát kiến địa lí.",
+    "Năm 1487, B. Đi-a-xơ (Bồ Đào Nha) đi vòng tới điểm cực Nam châu Phi, nơi ông gọi là mũi Bão Tố, sau được đổi tên thành mũi Hảo Vọng.",
+    "Năm 1492, C. Cô-lôm-bô xuất phát từ Tây Ban Nha đi về hướng tây, đến được đảo Xan Xan-va-đo và Cu-ba — ông đã tìm ra châu Mỹ nhưng lầm tưởng đó là Ấn Độ.",
+    "Trong hai năm 1497-1498, Va-xcô đơ Ga-ma (Bồ Đào Nha) vòng qua điểm cực Nam châu Phi rồi cập bến Ca-li-cút ở Ấn Độ, mở ra con đường biển sang phương Đông.",
+    "Từ năm 1519 đến năm 1522, đoàn thám hiểm của Ph. Ma-gien-lăng hoàn thành chuyến đi vòng quanh thế giới đầu tiên, dù bản thân ông đã thiệt mạng ở Phi-líp-pin năm 1521."
+   ],
+   "traps": [
+    "Cô-lôm-bô tìm ra châu MỸ (1492) nhưng lầm tưởng đó là Ấn Độ — người thật sự đến Ấn Độ bằng đường biển là Va-xcô đơ Ga-ma (1498).",
+    "Ma-gien-lăng KHÔNG tự mình đi trọn vòng quanh thế giới — ông mất ở Phi-líp-pin năm 1521, đoàn thám hiểm của ông về đích năm 1522."
+   ],
+   "aliases": [
+    "phát kiến địa lí",
+    "Đi-a-xơ ~ Dias",
+    "Cô-lôm-bô ~ Columbus",
+    "Va-xcô đơ Ga-ma ~ Vasco da Gama",
+    "Ma-gien-lăng ~ Magellan"
+   ],
+   "actors": [
+    "B. Đi-a-xơ",
+    "C. Cô-lôm-bô",
+    "Va-xcô đơ Ga-ma",
+    "Ph. Ma-gien-lăng"
+   ],
+   "topic_title": "Các cuộc phát kiến địa lí",
+   "lessons": [
+    {
+     "book": "CTST",
+     "bai": 2
+    }
+   ],
+   "sources": [
+    "https://loigiaihay.com/bai-2-cac-cuoc-phat-kien-dia-li-sgk-lich-su-va-dia-li-7-chan-troi-sang-tao-a106198.html",
+    "https://download.vn/lich-su-7-bai-2-canh-dieu-61126"
+   ]
+  },
+  {
+   "name": "Hệ quả của phát kiến địa lí và sự nảy sinh chủ nghĩa tư bản ở Tây Âu",
+   "kind": "concept",
+   "year": null,
+   "date_start": null,
+   "date_end": null,
+   "place": "Tây Âu",
+   "summary": "Phát kiến địa lí đem lại thị trường, vàng bạc và thuộc địa cho Tây Âu, từ đó quan hệ sản xuất tư bản chủ nghĩa nảy sinh trong lòng xã hội phong kiến Tây Âu từ thế kỉ XVI, với hai giai cấp mới là tư sản và vô sản.",
+   "facts": [
+    "Các cuộc phát kiến địa lí mở ra những con đường mới, vùng đất mới, thị trường mới, thúc đẩy hàng hải và thương nghiệp châu Âu phát triển mạnh.",
+    "Phát kiến địa lí đem về cho châu Âu khối lượng lớn vàng bạc, nguyên liệu, nhưng cũng làm nảy sinh nạn buôn bán nô lệ da đen và quá trình xâm chiếm, cướp bóc thuộc địa ở châu Á, châu Phi, châu Mỹ.",
+    "Nhờ nguồn vốn và nhân công tích lũy được sau các cuộc phát kiến địa lí, quan hệ sản xuất tư bản chủ nghĩa nảy sinh ngay trong lòng xã hội phong kiến Tây Âu từ thế kỉ XVI.",
+    "Xã hội Tây Âu xuất hiện hai giai cấp mới: giai cấp tư sản gồm chủ công trường thủ công, thương nhân, chủ ngân hàng ngày càng giàu có và chi phối xã hội, còn giai cấp vô sản là những người lao động làm thuê.",
+    "Chuỗi nhân - quả cần nhớ: phát kiến địa lí (thế kỉ XV-XVI) đem lại vốn và nhân công, từ đó quan hệ sản xuất tư bản chủ nghĩa hình thành ở Tây Âu từ thế kỉ XVI."
+   ],
+   "traps": [
+    "Chủ nghĩa tư bản / quan hệ sản xuất tư bản chủ nghĩa ở Tây Âu hình thành TỪ THẾ KỈ XVI — trả lời 'đầu thế kỉ XVII' là SAI (lỗi từng gặp).",
+    "Tư sản và vô sản là hai giai cấp MỚI của thời kì này — lãnh chúa và nông nô là giai cấp của xã hội phong kiến trước đó."
+   ],
+   "aliases": [
+    "sự nảy sinh chủ nghĩa tư bản ở Tây Âu",
+    "quan hệ sản xuất tư bản chủ nghĩa",
+    "hệ quả phát kiến địa lí"
+   ],
+   "actors": [],
+   "topic_title": "Các cuộc phát kiến địa lí",
+   "lessons": [
+    {
+     "book": "CTST",
+     "bai": 2
+    }
+   ],
+   "sources": [
+    "https://loigiaihay.com/bai-2-cac-cuoc-phat-kien-dia-li-va-su-hinh-thanh-quan-he-san-xuat-tu-ban-chu-nghia-o-tay-au-sgk-lich-su-va-dia-li-7-ket-noi-tri-thuc-a105878.html",
+    "https://vietjack.com/lich-su-7-kn/bai-2-cac-cuoc-phat-kien-dia-li-va-su-hinh-thanh-quan-he-san-xuat-tu-ban.jsp"
+   ]
+  },
+  {
+   "name": "Vương triều Gúp-ta",
+   "kind": "dynasty",
+   "year": 320,
+   "date_start": "320",
+   "date_end": "550",
+   "place": "Ấn Độ",
+   "summary": "Vương triều Gúp-ta (khoảng 320-550) do San-đra Gúp-ta I mở đầu, thống nhất miền Bắc Ấn Độ và được coi là thời kì hoàng kim định hình văn hóa truyền thống Ấn Độ.",
+   "facts": [
+    "Năm 320, San-đra Gúp-ta I lên ngôi, thống nhất miền Bắc Ấn Độ và mở đầu vương triều Gúp-ta sau một thời gian dài đất nước bị phân liệt.",
+    "Vương triều Gúp-ta tồn tại khoảng từ năm 320 đến năm 550 và được coi là thời kì hoàng kim của Ấn Độ cổ - trung đại.",
+    "Dưới thời Gúp-ta, Hin-đu giáo và Phật giáo được củng cố, văn hóa truyền thống Ấn Độ định hình và phát triển rực rỡ.",
+    "Người Ấn Độ thời Gúp-ta sáng tạo hệ đếm thập phân và chữ số 0 — nền tảng của hệ thống 10 chữ số mà thế giới ngày nay vẫn dùng."
+   ],
+   "traps": [
+    "Hệ 10 chữ số hiện đại (kể cả số 0) do người ẤN ĐỘ sáng tạo từ thời Gúp-ta; người Ả Rập chỉ có công truyền bá — gọi 'chữ số Ả Rập sáng tạo' là không chính xác.",
+    "Vương triều Gúp-ta thành lập năm 320 SAU Công nguyên — đừng nhầm sang thời hoàng đế A-sô-ca (thế kỉ III trước Công nguyên)."
+   ],
+   "aliases": [
+    "Gupta",
+    "triều đại Gúp-ta",
+    "San-đra Gúp-ta I ~ Chandragupta I"
+   ],
+   "actors": [
+    "San-đra Gúp-ta I"
+   ],
+   "topic_title": "Vương triều Gúp-ta",
+   "lessons": [
+    {
+     "book": "CTST",
+     "bai": 8
+    }
+   ],
+   "sources": [
+    "https://doctailieu.com/soan-su-7-bai-8-chan-troi-sang-tao-vuong-trieu-gup-ta",
+    "https://loigiaihay.com/thoi-ki-vuong-trieu-gup-ta-va-su-phat-trien-van-hoa-truyen-thong-an-do-c85a11763.html",
+    "https://hoc247.net/lich-su-va-dia-li-7/bai-8-vuong-trieu-gup-ta-l12630.html"
+   ]
+  },
+  {
+   "name": "Vương triều Hồi giáo Đê-li",
+   "kind": "dynasty",
+   "year": 1206,
+   "date_start": "1206",
+   "date_end": "1526",
+   "place": "Đê-li, Ấn Độ",
+   "summary": "Vương triều Hồi giáo Đê-li (1206-1526) do người Tuốc theo Hồi giáo lập ở miền Bắc Ấn Độ, áp đặt Hồi giáo gây mâu thuẫn xã hội nhưng cũng làm văn hóa Ấn Độ thêm đa dạng.",
+   "facts": [
+    "Người Hồi giáo gốc Tuốc (Thổ) từ Trung Á tấn công, chiếm miền Bắc Ấn Độ và đến năm 1206 lập ra vương triều Hồi giáo Đê-li, đóng đô ở thành Đê-li.",
+    "Vương triều Hồi giáo Đê-li tồn tại hơn 300 năm, từ năm 1206 đến năm 1526.",
+    "Các vua Đê-li truyền bá và áp đặt Hồi giáo, dành ưu tiên về ruộng đất và chức vụ trong bộ máy quan lại cho người Hồi giáo, khiến mâu thuẫn dân tộc và tôn giáo ở Ấn Độ trở nên gay gắt.",
+    "Thời kì Đê-li, văn hóa Hồi giáo được du nhập vào Ấn Độ, làm nền văn hóa nước này thêm phong phú và đa dạng.",
+    "Năm 1526, vương triều Đê-li sụp đổ khi Ba-bua đánh chiếm Đê-li và lập ra vương triều Mô-gôn."
+   ],
+   "traps": [
+    "Vương triều Đê-li do người TUỐC theo Hồi giáo lập năm 1206, còn vương triều Mô-gôn do người gốc MÔNG CỔ lập năm 1526 — hai vương triều ngoại tộc khác nhau ở Ấn Độ, đừng gộp làm một."
+   ],
+   "aliases": [
+    "Hồi quốc Delhi",
+    "vương quốc Hồi giáo Đê-li",
+    "Delhi Sultanate"
+   ],
+   "actors": [
+    "người Tuốc (Thổ) Hồi giáo"
+   ],
+   "topic_title": "Vương triều Hồi giáo Đê-li",
+   "lessons": [
+    {
+     "book": "CTST",
+     "bai": 9
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/H%E1%BB%93i_qu%E1%BB%91c_Delhi",
+    "https://loigiaihay.com/vuong-trieu-hoi-giao-de-li-c85a11783.html"
+   ]
+  },
+  {
+   "name": "Đế quốc Mô-gôn",
+   "kind": "dynasty",
+   "year": 1526,
+   "date_start": "1526",
+   "date_end": null,
+   "place": "Ấn Độ",
+   "summary": "Đế quốc Mô-gôn do Ba-bua gốc Mông Cổ lập năm 1526, đạt thịnh trị nhất dưới thời A-cơ-ba (từ 1556) và để lại các công trình nổi tiếng như lăng Ta-giơ Ma-han; đây là vương triều phong kiến cuối cùng của Ấn Độ.",
+   "facts": [
+    "Năm 1526, Ba-bua — thủ lĩnh có nguồn gốc Mông Cổ theo Hồi giáo — đánh chiếm Đê-li và lập ra vương triều Mô-gôn; chữ 'Mô-gôn' có nghĩa là 'Mông Cổ'.",
+    "Năm 1556, hoàng đế A-cơ-ba lên nắm quyền, thống nhất phần lớn lãnh thổ và đưa đế quốc Mô-gôn bước vào giai đoạn thịnh trị nhất.",
+    "A-cơ-ba tiến hành nhiều cải cách về chính trị, kinh tế, xã hội, xây dựng luật pháp nghiêm minh và thi hành chính sách hòa hợp với cư dân theo các tôn giáo khác nhau.",
+    "Các vua kế tiếp là Gia-han-ghi-a (1605-1627) và Sa Gia-han (1627-1658) cho xây nhiều công trình kiến trúc nổi tiếng, tiêu biểu là lăng Ta-giơ Ma-han và Thành Đỏ ở Bắc Ấn Độ.",
+    "Mô-gôn là vương triều phong kiến cuối cùng của Ấn Độ; từ đầu thế kỉ XVIII đế quốc suy yếu dần trước khi Ấn Độ rơi vào tay thực dân Anh."
+   ],
+   "traps": [
+    "Vua đưa Mô-gôn đến thịnh trị nhất là A-CƠ-BA (nắm quyền từ 1556), còn Ba-bua chỉ là người SÁNG LẬP năm 1526.",
+    "Lăng Ta-giơ Ma-han được xây dưới thời Sa Gia-han (1627-1658), KHÔNG phải thời A-cơ-ba."
+   ],
+   "aliases": [
+    "Mogul",
+    "Mughal",
+    "vương triều Mô-gôn",
+    "A-cơ-ba ~ Akbar",
+    "Ba-bua ~ Babur",
+    "Ta-giơ Ma-han ~ Taj Mahal"
+   ],
+   "actors": [
+    "Ba-bua",
+    "A-cơ-ba",
+    "Sa Gia-han",
+    "Gia-han-ghi-a"
+   ],
+   "topic_title": "Đế quốc Mô-gôn",
+   "lessons": [
+    {
+     "book": "CTST",
+     "bai": 10
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%BF_qu%E1%BB%91c_Mogul",
+    "https://suretest.vn/cung-co/bai-10-de-quoc-mo-gon-19663.html",
+    "https://vietjack.com/giai-lich-su-lop-10/tra-loi-cau-hoi-lich-su-10-bai-7-trang-44.jsp"
+   ]
+  },
+  {
+   "name": "Vương quốc Chăm-pa từ thế kỉ X đến đầu thế kỉ XVI",
+   "kind": "period",
+   "year": null,
+   "date_start": "988",
+   "date_end": "1471",
+   "place": "Vi-giay-a (An Nhơn, Bình Định)",
+   "summary": "Từ năm 988, Chăm-pa bước vào thời kì vương triều Vi-giay-a với kinh đô ở Bình Định, thịnh trị giai đoạn 1220-1353 rồi suy yếu; năm 1471 kinh đô Vi-giay-a thất thủ, lãnh thổ bị chia nhỏ.",
+   "facts": [
+    "Năm 988, vương triều Vi-giay-a được thành lập ở Chăm-pa, đóng kinh đô tại thành Vi-giay-a (nay thuộc An Nhơn, Bình Định).",
+    "Từ năm 1113 đến năm 1220, Chăm-pa trải qua hơn 100 năm chiến tranh với Chân Lạp (Cam-pu-chia), trong đó hai lần kinh đô Vi-giay-a bị chiếm đóng.",
+    "Giai đoạn 1220-1353 là thời kì thịnh trị của vương triều Vi-giay-a: Chăm-pa củng cố chính quyền, mở rộng và thống nhất lãnh thổ.",
+    "Cuối thế kỉ XIV Chăm-pa lâm vào khủng hoảng, và năm 1471, sau thất bại trước quân Đại Việt, kinh đô Vi-giay-a thất thủ, lãnh thổ Chăm-pa thu hẹp và bị chia thành nhiều tiểu quốc.",
+    "Cư dân Chăm-pa thời kì này sống bằng nghề trồng lúa, đánh cá và buôn bán đường biển, đồng thời tiếp tục phát triển văn hóa với các đền tháp Hin-đu giáo."
+   ],
+   "traps": [
+    "Vi-giay-a vừa là tên VƯƠNG TRIỀU vừa là tên KINH ĐÔ của Chăm-pa (nay ở Bình Định) — dễ tưởng là hai thứ khác nhau.",
+    "Mốc 1471 là năm kinh đô Vi-giay-a thất thủ khiến Chăm-pa suy yếu hẳn, KHÔNG phải năm người Chăm biến mất — các tiểu quốc Chăm còn tồn tại về sau."
+   ],
+   "aliases": [
+    "Chăm-pa",
+    "Champa",
+    "vương triều Vi-giay-a",
+    "Vijaya",
+    "thành Đồ Bàn"
+   ],
+   "actors": [],
+   "topic_title": "Vùng đất phía Nam từ đầu thế kỉ X đến đầu thế kỉ XVI",
+   "lessons": [
+    {
+     "book": "CTST",
+     "bai": 21
+    }
+   ],
+   "sources": [
+    "https://loigiaihay.com/bai-21-vung-dat-phia-nam-tu-dau-the-ki-x-den-dau-the-ki-xvi-sgk-lich-su-va-dia-li-7-chan-troi-sang-tao-a107865.html",
+    "https://loigiaihay.com/bai-18-vuong-quoc-cham-pa-va-vung-dat-nam-bo-tu-dau-the-ki-x-den-dau-the-ki-xvi-sgk-lich-su-va-dia-li-7-ket-noi-tri-thuc-a107828.html"
+   ]
+  },
+  {
+   "name": "Vùng đất Nam Bộ từ thế kỉ X đến đầu thế kỉ XVI",
+   "kind": "place",
+   "year": null,
+   "date_start": null,
+   "date_end": null,
+   "place": "Nam Bộ",
+   "summary": "Từ thế kỉ X đến đầu thế kỉ XVI, vùng đất Nam Bộ trên danh nghĩa thuộc Chân Lạp nhưng thực tế không được cai quản trực tiếp, dân cư thưa thớt sống bằng nông nghiệp và khai thác sản vật.",
+   "facts": [
+    "Sau khi vương quốc Phù Nam sụp đổ vào khoảng thế kỉ VII, vùng đất Nam Bộ trên danh nghĩa bị đặt dưới quyền cai quản của nước Chân Lạp (Cam-pu-chia).",
+    "Trên thực tế, Chân Lạp không quản lí trực tiếp được vùng đất Nam Bộ; sự cai trị ở đây chỉ mang tính danh nghĩa và rất lỏng lẻo.",
+    "Từ thế kỉ X đến thế kỉ XVI, cư dân ở Nam Bộ thưa thớt, sinh sống rải rác, chủ yếu làm nông nghiệp, khai thác sản vật tự nhiên và trao đổi buôn bán nhỏ.",
+    "Tình trạng đất rộng người thưa kéo dài này là bối cảnh để từ thế kỉ XVII người Việt đến khẩn hoang, mở rộng khai phá vùng đất Nam Bộ."
+   ],
+   "traps": [
+    "Thời kì X-XVI, Nam Bộ chỉ thuộc Chân Lạp trên DANH NGHĨA — Chân Lạp không hề cai quản trực tiếp, hiệu quả vùng này.",
+    "Phù Nam và Chân Lạp là HAI quốc gia khác nhau: Phù Nam sụp đổ trước (khoảng thế kỉ VII), sau đó vùng đất mới thuộc danh nghĩa Chân Lạp."
+   ],
+   "aliases": [
+    "vùng đất Nam Bộ",
+    "Thủy Chân Lạp",
+    "Nam Bộ thời Chân Lạp"
+   ],
+   "actors": [],
+   "topic_title": "Vùng đất phía Nam từ đầu thế kỉ X đến đầu thế kỉ XVI",
+   "lessons": [
+    {
+     "book": "CTST",
+     "bai": 21
+    }
+   ],
+   "sources": [
+    "https://loigiaihay.com/bai-18-vuong-quoc-cham-pa-va-vung-dat-nam-bo-tu-dau-the-ki-x-den-dau-the-ki-xvi-sgk-lich-su-va-dia-li-7-ket-noi-tri-thuc-a107828.html",
+    "https://loigiaihay.com/bai-21-vung-dat-phia-nam-tu-dau-the-ki-x-den-dau-the-ki-xvi-sgk-lich-su-va-dia-li-7-chan-troi-sang-tao-a107865.html"
+   ]
+  }
+ ]
+}

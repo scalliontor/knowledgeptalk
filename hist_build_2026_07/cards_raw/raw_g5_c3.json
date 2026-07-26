@@ -1,0 +1,869 @@
+{
+ "grade": 5,
+ "chunk": 3,
+ "cards": [
+  {
+   "name": "Chiến dịch Hồ Chí Minh",
+   "kind": "campaign",
+   "summary": "Chiến dịch quyết định cuối cùng của cuộc kháng chiến chống Mỹ, diễn ra từ 26/4 đến 30/4/1975, giải phóng Sài Gòn và kết thúc chiến tranh.",
+   "year": 1975,
+   "date_start": "1975-04-26",
+   "date_end": "1975-04-30",
+   "place": "Sài Gòn - Gia Định",
+   "actors": [
+    "Văn Tiến Dũng",
+    "Phạm Hùng",
+    "Võ Nguyên Giáp",
+    "Dương Văn Minh"
+   ],
+   "aliases": [
+    "Chiến dịch giải phóng Sài Gòn - Gia Định",
+    "Chiến dịch Sài Gòn"
+   ],
+   "facts": [
+    "Chiến dịch Hồ Chí Minh diễn ra từ ngày 26/4 đến 30/4/1975, là chiến dịch quyết định kết thúc thắng lợi cuộc kháng chiến chống Mỹ, cứu nước.",
+    "Chiến dịch ban đầu mang tên \"Chiến dịch giải phóng Sài Gòn - Gia Định\", đến ngày 14/4/1975 được Bộ Chính trị đồng ý đổi tên thành Chiến dịch Hồ Chí Minh theo tên của Bác.",
+    "Đại tướng Văn Tiến Dũng làm Tư lệnh chiến dịch, đồng chí Phạm Hùng làm Chính uỷ.",
+    "Quân ta chia thành 5 cánh quân, từ 5 hướng cùng lúc tiến vào giải phóng Sài Gòn.",
+    "Trưa 30/4/1975, xe tăng quân giải phóng tiến vào Dinh Độc Lập và Tổng thống chính quyền Sài Gòn Dương Văn Minh tuyên bố đầu hàng vô điều kiện.",
+    "Thắng lợi ngày 30/4/1975 chấm dứt hơn 20 năm đất nước bị chia cắt, mở đường cho việc thống nhất đất nước về mặt nhà nước năm 1976."
+   ],
+   "traps": [
+    "Tư lệnh Chiến dịch Hồ Chí Minh là Đại tướng Văn Tiến Dũng, KHÔNG phải Đại tướng Võ Nguyên Giáp (ông chỉ đạo chung toàn quân từ Hà Nội).",
+    "Đừng nhầm Chiến dịch Hồ Chí Minh (1975, kết thúc kháng chiến chống Mỹ) với Chiến dịch Điện Biên Phủ (1954, kết thúc kháng chiến chống Pháp).",
+    "Chiến dịch Hồ Chí Minh chỉ kéo dài 5 ngày (26-30/4/1975); còn \"55 ngày đêm\" là tính cả cuộc Tổng tiến công mùa Xuân 1975 từ đầu tháng 3."
+   ],
+   "topic_title": "Chiến dịch Hồ Chí Minh năm 1975",
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 16
+    },
+    {
+     "book": "Cánh diều",
+     "bai": 15
+    },
+    {
+     "book": "CTST",
+     "bai": 15
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_d%E1%BB%8Bch_H%E1%BB%93_Ch%C3%AD_Minh"
+   ]
+  },
+  {
+   "name": "Cuộc Tổng tiến công và nổi dậy mùa Xuân 1975",
+   "kind": "event",
+   "summary": "Đợt tiến công chiến lược mùa Xuân 1975 gồm ba chiến dịch lớn nối tiếp nhau (Tây Nguyên, Huế - Đà Nẵng, Hồ Chí Minh), giải phóng hoàn toàn miền Nam trong chưa đầy hai tháng.",
+   "year": 1975,
+   "date_start": "1975-03-04",
+   "date_end": "1975-04-30",
+   "place": "Miền Nam Việt Nam",
+   "actors": [
+    "Văn Tiến Dũng",
+    "Võ Nguyên Giáp"
+   ],
+   "aliases": [
+    "Đại thắng mùa Xuân 1975",
+    "Tổng tiến công và nổi dậy Xuân 1975"
+   ],
+   "facts": [
+    "Cuộc Tổng tiến công và nổi dậy mùa Xuân 1975 gồm ba chiến dịch lớn nối tiếp nhau: Chiến dịch Tây Nguyên, Chiến dịch Huế - Đà Nẵng và Chiến dịch Hồ Chí Minh.",
+    "Rạng sáng 10/3/1975, quân ta bất ngờ tiến công Buôn Ma Thuột - trận mở màn then chốt của Chiến dịch Tây Nguyên - và nhanh chóng giành thắng lợi.",
+    "Thắng lợi Buôn Ma Thuột làm hệ thống phòng thủ của địch ở Tây Nguyên sụp đổ, quân địch rút chạy hỗn loạn, tạo đà cho quân ta giải phóng Huế ngày 26/3 và Đà Nẵng ngày 29/3/1975.",
+    "Chỉ trong gần hai tháng mùa Xuân 1975, quân và dân ta giải phóng hoàn toàn miền Nam, kết thúc bằng Chiến dịch Hồ Chí Minh toàn thắng trưa 30/4/1975."
+   ],
+   "traps": [
+    "Trận mở màn của mùa Xuân 1975 là Buôn Ma Thuột (10/3/1975) ở Tây Nguyên, không phải đánh thẳng vào Sài Gòn ngay từ đầu.",
+    "Thứ tự giải phóng: Tây Nguyên (tháng 3) rồi Huế (26/3), Đà Nẵng (29/3), cuối cùng mới đến Sài Gòn (30/4/1975) - đừng đảo ngược."
+   ],
+   "topic_title": "Chiến dịch Hồ Chí Minh năm 1975",
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 16
+    },
+    {
+     "book": "Cánh diều",
+     "bai": 15
+    },
+    {
+     "book": "CTST",
+     "bai": 15
+    }
+   ],
+   "sources": [
+    "https://dbnd.daklak.gov.vn/chien-thang-buon-ma-thuot-ngay-1031975-mo-man-thang-loi-cho-chien-dich-tay-nguyen-tao-buoc-ngoat-lich-su-quan-trong-cho-dai-thang-mua-xuan-nam-1975-1274.html",
+    "https://hungyen.dcs.vn/chien-dich-hue-da-nang-nuoc-co-thay-doi-han-cuc-dien-chien-tranh-c224503.html",
+    "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_d%E1%BB%8Bch_M%C3%B9a_Xu%C3%A2n_1975"
+   ]
+  },
+  {
+   "name": "Sự kiện 30/4/1975 tại Dinh Độc Lập",
+   "kind": "event",
+   "summary": "Trưa 30/4/1975, xe tăng quân giải phóng húc đổ cổng Dinh Độc Lập, lá cờ giải phóng được cắm trên nóc Dinh lúc 11 giờ 30, chính quyền Sài Gòn đầu hàng.",
+   "year": 1975,
+   "date_start": "1975-04-30",
+   "date_end": "1975-04-30",
+   "place": "Dinh Độc Lập, Sài Gòn",
+   "actors": [
+    "Bùi Quang Thận",
+    "Dương Văn Minh"
+   ],
+   "aliases": [
+    "Ngày Giải phóng miền Nam",
+    "Ngày 30 tháng 4",
+    "Ngày thống nhất đất nước"
+   ],
+   "facts": [
+    "Trưa 30/4/1975, đoàn xe tăng của Lữ đoàn 203 quân giải phóng tiến vào Dinh Độc Lập - cơ quan đầu não cuối cùng của chính quyền Sài Gòn.",
+    "Xe tăng 390 là chiếc húc đổ cổng chính Dinh Độc Lập, còn xe tăng 843 húc vào cổng phụ và bị kẹt lại.",
+    "Đúng 11 giờ 30 phút ngày 30/4/1975, Đại đội trưởng Bùi Quang Thận cắm lá cờ giải phóng trên nóc Dinh Độc Lập.",
+    "Tổng thống Dương Văn Minh của chính quyền Sài Gòn tuyên bố đầu hàng vô điều kiện, chiến tranh chấm dứt.",
+    "Từ đó, ngày 30/4 hằng năm trở thành ngày lễ lớn kỷ niệm Giải phóng miền Nam, thống nhất đất nước."
+   ],
+   "traps": [
+    "Xe tăng húc đổ CỔNG CHÍNH Dinh Độc Lập là xe 390; xe 843 (hay bị nhầm) húc cổng phụ và bị kẹt lại.",
+    "Người cắm cờ trên nóc Dinh Độc Lập là Bùi Quang Thận, lúc 11 giờ 30 ngày 30/4/1975."
+   ],
+   "topic_title": "Chiến dịch Hồ Chí Minh năm 1975",
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 16
+    },
+    {
+     "book": "Cánh diều",
+     "bai": 15
+    },
+    {
+     "book": "CTST",
+     "bai": 15
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/S%E1%BB%B1_ki%E1%BB%87n_30_th%C3%A1ng_4_n%C4%83m_1975",
+    "https://vi.wikipedia.org/wiki/B%C3%B9i_Quang_Th%E1%BA%ADn"
+   ]
+  },
+  {
+   "name": "Công cuộc Đổi mới",
+   "kind": "concept",
+   "summary": "Đường lối cải cách toàn diện do Đại hội VI của Đảng đề ra tháng 12/1986, đưa Việt Nam từ khủng hoảng kinh tế sang phát triển và hội nhập quốc tế.",
+   "year": 1986,
+   "date_start": "1986-12",
+   "date_end": null,
+   "place": "Việt Nam",
+   "actors": [
+    "Nguyễn Văn Linh",
+    "Đảng Cộng sản Việt Nam"
+   ],
+   "aliases": [
+    "Đổi mới",
+    "Đổi Mới 1986",
+    "công cuộc Đổi mới đất nước"
+   ],
+   "facts": [
+    "Tháng 12/1986, Đại hội đại biểu toàn quốc lần thứ VI của Đảng Cộng sản Việt Nam đề ra đường lối Đổi mới toàn diện đất nước.",
+    "Vì kinh tế cuối những năm 1970 - đầu 1980 khủng hoảng trầm trọng, lạm phát có lúc vượt 700%, hàng hoá thiếu thốn phải mua bằng tem phiếu, nên Đảng quyết định phải Đổi mới.",
+    "Đổi mới chuyển nền kinh tế từ kế hoạch hoá tập trung, bao cấp sang kinh tế thị trường định hướng xã hội chủ nghĩa và mở cửa hội nhập với thế giới.",
+    "Nhờ Đổi mới, từ một nước thiếu lương thực, Việt Nam vươn lên thành một trong những nước xuất khẩu gạo hàng đầu thế giới.",
+    "Năm 2007, Việt Nam gia nhập Tổ chức Thương mại Thế giới (WTO), đánh dấu bước hội nhập kinh tế quốc tế sâu rộng.",
+    "Đời sống người dân sau Đổi mới được cải thiện rõ rệt: thu nhập bình quân đầu người tăng từ khoảng vài chục đô la Mỹ năm 1986 lên hàng nghìn đô la ngày nay."
+   ],
+   "traps": [
+    "Công cuộc Đổi mới bắt đầu từ Đại hội VI năm 1986, KHÔNG phải ngay sau khi thống nhất đất nước năm 1975.",
+    "Đại hội khởi xướng Đổi mới là Đại hội VI (12/1986), đừng nhầm sang Đại hội VII."
+   ],
+   "topic_title": "Đất nước Đổi mới",
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 17
+    },
+    {
+     "book": "Cánh diều",
+     "bai": 16
+    },
+    {
+     "book": "CTST",
+     "bai": 16
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%95i_M%E1%BB%9Bi"
+   ]
+  },
+  {
+   "name": "Đại hội VI của Đảng Cộng sản Việt Nam",
+   "kind": "event",
+   "summary": "Đại hội Đảng họp tại Hà Nội tháng 12/1986, thẳng thắn nhìn nhận sai lầm và quyết định đường lối Đổi mới, bầu Nguyễn Văn Linh làm Tổng Bí thư.",
+   "year": 1986,
+   "date_start": "1986-12",
+   "date_end": "1986-12",
+   "place": "Hà Nội",
+   "actors": [
+    "Nguyễn Văn Linh"
+   ],
+   "aliases": [
+    "Đại hội đại biểu toàn quốc lần thứ VI",
+    "Đại hội Đổi mới"
+   ],
+   "facts": [
+    "Đại hội đại biểu toàn quốc lần thứ VI của Đảng họp tại Hà Nội vào tháng 12/1986.",
+    "Đại hội VI thẳng thắn nhìn nhận những sai lầm trong quản lý kinh tế thời bao cấp và quyết định đường lối Đổi mới toàn diện.",
+    "Tại Đại hội VI, đồng chí Nguyễn Văn Linh được bầu làm Tổng Bí thư.",
+    "Khủng hoảng kinh tế và lạm phát phi mã giữa những năm 1980 là nguyên nhân trực tiếp khiến Đại hội VI phải đề ra Đổi mới."
+   ],
+   "traps": [
+    "Nguyễn Văn Linh là Tổng Bí thư đầu tiên của thời kỳ Đổi mới (1986), nhưng KHÔNG phải Tổng Bí thư đầu tiên của Đảng - Tổng Bí thư ĐẦU TIÊN của Đảng là Trần Phú (tháng 10/1930), không phải Nguyễn Ái Quốc."
+   ],
+   "topic_title": "Đất nước Đổi mới",
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 17
+    },
+    {
+     "book": "Cánh diều",
+     "bai": 16
+    },
+    {
+     "book": "CTST",
+     "bai": 16
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%95i_M%E1%BB%9Bi"
+   ]
+  },
+  {
+   "name": "Nước Cộng hoà Nhân dân Trung Hoa",
+   "kind": "place",
+   "summary": "Nước láng giềng phía bắc của Việt Nam, thành lập ngày 1/10/1949, có diện tích thuộc hàng lớn nhất và dân số hơn 1,4 tỉ người.",
+   "year": 1949,
+   "date_start": "1949-10-01",
+   "date_end": null,
+   "place": "Trung Quốc",
+   "actors": [
+    "Mao Trạch Đông"
+   ],
+   "aliases": [
+    "Trung Quốc",
+    "CHND Trung Hoa",
+    "China"
+   ],
+   "facts": [
+    "Ngày 1/10/1949, tại quảng trường Thiên An Môn ở Bắc Kinh, Chủ tịch Mao Trạch Đông tuyên bố thành lập nước Cộng hoà Nhân dân Trung Hoa.",
+    "Nước CHND Trung Hoa ra đời sau khi Đảng Cộng sản Trung Quốc giành thắng lợi trong nội chiến và kiểm soát toàn bộ lục địa Trung Quốc.",
+    "Trung Quốc là nước láng giềng phía bắc của Việt Nam, diện tích khoảng 9,6 triệu km vuông, thuộc nhóm nước rộng lớn nhất thế giới.",
+    "Trung Quốc là quốc gia \"tỉ dân\" với hơn 1,4 tỉ người, cùng Ấn Độ là hai nước đông dân nhất thế giới.",
+    "Thủ đô của Trung Quốc là Bắc Kinh; nước này nổi tiếng với các công trình như Vạn Lý Trường Thành, Tử Cấm Thành."
+   ],
+   "traps": [
+    "Nước CHND Trung Hoa thành lập năm 1949, KHÔNG phải 1945.",
+    "Người tuyên bố thành lập là Mao Trạch Đông, tại quảng trường Thiên An Môn ở Bắc Kinh."
+   ],
+   "topic_title": "Nước Cộng hoà Nhân dân Trung Hoa",
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 18
+    },
+    {
+     "book": "Cánh diều",
+     "bai": 17
+    },
+    {
+     "book": "CTST",
+     "bai": 17
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/C%E1%BB%99ng_h%C3%B2a_Nh%C3%A2n_d%C3%A2n_Trung_Hoa",
+    "https://nghiencuuquocte.org/2015/10/01/mao-tuyen-bo-thanh-lap-chnd-trung-hoa/"
+   ]
+  },
+  {
+   "name": "Nước Cộng hoà Dân chủ Nhân dân Lào",
+   "kind": "place",
+   "summary": "Nước láng giềng phía tây của Việt Nam, thành lập ngày 2/12/1975, thủ đô Viêng Chăn, là quốc gia duy nhất ở Đông Nam Á không giáp biển.",
+   "year": 1975,
+   "date_start": "1975-12-02",
+   "date_end": null,
+   "place": "Lào",
+   "actors": [],
+   "aliases": [
+    "Lào",
+    "CHDCND Lào",
+    "đất nước Triệu Voi",
+    "Lan Xang"
+   ],
+   "facts": [
+    "Ngày 2/12/1975, sau thắng lợi của lực lượng cách mạng Pa-thét Lào, nước Cộng hoà Dân chủ Nhân dân Lào ra đời.",
+    "Lào là nước láng giềng phía tây của Việt Nam, ngăn cách bởi dãy Trường Sơn; thủ đô là Viêng Chăn.",
+    "Lào là quốc gia duy nhất ở Đông Nam Á không giáp biển.",
+    "Lào còn được gọi là \"đất nước Triệu Voi\", theo tên vương quốc Lan Xang do vua Phà Ngừm lập ra ở thế kỷ XIV.",
+    "Sông Mê Công chảy dọc đất nước Lào, vừa nuôi sống người dân vừa tạo thành một đoạn biên giới tự nhiên với Thái Lan.",
+    "Tháp Thạt Luổng dát vàng ở Viêng Chăn là công trình biểu tượng của nước Lào."
+   ],
+   "traps": [
+    "Nước CHDCND Lào thành lập ngày 2/12/1975 - cùng năm 1975 nhưng là sự kiện khác với ngày 30/4 giải phóng miền Nam của Việt Nam.",
+    "Lào KHÔNG giáp biển - nước duy nhất ở Đông Nam Á như vậy; đừng nói Lào có cảng biển."
+   ],
+   "topic_title": "Nước Cộng hoà Nhân dân Trung Hoa",
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 19
+    },
+    {
+     "book": "CTST",
+     "bai": 18
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/L%C3%A0o",
+    "https://vi.wikipedia.org/wiki/Th%E1%BA%A1t_Lu%E1%BB%95ng"
+   ]
+  },
+  {
+   "name": "Vương quốc Cam-pu-chia",
+   "kind": "place",
+   "summary": "Nước láng giềng phía tây nam của Việt Nam, theo chế độ quân chủ lập hiến, thủ đô Phnôm Pênh, nổi tiếng với Biển Hồ và quần thể đền Ăng-co.",
+   "year": null,
+   "date_start": null,
+   "date_end": null,
+   "place": "Cam-pu-chia",
+   "actors": [],
+   "aliases": [
+    "Campuchia",
+    "Cam Bốt",
+    "đất nước Chùa Tháp",
+    "Kampuchea"
+   ],
+   "facts": [
+    "Cam-pu-chia là nước láng giềng phía tây nam của Việt Nam, hai nước chung đường biên giới dài hơn 1.100 km.",
+    "Thủ đô của Cam-pu-chia là Phnôm Pênh, nằm bên dòng sông Mê Công.",
+    "Cam-pu-chia theo thể chế quân chủ lập hiến, đứng đầu là Quốc vương; hầu hết người dân theo đạo Phật.",
+    "Biển Hồ (Tôn-lê Sáp) của Cam-pu-chia là hồ nước ngọt lớn nhất Đông Nam Á, mùa mưa mặt hồ rộng gấp gần chục lần mùa khô.",
+    "Quần thể Ăng-co với hàng trăm đền tháp cổ của người Khơ-me là niềm tự hào của Cam-pu-chia, được UNESCO công nhận là di sản văn hoá thế giới."
+   ],
+   "traps": [
+    "Đừng nhầm Cam-pu-chia (nước láng giềng của Việt Nam) với Chăm-pa (vương quốc cổ từng tồn tại ở miền Trung Việt Nam) - hai tên đọc gần giống nhau."
+   ],
+   "topic_title": "Vương quốc Cam-pu-chia",
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 20
+    },
+    {
+     "book": "CTST",
+     "bai": 19
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Campuchia"
+   ]
+  },
+  {
+   "name": "Vương quốc Chăm-pa",
+   "kind": "place",
+   "summary": "Vương quốc cổ ra đời năm 192 trên dải đất miền Trung Việt Nam ngày nay, chịu ảnh hưởng văn hoá Ấn Độ, để lại các đền tháp Chăm và thánh địa Mỹ Sơn.",
+   "year": 192,
+   "date_start": "192",
+   "date_end": "1832",
+   "place": "Miền Trung Việt Nam",
+   "actors": [
+    "Khu Liên"
+   ],
+   "aliases": [
+    "Champa",
+    "Lâm Ấp",
+    "Chiêm Thành"
+   ],
+   "facts": [
+    "Năm 192, nhân dân huyện Tượng Lâm nổi dậy lật đổ ách đô hộ của nhà Hán, Khu Liên lên làm vua, lập ra nước Lâm Ấp - sau này gọi là Chăm-pa.",
+    "Chăm-pa là vương quốc cổ nằm trên dải đất miền Trung Việt Nam ngày nay, kéo dài khoảng từ Quảng Bình đến Bình Thuận.",
+    "Người Chăm chịu ảnh hưởng sâu sắc của văn hoá Ấn Độ, theo Ấn Độ giáo và Phật giáo, rất giỏi xây đền tháp bằng gạch.",
+    "Thánh địa Mỹ Sơn ở Quảng Nam - trung tâm đền tháp của Chăm-pa - được UNESCO công nhận là di sản văn hoá thế giới năm 1999.",
+    "Chăm-pa suy yếu dần sau thất bại lớn năm 1471 và đến năm 1832, dưới thời vua Minh Mạng, hoàn toàn hoà nhập vào lãnh thổ Việt Nam.",
+    "Ngày nay đồng bào Chăm vẫn sinh sống chủ yếu ở vùng Ninh Thuận, Bình Thuận và gìn giữ văn hoá tháp Chăm."
+   ],
+   "traps": [
+    "Chăm-pa ra đời năm 192 với tên ban đầu là Lâm Ấp; người lãnh đạo lập nước là Khu Liên.",
+    "Chăm-pa KHÔNG phải Cam-pu-chia: tháp Chăm và Mỹ Sơn là của người Chăm ở miền Trung Việt Nam, còn đền Ăng-co là của người Khơ-me ở Cam-pu-chia."
+   ],
+   "topic_title": "Vương quốc Cam-pu-chia",
+   "lessons": [
+    {
+     "book": "Cánh diều",
+     "bai": 7
+    },
+    {
+     "book": "CTST",
+     "bai": 7
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Ch%C4%83m_Pa"
+   ]
+  },
+  {
+   "name": "Hiệp hội các quốc gia Đông Nam Á (ASEAN)",
+   "kind": "org",
+   "summary": "Tổ chức hợp tác khu vực của các nước Đông Nam Á, thành lập ngày 8/8/1967 tại Băng Cốc; Việt Nam gia nhập năm 1995 và là thành viên thứ 7.",
+   "year": 1967,
+   "date_start": "1967-08-08",
+   "date_end": null,
+   "place": "Đông Nam Á",
+   "actors": [],
+   "aliases": [
+    "ASEAN",
+    "A-xê-an",
+    "Hiệp hội các quốc gia Đông Nam Á"
+   ],
+   "facts": [
+    "Hiệp hội các quốc gia Đông Nam Á (ASEAN) được thành lập ngày 8/8/1967 tại Băng Cốc, Thái Lan.",
+    "Năm nước sáng lập ASEAN là Thái Lan, In-đô-nê-xi-a, Ma-lai-xi-a, Phi-líp-pin và Xin-ga-po.",
+    "Ngày 28/7/1995, Việt Nam gia nhập ASEAN, trở thành thành viên thứ 7 của tổ chức.",
+    "Trụ sở Ban Thư ký ASEAN đặt tại Gia-các-ta, In-đô-nê-xi-a.",
+    "Mục tiêu của ASEAN là đoàn kết, hợp tác giữa các nước trong khu vực vì hoà bình, ổn định và cùng phát triển.",
+    "Tháng 10/2025, Đông Ti-mo gia nhập ASEAN, nâng tổng số thành viên lên 11 nước (các sách in trước đó vẫn ghi 10 nước)."
+   ],
+   "traps": [
+    "Việt Nam KHÔNG phải nước sáng lập ASEAN - Việt Nam gia nhập ngày 28/7/1995, là thành viên thứ 7.",
+    "ASEAN thành lập ở Băng Cốc (Thái Lan) nhưng trụ sở lại đặt tại Gia-các-ta (In-đô-nê-xi-a) - hai địa danh khác nhau."
+   ],
+   "topic_title": "Hiệp hội các quốc gia Đông Nam Á",
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 21
+    },
+    {
+     "book": "Cánh diều",
+     "bai": 19
+    },
+    {
+     "book": "CTST",
+     "bai": 20
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Hi%E1%BB%87p_h%E1%BB%99i_c%C3%A1c_qu%E1%BB%91c_gia_%C4%90%C3%B4ng_Nam_%C3%81"
+   ]
+  },
+  {
+   "name": "Các châu lục và đại dương trên thế giới",
+   "kind": "concept",
+   "summary": "Bề mặt Trái Đất được chia thành 6 châu lục và 5 đại dương; châu Á rộng nhất và Thái Bình Dương là đại dương lớn nhất.",
+   "year": null,
+   "date_start": null,
+   "date_end": null,
+   "place": null,
+   "actors": [],
+   "aliases": [
+    "6 châu lục 5 đại dương",
+    "châu lục và đại dương"
+   ],
+   "facts": [
+    "Thế giới có 6 châu lục: châu Á, châu Âu, châu Phi, châu Mỹ, châu Đại Dương và châu Nam Cực.",
+    "Thế giới có 5 đại dương: Thái Bình Dương, Đại Tây Dương, Ấn Độ Dương, Bắc Băng Dương và Nam Đại Dương.",
+    "Châu Á là châu lục có diện tích lớn nhất và đông dân nhất; châu Đại Dương có diện tích nhỏ nhất.",
+    "Thái Bình Dương là đại dương lớn nhất và sâu nhất; Bắc Băng Dương là đại dương nhỏ nhất.",
+    "Việt Nam nằm ở châu Á, ven Biển Đông - vùng biển thuộc Thái Bình Dương.",
+    "Châu Nam Cực quanh năm băng giá nên không có cư dân sinh sống thường xuyên."
+   ],
+   "traps": [
+    "Sách giáo khoa Việt Nam tính châu Mỹ là MỘT châu lục (tổng 6 châu), khác cách tách Bắc Mỹ/Nam Mỹ thành 7 châu của một số nước.",
+    "Sách mới dạy 5 đại dương (có thêm Nam Đại Dương), không còn chỉ 4 đại dương như sách cũ.",
+    "Châu Đại Dương (châu lục có nước Ô-xtrây-li-a) khác với \"đại dương\" (vùng nước mặn rộng lớn) - đừng lẫn hai khái niệm."
+   ],
+   "topic_title": "Các châu lục và đại dương trên thế giới",
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 22
+    },
+    {
+     "book": "Cánh diều",
+     "bai": 20
+    },
+    {
+     "book": "CTST",
+     "bai": 21
+    }
+   ],
+   "sources": [
+    "https://loigiaihay.com/bai-22-cac-chau-luc-va-dai-duong-tren-the-gioi-sgk-lich-su-va-dia-li-5-ket-noi-tri-thuc-a167415.html",
+    "https://vietjack.com/lich-su-va-dia-li-5-kn/bai-22-cac-chau-luc-va-dai-duong-tren-the-gioi.jsp"
+   ]
+  },
+  {
+   "name": "Dân số thế giới và các chủng tộc chính",
+   "kind": "concept",
+   "summary": "Dân số thế giới đã vượt 8 tỉ người (15/11/2022) và gồm ba chủng tộc chính da vàng, da trắng, da đen - tất cả đều bình đẳng.",
+   "year": null,
+   "date_start": null,
+   "date_end": null,
+   "place": null,
+   "actors": [],
+   "aliases": [
+    "dân số thế giới",
+    "các chủng tộc chính",
+    "Môn-gô-lô-it",
+    "Ơ-rô-pê-ô-it",
+    "Nê-grô-it"
+   ],
+   "facts": [
+    "Theo Liên hợp quốc, ngày 15/11/2022 dân số thế giới đạt mốc 8 tỉ người và vẫn tiếp tục tăng.",
+    "Châu Á là châu lục đông dân nhất, chiếm hơn một nửa dân số thế giới.",
+    "Dân cư thế giới thuộc ba chủng tộc chính: da vàng (Môn-gô-lô-it), da trắng (Ơ-rô-pê-ô-it) và da đen (Nê-grô-it).",
+    "Người Việt Nam thuộc chủng tộc da vàng (Môn-gô-lô-it) - chủng tộc phân bố chủ yếu ở châu Á.",
+    "Các chủng tộc chỉ khác nhau ở đặc điểm bên ngoài như màu da, màu tóc, màu mắt; mọi chủng tộc đều bình đẳng như nhau."
+   ],
+   "traps": [
+    "Khác biệt giữa các chủng tộc chỉ là đặc điểm hình thể bên ngoài - tuyệt đối không có chủng tộc nào \"giỏi hơn\" hay \"thượng đẳng\" hơn chủng tộc khác.",
+    "Mốc 8 tỉ người là ngày 15/11/2022; còn mốc 7 tỉ người là năm 2011 - đừng lẫn hai mốc."
+   ],
+   "topic_title": "Dân số và các chủng tộc chính trên thế giới",
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 23
+    },
+    {
+     "book": "Cánh diều",
+     "bai": 21
+    },
+    {
+     "book": "CTST",
+     "bai": 22
+    }
+   ],
+   "sources": [
+    "https://vietnam.unfpa.org/vi/news/dan-so-the-gioi-dat-8-ti-nguoi-vao-ngay-15112022",
+    "https://loigiaihay.com/bai-23-dan-so-va-cac-chung-toc-chinh-tren-the-gioi-sgk-lich-su-va-dia-li-5-ket-noi-tri-thuc-a167416.html"
+   ]
+  },
+  {
+   "name": "Văn minh Ai Cập cổ đại",
+   "kind": "concept",
+   "summary": "Một trong những nền văn minh sớm nhất thế giới, ra đời bên sông Nin ở Đông Bắc châu Phi từ hơn 3000 năm TCN, nổi tiếng với kim tự tháp và chữ tượng hình.",
+   "year": null,
+   "date_start": null,
+   "date_end": null,
+   "place": "Đông Bắc châu Phi, ven sông Nin",
+   "actors": [],
+   "aliases": [
+    "Ai Cập cổ đại",
+    "văn minh sông Nin"
+   ],
+   "facts": [
+    "Văn minh Ai Cập ra đời từ khoảng hơn 3000 năm trước Công nguyên bên dòng sông Nin ở Đông Bắc châu Phi.",
+    "Nhờ nước lũ sông Nin hằng năm bồi đắp phù sa màu mỡ, người Ai Cập cổ phát triển nông nghiệp sớm và xây dựng được nền văn minh rực rỡ.",
+    "Người Ai Cập cổ sáng tạo ra chữ tượng hình, làm giấy từ cây pa-pi-rút và đạt nhiều thành tựu về toán học, thiên văn, thuỷ lợi.",
+    "Kim tự tháp là những lăng mộ đá khổng lồ của các vua Ai Cập (pha-ra-ông); lớn nhất là kim tự tháp Kê-ốp ở Ghi-da, cao gần 147 m khi mới xây.",
+    "Người Ai Cập cổ còn nổi tiếng với kỹ thuật ướp xác để bảo quản thi hài các pha-ra-ông."
+   ],
+   "traps": [
+    "Kim tự tháp là LĂNG MỘ của vua Ai Cập (pha-ra-ông), không phải đền thờ thần.",
+    "Ai Cập nằm ở châu PHI, bên sông Nin - không phải ở châu Á."
+   ],
+   "topic_title": "Văn minh Ai Cập",
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 24
+    },
+    {
+     "book": "CTST",
+     "bai": 23
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Ai_C%E1%BA%ADp_c%E1%BB%95_%C4%91%E1%BA%A1i",
+    "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_kim_t%E1%BB%B1_th%C3%A1p_Giza"
+   ]
+  },
+  {
+   "name": "Văn minh Hy Lạp cổ đại",
+   "kind": "concept",
+   "summary": "Nền văn minh cổ đại ở ven Địa Trung Hải, quê hương của nền dân chủ A-ten, đền Pác-tê-nông, các nhà bác học lớn và Thế vận hội Ô-lim-pích.",
+   "year": null,
+   "date_start": null,
+   "date_end": null,
+   "place": "Bán đảo Ban-căng, ven Địa Trung Hải",
+   "actors": [],
+   "aliases": [
+    "Hy Lạp cổ đại",
+    "văn minh Hy Lạp"
+   ],
+   "facts": [
+    "Văn minh Hy Lạp cổ đại hình thành trên bán đảo Ban-căng và các đảo ven biển Địa Trung Hải từ khoảng thế kỷ VIII trước Công nguyên.",
+    "Hy Lạp cổ gồm nhiều thành bang, nổi tiếng nhất là A-ten và Xpác-ta; A-ten được coi là nơi khai sinh nền dân chủ đầu tiên của thế giới.",
+    "Đền Pác-tê-nông ở A-ten, thờ nữ thần A-tê-na, là công trình kiến trúc tiêu biểu nhất của Hy Lạp cổ đại.",
+    "Hy Lạp cổ sản sinh nhiều nhà tư tưởng, nhà bác học lớn như Xô-crát, Pla-tôn, A-ri-xtốt và để lại bộ chữ cái Hy Lạp - nền móng của chữ viết phương Tây.",
+    "Thế vận hội Ô-lim-pích ra đời ở Hy Lạp từ năm 776 trước Công nguyên, tổ chức 4 năm một lần để tôn vinh thần Dớt."
+   ],
+   "traps": [
+    "Đền Pác-tê-nông thờ nữ thần A-tê-na (không phải thần Dớt); còn Thế vận hội Ô-lim-pích cổ đại mới là lễ hội tôn vinh thần Dớt.",
+    "Hy Lạp ở châu Âu ven Địa Trung Hải, còn Ai Cập ở châu Phi bên sông Nin - hai nền văn minh khác nhau, đừng gán lẫn thành tựu."
+   ],
+   "topic_title": "Văn minh Ai Cập",
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 25
+    },
+    {
+     "book": "CTST",
+     "bai": 24
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Hy_L%E1%BA%A1p_c%E1%BB%95_%C4%91%E1%BA%A1i",
+    "https://vi.wikipedia.org/wiki/Th%E1%BA%BF_v%E1%BA%ADn_h%E1%BB%99i"
+   ]
+  },
+  {
+   "name": "Giờ Trái Đất",
+   "kind": "movement",
+   "summary": "Phong trào toàn cầu do WWF khởi xướng từ năm 2007, kêu gọi tắt đèn một giờ vào tối thứ Bảy cuối tháng 3 để hưởng ứng bảo vệ Trái Đất.",
+   "year": 2007,
+   "date_start": "2007-03-31",
+   "date_end": null,
+   "place": "Toàn cầu (khởi đầu tại Xít-ni, Ô-xtrây-li-a)",
+   "actors": [
+    "WWF"
+   ],
+   "aliases": [
+    "Earth Hour"
+   ],
+   "facts": [
+    "Giờ Trái Đất là phong trào toàn cầu do Quỹ Quốc tế Bảo tồn Thiên nhiên (WWF) khởi xướng, kêu gọi mọi người tắt đèn một giờ để thể hiện cam kết bảo vệ Trái Đất.",
+    "Sự kiện Giờ Trái Đất đầu tiên diễn ra ngày 31/3/2007 tại thành phố Xít-ni, Ô-xtrây-li-a.",
+    "Hằng năm, Giờ Trái Đất diễn ra vào tối thứ Bảy cuối tháng 3, từ 20 giờ 30 đến 21 giờ 30 theo giờ địa phương.",
+    "Việt Nam bắt đầu tham gia Giờ Trái Đất từ năm 2009.",
+    "Vì Trái Đất đang nóng lên do con người xả quá nhiều khí thải, những phong trào như Giờ Trái Đất ra đời để nhắc nhở mọi người tiết kiệm năng lượng và chung tay xây dựng thế giới xanh - sạch - đẹp."
+   ],
+   "traps": [
+    "Giờ Trái Đất (tắt đèn tối thứ Bảy cuối tháng 3) khác với Ngày Trái Đất (22/4) - hai sự kiện môi trường khác nhau."
+   ],
+   "topic_title": "Xây dựng thế giới xanh - sạch - đẹp",
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 26
+    },
+    {
+     "book": "Cánh diều",
+     "bai": 23
+    },
+    {
+     "book": "CTST",
+     "bai": 25
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Gi%E1%BB%9D_Tr%C3%A1i_%C4%90%E1%BA%A5t"
+   ]
+  },
+  {
+   "name": "Liên hợp quốc",
+   "kind": "org",
+   "summary": "Tổ chức quốc tế lớn nhất thế giới, thành lập ngày 24/10/1945 sau Chiến tranh thế giới thứ hai để gìn giữ hoà bình; Việt Nam là thành viên thứ 149 từ năm 1977.",
+   "year": 1945,
+   "date_start": "1945-10-24",
+   "date_end": null,
+   "place": "Trụ sở chính tại Niu Oóc, Mỹ",
+   "actors": [],
+   "aliases": [
+    "LHQ",
+    "UN",
+    "United Nations"
+   ],
+   "facts": [
+    "Liên hợp quốc được thành lập ngày 24/10/1945, ngay sau Chiến tranh thế giới thứ hai, với nhiệm vụ hàng đầu là duy trì hoà bình và an ninh thế giới.",
+    "Chính vì hai cuộc chiến tranh thế giới gây đau thương, tàn phá khủng khiếp nên các nước đã lập ra Liên hợp quốc để ngăn chiến tranh lặp lại.",
+    "Trụ sở chính của Liên hợp quốc đặt tại thành phố Niu Oóc (Mỹ); tổ chức hiện có 193 quốc gia thành viên.",
+    "Ngày 20/9/1977, Việt Nam chính thức gia nhập Liên hợp quốc, trở thành thành viên thứ 149.",
+    "Từ năm 2014, Việt Nam cử sĩ quan và sau đó là bệnh viện dã chiến tham gia lực lượng gìn giữ hoà bình của Liên hợp quốc ở Nam Xu-đăng và một số nơi khác."
+   ],
+   "traps": [
+    "Việt Nam gia nhập Liên hợp quốc ngày 20/9/1977 (thành viên thứ 149), KHÔNG phải năm 1945 hay ngay sau ngày 30/4/1975.",
+    "Liên hợp quốc (1945, tổ chức toàn cầu) khác ASEAN (1967, tổ chức khu vực Đông Nam Á) - đừng lẫn hai tổ chức."
+   ],
+   "topic_title": "Xây dựng thế giới hoà bình",
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 27
+    },
+    {
+     "book": "Cánh diều",
+     "bai": 24
+    },
+    {
+     "book": "CTST",
+     "bai": 26
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Li%C3%AAn_H%E1%BB%A3p_Qu%E1%BB%91c",
+    "https://www.qdnd.vn/tu-lieu-ho-so/ngay-nay-nam-xua/ngay-20-9-1977-viet-nam-chinh-thuc-tro-thanh-thanh-vien-thu-149-cua-lien-hop-quoc-705765",
+    "https://vnexpress.net/luc-luong-gin-giu-hoa-binh-viet-nam-xuat-quan-lam-nhiem-vu-quoc-te-3817487.html"
+   ]
+  },
+  {
+   "name": "Thạt Luổng",
+   "kind": "artifact",
+   "summary": "Toà tháp Phật giáo dát vàng ở thủ đô Viêng Chăn, xây năm 1566, là biểu tượng quốc gia của nước Lào.",
+   "year": 1566,
+   "date_start": "1566",
+   "date_end": null,
+   "place": "Viêng Chăn, Lào",
+   "actors": [
+    "Vua Xệt-tha-thi-lạt"
+   ],
+   "aliases": [
+    "Pha That Luang",
+    "That Luang",
+    "tháp Thạt Luổng"
+   ],
+   "facts": [
+    "Thạt Luổng là toà tháp Phật giáo dát vàng ở thủ đô Viêng Chăn, được xây năm 1566 dưới triều vua Xệt-tha-thi-lạt.",
+    "Tháp chính Thạt Luổng cao khoảng 45 m, chân đế tạo hình đài sen, xung quanh có nhiều tháp nhỏ bao bọc.",
+    "Thạt Luổng là biểu tượng quốc gia của Lào, được in trên quốc huy và trên tiền của nước này.",
+    "Hằng năm, người Lào tổ chức hội Thạt Luổng - một trong những lễ hội Phật giáo lớn nhất cả nước."
+   ],
+   "traps": [
+    "Thạt Luổng nằm ở Viêng Chăn, Lào - đừng nhầm với các chùa tháp vàng ở Thái Lan hay Mi-an-ma."
+   ],
+   "topic_title": "Nước Cộng hoà Dân chủ Nhân dân Lào và Vương quốc Cam-pu-chia",
+   "lessons": [
+    {
+     "book": "Cánh diều",
+     "bai": 18
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Th%E1%BA%A1t_Lu%E1%BB%95ng"
+   ]
+  },
+  {
+   "name": "Ăng-co Vát",
+   "kind": "artifact",
+   "summary": "Ngôi đền đá nổi tiếng nhất của người Khơ-me ở Xiêm Riệp, Cam-pu-chia, xây nửa đầu thế kỷ XII, được in trên quốc kỳ Cam-pu-chia.",
+   "year": null,
+   "date_start": null,
+   "date_end": null,
+   "place": "Xiêm Riệp, Cam-pu-chia",
+   "actors": [
+    "Vua Su-ri-a-vác-man II"
+   ],
+   "aliases": [
+    "Angkor Wat",
+    "đền Ăng-co Vát"
+   ],
+   "facts": [
+    "Ăng-co Vát được xây vào nửa đầu thế kỷ XII dưới triều vua Su-ri-a-vác-man II của đế quốc Khơ-me.",
+    "Ăng-co Vát nằm ở tỉnh Xiêm Riệp, Cam-pu-chia, là ngôi đền nổi tiếng nhất trong quần thể di tích Ăng-co.",
+    "Ban đầu Ăng-co Vát là đền thờ thần Vi-snu của Ấn Độ giáo, từ cuối thế kỷ XII dần chuyển thành đền Phật giáo.",
+    "Quần thể Ăng-co được UNESCO công nhận là di sản văn hoá thế giới năm 1992.",
+    "Hình Ăng-co Vát xuất hiện trên quốc kỳ Cam-pu-chia từ năm 1863, thể hiện niềm tự hào của dân tộc Khơ-me."
+   ],
+   "traps": [
+    "Ăng-co Vát là đền của người Khơ-me ở Cam-pu-chia - đừng nhầm với tháp Chăm của vương quốc Chăm-pa ở miền Trung Việt Nam."
+   ],
+   "topic_title": "Nước Cộng hoà Dân chủ Nhân dân Lào và Vương quốc Cam-pu-chia",
+   "lessons": [
+    {
+     "book": "Cánh diều",
+     "bai": 18
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Angkor_Wat"
+   ]
+  },
+  {
+   "name": "Đại kim tự tháp Ghi-da (kim tự tháp Kê-ốp)",
+   "kind": "artifact",
+   "summary": "Kim tự tháp lớn nhất Ai Cập, xây khoảng năm 2570 TCN làm lăng mộ pha-ra-ông Kê-ốp, là kỳ quan cổ đại duy nhất còn gần như nguyên vẹn.",
+   "year": null,
+   "date_start": null,
+   "date_end": null,
+   "place": "Cao nguyên Ghi-da, gần Cai-rô, Ai Cập",
+   "actors": [
+    "Pha-ra-ông Kê-ốp (Khufu)"
+   ],
+   "aliases": [
+    "kim tự tháp Khufu",
+    "Đại kim tự tháp Giza",
+    "kim tự tháp Cheops",
+    "kim tự tháp Kê-ốp"
+   ],
+   "facts": [
+    "Đại kim tự tháp Ghi-da được xây khoảng năm 2570 trước Công nguyên để làm lăng mộ cho pha-ra-ông Kê-ốp (Khufu).",
+    "Khi mới hoàn thành, kim tự tháp cao khoảng 147 m; ngày nay còn khoảng 138,5 m do lớp đá ốp bên ngoài bị mất.",
+    "Đây là kỳ quan duy nhất trong \"bảy kỳ quan thế giới cổ đại\" còn tồn tại gần như nguyên vẹn đến ngày nay.",
+    "Kim tự tháp nằm trên cao nguyên Ghi-da, gần thủ đô Cai-rô của Ai Cập ngày nay."
+   ],
+   "traps": [
+    "Kê-ốp (tên tiếng Hy Lạp là Cheops) chính là pha-ra-ông Khufu - hai tên gọi của cùng một vị vua.",
+    "Kim tự tháp là lăng mộ của pha-ra-ông, không phải đền thờ thần."
+   ],
+   "topic_title": "Một số nền văn minh nổi tiếng thế giới",
+   "lessons": [
+    {
+     "book": "Cánh diều",
+     "bai": 22
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_kim_t%E1%BB%B1_th%C3%A1p_Giza"
+   ]
+  },
+  {
+   "name": "Thế vận hội Ô-lim-pích",
+   "kind": "event",
+   "summary": "Ngày hội thể thao lớn nhất hành tinh, bắt nguồn từ Hy Lạp cổ đại năm 776 TCN và được khôi phục thời hiện đại từ năm 1896 tại A-ten.",
+   "year": null,
+   "date_start": null,
+   "date_end": null,
+   "place": "Khởi nguồn tại Ô-lim-pi-a, Hy Lạp",
+   "actors": [
+    "Pi-e đơ Cu-béc-tanh"
+   ],
+   "aliases": [
+    "Olympic",
+    "Thế vận hội",
+    "Olympic Games",
+    "Ô-lim-pích"
+   ],
+   "facts": [
+    "Thế vận hội Ô-lim-pích cổ đại được tổ chức lần đầu năm 776 trước Công nguyên tại Ô-lim-pi-a, Hy Lạp, để tôn vinh thần Dớt.",
+    "Ô-lim-pích cổ đại diễn ra 4 năm một lần vào mùa hè và kéo dài đến khoảng năm 394 thì bị hoàng đế La Mã cấm.",
+    "Nhà sư phạm người Pháp Pi-e đơ Cu-béc-tanh đã vận động khôi phục Thế vận hội; kỳ Ô-lim-pích hiện đại đầu tiên diễn ra năm 1896 tại A-ten, Hy Lạp.",
+    "Ngày nay, Ô-lim-pích vẫn giữ chu kỳ 4 năm một lần và là ngày hội thể thao lớn nhất hành tinh, biểu tượng của tinh thần hoà bình, hữu nghị giữa các dân tộc."
+   ],
+   "traps": [
+    "Thế vận hội bắt nguồn từ Hy Lạp cổ đại (năm 776 TCN), không phải mới có từ năm 1896 - năm 1896 chỉ là kỳ Ô-lim-pích HIỆN ĐẠI đầu tiên."
+   ],
+   "topic_title": "Một số nền văn minh nổi tiếng thế giới",
+   "lessons": [
+    {
+     "book": "Cánh diều",
+     "bai": 22
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Th%E1%BA%BF_v%E1%BA%ADn_h%E1%BB%99i"
+   ]
+  }
+ ]
+}

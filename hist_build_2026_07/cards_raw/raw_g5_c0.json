@@ -1,0 +1,896 @@
+{
+ "grade": 5,
+ "chunk": 0,
+ "cards": [
+  {
+   "name": "Trương Định",
+   "kind": "person",
+   "summary": "Thủ lĩnh nghĩa quân chống Pháp ở Gò Công (Nam Kỳ), được nhân dân suy tôn là Bình Tây Đại nguyên soái, tuẫn tiết năm 1864.",
+   "facts": [
+    "Trương Định (1820–1864) quê ở huyện Bình Sơn, tỉnh Quảng Ngãi, sau theo cha vào Nam và trở thành thủ lĩnh nghĩa quân chống Pháp ở vùng Gò Công, Tân An (Nam Kỳ).",
+    "Khi Pháp đánh chiếm Gia Định từ năm 1859, Trương Định chiêu mộ nghĩa binh, lập căn cứ đánh Pháp nhiều trận khiến chúng ăn không ngon, ngủ không yên.",
+    "Năm 1862, triều đình Huế ký hòa ước nhường ba tỉnh miền Đông Nam Kỳ cho Pháp và ra lệnh cho Trương Định phải giải tán nghĩa binh, đi nơi khác nhận chức lãnh binh.",
+    "Đứng giữa lệnh vua và lòng dân, Trương Định quyết định ở lại cùng nhân dân chống Pháp, nên được nghĩa quân và dân chúng suy tôn là 'Bình Tây Đại nguyên soái'.",
+    "Tháng 8/1864, do Huỳnh Công Tấn phản bội dẫn quân Pháp đánh úp căn cứ, Trương Định bị thương nặng và rút gươm tự sát để bảo toàn khí tiết."
+   ],
+   "topic_title": "“Bình Tây Đại nguyên soái” Trương Định",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Trương_Định"
+   ],
+   "aliases": [
+    "Trương Công Định",
+    "Bình Tây Đại nguyên soái"
+   ],
+   "actors": [
+    "Trương Định",
+    "Huỳnh Công Tấn"
+   ],
+   "traps": [
+    "Danh hiệu 'Bình Tây Đại nguyên soái' do NHÂN DÂN và nghĩa quân suy tôn, không phải do triều đình phong.",
+    "Trương Định chống lệnh giải binh của triều đình để ở lại đánh Pháp — không phải ông theo lệnh triều đình đi đánh Pháp."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 1
+    }
+   ],
+   "year": null,
+   "date_start": "1820",
+   "date_end": "1864",
+   "place": "Gò Công (Nam Kỳ)"
+  },
+  {
+   "name": "Thực dân Pháp nổ súng xâm lược Việt Nam tại Đà Nẵng",
+   "kind": "event",
+   "summary": "Ngày 1/9/1858 liên quân Pháp – Tây Ban Nha tấn công Đà Nẵng, mở đầu cuộc xâm lược Việt Nam của thực dân Pháp.",
+   "facts": [
+    "Ngày 1/9/1858, liên quân Pháp – Tây Ban Nha do Rigault de Genouilly chỉ huy nổ súng tấn công Đà Nẵng, mở đầu cuộc xâm lược Việt Nam của thực dân Pháp.",
+    "Quân dân ta dưới sự chỉ huy của danh tướng Nguyễn Tri Phương anh dũng chống trả, giam chân địch nhiều tháng ở Đà Nẵng.",
+    "Vì bị cầm chân ở Đà Nẵng, đầu tháng 2/1859 quân Pháp phải chuyển hướng đưa quân vào đánh Gia Định (Nam Kỳ).",
+    "Pháp đánh chiếm Nam Kỳ khiến nhân dân nơi đây đứng lên kháng chiến, tiêu biểu là các cuộc khởi nghĩa của Trương Định và Nguyễn Trung Trực."
+   ],
+   "topic_title": "“Bình Tây Đại nguyên soái” Trương Định",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Trận_Đà_Nẵng_(1858–1859)"
+   ],
+   "aliases": [
+    "Sự kiện 1/9/1858",
+    "Pháp tấn công Đà Nẵng 1858",
+    "Trận Đà Nẵng 1858"
+   ],
+   "actors": [
+    "Rigault de Genouilly",
+    "Nguyễn Tri Phương"
+   ],
+   "traps": [
+    "Pháp bắt đầu xâm lược Việt Nam ngày 1/9/1858 tại ĐÀ NẴNG — không phải tại Gia Định hay Huế; Gia Định bị đánh sau, đầu năm 1859."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 1
+    }
+   ],
+   "year": 1858,
+   "date_start": "1858-09-01",
+   "date_end": null,
+   "place": "Đà Nẵng"
+  },
+  {
+   "name": "Nguyễn Trường Tộ",
+   "kind": "person",
+   "summary": "Nhà cải cách quê Nghệ An, giữa thế kỷ XIX dồn dập gửi các bản điều trần đề nghị vua Tự Đức canh tân đất nước nhưng không được thực hiện.",
+   "facts": [
+    "Nguyễn Trường Tộ (1830–1871) quê ở tỉnh Nghệ An, xuất thân trong một gia đình Công giáo, học rộng và sớm được ra nước ngoài quan sát văn minh phương Tây.",
+    "Trong khoảng các năm 1861–1871, ông gửi lên vua Tự Đức hàng chục bản điều trần bày tỏ mong muốn canh tân, làm cho đất nước giàu mạnh.",
+    "Các đề nghị canh tân của ông gồm: mở trường dạy kỹ thuật, khai mỏ, đóng tàu, phát triển buôn bán, chấn chỉnh quân đội và mở rộng ngoại giao với nhiều nước.",
+    "Vua quan nhà Nguyễn bảo thủ, không hiểu những thay đổi của thế giới bên ngoài nên hầu hết đề nghị của Nguyễn Trường Tộ không được thực hiện.",
+    "Vì triều Nguyễn khước từ canh tân, đất nước tiếp tục nghèo nàn lạc hậu và không đủ sức chống lại cuộc xâm lược của thực dân Pháp.",
+    "Nguyễn Trường Tộ mất ngày 22/11/1871 khi mới 41 tuổi."
+   ],
+   "topic_title": "Nguyễn Trường Tộ mong muốn canh tân đất nước",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Nguyễn_Trường_Tộ"
+   ],
+   "aliases": [
+    "Nguyễn Trường Tộ canh tân"
+   ],
+   "actors": [
+    "Nguyễn Trường Tộ",
+    "Tự Đức"
+   ],
+   "traps": [
+    "Nguyễn Trường Tộ đề nghị canh tân với vua Tự Đức GIỮA thế kỷ XIX — đừng nhầm với phong trào Đông du của Phan Bội Châu hay Duy tân của Phan Châu Trinh đầu thế kỷ XX."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 2
+    }
+   ],
+   "year": null,
+   "date_start": "1830",
+   "date_end": "1871",
+   "place": "Nghệ An"
+  },
+  {
+   "name": "Cuộc phản công ở kinh thành Huế",
+   "kind": "battle",
+   "summary": "Đêm 4 rạng 5/7/1885, phe chủ chiến do Tôn Thất Thuyết đứng đầu tấn công quân Pháp ở Huế; thất bại này dẫn tới việc ban chiếu Cần Vương.",
+   "facts": [
+    "Đêm mùng 4 rạng sáng 5/7/1885, phe chủ chiến trong triều đình do Tôn Thất Thuyết đứng đầu bất ngờ tấn công đồn Mang Cá và tòa Khâm sứ Pháp ở kinh thành Huế.",
+    "Quân Pháp lúc đầu bối rối, nhưng nhờ vũ khí mạnh hơn đã phản công lại, khiến cuộc tấn công của phe chủ chiến thất bại.",
+    "Vì cuộc phản công thất bại, Tôn Thất Thuyết phải đưa vua Hàm Nghi rời kinh thành Huế chạy ra căn cứ Tân Sở (Quảng Trị).",
+    "Ngày 13/7/1885 tại Tân Sở, chiếu Cần Vương được ban ra nhân danh vua Hàm Nghi, kêu gọi văn thân, sĩ phu và nhân dân đứng lên giúp vua cứu nước.",
+    "Chiếu Cần Vương làm bùng nổ phong trào Cần Vương chống Pháp sôi nổi kéo dài đến năm 1896."
+   ],
+   "topic_title": "Cuộc phản công ở kinh thành Huế",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Trận_Kinh_thành_Huế_1885",
+    "https://vi.wikipedia.org/wiki/Phong_trào_Cần_Vương"
+   ],
+   "aliases": [
+    "Trận Kinh thành Huế 1885",
+    "Binh biến kinh thành Huế 1885",
+    "Sự biến kinh thành Huế"
+   ],
+   "actors": [
+    "Tôn Thất Thuyết",
+    "Hàm Nghi",
+    "Trần Xuân Soạn"
+   ],
+   "traps": [
+    "Cuộc phản công ở kinh thành Huế do phe CHỦ CHIẾN (Tôn Thất Thuyết) chủ động đánh trước đêm 4 rạng 5/7/1885 — không phải Pháp tấn công trước.",
+    "Nhân quả đúng chiều: phản công thất bại → đưa vua Hàm Nghi ra Tân Sở → ban chiếu Cần Vương → bùng nổ phong trào Cần Vương."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 3
+    }
+   ],
+   "year": 1885,
+   "date_start": "1885-07-05",
+   "date_end": null,
+   "place": "Huế"
+  },
+  {
+   "name": "Phong trào Cần Vương",
+   "kind": "movement",
+   "summary": "Phong trào giúp vua cứu nước chống Pháp 1885–1896, bùng nổ sau chiếu Cần Vương của vua Hàm Nghi.",
+   "facts": [
+    "Phong trào Cần Vương (1885–1896) bùng nổ sau khi chiếu Cần Vương được ban ngày 13/7/1885 tại căn cứ Tân Sở, tỉnh Quảng Trị.",
+    "'Cần Vương' nghĩa là giúp vua; phong trào kêu gọi văn thân, sĩ phu và nhân dân phò vua Hàm Nghi đứng lên đánh Pháp cứu nước.",
+    "Các cuộc khởi nghĩa tiêu biểu của phong trào là Ba Đình ở Thanh Hóa (Phạm Bành, Đinh Công Tráng), Bãi Sậy ở Hưng Yên (Nguyễn Thiện Thuật) và Hương Khê ở Hà Tĩnh (Phan Đình Phùng).",
+    "Năm 1888 vua Hàm Nghi bị Pháp bắt nhưng phong trào vẫn tiếp tục; đến khi khởi nghĩa Hương Khê thất bại năm 1896, phong trào Cần Vương mới chấm dứt."
+   ],
+   "topic_title": "Cuộc phản công ở kinh thành Huế",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Phong_trào_Cần_Vương"
+   ],
+   "aliases": [
+    "Cần Vương",
+    "Chiếu Cần Vương",
+    "Hịch Cần Vương"
+   ],
+   "actors": [
+    "Hàm Nghi",
+    "Tôn Thất Thuyết",
+    "Phan Đình Phùng",
+    "Nguyễn Thiện Thuật",
+    "Đinh Công Tráng"
+   ],
+   "traps": [
+    "Khởi nghĩa Hương Khê (Phan Đình Phùng) là cuộc khởi nghĩa tiêu biểu nhất và kết thúc muộn nhất (1896) của phong trào Cần Vương — không phải Ba Đình hay Bãi Sậy."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 3
+    }
+   ],
+   "year": 1885,
+   "date_start": "1885",
+   "date_end": "1896",
+   "place": "Trung Kỳ và Bắc Kỳ"
+  },
+  {
+   "name": "Vua Hàm Nghi",
+   "kind": "person",
+   "summary": "Vị vua trẻ triều Nguyễn đứng tên ban chiếu Cần Vương chống Pháp, bị bắt năm 1888 và bị đày sang Algérie.",
+   "facts": [
+    "Hàm Nghi (1871–1944), tên thật Nguyễn Phúc Ưng Lịch, là vị vua thứ tám của triều Nguyễn, lên ngôi năm 1884 khi mới 13 tuổi.",
+    "Sau khi cuộc phản công ở kinh thành Huế thất bại tháng 7/1885, ông theo Tôn Thất Thuyết ra căn cứ Tân Sở (Quảng Trị) và đứng tên ban chiếu Cần Vương kêu gọi nhân dân chống Pháp.",
+    "Năm 1888, do Trương Quang Ngọc phản bội chỉ điểm, vua Hàm Nghi bị quân Pháp bắt.",
+    "Pháp đày vua Hàm Nghi sang An-giê-ri (Bắc Phi); ông sống ở đó cho đến khi qua đời ngày 14/1/1944."
+   ],
+   "topic_title": "Cuộc phản công ở kinh thành Huế",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Hàm_Nghi"
+   ],
+   "aliases": [
+    "Nguyễn Phúc Ưng Lịch",
+    "Ưng Lịch"
+   ],
+   "actors": [
+    "Hàm Nghi",
+    "Tôn Thất Thuyết",
+    "Trương Quang Ngọc"
+   ],
+   "traps": [
+    "Hàm Nghi bị đày sang ALGÉRIE (Bắc Phi) — đừng nhầm với vua Thành Thái và Duy Tân bị đày ra đảo Réunion."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 3
+    }
+   ],
+   "year": null,
+   "date_start": "1871",
+   "date_end": "1944",
+   "place": "Huế"
+  },
+  {
+   "name": "Vua Dục Đức",
+   "kind": "person",
+   "summary": "Vị vua thứ năm triều Nguyễn, chỉ tại vị 3 ngày tháng 7/1883 — vua trị vì ngắn nhất lịch sử Việt Nam.",
+   "facts": [
+    "Dục Đức (1852–1883), tên thật Nguyễn Phúc Ưng Chân, là vị vua thứ năm của triều Nguyễn.",
+    "Ông lên ngôi tháng 7/1883 ngay sau khi vua Tự Đức mất, nhưng chỉ tại vị đúng 3 ngày.",
+    "Hai phụ chính đại thần Nguyễn Văn Tường và Tôn Thất Thuyết phế truất Dục Đức rồi giam ông vào ngục.",
+    "Ông chết trong ngục ngày 6/10/1883 vì bị bỏ đói.",
+    "Dục Đức là vua trị vì ngắn nhất trong 13 đời vua triều Nguyễn và cũng là vua trị vì ngắn nhất lịch sử Việt Nam."
+   ],
+   "topic_title": "Cuộc phản công ở kinh thành Huế",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Dục_Đức"
+   ],
+   "aliases": [
+    "Nguyễn Phúc Ưng Chân",
+    "Nguyễn Phúc Ưng Ái",
+    "vua ba ngày"
+   ],
+   "actors": [
+    "Dục Đức",
+    "Nguyễn Văn Tường",
+    "Tôn Thất Thuyết"
+   ],
+   "traps": [
+    "Vua trị vì NGẮN NHẤT triều Nguyễn (và lịch sử Việt Nam) là DỤC ĐỨC — chỉ 3 ngày năm 1883; KHÔNG phải Lê Hiến Tông, cũng không phải Hiệp Hòa (Hiệp Hòa làm vua khoảng 4 tháng)."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 3
+    }
+   ],
+   "year": null,
+   "date_start": "1852",
+   "date_end": "1883",
+   "place": "Huế"
+  },
+  {
+   "name": "Cuộc khai thác thuộc địa lần thứ nhất của thực dân Pháp",
+   "kind": "period",
+   "summary": "Từ cuối thế kỷ XIX đến 1914, Pháp vơ vét tài nguyên Việt Nam, làm xuất hiện các giai cấp, tầng lớp mới trong xã hội.",
+   "facts": [
+    "Từ cuối thế kỷ XIX (khoảng năm 1897) đến năm 1914, sau khi đặt ách đô hộ lên nước ta, thực dân Pháp tiến hành cuộc khai thác thuộc địa lần thứ nhất, gắn với tên Toàn quyền Paul Doumer.",
+    "Pháp đẩy mạnh khai thác mỏ (nhất là than), cướp đoạt ruộng đất lập đồn điền cao su, cà phê và xây dựng đường sắt, bến cảng chủ yếu để chở tài nguyên về Pháp.",
+    "Những thay đổi về kinh tế đó làm xã hội Việt Nam cuối thế kỷ XIX – đầu thế kỷ XX xuất hiện các giai cấp, tầng lớp mới: công nhân, chủ xưởng, nhà buôn, viên chức, trí thức.",
+    "Nông dân bị mất ruộng đất phải vào làm thuê trong các đồn điền, hầm mỏ, nhà máy với đồng lương rẻ mạt, đời sống vô cùng cực khổ.",
+    "Chính sự bóc lột nặng nề của Pháp làm mâu thuẫn dân tộc thêm gay gắt, thúc đẩy các phong trào yêu nước đầu thế kỷ XX như phong trào Đông du."
+   ],
+   "topic_title": "Xã hội Việt Nam cuối thế kỉ XIX - đầu thế kỉ XX",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Pháp_thuộc"
+   ],
+   "aliases": [
+    "Khai thác thuộc địa lần 1",
+    "Chương trình khai thác thuộc địa lần thứ nhất"
+   ],
+   "actors": [
+    "Paul Doumer"
+   ],
+   "traps": [
+    "Giai cấp công nhân Việt Nam ra đời trong cuộc khai thác thuộc địa của Pháp cuối thế kỷ XIX – đầu thế kỷ XX, KHÔNG phải sau năm 1930.",
+    "Nhân quả đúng chiều: Pháp khai thác thuộc địa → kinh tế – xã hội thay đổi → xuất hiện tầng lớp mới; không phải xã hội đổi mới nhờ Pháp 'khai hóa'."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 4
+    }
+   ],
+   "year": 1897,
+   "date_start": "1897",
+   "date_end": "1914",
+   "place": "Việt Nam"
+  },
+  {
+   "name": "Phan Bội Châu",
+   "kind": "person",
+   "summary": "Nhà yêu nước tiêu biểu đầu thế kỷ XX, lập Hội Duy tân và khởi xướng phong trào Đông du đưa thanh niên sang Nhật học.",
+   "facts": [
+    "Phan Bội Châu (1867–1940) quê ở huyện Nam Đàn, tỉnh Nghệ An, là nhà yêu nước tiêu biểu của Việt Nam đầu thế kỷ XX.",
+    "Năm 1904, ông cùng các đồng chí lập Hội Duy tân, chủ trương dựa vào Nhật Bản để đánh đuổi thực dân Pháp.",
+    "Năm 1905, Phan Bội Châu sang Nhật Bản và khởi xướng phong trào Đông du, tổ chức đưa thanh niên Việt Nam sang Nhật học tập để về cứu nước.",
+    "Tháng 6/1925, ông bị Pháp bắt tại Thượng Hải (Trung Quốc), sau đó bị giam lỏng ở Bến Ngự (Huế) cho đến khi mất ngày 29/10/1940, nên được gọi là 'Ông già Bến Ngự'."
+   ],
+   "topic_title": "Phan Bội Châu và phong trào Đông du",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Phan_Bội_Châu"
+   ],
+   "aliases": [
+    "Phan Văn San",
+    "Sào Nam",
+    "Ông già Bến Ngự"
+   ],
+   "actors": [
+    "Phan Bội Châu",
+    "Cường Để"
+   ],
+   "traps": [
+    "Câu 'Bao giờ người Tây nhổ hết cỏ nước Nam thì mới hết người Nam đánh Tây' là của NGUYỄN TRUNG TRỰC (bị Pháp xử chém năm 1868), KHÔNG phải của Phan Bội Châu.",
+    "Phan Bội Châu chủ trương dựa vào NHẬT đánh Pháp (bạo động) — khác Phan Châu Trinh chủ trương cải cách, khai dân trí."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 5
+    }
+   ],
+   "year": null,
+   "date_start": "1867",
+   "date_end": "1940",
+   "place": "Nam Đàn, Nghệ An"
+  },
+  {
+   "name": "Phong trào Đông du",
+   "kind": "movement",
+   "summary": "Phong trào 1905–1909 do Phan Bội Châu khởi xướng đưa khoảng 200 thanh niên Việt Nam sang Nhật học, tan rã vì Pháp – Nhật cấu kết.",
+   "facts": [
+    "Phong trào Đông du (1905–1909) do Phan Bội Châu và Hội Duy tân khởi xướng, đưa thanh niên Việt Nam sang Nhật Bản học tập để chuẩn bị lực lượng cứu nước.",
+    "'Đông du' nghĩa là đi sang phía Đông, tức là sang Nhật Bản học.",
+    "Lúc cao nhất (khoảng 1907–1908), phong trào có khoảng 200 du học sinh Việt Nam ở Nhật; dù sống thiếu thốn, họ vẫn hăng say học tập vì mục tiêu cứu nước.",
+    "Tháng 9/1908, Pháp thỏa thuận với Nhật: Pháp cho Nhật vào Việt Nam buôn bán, đổi lại Nhật không cho các nhà yêu nước và lưu học sinh Việt Nam ở Nhật nữa.",
+    "Vì thỏa thuận Pháp – Nhật đó, đầu năm 1909 Phan Bội Châu và các du học sinh bị trục xuất khỏi Nhật Bản, phong trào Đông du tan rã.",
+    "Thất bại của Đông du cho thấy không thể trông chờ vào Nhật Bản để đánh đuổi thực dân Pháp."
+   ],
+   "topic_title": "Phan Bội Châu và phong trào Đông du",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Phong_trào_Đông_Du"
+   ],
+   "aliases": [
+    "Đông du",
+    "phong trào Đông Du"
+   ],
+   "actors": [
+    "Phan Bội Châu",
+    "Cường Để"
+   ],
+   "traps": [
+    "Đông du = Phan Bội Châu đưa thanh niên sang NHẬT (1905–1909); đừng nhầm với phong trào Duy tân của Phan Châu Trinh hay trường Đông Kinh Nghĩa Thục ở Hà Nội (1907).",
+    "Nhân quả đúng chiều: Pháp – Nhật thỏa thuận (9/1908) → Nhật trục xuất du học sinh → Đông du tan rã (1909); không phải phong trào tự giải tán."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 5
+    }
+   ],
+   "year": 1905,
+   "date_start": "1905",
+   "date_end": "1909",
+   "place": "Nhật Bản"
+  },
+  {
+   "name": "Nguyễn Tất Thành ra đi tìm đường cứu nước",
+   "kind": "event",
+   "summary": "Ngày 5/6/1911, Nguyễn Tất Thành rời bến Nhà Rồng trên tàu Amiral Latouche-Tréville với tên Văn Ba, bắt đầu hành trình tìm đường cứu nước.",
+   "facts": [
+    "Ngày 5/6/1911, người thanh niên yêu nước Nguyễn Tất Thành rời bến cảng Nhà Rồng (Sài Gòn) ra đi tìm đường cứu nước.",
+    "Nguyễn Tất Thành sinh ngày 19/5/1890 ở xã Kim Liên, huyện Nam Đàn, tỉnh Nghệ An, sau này chính là Nguyễn Ái Quốc – Hồ Chí Minh.",
+    "Anh xin làm phụ bếp trên tàu buôn Pháp Đô đốc La-tu-sơ Tơ-rê-vin (Amiral Latouche-Tréville) với tên gọi Văn Ba.",
+    "Khác với các bậc tiền bối hướng sang Nhật Bản, Nguyễn Tất Thành quyết định sang phương Tây, đến tận nước Pháp để tìm con đường cứu nước mới cho dân tộc.",
+    "Bến Nhà Rồng nơi Người ra đi nay là Bảo tàng Hồ Chí Minh – chi nhánh Thành phố Hồ Chí Minh."
+   ],
+   "topic_title": "Quyết chí ra đi tìm đường cứu nước",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Bến_Nhà_Rồng"
+   ],
+   "aliases": [
+    "Ngày Bác Hồ ra đi tìm đường cứu nước",
+    "Sự kiện 5/6/1911",
+    "Bác Hồ rời bến Nhà Rồng"
+   ],
+   "actors": [
+    "Nguyễn Tất Thành"
+   ],
+   "traps": [
+    "Ngày ra đi tìm đường cứu nước là 5/6/1911 từ bến NHÀ RỒNG (Sài Gòn) — đừng nhầm với 3/2/1930 (thành lập Đảng) hay năm 1941 (Bác về nước).",
+    "Trên tàu, Nguyễn Tất Thành lấy tên VĂN BA và làm PHỤ BẾP — không phải thủy thủ tên Ba Son."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 6
+    }
+   ],
+   "year": 1911,
+   "date_start": "1911-06-05",
+   "date_end": null,
+   "place": "Bến Nhà Rồng, Sài Gòn"
+  },
+  {
+   "name": "Hội nghị thành lập Đảng Cộng sản Việt Nam",
+   "kind": "event",
+   "summary": "Đầu năm 1930 tại Hồng Kông, Nguyễn Ái Quốc chủ trì hợp nhất các tổ chức cộng sản thành Đảng Cộng sản Việt Nam; ngày kỷ niệm là 3/2/1930.",
+   "facts": [
+    "Đầu năm 1930, Nguyễn Ái Quốc chủ trì hội nghị hợp nhất các tổ chức cộng sản tại Hương Cảng (Hồng Kông, Trung Quốc), thành lập Đảng Cộng sản Việt Nam.",
+    "Vì cuối năm 1929 có tới ba tổ chức cộng sản hoạt động riêng rẽ dễ làm phân tán lực lượng, Nguyễn Ái Quốc được Quốc tế Cộng sản cử triệu tập hội nghị hợp nhất.",
+    "Hội nghị hợp nhất Đông Dương Cộng sản Đảng và An Nam Cộng sản Đảng; Đông Dương Cộng sản Liên đoàn gia nhập ngay sau đó, ngày 24/2/1930.",
+    "Ngày 3/2/1930 được lấy làm ngày kỷ niệm thành lập Đảng Cộng sản Việt Nam.",
+    "Tháng 10/1930, Hội nghị Trung ương lần thứ nhất họp tại Hương Cảng đổi tên Đảng thành Đảng Cộng sản Đông Dương và bầu Trần Phú làm Tổng Bí thư đầu tiên.",
+    "Từ khi có Đảng lãnh đạo (đầu năm 1930), cách mạng Việt Nam có đường lối thống nhất, mở đầu bằng phong trào 1930–1931 mà đỉnh cao là Xô viết Nghệ - Tĩnh."
+   ],
+   "topic_title": "Đảng Cộng sản Việt Nam ra đời",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Đảng_Cộng_sản_Việt_Nam"
+   ],
+   "aliases": [
+    "Đảng Cộng sản Việt Nam ra đời",
+    "Hội nghị hợp nhất các tổ chức cộng sản",
+    "thành lập Đảng 3/2/1930"
+   ],
+   "actors": [
+    "Nguyễn Ái Quốc",
+    "Trần Phú"
+   ],
+   "traps": [
+    "Tổng Bí thư ĐẦU TIÊN của Đảng là TRẦN PHÚ (bầu tháng 10/1930) — Nguyễn Ái Quốc là người CHỦ TRÌ hội nghị thành lập Đảng nhưng không phải Tổng Bí thư đầu tiên.",
+    "Ngày kỷ niệm thành lập Đảng là 3/2/1930; hội nghị hợp nhất thực tế họp từ ngày 6/1 đến đầu tháng 2/1930 tại Hồng Kông, không phải ở Việt Nam."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 7
+    }
+   ],
+   "year": 1930,
+   "date_start": "1930-02-03",
+   "date_end": null,
+   "place": "Hương Cảng (Hồng Kông), Trung Quốc"
+  },
+  {
+   "name": "Trần Phú",
+   "kind": "person",
+   "summary": "Tổng Bí thư đầu tiên của Đảng (10/1930), tác giả Luận cương chính trị, hi sinh năm 1931 khi mới 27 tuổi.",
+   "facts": [
+    "Trần Phú (1904–1931) sinh ngày 1/5/1904 tại tỉnh Phú Yên, quê gốc ở huyện Đức Thọ, tỉnh Hà Tĩnh.",
+    "Ông là người soạn thảo Luận cương chính trị của Đảng, được Hội nghị Trung ương tháng 10/1930 thông qua.",
+    "Tại Hội nghị Trung ương tháng 10/1930 họp ở Hương Cảng, Trần Phú được bầu làm Tổng Bí thư đầu tiên của Đảng khi mới 26 tuổi.",
+    "Tháng 4/1931, ông bị thực dân Pháp bắt tại Sài Gòn và hi sinh ngày 6/9/1931 tại nhà thương Chợ Quán khi mới 27 tuổi.",
+    "Trước lúc mất, Trần Phú nhắn nhủ đồng chí: 'Hãy giữ vững chí khí chiến đấu'."
+   ],
+   "topic_title": "Đảng Cộng sản Việt Nam ra đời",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Trần_Phú"
+   ],
+   "aliases": [
+    "Tổng Bí thư Trần Phú"
+   ],
+   "actors": [
+    "Trần Phú"
+   ],
+   "traps": [
+    "Tổng Bí thư ĐẦU TIÊN của Đảng là TRẦN PHÚ (tháng 10/1930), KHÔNG phải Nguyễn Ái Quốc.",
+    "Trần Phú soạn LUẬN CƯƠNG chính trị (10/1930) — khác với Chính cương vắn tắt, Sách lược vắn tắt do Nguyễn Ái Quốc soạn đầu năm 1930."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 7
+    }
+   ],
+   "year": null,
+   "date_start": "1904",
+   "date_end": "1931",
+   "place": "Đức Thọ, Hà Tĩnh"
+  },
+  {
+   "name": "Phong trào Xô viết Nghệ - Tĩnh",
+   "kind": "movement",
+   "summary": "Đỉnh cao của phong trào cách mạng 1930–1931 do Đảng lãnh đạo, nhân dân Nghệ An – Hà Tĩnh lập chính quyền cách mạng ở nhiều thôn xã.",
+   "facts": [
+    "Xô viết Nghệ - Tĩnh (1930–1931) là đỉnh cao của phong trào cách mạng do Đảng lãnh đạo ngay sau khi Đảng ra đời đầu năm 1930.",
+    "Ngày 12/9/1930, hàng vạn nông dân các huyện Hưng Nguyên, Nam Đàn (Nghệ An) giương cờ đỏ búa liềm biểu tình đòi giảm sưu, giảm thuế.",
+    "Thực dân Pháp cho máy bay ném bom vào đoàn biểu tình ngày 12/9/1930 làm 217 người chết, nhưng sự đàn áp đẫm máu đó không dập tắt được phong trào.",
+    "Cuối năm 1930 đến năm 1931, tại nhiều thôn xã ở Nghệ An và Hà Tĩnh, nhân dân lập chính quyền cách mạng kiểu Xô viết: chia lại ruộng đất, bãi bỏ các thứ thuế vô lý, xóa bỏ hủ tục, mở lớp dạy chữ Quốc ngữ.",
+    "Đến giữa năm 1931, phong trào bị Pháp đàn áp khốc liệt và thất bại, nhưng đã chứng tỏ tinh thần cách mạng và năng lực làm chủ của nhân dân dưới sự lãnh đạo của Đảng.",
+    "Ngày 12/9 hằng năm trở thành ngày kỷ niệm Xô viết Nghệ - Tĩnh."
+   ],
+   "topic_title": "Xô viết Nghệ - Tĩnh",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Xô_viết_Nghệ_Tĩnh"
+   ],
+   "aliases": [
+    "Xô viết Nghệ Tĩnh",
+    "Xô-viết Nghệ - Tĩnh",
+    "phong trào 1930-1931"
+   ],
+   "actors": [
+    "Đảng Cộng sản Đông Dương",
+    "nông dân Nghệ An - Hà Tĩnh"
+   ],
+   "traps": [
+    "Nhân quả đúng chiều: Đảng ra đời (đầu 1930) LÃNH ĐẠO phong trào 1930–1931 với đỉnh cao Xô viết Nghệ - Tĩnh — không phải phong trào sinh ra Đảng.",
+    "Xô viết Nghệ - Tĩnh diễn ra ở NGHỆ AN và HÀ TĨNH năm 1930–1931 — đừng nhầm với phong trào Đồng khởi ở Bến Tre năm 1960."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 8
+    }
+   ],
+   "year": 1930,
+   "date_start": "1930",
+   "date_end": "1931",
+   "place": "Nghệ An - Hà Tĩnh"
+  },
+  {
+   "name": "Cách mạng tháng Tám năm 1945",
+   "kind": "event",
+   "summary": "Tổng khởi nghĩa giành chính quyền tháng 8/1945: Hà Nội 19/8, Huế 23/8, Sài Gòn 25/8, đưa nước ta thoát ách đô hộ.",
+   "facts": [
+    "Đêm 9/3/1945, Nhật đảo chính hất cẳng Pháp trên toàn Đông Dương, làm bùng lên cao trào kháng Nhật cứu nước chuẩn bị cho tổng khởi nghĩa.",
+    "Giữa tháng 8/1945, phát xít Nhật đầu hàng Đồng minh (15/8/1945); chớp thời cơ ấy, Đảng và Bác Hồ phát lệnh Tổng khởi nghĩa giành chính quyền trong cả nước.",
+    "Ngày 19/8/1945, hàng chục vạn nhân dân Hà Nội xuống đường khởi nghĩa giành chính quyền thắng lợi; ngày 19/8 trở thành ngày kỷ niệm Cách mạng tháng Tám.",
+    "Tiếp theo Hà Nội, Huế giành chính quyền ngày 23/8, Sài Gòn ngày 25/8, và đến cuối tháng 8/1945 tổng khởi nghĩa thắng lợi trên cả nước.",
+    "Ngày 30/8/1945, vua Bảo Đại thoái vị, chấm dứt chế độ quân chủ ở Việt Nam.",
+    "Cách mạng tháng Tám thành công vì Đảng đã chuẩn bị lực lượng từ trước và chớp đúng thời cơ Nhật đầu hàng Đồng minh."
+   ],
+   "topic_title": "Cách mạng mùa thu",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Cách_mạng_Tháng_Tám",
+    "https://vi.wikipedia.org/wiki/Nhật_đảo_chính_Pháp_tại_Đông_Dương"
+   ],
+   "aliases": [
+    "Cách mạng mùa thu",
+    "Tổng khởi nghĩa tháng Tám 1945",
+    "CMT8"
+   ],
+   "actors": [
+    "Hồ Chí Minh",
+    "Việt Minh",
+    "Bảo Đại"
+   ],
+   "traps": [
+    "19/8/1945 là ngày khởi nghĩa thắng lợi ở HÀ NỘI (được lấy làm ngày kỷ niệm) — không phải cả nước cùng giành chính quyền hôm đó: Huế 23/8, Sài Gòn 25/8.",
+    "Nhân quả đúng chiều: NHẬT đảo chính PHÁP đêm 9/3/1945 → cao trào kháng Nhật cứu nước; đừng đảo ngược thành Pháp đảo chính Nhật."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 9
+    }
+   ],
+   "year": 1945,
+   "date_start": "1945-08-14",
+   "date_end": "1945-08-28",
+   "place": "Cả nước (Hà Nội, Huế, Sài Gòn)"
+  },
+  {
+   "name": "Bác Hồ đọc Tuyên ngôn Độc lập",
+   "kind": "event",
+   "summary": "Ngày 2/9/1945 tại Quảng trường Ba Đình, Chủ tịch Hồ Chí Minh đọc Tuyên ngôn Độc lập khai sinh nước Việt Nam Dân chủ Cộng hòa.",
+   "facts": [
+    "Ngày 2/9/1945, tại Quảng trường Ba Đình (Hà Nội), Chủ tịch Hồ Chí Minh thay mặt Chính phủ lâm thời đọc bản Tuyên ngôn Độc lập trước hàng chục vạn đồng bào.",
+    "Bản Tuyên ngôn khai sinh nước Việt Nam Dân chủ Cộng hòa — nhà nước dân chủ nhân dân đầu tiên ở Đông Nam Á.",
+    "Tuyên ngôn khẳng định: 'Nước Việt Nam có quyền hưởng tự do và độc lập, và sự thật đã thành một nước tự do độc lập.'",
+    "Từ năm 1945, ngày 2/9 trở thành ngày Quốc khánh của nước Việt Nam.",
+    "Trình tự nhân quả: Cách mạng tháng Tám thắng lợi (19/8/1945) rồi mới có lễ tuyên bố độc lập ngày 2/9/1945."
+   ],
+   "topic_title": "Bác Hồ đọc Tuyên ngôn Độc lập",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Tuyên_ngôn_độc_lập_(Việt_Nam_Dân_chủ_Cộng_hòa)"
+   ],
+   "aliases": [
+    "Tuyên ngôn Độc lập 2/9/1945",
+    "Quốc khánh 2/9",
+    "lễ Độc lập"
+   ],
+   "actors": [
+    "Hồ Chí Minh"
+   ],
+   "traps": [
+    "Tên nước khai sinh ngày 2/9/1945 là VIỆT NAM DÂN CHỦ CỘNG HÒA; tên Cộng hòa xã hội chủ nghĩa Việt Nam chỉ có từ tháng 7/1976 sau khi thống nhất đất nước.",
+    "Bác Hồ đọc Tuyên ngôn Độc lập tại Quảng trường BA ĐÌNH (Hà Nội) — không phải ở Huế hay Sài Gòn."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 10
+    }
+   ],
+   "year": 1945,
+   "date_start": "1945-09-02",
+   "date_end": null,
+   "place": "Quảng trường Ba Đình, Hà Nội"
+  },
+  {
+   "name": "Nguyễn Trung Trực",
+   "kind": "person",
+   "summary": "Thủ lĩnh nghĩa quân chống Pháp ở Nam Kỳ, đốt tàu Espérance năm 1861, nổi tiếng với câu 'Bao giờ người Tây nhổ hết cỏ nước Nam thì mới hết người Nam đánh Tây'.",
+   "facts": [
+    "Nguyễn Trung Trực (1838–1868) là thủ lĩnh nghĩa quân chống Pháp ở Nam Kỳ, quê ở phủ Tân An, tỉnh Gia Định xưa.",
+    "Ngày 10/12/1861, ông chỉ huy nghĩa quân đốt cháy tàu chiến Ét-pê-răng (L'Espérance – nghĩa là Hy Vọng) của Pháp trên vàm sông Nhật Tảo.",
+    "Tháng 6/1868, ông chỉ huy trận tập kích tiêu diệt đồn Rạch Giá (Kiên Giang), giết nhiều sĩ quan và lính Pháp.",
+    "Bị Pháp bắt ở đảo Phú Quốc tháng 9/1868, ông bị xử chém tại Rạch Giá ngày 27/10/1868.",
+    "Trước khi bị hành hình, Nguyễn Trung Trực để lại câu nói bất hủ: 'Bao giờ người Tây nhổ hết cỏ nước Nam thì mới hết người Nam đánh Tây.'"
+   ],
+   "topic_title": "Ôn tập: Hơn tám mươi năm chống thực dân Pháp xâm lược và đô hộ (1858 - 1945)",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Nguyễn_Trung_Trực"
+   ],
+   "aliases": [
+    "Nguyễn Văn Lịch",
+    "Quản Chơn",
+    "Quản Lịch"
+   ],
+   "actors": [
+    "Nguyễn Trung Trực"
+   ],
+   "traps": [
+    "Câu 'Bao giờ (người Tây) nhổ hết cỏ nước Nam thì (mới) hết người Nam đánh Tây' là của NGUYỄN TRUNG TRỰC — KHÔNG phải Phan Bội Châu, cũng không phải Trương Định.",
+    "Nguyễn Trung Trực đốt tàu Espérance trên sông NHẬT TẢO (1861) và đánh đồn RẠCH GIÁ (1868) — hai chiến công khác nhau, cách nhau 7 năm."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 11
+    }
+   ],
+   "year": null,
+   "date_start": "1838",
+   "date_end": "1868",
+   "place": "Tân An - Rạch Giá (Nam Kỳ)"
+  },
+  {
+   "name": "Hơn tám mươi năm chống thực dân Pháp xâm lược và đô hộ (1858–1945)",
+   "kind": "period",
+   "summary": "Chuỗi mốc lớn từ khi Pháp nổ súng ở Đà Nẵng 1858 đến khi nước ta giành độc lập ngày 2/9/1945.",
+   "facts": [
+    "Ngày 1/9/1858 thực dân Pháp nổ súng xâm lược nước ta ở Đà Nẵng, và phải hơn 80 năm sau, ngày 2/9/1945, nước ta mới giành lại được độc lập.",
+    "Nửa cuối thế kỷ XIX có các cuộc kháng Pháp tiêu biểu ở Nam Kỳ của Trương Định, Nguyễn Trung Trực, rồi cuộc phản công ở kinh thành Huế năm 1885 mở đầu phong trào Cần Vương.",
+    "Đầu thế kỷ XX, phong trào Đông du (1905–1909) của Phan Bội Châu đưa thanh niên sang Nhật học nhưng thất bại, cho thấy cần một con đường cứu nước mới.",
+    "Ngày 5/6/1911 Nguyễn Tất Thành ra đi tìm đường cứu nước, và ngày 3/2/1930 Đảng Cộng sản Việt Nam ra đời, chấm dứt thời kỳ cách mạng thiếu đường lối thống nhất.",
+    "Đảng lãnh đạo phong trào 1930–1931 với đỉnh cao Xô viết Nghệ - Tĩnh, rồi Cách mạng tháng Tám 1945 thành công, ngày 2/9/1945 khai sinh nước Việt Nam Dân chủ Cộng hòa."
+   ],
+   "topic_title": "Ôn tập: Hơn tám mươi năm chống thực dân Pháp xâm lược và đô hộ (1858 - 1945)",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Trận_Đà_Nẵng_(1858–1859)",
+    "https://vi.wikipedia.org/wiki/Cách_mạng_Tháng_Tám"
+   ],
+   "aliases": [
+    "thời kỳ Pháp thuộc 1858-1945",
+    "hơn 80 năm chống Pháp"
+   ],
+   "actors": [
+    "Trương Định",
+    "Nguyễn Trung Trực",
+    "Phan Bội Châu",
+    "Nguyễn Tất Thành",
+    "Hồ Chí Minh"
+   ],
+   "traps": [
+    "Thứ tự mốc phải đúng: 1858 (Pháp xâm lược) → 1885 (Cần Vương) → 1911 (ra đi tìm đường cứu nước) → 1930 (Đảng ra đời) → 1945 (Cách mạng tháng Tám, độc lập).",
+    "1/9/1858 là ngày Pháp NỔ SÚNG XÂM LƯỢC; 2/9/1945 là ngày ĐỘC LẬP — hai mốc mở và khép giai đoạn, chỉ lệch nhau một ngày trên lịch nên dễ nhầm."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 11
+    }
+   ],
+   "year": null,
+   "date_start": "1858",
+   "date_end": "1945",
+   "place": "Việt Nam"
+  },
+  {
+   "name": "Tình thế 'nghìn cân treo sợi tóc' sau Cách mạng tháng Tám",
+   "kind": "concept",
+   "summary": "Năm 1945–1946, nước Việt Nam DCCH non trẻ cùng lúc đối phó giặc đói, giặc dốt, giặc ngoại xâm và đã từng bước vượt qua nhờ sức dân.",
+   "facts": [
+    "Ngay sau Cách mạng tháng Tám 1945, nước Việt Nam Dân chủ Cộng hòa non trẻ cùng lúc đối mặt ba thứ giặc — giặc đói, giặc dốt, giặc ngoại xâm — nên tình thế được ví như 'nghìn cân treo sợi tóc'.",
+    "Nạn đói năm Ất Dậu (cuối 1944 – giữa 1945) do Nhật, Pháp vơ vét lúa gạo và bắt dân nhổ lúa trồng đay đã làm khoảng hai triệu đồng bào miền Bắc chết đói.",
+    "Để chống giặc đói, Bác Hồ kêu gọi lập 'hũ gạo cứu đói', tổ chức 'ngày đồng tâm' nhịn ăn góp gạo và đẩy mạnh tăng gia sản xuất.",
+    "Để giải quyết khó khăn tài chính, từ ngày 4/9/1945 Chính phủ phát động 'Tuần lễ Vàng' và Quỹ Độc lập, nhân dân quyên góp được khoảng 370 kg vàng và hàng chục triệu đồng.",
+    "Nhờ dựa vào sức mạnh của toàn dân, chỉ trong thời gian ngắn chính quyền cách mạng đã từng bước đẩy lùi giặc đói và giặc dốt, giữ vững thành quả độc lập."
+   ],
+   "topic_title": "Vượt qua tình thế hiểm nghèo",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Nạn_đói_năm_Ất_Dậu,_1944–1945",
+    "https://vi.wikipedia.org/wiki/Tuần_lễ_Vàng"
+   ],
+   "aliases": [
+    "nghìn cân treo sợi tóc",
+    "giặc đói giặc dốt giặc ngoại xâm",
+    "nạn đói năm Ất Dậu"
+   ],
+   "actors": [
+    "Hồ Chí Minh",
+    "Chính phủ lâm thời Việt Nam Dân chủ Cộng hòa"
+   ],
+   "traps": [
+    "Nạn đói làm khoảng 2 triệu người chết là nạn đói năm ẤT DẬU cuối 1944 – giữa 1945, do Nhật – Pháp vơ vét lúa gạo — không phải chỉ do thiên tai và không xảy ra sau năm 1945.",
+    "'Nghìn cân treo sợi tóc' chỉ tình thế nước ta NGAY SAU Cách mạng tháng Tám 1945 — không phải giai đoạn kháng chiến chống Mỹ."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 12
+    }
+   ],
+   "year": 1945,
+   "date_start": "1945",
+   "date_end": "1946",
+   "place": "Việt Nam"
+  },
+  {
+   "name": "Phong trào Bình dân học vụ",
+   "kind": "movement",
+   "summary": "Phong trào diệt 'giặc dốt' phát động từ 8/9/1945, giúp hơn 2,5 triệu người biết đọc biết viết chỉ sau khoảng một năm.",
+   "facts": [
+    "Ngày 8/9/1945, chưa đầy một tuần sau khi tuyên bố độc lập, Chủ tịch Hồ Chí Minh ký sắc lệnh thành lập Nha Bình dân học vụ để diệt 'giặc dốt'.",
+    "Sau Cách mạng tháng Tám, phần lớn người dân nước ta không biết chữ do chính sách ngu dân của thực dân, nên Bác Hồ coi dốt cũng là một thứ giặc: 'một dân tộc dốt là một dân tộc yếu'.",
+    "Phong trào mở hàng vạn lớp học bình dân khắp cả nước, người biết chữ dạy người chưa biết chữ, lớp học mở cả ban ngày lẫn ban đêm.",
+    "Chỉ sau khoảng một năm, phong trào Bình dân học vụ đã giúp hơn 2,5 triệu người biết đọc, biết viết."
+   ],
+   "topic_title": "Vượt qua tình thế hiểm nghèo",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Bình_dân_học_vụ"
+   ],
+   "aliases": [
+    "Nha Bình dân học vụ",
+    "diệt giặc dốt",
+    "xóa nạn mù chữ 1945"
+   ],
+   "actors": [
+    "Hồ Chí Minh"
+   ],
+   "traps": [
+    "Bình dân học vụ là phong trào diệt GIẶC DỐT (xóa mù chữ) từ tháng 9/1945 — đừng nhầm với các biện pháp chống giặc đói như 'hũ gạo cứu đói', 'ngày đồng tâm'."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 12
+    }
+   ],
+   "year": 1945,
+   "date_start": "1945-09-08",
+   "date_end": null,
+   "place": "Cả nước"
+  },
+  {
+   "name": "Toàn quốc kháng chiến bùng nổ",
+   "kind": "event",
+   "summary": "Đêm 19/12/1946 cả nước nổ súng chống Pháp; Lời kêu gọi toàn quốc kháng chiến của Hồ Chí Minh có câu 'Thà hi sinh tất cả, chứ nhất định không chịu mất nước'.",
+   "facts": [
+    "Sau ngày độc lập, thực dân Pháp quay lại xâm lược nước ta; ngày 18/12/1946 chúng gửi tối hậu thư đòi ta giải tán lực lượng tự vệ và giao quyền kiểm soát Hà Nội cho chúng.",
+    "Trước dã tâm xâm lược đó của Pháp, đêm 19/12/1946 quân dân cả nước đồng loạt nổ súng, cuộc kháng chiến toàn quốc chống thực dân Pháp bùng nổ.",
+    "Chủ tịch Hồ Chí Minh viết Lời kêu gọi toàn quốc kháng chiến ngày 19/12/1946 tại làng Vạn Phúc (Hà Đông), và lời kêu gọi được phát trên đài phát thanh ngày 20/12/1946.",
+    "Lời kêu gọi có câu nổi tiếng: 'Chúng ta thà hi sinh tất cả, chứ nhất định không chịu mất nước, nhất định không chịu làm nô lệ.'",
+    "Nhân quả: chính tối hậu thư và các hành động khiêu khích của Pháp đã buộc nhân dân ta phải đứng lên kháng chiến để bảo vệ nền độc lập vừa giành được."
+   ],
+   "topic_title": "“Thà hi sinh tất cả, chứ nhất định không chịu mất nước”",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Lời_kêu_gọi_toàn_quốc_kháng_chiến"
+   ],
+   "aliases": [
+    "Lời kêu gọi toàn quốc kháng chiến",
+    "ngày Toàn quốc kháng chiến 19/12/1946"
+   ],
+   "actors": [
+    "Hồ Chí Minh"
+   ],
+   "traps": [
+    "Toàn quốc kháng chiến nổ ra đêm 19/12/1946 vì PHÁP gửi tối hậu thư khiêu khích trước — ta buộc phải kháng chiến, không phải ta gây chiến.",
+    "Đừng nhầm ngày 19/12/1946 (Toàn quốc kháng chiến) với 19/8/1945 (Cách mạng tháng Tám ở Hà Nội)."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 13
+    }
+   ],
+   "year": 1946,
+   "date_start": "1946-12-19",
+   "date_end": null,
+   "place": "Hà Nội và cả nước"
+  },
+  {
+   "name": "Cuộc chiến đấu 60 ngày đêm ở Hà Nội (1946–1947)",
+   "kind": "battle",
+   "summary": "Quân dân Hà Nội giam chân quân Pháp gần 60 ngày đêm (19/12/1946 – 17/2/1947) để cơ quan đầu não rút lên chiến khu an toàn.",
+   "facts": [
+    "Mở đầu toàn quốc kháng chiến, quân dân Hà Nội chiến đấu giam chân quân Pháp suốt gần 60 ngày đêm, từ 19/12/1946 đến 17/2/1947.",
+    "Nhiệm vụ của quân dân Thủ đô là giam chân địch trong thành phố để Chính phủ và cơ quan đầu não kháng chiến kịp rút lên căn cứ Việt Bắc an toàn.",
+    "Các chiến sĩ cảm tử quân ôm bom ba càng lao vào xe tăng địch, quân dân giành giật với giặc từng góc phố, căn nhà.",
+    "Đêm 17/2/1947, Trung đoàn Thủ Đô bí mật rút khỏi Hà Nội an toàn lên chiến khu, hoàn thành xuất sắc nhiệm vụ.",
+    "Tháng 1/1947, Bác Hồ gửi thư khen các chiến sĩ cảm tử quân Thủ đô, trong thư có câu: 'Các em quyết tử để Tổ quốc quyết sinh.'"
+   ],
+   "topic_title": "“Thà hi sinh tất cả, chứ nhất định không chịu mất nước”",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Trận_Hà_Nội_1946"
+   ],
+   "aliases": [
+    "Trận Hà Nội 1946",
+    "60 ngày đêm bảo vệ Thủ đô",
+    "Hà Nội mùa đông 1946"
+   ],
+   "actors": [
+    "Trung đoàn Thủ Đô",
+    "cảm tử quân Hà Nội",
+    "Hồ Chí Minh"
+   ],
+   "traps": [
+    "Câu đúng là 'Quyết tử ĐỂ Tổ quốc quyết sinh', trong thư Bác Hồ gửi cảm tử quân Thủ đô tháng 1/1947 — không phải khẩu hiệu của chiến dịch Điện Biên Phủ."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 13
+    }
+   ],
+   "year": 1946,
+   "date_start": "1946-12-19",
+   "date_end": "1947-02-17",
+   "place": "Hà Nội"
+  },
+  {
+   "name": "Chiến dịch Việt Bắc thu - đông 1947",
+   "kind": "campaign",
+   "summary": "Pháp tấn công lên Việt Bắc (7/10 – 22/12/1947) hòng diệt cơ quan đầu não kháng chiến nhưng đại bại, Việt Bắc thành 'mồ chôn giặc Pháp'.",
+   "facts": [
+    "Thu - đông năm 1947, thực dân Pháp huy động lực lượng lớn tấn công lên căn cứ địa Việt Bắc hòng tiêu diệt cơ quan đầu não kháng chiến và bộ đội chủ lực của ta để nhanh chóng kết thúc chiến tranh.",
+    "Chiến dịch Việt Bắc diễn ra từ ngày 7/10 đến 22/12/1947, mở màn khi Pháp cho quân nhảy dù xuống thị xã Bắc Kạn ngày 7/10/1947.",
+    "Quân ta chặn đánh địch trên khắp các hướng: thắng lớn ở đèo Bông Lau trên đường số 4 (cuối tháng 10/1947) và bắn chìm tàu chiến Pháp ở Đoan Hùng trên sông Lô (24/10/1947).",
+    "Sau hơn hai tháng bị đánh khắp nơi, quân Pháp buộc phải rút chạy khỏi Việt Bắc, hàng nghìn tên địch bị loại khỏi vòng chiến đấu cùng nhiều tàu chiến, máy bay bị phá hủy.",
+    "Chiến thắng Việt Bắc bảo vệ an toàn cơ quan đầu não và căn cứ địa kháng chiến, làm phá sản âm mưu 'đánh nhanh, thắng nhanh', buộc Pháp phải chuyển sang đánh lâu dài với ta.",
+    "Vì quân Pháp thiệt hại nặng nề tại đây, Việt Bắc thu - đông 1947 được gọi là 'mồ chôn giặc Pháp'."
+   ],
+   "topic_title": "Thu - đông 1947, Việt Bắc “mồ chôn giặc Pháp”",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Chiến_dịch_Việt_Bắc"
+   ],
+   "aliases": [
+    "Việt Bắc thu - đông 1947",
+    "chiến dịch Léa",
+    "Việt Bắc mồ chôn giặc Pháp"
+   ],
+   "actors": [
+    "Võ Nguyên Giáp",
+    "Hồ Chí Minh",
+    "quân Pháp"
+   ],
+   "traps": [
+    "Việt Bắc thu - đông 1947: PHÁP chủ động tấn công, ta phản công thắng lợi — KHÁC với Biên giới thu - đông 1950 là TA chủ động mở chiến dịch.",
+    "Nhân quả đúng chiều: Pháp muốn diệt cơ quan đầu não để 'đánh nhanh thắng nhanh' → tấn công Việt Bắc → thất bại → phải chuyển sang đánh lâu dài."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 14
+    }
+   ],
+   "year": 1947,
+   "date_start": "1947-10-07",
+   "date_end": "1947-12-22",
+   "place": "Căn cứ địa Việt Bắc (Bắc Kạn, Tuyên Quang, Cao Bằng...)"
+  }
+ ]
+}

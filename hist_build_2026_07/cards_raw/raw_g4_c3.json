@@ -1,0 +1,859 @@
+{
+ "grade": 4,
+ "chunk": 3,
+ "cards": [
+  {
+   "name": "Vùng Duyên hải miền Trung",
+   "kind": "place",
+   "summary": "Dải đất hẹp ven biển miền Trung Việt Nam, phía tây là dãy Trường Sơn, phía đông là biển, nơi thiên nhiên vừa đẹp vừa khắc nghiệt với nhiều bão lũ.",
+   "facts": [
+    "Vùng Duyên hải miền Trung là dải đất hẹp chạy dọc ven biển, phía tây có dãy núi Trường Sơn, phía đông giáp Biển Đông.",
+    "Vì có nhiều dãy núi từ Trường Sơn đâm ngang ra sát biển nên đồng bằng ở Duyên hải miền Trung nhỏ, hẹp và bị chia cắt thành nhiều đồng bằng nhỏ.",
+    "Dãy núi Bạch Mã ở phía nam Huế được coi là ranh giới tự nhiên về khí hậu giữa phần phía bắc và phần phía nam của vùng Duyên hải miền Trung.",
+    "Đường quốc lộ 1 vượt qua dãy Bạch Mã ở đèo Hải Vân cao khoảng 496 mét, nối Huế với Đà Nẵng.",
+    "Sông ngòi ở Duyên hải miền Trung thường ngắn và dốc, nên mùa mưa nước dồn về nhanh, dễ gây ra lũ lụt.",
+    "Mùa mưa bão của vùng Duyên hải miền Trung tập trung vào thu đông, khoảng từ tháng 9 đến tháng 11 hằng năm.",
+    "Vì nằm sát biển và đón nhiều cơn bão từ Biển Đông, người dân Duyên hải miền Trung thường xuyên phải phòng chống bão, lũ lụt, hạn hán và gió phơn khô nóng."
+   ],
+   "topic_title": "Thiên nhiên vùng Duyên hải miền Trung",
+   "sources": [
+    "https://vietjack.com/lich-su-va-dia-li-4-cd/bai-11-thien-nhien-vung-duyen-hai-mien-trung.jsp",
+    "https://khoahoc.vietjack.com/question/1380424/day-nui-nao-duoc-coi-la-ranh-gioi-tu-nhien-cua-vung-bac-trung-bo-va-duyen-hai-nam-trung-bo-a-tam-die",
+    "https://loigiaihay.com/bai-14-thien-nhien-vung-duyen-hai-mien-trung-sgk-lich-su-va-dia-li-4-chan-troi-sang-tao-a155067.html"
+   ],
+   "aliases": [
+    "Duyên hải miền Trung",
+    "miền Trung ven biển",
+    "vùng ven biển miền Trung"
+   ],
+   "place": "ven biển miền Trung Việt Nam",
+   "year": null,
+   "traps": [
+    "Ranh giới tự nhiên chia khí hậu hai phần của Duyên hải miền Trung là dãy BẠCH MÃ (nơi có đèo Hải Vân), không phải dãy Hoành Sơn hay dãy Tam Điệp.",
+    "Đồng bằng miền Trung NHỎ HẸP vì núi lan ra sát biển, không phải vì thiếu sông ngòi."
+   ],
+   "lessons": [
+    {
+     "book": "CTST",
+     "bai": 14
+    },
+    {
+     "book": "KNTT",
+     "bai": 15
+    },
+    {
+     "book": "Cánh diều",
+     "bai": 11
+    }
+   ]
+  },
+  {
+   "name": "Văn hoá vùng Duyên hải miền Trung",
+   "kind": "concept",
+   "summary": "Vùng Duyên hải miền Trung là 'vùng đất di sản' với Cố đô Huế, phố cổ Hội An, thánh địa Mỹ Sơn và những lễ hội đặc sắc như Cầu ngư, Ka-tê.",
+   "facts": [
+    "Duyên hải miền Trung được gọi là vùng đất di sản vì có nhiều di sản thế giới: Cố đô Huế được UNESCO ghi danh ngày 11/12/1993, còn phố cổ Hội An và thánh địa Mỹ Sơn cùng được ghi danh tháng 12/1999.",
+    "Thánh địa Mỹ Sơn là khu đền tháp bằng gạch của Vương quốc Chăm-pa, được xây dựng từ khoảng thế kỷ VII đến thế kỷ XIII.",
+    "Lễ hội Cầu ngư của ngư dân ven biển miền Trung gắn với tục thờ cá Ông (cá voi), thường tổ chức vào khoảng tháng 2 đến tháng 5 hằng năm để cầu mong ra khơi bình an, đánh bắt bội thu.",
+    "Lễ hội Ka-tê là lễ hội truyền thống của người Chăm, diễn ra vào khoảng tháng 7 theo lịch Chăm (khoảng tháng 9-10 dương lịch) với nghi thức rước y phục và mở cửa tháp.",
+    "Người dân ven biển miền Trung sống chủ yếu bằng nghề đánh bắt hải sản, làm muối và ngày nay phát triển mạnh du lịch biển."
+   ],
+   "topic_title": "Thiên nhiên vùng Duyên hải miền Trung",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Th%C3%A1nh_%C4%91%E1%BB%8Ba_M%E1%BB%B9_S%C6%A1n",
+    "https://mia.vn/cam-nang-du-lich/le-hoi-cau-ngu-doc-dao-net-dep-trong-van-hoa-tam-linh-cua-ngu-dan-vung-bien-2190",
+    "https://khoahoc.vietjack.com/question/1204613/doc-thong-tin-va-quan-sat-hinh-5-em-hay-ke-ten-mot-so-le-hoi-truyen-thong-o-vung-duyen-hai-mien-trun"
+   ],
+   "aliases": [
+    "nét văn hoá Duyên hải miền Trung",
+    "vùng đất di sản miền Trung",
+    "lễ hội Cầu ngư",
+    "lễ hội Ka-tê"
+   ],
+   "place": "Duyên hải miền Trung",
+   "year": null,
+   "traps": [
+    "Lễ hội Ka-tê là của người CHĂM ở miền Trung; lễ hội hoa ban là của vùng Tây Bắc, không thuộc Duyên hải miền Trung.",
+    "Mỹ Sơn là di tích của Vương quốc Chăm-pa, không phải công trình của triều Nguyễn."
+   ],
+   "lessons": [
+    {
+     "book": "CTST",
+     "bai": 16
+    },
+    {
+     "book": "KNTT",
+     "bai": 17
+    },
+    {
+     "book": "Cánh diều",
+     "bai": 11
+    }
+   ]
+  },
+  {
+   "name": "Quần thể di tích Cố đô Huế",
+   "kind": "place",
+   "summary": "Kinh đô của triều Nguyễn từ 1802 đến 1945 bên bờ sông Hương, là di sản đầu tiên của Việt Nam được UNESCO ghi vào danh mục Di sản văn hoá thế giới năm 1993.",
+   "facts": [
+    "Huế là kinh đô của nước ta dưới triều Nguyễn suốt 143 năm, từ năm 1802 đến năm 1945.",
+    "Kinh thành Huế được khởi công xây dựng từ năm 1805 dưới thời vua Gia Long và hoàn thiện vào năm 1832 dưới thời vua Minh Mạng.",
+    "Cố đô Huế có ba vòng thành lồng vào nhau: ngoài cùng là Kinh thành, giữa là Hoàng thành, trong cùng là Tử Cấm Thành dành riêng cho vua và hoàng gia.",
+    "Quần thể di tích Cố đô Huế nằm dọc hai bên bờ sông Hương, gần núi Ngự Bình, ngoài cung điện còn có lăng tẩm của các vua Nguyễn như lăng Tự Đức, lăng Minh Mạng, lăng Khải Định.",
+    "Ngày 11/12/1993, UNESCO ghi danh Quần thể di tích Cố đô Huế là Di sản văn hoá thế giới — đây là di sản thế giới ĐẦU TIÊN của Việt Nam được UNESCO công nhận.",
+    "Vì từng là kinh đô cuối cùng của chế độ phong kiến Việt Nam nên Huế còn giữ được gần như nguyên vẹn diện mạo một kinh đô phương Đông với cung điện, thành quách, lăng tẩm."
+   ],
+   "topic_title": "Cố đô Huế",
+   "sources": [
+    "https://hue.gov.vn/Chuyen-trang/Thua-Thien-Hue-tren-buoc-duong-tro-thanh-Thanh-pho-Truc-Thuoc-Trung-Uong/Chi-tiet/tb/Quan-the-di-tich-Co-do-Hue-Di-san-van-hoa-the-gioi-dau-tien-cua-Viet-Nam-208616",
+    "https://vi.wikipedia.org/wiki/Qu%E1%BA%A7n_th%E1%BB%83_di_t%C3%ADch_C%E1%BB%91_%C4%91%C3%B4_Hu%E1%BA%BF",
+    "https://bvhttdl.gov.vn/quan-the-di-tich-co-do-hue-di-san-van-hoa-the-gioi-2772.htm"
+   ],
+   "aliases": [
+    "Cố đô Huế",
+    "Kinh thành Huế",
+    "Đại Nội Huế",
+    "kinh đô Huế"
+   ],
+   "place": "thành phố Huế, bên sông Hương",
+   "year": null,
+   "actors": [
+    "vua Gia Long",
+    "vua Minh Mạng",
+    "triều Nguyễn"
+   ],
+   "traps": [
+    "Cố đô Huế được UNESCO ghi danh năm 1993, còn phố cổ Hội An và Mỹ Sơn là năm 1999 — đừng lẫn năm của ba di sản này.",
+    "Di sản thế giới đầu tiên của Việt Nam là Cố đô Huế (1993), không phải vịnh Hạ Long (Hạ Long được ghi danh sau, năm 1994).",
+    "Kinh thành Huế xây thời Gia Long (khởi công 1805), không phải do vua Minh Mạng khởi công — Minh Mạng là người hoàn thiện năm 1832."
+   ],
+   "lessons": [
+    {
+     "book": "CTST",
+     "bai": 17
+    },
+    {
+     "book": "KNTT",
+     "bai": 18
+    },
+    {
+     "book": "Cánh diều",
+     "bai": 13
+    }
+   ]
+  },
+  {
+   "name": "Triều Nguyễn",
+   "kind": "dynasty",
+   "summary": "Triều đại phong kiến cuối cùng của Việt Nam, do vua Gia Long lập năm 1802, đóng đô ở Huế, trải qua 13 đời vua và kết thúc năm 1945.",
+   "facts": [
+    "Triều Nguyễn được vua Gia Long (Nguyễn Ánh) lập ra năm 1802 và chọn Huế làm kinh đô của cả nước.",
+    "Triều Nguyễn có tất cả 13 đời vua, bắt đầu từ Gia Long và kết thúc khi vua Bảo Đại thoái vị năm 1945.",
+    "Vua Dục Đức là vị vua ở ngôi ngắn nhất triều Nguyễn và cũng ngắn nhất lịch sử Việt Nam: ông chỉ làm vua đúng 3 ngày trong tháng 7 năm 1883 thì bị hai đại thần Tôn Thất Thuyết và Nguyễn Văn Tường phế truất.",
+    "Vì là triều đại cuối cùng đóng đô ở Huế nên các cung điện, lăng tẩm của các vua Nguyễn ngày nay tạo thành Quần thể di tích Cố đô Huế nổi tiếng.",
+    "Triều Nguyễn chấm dứt năm 1945 khi Cách mạng tháng Tám thành công, chấm dứt luôn chế độ phong kiến ở Việt Nam."
+   ],
+   "topic_title": "Cố đô Huế",
+   "sources": [
+    "https://laodong.vn/van-hoa-giai-tri/vi-vua-trieu-nguyen-tri-vi-dung-3-ngay-va-ket-cuc-bi-kich-1372392.ldo",
+    "https://tuoitre.vn/can-canh-noi-an-nghi-cua-vi-vua-trieu-nguyen-chi-o-ngoi-3-ngay-20240731231813956.htm",
+    "https://vi.wikipedia.org/wiki/Qu%E1%BA%A7n_th%E1%BB%83_di_t%C3%ADch_C%E1%BB%91_%C4%91%C3%B4_Hu%E1%BA%BF"
+   ],
+   "aliases": [
+    "nhà Nguyễn",
+    "triều đình Huế",
+    "vương triều Nguyễn"
+   ],
+   "place": "kinh đô Huế",
+   "year": null,
+   "date_start": "1802",
+   "date_end": "1945",
+   "actors": [
+    "Gia Long",
+    "Minh Mạng",
+    "Dục Đức",
+    "Bảo Đại"
+   ],
+   "traps": [
+    "Vua trị vì NGẮN NHẤT triều Nguyễn (và ngắn nhất lịch sử Việt Nam) là DỤC ĐỨC — chỉ 3 ngày năm 1883; không phải Lê Hiến Tông (Lê Hiến Tông là vua thời Hậu Lê, triều đại khác).",
+    "Vua đầu tiên của triều Nguyễn là Gia Long (1802), vua cuối cùng là Bảo Đại (thoái vị 1945)."
+   ],
+   "lessons": [
+    {
+     "book": "CTST",
+     "bai": 17
+    },
+    {
+     "book": "KNTT",
+     "bai": 18
+    },
+    {
+     "book": "Cánh diều",
+     "bai": 13
+    }
+   ]
+  },
+  {
+   "name": "Phố cổ Hội An",
+   "kind": "place",
+   "summary": "Đô thị cổ bên sông Thu Bồn, từng là thương cảng quốc tế sầm uất bậc nhất Đông Nam Á thế kỷ XVII-XVIII, được UNESCO ghi danh Di sản văn hoá thế giới ngày 4/12/1999.",
+   "facts": [
+    "Hội An nằm ở hạ lưu sông Thu Bồn, thuộc tỉnh Quảng Nam trước đây (từ tháng 7/2025 thuộc thành phố Đà Nẵng), cách trung tâm Đà Nẵng khoảng 30 km về phía nam.",
+    "Vào thế kỷ XVII-XVIII, Hội An là một trong những thương cảng sầm uất bậc nhất Đông Nam Á, nơi thương nhân Nhật Bản, Trung Quốc và phương Tây đến buôn bán tấp nập.",
+    "Chùa Cầu, biểu tượng của Hội An, còn gọi là Cầu Nhật Bản vì tương truyền do thương nhân Nhật Bản xây dựng từ cuối thế kỷ XVI.",
+    "Phố cổ Hội An còn giữ được hàng trăm ngôi nhà cổ mái ngói, các hội quán của người Hoa như hội quán Phúc Kiến, hội quán Triều Châu.",
+    "Ngày 4/12/1999, UNESCO ghi danh phố cổ Hội An là Di sản văn hoá thế giới.",
+    "Ngày nay Hội An nổi tiếng với đèn lồng rực rỡ và đêm phố cổ, thu hút du khách khắp thế giới."
+   ],
+   "topic_title": "Phố cổ Hội An",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Ph%E1%BB%91_c%E1%BB%95_H%E1%BB%99i_An"
+   ],
+   "aliases": [
+    "Hội An",
+    "đô thị cổ Hội An",
+    "Faifo",
+    "Hoài Phố"
+   ],
+   "place": "hạ lưu sông Thu Bồn, Quảng Nam (nay thuộc thành phố Đà Nẵng)",
+   "year": null,
+   "traps": [
+    "Hội An được UNESCO ghi danh năm 1999, còn Cố đô Huế là năm 1993 — hai mốc dễ lẫn nhau.",
+    "Chùa Cầu tương truyền do thương nhân NHẬT BẢN xây, còn các hội quán trong phố cổ mới là của người Hoa.",
+    "Hội An sầm uất nhất vào thế kỷ XVII-XVIII, thời các chúa Nguyễn ở Đàng Trong, không phải thời Pháp thuộc."
+   ],
+   "lessons": [
+    {
+     "book": "CTST",
+     "bai": 18
+    },
+    {
+     "book": "KNTT",
+     "bai": 19
+    },
+    {
+     "book": "Cánh diều",
+     "bai": 14
+    }
+   ]
+  },
+  {
+   "name": "Vùng Tây Nguyên",
+   "kind": "place",
+   "summary": "Vùng đất của các cao nguyên xếp tầng với đất đỏ badan màu mỡ, khí hậu chia hai mùa mưa - khô rõ rệt, nổi tiếng với cây cà phê.",
+   "facts": [
+    "Tây Nguyên là vùng duy nhất của nước ta không giáp biển, địa hình chủ yếu là các cao nguyên xếp tầng cao thấp khác nhau: Kon Tum, Pleiku, Đắk Lắk, Mơ Nông, Lâm Viên và Di Linh.",
+    "Cao nguyên Lâm Viên cao nhất Tây Nguyên với độ cao trung bình khoảng 1.500 mét, nơi có thành phố Đà Lạt mát mẻ quanh năm.",
+    "Khí hậu Tây Nguyên chia hai mùa rõ rệt: mùa mưa từ khoảng tháng 5 đến tháng 10, mùa khô từ khoảng tháng 11 đến tháng 4 năm sau.",
+    "Tây Nguyên có diện tích đất đỏ badan lớn nhất cả nước; nhờ đất badan màu mỡ nên nơi đây trồng nhiều cây công nghiệp như cà phê, hồ tiêu, cao su, chè.",
+    "Vì cà phê hợp với đất đỏ badan nên Tây Nguyên trở thành vùng trồng cà phê lớn nhất Việt Nam, nổi tiếng với cà phê Buôn Ma Thuột."
+   ],
+   "topic_title": "Thiên nhiên vùng Tây Nguyên",
+   "sources": [
+    "https://loigiaihay.com/bai-19-thien-nhien-vung-tay-nguyen-sgk-lich-su-va-dia-li-4-chan-troi-sang-tao-a155072.html",
+    "https://khoahoc.vietjack.com/question/424082/hay-cho-biet-cac-cao-nguyen-xep-tang-o-tay-nguyen-theo-thu-tu-tu-bac-vao-nam"
+   ],
+   "aliases": [
+    "Tây Nguyên",
+    "vùng cao nguyên Tây Nguyên"
+   ],
+   "place": "tây nam Trung Bộ Việt Nam",
+   "year": null,
+   "traps": [
+    "Tây Nguyên là vùng KHÔNG giáp biển duy nhất của nước ta — đừng nhầm với Duyên hải miền Trung nằm sát biển.",
+    "Đất chủ yếu ở Tây Nguyên là đất đỏ BADAN thích hợp cây công nghiệp, không phải đất phù sa trồng lúa như đồng bằng."
+   ],
+   "lessons": [
+    {
+     "book": "CTST",
+     "bai": 19
+    },
+    {
+     "book": "KNTT",
+     "bai": 20
+    },
+    {
+     "book": "Cánh diều",
+     "bai": 15
+    }
+   ]
+  },
+  {
+   "name": "Thiên nhiên vùng Nam Bộ",
+   "kind": "place",
+   "summary": "Vùng đồng bằng lớn nhất Việt Nam do sông Cửu Long và sông Đồng Nai bồi đắp, nóng quanh năm với hai mùa mưa - khô.",
+   "facts": [
+    "Nam Bộ có đồng bằng lớn nhất cả nước, phần lớn do phù sa của hệ thống sông Mê Công (Cửu Long) và sông Đồng Nai bồi đắp nên rất màu mỡ.",
+    "Sông Tiền và sông Hậu là hai nhánh của sông Mê Công chảy qua Nam Bộ, đổ ra biển bằng chín cửa nên đoạn sông này được gọi là sông Cửu Long, nghĩa là chín con rồng.",
+    "Khí hậu Nam Bộ nóng quanh năm với nhiệt độ trung bình trên 27 độ C và chia hai mùa rõ rệt: mùa mưa và mùa khô.",
+    "Vào mùa mưa, nước sông Cửu Long dâng cao gây ngập lụt, nhưng cũng mang phù sa, tôm cá về cho đồng ruộng — người dân gọi là mùa nước nổi.",
+    "Nam Bộ có mạng lưới sông ngòi, kênh rạch chằng chịt, vì thế cuộc sống của người dân gắn bó mật thiết với sông nước."
+   ],
+   "topic_title": "Thiên nhiên vùng Tây Nguyên",
+   "sources": [
+    "https://vndoc.com/lich-su-va-dia-li-lop-4-bai-23-thien-nhien-vung-nam-bo-chan-troi-sang-tao-300478",
+    "https://loigiaihay.com/bai-24-thien-nhien-vung-nam-bo-sgk-lich-su-va-dia-li-4-ket-noi-tri-thuc-a155058.html"
+   ],
+   "aliases": [
+    "Nam Bộ",
+    "vùng Nam Bộ",
+    "đồng bằng Nam Bộ",
+    "miền Tây và Đông Nam Bộ"
+   ],
+   "place": "phía nam Việt Nam",
+   "year": null,
+   "traps": [
+    "Tên gọi sông CỬU LONG nghĩa là 'chín con rồng' vì sông Tiền và sông Hậu đổ ra biển bằng chín cửa — không phải vì có chín con sông.",
+    "Đồng bằng LỚN NHẤT nước ta là đồng bằng Nam Bộ, còn đồng bằng Bắc Bộ đứng thứ hai."
+   ],
+   "lessons": [
+    {
+     "book": "CTST",
+     "bai": 23
+    },
+    {
+     "book": "KNTT",
+     "bai": 24
+    },
+    {
+     "book": "Cánh diều",
+     "bai": 18
+    }
+   ]
+  },
+  {
+   "name": "Văn hoá truyền thống đồng bào Tây Nguyên",
+   "kind": "concept",
+   "summary": "Những nét văn hoá đặc sắc của các dân tộc Tây Nguyên như Gia Rai, Ê Đê, Ba Na: nhà rông, nhà dài, trang phục thổ cẩm và lễ hội gắn với cồng chiêng.",
+   "facts": [
+    "Tây Nguyên là nơi sinh sống lâu đời của nhiều dân tộc như Gia Rai, Ê Đê, Ba Na, Mơ Nông, mỗi dân tộc có tiếng nói và phong tục riêng.",
+    "Nhà rông là ngôi nhà chung cao lớn giữa buôn làng, nơi dân làng Tây Nguyên hội họp, tổ chức lễ hội và đón khách quý.",
+    "Người Ê Đê ở nhà dài — ngôi nhà sàn rất dài là nơi sinh sống của nhiều thế hệ trong một dòng họ.",
+    "Trang phục truyền thống của đồng bào Tây Nguyên được dệt thủ công từ thổ cẩm, thường có màu đen hoặc chàm với hoa văn sặc sỡ; đàn ông đóng khố, phụ nữ quấn váy tấm.",
+    "Các lễ hội của đồng bào Tây Nguyên như lễ mừng lúa mới, lễ cúng bến nước thường gắn liền với âm thanh cồng chiêng vang vọng núi rừng."
+   ],
+   "topic_title": "Một số nét văn hoá và lịch sử của đồng bào Tây Nguyên",
+   "sources": [
+    "https://vietjack.com/lich-su-va-dia-li-4-ct/bai-21-mot-so-net-van-hoa-va-lich-su-cua-dong-bao-tay-nguyen.jsp",
+    "https://vi.wikipedia.org/wiki/Kh%C3%B4ng_gian_v%C4%83n_h%C3%B3a_C%E1%BB%93ng_Chi%C3%AAng_T%C3%A2y_Nguy%C3%AAn"
+   ],
+   "aliases": [
+    "văn hoá Tây Nguyên",
+    "nhà rông",
+    "nhà dài Ê Đê",
+    "văn hoá các dân tộc Tây Nguyên"
+   ],
+   "place": "Tây Nguyên",
+   "year": null,
+   "traps": [
+    "NHÀ RÔNG là nhà sinh hoạt chung của cả buôn làng, còn NHÀ DÀI của người Ê Đê là nơi ở của một dòng họ — hai loại nhà khác nhau, đừng lẫn.",
+    "Nhà rông là nét văn hoá Tây Nguyên, đừng nhầm với nhà sàn của các dân tộc vùng núi phía Bắc."
+   ],
+   "lessons": [
+    {
+     "book": "CTST",
+     "bai": 21
+    }
+   ]
+  },
+  {
+   "name": "Anh hùng Núp",
+   "kind": "person",
+   "summary": "Đinh Núp (1914-1999), người dân tộc Ba Na ở làng Stơr, Gia Lai, lãnh đạo dân làng đánh Pháp bằng vũ khí thô sơ, được phong Anh hùng và trở thành nhân vật chính của tiểu thuyết 'Đất nước đứng lên'.",
+   "facts": [
+    "Anh hùng Núp tên thật là Đinh Núp, người dân tộc Ba Na, sinh ngày 2/5/1914 tại làng Stơr, xã Tơ Tung, huyện Kbang, tỉnh Gia Lai.",
+    "Năm 1935, Núp dùng nỏ bắn lính Pháp bị thương để chứng minh cho dân làng rằng lính Pháp cũng là người thường, có thể đánh thắng được.",
+    "Trong những năm 1950-1951, Núp lãnh đạo dân làng Stơr dùng vũ khí thô sơ như chông tre, bẫy đá đẩy lùi nhiều cuộc càn quét của quân Pháp.",
+    "Năm 1955, Đinh Núp được Nhà nước phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân.",
+    "Cuộc đời đánh giặc của Anh hùng Núp được nhà văn Nguyên Ngọc kể lại trong tiểu thuyết nổi tiếng 'Đất nước đứng lên'.",
+    "Anh hùng Núp qua đời năm 1999, để lại tấm gương sáng về truyền thống yêu nước của đồng bào Tây Nguyên."
+   ],
+   "topic_title": "Một số nét văn hoá và lịch sử của đồng bào Tây Nguyên",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/%C4%90inh_N%C3%BAp",
+    "https://vietjack.com/lich-su-va-dia-li-4-ct/bai-21-mot-so-net-van-hoa-va-lich-su-cua-dong-bao-tay-nguyen.jsp"
+   ],
+   "aliases": [
+    "Đinh Núp",
+    "Núp",
+    "Anh hùng Đinh Núp"
+   ],
+   "place": "làng Stơr, xã Tơ Tung, huyện Kbang, Gia Lai",
+   "year": null,
+   "date_start": "1914",
+   "date_end": "1999",
+   "actors": [
+    "Đinh Núp",
+    "Nguyên Ngọc"
+   ],
+   "traps": [
+    "Anh hùng Núp là người dân tộc BA NA ở Gia Lai, đừng nhầm với N'Trang Lơng là người Mơ Nông.",
+    "Tiểu thuyết viết về Anh hùng Núp là 'Đất nước đứng lên' của nhà văn NGUYÊN NGỌC, không phải 'Rừng xà nu' (truyện ngắn khác cũng của Nguyên Ngọc với bút danh Nguyễn Trung Thành)."
+   ],
+   "lessons": [
+    {
+     "book": "CTST",
+     "bai": 21
+    }
+   ]
+  },
+  {
+   "name": "N'Trang Lơng",
+   "kind": "person",
+   "summary": "Thủ lĩnh người Mơ Nông (1870-1935) lãnh đạo cuộc khởi nghĩa chống thực dân Pháp kéo dài gần 25 năm ở nam Tây Nguyên đầu thế kỷ XX.",
+   "facts": [
+    "N'Trang Lơng sinh khoảng năm 1870, là thủ lĩnh người dân tộc Mơ Nông ở vùng nam Tây Nguyên.",
+    "Từ khoảng năm 1911-1912 đến năm 1935, N'Trang Lơng lãnh đạo đồng bào các dân tộc Tây Nguyên khởi nghĩa chống thực dân Pháp suốt gần 25 năm.",
+    "Ngày 5/8/1914, nghĩa quân N'Trang Lơng lập mưu giết viên quan cai trị Pháp Henri Maître (Hăng-ri Me-trơ) ngay tại buổi gặp giả vờ giảng hoà, làm chấn động bộ máy cai trị của Pháp ở Tây Nguyên.",
+    "Cuộc khởi nghĩa của N'Trang Lơng kết thúc năm 1935 khi ông hy sinh, nhưng đã trở thành biểu tượng cho truyền thống đấu tranh bất khuất của đồng bào Tây Nguyên.",
+    "Ngày nay tên N'Trang Lơng được đặt cho nhiều trường học, đường phố và tượng đài ở các tỉnh Tây Nguyên."
+   ],
+   "topic_title": "Một số nét văn hoá và lịch sử của đồng bào Tây Nguyên",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/N%27Trang_L%C6%A1ng",
+    "https://vietjack.com/lich-su-va-dia-li-4-ct/bai-21-mot-so-net-van-hoa-va-lich-su-cua-dong-bao-tay-nguyen.jsp"
+   ],
+   "aliases": [
+    "Nơ Trang Lơng",
+    "N'Trang Long",
+    "N Trang Lơng"
+   ],
+   "place": "nam Tây Nguyên (vùng người Mơ Nông)",
+   "year": null,
+   "date_start": "1870",
+   "date_end": "1935",
+   "actors": [
+    "N'Trang Lơng",
+    "Henri Maître"
+   ],
+   "traps": [
+    "N'Trang Lơng là người MƠ NÔNG chống Pháp đầu thế kỷ XX (1911-1935), còn Anh hùng Núp là người Ba Na chống Pháp thời kháng chiến 1946-1954 — hai vị anh hùng ở hai giai đoạn khác nhau."
+   ],
+   "lessons": [
+    {
+     "book": "CTST",
+     "bai": 21
+    }
+   ]
+  },
+  {
+   "name": "Không gian văn hoá Cồng chiêng Tây Nguyên",
+   "kind": "concept",
+   "summary": "Di sản văn hoá của các dân tộc Tây Nguyên gắn với tiếng cồng chiêng trong lễ hội, được UNESCO công nhận là Kiệt tác truyền khẩu và di sản phi vật thể của nhân loại ngày 25/11/2005.",
+   "facts": [
+    "Ngày 25/11/2005, UNESCO công nhận Không gian văn hoá Cồng chiêng Tây Nguyên là Kiệt tác truyền khẩu và di sản phi vật thể của nhân loại.",
+    "Khi được ghi danh năm 2005, Không gian văn hoá Cồng chiêng trải rộng trên 5 tỉnh Tây Nguyên: Kon Tum, Gia Lai, Đắk Lắk, Đắk Nông và Lâm Đồng.",
+    "Chủ nhân của cồng chiêng là các dân tộc Tây Nguyên như Ê Đê, Gia Rai, Ba Na, Mạ, Mơ Nông.",
+    "Tiếng cồng chiêng vang lên trong hầu hết các lễ hội quan trọng của buôn làng như lễ mừng lúa mới, lễ cúng bến nước, gắn với nhà rông, nhà dài.",
+    "Không gian văn hoá cồng chiêng gồm cả bộ cồng chiêng, các bài nhạc chiêng, người đánh chiêng và các lễ hội sử dụng cồng chiêng — chứ không chỉ riêng nhạc cụ.",
+    "Hằng năm các tỉnh Tây Nguyên tổ chức lễ hội và festival văn hoá cồng chiêng để bảo tồn di sản và thu hút du khách."
+   ],
+   "topic_title": "Lễ hội Cồng chiêng Tây Nguyên",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Kh%C3%B4ng_gian_v%C4%83n_h%C3%B3a_C%E1%BB%93ng_Chi%C3%AAng_T%C3%A2y_Nguy%C3%AAn"
+   ],
+   "aliases": [
+    "lễ hội Cồng chiêng Tây Nguyên",
+    "cồng chiêng Tây Nguyên",
+    "văn hoá cồng chiêng"
+   ],
+   "place": "5 tỉnh Tây Nguyên: Kon Tum, Gia Lai, Đắk Lắk, Đắk Nông, Lâm Đồng (địa giới trước 7/2025)",
+   "year": null,
+   "traps": [
+    "Cồng chiêng Tây Nguyên được UNESCO công nhận là KIỆT TÁC TRUYỀN KHẨU VÀ DI SẢN PHI VẬT THỂ (2005), khác với 'Di sản văn hoá thế giới' dành cho công trình như Huế, Hội An.",
+    "Năm ghi danh cồng chiêng là 2005, đừng nhầm với Nhã nhạc cung đình Huế được ghi danh trước đó (2003).",
+    "Sau đợt sáp nhập tỉnh từ 1/7/2025, địa bàn 5 tỉnh cồng chiêng cũ nay thuộc các tỉnh mới như Quảng Ngãi, Gia Lai, Đắk Lắk, Lâm Đồng."
+   ],
+   "lessons": [
+    {
+     "book": "CTST",
+     "bai": 22
+    },
+    {
+     "book": "KNTT",
+     "bai": 23
+    },
+    {
+     "book": "Cánh diều",
+     "bai": 17
+    }
+   ]
+  },
+  {
+   "name": "Văn hoá sông nước Nam Bộ",
+   "kind": "concept",
+   "summary": "Nét văn hoá đặc trưng của người dân Nam Bộ gắn với sông nước: nhà ven sông, chợ nổi, ghe xuồng, áo bà ba, khăn rằn và đờn ca tài tử.",
+   "facts": [
+    "Vì Nam Bộ có sông ngòi, kênh rạch chằng chịt nên người dân thường làm nhà ven sông, thậm chí có nhà nổi trên mặt nước, và đi lại chủ yếu bằng ghe, xuồng.",
+    "Chợ nổi là nét văn hoá độc đáo của Nam Bộ, nơi mua bán diễn ra ngay trên sông; nổi tiếng nhất có chợ nổi Cái Răng, Phong Điền ở Cần Thơ và Cái Bè ở Tiền Giang.",
+    "Trang phục truyền thống quen thuộc của người dân Nam Bộ là áo bà ba cùng chiếc khăn rằn.",
+    "Đờn ca tài tử là loại hình nghệ thuật đặc trưng của Nam Bộ, được UNESCO ghi danh là Di sản văn hoá phi vật thể đại diện của nhân loại ngày 5/12/2013.",
+    "Vùng đất Nam Bộ là nơi chung sống lâu đời của các dân tộc Kinh, Khmer, Hoa, Chăm, tạo nên văn hoá phong phú, cởi mở."
+   ],
+   "topic_title": "Một số nét văn hoá và truyền thống cách mạng ở vùng Nam Bộ",
+   "sources": [
+    "https://www.vietjack.com/lich-su-va-dia-li-4-ct/bai-25-mot-so-net-van-hoa-va-truyen-thong-cach-mang-o-vung-nam-bo.jsp",
+    "https://baochinhphu.vn/vinh-danh-don-ca-tai-tu-nam-bo-di-san-van-hoa-phi-vat-the-cua-nhan-loai-102158931.htm"
+   ],
+   "aliases": [
+    "văn hoá Nam Bộ",
+    "chợ nổi Nam Bộ",
+    "đờn ca tài tử Nam Bộ",
+    "văn hoá miền sông nước"
+   ],
+   "place": "vùng Nam Bộ",
+   "year": null,
+   "traps": [
+    "Đờn ca tài tử là nghệ thuật của NAM BỘ (UNESCO ghi danh 5/12/2013), đừng nhầm với quan họ của Bắc Bộ hay nhã nhạc của Huế.",
+    "Chợ nổi Cái Răng nằm ở Cần Thơ, không phải ở Thành phố Hồ Chí Minh."
+   ],
+   "lessons": [
+    {
+     "book": "CTST",
+     "bai": 25
+    },
+    {
+     "book": "KNTT",
+     "bai": 26
+    }
+   ]
+  },
+  {
+   "name": "Nam Bộ kháng chiến",
+   "kind": "event",
+   "summary": "Ngày 23/9/1945, thực dân Pháp nổ súng ở Sài Gòn quay lại xâm lược nước ta lần thứ hai, nhân dân Nam Bộ lập tức đứng lên kháng chiến và được Bác Hồ tặng danh hiệu 'Thành đồng Tổ quốc'.",
+   "facts": [
+    "Ngày 23/9/1945, tức chỉ ba tuần sau khi Bác Hồ đọc Tuyên ngôn Độc lập ngày 2/9/1945, thực dân Pháp nổ súng đánh chiếm Sài Gòn, mở đầu cuộc xâm lược nước ta lần thứ hai.",
+    "Việc Pháp gây hấn ở Sài Gòn ngày 23/9/1945 đã làm bùng lên cuộc kháng chiến của quân và dân Nam Bộ, nên ngày 23/9 được gọi là Ngày Nam Bộ kháng chiến.",
+    "Nhân dân Nam Bộ với tầm vông vạt nhọn và mọi vũ khí có trong tay đã chặn đánh quân Pháp ngay trên đường phố Sài Gòn.",
+    "Tháng 2/1946, ghi nhận tinh thần chiến đấu kiên cường của quân và dân Nam Bộ, Chủ tịch Hồ Chí Minh thay mặt Chính phủ tặng đồng bào Nam Bộ danh hiệu vẻ vang 'Thành đồng Tổ quốc'.",
+    "Truyền thống 'đi trước về sau' của Nam Bộ nghĩa là: Nam Bộ kháng chiến chống Pháp sớm nhất (1945) và cũng là nơi kết thúc chiến tranh muộn nhất khi giải phóng hoàn toàn năm 1975."
+   ],
+   "topic_title": "Một số nét văn hoá và truyền thống cách mạng ở vùng Nam Bộ",
+   "sources": [
+    "https://daidoanket.vn/ky-niem-ngay-nam-bo-khang-chien-23-9-1945-23-9-2024-thanh-dong-to-quoc-mai-mai-vang-danh-10291755.html",
+    "https://tuyengiaobinhphuoc.org.vn/ly-luan-van-hoa-lich-su-dang/ky-niem-78-nam-ngay-nam-bo-khang-chien-23-9-1945-23-9-2023-ve-vang-danh-hieu-thanh-dong-to-quoc-2059.html"
+   ],
+   "aliases": [
+    "Ngày Nam Bộ kháng chiến",
+    "Nam Bộ kháng chiến 23/9",
+    "ngày 23 tháng 9"
+   ],
+   "place": "Sài Gòn và các tỉnh Nam Bộ",
+   "year": 1945,
+   "date_start": "1945-09-23",
+   "actors": [
+    "nhân dân Nam Bộ",
+    "thực dân Pháp",
+    "Chủ tịch Hồ Chí Minh"
+   ],
+   "traps": [
+    "Danh hiệu 'Thành đồng Tổ quốc' do Bác Hồ tặng đồng bào NAM BỘ vào tháng 2/1946 vì tinh thần kháng chiến từ 23/9/1945 — đừng nhầm là danh hiệu của Củ Chi (Củ Chi được gọi là 'đất thép thành đồng').",
+    "Pháp quay lại xâm lược lần thứ hai bắt đầu từ Sài Gòn ngày 23/9/1945, TRƯỚC khi chiến tranh lan ra toàn quốc ngày 19/12/1946."
+   ],
+   "lessons": [
+    {
+     "book": "CTST",
+     "bai": 25
+    },
+    {
+     "book": "KNTT",
+     "bai": 26
+    }
+   ]
+  },
+  {
+   "name": "Nguyễn Trung Trực",
+   "kind": "person",
+   "summary": "Thủ lĩnh nghĩa quân chống Pháp ở Nam Bộ (1838-1868), nổi tiếng với chiến công đốt tàu chiến Pháp trên sông Nhật Tảo và câu nói 'Bao giờ Tây nhổ hết cỏ nước Nam thì mới hết người Nam đánh Tây'.",
+   "facts": [
+    "Nguyễn Trung Trực sinh năm 1838 tại làng Bình Nhựt, phủ Tân An (vùng đất nay thuộc Long An cũ, từ 7/2025 thuộc tỉnh Tây Ninh), xuất thân từ gia đình dân chài.",
+    "Ngày 10/12/1861, Nguyễn Trung Trực chỉ huy nghĩa quân đốt cháy tàu chiến Pháp Ét-pê-răng (L'Espérance) trên vàm sông Nhật Tảo, chiến công được ca ngợi là 'Hoả hồng Nhựt Tảo oanh thiên địa'.",
+    "Đêm 16/6/1868, Nguyễn Trung Trực bất ngờ đánh úp và chiếm được đồn Rạch Giá (Kiên Giang) — đồn trung tâm tỉnh lỵ mà Pháp coi là bất khả xâm phạm — và giữ được khoảng một tuần.",
+    "Ngày 21/6/1868, Pháp điều quân từ Vĩnh Long sang phản công, Nguyễn Trung Trực phải rút về Hòn Chông rồi ra đảo Phú Quốc tiếp tục chống Pháp.",
+    "Bị giặc bắt, Nguyễn Trung Trực bị Pháp xử chém tại Rạch Giá ngày 27/10/1868, khi mới 30 tuổi.",
+    "Trước khi hy sinh, Nguyễn Trung Trực khẳng khái nói: 'Bao giờ Tây nhổ hết cỏ nước Nam thì mới hết người Nam đánh Tây' — câu nói thể hiện ý chí đánh giặc đến cùng của dân tộc.",
+    "Ngày nay đền thờ Nguyễn Trung Trực ở Rạch Giá là nơi nhân dân tổ chức lễ giỗ ông rất lớn hằng năm."
+   ],
+   "topic_title": "Một số nét văn hoá và truyền thống cách mạng ở vùng Nam Bộ",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Nguy%E1%BB%85n_Trung_Tr%E1%BB%B1c",
+    "https://baotanglichsu.vn/vi/Articles/3097/15075/khoi-nghia-nguyen-trung-truc-1861-1868-bao-gio-nuoc-nam-het-co-thi-moi-het-nguoi-nam-djanh-tay.html",
+    "https://vi.wikipedia.org/wiki/Tr%E1%BA%ADn_%C4%91%E1%BB%93n_Ki%C3%AAn_Giang"
+   ],
+   "aliases": [
+    "anh hùng Nguyễn Trung Trực",
+    "cụ Nguyễn Trung Trực"
+   ],
+   "place": "Nam Bộ (Long An, Kiên Giang, Phú Quốc)",
+   "year": null,
+   "date_start": "1838",
+   "date_end": "1868",
+   "actors": [
+    "Nguyễn Trung Trực",
+    "thực dân Pháp"
+   ],
+   "traps": [
+    "Câu 'Bao giờ Tây nhổ hết cỏ nước Nam thì mới hết người Nam đánh Tây' là của NGUYỄN TRUNG TRỰC nói trước khi bị xử chém năm 1868 — KHÔNG phải của Phan Bội Châu (Phan Bội Châu là nhà yêu nước đầu thế kỷ XX, phong trào Đông du).",
+    "Nguyễn Trung Trực đốt tàu Ét-pê-răng trên sông NHẬT TẢO (1861), còn trận đánh đồn là ở RẠCH GIÁ (1868) — hai chiến công ở hai nơi, hai năm khác nhau."
+   ],
+   "lessons": [
+    {
+     "book": "CTST",
+     "bai": 25
+    },
+    {
+     "book": "KNTT",
+     "bai": 26
+    }
+   ]
+  },
+  {
+   "name": "Thành phố Hồ Chí Minh",
+   "kind": "place",
+   "summary": "Thành phố lớn nhất và là trung tâm kinh tế hàng đầu Việt Nam, hình thành từ vùng đất Gia Định hơn 300 năm trước, mang tên Sài Gòn trước khi được đổi tên theo Bác Hồ năm 1976.",
+   "facts": [
+    "Năm 1698, chúa Nguyễn cử tướng Nguyễn Hữu Cảnh vào phía nam lập phủ Gia Định — sự kiện được coi là mốc khai sinh vùng đất Sài Gòn - Thành phố Hồ Chí Minh, đến nay đã hơn 300 năm.",
+    "Trong lịch sử, thành phố từng mang các tên Gia Định, Sài Gòn, Sài Gòn - Gia Định trước khi có tên hiện nay.",
+    "Ngày 2/7/1976, sau khi đất nước thống nhất, Quốc hội quyết định đổi tên thành phố Sài Gòn - Gia Định thành Thành phố Hồ Chí Minh để tỏ lòng tôn kính Bác Hồ.",
+    "Thành phố Hồ Chí Minh nằm bên sông Sài Gòn, là trung tâm kinh tế, văn hoá, giáo dục lớn hàng đầu của cả nước.",
+    "Thành phố có nhiều công trình nổi tiếng như chợ Bến Thành, Nhà hát Thành phố, Dinh Độc Lập, Bến Nhà Rồng, và ngày nay có cả toà nhà chọc trời Landmark 81.",
+    "Ngày 30/4/1975, Chiến dịch Hồ Chí Minh toàn thắng tại Sài Gòn đã kết thúc cuộc kháng chiến chống Mỹ, mở đường cho việc thống nhất đất nước."
+   ],
+   "topic_title": "Thành phố Hồ Chí Minh",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Th%C3%A0nh_ph%E1%BB%91_H%E1%BB%93_Ch%C3%AD_Minh",
+    "https://hdnd.hochiminhcity.gov.vn/tin-tuc/tin-tong-hop/vi-sao-sai-gon-gia-dinh-duoc-doi-ten-thanh-tp-ho-chi-minh",
+    "https://tphcm.chinhphu.vn/lich-su-hinh-thanh-vung-dat-hoang-so-1014611.htm"
+   ],
+   "aliases": [
+    "TP.HCM",
+    "Sài Gòn",
+    "Sài Gòn - Gia Định",
+    "thành phố mang tên Bác",
+    "Hồ Chí Minh City"
+   ],
+   "place": "Đông Nam Bộ, bên sông Sài Gòn",
+   "year": null,
+   "actors": [
+    "Nguyễn Hữu Cảnh"
+   ],
+   "traps": [
+    "Thành phố được đổi tên thành Thành phố Hồ Chí Minh ngày 2/7/1976 (kỳ họp Quốc hội của nước thống nhất), KHÔNG phải ngay năm 1975 khi giải phóng.",
+    "Người có công lập phủ Gia Định năm 1698 là NGUYỄN HỮU CẢNH, đừng nhầm với Nguyễn Trung Trực hay các chúa Nguyễn khác."
+   ],
+   "lessons": [
+    {
+     "book": "CTST",
+     "bai": 26
+    },
+    {
+     "book": "KNTT",
+     "bai": 27
+    },
+    {
+     "book": "Cánh diều",
+     "bai": 20
+    }
+   ]
+  },
+  {
+   "name": "Bến cảng Nhà Rồng",
+   "kind": "place",
+   "summary": "Bến cảng bên sông Sài Gòn, nơi ngày 5/6/1911 người thanh niên Nguyễn Tất Thành lên tàu ra đi tìm đường cứu nước; nay là Bảo tàng Hồ Chí Minh - chi nhánh TP.HCM.",
+   "facts": [
+    "Bến Nhà Rồng là bến cảng bên sông Sài Gòn, có toà nhà mái trang trí đôi rồng nên được gọi là Nhà Rồng.",
+    "Ngày 5/6/1911, người thanh niên yêu nước Nguyễn Tất Thành, lấy tên Văn Ba, rời Bến Nhà Rồng trên con tàu Đô đốc La-tu-sơ Tơ-rê-vin (Amiral Latouche-Tréville) làm phụ bếp để ra đi tìm đường cứu nước.",
+    "Vì đất nước bị thực dân Pháp đô hộ và các phong trào cứu nước trước đó đều thất bại, Nguyễn Tất Thành quyết định sang phương Tây tìm con đường cứu nước mới.",
+    "Từ chuyến đi ngày 5/6/1911, Bác Hồ đã bôn ba nước ngoài suốt 30 năm trước khi trở về nước năm 1941 để trực tiếp lãnh đạo cách mạng.",
+    "Ngày nay Bến Nhà Rồng là Bảo tàng Hồ Chí Minh - chi nhánh Thành phố Hồ Chí Minh, nơi lưu giữ kỷ vật về cuộc đời và sự nghiệp của Bác."
+   ],
+   "topic_title": "Thành phố Hồ Chí Minh",
+   "sources": [
+    "https://www.qdnd.vn/tu-lieu-ho-so/ngay-nay-nam-xua/ngay-5-6-1911-bac-ho-ra-di-tim-duong-cuu-nuoc-695390",
+    "https://vovworld.vn/vi-VN/viet-nam-dat-nuoc-con-nguoi/ben-cang-nha-rong-va-bao-tang-ho-chi-minh-noi-ghi-dau-cuoc-doi-va-su-nghiep-cua-chu-tich-ho-chi-minh-998396.vov"
+   ],
+   "aliases": [
+    "Bến Nhà Rồng",
+    "cảng Nhà Rồng",
+    "Bảo tàng Hồ Chí Minh chi nhánh TP.HCM"
+   ],
+   "place": "bên sông Sài Gòn, Thành phố Hồ Chí Minh",
+   "year": null,
+   "actors": [
+    "Nguyễn Tất Thành (Văn Ba)"
+   ],
+   "traps": [
+    "Người ra đi từ Bến Nhà Rồng ngày 5/6/1911 mang tên NGUYỄN TẤT THÀNH (tên trên tàu là Văn Ba) — lúc đó Bác chưa dùng tên Nguyễn Ái Quốc hay Hồ Chí Minh.",
+    "Bác ra đi năm 1911 và trở về nước năm 1941 — hành trình tìm đường cứu nước kéo dài 30 năm, đừng nhầm mốc về nước."
+   ],
+   "lessons": [
+    {
+     "book": "CTST",
+     "bai": 26
+    },
+    {
+     "book": "KNTT",
+     "bai": 27
+    },
+    {
+     "book": "Cánh diều",
+     "bai": 20
+    }
+   ]
+  },
+  {
+   "name": "Địa đạo Củ Chi",
+   "kind": "place",
+   "summary": "Hệ thống đường hầm dài khoảng 250 km dưới lòng đất huyện Củ Chi, được quân dân ta đào từ thời kháng chiến chống Pháp và mở rộng trong kháng chiến chống Mỹ, biểu tượng của vùng 'đất thép thành đồng'.",
+   "facts": [
+    "Địa đạo Củ Chi nằm ở huyện Củ Chi, cách trung tâm Thành phố Hồ Chí Minh khoảng 70 km về phía tây bắc.",
+    "Những đoạn hầm đầu tiên của địa đạo được người dân Củ Chi đào từ khoảng năm 1948, trong thời kỳ kháng chiến chống Pháp, để ẩn nấp và cất giấu vũ khí.",
+    "Trong kháng chiến chống Mỹ, địa đạo được mở rộng mạnh mẽ: đến năm 1965 đã có khoảng 200 km đường hầm, và toàn hệ thống dài tới khoảng 250 km.",
+    "Địa đạo Củ Chi có 3 tầng: tầng trên cách mặt đất khoảng 3 mét, tầng giữa khoảng 5-8 mét, tầng dưới cùng sâu tới 8-12 mét.",
+    "Dưới lòng địa đạo có đủ nơi ở, phòng họp, bệnh xá, bếp Hoàng Cầm giấu khói, kho vũ khí — như một 'làng ngầm' trong lòng đất.",
+    "Trong cuộc Tổng tiến công Tết Mậu Thân năm 1968, quân giải phóng đã xuất phát từ địa đạo Củ Chi để tiến công vào Sài Gòn.",
+    "Ngày 23/12/2015, Thủ tướng Chính phủ xếp hạng Địa đạo Củ Chi là Di tích quốc gia đặc biệt; hai khu di tích chính đón khách tham quan là Bến Dược và Bến Đình.",
+    "Vì bám trụ kiên cường ngay sát Sài Gòn, quân dân Củ Chi được tặng danh hiệu 'đất thép thành đồng'."
+   ],
+   "topic_title": "Địa đạo Củ Chi",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%8Ba_%C4%91%E1%BA%A1o_C%E1%BB%A7_Chi",
+    "https://thuvienphapluat.vn/phap-luat/di-tich-lich-su-dia-dao-cu-chi-thuoc-tinh-thanh-nao-dia-dao-cu-chi-duoc-cong-nhan-di-tich-lich-su-q-301683-210095.html",
+    "https://dsvh.gov.vn/di-tich-lich-su-dia-dao-cu-chi-1490"
+   ],
+   "aliases": [
+    "địa đạo Bến Dược",
+    "địa đạo Bến Đình",
+    "đường hầm Củ Chi",
+    "Củ Chi đất thép thành đồng"
+   ],
+   "place": "huyện Củ Chi, Thành phố Hồ Chí Minh",
+   "year": null,
+   "traps": [
+    "Địa đạo Củ Chi bắt đầu được đào từ thời kháng chiến chống PHÁP (khoảng 1948), rồi mới mở rộng trong kháng chiến chống Mỹ — không phải chỉ có từ thời chống Mỹ.",
+    "Danh hiệu của Củ Chi là 'ĐẤT THÉP THÀNH ĐỒNG', còn 'Thành đồng Tổ quốc' là danh hiệu Bác Hồ tặng toàn thể đồng bào Nam Bộ tháng 2/1946."
+   ],
+   "lessons": [
+    {
+     "book": "CTST",
+     "bai": 27
+    },
+    {
+     "book": "KNTT",
+     "bai": 28
+    },
+    {
+     "book": "Cánh diều",
+     "bai": 21
+    }
+   ]
+  },
+  {
+   "name": "Tỉnh, thành phố trực thuộc Trung ương của Việt Nam",
+   "kind": "concept",
+   "summary": "Đơn vị hành chính cấp cao nhất của địa phương ở Việt Nam; từ ngày 1/7/2025 cả nước có 34 tỉnh, thành phố sau đợt sáp nhập lớn (trước đó là 63).",
+   "facts": [
+    "Mỗi bạn học sinh đều sống trong một đơn vị hành chính cấp tỉnh: hoặc là một tỉnh, hoặc là một thành phố trực thuộc Trung ương.",
+    "Trong nhiều năm trước 2025, Việt Nam có 63 tỉnh, thành phố — đây là con số được in trong các sách giáo khoa cũ.",
+    "Ngày 12/6/2025, Quốc hội thông qua Nghị quyết 202/2025/QH15 về sáp nhập tỉnh, và từ ngày 1/7/2025 cả nước chỉ còn 34 đơn vị hành chính cấp tỉnh, gồm 28 tỉnh và 6 thành phố trực thuộc Trung ương.",
+    "Sáu thành phố trực thuộc Trung ương từ 1/7/2025 là: Hà Nội, Thành phố Hồ Chí Minh, Hải Phòng, Đà Nẵng, Cần Thơ và Huế.",
+    "Khi tìm hiểu địa phương mình, em có thể tìm hiểu vị trí địa lí, thiên nhiên, hoạt động sản xuất và các nét văn hoá, lịch sử tiêu biểu của tỉnh hoặc thành phố nơi em sống."
+   ],
+   "topic_title": "Địa phương em (tỉnh, thành phố trực thuộc Trung ương)",
+   "sources": [
+    "https://xaydungchinhsach.chinhphu.vn/chi-tiet-34-don-vi-hanh-chinh-cap-tinh-tu-12-6-2025-119250612141845533.htm"
+   ],
+   "aliases": [
+    "đơn vị hành chính cấp tỉnh",
+    "34 tỉnh thành",
+    "63 tỉnh thành (trước 2025)",
+    "địa phương em"
+   ],
+   "place": "Việt Nam",
+   "year": null,
+   "traps": [
+    "Hỏi 'Việt Nam có bao nhiêu tỉnh, thành phố?': sách giáo khoa in trước 2025 ghi 63, nhưng TỪ NGÀY 1/7/2025 cả nước chỉ còn 34 tỉnh, thành phố (28 tỉnh + 6 thành phố trực thuộc Trung ương).",
+    "Từ 1/7/2025, Huế là thành phố trực thuộc Trung ương — danh sách 6 thành phố không còn giống danh sách 5 thành phố trong sách cũ."
+   ],
+   "lessons": [
+    {
+     "book": "Cánh diều",
+     "bai": 2
+    }
+   ]
+  },
+  {
+   "name": "Dân cư và sản xuất vùng Đồng bằng Bắc Bộ",
+   "kind": "concept",
+   "summary": "Đồng bằng Bắc Bộ là nơi dân cư đông đúc nhất Việt Nam, vựa lúa lớn thứ hai cả nước và nổi tiếng với các làng nghề truyền thống như gốm Bát Tràng, lụa Vạn Phúc.",
+   "facts": [
+    "Đồng bằng Bắc Bộ là vùng có dân cư đông đúc nhất nước ta; năm 2020 mật độ dân số của vùng khoảng 1.431 người trên một cây số vuông, gấp gần 5 lần mức trung bình cả nước.",
+    "Dân cư Đồng bằng Bắc Bộ đông đúc vì thiên nhiên thuận lợi, con người đã đến đây sinh sống từ hàng nghìn năm trước và vùng có nhiều đô thị, trung tâm công nghiệp.",
+    "Nhờ đất phù sa màu mỡ do sông Hồng bồi đắp và nguồn nước dồi dào, Đồng bằng Bắc Bộ trở thành vựa lúa lớn thứ hai của cả nước, chỉ sau vùng Nam Bộ.",
+    "Đồng bằng Bắc Bộ có nhiều làng nghề truyền thống nổi tiếng như làng gốm Bát Tràng và làng lụa Vạn Phúc ở Hà Nội, làng chiếu cói Kim Sơn ở Ninh Bình.",
+    "Làng gốm Bát Tràng đã làm gốm từ nhiều thế kỷ trước, tương truyền do những người thợ gốm di cư đến lập nghiệp từ thời nhà Lý."
+   ],
+   "topic_title": "Dân cư, hoạt động sản xuất và một số nét văn hoá ở vùng Đồng bằng Bắc Bộ",
+   "sources": [
+    "https://loigiaihay.com/bai-7-dan-cu-hoat-dong-san-xuat-va-mot-so-net-van-hoa-o-vung-dong-bang-bac-bo-sgk-lich-su-va-dia-li-4-canh-dieu-a155137.html",
+    "https://lawnet.vn/giao-duc/vi-sao-vung-dong-bang-bac-bo-co-dan-cu-tap-trung-dong-duc-nhat-nuoc-ta-noi-dung-danh-gia-hoc-sinh-t-19130.html",
+    "https://khoahoc.vietjack.com/question/1381540/ke-ten-cac-lang-nghe-truyen-thong-o-vung-dong-bang-bac-bo"
+   ],
+   "aliases": [
+    "dân cư Đồng bằng Bắc Bộ",
+    "sản xuất ở Đồng bằng Bắc Bộ",
+    "làng nghề Bắc Bộ",
+    "vựa lúa Bắc Bộ"
+   ],
+   "place": "Đồng bằng Bắc Bộ",
+   "year": null,
+   "traps": [
+    "Đồng bằng Bắc Bộ là vựa lúa lớn THỨ HAI của cả nước; vựa lúa LỚN NHẤT là đồng bằng Nam Bộ (đồng bằng sông Cửu Long).",
+    "Bát Tràng là làng GỐM, còn Vạn Phúc là làng LỤA — hai làng nghề khác nhau, cùng ở Hà Nội."
+   ],
+   "lessons": [
+    {
+     "book": "Cánh diều",
+     "bai": 7
+    }
+   ]
+  },
+  {
+   "name": "Dân cư và sản xuất vùng Nam Bộ",
+   "kind": "concept",
+   "summary": "Vùng Nam Bộ đông dân với các dân tộc Kinh, Khmer, Hoa, Chăm cùng chung sống, là vựa lúa lớn nhất cả nước và có nếp sản xuất, buôn bán gắn chặt với sông nước.",
+   "facts": [
+    "Vùng Nam Bộ là nơi chung sống của nhiều dân tộc, đông nhất là người Kinh, ngoài ra có người Khmer, người Hoa và người Chăm.",
+    "Nhờ đồng bằng rộng lớn và phù sa sông Cửu Long bồi đắp, Nam Bộ là vùng sản xuất lúa lớn nhất cả nước, đứng trên cả Đồng bằng Bắc Bộ.",
+    "Sông nước Nam Bộ nhiều tôm cá nên nghề nuôi trồng và đánh bắt thuỷ sản rất phát triển, hàng thuỷ sản được xuất khẩu đi nhiều nước.",
+    "Miệt vườn Nam Bộ trồng nhiều cây ăn quả như xoài, sầu riêng, chôm chôm, vú sữa, cung cấp trái cây cho cả nước.",
+    "Vì kênh rạch chằng chịt nên người dân Nam Bộ họp chợ ngay trên sông thành các chợ nổi và chở hàng hoá bằng ghe, xuồng."
+   ],
+   "topic_title": "Dân cư, hoạt động sản xuất và một số nét văn hoá ở vùng Đồng bằng Bắc Bộ",
+   "sources": [
+    "https://www.vietjack.com/lich-su-va-dia-li-4-ct/bai-25-mot-so-net-van-hoa-va-truyen-thong-cach-mang-o-vung-nam-bo.jsp",
+    "https://loigiaihay.com/bai-7-dan-cu-hoat-dong-san-xuat-va-mot-so-net-van-hoa-o-vung-dong-bang-bac-bo-sgk-lich-su-va-dia-li-4-canh-dieu-a155137.html",
+    "https://vndoc.com/lich-su-va-dia-li-lop-4-bai-23-thien-nhien-vung-nam-bo-chan-troi-sang-tao-300478"
+   ],
+   "aliases": [
+    "dân cư Nam Bộ",
+    "sản xuất ở Nam Bộ",
+    "vựa lúa Nam Bộ",
+    "miệt vườn Nam Bộ"
+   ],
+   "place": "vùng Nam Bộ",
+   "year": null,
+   "traps": [
+    "Vựa lúa LỚN NHẤT cả nước là Nam Bộ (đồng bằng sông Cửu Long), không phải Đồng bằng Bắc Bộ (Bắc Bộ đứng thứ hai).",
+    "Người Khmer là một dân tộc sinh sống lâu đời ở Nam Bộ Việt Nam — đừng nhầm 'người Khmer Nam Bộ' với người dân nước Cam-pu-chia."
+   ],
+   "lessons": [
+    {
+     "book": "Cánh diều",
+     "bai": 19
+    }
+   ]
+  }
+ ]
+}

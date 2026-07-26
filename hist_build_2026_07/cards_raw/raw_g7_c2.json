@@ -1,0 +1,1139 @@
+{
+ "grade": 7,
+ "chunk": 2,
+ "cards": [
+  {
+   "name": "Các cuộc phát kiến địa lí",
+   "kind": "event",
+   "year": 1492,
+   "date_start": "1487",
+   "date_end": "1522",
+   "place": "Tây Âu và các đại dương",
+   "actors": [
+    "B. Đi-a-xơ",
+    "C. Cô-lôm-bô",
+    "Va-xcô đơ Ga-ma",
+    "Ph. Ma-gien-lan"
+   ],
+   "aliases": [
+    "phát kiến địa lý",
+    "những cuộc phát kiến lớn về địa lí",
+    "Đi-a-xơ ~ Dias",
+    "Cô-lôm-bô ~ Columbus",
+    "Va-xcô đơ Ga-ma ~ Vasco da Gama",
+    "Ma-gien-lan ~ Ma-gien-lăng ~ Magellan"
+   ],
+   "summary": "Các chuyến vượt biển lớn của người Tây Âu cuối thế kỷ XV - đầu thế kỷ XVI tìm đường sang phương Đông, mở đầu quá trình hình thành chủ nghĩa tư bản ở châu Âu.",
+   "facts": [
+    "Từ giữa thế kỷ XV, thương nhân châu Âu cần vàng bạc, nguyên liệu và thị trường mới nên tổ chức các chuyến vượt biển tìm đường sang phương Đông — đó là nguyên nhân trực tiếp dẫn đến các cuộc phát kiến địa lí.",
+    "Năm 1487, B. Đi-a-xơ người Bồ Đào Nha đi vòng qua điểm cực Nam châu Phi, nơi sau này được đặt tên là mũi Hảo Vọng.",
+    "Năm 1492, C. Cô-lôm-bô xuất phát từ Tây Ban Nha đi về phía tây và tìm ra châu Mỹ, dù ông tưởng nhầm vùng đất đó là Ấn Độ.",
+    "Năm 1498, Va-xcô đơ Ga-ma đi vòng qua châu Phi cập bến Ca-li-cút, mở ra con đường biển từ châu Âu sang Ấn Độ.",
+    "Từ năm 1519 đến năm 1522, đoàn thám hiểm của Ph. Ma-gien-lan hoàn thành chuyến đi vòng quanh Trái Đất đầu tiên bằng đường biển.",
+    "Các cuộc phát kiến địa lí đem về cho quý tộc và thương nhân châu Âu nguồn vàng bạc, hương liệu và những vùng đất mới, nhờ đó thúc đẩy quá trình tích lũy vốn và hình thành chủ nghĩa tư bản ở châu Âu từ thế kỷ XVI."
+   ],
+   "traps": [
+    "Đi-a-xơ đến cực Nam châu Phi năm 1487, còn Va-xcô đơ Ga-ma đến Ấn Độ năm 1498 — hai mốc hay bị lẫn.",
+    "Chuyến đi vòng quanh thế giới 1519-1522 do ĐOÀN thám hiểm của Ma-gien-lan hoàn thành; không nói gọn là 'Ma-gien-lan đi vòng quanh thế giới xong năm 1519'."
+   ],
+   "topic_title": "Sự suy vong của chế độ phong kiến và sự hình thành chủ nghĩa tư bản ở châu Âu",
+   "lessons": [
+    {
+     "book": "cũ",
+     "bai": 2
+    }
+   ],
+   "sources": [
+    "https://loigiaihay.com/bai-2-cac-cuoc-phat-kien-dia-li-sgk-lich-su-va-dia-li-7-chan-troi-sang-tao-a106198.html",
+    "https://www.vietjack.com/giai-lich-su-lop-7/bai-2-su-suy-vong-cua-che-do-phong-kien-va-su-hinh-thanh.jsp"
+   ]
+  },
+  {
+   "name": "Sự hình thành chủ nghĩa tư bản ở châu Âu",
+   "kind": "concept",
+   "year": null,
+   "date_start": "thế kỷ XVI",
+   "date_end": null,
+   "place": "châu Âu",
+   "aliases": [
+    "quan hệ sản xuất tư bản chủ nghĩa",
+    "CNTB châu Âu",
+    "tích lũy tư bản nguyên thủy",
+    "giai cấp tư sản và vô sản"
+   ],
+   "summary": "Sau các cuộc phát kiến địa lí, quý tộc và thương nhân châu Âu tích lũy được vốn lớn, lập xưởng và đồn điền thuê nhân công — quan hệ sản xuất tư bản chủ nghĩa hình thành từ thế kỷ XVI.",
+   "facts": [
+    "Sau các cuộc phát kiến địa lí cuối thế kỷ XV, quý tộc và thương nhân châu Âu giàu lên nhanh chóng nhờ cướp bóc thuộc địa và buôn bán, tích lũy được số vốn lớn — quá trình này gọi là tích lũy tư bản nguyên thủy.",
+    "Quan hệ sản xuất tư bản chủ nghĩa ở châu Âu hình thành từ thế kỷ XVI, khi những người có vốn mở xưởng sản xuất, lập công ty thương mại và đồn điền rộng lớn rồi thuê người làm công.",
+    "Chủ xưởng, chủ đồn điền và thương nhân giàu có dần trở thành giai cấp tư sản, còn nông nô mất ruộng đất phải đi làm thuê trở thành giai cấp vô sản.",
+    "Quan hệ chủ xuất vốn - thợ xuất sức lao động, trong đó tư sản bóc lột vô sản, là đặc trưng của quan hệ sản xuất tư bản chủ nghĩa.",
+    "Chủ nghĩa tư bản ra đời ngay trong lòng xã hội phong kiến khiến chế độ phong kiến châu Âu từng bước suy vong."
+   ],
+   "traps": [
+    "Chủ nghĩa tư bản / quan hệ sản xuất TBCN ở châu Âu hình thành TỪ THẾ KỶ XVI (thế kỷ 16) — trả lời 'đầu thế kỷ 17' là SAI.",
+    "Giai cấp tư sản ra đời từ quý tộc, thương nhân giàu có; giai cấp vô sản ra đời từ nông nô mất ruộng đất — không đảo ngược nguồn gốc hai giai cấp."
+   ],
+   "topic_title": "Sự suy vong của chế độ phong kiến và sự hình thành chủ nghĩa tư bản ở châu Âu",
+   "lessons": [
+    {
+     "book": "cũ",
+     "bai": 2
+    }
+   ],
+   "sources": [
+    "https://www.vietjack.com/giai-lich-su-lop-7/bai-2-su-suy-vong-cua-che-do-phong-kien-va-su-hinh-thanh.jsp",
+    "https://vndoc.com/giai-bai-tap-sgk-lich-su-lop-7-bai-2-su-suy-vong-cua-che-do-phong-kien-va-su-hinh-thanh-chu-nghia-tu-ban-o-chau-au-131737"
+   ]
+  },
+  {
+   "name": "Phong trào Văn hóa Phục hưng",
+   "kind": "movement",
+   "year": null,
+   "date_start": "thế kỷ XIV",
+   "date_end": "thế kỷ XVII",
+   "place": "Ý (I-ta-li-a) rồi lan khắp Tây Âu",
+   "actors": [
+    "Lê-ô-na đơ Vanh-xi",
+    "Cô-péc-ních",
+    "Sếch-xpia",
+    "Đan-tê",
+    "Ra-bơ-le"
+   ],
+   "aliases": [
+    "Văn hóa Phục hưng",
+    "Phục hưng",
+    "Renaissance",
+    "Lê-ô-na đơ Vanh-xi ~ Leonardo da Vinci",
+    "Cô-péc-ních ~ Copernicus",
+    "Sếch-xpia ~ Shakespeare"
+   ],
+   "summary": "Phong trào văn hóa mới của giai cấp tư sản Tây Âu thế kỷ XIV-XVII, khôi phục tinh hoa văn hóa Hy Lạp - Rô-ma cổ đại, đề cao con người và chống lại giáo hội, chế độ phong kiến.",
+   "facts": [
+    "Phong trào Văn hóa Phục hưng diễn ra từ thế kỷ XIV đến thế kỷ XVII, khởi đầu ở nước Ý rồi lan nhanh sang các nước Tây Âu.",
+    "\"Phục hưng\" nghĩa là khôi phục lại tinh hoa văn hóa cổ Hy Lạp và Rô-ma, đồng thời sáng tạo nền văn hóa mới của giai cấp tư sản.",
+    "Vì giai cấp tư sản có thế lực kinh tế nhưng chưa có địa vị xã hội tương xứng, họ dùng văn hóa làm vũ khí đấu tranh chống giáo hội và chế độ phong kiến — đó là nguyên nhân bùng nổ phong trào.",
+    "Nội dung phong trào là phê phán Giáo hội Ki-tô và trật tự xã hội phong kiến, đề cao giá trị con người và khoa học tự nhiên.",
+    "Những gương mặt tiêu biểu của Phục hưng gồm họa sĩ kiêm kỹ sư Lê-ô-na đơ Vanh-xi, nhà thiên văn Cô-péc-ních, nhà soạn kịch Sếch-xpia và nhà thơ Đan-tê.",
+    "Phong trào Phục hưng phát động quần chúng đấu tranh chống phong kiến, mở đường cho văn hóa châu Âu phát triển cao hơn trong các thế kỷ sau."
+   ],
+   "traps": [
+    "Quê hương của Văn hóa Phục hưng là nước Ý (I-ta-li-a), không phải Pháp hay Anh.",
+    "Phục hưng kéo dài thế kỷ XIV-XVII, trước và song song với Cải cách tôn giáo (bắt đầu 1517) — hai phong trào khác nhau, đừng gộp làm một."
+   ],
+   "topic_title": "Cuộc đấu tranh của giai cấp tư sản chống phong kiến thời hậu kì trung đại ở châu Âu",
+   "lessons": [
+    {
+     "book": "cũ",
+     "bai": 3
+    }
+   ],
+   "sources": [
+    "https://loigiaihay.com/phong-trao-van-hoa-phuc-hung-the-ki-xiv-xvii-c82a13475.html",
+    "https://thuvienphapluat.vn/lao-dong-tien-luong/cam-nang-di-lam/van-hoa-phuc-hung-la-gi-van-hoa-phuc-hung-bat-nguon-tu-nuoc-nao-anh-huong-the-nao-den-nguoi-lao-dong-545.html"
+   ]
+  },
+  {
+   "name": "Phong trào Cải cách tôn giáo",
+   "kind": "movement",
+   "year": 1517,
+   "date_start": "1517",
+   "date_end": null,
+   "place": "Đức, Thụy Sĩ rồi lan khắp châu Âu",
+   "actors": [
+    "Mác-tin Lu-thơ",
+    "Can-vanh"
+   ],
+   "aliases": [
+    "Cải cách tôn giáo",
+    "Mác-tin Lu-thơ ~ Martin Luther ~ M. Lu-thơ",
+    "Can-vanh ~ Calvin",
+    "95 luận đề",
+    "đạo Tin Lành"
+   ],
+   "summary": "Phong trào do Mác-tin Lu-thơ khởi xướng năm 1517 ở Đức nhằm cải cách Giáo hội Ki-tô, dẫn đến sự ra đời của đạo Tin Lành và châm ngòi Chiến tranh nông dân Đức.",
+   "facts": [
+    "Ngày 31/10/1517, Mác-tin Lu-thơ công bố 95 luận đề tại Vít-ten-bét (Đức), công khai phê phán việc Giáo hội bán \"thẻ miễn tội\", mở đầu phong trào Cải cách tôn giáo.",
+    "Lu-thơ chủ trương quay về với giáo lý Ki-tô nguyên thủy, bãi bỏ những thủ tục và lễ nghi phiền toái của Giáo hội.",
+    "Tiếp sau Lu-thơ, Can-vanh phát triển phong trào cải cách tôn giáo ở Thụy Sĩ vào giữa thế kỷ XVI.",
+    "Cải cách tôn giáo khiến đạo Ki-tô bị phân hóa thành hai phái: Cựu giáo (Công giáo) và Tân giáo — tức đạo Tin Lành.",
+    "Phong trào cải cách tôn giáo châm ngòi cho Chiến tranh nông dân Đức bùng nổ năm 1524 — cuộc đấu tranh vũ trang lớn của nông dân dưới ngọn cờ của giai cấp tư sản chống phong kiến ở châu Âu."
+   ],
+   "traps": [
+    "Người khởi xướng Cải cách tôn giáo là Mác-tin Lu-thơ (1517), không phải Can-vanh — Can-vanh chỉ là người tiếp nối.",
+    "Cải cách tôn giáo KHÔNG thủ tiêu tôn giáo mà chỉ đòi cải cách giáo hội; kết quả là đạo Ki-tô tách thành Cựu giáo và Tân giáo."
+   ],
+   "topic_title": "Cuộc đấu tranh của giai cấp tư sản chống phong kiến thời hậu kì trung đại ở châu Âu",
+   "lessons": [
+    {
+     "book": "cũ",
+     "bai": 3
+    }
+   ],
+   "sources": [
+    "https://nghiencuuquocte.org/2017/10/31/martin-luther-cong-bo-95-luan-de/",
+    "https://vi.wikipedia.org/wiki/C%E1%BA%A3i_c%C3%A1ch_t%C3%B4n_gi%C3%A1o",
+    "https://suretest.vn/cung-co/bai-5-phong-trao-cai-cach-ton-giao-19656.html"
+   ]
+  },
+  {
+   "name": "Xã hội phong kiến Trung Quốc thời Tần - Hán",
+   "kind": "period",
+   "year": null,
+   "date_start": "221 TCN",
+   "date_end": "220",
+   "place": "Trung Quốc",
+   "actors": [
+    "Tần Thủy Hoàng"
+   ],
+   "aliases": [
+    "Tần - Hán",
+    "nhà Tần",
+    "nhà Hán",
+    "Tần Thủy Hoàng ~ Tần Thuỷ Hoàng"
+   ],
+   "summary": "Nhà Tần thống nhất Trung Quốc năm 221 TCN và xác lập chế độ phong kiến với hai giai cấp chính là địa chủ và nông dân lĩnh canh, bóc lột bằng địa tô; nhà Hán kế tục củng cố chế độ này.",
+   "facts": [
+    "Năm 221 TCN, nhà Tần thống nhất Trung Quốc sau thời Chiến quốc; vua Tần xưng là Tần Thủy Hoàng — hoàng đế đầu tiên, người xác lập chế độ phong kiến tập quyền ở Trung Quốc.",
+    "Dưới thời Tần, quan lại và nông dân giàu chiếm được nhiều ruộng đất, trở thành giai cấp địa chủ.",
+    "Nông dân bị mất ruộng phải nhận ruộng của địa chủ để cày cấy, gọi là nông dân lĩnh canh, và phải nộp một phần hoa lợi cho địa chủ gọi là địa tô.",
+    "Quan hệ bóc lột địa tô giữa địa chủ và nông dân lĩnh canh thay thế quan hệ bóc lột cũ — đó chính là quan hệ sản xuất phong kiến, được xác lập ở Trung Quốc từ thời Tần - Hán.",
+    "Vì Tần Thủy Hoàng cai trị hà khắc, nhà Tần sụp đổ sớm vào năm 206 TCN; nhà Hán lên thay (206 TCN - 220) tiếp tục củng cố chế độ phong kiến và mở rộng lãnh thổ."
+   ],
+   "traps": [
+    "Xã hội phong kiến Trung Quốc thời Tần - Hán gồm hai giai cấp chính: ĐỊA CHỦ và NÔNG DÂN LĨNH CANH, quan hệ bóc lột là ĐỊA TÔ — không phải lãnh chúa và nông nô như châu Âu.",
+    "Chế độ phong kiến Trung Quốc được xác lập từ thời Tần (221 TCN), sớm hơn châu Âu rất nhiều (châu Âu khoảng thế kỷ V)."
+   ],
+   "topic_title": "Trung Quốc thời phong kiến",
+   "lessons": [
+    {
+     "book": "cũ",
+     "bai": 4
+    }
+   ],
+   "sources": [
+    "https://luatminhkhue.vn/nha-tan-da-thong-nhat-va-xac-lap-che-do-phong-kien-o-trung-quoc-nhu-the-nao.aspx",
+    "https://vi.wikipedia.org/wiki/T%E1%BA%A7n_Th%E1%BB%A7y_Ho%C3%A0ng"
+   ]
+  },
+  {
+   "name": "Nhà Đường - thời thịnh vượng nhất của phong kiến Trung Quốc",
+   "kind": "dynasty",
+   "year": null,
+   "date_start": "618",
+   "date_end": "907",
+   "place": "Trung Quốc",
+   "aliases": [
+    "nhà Đường",
+    "triều Đường",
+    "Đường triều"
+   ],
+   "summary": "Triều đại tồn tại 618-907, được coi là đỉnh cao của chế độ phong kiến Trung Quốc về kinh tế, chính trị và văn hóa.",
+   "facts": [
+    "Nhà Đường tồn tại từ năm 618 đến năm 907 và được coi là thời kỳ thịnh vượng nhất của chế độ phong kiến Trung Quốc.",
+    "Về kinh tế, nhà Đường thi hành chế độ quân điền chia ruộng đất cho nông dân và giảm bớt tô thuế, nhờ đó nông nghiệp phát triển mạnh.",
+    "Về chính trị, bộ máy nhà nước thời Đường được hoàn thiện từ trung ương đến địa phương và khoa cử được mở rộng để tuyển chọn nhân tài.",
+    "Nhà Đường cũng đem quân mở rộng lãnh thổ, xâm lấn các nước láng giềng, trong đó có nước ta thời Bắc thuộc (bị đặt thành An Nam đô hộ phủ).",
+    "Văn hóa thời Đường rực rỡ bậc nhất Trung Quốc phong kiến, tiêu biểu là thơ Đường với các nhà thơ lớn như Lý Bạch, Đỗ Phủ."
+   ],
+   "traps": [
+    "Thời kỳ thịnh vượng nhất của phong kiến Trung Quốc là thời ĐƯỜNG (618-907), không phải thời Minh hay Thanh.",
+    "Chế độ quân điền là chia ruộng đất công cho nông dân — đừng nhầm với việc địa chủ phát canh thu tô."
+   ],
+   "topic_title": "Trung Quốc thời phong kiến",
+   "lessons": [
+    {
+     "book": "cũ",
+     "bai": 4
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Nh%C3%A0_%C4%90%C6%B0%E1%BB%9Dng",
+    "https://danviet.vn/nha-duong-ton-tai-bao-nhieu-nam-co-bao-nhieu-vi-hoang-de-d1395037.html"
+   ]
+  },
+  {
+   "name": "Ấn Độ thời phong kiến",
+   "kind": "period",
+   "year": null,
+   "date_start": "thế kỷ IV",
+   "date_end": "thế kỷ XVIII",
+   "place": "Ấn Độ",
+   "actors": [
+    "A-cơ-ba"
+   ],
+   "aliases": [
+    "vương triều Gúp-ta ~ Gupta",
+    "vương triều Hồi giáo Đê-li ~ Delhi",
+    "vương triều Mô-gôn ~ Mogul ~ Mughal",
+    "A-cơ-ba ~ Acơba ~ Akbar"
+   ],
+   "summary": "Ấn Độ phong kiến trải qua ba vương triều lớn: Gúp-ta (thế kỷ IV-VI), Hồi giáo Đê-li (1206-1526) và Mô-gôn (từ 1526), trong đó vua A-cơ-ba nổi tiếng với chính sách hòa hợp dân tộc.",
+   "facts": [
+    "Vương triều Gúp-ta (khoảng 319-467, thế kỷ IV-VI) là thời kỳ thống nhất, phục hưng và phát triển của miền Bắc Ấn Độ cả về kinh tế, xã hội và văn hóa.",
+    "Năm 1206, người Hồi giáo gốc Trung Á chiếm miền Bắc Ấn Độ lập ra Vương triều Hồi giáo Đê-li (1206-1526), thi hành chính sách áp đặt đạo Hồi và chiếm đoạt ruộng đất khiến mâu thuẫn dân tộc trở nên sâu sắc.",
+    "Năm 1526, người Mông Cổ theo đạo Hồi tấn công Ấn Độ, lật đổ Vương triều Đê-li và lập Vương triều Mô-gôn — vương triều phong kiến cuối cùng của Ấn Độ.",
+    "Vua A-cơ-ba trị vì 1556-1605 đã thi hành chính sách xóa bỏ kỳ thị tôn giáo (bãi bỏ thuế đánh vào người không theo đạo Hồi), hòa hợp dân tộc, khôi phục kinh tế và phát triển văn hóa, đưa Ấn Độ đạt bước phát triển mới.",
+    "Văn hóa Ấn Độ với chữ Phạn, đạo Hin-đu, đạo Phật và nghệ thuật đền tháp đã ảnh hưởng sâu sắc đến các nước Đông Nam Á thời phong kiến."
+   ],
+   "traps": [
+    "Thời kỳ thống nhất và phục hưng đầu tiên của Ấn Độ phong kiến là vương triều GÚP-TA, không phải Đê-li hay Mô-gôn.",
+    "A-cơ-ba là vua của vương triều MÔ-GÔN (trị vì 1556-1605), không thuộc vương triều Đê-li."
+   ],
+   "topic_title": "Trung Quốc thời phong kiến",
+   "lessons": [
+    {
+     "book": "cũ",
+     "bai": 5
+    }
+   ],
+   "sources": [
+    "https://khoahoc.vietjack.com/question/824044/tinh-hinh-chinh-tri-kinh-te-va-xa-hoi-ra-sao",
+    "https://thi247.com/ly-thuyet-va-cau-hoi-trac-nghiem-an-do-thoi-phong-kien/",
+    "https://www.nextias.com/blog/akbar/"
+   ]
+  },
+  {
+   "name": "Các quốc gia phong kiến Đông Nam Á",
+   "kind": "concept",
+   "year": null,
+   "date_start": "thế kỷ X",
+   "date_end": "thế kỷ XVIII",
+   "place": "Đông Nam Á",
+   "aliases": [
+    "Su-khô-thay ~ Sukhothai",
+    "Mô-giô-pa-hít ~ Majapahit",
+    "Pa-gan ~ Pagan",
+    "Đông Nam Á phong kiến"
+   ],
+   "summary": "Từ nửa sau thế kỷ X đến đầu thế kỷ XVIII là thời kỳ thịnh vượng của các quốc gia phong kiến Đông Nam Á như Đại Việt, Cam-pu-chia, Su-khô-thay, Lan Xang, Mô-giô-pa-hít.",
+   "facts": [
+    "Từ nửa sau thế kỷ X đến đầu thế kỷ XVIII là thời kỳ hình thành và thịnh vượng của các quốc gia phong kiến Đông Nam Á.",
+    "Trong thế kỷ XIII, do bị quân Mông Cổ tấn công, một bộ phận người Thái di cư xuống lưu vực sông Mê Nam và lập ra Vương quốc Su-khô-thay — tiền thân của nước Thái Lan ngày nay.",
+    "Trên đảo Gia-va (In-đô-nê-xi-a ngày nay), vương quốc Mô-giô-pa-hít hùng mạnh trong khoảng thế kỷ XIII-XVI.",
+    "Ở lưu vực sông I-ra-oa-đi, vương quốc Pa-gan mạnh lên từ thế kỷ XI, mở đầu quá trình hình thành nước Mi-an-ma.",
+    "Từ nửa sau thế kỷ XVIII, các quốc gia phong kiến Đông Nam Á suy yếu dần và đến giữa thế kỷ XIX hầu hết trở thành thuộc địa của tư bản phương Tây."
+   ],
+   "traps": [
+    "Người Thái lập Su-khô-thay ở lưu vực sông MÊ NAM (thế kỷ XIII) sau khi di cư từ phía bắc xuống — nguyên nhân di cư là do quân Mông Cổ tấn công, không phải ngược lại."
+   ],
+   "topic_title": "Các quốc gia phong kiến Đông Nam Á",
+   "lessons": [
+    {
+     "book": "cũ",
+     "bai": 6
+    }
+   ],
+   "sources": [
+    "https://vndoc.com/ly-thuyet-lich-su-lop-7-bai-6-159864",
+    "https://www.luyenthi123.com/lich-su-lop-7/bai-6-cac-quoc-gia-phong-kien-dong-nam-a"
+   ]
+  },
+  {
+   "name": "Vương quốc Cam-pu-chia thời Ăng-co",
+   "kind": "period",
+   "year": null,
+   "date_start": "thế kỷ IX",
+   "date_end": "thế kỷ XV",
+   "place": "Cam-pu-chia (vùng Xiêm Riệp ngày nay)",
+   "aliases": [
+    "thời kỳ Ăng-co",
+    "Angkor",
+    "Ăng-co Vát ~ Angkor Wat",
+    "Ăng-co Thom ~ Angkor Thom",
+    "người Khơ-me ~ Khmer"
+   ],
+   "summary": "Thời kỳ Ăng-co (thế kỷ IX-XV) là giai đoạn phát triển huy hoàng nhất của Vương quốc Cam-pu-chia với các công trình Ăng-co Vát, Ăng-co Thom.",
+   "facts": [
+    "Thời kỳ Ăng-co kéo dài từ thế kỷ IX đến thế kỷ XV, là giai đoạn phát triển huy hoàng nhất của Vương quốc Cam-pu-chia của người Khơ-me.",
+    "Kinh đô Ăng-co được xây ở vùng Tây Bắc Biển Hồ, thuộc tỉnh Xiêm Riệp của Cam-pu-chia ngày nay.",
+    "Người Khơ-me thời Ăng-co giỏi làm thủy lợi, phát triển nông nghiệp và xây dựng những công trình kiến trúc đồ sộ như Ăng-co Vát, Ăng-co Thom.",
+    "Sau thời kỳ Ăng-co, Cam-pu-chia bước vào giai đoạn suy yếu kéo dài cho đến khi bị thực dân Pháp xâm lược năm 1863."
+   ],
+   "traps": [
+    "Thời kỳ Ăng-co là thế kỷ IX-XV — đừng nhầm Ăng-co là tên vua; đó là tên kinh đô và tên gọi cả thời kỳ."
+   ],
+   "topic_title": "Các quốc gia phong kiến Đông Nam Á",
+   "lessons": [
+    {
+     "book": "cũ",
+     "bai": 6
+    }
+   ],
+   "sources": [
+    "https://vndoc.com/ly-thuyet-lich-su-lop-7-bai-6-159864",
+    "https://suretest.vn/cung-co/bai-6-cac-quoc-gia-phong-kien-dong-nam-a-4940.html"
+   ]
+  },
+  {
+   "name": "Vương quốc Lan Xang",
+   "kind": "period",
+   "year": 1353,
+   "date_start": "1353",
+   "date_end": "thế kỷ XVIII",
+   "place": "Lào",
+   "actors": [
+    "Pha Ngừm"
+   ],
+   "aliases": [
+    "Lan Xang ~ Lạn Xạng ~ Triệu Voi",
+    "nước Lào thời phong kiến",
+    "Pha Ngừm ~ Fa Ngum"
+   ],
+   "summary": "Năm 1353, tộc trưởng Pha Ngừm thống nhất các bộ lạc Lào lập nước Lan Xang (Triệu Voi); vương quốc thịnh vượng nhất vào thế kỷ XV-XVII.",
+   "facts": [
+    "Năm 1353, tộc trưởng Pha Ngừm tập hợp và thống nhất các bộ lạc người Lào, lập ra nước Lan Xang — tên nước có nghĩa là \"Triệu Voi\".",
+    "Vương quốc Lan Xang bước vào giai đoạn thịnh vượng nhất trong các thế kỷ XV-XVII: chia đất nước thành các mường để cai quản, xây dựng quân đội vững mạnh.",
+    "Về đối ngoại, Lan Xang giữ quan hệ hòa hiếu với Cam-pu-chia và Đại Việt, đồng thời kiên quyết chiến đấu chống quân xâm lược Miến Điện.",
+    "Sang thế kỷ XVIII, Lan Xang suy yếu vì tranh chấp ngôi vua, sau đó bị Xiêm thôn tính rồi trở thành thuộc địa của Pháp cuối thế kỷ XIX."
+   ],
+   "traps": [
+    "Lan Xang nghĩa là 'Triệu Voi', do PHA NGỪM lập năm 1353 — đừng nhầm với Su-khô-thay của người Thái (thế kỷ XIII)."
+   ],
+   "topic_title": "Các quốc gia phong kiến Đông Nam Á",
+   "lessons": [
+    {
+     "book": "cũ",
+     "bai": 6
+    }
+   ],
+   "sources": [
+    "https://vndoc.com/ly-thuyet-lich-su-lop-7-bai-6-159864",
+    "https://www.luyenthi123.com/lich-su-lop-7/bai-6-cac-quoc-gia-phong-kien-dong-nam-a"
+   ]
+  },
+  {
+   "name": "Xã hội phong kiến",
+   "kind": "concept",
+   "year": null,
+   "date_start": null,
+   "date_end": null,
+   "place": "phương Đông và châu Âu",
+   "aliases": [
+    "chế độ phong kiến",
+    "địa chủ - nông dân lĩnh canh",
+    "lãnh chúa - nông nô",
+    "địa tô",
+    "chế độ quân chủ"
+   ],
+   "summary": "Những nét chung của xã hội phong kiến: kinh tế nông nghiệp, ruộng đất trong tay địa chủ/lãnh chúa, bóc lột bằng địa tô, thể chế quân chủ; phương Đông hình thành sớm suy vong muộn, châu Âu ngược lại.",
+   "facts": [
+    "Xã hội phong kiến phương Đông hình thành sớm (Trung Quốc từ thế kỷ III TCN) nhưng phát triển chậm và suy vong muộn, kéo dài tới thế kỷ XIX.",
+    "Xã hội phong kiến châu Âu hình thành muộn hơn, khoảng thế kỷ V sau khi đế quốc Rô-ma sụp đổ, nhưng suy vong sớm để nhường chỗ cho chủ nghĩa tư bản từ thế kỷ XV-XVI.",
+    "Cơ sở kinh tế chủ yếu của xã hội phong kiến là nông nghiệp; ruộng đất nằm trong tay địa chủ hay lãnh chúa, giao cho nông dân hay nông nô cày cấy để thu địa tô.",
+    "Hai giai cấp cơ bản: ở phương Đông là địa chủ và nông dân lĩnh canh, ở châu Âu là lãnh chúa và nông nô.",
+    "Thể chế nhà nước phong kiến là chế độ quân chủ do vua đứng đầu; phương Đông theo quân chủ chuyên chế tập quyền từ sớm, còn châu Âu ban đầu phân quyền, từ thế kỷ XV mới chuyển sang tập quyền."
+   ],
+   "traps": [
+    "Phương Đông: địa chủ - nông dân lĩnh canh; châu Âu: lãnh chúa - nông nô — không hoán đổi cặp giai cấp giữa hai khu vực.",
+    "Xã hội phong kiến phương Đông ra đời SỚM hơn nhưng suy vong MUỘN hơn châu Âu — nhiều bạn nói ngược."
+   ],
+   "topic_title": "Những nét chung về xã hội phong kiến",
+   "lessons": [
+    {
+     "book": "cũ",
+     "bai": 7
+    }
+   ],
+   "sources": [
+    "https://vietjack.com/giai-bai-tap-lich-su-7/ly-thuyet-nhung-net-chung-ve-xa-hoi-phong-kien.jsp",
+    "https://loigiaihay.com/co-so-kinh-te-xa-hoi-cua-xa-hoi-phong-kien-c82a13615.html"
+   ]
+  },
+  {
+   "name": "Ngô Quyền dựng nền độc lập",
+   "kind": "event",
+   "year": 939,
+   "date_start": "939",
+   "date_end": "944",
+   "place": "Cổ Loa (Hà Nội ngày nay)",
+   "actors": [
+    "Ngô Quyền",
+    "Dương Tam Kha"
+   ],
+   "aliases": [
+    "Ngô Quyền xưng vương",
+    "nhà Ngô",
+    "Ngô Vương"
+   ],
+   "summary": "Sau chiến thắng Bạch Đằng 938, năm 939 Ngô Quyền xưng vương, bỏ chức Tiết độ sứ, đóng đô ở Cổ Loa, mở đầu thời kỳ độc lập tự chủ lâu dài của dân tộc.",
+   "facts": [
+    "Sau chiến thắng Bạch Đằng cuối năm 938, đến năm 939 Ngô Quyền lên ngôi vua, bãi bỏ chức Tiết độ sứ của phong kiến phương Bắc và đóng đô ở Cổ Loa.",
+    "Ngô Quyền thiết lập triều đình mới do vua đứng đầu quyết định mọi việc, đặt các chức quan văn võ, quy định lễ nghi trong triều và cử tướng giỏi trấn giữ các châu quan trọng.",
+    "Việc Ngô Quyền xưng vương năm 939 đã chấm dứt hơn mười thế kỷ Bắc thuộc, mở đầu thời kỳ độc lập, tự chủ lâu dài của đất nước.",
+    "Năm 944 Ngô Quyền mất, Dương Tam Kha tiếm quyền khiến triều đình lục đục — đây là nguyên nhân trực tiếp đẩy đất nước vào cảnh chia cắt, loạn lạc sau đó."
+   ],
+   "traps": [
+    "Ngô Quyền chỉ xưng VƯƠNG (939), chưa xưng hoàng đế; người xưng HOÀNG ĐẾ đầu tiên sau Bắc thuộc là Đinh Bộ Lĩnh (968).",
+    "Ngô Quyền đóng đô ở CỔ LOA, không phải Hoa Lư (Hoa Lư là kinh đô của nhà Đinh)."
+   ],
+   "topic_title": "Nước ta buổi đầu độc lập",
+   "lessons": [
+    {
+     "book": "cũ",
+     "bai": 8
+    }
+   ],
+   "sources": [
+    "https://loigiaihay.com/em-hay-trinh-bay-cong-lao-cua-ngo-quyen-va-dinh-bo-linh-c82a13631.html",
+    "https://baocaobang.vn/-36309.html"
+   ]
+  },
+  {
+   "name": "Loạn 12 sứ quân",
+   "kind": "event",
+   "year": 965,
+   "date_start": "944",
+   "date_end": "967",
+   "place": "miền Bắc Việt Nam",
+   "aliases": [
+    "loạn mười hai sứ quân",
+    "12 sứ quân cát cứ"
+   ],
+   "summary": "Sau khi Ngô Quyền mất (944), chính quyền trung ương suy sụp; đến năm 965 đất nước bị 12 thế lực cát cứ chia cắt, mãi đến cuối 967 mới được Đinh Bộ Lĩnh dẹp yên.",
+   "facts": [
+    "Sau khi Ngô Quyền mất năm 944, triều đình nhà Ngô lục đục; đến năm 965 chính quyền trung ương tan rã, đất nước bị 12 thế lực cát cứ đánh lẫn nhau — sử gọi là \"Loạn 12 sứ quân\".",
+    "Loạn 12 sứ quân làm sản xuất đình trệ, dân chúng cực khổ, trong khi nhà Tống ở phương Bắc đang lăm le xâm lược — đất nước đứng trước nguy cơ mất độc lập.",
+    "Cuối năm 967, Đinh Bộ Lĩnh lần lượt đánh dẹp và thu phục 12 sứ quân, chấm dứt loạn lạc và thống nhất đất nước."
+   ],
+   "traps": [
+    "Loạn 12 sứ quân xảy ra SAU khi Ngô Quyền mất (944-967), không phải trong lúc Ngô Quyền còn trị vì.",
+    "Người dẹp loạn 12 sứ quân là ĐINH BỘ LĨNH, không phải Lê Hoàn."
+   ],
+   "topic_title": "Nước ta buổi đầu độc lập",
+   "lessons": [
+    {
+     "book": "cũ",
+     "bai": 8
+    }
+   ],
+   "sources": [
+    "https://vnexpress.net/dinh-bo-linh-hoang-de-dau-tien-cua-nuoc-dai-co-viet-3748828.html",
+    "https://vi.wikipedia.org/wiki/%C4%90inh_Ti%C3%AAn_Ho%C3%A0ng"
+   ]
+  },
+  {
+   "name": "Đinh Bộ Lĩnh",
+   "kind": "person",
+   "year": null,
+   "date_start": "924",
+   "date_end": "979",
+   "place": "Hoa Lư (Ninh Bình)",
+   "aliases": [
+    "Đinh Tiên Hoàng",
+    "Vạn Thắng Vương",
+    "Đinh Hoàn"
+   ],
+   "summary": "Người dẹp loạn 12 sứ quân, lên ngôi hoàng đế năm 968, đặt tên nước Đại Cồ Việt, đóng đô ở Hoa Lư — hoàng đế đầu tiên của nước ta sau nghìn năm Bắc thuộc.",
+   "facts": [
+    "Đinh Bộ Lĩnh (924-979) quê ở động Hoa Lư (Ninh Bình), thuở nhỏ chăn trâu và bày trò \"cờ lau tập trận\" cùng trẻ trong vùng.",
+    "Nhờ tài thao lược và liên kết với sứ quân Trần Lãm, Đinh Bộ Lĩnh lần lượt dẹp yên 12 sứ quân, thống nhất đất nước vào cuối năm 967 và được tôn là Vạn Thắng Vương.",
+    "Năm 968, Đinh Bộ Lĩnh lên ngôi hoàng đế (Đinh Tiên Hoàng), đặt tên nước là Đại Cồ Việt và đóng đô ở Hoa Lư — ông là hoàng đế đầu tiên của nước ta sau thời Bắc thuộc.",
+    "Năm 970, Đinh Tiên Hoàng đặt niên hiệu riêng là Thái Bình, khẳng định nền độc lập ngang hàng với phong kiến phương Bắc.",
+    "Năm 979, Đinh Tiên Hoàng bị ám hại khiến triều đình rối ren — hoàn cảnh đó dẫn tới việc Lê Hoàn được tôn lên ngôi lập nhà Tiền Lê ngay trước cuộc xâm lược của quân Tống."
+   ],
+   "traps": [
+    "Đinh Bộ Lĩnh xưng HOÀNG ĐẾ (968) — mức khẳng định độc lập cao hơn Ngô Quyền xưng vương (939).",
+    "Tên nước thời Đinh là ĐẠI CỒ VIỆT (968), còn ĐẠI VIỆT là tên đổi năm 1054 thời Lý Thánh Tông."
+   ],
+   "topic_title": "Nước ta buổi đầu độc lập",
+   "lessons": [
+    {
+     "book": "cũ",
+     "bai": 8
+    }
+   ],
+   "sources": [
+    "https://vnexpress.net/dinh-bo-linh-hoang-de-dau-tien-cua-nuoc-dai-co-viet-3748828.html",
+    "https://vi.wikipedia.org/wiki/%C4%90inh_Ti%C3%AAn_Ho%C3%A0ng"
+   ]
+  },
+  {
+   "name": "Nhà Lý thành lập và dời đô ra Thăng Long",
+   "kind": "event",
+   "year": 1010,
+   "date_start": "1009",
+   "date_end": "1054",
+   "place": "Thăng Long (Hà Nội ngày nay)",
+   "actors": [
+    "Lý Công Uẩn (Lý Thái Tổ)",
+    "Lý Thánh Tông"
+   ],
+   "aliases": [
+    "dời đô ra Thăng Long",
+    "Chiếu dời đô",
+    "Thiên đô chiếu",
+    "nhà Lý thành lập"
+   ],
+   "summary": "Cuối năm 1009 Lý Công Uẩn được tôn lên ngôi lập nhà Lý; năm 1010 ông dời đô từ Hoa Lư về Đại La, đổi tên là Thăng Long; năm 1054 nhà Lý đổi tên nước thành Đại Việt.",
+   "facts": [
+    "Cuối năm 1009, vua Lê Long Đĩnh mất, triều thần tôn Lý Công Uẩn — vị quan chỉ huy cấm quân có uy tín — lên ngôi vua, nhà Lý thành lập.",
+    "Năm 1010, Lý Thái Tổ viết \"Chiếu dời đô\", quyết định dời kinh đô từ Hoa Lư (Ninh Bình) về thành Đại La và đổi tên là Thăng Long, vì đây là vùng đất rộng, bằng phẳng, muôn vật tươi tốt, thuận lợi cho sự phát triển lâu dài của đất nước.",
+    "Việc dời đô ra Thăng Long năm 1010 mở đầu thời kỳ phát triển rực rỡ của kinh đô nghìn năm — Thăng Long chính là Hà Nội ngày nay.",
+    "Năm 1054, vua Lý Thánh Tông đổi tên nước từ Đại Cồ Việt thành Đại Việt.",
+    "Nhà Lý xây dựng bộ máy chính quyền do vua đứng đầu, giúp việc có các quan đại thần, cả nước chia thành 24 lộ, phủ."
+   ],
+   "traps": [
+    "Lý Công Uẩn LÊN NGÔI năm 1009 nhưng DỜI ĐÔ năm 1010 — hai mốc dễ lẫn nhau.",
+    "Quốc hiệu ĐẠI VIỆT có từ năm 1054 thời Lý Thánh Tông, không phải có ngay khi dời đô 1010."
+   ],
+   "topic_title": "Nhà Lý đẩy mạnh công cuộc xây dựng đất nước",
+   "lessons": [
+    {
+     "book": "cũ",
+     "bai": 10
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Nh%C3%A0_L%C3%BD",
+    "https://scov.gov.vn/dat-nuoc-con-nguoi/con-nguoi-viet-nam/ly-thai-to-1010-1028-.html"
+   ]
+  },
+  {
+   "name": "Lý Thái Tổ (Lý Công Uẩn)",
+   "kind": "person",
+   "year": null,
+   "date_start": "974",
+   "date_end": "1028",
+   "place": "châu Cổ Pháp (Từ Sơn, Bắc Ninh)",
+   "aliases": [
+    "Lý Công Uẩn",
+    "Lý Thái Tổ",
+    "vua sáng lập nhà Lý"
+   ],
+   "summary": "Vị vua sáng lập nhà Lý (trị vì 1009-1028), học trò của thiền sư Vạn Hạnh, nổi tiếng với quyết định dời đô ra Thăng Long năm 1010.",
+   "facts": [
+    "Lý Công Uẩn (974-1028) người châu Cổ Pháp (nay thuộc Từ Sơn, Bắc Ninh), thuở nhỏ được nuôi dạy trong chùa và là học trò của thiền sư Vạn Hạnh.",
+    "Ông làm quan chỉ huy cấm quân dưới triều Tiền Lê, nổi tiếng đức độ, nên khi Lê Long Đĩnh mất cuối năm 1009 được triều thần tôn lên ngôi vua, trở thành Lý Thái Tổ.",
+    "Lý Thái Tổ trị vì từ năm 1009 đến khi mất năm 1028; công lao nổi bật nhất của ông là dời đô từ Hoa Lư ra Thăng Long năm 1010, đặt nền móng cho kinh đô lâu dài của đất nước."
+   ],
+   "traps": [
+    "Lý Thái Tổ xuất thân gắn với nhà chùa và thiền sư VẠN HẠNH — nền tảng khiến đạo Phật rất được coi trọng thời Lý."
+   ],
+   "topic_title": "Nhà Lý đẩy mạnh công cuộc xây dựng đất nước",
+   "lessons": [
+    {
+     "book": "cũ",
+     "bai": 10
+    }
+   ],
+   "sources": [
+    "https://scov.gov.vn/dat-nuoc-con-nguoi/con-nguoi-viet-nam/ly-thai-to-1010-1028-.html",
+    "https://nguoikesu.com/dong-lich-su/nha-ly/ly-thai-to-ly-cong-uan"
+   ]
+  },
+  {
+   "name": "Bộ luật Hình thư và quân đội thời Lý",
+   "kind": "concept",
+   "year": 1042,
+   "date_start": "1042",
+   "date_end": null,
+   "place": "Đại Việt",
+   "actors": [
+    "Lý Thái Tông"
+   ],
+   "aliases": [
+    "Hình thư",
+    "luật Hình thư 1042",
+    "ngụ binh ư nông",
+    "cấm quân thời Lý"
+   ],
+   "summary": "Năm 1042 nhà Lý ban hành Hình thư — bộ luật thành văn đầu tiên của nước ta; quân đội thời Lý gồm cấm quân và quân địa phương, thi hành chính sách 'ngụ binh ư nông'.",
+   "facts": [
+    "Năm 1042, vua Lý Thái Tông cho ban hành bộ Hình thư — bộ luật thành văn đầu tiên trong lịch sử nước ta.",
+    "Quân đội thời Lý gồm cấm quân bảo vệ vua và kinh thành cùng quân địa phương ở các lộ, phủ.",
+    "Nhà Lý thi hành chính sách \"ngụ binh ư nông\": cho quân sĩ luân phiên về quê cày ruộng, vừa duy trì lực lượng quân đội vừa bảo đảm sản xuất nông nghiệp.",
+    "Để củng cố khối đoàn kết dân tộc, nhà Lý gả công chúa và ban chức tước cho các tù trưởng miền núi, đồng thời giữ quan hệ hòa hiếu với nhà Tống và Cham-pa."
+   ],
+   "traps": [
+    "HÌNH THƯ (1042, thời Lý Thái Tông) là bộ luật thành văn ĐẦU TIÊN của nước ta — đừng nhầm với Quốc triều hình luật của thời Trần hay bộ luật Hồng Đức thời Lê."
+   ],
+   "topic_title": "Nhà Lý đẩy mạnh công cuộc xây dựng đất nước",
+   "lessons": [
+    {
+     "book": "cũ",
+     "bai": 10
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Nh%C3%A0_L%C3%BD",
+    "https://hoc24.vn/cau-hoi/nha-ly-ban-hanh-bo-luat-hinh-thu-vao-nama-1042b-1054c-1070d-1075.4215121630770"
+   ]
+  },
+  {
+   "name": "Văn Miếu và Quốc Tử Giám thời Lý",
+   "kind": "event",
+   "year": 1070,
+   "date_start": "1070",
+   "date_end": "1076",
+   "place": "Thăng Long (Hà Nội)",
+   "actors": [
+    "Lý Thánh Tông",
+    "Lý Nhân Tông"
+   ],
+   "aliases": [
+    "Văn Miếu",
+    "Quốc Tử Giám",
+    "Văn Miếu - Quốc Tử Giám",
+    "khoa thi đầu tiên 1075",
+    "trường đại học đầu tiên của Việt Nam"
+   ],
+   "summary": "Nhà Lý xây Văn Miếu năm 1070, mở khoa thi đầu tiên năm 1075 và lập Quốc Tử Giám năm 1076 — những mốc mở đầu nền giáo dục khoa cử Đại Việt.",
+   "facts": [
+    "Năm 1070, vua Lý Thánh Tông cho xây Văn Miếu ở Thăng Long để thờ Khổng Tử, đồng thời là nơi dạy học cho con vua.",
+    "Năm 1075, nhà Lý dưới thời vua Lý Nhân Tông mở khoa thi đầu tiên trong lịch sử khoa cử nước ta để tuyển chọn quan lại.",
+    "Năm 1076, Quốc Tử Giám được mở bên cạnh Văn Miếu để dạy học cho con em quý tộc — nơi đây được coi là trường đại học đầu tiên của Việt Nam.",
+    "Chuỗi sự kiện 1070-1075-1076 cho thấy nhà Lý bắt đầu dùng Nho học và khoa cử để xây dựng bộ máy nhà nước, dù đạo Phật vẫn giữ vị trí quan trọng nhất trong đời sống tinh thần thời Lý."
+   ],
+   "traps": [
+    "Ba mốc dễ lẫn: Văn Miếu xây 1070 (thờ Khổng Tử), khoa thi đầu tiên 1075, Quốc Tử Giám mở 1076.",
+    "Văn Miếu thời Lý thờ KHỔNG TỬ, không phải thờ Chu Văn An (Chu Văn An là danh nho thời Trần, được thờ về sau)."
+   ],
+   "topic_title": "Đời sống kinh tế, văn hoá",
+   "lessons": [
+    {
+     "book": "cũ",
+     "bai": 12
+    }
+   ],
+   "sources": [
+    "http://vanmieu.gov.vn/vi/di-tich/",
+    "https://hoidisanvanhoa.vn/van-mieu-quoc-tu-giam-ngoi-truong-dai-hoc-dau-tien/",
+    "https://toploigiai.vn/nha-ly-mo-khoa-thi-dau-tien-de-tuyen-chon-quan-lai-vao-nam-nao"
+   ]
+  },
+  {
+   "name": "Kinh tế và văn hóa thời Lý",
+   "kind": "concept",
+   "year": null,
+   "date_start": "1010",
+   "date_end": "1225",
+   "place": "Đại Việt",
+   "aliases": [
+    "lễ cày tịch điền",
+    "chùa Một Cột ~ chùa Diên Hựu",
+    "rồng thời Lý",
+    "múa rối nước"
+   ],
+   "summary": "Thời Lý nông nghiệp được coi trọng (vua tự cày tịch điền), thủ công - thương nghiệp phát triển, đạo Phật hưng thịnh với công trình tiêu biểu là chùa Một Cột (1049).",
+   "facts": [
+    "Nông nghiệp là ngành kinh tế chủ yếu thời Lý; hằng năm vào mùa xuân, vua Lý về các địa phương tự cày mấy đường trong lễ cày tịch điền để khuyến khích nhân dân chăm lo sản xuất.",
+    "Nhà Lý ban hành luật cấm giết mổ trâu bò bừa bãi để bảo vệ sức kéo cho nông nghiệp.",
+    "Thủ công nghiệp thời Lý có nghề dệt, làm gốm, đúc đồng phát triển; việc buôn bán với thuyền buôn nước ngoài diễn ra tấp nập ở vùng cảng Vân Đồn (Quảng Ninh) từ giữa thế kỷ XII.",
+    "Đạo Phật rất hưng thịnh thời Lý: năm 1049, vua Lý Thái Tông cho dựng chùa Một Cột (chùa Diên Hựu) ở Thăng Long với kiến trúc như bông sen nở trên mặt nước.",
+    "Nghệ thuật dân gian như ca hát, múa rối nước phát triển mạnh dưới thời Lý; hình rồng thời Lý mình trơn, uốn khúc mềm mại là hình tượng nghệ thuật độc đáo của giai đoạn này."
+   ],
+   "traps": [
+    "Chùa Một Cột xây năm 1049 thời LÝ THÁI TÔNG — đừng nhầm với Văn Miếu (1070, thời Lý Thánh Tông)."
+   ],
+   "topic_title": "Đời sống kinh tế, văn hoá",
+   "lessons": [
+    {
+     "book": "cũ",
+     "bai": 12
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Ch%C3%B9a_M%E1%BB%99t_C%E1%BB%99t",
+    "https://kiemsat.vn/mua-xuan-vua-di-cay-ruong-tich-dien-49053.html",
+    "https://vi.wikipedia.org/wiki/M%C3%BAa_r%E1%BB%91i_n%C6%B0%E1%BB%9Bc"
+   ]
+  },
+  {
+   "name": "Nhà Trần thành lập",
+   "kind": "event",
+   "year": 1226,
+   "date_start": "1226",
+   "date_end": null,
+   "place": "Thăng Long",
+   "actors": [
+    "Lý Chiêu Hoàng",
+    "Trần Cảnh (Trần Thái Tông)",
+    "Trần Thủ Độ"
+   ],
+   "aliases": [
+    "nhà Trần ra đời",
+    "Lý Chiêu Hoàng nhường ngôi",
+    "Trần Cảnh ~ Trần Thái Tông"
+   ],
+   "summary": "Đầu năm 1226, dưới sự sắp đặt của Trần Thủ Độ, Lý Chiêu Hoàng nhường ngôi cho chồng là Trần Cảnh — nhà Trần thành lập, mở ra thời kỳ phát triển mới của Đại Việt.",
+   "facts": [
+    "Cuối thế kỷ XII - đầu thế kỷ XIII nhà Lý suy yếu; vua Lý Huệ Tông không có con trai nên nhường ngôi cho con gái nhỏ tuổi là Lý Chiêu Hoàng, quyền hành trong triều rơi dần vào tay họ Trần.",
+    "Đầu năm 1226, dưới sự sắp đặt của Trần Thủ Độ, Lý Chiêu Hoàng nhường ngôi cho chồng là Trần Cảnh — nhà Trần thành lập, Trần Cảnh trở thành vua Trần Thái Tông.",
+    "Nhà Trần đặt thêm chế độ Thái thượng hoàng: vua thường sớm nhường ngôi cho con rồi cùng trông coi việc nước — một nét đặc sắc trong tổ chức chính quyền thời Trần.",
+    "Việc nhà Trần thay nhà Lý năm 1226 đã chấm dứt tình trạng triều chính rối ren cuối thời Lý, đưa Đại Việt bước vào thời kỳ ổn định và phát triển mới."
+   ],
+   "traps": [
+    "Lý Chiêu Hoàng nhường ngôi cho TRẦN CẢNH (chồng bà), không phải cho Trần Thủ Độ — Trần Thủ Độ chỉ là người sắp đặt.",
+    "Nhà Trần thành lập năm 1226 (đầu năm), một số tài liệu ghi cuối 1225 theo âm lịch — đáp án chuẩn SGK là 1226."
+   ],
+   "topic_title": "Nước Đại Việt ở thế kỉ XIII",
+   "lessons": [
+    {
+     "book": "cũ",
+     "bai": 13
+    }
+   ],
+   "sources": [
+    "https://loigiaihay.com/nha-tran-duoc-thanh-lap-trong-hoan-canh-nao-c82a13728.html",
+    "https://khoahoc.vietjack.com/question/41181/nha-tran-duoc-thanh-lap-vao-thoi-gian-nao"
+   ]
+  },
+  {
+   "name": "Trần Thủ Độ",
+   "kind": "person",
+   "year": null,
+   "date_start": "1194",
+   "date_end": "1264",
+   "place": "làng Lưu Xá (Hưng Hà, Thái Bình)",
+   "aliases": [
+    "Thái sư Trần Thủ Độ",
+    "Trung Vũ Đại Vương"
+   ],
+   "summary": "Thái sư khai quốc của nhà Trần (1194-1264), người sắp đặt việc Lý Chiêu Hoàng nhường ngôi cho Trần Cảnh và nắm thực quyền điều hành đất nước gần 40 năm đầu triều Trần.",
+   "facts": [
+    "Trần Thủ Độ (1194-1264) quê ở làng Lưu Xá, nay thuộc huyện Hưng Hà, tỉnh Thái Bình.",
+    "Ông là người sắp đặt việc Lý Chiêu Hoàng nhường ngôi cho Trần Cảnh đầu năm 1226, trực tiếp dựng nên triều Trần.",
+    "Giữ chức Thái sư, Trần Thủ Độ nắm thực quyền điều hành đất nước trong khoảng 40 năm đầu triều Trần, củng cố đất nước về chính trị, kinh tế và quân sự.",
+    "Trong cuộc kháng chiến chống quân Mông Cổ năm 1258, ông nổi tiếng với câu nói \"Đầu thần chưa rơi xuống đất, xin bệ hạ đừng lo\" thể hiện ý chí quyết đánh.",
+    "Ông mất năm 1264, được truy tặng tước hiệu Thượng phụ Thái sư Trung Vũ Đại Vương."
+   ],
+   "traps": [
+    "Câu 'Đầu thần chưa rơi xuống đất, xin bệ hạ đừng lo' là của TRẦN THỦ ĐỘ (kháng chiến chống Mông Cổ 1258) — đừng gán cho Trần Hưng Đạo."
+   ],
+   "topic_title": "Nước Đại Việt ở thế kỉ XIII",
+   "lessons": [
+    {
+     "book": "cũ",
+     "bai": 13
+    }
+   ],
+   "sources": [
+    "https://baotanglichsu.vn/vi/Articles/3098/14318/thai-su-tran-thu-djo.html",
+    "https://danviet.vn/thai-su-tran-thu-do-dau-than-chua-roi-xuong-dat-xin-be-ha-dung-lo-d1426741.html"
+   ]
+  },
+  {
+   "name": "Đại Việt thời Trần thế kỷ XIII: pháp luật, quân đội, đê điều",
+   "kind": "concept",
+   "year": 1248,
+   "date_start": "1226",
+   "date_end": null,
+   "place": "Đại Việt",
+   "aliases": [
+    "Quốc triều hình luật thời Trần",
+    "Quốc triều thông chế",
+    "Hà đê sứ",
+    "đê quai vạc",
+    "ngụ binh ư nông thời Trần"
+   ],
+   "summary": "Nhà Trần ở thế kỷ XIII củng cố đất nước bằng pháp luật (Quốc triều hình luật), quân đội tinh nhuệ theo 'ngụ binh ư nông' và hệ thống đê điều với chức Hà đê sứ đặt năm 1248.",
+   "facts": [
+    "Năm 1230, nhà Trần soạn \"Quốc triều thông chế\", về sau bổ sung thành bộ Quốc triều hình luật — pháp luật thời Trần xác nhận quyền tư hữu tài sản và đề cao việc bảo vệ sản xuất nông nghiệp.",
+    "Quân đội thời Trần gồm cấm quân và quân ở các lộ, tuyển theo chính sách \"ngụ binh ư nông\" và theo chủ trương \"quân lính cốt tinh nhuệ, không cốt đông\".",
+    "Năm 1248, nhà Trần đặt chức Hà đê sứ trông coi việc đắp và bảo vệ đê, đồng thời cho đắp hệ thống đê \"quai vạc\" từ đầu nguồn tới cửa biển để ngăn lũ — một bước ngoặt lớn của thủy lợi nước ta.",
+    "Nhờ chăm lo đê điều, khai hoang và khuyến khích sản xuất, nông nghiệp Đại Việt thời Trần nhanh chóng phục hồi và phát triển sau giai đoạn suy thoái cuối triều Lý."
+   ],
+   "traps": [
+    "Chức HÀ ĐÊ SỨ do nhà TRẦN đặt năm 1248, không phải nhà Lý.",
+    "'Quân lính cốt tinh nhuệ, không cốt đông' là chủ trương xây dựng quân đội của nhà TRẦN."
+   ],
+   "topic_title": "Nước Đại Việt ở thế kỉ XIII",
+   "lessons": [
+    {
+     "book": "cũ",
+     "bai": 13
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/N%C3%B4ng_nghi%E1%BB%87p_%C4%90%E1%BA%A1i_Vi%E1%BB%87t_th%E1%BB%9Di_Tr%E1%BA%A7n",
+    "https://c3lehongphonghp.edu.vn/ha-de-su-la-gi-nha-tran-da-lap-ra-chuc-ha-de-su-de-lam-gi/",
+    "https://www.studocu.vn/vn/document/truong-dai-hoc-luat-thanh-pho-ho-chi-minh/lich-su-nha-nuoc-va-phap-luat/nha-nuoc-va-phap-luat-thoi-tran-ho-quy-ly-1225-1407/150736672"
+   ]
+  },
+  {
+   "name": "Văn hóa - giáo dục Đại Việt thời Trần",
+   "kind": "concept",
+   "year": 1272,
+   "date_start": "1226",
+   "date_end": "1400",
+   "place": "Đại Việt",
+   "actors": [
+    "Lê Văn Hưu",
+    "Chu Văn An",
+    "Tuệ Tĩnh"
+   ],
+   "aliases": [
+    "Đại Việt sử ký",
+    "Lê Văn Hưu",
+    "thuốc Nam Tuệ Tĩnh",
+    "chữ Nôm thời Trần"
+   ],
+   "summary": "Thời Trần văn hóa - giáo dục phát triển rực rỡ: bộ chính sử đầu tiên Đại Việt sử ký (1272), thầy giáo Chu Văn An, thầy thuốc Tuệ Tĩnh và văn học chữ Nôm.",
+   "facts": [
+    "Năm 1272, Lê Văn Hưu hoàn thành bộ \"Đại Việt sử ký\" gồm 30 quyển — bộ chính sử đầu tiên của nước ta; ông được tôn là ông tổ của nền sử học Việt Nam.",
+    "Giáo dục thời Trần mở rộng với Quốc Tử Giám và trường học ở các lộ, phủ; thầy giáo Chu Văn An nổi tiếng nghiêm nghị, thanh liêm từng dạy học ở Quốc Tử Giám.",
+    "Chữ Nôm bắt đầu được dùng để sáng tác văn học thời Trần, phản ánh ý thức dân tộc ngày càng cao.",
+    "Thầy thuốc Tuệ Tĩnh thời Trần xây dựng nền y học cổ truyền dân tộc với phương châm dùng thuốc Nam chữa bệnh cho người Nam.",
+    "Thời Trần, đạo Phật và Nho giáo cùng phát triển, trong đó Nho giáo ngày càng được trọng dụng vì nhu cầu xây dựng bộ máy nhà nước."
+   ],
+   "traps": [
+    "'Đại Việt sử ký' (1272) của LÊ VĂN HƯU là bộ chính sử ĐẦU TIÊN — đừng nhầm với 'Đại Việt sử ký toàn thư' của Ngô Sĩ Liên thời Lê sau này."
+   ],
+   "topic_title": "Sự phát triển kinh tế và văn hoá thời Trần",
+   "lessons": [
+    {
+     "book": "cũ",
+     "bai": 15
+    }
+   ],
+   "sources": [
+    "https://vov2.vov.vn/van-hoa-giai-tri/le-van-huu-vi-su-gia-dau-tien-cua-nuoc-dai-viet-24621.vov2",
+    "https://vov2.vov.vn/van-hoa-giai-tri/le-van-huu-ong-to-nen-su-hoc-viet-nam-54972.vov2"
+   ]
+  },
+  {
+   "name": "Nguyễn Hiền",
+   "kind": "person",
+   "year": null,
+   "date_start": "1234",
+   "date_end": "1255",
+   "place": "làng Dương A, huyện Thượng Hiền (nay thuộc Nam Trực, Nam Định)",
+   "actors": [
+    "Nguyễn Hiền",
+    "Trần Thái Tông"
+   ],
+   "aliases": [
+    "Trạng nguyên Nguyễn Hiền",
+    "Khai quốc Trạng nguyên",
+    "trạng nguyên trẻ nhất Việt Nam",
+    "trạng nguyên 13 tuổi"
+   ],
+   "summary": "Trạng nguyên trẻ nhất lịch sử khoa bảng Việt Nam: đỗ trạng nguyên năm 1247 khi mới 13 tuổi dưới thời vua Trần Thái Tông.",
+   "facts": [
+    "Nguyễn Hiền (1234-1255) quê ở làng Dương A, huyện Thượng Hiền — nay thuộc xã Nam Thắng, huyện Nam Trực, tỉnh Nam Định.",
+    "Tại khoa thi năm 1247 dưới thời vua Trần Thái Tông, Nguyễn Hiền đỗ trạng nguyên khi mới 13 tuổi — trạng nguyên trẻ nhất trong lịch sử khoa cử Việt Nam, được phong là \"Khai quốc Trạng nguyên\".",
+    "Khoa thi 1247 là khoa đầu tiên đặt danh hiệu tam khôi (trạng nguyên - bảng nhãn - thám hoa); cùng khoa này, sử gia Lê Văn Hưu đỗ bảng nhãn.",
+    "Vì đỗ trạng khi còn quá nhỏ, Nguyễn Hiền được vua cho về quê ba năm tu dưỡng thêm rồi mới gọi ra làm quan.",
+    "Nguyễn Hiền mất sớm năm 1255 khi mới 21 tuổi; ngày nay đền thờ ông vẫn còn ở quê nhà Nam Trực, Nam Định."
+   ],
+   "traps": [
+    "Trạng nguyên trẻ nhất lịch sử khoa bảng Việt Nam là NGUYỄN HIỀN (đỗ năm 1247, 13 tuổi, thời Trần Thái Tông) — 'Nguyễn Minh Sát' là tên bịa, KHÔNG có thật trong lịch sử.",
+    "Nguyễn Hiền đỗ trạng thời TRẦN Thái Tông (1247), không phải thời Lý hay thời Lê."
+   ],
+   "topic_title": "Sự phát triển kinh tế và văn hoá thời Trần",
+   "lessons": [
+    {
+     "book": "cũ",
+     "bai": 15
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Nguy%E1%BB%85n_Hi%E1%BB%81n",
+    "https://danviet.vn/trang-nguyen-13-tuoi-va-giai-thoai-nan-voi-biet-di-7777793481-d542055.html",
+    "https://baoninhbinh.org.vn/den-tho-trang-nguyen-nguyen-hien-noi-gin-giu-va-lan-toa-truyen-thong-hieu-hoc-260322085052696.html"
+   ]
+  },
+  {
+   "name": "Sự suy sụp của nhà Trần cuối thế kỷ XIV",
+   "kind": "period",
+   "year": null,
+   "date_start": "nửa sau thế kỷ XIV",
+   "date_end": "1400",
+   "place": "Đại Việt",
+   "actors": [
+    "Chu Văn An",
+    "Ngô Bệ",
+    "Phạm Sư Ôn",
+    "Chế Bồng Nga"
+   ],
+   "aliases": [
+    "nhà Trần suy yếu",
+    "Thất trảm sớ",
+    "khởi nghĩa nông dân nô tì cuối thời Trần"
+   ],
+   "summary": "Nửa sau thế kỷ XIV vua quan nhà Trần sa đọa, đời sống nhân dân cực khổ dẫn đến hàng loạt khởi nghĩa nông dân, nô tì; triều Trần suy yếu toàn diện trước khi bị Hồ Quý Ly thay thế năm 1400.",
+   "facts": [
+    "Từ nửa sau thế kỷ XIV, vua quan nhà Trần ăn chơi sa đọa, kỷ cương lỏng lẻo, lại thêm mất mùa đói kém liên tiếp khiến đời sống nông dân và nô tì vô cùng cực khổ.",
+    "Thầy giáo Chu Văn An dâng \"Thất trảm sớ\" xin vua Trần Dụ Tông chém 7 tên nịnh thần nhưng không được chấp thuận, ông liền cáo quan về quê dạy học — bằng chứng cho thấy triều chính đã mục nát.",
+    "Vì bị bóc lột nặng nề, nông dân và nô tì nổi dậy khắp nơi: khởi nghĩa Ngô Bệ ở Hải Dương (bắt đầu năm 1344), khởi nghĩa Nguyễn Thanh - Nguyễn Kỵ ở Thanh Hóa (1379), khởi nghĩa nhà sư Phạm Sư Ôn ở Quốc Oai (1390) từng đánh chiếm Thăng Long trong ba ngày.",
+    "Bên ngoài, quân Cham-pa dưới thời Chế Bồng Nga nhiều lần tấn công ra tận Thăng Long, còn nhà Minh đưa yêu sách ngang ngược mà nhà Trần đều bất lực.",
+    "Chính sự suy sụp toàn diện của nhà Trần cuối thế kỷ XIV là nguyên nhân trực tiếp dẫn đến việc Hồ Quý Ly phế truất vua Trần, lập ra nhà Hồ năm 1400."
+   ],
+   "traps": [
+    "'Thất trảm sớ' là của CHU VĂN AN xin chém 7 nịnh thần thời Trần Dụ Tông — không phải của Nguyễn Trãi hay ai khác.",
+    "Khởi nghĩa Phạm Sư Ôn (1390) do một NHÀ SƯ lãnh đạo và từng chiếm Thăng Long ba ngày — đừng nhầm với khởi nghĩa Ngô Bệ (1344, Hải Dương)."
+   ],
+   "topic_title": "Sự suy sụp của nhà Trần cuối thế kỉ XIV",
+   "lessons": [
+    {
+     "book": "cũ",
+     "bai": 16
+    }
+   ],
+   "sources": [
+    "https://loigiaihay.com/cac-cuoc-khoi-nghia-cua-nong-dan-no-ti-chong-lai-nha-tran-vao-nua-sau-the-ki-xiv-c82a13800.html",
+    "https://suretest.vn/cung-co/bai-16-su-suy-sup-cua-nha-tran-cuoi-the-ki-xiv-4954.html"
+   ]
+  },
+  {
+   "name": "Hồ Quý Ly và cải cách",
+   "kind": "person",
+   "year": null,
+   "date_start": "1336",
+   "date_end": "1407",
+   "place": "Thanh Hóa",
+   "aliases": [
+    "Lê Quý Ly",
+    "nhà Hồ",
+    "Đại Ngu",
+    "thành Tây Đô ~ thành nhà Hồ",
+    "hạn điền hạn nô"
+   ],
+   "summary": "Đại thần cuối triều Trần (1336-1407), người phế Trần lập nhà Hồ năm 1400, đổi quốc hiệu Đại Ngu và tiến hành nhiều cải cách táo bạo như hạn điền, hạn nô, tiền giấy.",
+   "facts": [
+    "Hồ Quý Ly (1336-1407) quê gốc ở vùng Thanh Hóa ngày nay, vốn mang tên Lê Quý Ly, là đại thần nắm quyền lực cao nhất trong triều đình cuối thời Trần.",
+    "Năm 1396, ông cho phát hành tiền giấy \"Thông bảo hội sao\" — lần đầu tiên trong lịch sử nước ta tiền giấy được dùng thay tiền đồng.",
+    "Năm 1397, ông cho xây thành Tây Đô (thành nhà Hồ ở Vĩnh Lộc, Thanh Hóa) rồi ép vua Trần dời đô từ Thăng Long về đó.",
+    "Tháng 2 năm 1400, Hồ Quý Ly phế truất vua Trần, lên ngôi lập ra nhà Hồ và đổi quốc hiệu thành Đại Ngu — nghĩa là \"niềm vui, sự an lành lớn\".",
+    "Cải cách của Hồ Quý Ly gồm chính sách hạn điền (hạn chế ruộng đất tư), hạn nô (hạn chế số nô tì), phát hành tiền giấy, chấn chỉnh thuế khóa và việc học hành thi cử — táo bạo nhưng thực hiện gấp gáp nên chưa hợp lòng dân.",
+    "Vì cướp ngôi nhà Trần và cải cách chưa được lòng dân, nhà Hồ không huy động được sức mạnh toàn dân khi quân Minh xâm lược, dẫn đến thất bại nhanh chóng năm 1407."
+   ],
+   "traps": [
+    "Quốc hiệu thời nhà Hồ là ĐẠI NGU, nghĩa là 'niềm vui lớn, an lành lớn' — không phải nghĩa xấu như cách hiểu hiện đại của từ 'ngu'.",
+    "Tiền giấy phát hành năm 1396 khi trên danh nghĩa vẫn là triều Trần, nhưng người quyết định là Hồ Quý Ly."
+   ],
+   "topic_title": "Sự suy sụp của nhà Trần cuối thế kỉ XIV",
+   "lessons": [
+    {
+     "book": "cũ",
+     "bai": 16
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Nh%C3%A0_H%E1%BB%93",
+    "https://scov.gov.vn/dat-nuoc-con-nguoi/con-nguoi-viet-nam/ho-quy-ly.html",
+    "https://thuvienlichsu.com/nhan-vat/ho-quy-ly-10"
+   ]
+  },
+  {
+   "name": "Quân Minh xâm lược và kháng chiến của nhà Hồ",
+   "kind": "event",
+   "year": 1407,
+   "date_start": "11/1406",
+   "date_end": "6/1407",
+   "place": "Đại Ngu (Đại Việt)",
+   "actors": [
+    "Hồ Quý Ly",
+    "Hồ Nguyên Trừng",
+    "Trương Phụ",
+    "Mộc Thạnh"
+   ],
+   "aliases": [
+    "kháng chiến chống quân Minh của nhà Hồ",
+    "Minh xâm lược 1406",
+    "thành Đa Bang"
+   ],
+   "summary": "Tháng 11/1406 quân Minh lấy cớ 'phù Trần diệt Hồ' tràn vào xâm lược; đến tháng 6/1407 cha con Hồ Quý Ly bị bắt, kháng chiến thất bại vì nhà Hồ không dựa được vào dân.",
+   "facts": [
+    "Tháng 11 năm 1406, lấy cớ \"phù Trần diệt Hồ\", nhà Minh huy động khoảng 20 vạn quân cùng hàng chục vạn dân phu do các tướng Trương Phụ, Mộc Thạnh chỉ huy tràn vào xâm lược nước ta.",
+    "Quân nhà Hồ lui về cố thủ ở thành Đa Bang rồi thành Tây Đô nhưng liên tiếp thất bại trước quân Minh.",
+    "Tháng 6 năm 1407, cha con Hồ Quý Ly bị quân Minh bắt đưa về Trung Quốc — cuộc kháng chiến của nhà Hồ hoàn toàn thất bại, nhà Hồ sụp đổ chỉ sau 7 năm tồn tại (1400-1407).",
+    "Nguyên nhân thất bại chủ yếu là nhà Hồ không đoàn kết được toàn dân đánh giặc mà chỉ dựa vào quân đội và thành lũy, đúng như lời Hồ Nguyên Trừng: \"Thần không sợ đánh, chỉ sợ lòng dân không theo\".",
+    "Sau khi chiếm được nước ta năm 1407, nhà Minh xóa bỏ quốc hiệu, sáp nhập nước ta thành quận Giao Chỉ và thi hành chính sách đô hộ, bóc lột, đồng hóa tàn bạo."
+   ],
+   "traps": [
+    "Quân Minh xâm lược cuối năm 1406, nhà Hồ sụp đổ giữa năm 1407 — nhà Hồ là triều đại rất ngắn, chỉ 7 năm (1400-1407).",
+    "Kháng chiến của nhà Hồ thất bại chủ yếu vì KHÔNG ĐƯỢC LÒNG DÂN, không phải vì thiếu vũ khí hay thành lũy."
+   ],
+   "topic_title": "Cuộc kháng chiến của nhà Hồ và phong trào khởi nghĩa chống quân Minh đầu thế kỉ XV",
+   "lessons": [
+    {
+     "book": "cũ",
+     "bai": 18
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_tranh_Minh_%E2%80%93_Vi%E1%BB%87t_(1407%E2%80%931414)",
+    "https://toploigiai.vn/nguyen-nhan-chu-yeu-khien-cho-cuoc-khang-chien-chong-quan-xam-luoc-minh-cua-nha-ho-nam-1407-that-bai"
+   ]
+  },
+  {
+   "name": "Khởi nghĩa Trần Ngỗi",
+   "kind": "event",
+   "year": 1407,
+   "date_start": "10/1407",
+   "date_end": "1409",
+   "place": "Ninh Bình - Nghệ An - Nam Định",
+   "actors": [
+    "Trần Ngỗi",
+    "Đặng Tất",
+    "Nguyễn Cảnh Chân"
+   ],
+   "aliases": [
+    "Giản Định hoàng đế",
+    "khởi nghĩa Giản Định",
+    "trận Bô Cô"
+   ],
+   "summary": "Cuộc khởi nghĩa chống quân Minh do tôn thất nhà Trần là Trần Ngỗi (Giản Định hoàng đế) lãnh đạo 1407-1409, nổi bật với chiến thắng Bô Cô cuối năm 1408.",
+   "facts": [
+    "Tháng 10 năm 1407, Trần Ngỗi — một tôn thất nhà Trần — xưng là Giản Định hoàng đế, dựng cờ khởi nghĩa chống quân Minh, sau đó kéo vào Nghệ An xây dựng lực lượng.",
+    "Được hai tướng Đặng Tất và Nguyễn Cảnh Chân phò tá, cuối năm 1408 nghĩa quân đánh tan khoảng 4 vạn quân Minh trong trận Bô Cô (Nam Định) — chiến thắng vang dội nhất của phong trào khởi nghĩa đầu thế kỷ XV.",
+    "Sau chiến thắng Bô Cô, Trần Ngỗi nghe lời gièm pha giết hại hai tướng giỏi Đặng Tất và Nguyễn Cảnh Chân, khiến nội bộ tan rã và khởi nghĩa suy yếu rồi thất bại năm 1409."
+   ],
+   "traps": [
+    "Trận BÔ CÔ (cuối 1408, Nam Định) thuộc khởi nghĩa TRẦN NGỖI, không phải khởi nghĩa Trần Quý Khoáng.",
+    "Khởi nghĩa suy yếu vì Trần Ngỗi TỰ giết hại tướng giỏi Đặng Tất, Nguyễn Cảnh Chân — nguyên nhân từ nội bộ, không phải do thua trận Bô Cô."
+   ],
+   "topic_title": "Cuộc kháng chiến của nhà Hồ và phong trào khởi nghĩa chống quân Minh đầu thế kỉ XV",
+   "lessons": [
+    {
+     "book": "cũ",
+     "bai": 18
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_tranh_Minh_%E2%80%93_Vi%E1%BB%87t_(1407%E2%80%931414)",
+    "https://diepdoan.violet.vn/entry/cuoc-xam-luoc-va-do-ho-cua-nha-minh-1407-1427-472337.html"
+   ]
+  },
+  {
+   "name": "Khởi nghĩa Trần Quý Khoáng",
+   "kind": "event",
+   "year": 1409,
+   "date_start": "1409",
+   "date_end": "1414",
+   "place": "từ Thanh Hóa đến Thuận Hóa",
+   "actors": [
+    "Trần Quý Khoáng",
+    "Đặng Dung",
+    "Nguyễn Cảnh Dị"
+   ],
+   "aliases": [
+    "Trùng Quang đế",
+    "khởi nghĩa Trùng Quang",
+    "Trần Quý Khoách"
+   ],
+   "summary": "Cuộc khởi nghĩa chống Minh 1409-1414 do Trần Quý Khoáng (Trùng Quang đế) lãnh đạo với các tướng Đặng Dung, Nguyễn Cảnh Dị — cuộc khởi nghĩa lớn cuối cùng của quý tộc nhà Trần.",
+   "facts": [
+    "Năm 1409, Đặng Dung (con Đặng Tất) và Nguyễn Cảnh Dị (con Nguyễn Cảnh Chân) tôn Trần Quý Khoáng — cháu vua Trần Nghệ Tông — lên ngôi, lấy hiệu Trùng Quang đế, tiếp tục cuộc kháng chiến chống quân Minh.",
+    "Nghĩa quân Trùng Quang hoạt động trên địa bàn rộng từ Thanh Hóa vào đến Thuận Hóa, nhưng thế lực ngày càng suy yếu trước quân Minh đông và mạnh hơn.",
+    "Năm 1414, khởi nghĩa thất bại, Trần Quý Khoáng cùng các tướng bị bắt — phong trào khởi nghĩa của quý tộc nhà Trần chống quân Minh chấm dứt.",
+    "Các cuộc khởi nghĩa đầu thế kỷ XV tuy thất bại vì thiếu đường lối đúng đắn và thiếu đoàn kết, nhưng đã nuôi dưỡng tinh thần chống quân Minh, chuẩn bị cho thắng lợi của khởi nghĩa Lam Sơn sau này."
+   ],
+   "traps": [
+    "Cặp tướng của Trần Quý Khoáng là ĐẶNG DUNG và NGUYỄN CẢNH DỊ (đời con) — đừng nhầm với Đặng Tất, Nguyễn Cảnh Chân (đời cha, theo Trần Ngỗi)."
+   ],
+   "topic_title": "Cuộc kháng chiến của nhà Hồ và phong trào khởi nghĩa chống quân Minh đầu thế kỉ XV",
+   "lessons": [
+    {
+     "book": "cũ",
+     "bai": 18
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_tranh_Minh_%E2%80%93_Vi%E1%BB%87t_(1407%E2%80%931414)",
+    "https://diepdoan.violet.vn/entry/cuoc-xam-luoc-va-do-ho-cua-nha-minh-1407-1427-472337.html"
+   ]
+  }
+ ]
+}

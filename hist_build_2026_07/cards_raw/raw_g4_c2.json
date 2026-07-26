@@ -1,0 +1,736 @@
+{
+ "grade": 4,
+ "chunk": 2,
+ "cards": [
+  {
+   "name": "Kinh thành Huế",
+   "kind": "place",
+   "summary": "Toà thành kinh đô của triều Nguyễn bên bờ sông Hương, xây gần 30 năm (1805-1832), nay thuộc Quần thể di tích Cố đô Huế — di sản thế giới đầu tiên của Việt Nam.",
+   "topic_title": "Kinh thành Huế",
+   "year": 1805,
+   "date_start": "1805",
+   "date_end": "1832",
+   "place": "Huế (bên bờ sông Hương)",
+   "actors": [
+    "Gia Long",
+    "Minh Mạng"
+   ],
+   "facts": [
+    "Kinh thành Huế được vua Gia Long cho khởi công xây dựng từ năm 1805 và cơ bản hoàn thành năm 1832 dưới thời vua Minh Mạng, tức là kéo dài gần 30 năm qua hai đời vua.",
+    "Kinh thành nằm bên bờ sông Hương ở Huế, là nơi đóng đô của triều Nguyễn — triều đại phong kiến cuối cùng của nước ta — từ năm 1802 đến năm 1945.",
+    "Kinh thành gồm ba vòng thành từ ngoài vào trong: Kinh thành, Hoàng thành và Tử Cấm thành — nơi ở và làm việc của vua cùng gia đình.",
+    "Ngọ Môn là cửa chính phía nam của Hoàng thành, còn điện Thái Hoà là nơi triều đình tổ chức các đại lễ quan trọng như lễ lên ngôi của vua.",
+    "Vì được xây bằng công sức của hàng vạn dân phu và binh lính suốt gần 30 năm, Kinh thành Huế thể hiện tài năng và sức lao động to lớn của nhân dân ta.",
+    "Ngày 11/12/1993, UNESCO công nhận Quần thể di tích Cố đô Huế là Di sản Văn hoá Thế giới — đây là di sản thế giới đầu tiên của Việt Nam được công nhận."
+   ],
+   "traps": [
+    "Người cho khởi công xây Kinh thành Huế năm 1805 là vua GIA LONG; Minh Mạng chỉ là vua cho hoàn thành vào năm 1832 — đừng nói Minh Mạng khởi công.",
+    "UNESCO công nhận năm 1993 là cả 'Quần thể di tích Cố đô Huế' (gồm kinh thành, lăng tẩm...), không phải riêng Kinh thành Huế.",
+    "Vua trị vì ngắn nhất triều Nguyễn (và ngắn nhất lịch sử Việt Nam) là DỤC ĐỨC — chỉ 3 ngày tháng 7/1883 — KHÔNG phải Lê Hiến Tông."
+   ],
+   "aliases": [
+    "Cố đô Huế",
+    "Đại Nội Huế",
+    "kinh đô Huế",
+    "Quần thể di tích Cố đô Huế",
+    "Phú Xuân"
+   ],
+   "lessons": [
+    {
+     "book": "Sách cũ",
+     "bai": 28
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Kinh_th%C3%A0nh_Hu%E1%BA%BF",
+    "https://vietnamtourism.gov.vn/post/19115",
+    "https://vi.wikipedia.org/wiki/Qu%E1%BA%A7n_th%E1%BB%83_di_t%C3%ADch_C%E1%BB%91_%C4%91%C3%B4_Hu%E1%BA%BF"
+   ]
+  },
+  {
+   "name": "Dục Đức",
+   "kind": "person",
+   "summary": "Vị vua thứ năm của triều Nguyễn, chỉ trị vì 3 ngày trong tháng 7/1883 rồi bị phế truất — vua có thời gian ở ngôi ngắn nhất lịch sử Việt Nam.",
+   "topic_title": "Kinh thành Huế",
+   "year": null,
+   "date_start": "1852",
+   "date_end": "1883",
+   "place": "Huế",
+   "actors": [
+    "Dục Đức",
+    "Tự Đức",
+    "Tôn Thất Thuyết",
+    "Nguyễn Văn Tường"
+   ],
+   "facts": [
+    "Dục Đức tên thật là Nguyễn Phúc Ưng Chân (1852-1883), là vị vua thứ năm của triều Nguyễn.",
+    "Ông lên ngôi tháng 7/1883 sau khi vua Tự Đức mất, nhưng chỉ ở ngôi được 3 ngày (từ 20 đến 23/7/1883) thì bị hai phụ chính đại thần Tôn Thất Thuyết và Nguyễn Văn Tường phế truất.",
+    "Vì bị phế truất chỉ sau 3 ngày, Dục Đức trở thành vua có thời gian trị vì ngắn nhất triều Nguyễn và cũng ngắn nhất trong lịch sử các triều đại Việt Nam.",
+    "Sau khi bị phế, ông bị giam giữ, bị bỏ đói và qua đời cuối năm 1883 khi mới 32 tuổi — một trong những số phận bi thảm nhất của 13 vua triều Nguyễn."
+   ],
+   "traps": [
+    "Hỏi 'vua trị vì ngắn nhất triều Nguyễn / ngắn nhất lịch sử Việt Nam' thì đáp án đúng là DỤC ĐỨC (3 ngày, năm 1883); trả lời 'Lê Hiến Tông' là SAI.",
+    "Dục Đức bị phế bởi hai phụ chính đại thần Tôn Thất Thuyết và Nguyễn Văn Tường, không phải bị người Pháp phế."
+   ],
+   "aliases": [
+    "Nguyễn Phúc Ưng Chân",
+    "Ưng Chân",
+    "vua Dục Đức"
+   ],
+   "lessons": [
+    {
+     "book": "Sách cũ",
+     "bai": 28
+    }
+   ],
+   "sources": [
+    "https://vtcnews.vn/vi-vua-tai-vi-ngan-nhat-lich-su-trieu-nguyen-bi-bo-doi-den-chet-do-la-ai-ar748981.html",
+    "https://danviet.vn/vi-vua-nao-cua-trieu-nguyen-co-so-phan-bi-tham-tri-vi-chi-3-ngay-20230119175125763.htm"
+   ]
+  },
+  {
+   "name": "Phương tiện học tập môn Lịch sử và Địa lí",
+   "kind": "concept",
+   "summary": "Các công cụ giúp học sinh lớp 4 học môn Lịch sử và Địa lí: bản đồ, lược đồ, biểu đồ, bảng số liệu, tranh ảnh, hiện vật và trục thời gian.",
+   "topic_title": "Làm quen với phương tiện học tập môn Lịch sử và Địa lí",
+   "year": null,
+   "date_start": null,
+   "date_end": null,
+   "place": null,
+   "actors": [],
+   "facts": [
+    "Các phương tiện học tập chính của môn Lịch sử và Địa lí lớp 4 gồm: bản đồ, lược đồ, biểu đồ, bảng số liệu, tranh ảnh, hiện vật và trục thời gian.",
+    "Bản đồ là hình vẽ thu nhỏ một khu vực hay toàn bộ bề mặt Trái Đất theo một tỉ lệ nhất định, còn lược đồ là bản đồ đơn giản hoá, chỉ giữ lại những yếu tố cần cho bài học.",
+    "Muốn đọc bản đồ hay lược đồ, em cần đọc tên, xem bảng chú giải để hiểu các kí hiệu, rồi xác định phương hướng: phía trên là bắc, phía dưới là nam, bên phải là đông, bên trái là tây.",
+    "Trục thời gian giúp em sắp xếp các sự kiện lịch sử theo đúng thứ tự trước - sau, ví dụ đặt năm 1010 (dời đô ra Thăng Long) trước năm 1802 (nhà Nguyễn thành lập).",
+    "Hiện vật (như trống đồng, công cụ bằng đá) và tranh ảnh là những tư liệu trực quan giúp em hình dung cuộc sống của người xưa."
+   ],
+   "traps": [
+    "Bản đồ và lược đồ khác nhau: lược đồ đơn giản hơn, chỉ thể hiện các yếu tố cần thiết cho bài học, không đầy đủ và chính xác bằng bản đồ."
+   ],
+   "aliases": [
+    "công cụ học tập Lịch sử và Địa lí",
+    "bản đồ lược đồ biểu đồ",
+    "trục thời gian"
+   ],
+   "lessons": [
+    {
+     "book": "CTST",
+     "bai": 1
+    },
+    {
+     "book": "KNTT",
+     "bai": 1
+    },
+    {
+     "book": "Cánh diều",
+     "bai": 1
+    }
+   ],
+   "sources": [
+    "https://vietjack.com/lich-su-va-dia-li-4-kn/bai-1-lam-quen-voi-phuong-tien-hoc-tap-mon-lich-su.jsp"
+   ]
+  },
+  {
+   "name": "Tìm hiểu thiên nhiên và con người ở địa phương em",
+   "kind": "concept",
+   "summary": "Bài học thực hành hướng dẫn học sinh tìm hiểu vị trí, tự nhiên và hoạt động kinh tế của tỉnh, thành phố nơi mình sống.",
+   "topic_title": "Thiên nhiên và con người địa phương",
+   "year": null,
+   "date_start": null,
+   "date_end": null,
+   "place": null,
+   "actors": [],
+   "facts": [
+    "Bài học hướng dẫn em xác định vị trí của địa phương mình (tỉnh, thành phố) trên bản đồ hành chính Việt Nam.",
+    "Em tập mô tả những nét chính về tự nhiên của địa phương như địa hình, khí hậu, sông hồ và cảnh đẹp tiêu biểu.",
+    "Em tìm hiểu các hoạt động kinh tế chính của người dân địa phương: trồng trọt, chăn nuôi, làm nghề thủ công, công nghiệp hay dịch vụ.",
+    "Cách tìm hiểu địa phương là quan sát thực tế xung quanh, hỏi người thân, và đọc sách báo, tài liệu về quê hương mình."
+   ],
+   "traps": [
+    "Nội dung bài này thay đổi theo từng tỉnh, thành phố — không có một đáp án chung cho cả nước, em phải lấy thông tin từ chính địa phương mình."
+   ],
+   "aliases": [
+    "thiên nhiên và con người địa phương em",
+    "địa phương em",
+    "quê hương em"
+   ],
+   "lessons": [
+    {
+     "book": "CTST",
+     "bai": 2
+    },
+    {
+     "book": "KNTT",
+     "bai": 2
+    }
+   ],
+   "sources": [
+    "https://www.vietjack.com/lich-su-va-dia-li-4-kn/bai-2-thien-nhien-va-con-nguoi-dia-phuong-em.jsp"
+   ]
+  },
+  {
+   "name": "Lịch sử và văn hoá truyền thống địa phương",
+   "kind": "concept",
+   "summary": "Bài học thực hành hướng dẫn học sinh tìm hiểu danh nhân, di tích và nét văn hoá truyền thống của quê hương mình.",
+   "topic_title": "Lịch sử và văn hoá truyền thống địa phương",
+   "year": null,
+   "date_start": null,
+   "date_end": null,
+   "place": null,
+   "actors": [],
+   "facts": [
+    "Bài học hướng dẫn em tìm hiểu về danh nhân tiêu biểu và các di tích lịch sử - văn hoá của tỉnh, thành phố nơi em sống.",
+    "Văn hoá truyền thống của địa phương gồm lễ hội, món ăn đặc sản, trang phục và các nghề thủ công truyền thống.",
+    "Em có thể tìm hiểu bằng cách tham quan di tích, bảo tàng, hỏi chuyện ông bà, người lớn tuổi và đọc tài liệu về địa phương.",
+    "Tìm hiểu lịch sử, văn hoá quê hương giúp em biết ơn các thế hệ đi trước và có ý thức giữ gìn, quảng bá di sản của quê mình."
+   ],
+   "traps": [
+    "Danh nhân và di tích trong bài này là của riêng từng địa phương — không nên lấy ví dụ ở tỉnh khác gán cho quê mình."
+   ],
+   "aliases": [
+    "lịch sử và văn hoá truyền thống địa phương em",
+    "di tích lịch sử địa phương",
+    "danh nhân quê hương"
+   ],
+   "lessons": [
+    {
+     "book": "CTST",
+     "bai": 3
+    },
+    {
+     "book": "KNTT",
+     "bai": 3
+    }
+   ],
+   "sources": [
+    "https://vietjack.com/lich-su-va-dia-li-4-kn/index.jsp",
+    "https://vietjack.com/lich-su-va-dia-li-4-cd/bai-2-dia-phuong-em.jsp"
+   ]
+  },
+  {
+   "name": "Vùng Trung du và miền núi Bắc Bộ",
+   "kind": "place",
+   "summary": "Vùng đất cao nhất cả nước ở phía bắc Việt Nam, có dãy Hoàng Liên Sơn với đỉnh Phan-xi-păng 3.143 m và mùa đông lạnh nhất nước ta.",
+   "topic_title": "Thiên nhiên vùng Trung du và miền núi Bắc Bộ",
+   "year": null,
+   "date_start": null,
+   "date_end": null,
+   "place": "phía bắc Việt Nam",
+   "actors": [],
+   "facts": [
+    "Vùng Trung du và miền núi Bắc Bộ nằm ở phía bắc nước ta, có địa hình cao nhất cả nước với nhiều dãy núi, cao nguyên và các đồi trung du dạng bát úp.",
+    "Dãy Hoàng Liên Sơn là dãy núi đồ sộ nhất Việt Nam, có đỉnh Phan-xi-păng cao 3.143 m thuộc tỉnh Lào Cai — đỉnh núi cao nhất nước ta, được gọi là 'nóc nhà Đông Dương'.",
+    "Vùng có khí hậu nhiệt đới ẩm gió mùa với mùa đông lạnh nhất cả nước; ở vùng núi cao như Sa Pa, mùa đông có khi xuất hiện băng tuyết.",
+    "Nhiều sông lớn chảy qua vùng như sông Hồng, sông Đà, sông Lô; vì sông dốc, nhiều thác ghềnh nên vùng có tiềm năng thuỷ điện lớn nhất nước ta."
+   ],
+   "traps": [
+    "Phan-xi-păng cao 3.143 m là đỉnh núi cao nhất Việt Nam và cả ba nước Đông Dương, nằm ở Lào Cai — không phải ở Hà Giang hay Sơn La.",
+    "'Nóc nhà Đông Dương' chỉ đỉnh Phan-xi-păng, còn 'nóc nhà thế giới' là cách gọi đỉnh Ê-vơ-rét — đừng lẫn hai biệt danh."
+   ],
+   "aliases": [
+    "Trung du và miền núi Bắc Bộ",
+    "Trung du và miền núi phía Bắc",
+    "vùng núi phía Bắc",
+    "TDMNBB"
+   ],
+   "lessons": [
+    {
+     "book": "CTST",
+     "bai": 4
+    },
+    {
+     "book": "KNTT",
+     "bai": 4
+    },
+    {
+     "book": "Cánh diều",
+     "bai": 3
+    }
+   ],
+   "sources": [
+    "https://vietjack.com/lich-su-va-dia-li-4-kn/bai-4-thien-nhien-vung-trung-du-va-mien-nui-bac-bo.jsp",
+    "https://en.wikipedia.org/wiki/Fansipan"
+   ]
+  },
+  {
+   "name": "Văn hoá vùng Trung du và miền núi Bắc Bộ",
+   "kind": "concept",
+   "summary": "Những nét văn hoá đặc sắc của các dân tộc vùng núi phía Bắc: chợ phiên, hát Then, múa xoè Thái và các lễ hội đầu xuân như Gầu Tào, Lồng Tồng.",
+   "topic_title": "Thiên nhiên vùng Trung du và miền núi Bắc Bộ",
+   "year": null,
+   "date_start": null,
+   "date_end": null,
+   "place": "vùng Trung du và miền núi Bắc Bộ",
+   "actors": [],
+   "facts": [
+    "Chợ phiên vùng cao chỉ họp vào những ngày nhất định, bán chủ yếu hàng hoá do người dân tự làm ra, và còn là nơi bà con các dân tộc gặp gỡ, giao lưu văn hoá.",
+    "Hát Then là làn điệu dân ca của các dân tộc Tày, Nùng, Thái, thường được trình diễn trong những lễ hội quan trọng để cầu mong may mắn, cuộc sống tốt lành.",
+    "Múa xoè là điệu múa truyền thống đặc sắc của người Thái, mọi người nắm tay nhau múa thành vòng tròn trong các dịp lễ hội, ngày vui.",
+    "Lễ hội Gầu Tào của người Mông và lễ hội Lồng Tồng (hội xuống đồng) của người Tày, Nùng được tổ chức vào đầu năm mới để tạ ơn trời đất và cầu sức khoẻ, mùa màng bội thu."
+   ],
+   "traps": [
+    "Hát Then là của các dân tộc Tày, Nùng, Thái ở miền núi phía Bắc — đừng nhầm với hát quan họ (Bắc Ninh, vùng đồng bằng) hay cồng chiêng (Tây Nguyên).",
+    "Lễ hội Gầu Tào là của người Mông, còn Lồng Tồng là của người Tày, Nùng — hai lễ hội của hai nhóm dân tộc khác nhau."
+   ],
+   "aliases": [
+    "nét văn hoá vùng Trung du và miền núi Bắc Bộ",
+    "chợ phiên vùng cao",
+    "hát Then",
+    "múa xoè Thái",
+    "lễ hội Gầu Tào",
+    "lễ hội Lồng Tồng"
+   ],
+   "lessons": [
+    {
+     "book": "CTST",
+     "bai": 6
+    },
+    {
+     "book": "KNTT",
+     "bai": 6
+    }
+   ],
+   "sources": [
+    "https://loigiaihay.com/bai-6-mot-so-net-van-hoa-o-vung-trung-du-va-mien-nui-bac-bo-sgk-lich-su-va-dia-li-4-ket-noi-tri-thuc-a151082.html",
+    "https://vietjack.com/lich-su-va-dia-li-4-kn/bai-6-mot-so-net-van-hoa-o-vung-trung-du-va-mien-nui-bac-bo.jsp"
+   ]
+  },
+  {
+   "name": "Vùng Đồng bằng Bắc Bộ",
+   "kind": "place",
+   "summary": "Đồng bằng châu thổ lớn thứ hai cả nước do phù sa sông Hồng và sông Thái Bình bồi đắp, địa hình bằng phẳng và có hệ thống đê ngăn lũ đặc trưng.",
+   "topic_title": "Thiên nhiên vùng Trung du và miền núi Bắc Bộ",
+   "year": null,
+   "date_start": null,
+   "date_end": null,
+   "place": "miền Bắc Việt Nam",
+   "actors": [],
+   "facts": [
+    "Đồng bằng Bắc Bộ do phù sa của sông Hồng và sông Thái Bình bồi đắp nên, là đồng bằng lớn thứ hai của nước ta (sau đồng bằng Nam Bộ).",
+    "Đồng bằng có dạng hình tam giác với đỉnh ở Việt Trì, đáy là đường bờ biển; bề mặt khá bằng phẳng và thấp dần về phía biển.",
+    "Vì các sông thường gây lũ lụt về mùa mưa, người dân từ bao đời đã đắp đê dọc hai bên bờ sông — hệ thống đê dài hàng nghìn ki-lô-mét trở thành nét đặc trưng của vùng.",
+    "Nhờ đất phù sa màu mỡ và nguồn nước dồi dào, đồng bằng Bắc Bộ trở thành vùng trồng lúa nước quan trọng và là nơi dân cư tập trung đông đúc của nước ta."
+   ],
+   "traps": [
+    "Đồng bằng Bắc Bộ do sông Hồng VÀ sông Thái Bình bồi đắp — trả lời chỉ mỗi sông Hồng là chưa đủ, còn sông Mê Kông là của đồng bằng Nam Bộ.",
+    "Đồng bằng Bắc Bộ lớn THỨ HAI cả nước; đồng bằng lớn nhất là đồng bằng Nam Bộ (đồng bằng sông Cửu Long)."
+   ],
+   "aliases": [
+    "Đồng bằng Bắc Bộ",
+    "đồng bằng sông Hồng",
+    "châu thổ sông Hồng"
+   ],
+   "lessons": [
+    {
+     "book": "CTST",
+     "bai": 8
+    },
+    {
+     "book": "KNTT",
+     "bai": 8
+    },
+    {
+     "book": "Cánh diều",
+     "bai": 6
+    }
+   ],
+   "sources": [
+    "https://khoahoc.vietjack.com/question/451834/dong-bang-bac-bo-do-nhung-song-nao-boi-dap-neu-dac-diem-dia-hinh",
+    "https://loigiaihay.com/tra-loi-cau-hoi-muc-3-trang-76-sgk-dia-li-5-c151a26183.html"
+   ]
+  },
+  {
+   "name": "Dân cư và hoạt động sản xuất ở vùng Trung du và miền núi Bắc Bộ",
+   "kind": "concept",
+   "summary": "Vùng thưa dân nơi nhiều dân tộc cùng chung sống, nổi bật với ruộng bậc thang, trồng chè, khai thác khoáng sản và các nhà máy thuỷ điện lớn.",
+   "topic_title": "Dân cư và hoạt động sản xuất ở vùng Trung du và miền núi Bắc Bộ",
+   "year": null,
+   "date_start": null,
+   "date_end": null,
+   "place": "vùng Trung du và miền núi Bắc Bộ",
+   "actors": [],
+   "facts": [
+    "Vùng Trung du và miền núi Bắc Bộ là nơi sinh sống của nhiều dân tộc như Kinh, Mường, Thái, Dao, Mông, Tày, Nùng; đây là vùng thưa dân của nước ta vì địa hình núi cao hiểm trở.",
+    "Người dân vùng núi làm ruộng bậc thang trên các sườn núi để trồng lúa — cách canh tác vừa giữ được nước vừa hạn chế xói mòn đất, nổi tiếng ở Sa Pa, Mù Cang Chải.",
+    "Trồng chè, cây ăn quả và cây dược liệu là thế mạnh của vùng nhờ khí hậu mát mẻ; chè của vùng nổi tiếng khắp cả nước.",
+    "Vùng giàu khoáng sản (than, sắt, a-pa-tít...) nên có hoạt động khai thác khoáng sản; trên sông Đà còn có các nhà máy thuỷ điện lớn như Hoà Bình, Sơn La.",
+    "Cảnh đẹp thiên nhiên như Sa Pa, hồ Ba Bể giúp du lịch của vùng ngày càng phát triển."
+   ],
+   "traps": [
+    "Trung du và miền núi Bắc Bộ là vùng THƯA dân; vùng đông dân nhất là đồng bằng — đừng đảo ngược.",
+    "Ruộng bậc thang là cách trồng lúa trên sườn núi của đồng bào vùng cao phía Bắc, không phải ở đồng bằng."
+   ],
+   "aliases": [
+    "dân cư vùng núi phía Bắc",
+    "hoạt động sản xuất vùng Trung du và miền núi Bắc Bộ",
+    "ruộng bậc thang"
+   ],
+   "lessons": [
+    {
+     "book": "CTST",
+     "bai": 5
+    },
+    {
+     "book": "KNTT",
+     "bai": 5
+    },
+    {
+     "book": "Cánh diều",
+     "bai": 4
+    }
+   ],
+   "sources": [
+    "https://vietjack.com/lich-su-va-dia-li-4-kn/bai-5-dan-cu-va-hoat-dong-san-xuat-o-vung-trung-du-va-mien-nui-bac-bo.jsp"
+   ]
+  },
+  {
+   "name": "Đền Hùng và Lễ Giỗ Tổ Hùng Vương",
+   "kind": "place",
+   "summary": "Khu di tích thờ các Vua Hùng trên núi Nghĩa Lĩnh (Phú Thọ), nơi cả nước hướng về ngày Giỗ Tổ mùng 10 tháng 3 âm lịch hằng năm.",
+   "topic_title": "Đền Hùng và Lễ Giỗ Tổ Hùng Vương",
+   "year": null,
+   "date_start": null,
+   "date_end": null,
+   "place": "núi Nghĩa Lĩnh, xã Hy Cương, TP Việt Trì, Phú Thọ",
+   "actors": [
+    "các Vua Hùng",
+    "Hồ Chí Minh"
+   ],
+   "facts": [
+    "Khu di tích lịch sử Đền Hùng nằm trên núi Nghĩa Lĩnh, xã Hy Cương, thành phố Việt Trì, tỉnh Phú Thọ — vùng đất cội nguồn gắn với các Vua Hùng dựng nước Văn Lang.",
+    "Quần thể Đền Hùng gồm các công trình chính: đền Hạ, đền Trung, đền Thượng, đền Giếng và lăng Vua Hùng nằm dọc theo đường lên núi.",
+    "Giỗ Tổ Hùng Vương - Lễ hội Đền Hùng được tổ chức hằng năm vào ngày 10 tháng 3 âm lịch để tưởng nhớ công ơn dựng nước của các Vua Hùng, như câu ca 'Dù ai đi ngược về xuôi, nhớ ngày Giỗ Tổ mùng mười tháng ba'.",
+    "Ngày 6/12/2012, UNESCO ghi danh 'Tín ngưỡng thờ cúng Hùng Vương ở Phú Thọ' là Di sản văn hoá phi vật thể đại diện của nhân loại.",
+    "Ngày 19/9/1954, tại Đền Giếng trong khu di tích Đền Hùng, Bác Hồ căn dặn bộ đội trước khi về tiếp quản Thủ đô: 'Các Vua Hùng đã có công dựng nước, Bác cháu ta phải cùng nhau giữ lấy nước'.",
+    "Vì thờ cúng Hùng Vương thể hiện đạo lý 'uống nước nhớ nguồn', lễ Giỗ Tổ trở thành ngày giỗ chung gắn kết mọi người Việt Nam cùng một cội nguồn."
+   ],
+   "traps": [
+    "Giỗ Tổ Hùng Vương là ngày 10 tháng 3 ÂM LỊCH, không phải ngày 10/3 dương lịch.",
+    "Năm 2012 UNESCO ghi danh 'Tín ngưỡng thờ cúng Hùng Vương' là di sản văn hoá PHI VẬT THỂ — không phải công nhận Đền Hùng là di sản văn hoá thế giới (dạng công trình).",
+    "Câu 'Các Vua Hùng đã có công dựng nước...' Bác Hồ nói năm 1954 tại Đền Hùng (Đền Giếng), không nằm trong Tuyên ngôn Độc lập 1945."
+   ],
+   "aliases": [
+    "Khu di tích lịch sử Đền Hùng",
+    "Giỗ Tổ Hùng Vương",
+    "Lễ hội Đền Hùng",
+    "núi Nghĩa Lĩnh",
+    "đất Tổ"
+   ],
+   "lessons": [
+    {
+     "book": "CTST",
+     "bai": 7
+    },
+    {
+     "book": "KNTT",
+     "bai": 7
+    },
+    {
+     "book": "Cánh diều",
+     "bai": 5
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%81n_H%C3%B9ng",
+    "https://baochinhphu.vn/ky-niem-10-nam-unesco-cong-nhan-tin-nguong-tho-cung-hung-vuong-102220410084730377.htm",
+    "http://svhttdl.phutho.gov.vn/tin/nho-loi-bac-day-tai-den-hung-nam-ay_970.html"
+   ]
+  },
+  {
+   "name": "Văn hoá làng quê vùng Đồng bằng Bắc Bộ",
+   "kind": "concept",
+   "summary": "Nét văn hoá làng truyền thống Bắc Bộ với luỹ tre, cổng làng, đình làng thờ Thành hoàng và các lễ hội xuân như hội Lim hát quan họ.",
+   "topic_title": "Một số nét văn hoá ở làng quê vùng Đồng bằng Bắc Bộ",
+   "year": null,
+   "date_start": null,
+   "date_end": null,
+   "place": "vùng Đồng bằng Bắc Bộ",
+   "actors": [],
+   "facts": [
+    "Làng quê truyền thống ở Đồng bằng Bắc Bộ thường có luỹ tre xanh bao quanh, cổng làng, cây đa, giếng nước và sân đình — những hình ảnh quen thuộc của nông thôn miền Bắc.",
+    "Đình làng là nơi thờ Thành hoàng — người có công với làng, với nước — đồng thời là nơi dân làng hội họp và tổ chức lễ hội.",
+    "Lễ hội ở các làng quê Bắc Bộ thường diễn ra vào mùa xuân và mùa thu, với các trò chơi dân gian như đấu vật, kéo co, cờ người, đua thuyền.",
+    "Hội Lim ở tỉnh Bắc Ninh được tổ chức vào ngày 13 tháng Giêng âm lịch hằng năm, nổi tiếng với hát quan họ — làn điệu dân ca đặc sắc của vùng Kinh Bắc.",
+    "Nhiều lễ hội làng bắt nguồn từ tín ngưỡng thờ Thành hoàng và nghi lễ cầu mùa, vì cư dân đồng bằng Bắc Bộ sống chủ yếu bằng nghề trồng lúa nước."
+   ],
+   "traps": [
+    "Hội Lim diễn ra ngày 13 tháng GIÊNG âm lịch ở Bắc Ninh, gắn với hát QUAN HỌ — đừng nhầm với hát Then (miền núi phía Bắc) hay hát xoan (Phú Thọ).",
+    "Đình làng thờ Thành hoàng làng, còn chùa thờ Phật — hai công trình có chức năng khác nhau trong làng quê Bắc Bộ."
+   ],
+   "aliases": [
+    "làng quê Bắc Bộ",
+    "đình làng",
+    "hội Lim",
+    "hát quan họ",
+    "văn hoá vùng Đồng bằng Bắc Bộ"
+   ],
+   "lessons": [
+    {
+     "book": "CTST",
+     "bai": 10
+    },
+    {
+     "book": "KNTT",
+     "bai": 10
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/H%E1%BB%99i_Lim",
+    "https://bacninh.gov.vn/news/-/details/20182/le-hoi-lim-truyen-thong"
+   ]
+  },
+  {
+   "name": "Sông Hồng",
+   "kind": "place",
+   "summary": "Con sông lớn nhất miền Bắc, bắt nguồn từ Vân Nam (Trung Quốc), dài 1.149 km, mang phù sa đỏ hồng bồi đắp nên đồng bằng Bắc Bộ.",
+   "topic_title": "Sông Hồng và văn minh sông Hồng",
+   "year": null,
+   "date_start": null,
+   "date_end": null,
+   "place": "miền Bắc Việt Nam",
+   "actors": [],
+   "facts": [
+    "Sông Hồng bắt nguồn từ tỉnh Vân Nam (Trung Quốc), có tổng chiều dài 1.149 km, trong đó đoạn chảy trên đất Việt Nam dài 556 km.",
+    "Sông có tên là 'Hồng' vì nước sông mang nhiều phù sa nên quanh năm có màu đỏ hồng; sông còn có các tên gọi khác như sông Cái, sông Thao, Nhị Hà (Nhĩ Hà).",
+    "Trên đất Việt Nam, sông Hồng chảy qua nhiều tỉnh, thành như Lào Cai, Yên Bái, Phú Thọ, Hà Nội rồi đổ ra vịnh Bắc Bộ.",
+    "Phù sa của sông Hồng cùng sông Thái Bình đã bồi đắp nên đồng bằng Bắc Bộ màu mỡ, vì vậy nơi đây sớm trở thành cái nôi trồng lúa nước của người Việt."
+   ],
+   "traps": [
+    "Sông Hồng bắt nguồn từ Vân Nam, Trung Quốc — không phải bắt nguồn trên đất Việt Nam; tổng chiều dài 1.149 km nhưng đoạn ở Việt Nam chỉ 556 km.",
+    "'Sông Cái', 'sông Thao', 'Nhị Hà' đều là tên gọi khác của sông Hồng — không phải các con sông khác nhau."
+   ],
+   "aliases": [
+    "Hồng Hà",
+    "sông Cái",
+    "sông Thao",
+    "Nhị Hà",
+    "Nhĩ Hà"
+   ],
+   "lessons": [
+    {
+     "book": "CTST",
+     "bai": 11
+    },
+    {
+     "book": "KNTT",
+     "bai": 11
+    },
+    {
+     "book": "Cánh diều",
+     "bai": 8
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/S%C3%B4ng_H%E1%BB%93ng",
+    "https://nguoikesu.com/dia-danh/song-hong"
+   ]
+  },
+  {
+   "name": "Văn minh sông Hồng",
+   "kind": "concept",
+   "summary": "Nền văn minh đầu tiên của người Việt, còn gọi là văn minh Văn Lang - Âu Lạc, hình thành trên lưu vực sông Hồng từ khoảng thế kỷ VII trước Công nguyên với biểu tượng là trống đồng Đông Sơn.",
+   "topic_title": "Sông Hồng và văn minh sông Hồng",
+   "year": null,
+   "date_start": "thế kỷ VII TCN",
+   "date_end": "thế kỷ II TCN",
+   "place": "lưu vực sông Hồng, miền Bắc Việt Nam",
+   "actors": [
+    "các Vua Hùng",
+    "An Dương Vương"
+   ],
+   "facts": [
+    "Văn minh sông Hồng, còn gọi là văn minh Văn Lang - Âu Lạc, là nền văn minh đầu tiên của người Việt, hình thành trên lưu vực sông Hồng từ khoảng thế kỷ VII trước Công nguyên (cách nay khoảng 2.700 năm).",
+    "Nền văn minh này gắn với nhà nước Văn Lang do các Vua Hùng đứng đầu — nhà nước đầu tiên trong lịch sử Việt Nam, đóng đô ở Phong Châu (thuộc Phú Thọ ngày nay) — và sau đó là nước Âu Lạc của An Dương Vương.",
+    "Cư dân văn minh sông Hồng sống chủ yếu bằng nghề trồng lúa nước, đã biết dùng lưỡi cày bằng đồng và sức kéo của trâu, bò.",
+    "Trống đồng Đông Sơn là hiện vật tiêu biểu nhất của nền văn minh này; hoa văn trên mặt trống khắc hoạ sinh động cảnh sinh hoạt của người Việt cổ.",
+    "Nhiều phong tục ra đời từ thời văn minh sông Hồng vẫn còn đến ngày nay như thờ cúng tổ tiên, ăn trầu, gói bánh chưng bánh giầy ngày Tết."
+   ],
+   "traps": [
+    "Văn minh sông Hồng là tên gọi khác của văn minh Văn Lang - Âu Lạc — không phải hai nền văn minh khác nhau.",
+    "Trống đồng Đông Sơn thuộc văn minh sông Hồng ở miền Bắc — đừng gán cho văn hoá Chăm-pa hay Phù Nam ở phía Nam."
+   ],
+   "aliases": [
+    "văn minh Văn Lang - Âu Lạc",
+    "văn minh Việt cổ",
+    "văn hoá Đông Sơn"
+   ],
+   "lessons": [
+    {
+     "book": "CTST",
+     "bai": 11
+    },
+    {
+     "book": "KNTT",
+     "bai": 11
+    },
+    {
+     "book": "Cánh diều",
+     "bai": 8
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/V%C4%83n_minh_s%C3%B4ng_H%E1%BB%93ng",
+    "http://svhttdl.phutho.gov.vn/tin/trong-dong-dong-son-bieu-tuong-cua-van-minh-song-hong-thoi-ky-hung-vuong-dung-nuoc_215.html"
+   ]
+  },
+  {
+   "name": "Thăng Long – Hà Nội",
+   "kind": "place",
+   "summary": "Kinh đô nghìn năm của nước ta: năm 1010 vua Lý Thái Tổ dời đô về Đại La và đổi tên là Thăng Long, đến năm 1831 vua Minh Mạng đặt tên Hà Nội — thủ đô Việt Nam ngày nay.",
+   "topic_title": "Thăng Long – Hà Nội",
+   "year": 1010,
+   "date_start": null,
+   "date_end": null,
+   "place": "Hà Nội",
+   "actors": [
+    "Lý Công Uẩn (Lý Thái Tổ)",
+    "Minh Mạng"
+   ],
+   "facts": [
+    "Mùa thu năm 1010, vua Lý Thái Tổ (Lý Công Uẩn) dời đô từ Hoa Lư (Ninh Bình) ra thành Đại La và đổi tên thành là Thăng Long, nghĩa là 'rồng bay lên'.",
+    "Trong 'Chiếu dời đô', vua nhận xét Đại La là vùng đất ở giữa trời đất, có thế 'rồng cuộn hổ ngồi', đất rộng và bằng phẳng — vì vậy việc dời đô năm 1010 mở ra thời kỳ phát triển lâu dài của kinh đô Thăng Long.",
+    "Qua các thời kỳ lịch sử, nơi đây từng mang nhiều tên gọi: Đại La, Thăng Long, Đông Đô, Đông Quan, Đông Kinh.",
+    "Năm 1831, vua Minh Mạng triều Nguyễn lập tỉnh Hà Nội — từ đó tên gọi Hà Nội ra đời và được dùng đến ngày nay.",
+    "Ngày nay Hà Nội là Thủ đô của nước Việt Nam, trung tâm chính trị, kinh tế, văn hoá lớn của cả nước.",
+    "Năm 2010, đúng dịp kỷ niệm 1000 năm Thăng Long - Hà Nội, Khu trung tâm Hoàng thành Thăng Long được UNESCO công nhận là Di sản Văn hoá Thế giới."
+   ],
+   "traps": [
+    "Người dời đô năm 1010 là LÝ CÔNG UẨN (Lý Thái Tổ) — đừng nhầm với Lý Thường Kiệt (vị tướng thời Lý chống Tống 1075-1077).",
+    "Lý Công Uẩn lên ngôi cuối năm 1009, còn dời đô năm 1010 — hai mốc khác nhau.",
+    "Tên gọi 'Hà Nội' có từ năm 1831 do vua Minh Mạng đặt, không phải tên có từ thời Pháp thuộc.",
+    "Thăng Long nghĩa là 'rồng bay lên', gắn với chuyện vua thấy rồng vàng hiện lên khi thuyền cập bến Đại La — không phải nghĩa 'thành rồng'."
+   ],
+   "aliases": [
+    "Thăng Long",
+    "Hà Nội",
+    "Đại La",
+    "Đông Đô",
+    "Đông Quan",
+    "Đông Kinh",
+    "Kẻ Chợ"
+   ],
+   "lessons": [
+    {
+     "book": "CTST",
+     "bai": 12
+    },
+    {
+     "book": "KNTT",
+     "bai": 12
+    },
+    {
+     "book": "Cánh diều",
+     "bai": 9
+    }
+   ],
+   "sources": [
+    "https://baochinhphu.vn/thang-long-ha-noi-tu-ly-thai-to-den-ho-chi-minh-10246523.htm",
+    "https://mocban.vn/ban-khac-co-nhat-ve-su-kien-vua-minh-mang-doi-va-dat-ten-ha-noi-nam-1831/",
+    "https://en.wikipedia.org/wiki/Imperial_Citadel_of_Th%C4%83ng_Long"
+   ]
+  },
+  {
+   "name": "Văn Miếu – Quốc Tử Giám",
+   "kind": "place",
+   "summary": "Quần thể di tích ở Hà Nội gồm Văn Miếu thờ Khổng Tử (xây 1070) và Quốc Tử Giám — trường đại học đầu tiên của Việt Nam (lập 1076), nơi lưu giữ 82 bia tiến sĩ.",
+   "topic_title": "Văn Miếu – Quốc Tử Giám",
+   "year": 1070,
+   "date_start": "1070",
+   "date_end": null,
+   "place": "Hà Nội",
+   "actors": [
+    "Lý Thánh Tông",
+    "Lý Nhân Tông"
+   ],
+   "facts": [
+    "Văn Miếu được xây dựng năm 1070 dưới thời vua Lý Thánh Tông để thờ Khổng Tử.",
+    "Năm 1076, vua Lý Nhân Tông cho lập Quốc Tử Giám bên cạnh Văn Miếu — được coi là trường đại học đầu tiên của Việt Nam, ban đầu dạy con vua quan, về sau mở rộng nhận cả con em thường dân học giỏi.",
+    "Trong khuôn viên di tích hiện còn 82 tấm bia tiến sĩ đặt trên lưng rùa đá, khắc tên những người đỗ tiến sĩ các khoa thi từ năm 1442 đến năm 1779.",
+    "Năm 2011, 82 bia tiến sĩ ở Văn Miếu - Quốc Tử Giám được UNESCO ghi danh là Di sản tư liệu thế giới.",
+    "Khuê Văn Các — gác nhỏ xây năm 1805 trong Văn Miếu — được chọn làm hình ảnh biểu tượng của Thủ đô Hà Nội.",
+    "Việc lập Văn Miếu và Quốc Tử Giám cho thấy từ thời Lý nhà nước ta đã coi trọng việc học hành, mở đầu nền giáo dục và khoa cử của đất nước."
+   ],
+   "traps": [
+    "Văn Miếu xây năm 1070 thời Lý THÁNH Tông, còn Quốc Tử Giám lập năm 1076 thời Lý NHÂN Tông — hai công trình, hai vua, hai mốc thời gian khác nhau.",
+    "Trường đại học đầu tiên của Việt Nam là Quốc Tử Giám (1076), không phải Văn Miếu — Văn Miếu là nơi thờ Khổng Tử.",
+    "Hiện còn 82 bia tiến sĩ (các khoa thi 1442-1779), không phải bia ghi tất cả các khoa thi trong lịch sử."
+   ],
+   "aliases": [
+    "Văn Miếu",
+    "Quốc Tử Giám",
+    "trường đại học đầu tiên của Việt Nam",
+    "Khuê Văn Các",
+    "bia tiến sĩ"
+   ],
+   "lessons": [
+    {
+     "book": "CTST",
+     "bai": 13
+    },
+    {
+     "book": "KNTT",
+     "bai": 13
+    },
+    {
+     "book": "Cánh diều",
+     "bai": 10
+    }
+   ],
+   "sources": [
+    "https://dsvh.gov.vn/di-tich-lich-su-va-kien-truc-nghe-thuat-van-mieu-quoc-tu-giam-2953",
+    "https://vi.wikipedia.org/wiki/V%C4%83n_Mi%E1%BA%BFu_%E2%80%93_Qu%E1%BB%91c_T%E1%BB%AD_Gi%C3%A1m"
+   ]
+  },
+  {
+   "name": "Nguyễn Hiền",
+   "kind": "person",
+   "summary": "Trạng nguyên trẻ nhất lịch sử khoa cử Việt Nam, đỗ đầu khoa thi năm 1247 thời vua Trần Thái Tông khi mới 13 tuổi.",
+   "topic_title": "Văn Miếu – Quốc Tử Giám",
+   "year": null,
+   "date_start": "1234",
+   "date_end": null,
+   "place": "làng Dương A, Nam Trực, Nam Định",
+   "actors": [
+    "Nguyễn Hiền",
+    "Trần Thái Tông"
+   ],
+   "facts": [
+    "Nguyễn Hiền sinh năm 1234 tại làng Dương A (nay thuộc huyện Nam Trực, tỉnh Nam Định).",
+    "Tại khoa thi năm 1247 dưới thời vua Trần Thái Tông, Nguyễn Hiền đỗ Trạng nguyên khi mới 13 tuổi.",
+    "Ông là Trạng nguyên trẻ nhất trong lịch sử khoa cử Việt Nam — kỷ lục đến nay chưa ai vượt qua.",
+    "Khoa thi năm 1247 cũng là khoa thi đầu tiên đặt danh hiệu Tam khôi (Trạng nguyên - Bảng nhãn - Thám hoa); cùng khoa với Nguyễn Hiền, Lê Văn Hưu đỗ Bảng nhãn.",
+    "Tương truyền Nguyễn Hiền thông minh nổi tiếng từ nhỏ, được người đời gọi là 'thần đồng' vì phần lớn tự học mà thành tài."
+   ],
+   "traps": [
+    "Trạng nguyên trẻ nhất lịch sử Việt Nam là NGUYỄN HIỀN (13 tuổi, khoa thi 1247 thời Trần Thái Tông) — KHÔNG có nhân vật nào tên 'Nguyễn Minh Sát' trong lịch sử khoa bảng, đó là tên bịa.",
+    "Nguyễn Hiền đỗ Trạng nguyên thời TRẦN Thái Tông (nhà Trần), đừng nhầm sang thời Lý hay thời Lê."
+   ],
+   "aliases": [
+    "Trạng nguyên Nguyễn Hiền",
+    "trạng nguyên trẻ nhất Việt Nam",
+    "trạng nguyên 13 tuổi",
+    "Khai quốc Trạng nguyên"
+   ],
+   "lessons": [
+    {
+     "book": "CTST",
+     "bai": 13
+    },
+    {
+     "book": "KNTT",
+     "bai": 13
+    },
+    {
+     "book": "Cánh diều",
+     "bai": 10
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Nguy%E1%BB%85n_Hi%E1%BB%81n",
+    "https://baolamdong.vn/nguyen-hien-trang-nguyen-13-tuoi-tre-nhat-lich-su-viet-nam-397665.html",
+    "https://nguoikesu.com/nhan-vat/nguyen-hien"
+   ]
+  }
+ ]
+}
