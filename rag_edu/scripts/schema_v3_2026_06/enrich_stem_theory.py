@@ -35,21 +35,40 @@ if fam is None:
     print(f"[abort] {SUBJECT} không phải STEM (chỉ toan/khtn/...). Dùng build_book_generic cho môn khác.")
     sys.exit(0)
 
-# ── ENRICHED schema: dày hơn hẳn build_book_generic (giải thích + điều kiện + nhiều ví dụ + sai lầm) ──
-SCHEMA = (
+# ── ENRICHED schema: science GIỮ NGUYÊN (đã validate ~0.78); math ANTI-HALLUCINATION ──
+_PRACTICE = '"practice":[{"cau":"Câu 1","cau_hoi":"..","goi_y":"..","dap_an":".."},{"cau":"Câu 2","cau_hoi":"..","goi_y":"..","dap_an":".."},{"cau":"Câu 3","cau_hoi":"..","goi_y":"..","dap_an":".."}]'
+_SCI_SCHEMA = (
  '{'
- '"dinh_nghia":"<khái niệm cốt lõi, ĐẦY ĐỦ 2-3 câu, nêu rõ bản chất>",'
- '"giai_thich":"<giải thích SÂU: vì sao/ý nghĩa/bản chất, 2-4 câu, để học sinh HIỂU chứ không học vẹt>",'
- '"kien_thuc_chinh":["<5-6 ý, MỖI ý là 1 câu đầy đủ có giải thích ngắn, không chỉ là nhãn>"],'
- '"cong_thuc":["<công thức kèm CHÚ THÍCH từng ký hiệu, hoặc [] nếu không có>"],'
- '"dieu_kien_ap_dung":"<KHI NÀO dùng/điều kiện/trường hợp đặc biệt, 1-3 câu — quan trọng cho câu hỏi vận dụng>",'
- '"vi_du":[{"de":"<đề có số/tình huống cụ thể>","giai":"<các BƯỚC giải + kết quả rõ ràng>"},{"de":"<ví dụ 2 khác dạng>","giai":"<lời giải>"}],'
- '"sai_lam_thuong_gap":"<1-2 lỗi học sinh hay mắc khi làm dạng này>",'
+ '"dinh_nghia":"<khái niệm/hiện tượng cốt lõi, ĐẦY ĐỦ 2-3 câu>",'
+ '"giai_thich":"<giải thích SÂU: vì sao/bản chất, 2-4 câu, để HIỂU không học vẹt>",'
+ '"kien_thuc_chinh":["<5-6 ý, MỖI ý 1 câu đầy đủ có giải thích ngắn>"],'
+ '"cong_thuc":["<công thức kèm CHÚ THÍCH ký hiệu, hoặc [] nếu không có>"],'
+ '"dieu_kien_ap_dung":"<KHI NÀO xảy ra/điều kiện, 1-3 câu>",'
+ '"vi_du":[{"de":"<ví dụ/hiện tượng thực tế>","giai":"<giải thích>"},{"de":"<ví dụ 2 khác dạng>","giai":"<giải thích>"}],'
+ '"sai_lam_thuong_gap":"<1-2 lỗi hay mắc>",'
  '"luu_y":"<mẹo/điểm cần nhớ, 1-2 câu>",'
  '"cau_hoi_dan_dat":["<3 câu gợi mở>"],'
- '"practice":[{"cau":"Câu 1","cau_hoi":"..","goi_y":"..","dap_an":".."},{"cau":"Câu 2","cau_hoi":"..","goi_y":"..","dap_an":".."},{"cau":"Câu 3","cau_hoi":"..","goi_y":"..","dap_an":".."}]'
+ + _PRACTICE +
  '}'
 )
+# Math v2: ví-dụ-tự-tính (Gemma dễ sai số → bị chấm hallucination) -> thay bằng PHƯƠNG PHÁP (các bước);
+#          ví dụ chỉ 1, lấy từ SGK/số đơn giản; công thức chép chính xác.
+_MATH_SCHEMA = (
+ '{'
+ '"dinh_nghia":"<khái niệm cốt lõi, ĐẦY ĐỦ 2-3 câu>",'
+ '"giai_thich":"<giải thích bản chất/vì sao, 2-3 câu>",'
+ '"kien_thuc_chinh":["<5-6 ý: tính chất/quy tắc/dấu hiệu nhận biết, mỗi ý 1 câu>"],'
+ '"cong_thuc":["<công thức + chú thích ký hiệu — CHÉP CHÍNH XÁC, KHÔNG bịa, hoặc []>"],'
+ '"dieu_kien_ap_dung":"<KHI NÀO áp dụng/điều kiện/trường hợp đặc biệt>",'
+ '"phuong_phap":["<các BƯỚC giải dạng bài điển hình — mô tả PHƯƠNG PHÁP tổng quát, KHÔNG cần con số cụ thể>"],'
+ '"vi_du":[{"de":"<đề LẤY TỪ SGK nếu có, hoặc số RẤT đơn giản tự kiểm chứng>","giai":"<các bước; CHỈ ghi kết quả khi chắc chắn đúng>"}],'
+ '"sai_lam_thuong_gap":"<1-2 lỗi hay mắc khi làm dạng này>",'
+ '"luu_y":"<mẹo nhớ>",'
+ '"cau_hoi_dan_dat":["<3 câu gợi mở>"],'
+ + _PRACTICE +
+ '}'
+)
+SCHEMA = {"science": _SCI_SCHEMA, "math": _MATH_SCHEMA}[fam]
 ROLE = {"math": "giáo viên Toán", "science": "giáo viên Khoa học tự nhiên"}[fam]
 
 def gemma(sysp, usr, mx=3600):
@@ -88,10 +107,14 @@ if not lessons:
     print("NO LESSONS — abort"); sys.exit(0)
 
 # ── 2. enriched synth ──
+_MATH_RULE = (" RIÊNG TOÁN: TUYỆT ĐỐI KHÔNG bịa con số/kết quả tính toán; công thức phải CHÍNH XÁC; "
+ "ưu tiên mô tả PHƯƠNG PHÁP/các bước hơn là tính ra số; phần ví dụ lấy đề TỪ SGK, nếu tự nghĩ thì dùng số đơn giản "
+ "và CHỈ ghi đáp số khi chắc chắn đúng — thà bỏ trống còn hơn ghi sai." if fam == "math" else "")
 SYS = (f"Bạn là {ROLE} lớp {GRADE} (GDPT 2018) soạn THẺ KIẾN THỨC ĐẦY ĐỦ để chatbot ĐỒNG HÀNH cùng học sinh tự học. "
  "Thẻ phải đủ SÂU để trả lời được câu hỏi vận dụng (khái niệm, điều kiện áp dụng, ví dụ có lời giải, sai lầm hay gặp), "
- "nhưng TUYỆT ĐỐI bám nội dung SGK kèm theo + kiến thức chuẩn của bài, KHÔNG bịa số liệu/sự kiện. "
- "Chỉ trả JSON đúng định dạng, tiếng Việt:\n" + SCHEMA)
+ "nhưng TUYỆT ĐỐI bám nội dung SGK kèm theo + kiến thức chuẩn của bài, KHÔNG bịa số liệu/sự kiện."
+ + _MATH_RULE +
+ " Chỉ trả JSON đúng định dạng, tiếng Việt:\n" + SCHEMA)
 ok = 0
 for c in lessons:
     base = c["src"][:6000] if c.get("src") else ""
@@ -112,6 +135,7 @@ def card_text(c):
     if c.get("kien_thuc_chinh"): L.append("Kiến thức chính:\n- " + "\n- ".join(c["kien_thuc_chinh"]))
     if c.get("cong_thuc"): L.append("Công thức / Quy tắc:\n- " + "\n- ".join(c["cong_thuc"]))
     if c.get("dieu_kien_ap_dung"): L.append(f"Điều kiện áp dụng: {c['dieu_kien_ap_dung']}")
+    if c.get("phuong_phap"): L.append("Phương pháp:\n- " + "\n- ".join(c["phuong_phap"]))
     if c.get("vi_du"): L.append("Ví dụ:\n" + "\n".join(f"- {e.get('de','')} → {e.get('giai','')}" for e in c["vi_du"]))
     if c.get("sai_lam_thuong_gap"): L.append(f"Sai lầm thường gặp: {c['sai_lam_thuong_gap']}")
     if c.get("luu_y"): L.append(f"Lưu ý: {c['luu_y']}")
