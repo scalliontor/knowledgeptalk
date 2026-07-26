@@ -71,7 +71,20 @@ Thứ tự tầng cho câu Sử: **(1) HistEvent exact/alias/year match** (rẻ,
 |---|---|---|---|
 | **prod** (code cũ) | **18/40** | 18 wiki, 0 KB | 0 |
 | canary T1 (chỉ gate môn) | 15/40 | 15 KB | 3 |
-| **canary T2** (fact-node) | **25/40** | **18 KB** + 7 wiki | **0** |
+| canary T2 (bản đầu) | 25/40 | 18 KB + 7 wiki | 0 |
+| **canary T2 + vá STT/factoid** | **36/40** | **36 KB, 0 wiki** | **0** |
+
+### Vòng 2 (2026-07-27): vá tuyến STT + mở mẫu câu hỏi → 25/40 lên 36/40
+Test bằng câu **kiểu giọng nói** (không phải gõ tay sạch) lộ thêm 4 khiếm khuyết — đúng cảnh báo của critique "test gõ tay sẽ PASS giả":
+1. **`năm` vừa là số 5 vừa là danh từ** → "năm một chín bảy hai" bị đọc thành dãy 5-1-9-7-2 (5 chữ số) → trượt. Sửa: nếu ngay sau `năm` là một chữ-số khác → coi là danh từ.
+2. **Regex nhận câu hỏi có dấu** → câu STT mất dấu ("nam nao") trượt hết. Sửa: thử lại trên bản bỏ dấu.
+3. **Alias chỉ khớp chuỗi con** → "vua **nào** trị vì ngắn nhất" không chứa "vua trị vì ngắn nhất". Sửa: fallback khớp **token-subset theo thứ tự** (vẫn tất định, không phải fuzzy mờ).
+4. **Thiếu mẫu câu hỏi phổ biến**: "là gì", "có…không", "…chưa", các so-sánh-nhất. Sửa: mở rộng cả 2 regex (có dấu + không dấu).
+
+Thêm **7 thẻ GOLD** (tổng **33**) và **alias mô tả** cho câu đố-ngược ("bùng nổ cao trào kháng Nhật" → thẻ *Nhật đảo chính Pháp*; "lực lượng vũ trang Nga Xô viết" → *Hồng quân*).
+
+**Kết quả STT-style: 11/13** vào fact-node (2 ca trượt là câu nói cụt không có từ hỏi — rơi về giảng, hợp lý).
+**Regression sạch**: recite 3/3 (Nhớ rừng, Ăng-Co Vát, Lượm), giảng→lesson_card, realtime, chat đều nguyên vẹn.
 
 Test chi tiết 12 ca: **12/12 đạt kỳ vọng** — ĐBP-trên-không→1972 ✓, Tạm ước→Pa-ri ✓, Nava→2 bước ✓, Giơ-ne-vơ→21/7 ✓, Trần Phú ✓, Nguyễn Hiền ✓ (đố-ngược), "Điện Biên Phủ" trần → **hỏi lại** thay vì đoán ✓, "vì sao thắng ĐBP" → vẫn đi giảng (không false-abstain) ✓, recite + realtime nguyên vẹn ✓.
 
