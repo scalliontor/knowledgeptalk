@@ -1,0 +1,296 @@
+[
+ {
+  "name": "Cách mạng tư sản",
+  "kind": "concept",
+  "summary": "Loại hình cách mạng do giai cấp tư sản lãnh đạo nhằm lật đổ chế độ phong kiến và mở đường cho chủ nghĩa tư bản phát triển.",
+  "facts": [
+   "Cách mạng tư sản là cuộc cách mạng do giai cấp tư sản lãnh đạo nhằm lật đổ chế độ phong kiến, thiết lập nền dân chủ tư sản và mở đường cho chủ nghĩa tư bản phát triển.",
+   "Các cuộc cách mạng tư sản diễn ra kéo dài từ thế kỉ XVI đến thế kỉ XX ở nhiều khu vực trên thế giới.",
+   "Những cuộc cách mạng tư sản tiêu biểu gồm cách mạng Nê-đéc-lan, cách mạng tư sản Anh 1642-1688, Chiến tranh giành độc lập của 13 thuộc địa Anh ở Bắc Mĩ 1775-1783 và Cách mạng Pháp 1789.",
+   "Cách mạng Tân Hợi ở Trung Quốc năm 1911 và cuộc Duy tân Minh Trị ở Nhật Bản năm 1868 cũng mang tính chất tư sản, dù diễn ra dưới những hình thức khác nhau.",
+   "Vì cách mạng tư sản chỉ thay chế độ bóc lột phong kiến bằng chế độ bóc lột tư bản chủ nghĩa nên nó không giải phóng được người lao động, đó là hạn chế căn bản của loại hình cách mạng này."
+  ],
+  "topic_title": "Ôn tập lịch sử thế giới cận đại",
+  "aliases": [
+   "cách mạng tư sản",
+   "cách mạng dân chủ tư sản",
+   "bourgeois revolution"
+  ],
+  "year": null,
+  "date_start": null,
+  "date_end": null,
+  "place": "châu Âu, Bắc Mĩ, châu Á",
+  "actors": [
+   "giai cấp tư sản"
+  ],
+  "traps": [
+   "Cách mạng Tân Hợi 1911 và Duy tân Minh Trị 1868 mang tính chất TƯ SẢN, không phải cách mạng vô sản.",
+   "Chiến tranh giành độc lập của 13 thuộc địa Anh ở Bắc Mĩ (1775-1783) cũng là một cuộc cách mạng tư sản, vì nó vừa giành độc lập vừa mở đường cho chủ nghĩa tư bản phát triển."
+  ],
+  "sources": [
+   "https://vi.wikipedia.org/wiki/C%C3%A1ch_m%E1%BA%A1ng_t%C6%B0_s%E1%BA%A3n"
+  ],
+  "lessons": [
+   {
+    "book": "NXBDG",
+    "bai": 8
+   }
+  ],
+  "_grade": 11,
+  "_chunk": 1,
+  "_errs": [
+   "COLLISION-thiếu-qualifier(cach mang tu san)"
+  ]
+ },
+ {
+  "name": "Phan Châu Trinh và cuộc vận động Duy tân ở Trung Kì (1906 – 1908)",
+  "kind": "movement",
+  "year": 1906,
+  "date_start": "1906",
+  "date_end": "1908",
+  "place": "Trung Kì (Quảng Nam và các tỉnh lân cận)",
+  "actors": [
+   "Phan Châu Trinh",
+   "Huỳnh Thúc Kháng",
+   "Trần Quý Cáp"
+  ],
+  "aliases": [
+   "Phan Chu Trinh",
+   "Phan Châu Trinh",
+   "phong trào Duy tân",
+   "cuộc vận động Duy tân Trung Kì",
+   "Tây Hồ"
+  ],
+  "summary": "Phan Châu Trinh chủ trương cải cách ôn hòa theo phương châm 'khai dân trí, chấn dân khí, hậu dân sinh', lãnh đạo cuộc vận động Duy tân ở Trung Kì đầu thế kỉ XX.",
+  "facts": [
+   "Phan Châu Trinh sinh ngày 9/9/1872 và mất ngày 24/3/1926, là lãnh tụ tiêu biểu của khuynh hướng cải cách trong phong trào yêu nước đầu thế kỉ XX.",
+   "Chủ trương của ông gói trong ba mệnh đề: 'khai dân trí, chấn dân khí, hậu dân sinh' — mở mang dân trí, chấn hưng ý chí và làm cho đời sống nhân dân no đủ.",
+   "Phan Châu Trinh lãnh đạo cuộc vận động Duy tân ở Trung Kì, cổ vũ mở trường dạy chữ Quốc ngữ, lập hội buôn, phát triển nghề nghiệp, bài trừ hủ tục.",
+   "Khác với Phan Bội Châu, ông phản đối bạo động và chủ trương dựa vào Pháp để tiến hành cải cách, cho rằng phải nâng cao dân trí và kinh tế trước rồi mới tính chuyện độc lập.",
+   "Chính vì tư tưởng Duy tân lan rộng mà phong trào chống sưu thuế bùng nổ ở Trung Kì năm 1908; thực dân Pháp quy trách nhiệm cho Phan Châu Trinh và đày ông ra Côn Đảo.",
+   "Đám tang Phan Châu Trinh năm 1926 thu hút khoảng 60.000 người thuộc mọi tầng lớp, trở thành một cuộc vận động yêu nước rộng lớn."
+  ],
+  "traps": [
+   "SAI: Phan Châu Trinh chủ trương bạo động chống Pháp. ĐÚNG: ông phản đối bạo động, chủ trương cải cách ôn hòa; người chủ trương bạo động là Phan Bội Châu.",
+   "SAI: khẩu hiệu của ông là 'khai dân trí, chấn dân khí, hậu dân sinh' của Phan Bội Châu. ĐÚNG: đó là chủ trương của PHAN CHÂU TRINH.",
+   "Đừng nhầm Phan Châu Trinh (1872 – 1926) với Phan Bội Châu (1867 – 1940): hai người cùng thời, cùng yêu nước nhưng khác hẳn đường lối."
+  ],
+  "topic_title": "Phong trào yêu nước và cách mạng ở Việt Nam từ đầu thế kỉ XX đến Chiến tranh thế giới thứ nhất (1914)",
+  "lessons": [
+   {
+    "book": "NXBDG",
+    "bai": 23
+   }
+  ],
+  "sources": [
+   "https://vi.wikipedia.org/wiki/Phan_Châu_Trinh"
+  ],
+  "_grade": 11,
+  "_chunk": 2,
+  "_errs": [
+   "facts KHÔNG nhắc year(1906; facts có [0, 1872, 1908, 1926])"
+  ]
+ },
+ {
+  "name": "UNESCO vinh danh Hồ Chí Minh (Nghị quyết 24C/18.65)",
+  "kind": "event",
+  "year": 1987,
+  "date_start": "1987",
+  "date_end": "1990",
+  "place": "Pari, Pháp",
+  "aliases": [
+   "Nghị quyết 24C/18.65",
+   "UNESCO tôn vinh Hồ Chí Minh",
+   "Anh hùng giải phóng dân tộc và Nhà văn hóa kiệt xuất"
+  ],
+  "actors": [
+   "UNESCO",
+   "Hồ Chí Minh"
+  ],
+  "summary": "Khóa họp Đại hội đồng UNESCO lần thứ 24 thông qua Nghị quyết 24C/18.65 về kỉ niệm 100 năm ngày sinh Chủ tịch Hồ Chí Minh.",
+  "facts": [
+   "Tại khóa họp Đại hội đồng lần thứ 24, UNESCO đã thông qua Nghị quyết số 24C/18.65 về việc kỉ niệm 100 năm Ngày sinh của Chủ tịch Hồ Chí Minh.",
+   "Nghị quyết ghi nhận Hồ Chí Minh là Anh hùng giải phóng dân tộc của Việt Nam và là nhà văn hóa lớn, có đóng góp quan trọng vào cuộc đấu tranh chung của các dân tộc vì hòa bình, độc lập và tiến bộ xã hội.",
+   "Lễ kỉ niệm 100 năm Ngày sinh Chủ tịch Hồ Chí Minh được tổ chức trọng thể vào năm 1990, đúng 100 năm sau ngày Người sinh ra (19/5/1890).",
+   "Nghị quyết của UNESCO cho thấy tầm ảnh hưởng của Hồ Chí Minh vượt ra ngoài biên giới Việt Nam, được bạn bè quốc tế trân trọng."
+  ],
+  "traps": [
+   "Nghị quyết của UNESCO tôn vinh Hồ Chí Minh gắn với dịp kỉ niệm 100 năm ngày sinh của Người (năm 1990), còn nghị quyết được thông qua tại khóa họp Đại hội đồng lần thứ 24 vài năm trước đó."
+  ],
+  "lessons": [
+   {
+    "book": "cánh diều",
+    "bai": 16
+   },
+   {
+    "book": "KNTT",
+    "bai": 17
+   },
+   {
+    "book": "CTST",
+    "bai": 16
+   }
+  ],
+  "topic_title": "Dấu ấn Hồ Chí Minh trong lòng nhân dân thế giới và Việt Nam",
+  "sources": [
+   "https://vi.wikipedia.org/wiki/H%E1%BB%93_Ch%C3%AD_Minh"
+  ],
+  "_grade": 12,
+  "_chunk": 0,
+  "_errs": [
+   "facts KHÔNG nhắc year(1987; facts có [100, 1890, 1990])"
+  ]
+ },
+ {
+  "name": "Văn hóa Phùng Nguyên – Đồng Đậu – Gò Mun",
+  "kind": "period",
+  "year": null,
+  "date_start": "khoảng 4000 năm cách ngày nay",
+  "date_end": "khoảng 2800-2500 năm cách ngày nay",
+  "place": "Trung du và châu thổ Bắc Bộ (Phú Thọ, Vĩnh Phúc, Hà Nội...)",
+  "actors": [],
+  "aliases": [
+   "các văn hóa tiền Đông Sơn",
+   "thời đại đồ đồng ở Việt Nam",
+   "văn hóa Phùng Nguyên",
+   "văn hóa Đồng Đậu",
+   "văn hóa Gò Mun"
+  ],
+  "summary": "Khoảng 4000 năm trước, cư dân Việt cổ ở lưu vực sông Hồng bước vào thời đại đồ đồng với ba nền văn hóa nối tiếp Phùng Nguyên – Đồng Đậu – Gò Mun, chuẩn bị trực tiếp cho văn hóa Đông Sơn và nhà nước đầu tiên.",
+  "facts": [
+   "Cách ngày nay khoảng 4000 năm, cư dân cổ ở lưu vực sông Hồng bước vào thời đại đồ đồng, mở đầu bằng văn hóa Phùng Nguyên.",
+   "Ba nền văn hóa tiền Đông Sơn nối tiếp nhau là Phùng Nguyên, Đồng Đậu, Gò Mun, có niên đại trong khoảng 4000 đến 2500 năm cách ngày nay.",
+   "Các di tích của ba nền văn hóa này phân bố rộng ở trung du và châu thổ Bắc Bộ, dọc sông Hồng, sông Lô, sông Đà, tập trung nhiều nhất ở Phú Thọ, Vĩnh Phúc, Hà Nội, Bắc Ninh.",
+   "Di chỉ Phùng Nguyên được phát hiện năm 1959 ở huyện Lâm Thao (Phú Thọ), di chỉ Gò Mun năm 1961 cũng ở Phú Thọ, còn di chỉ Đồng Đậu năm 1962 ở huyện Yên Lạc (Vĩnh Phúc).",
+   "Công cụ bằng đồng giúp cư dân đẩy mạnh nghề trồng lúa nước, làm chủ vùng châu thổ sông Hồng, và của cải làm ra nhiều hơn khiến xã hội bắt đầu phân hóa.",
+   "Ba nền văn hóa này chuẩn bị trực tiếp cho văn hóa Đông Sơn rực rỡ và sự ra đời của nhà nước Văn Lang sau đó."
+  ],
+  "traps": [
+   "Cả ba văn hóa Phùng Nguyên, Đồng Đậu, Gò Mun đều ở BẮC BỘ Việt Nam (lưu vực sông Hồng) — không phải ở miền Trung hay nước khác.",
+   "Thứ tự đúng theo thời gian: Phùng Nguyên → Đồng Đậu → Gò Mun → Đông Sơn, đừng đảo lộn."
+  ],
+  "topic_title": "Chuyển biến về kinh tế, xã hội cuối thời nguyên thuỷ",
+  "lessons": [
+   {
+    "book": "Cánh diều",
+    "bai": 5
+   }
+  ],
+  "sources": [
+   "https://baotanglichsu.vn/vi/Articles/4016/cac-van-hoa-tien-djong-son-phung-nguyen-djong-djau-go-mun-khoang-4-000-2-500-nam-cach-ngay-nay",
+   "https://vi.wikipedia.org/wiki/V%C4%83n_h%C3%B3a_Ph%C3%B9ng_Nguy%C3%AAn"
+  ],
+  "_grade": 6,
+  "_chunk": 3,
+  "_errs": [
+   "date range đảo(4000>2800)"
+  ]
+ },
+ {
+  "name": "Cách mạng công nghiệp lần thứ nhất",
+  "kind": "period",
+  "year": 1760,
+  "date_start": "1760",
+  "date_end": "1840",
+  "place": "Anh, sau đó lan ra Pháp, Đức, Mỹ",
+  "actors": [
+   "Giêm Ha-gri-vơ",
+   "Giêm Oát",
+   "Ét-mơn Các-rai",
+   "Xti-phen-xơn"
+  ],
+  "aliases": [
+   "Cách mạng công nghiệp",
+   "cách mạng kĩ nghệ",
+   "Industrial Revolution",
+   "Cách mạng công nghiệp thế kỉ XVIII-XIX"
+  ],
+  "summary": "Quá trình chuyển từ sản xuất thủ công sang sản xuất bằng máy móc, khởi đầu ở Anh từ những năm 60 của thế kỉ XVIII đến giữa thế kỉ XIX.",
+  "facts": [
+   "Cách mạng công nghiệp lần thứ nhất bắt đầu ở nước Anh từ những năm 60 của thế kỉ XVIII và kết thúc vào những năm 40 của thế kỉ XIX.",
+   "Năm 1733, Giôn Kay phát minh ra thoi bay, giúp năng suất dệt vải tăng lên rõ rệt.",
+   "Năm 1764, Giêm Ha-gri-vơ chế tạo máy kéo sợi Gien-ni, kéo được nhiều sợi cùng lúc.",
+   "Năm 1785, Ét-mơn Các-rai chế tạo máy dệt vải chạy bằng sức nước, làm năng suất dệt tăng vọt.",
+   "Năm 1814, Xti-phen-xơn chế tạo thành công chiếc đầu máy xe lửa chạy bằng hơi nước đầu tiên, mở ra thời kì giao thông đường sắt.",
+   "Vì nước Anh có sẵn nguồn than, sắt, vốn và nhân công dồi dào, Anh trở thành quê hương của cách mạng công nghiệp.",
+   "Cách mạng công nghiệp đã làm xuất hiện hai giai cấp cơ bản của xã hội tư bản là giai cấp tư sản công nghiệp và giai cấp vô sản."
+  ],
+  "traps": [
+   "Cách mạng công nghiệp lần thứ nhất khởi đầu ở ANH, không phải ở Pháp hay Mỹ.",
+   "Máy kéo sợi Gien-ni (1764) là của Giêm Ha-gri-vơ, còn máy hơi nước là của Giêm Oát - đừng nhầm hai người tên Giêm.",
+   "Đây là cách mạng công nghiệp lần thứ nhất (thế kỉ XVIII-XIX), khác với cách mạng công nghiệp lần thứ hai cuối thế kỉ XIX."
+  ],
+  "lessons": [
+   {
+    "book": "KNTT",
+    "bai": 3
+   },
+   {
+    "book": "KNTT",
+    "bai": 4
+   }
+  ],
+  "topic_title": "Cách mạng công nghiệp (nửa sau thế kỉ XVIII - giữa thế kỉ XIX)",
+  "sources": [
+   "https://vi.wikipedia.org/wiki/C%C3%A1ch_m%E1%BA%A1ng_C%C3%B4ng_nghi%E1%BB%87p"
+  ],
+  "_grade": 8,
+  "_chunk": 0,
+  "_errs": [
+   "facts KHÔNG nhắc year(1760; facts có [1733, 1764, 1785, 1814])"
+  ]
+ },
+ {
+  "name": "Cách mạng công nghiệp lần thứ nhất",
+  "kind": "period",
+  "aliases": [
+   "cách mạng công nghiệp thế kỉ XVIII",
+   "cuộc cách mạng công nghiệp lần thứ nhất",
+   "công nghiệp hóa ở Anh"
+  ],
+  "year": 1760,
+  "date_start": "1760",
+  "date_end": "1840",
+  "place": "nước Anh rồi lan ra châu Âu và Bắc Mỹ",
+  "actors": [
+   "Giôn Kay",
+   "Giêm Ha-gri-vơ",
+   "Giêm Oát",
+   "Rô-bớt Phơn-tơn",
+   "Xti-phen-xơn"
+  ],
+  "summary": "Cách mạng công nghiệp lần thứ nhất bắt đầu ở Anh từ những năm 60 của thế kỉ XVIII, thay lao động thủ công bằng máy móc, rồi lan sang các nước châu Âu và Bắc Mỹ.",
+  "facts": [
+   "Cách mạng công nghiệp lần thứ nhất bắt đầu ở nước Anh vào những năm 60 của thế kỉ XVIII và kéo dài đến những năm 40 của thế kỉ XIX.",
+   "Ngành dệt là nơi khởi đầu với thoi bay của Giôn Kay năm 1733 và máy kéo sợi Gien-ni của Giêm Ha-gri-vơ năm 1764.",
+   "Năm 1785, Ét-mơn Các-rai chế tạo máy dệt vải chạy bằng sức nước, giúp năng suất dệt tăng vọt.",
+   "Năm 1807, Rô-bớt Phơn-tơn đóng thành công tàu thủy chạy bằng hơi nước; năm 1814, Xti-phen-xơn chế tạo đầu máy xe lửa.",
+   "Vì nước Anh sớm hoàn thành cách mạng tư sản, có nhiều vốn, nhân công và thuộc địa nên đây là nước đầu tiên tiến hành cách mạng công nghiệp.",
+   "Cách mạng công nghiệp đã thay thế lao động thủ công bằng máy móc, đưa loài người bước từ nền văn minh nông nghiệp sang nền văn minh công nghiệp."
+  ],
+  "traps": [
+   "Nhầm cách mạng công nghiệp lần thứ nhất bắt đầu ở Pháp hoặc Mỹ; nước khởi đầu là ANH.",
+   "Nhầm cách mạng công nghiệp lần thứ nhất diễn ra ở thế kỉ XIX trọn vẹn; nó bắt đầu từ những năm 60 của thế kỉ XVIII.",
+   "Nhầm cách mạng công nghiệp lần thứ nhất với các cuộc cách mạng công nghiệp sau này: lần thứ nhất gắn với máy hơi nước, lần thứ hai gắn với điện, không phải máy tính hay internet."
+  ],
+  "topic_title": "Cách mạng công nghiệp",
+  "lessons": [
+   {
+    "book": "cánh diều",
+    "bai": 2
+   },
+   {
+    "book": "CTST",
+    "bai": 2
+   }
+  ],
+  "sources": [
+   "https://vi.wikipedia.org/wiki/Cách_mạng_công_nghiệp"
+  ],
+  "_grade": 8,
+  "_chunk": 1,
+  "_errs": [
+   "facts KHÔNG nhắc year(1760; facts có [1733, 1764, 1785, 1807])"
+  ]
+ }
+]

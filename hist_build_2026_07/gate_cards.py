@@ -9,7 +9,8 @@ Output: cards_gated.json / cards_flagged.json"""
 import glob, json, re, unicodedata
 from collections import Counter, defaultdict
 
-SP = "/tmp/claude-1000/-mnt-DA0054DE0054C365-STEAM-LAB-cloud-ptalk-Knowledgeforptalk/11f820bc-4da0-49cc-aa18-4c452d393474/scratchpad"
+import os
+SP = os.path.dirname(os.path.abspath(__file__))
 
 def fold(s):
     s = unicodedata.normalize("NFD", (s or "").lower())
@@ -64,7 +65,7 @@ def date_year(d):
     return -y if neg else y
 
 cards = []
-for f in sorted(glob.glob(f"{SP}/histcards_raw/raw_g*_c*.json")):
+for f in sorted(glob.glob(f"{SP}/cards_raw/raw_g*_c*.json")):
     d = json.load(open(f))
     for c in d.get("cards", []):
         c["_grade"] = d.get("grade"); c["_chunk"] = d.get("chunk")
@@ -131,7 +132,7 @@ cross_year = {k: sorted({x.get("year") for x in v}, key=lambda z: (z is None, z)
 json.dump(gated, open(f"{SP}/cards_gated.json", "w"), ensure_ascii=False, indent=1)
 json.dump(flagged, open(f"{SP}/cards_flagged.json", "w"), ensure_ascii=False, indent=1)
 
-print(f"=== GATE TẤT ĐỊNH: {len(cards)} thẻ raw (L4-L7, 15/34 chunk) ===")
+print(f"=== GATE TẤT ĐỊNH: {len(cards)} thẻ raw (34/34 chunk, L4-L12) ===")
 print(f"  ĐẠT  : {len(gated)}")
 print(f"  FLAG : {len(flagged)}   lý do: {dict(reasons.most_common())}")
 print(f"\n  trùng tên: {len(dups)} cụm | trùng tên KHÁC NĂM: {len(cross_year)}")

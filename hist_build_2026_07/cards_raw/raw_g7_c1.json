@@ -1,0 +1,2102 @@
+{
+ "grade": 7,
+ "chunk": 1,
+ "cards": [
+  {
+   "name": "Cuộc kháng chiến chống Tống thời Lý (1075–1077)",
+   "kind": "campaign",
+   "year": 1075,
+   "date_start": "1075-10-27",
+   "date_end": "1077-03",
+   "place": "Ung Châu – Khâm Châu – Liêm Châu (đất Tống) và phòng tuyến sông Như Nguyệt (Bắc Ninh)",
+   "actors": [
+    "Lý Thường Kiệt",
+    "Lý Nhân Tông",
+    "Tông Đản",
+    "Quách Quỳ",
+    "Triệu Tiết",
+    "Lý Kế Nguyên"
+   ],
+   "aliases": [
+    "Kháng chiến chống Tống lần thứ hai",
+    "Chiến tranh Tống – Việt 1075-1077",
+    "Cuộc kháng chiến chống quân xâm lược Tống của nhà Lý",
+    "Kháng chiến chống Tống 1075 1077",
+    "Chống Tống thời Lý"
+   ],
+   "summary": "Cuộc kháng chiến chống quân Tống lần thứ hai do Thái úy Lý Thường Kiệt chỉ huy, gồm hai giai đoạn: chủ động tập kích căn cứ hậu cần của Tống (1075-1076) rồi phòng thủ và phản công thắng lợi trên phòng tuyến sông Như Nguyệt (1077).",
+   "facts": [
+    "Cuộc kháng chiến chống Tống lần thứ hai của nhà Lý kéo dài từ cuối năm 1075 đến tháng 3 năm 1077, do Thái úy Lý Thường Kiệt làm tổng chỉ huy dưới triều vua Lý Nhân Tông.",
+    "Vì biết nhà Tống đang tích trữ lương thảo ở Ung Châu, Khâm Châu, Liêm Châu để chuẩn bị đánh Đại Việt, nên Lý Thường Kiệt chủ trương 'tiên phát chế nhân' – đánh trước để chặn thế mạnh của giặc.",
+    "Cuối năm 1075, quân Đại Việt chia hai đường thủy bộ tiến sang đất Tống: hạ thành Khâm Châu ngày 30/12/1075, hạ thành Liêm Châu ngày 2/1/1076.",
+    "Sau 42 ngày vây đánh, quân Đại Việt hạ được thành Ung Châu ngày 1/3/1076, phá kho lương rồi lập tức rút quân về nước chứ không ở lại chiếm đất.",
+    "Trở về nước, Lý Thường Kiệt cho xây phòng tuyến bên bờ nam sông Như Nguyệt (nay là sông Cầu, Bắc Ninh) để chặn con đường tiến vào Thăng Long.",
+    "Ngày 18/1/1077, đại quân Tống do Quách Quỳ làm chánh tướng và Triệu Tiết làm phó tướng kéo tới bờ bắc sông Như Nguyệt nhưng bị chặn lại, hai lần bắc cầu phao vượt sông đều thất bại.",
+    "Vì quân Tống bị giam chân ở Như Nguyệt suốt hai tháng, lương cạn và bệnh tật hoành hành, nên Lý Thường Kiệt vừa phản công vừa chủ động đề nghị 'giảng hòa'; tháng 3/1077 Quách Quỳ rút quân về nước.",
+    "Thắng lợi năm 1077 giữ vững nền độc lập của Đại Việt và buộc nhà Tống phải từ bỏ hẳn ý đồ xâm lược nước ta."
+   ],
+   "traps": [
+    "Nhầm 1075-1077 là kháng chiến chống Tống LẦN THỨ NHẤT. Đúng: lần thứ nhất là năm 981 do Lê Hoàn chỉ huy; 1075-1077 là lần thứ HAI do Lý Thường Kiệt chỉ huy.",
+    "Nhầm việc quân Lý đánh Ung Châu – Khâm Châu – Liêm Châu năm 1075 là 'xâm lược nhà Tống'. Đúng: đó là đòn tấn công tự vệ vào kho lương và căn cứ hậu cần, đánh xong quân ta rút ngay về nước.",
+    "Nhầm thành Ung Châu thất thủ năm 1075. Đúng: Ung Châu bị hạ ngày 1/3/1076; năm 1075 mới là lúc quân ta bắt đầu đánh Khâm Châu và Liêm Châu.",
+    "Nhầm chiến tranh kết thúc bằng việc tiêu diệt toàn bộ quân Tống. Đúng: kết thúc bằng giảng hòa do ta chủ động đề nghị, quân Tống rút về nước tháng 3/1077."
+   ],
+   "lessons": [
+    {
+     "book": "Cánh diều",
+     "bai": 15
+    },
+    {
+     "book": "KNTT",
+     "bai": 12
+    },
+    {
+     "book": "cũ",
+     "bai": 11
+    }
+   ],
+   "topic_title": "Cuộc kháng chiến chống xâm lược Tống của nhà Lý (1075 – 1077)",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_tranh_T%E1%BB%91ng%E2%80%93Vi%E1%BB%87t_(1075%E2%80%931077)"
+   ]
+  },
+  {
+   "name": "Lý Thường Kiệt",
+   "kind": "person",
+   "year": null,
+   "date_start": "1019",
+   "date_end": "1105",
+   "place": "Thăng Long",
+   "actors": [
+    "Lý Thường Kiệt",
+    "Lý Nhân Tông",
+    "Lý Thánh Tông"
+   ],
+   "aliases": [
+    "Ngô Tuấn",
+    "Thái úy Lý Thường Kiệt",
+    "Lí Thường Kiệt",
+    "Lý Thường Kiệt (Ngô Tuấn)",
+    "Việt quốc công Lý Thường Kiệt"
+   ],
+   "summary": "Danh tướng thời Lý (1019-1105), tên thật Ngô Tuấn, tổng chỉ huy cuộc kháng chiến chống Tống 1075-1077 với chủ trương 'tiên phát chế nhân' và phòng tuyến sông Như Nguyệt.",
+   "facts": [
+    "Lý Thường Kiệt sống từ năm 1019 đến năm 1105, tên thật là Ngô Tuấn, được nhà vua ban quốc tính (họ của vua) nên mang họ Lý.",
+    "Ông giữ chức Thái úy – chức quan võ cao nhất triều Lý – và là tổng chỉ huy cuộc kháng chiến chống Tống các năm 1075-1077.",
+    "Chủ trương nổi tiếng của ông là 'ngồi yên đợi giặc không bằng đem quân đánh trước để chặn thế mạnh của giặc', chính vì vậy cuối năm 1075 ông đem quân tập kích Ung Châu, Khâm Châu, Liêm Châu.",
+    "Năm 1076 ông cho xây phòng tuyến bên sông Như Nguyệt, biến con sông thành lá chắn chặn đứng đại quân Quách Quỳ suốt đầu năm 1077.",
+    "Tương truyền chính ông đã cho người ngâm vang bài thơ 'Nam quốc sơn hà' trong đền bên sông Như Nguyệt để cổ vũ tinh thần quân sĩ.",
+    "Trước cuộc kháng chiến chống Tống, năm 1069 Lý Thường Kiệt còn cùng vua Lý Thánh Tông đi đánh Chăm-pa; sau đó vua Chăm-pa cắt ba châu Bố Chính, Địa Lý, Ma Linh cho Đại Việt."
+   ],
+   "traps": [
+    "Nhầm Lý Thường Kiệt là vua. Đúng: ông là quan Thái úy; vua đương thời là Lý Nhân Tông, lên ngôi năm 1072 khi mới 7 tuổi.",
+    "Nhầm Lý Thường Kiệt cùng thời với Trần Hưng Đạo. Đúng: Lý Thường Kiệt ở thế kỉ XI (1019-1105), Trần Hưng Đạo ở thế kỉ XIII, hai ông cách nhau khoảng 200 năm.",
+    "Nhầm tên thật của ông là Lý Tuấn. Đúng: tên thật là NGÔ Tuấn, họ Lý là quốc tính do vua ban."
+   ],
+   "lessons": [
+    {
+     "book": "Cánh diều",
+     "bai": 15
+    },
+    {
+     "book": "KNTT",
+     "bai": 12
+    },
+    {
+     "book": "cũ",
+     "bai": 11
+    }
+   ],
+   "topic_title": "Cuộc kháng chiến chống xâm lược Tống của nhà Lý (1075 – 1077)",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_tranh_T%E1%BB%91ng%E2%80%93Vi%E1%BB%87t_(1075%E2%80%931077)",
+    "https://vi.wikipedia.org/wiki/Ch%C4%83m_Pa"
+   ]
+  },
+  {
+   "name": "Trận chiến trên phòng tuyến sông Như Nguyệt (1077)",
+   "kind": "battle",
+   "year": 1077,
+   "date_start": "1077-01-18",
+   "date_end": "1077-03",
+   "place": "Sông Như Nguyệt (sông Cầu), Bắc Ninh",
+   "actors": [
+    "Lý Thường Kiệt",
+    "Quách Quỳ",
+    "Triệu Tiết",
+    "Lý Kế Nguyên"
+   ],
+   "aliases": [
+    "Trận Như Nguyệt",
+    "Chiến thắng Như Nguyệt",
+    "Phòng tuyến sông Như Nguyệt",
+    "Trận sông Cầu 1077",
+    "Trận Như Nguyệt 1077"
+   ],
+   "summary": "Trận quyết chiến chiến lược đầu năm 1077 trên phòng tuyến sông Như Nguyệt, nơi quân nhà Lý chặn đứng rồi phản công đại quân Tống của Quách Quỳ, kết thúc cuộc kháng chiến chống Tống lần thứ hai.",
+   "facts": [
+    "Trận quyết chiến trên phòng tuyến sông Như Nguyệt diễn ra đầu năm 1077, bắt đầu khi quân Tống do Quách Quỳ chỉ huy tới bờ bắc sông ngày 18/1/1077.",
+    "Phòng tuyến do Lý Thường Kiệt dựng nằm ở bờ nam sông Như Nguyệt – tức sông Cầu chảy qua Bắc Ninh ngày nay – có lũy đất đắp cao và giậu tre dày chắn ngang con đường về Thăng Long.",
+    "Quân Tống nhiều lần bắc cầu phao và đóng bè vượt sông nhưng đều bị quân nhà Lý đánh bật trở lại bờ bắc.",
+    "Vì thủy quân Tống bị Lý Kế Nguyên chặn đánh ở vùng ven biển Đông Bắc nên đại quân Quách Quỳ không nhận được tiếp viện lương thực bằng đường biển, dần lâm vào cảnh đói và bệnh dịch.",
+    "Cuối mùa xuân năm 1077, Lý Thường Kiệt bất ngờ cho quân vượt sông tập kích doanh trại giặc trong đêm, khiến quân Tống thiệt hại rất nặng.",
+    "Ngay sau chiến thắng, Lý Thường Kiệt chủ động đề nghị giảng hòa để mở lối cho giặc rút, nhờ đó tháng 3/1077 quân Tống rút về nước và chiến tranh kết thúc mà không phải đổ máu thêm."
+   ],
+   "traps": [
+    "Nhầm sông Như Nguyệt là sông Bạch Đằng hoặc sông Hồng. Đúng: sông Như Nguyệt chính là sông Cầu ngày nay, chảy qua địa phận Bắc Ninh.",
+    "Nhầm trận Như Nguyệt kết thúc bằng việc bắt sống toàn bộ quân Tống. Đúng: kết thúc bằng chủ trương giảng hòa của Lý Thường Kiệt, quân Tống được rút về nước.",
+    "Nhầm phòng tuyến được dựng ở bờ bắc sông. Đúng: phòng tuyến dựng ở bờ NAM, phía Đại Việt, để chặn giặc từ phương Bắc tràn xuống."
+   ],
+   "lessons": [
+    {
+     "book": "Cánh diều",
+     "bai": 15
+    },
+    {
+     "book": "KNTT",
+     "bai": 12
+    },
+    {
+     "book": "cũ",
+     "bai": 11
+    }
+   ],
+   "topic_title": "Cuộc kháng chiến chống xâm lược Tống của nhà Lý (1075 – 1077)",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_tranh_T%E1%BB%91ng%E2%80%93Vi%E1%BB%87t_(1075%E2%80%931077)"
+   ]
+  },
+  {
+   "name": "Nam quốc sơn hà",
+   "kind": "artifact",
+   "year": 1077,
+   "date_start": null,
+   "date_end": null,
+   "place": "Đền bên sông Như Nguyệt",
+   "actors": [
+    "Lý Thường Kiệt"
+   ],
+   "aliases": [
+    "Sông núi nước Nam",
+    "Bài thơ Thần",
+    "Thơ thần Nam quốc sơn hà",
+    "Nam Quốc Sơn Hà",
+    "Nam quốc sơn hà Nam đế cư"
+   ],
+   "summary": "Bài thơ chữ Hán bốn câu gắn với phòng tuyến sông Như Nguyệt năm 1077, khẳng định chủ quyền nước Nam và được coi là bản Tuyên ngôn Độc lập đầu tiên của Việt Nam.",
+   "facts": [
+    "'Nam quốc sơn hà' là bài thơ chữ Hán bốn câu, gắn với cuộc kháng chiến chống Tống bên phòng tuyến sông Như Nguyệt năm 1077.",
+    "Tương truyền bài thơ vang lên giữa đêm trong ngôi đền bên sông nên dân gian gọi là 'bài thơ Thần', làm quân ta nức lòng còn quân Tống thì hoang mang.",
+    "Nội dung bài thơ khẳng định sông núi nước Nam là của vua Nam, ranh giới ấy đã được định rõ ở 'sách trời', kẻ nào xâm phạm chắc chắn chuốc lấy thất bại.",
+    "Vì tuyên bố dứt khoát chủ quyền và quyền tự quyết của dân tộc nên 'Nam quốc sơn hà' được xem là bản Tuyên ngôn Độc lập đầu tiên của Việt Nam.",
+    "Sử sách không ghi chắc chắn ai là tác giả; nhiều tài liệu gắn bài thơ với Lý Thường Kiệt, nhưng giới nghiên cứu ngày nay cho rằng bài thơ có thể xuất hiện sớm hơn, từ thời Lê Đại Hành chống Tống năm 981, rồi được Lý Thường Kiệt dùng lại năm 1077."
+   ],
+   "traps": [
+    "Khẳng định chắc chắn Lý Thường Kiệt là tác giả. Đúng: sử chỉ chép 'tương truyền'; tác giả thật đến nay vẫn chưa xác định được.",
+    "Nhầm thứ tự các bản tuyên ngôn độc lập. Đúng: 'Nam quốc sơn hà' là bản thứ NHẤT, 'Bình Ngô đại cáo' (1428) là bản thứ HAI, 'Tuyên ngôn Độc lập' ngày 2/9/1945 của Hồ Chí Minh là bản thứ BA.",
+    "Nhầm bài thơ viết bằng chữ Nôm. Đúng: bài thơ viết bằng chữ Hán."
+   ],
+   "lessons": [
+    {
+     "book": "Cánh diều",
+     "bai": 15
+    },
+    {
+     "book": "KNTT",
+     "bai": 12
+    },
+    {
+     "book": "cũ",
+     "bai": 11
+    }
+   ],
+   "topic_title": "Cuộc kháng chiến chống xâm lược Tống của nhà Lý (1075 – 1077)",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Nam_qu%E1%BB%91c_s%C6%A1n_h%C3%A0",
+    "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_tranh_T%E1%BB%91ng%E2%80%93Vi%E1%BB%87t_(1075%E2%80%931077)"
+   ]
+  },
+  {
+   "name": "Ba lần kháng chiến chống quân xâm lược Mông – Nguyên thời Trần",
+   "kind": "campaign",
+   "year": 1258,
+   "date_start": "1258-01",
+   "date_end": "1288-04",
+   "place": "Đại Việt (Thăng Long, Đông Bộ Đầu, Chương Dương, Hàm Tử, Vân Đồn, sông Bạch Đằng)",
+   "actors": [
+    "Trần Thái Tông",
+    "Trần Thánh Tông",
+    "Trần Nhân Tông",
+    "Trần Thủ Độ",
+    "Trần Quốc Tuấn",
+    "Trần Khánh Dư",
+    "Ngột Lương Hợp Thai",
+    "Thoát Hoan",
+    "Ô Mã Nhi",
+    "Toa Đô"
+   ],
+   "aliases": [
+    "Kháng chiến chống Mông - Nguyên",
+    "Chiến tranh Nguyên Mông – Đại Việt",
+    "Ba lần kháng chiến chống quân Mông Nguyên",
+    "Chống quân Nguyên Mông",
+    "Kháng chiến chống Mông Cổ và Nguyên thời Trần"
+   ],
+   "summary": "Ba cuộc kháng chiến thắng lợi của quân dân nhà Trần chống đế quốc Mông – Nguyên vào các năm 1258, 1285 và 1287-1288, đỉnh cao là chiến thắng Bạch Đằng ngày 9/4/1288.",
+   "facts": [
+    "Quân dân nhà Trần đã ba lần đánh bại quân xâm lược Mông – Nguyên: lần thứ nhất năm 1258, lần thứ hai năm 1285 và lần thứ ba năm 1287-1288.",
+    "Lần thứ nhất, đầu năm 1258 khoảng 3 vạn quân Mông Cổ do Ngột Lương Hợp Thai chỉ huy tràn vào nước ta; sau trận Bình Lệ Nguyên ngày 17/1/1258, vua Trần Thái Tông rút lui bảo toàn lực lượng rồi phản công thắng lớn ở Đông Bộ Đầu ngày 29/1/1258, giải phóng Thăng Long chỉ sau khoảng nửa tháng.",
+    "Lần thứ hai, năm 1285 quân Nguyên do Thoát Hoan chỉ huy đánh xuống từ phía bắc còn Toa Đô đánh ngược lên từ Chăm-pa; quân ta thắng liên tiếp ở Tây Kết, Hàm Tử, Chương Dương rồi giải phóng Thăng Long, đuổi giặc về nước sau khoảng bốn tháng.",
+    "Lần thứ ba, cuối năm 1287 quân Nguyên trở lại kèm theo đoàn thuyền lương của Trương Văn Hổ; đầu năm 1288 Trần Khánh Dư đánh tan đoàn thuyền lương ấy ở Vân Đồn.",
+    "Vì mất sạch lương thực ở Vân Đồn và bị đánh khắp nơi, Thoát Hoan buộc phải rút chạy, và cánh thủy quân rút theo sông Bạch Đằng đã bị tiêu diệt hoàn toàn ngày 9/4/1288.",
+    "Nhà Trần thắng được đội quân mạnh nhất thế giới lúc bấy giờ nhờ kế 'vườn không nhà trống', nhờ cả nước đoàn kết và nhờ tài cầm quân của Trần Quốc Tuấn, chứ không phải nhờ quân đông hơn giặc.",
+    "Ba lần chiến thắng Mông – Nguyên đã chặn đứng làn sóng bành trướng của đế quốc Mông Cổ xuống Đông Nam Á và bảo vệ vững chắc nền độc lập của Đại Việt."
+   ],
+   "traps": [
+    "Nhầm ba lần kháng chiến là 1258, 1285, 1288 diễn ra liên tiếp hằng năm. Đúng: 1258, 1285 và 1287-1288, giữa các lần cách nhau nhiều năm hòa hoãn.",
+    "Nhầm cả ba lần đều là quân Nguyên. Đúng: lần thứ nhất (1258) là quân MÔNG CỔ vì nhà Nguyên đến năm 1271 mới được Hốt Tất Liệt lập ra; từ lần thứ hai (1285) mới gọi là quân Nguyên.",
+    "Nhầm Trần Quốc Tuấn chỉ huy cả ba lần. Đúng: lần thứ nhất do vua Trần Thái Tông trực tiếp cầm quân (có Trần Thủ Độ giúp sức); Trần Quốc Tuấn được phong Quốc công tiết chế thống lĩnh toàn quân từ tháng 10/1283, tức từ lần thứ hai.",
+    "Nhầm 'vườn không nhà trống' là bỏ chạy. Đúng: đó là kế sách chủ động rút lui, cất giấu lương thực để giặc không cướp được, khiến chúng đói và mệt rồi mới phản công."
+   ],
+   "lessons": [
+    {
+     "book": "Cánh diều",
+     "bai": 17
+    },
+    {
+     "book": "KNTT",
+     "bai": 14
+    },
+    {
+     "book": "cũ",
+     "bai": 14
+    },
+    {
+     "book": "CTST",
+     "bai": 17
+    }
+   ],
+   "topic_title": "Ba lần kháng chiến chống xâm lược Mông – Nguyên của nhà Trần (thế kỉ XIII)",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_tranh_Nguy%C3%AAn_M%C3%B4ng%E2%80%93%C4%90%E1%BA%A1i_Vi%E1%BB%87t",
+    "https://nguoikesu.com/tu-lieu/quan-su/chien-tranh-nguyen-mong-dai-viet-lan-1",
+    "https://vi.wikipedia.org/wiki/Tr%E1%BA%A7n_H%C6%B0ng_%C4%90%E1%BA%A1o"
+   ]
+  },
+  {
+   "name": "Trận Bạch Đằng năm 1288",
+   "kind": "battle",
+   "year": 1288,
+   "date_start": "1288-04-09",
+   "date_end": "1288-04-09",
+   "place": "Sông Bạch Đằng (Quảng Ninh – Hải Phòng)",
+   "actors": [
+    "Trần Quốc Tuấn",
+    "Trần Nhân Tông",
+    "Trần Thánh Tông",
+    "Nguyễn Khoái",
+    "Ô Mã Nhi",
+    "Phàn Tiếp"
+   ],
+   "aliases": [
+    "Chiến thắng Bạch Đằng 1288",
+    "Trận Bạch Đằng thời Trần",
+    "Bạch Đằng giang 1288",
+    "Trận Bạch Đằng lần thứ ba",
+    "Chiến thắng Bạch Đằng năm Mậu Tý"
+   ],
+   "summary": "Trận thủy chiến quyết định ngày 9/4/1288 trên sông Bạch Đằng, Trần Quốc Tuấn dùng bãi cọc và quy luật thủy triều tiêu diệt toàn bộ thủy quân Nguyên, bắt sống Ô Mã Nhi, kết thúc cuộc kháng chiến lần thứ ba.",
+   "facts": [
+    "Trận Bạch Đằng thời Trần diễn ra ngày 9/4/1288 (tức mùng 8 tháng 3 âm lịch năm Mậu Tý) trên sông Bạch Đằng, do Trần Quốc Tuấn trực tiếp chỉ huy.",
+    "Trước trận đánh, Trần Quốc Tuấn cho người nghiên cứu kĩ quy luật lên xuống của con nước rồi sai đóng hàng nghìn cọc gỗ đầu bịt sắt xuống lòng sông, giấu kín dưới mặt nước lúc triều lên.",
+    "Sáng 9/4/1288, tướng Nguyễn Khoái đem thuyền nhẹ ra khiêu chiến rồi giả thua để nhử đoàn thuyền của Ô Mã Nhi lọt vào trận địa cọc.",
+    "Vì thủy triều rút nhanh làm bãi cọc nhô lên, hàng loạt chiến thuyền Nguyên bị đâm thủng và mắc kẹt, quân ta từ hai bên bờ và từ phía sau đổ ra đánh dồn.",
+    "Kết quả toàn bộ đạo thủy quân Nguyên bị tiêu diệt, hơn 400 chiến thuyền bị bắt, hai tướng Ô Mã Nhi và Phàn Tiếp bị bắt sống.",
+    "Chiến thắng Bạch Đằng ngày 9/4/1288 kết thúc cuộc kháng chiến lần thứ ba và chấm dứt hoàn toàn tham vọng xâm lược Đại Việt của nhà Nguyên."
+   ],
+   "traps": [
+    "Gộp chung ba chiến thắng Bạch Đằng. Đúng: có ba trận Bạch Đằng khác nhau – Ngô Quyền năm 938 đánh Nam Hán, Lê Hoàn năm 981 đánh Tống, Trần Quốc Tuấn năm 1288 đánh Nguyên.",
+    "Nhầm trận Bạch Đằng 1288 do Ngô Quyền chỉ huy. Đúng: người chỉ huy là Trần Quốc Tuấn (Trần Hưng Đạo).",
+    "Nhầm Thoát Hoan bị bắt ở Bạch Đằng. Đúng: hai tướng bị bắt sống là Ô Mã Nhi và Phàn Tiếp; Thoát Hoan rút chạy bằng đường bộ và thoát về nước.",
+    "Nhầm trận đánh diễn ra năm 1287. Đúng: quân Nguyên sang cuối năm 1287, còn trận Bạch Đằng là ngày 9/4/1288."
+   ],
+   "lessons": [
+    {
+     "book": "Cánh diều",
+     "bai": 17
+    },
+    {
+     "book": "KNTT",
+     "bai": 14
+    },
+    {
+     "book": "cũ",
+     "bai": 14
+    },
+    {
+     "book": "CTST",
+     "bai": 17
+    }
+   ],
+   "topic_title": "Ba lần kháng chiến chống xâm lược Mông – Nguyên của nhà Trần (thế kỉ XIII)",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Tr%E1%BA%ADn_B%E1%BA%A1ch_%C4%90%E1%BA%B1ng_(1288)",
+    "https://nghiencuulichsu.com/2014/06/06/chien-thang-bach-dang-941288/"
+   ]
+  },
+  {
+   "name": "Hội nghị Diên Hồng (1284)",
+   "kind": "event",
+   "year": 1284,
+   "date_start": "1284-12",
+   "date_end": null,
+   "place": "Điện Diên Hồng, kinh thành Thăng Long",
+   "actors": [
+    "Trần Thánh Tông",
+    "Trần Nhân Tông",
+    "các bô lão"
+   ],
+   "aliases": [
+    "Hội nghị Diên Hồng",
+    "Diên Hồng",
+    "Hội nghị các bô lão Diên Hồng",
+    "Điện Diên Hồng"
+   ],
+   "summary": "Hội nghị do Thượng hoàng Trần Thánh Tông triệu tập cuối năm 1284 tại điện Diên Hồng, mời các bô lão cả nước về hỏi kế đánh hay hòa trước cuộc xâm lược lần thứ hai của quân Nguyên.",
+   "facts": [
+    "Hội nghị Diên Hồng được Thượng hoàng Trần Thánh Tông triệu tập tại điện Diên Hồng ở kinh thành Thăng Long vào cuối năm 1284, ngay trước khi quân Nguyên xâm lược lần thứ hai (năm 1285).",
+    "Thành phần dự hội nghị là các bô lão – những người cao tuổi có uy tín ở khắp làng xã – được nhà vua mời về dự yến rồi hỏi nên 'đánh' hay nên 'hòa'.",
+    "Các bô lão đã đồng thanh hô 'Đánh!', thể hiện ý chí quyết chiến của toàn dân trước quân xâm lược.",
+    "Vì hội nghị hỏi ý dân chứ không chỉ hỏi ý các tướng nên Diên Hồng được coi là hội nghị thể hiện tinh thần dân chủ tiêu biểu trong lịch sử Việt Nam, tạo sự đồng lòng cả nước bước vào cuộc kháng chiến 1285.",
+    "Trước đó, tháng 10 năm 1282 nhà Trần đã họp Hội nghị Bình Than với các vương hầu và tướng lĩnh để bàn kế sách quân sự và trao quyền tổng chỉ huy quân đội cho Trần Quốc Tuấn.",
+    "Tại Hội nghị Bình Than năm 1282, Trần Quốc Toản vì còn nhỏ tuổi không được dự bàn việc nước nên uất ức bóp nát quả cam trong tay, sau đó tự chiêu mộ hơn nghìn người nhà đi đánh giặc."
+   ],
+   "traps": [
+    "Đảo hai hội nghị cho nhau. Đúng: Hội nghị DIÊN HỒNG (1284) họp các BÔ LÃO đại diện nhân dân; Hội nghị BÌNH THAN (1282) họp các VƯƠNG HẦU, TƯỚNG LĨNH.",
+    "Nhầm Hội nghị Diên Hồng họp sau chiến thắng. Đúng: hội nghị họp TRƯỚC cuộc kháng chiến lần thứ hai, vào cuối năm 1284.",
+    "Nhầm vua Trần Nhân Tông triệu tập Diên Hồng. Đúng: người triệu tập là Thượng hoàng Trần Thánh Tông (Trần Nhân Tông là người triệu tập Hội nghị Bình Than 1282).",
+    "Nhầm chuyện bóp nát quả cam xảy ra ở Diên Hồng. Đúng: Trần Quốc Toản bóp nát quả cam tại Hội nghị BÌNH THAN năm 1282."
+   ],
+   "lessons": [
+    {
+     "book": "Cánh diều",
+     "bai": 17
+    },
+    {
+     "book": "KNTT",
+     "bai": 14
+    },
+    {
+     "book": "cũ",
+     "bai": 14
+    },
+    {
+     "book": "CTST",
+     "bai": 17
+    }
+   ],
+   "topic_title": "Ba lần kháng chiến chống xâm lược Mông – Nguyên của nhà Trần (thế kỉ XIII)",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/H%E1%BB%99i_ngh%E1%BB%8B_Di%C3%AAn_H%E1%BB%93ng",
+    "https://vi.wikipedia.org/wiki/H%E1%BB%99i_ngh%E1%BB%8B_B%C3%ACnh_Than"
+   ]
+  },
+  {
+   "name": "Trần Quốc Tuấn (Trần Hưng Đạo)",
+   "kind": "person",
+   "year": null,
+   "date_start": "1228",
+   "date_end": "1300-10-05",
+   "place": "Vạn Kiếp, Kiếp Bạc (Hải Dương cũ)",
+   "actors": [
+    "Trần Quốc Tuấn",
+    "Trần Nhân Tông",
+    "Trần Thánh Tông"
+   ],
+   "aliases": [
+    "Trần Hưng Đạo",
+    "Hưng Đạo Đại Vương",
+    "Hưng Đạo vương",
+    "Đức Thánh Trần",
+    "Quốc công tiết chế Trần Quốc Tuấn",
+    "Trần Quốc Tuấn"
+   ],
+   "summary": "Danh tướng thời Trần (khoảng 1228-1300), Quốc công tiết chế thống lĩnh quân đội trong kháng chiến chống Mông – Nguyên lần hai và ba, tác giả 'Hịch tướng sĩ' và 'Binh thư yếu lược'.",
+   "facts": [
+    "Trần Quốc Tuấn, thường gọi là Trần Hưng Đạo, sinh khoảng năm 1228 và mất ngày 5/10/1300, được phong tước Hưng Đạo Đại Vương.",
+    "Tháng 10 năm 1283, ông được vua Trần phong làm Quốc công tiết chế – chức thống lĩnh toàn bộ quân đội – để chuẩn bị chống cuộc xâm lược lần thứ hai của quân Nguyên.",
+    "Ông là tác giả 'Hịch tướng sĩ' viết trước cuộc kháng chiến lần thứ hai để khích lệ tướng sĩ, cùng các sách quân sự 'Binh thư yếu lược' và 'Vạn Kiếp tông bí truyền thư'.",
+    "Ông trực tiếp chỉ huy quân dân đánh thắng quân Nguyên trong hai cuộc kháng chiến năm 1285 và 1287-1288, đỉnh cao là trận Bạch Đằng ngày 9/4/1288.",
+    "Khi vua hỏi kế giữ nước lâu dài, ông khuyên phải 'khoan thư sức dân để làm kế sâu rễ bền gốc', nghĩa là chăm lo đời sống nhân dân mới là thượng sách giữ nước.",
+    "Vì công lao to lớn với dân tộc, ông được nhân dân tôn thờ như một vị thánh; đền Kiếp Bạc ở Chí Linh là nơi thờ ông nổi tiếng nhất."
+   ],
+   "traps": [
+    "Nhầm Trần Hưng Đạo là vua nhà Trần. Đúng: ông là vương hầu và là Quốc công tiết chế, các vua đương thời là Trần Thánh Tông và Trần Nhân Tông.",
+    "Nhầm ông chỉ huy cả ba lần kháng chiến. Đúng: ông thống lĩnh toàn quân từ lần thứ hai (được phong Quốc công tiết chế tháng 10/1283); lần thứ nhất năm 1258 do vua Trần Thái Tông cầm quân.",
+    "Nhầm tác giả 'Hịch tướng sĩ' là Nguyễn Trãi. Đúng: 'Hịch tướng sĩ' là của Trần Quốc Tuấn (thế kỉ XIII); Nguyễn Trãi viết 'Bình Ngô đại cáo' năm 1428."
+   ],
+   "lessons": [
+    {
+     "book": "Cánh diều",
+     "bai": 17
+    },
+    {
+     "book": "KNTT",
+     "bai": 14
+    },
+    {
+     "book": "cũ",
+     "bai": 14
+    },
+    {
+     "book": "CTST",
+     "bai": 17
+    }
+   ],
+   "topic_title": "Ba lần kháng chiến chống xâm lược Mông – Nguyên của nhà Trần (thế kỉ XIII)",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Tr%E1%BA%A7n_H%C6%B0ng_%C4%90%E1%BA%A1o",
+    "https://vi.wikipedia.org/wiki/Tr%E1%BA%ADn_B%E1%BA%A1ch_%C4%90%E1%BA%B1ng_(1288)"
+   ]
+  },
+  {
+   "name": "Cuộc kháng chiến chống quân Minh xâm lược của nhà Hồ (1406–1407)",
+   "kind": "campaign",
+   "year": 1406,
+   "date_start": "1406-11",
+   "date_end": "1407-06-17",
+   "place": "Đa Bang, Thăng Long, Tây Đô, núi Thiên Cầm (Hà Tĩnh)",
+   "actors": [
+    "Hồ Quý Ly",
+    "Hồ Hán Thương",
+    "Hồ Nguyên Trừng",
+    "Trương Phụ",
+    "Mộc Thạnh"
+   ],
+   "aliases": [
+    "Kháng chiến chống quân Minh của nhà Hồ",
+    "Chiến tranh Minh – Đại Ngu",
+    "Cuộc kháng chiến chống quân xâm lược Minh 1406-1407",
+    "Nhà Hồ chống quân Minh"
+   ],
+   "summary": "Cuộc kháng chiến của nhà Hồ chống 20 vạn quân Minh do Trương Phụ và Mộc Thạnh chỉ huy, thất bại nhanh chóng năm 1407 vì không tập hợp được sức mạnh toàn dân, mở đầu 20 năm đô hộ của nhà Minh.",
+   "facts": [
+    "Cuối năm 1406, nhà Minh lấy cớ 'phù Trần diệt Hồ' đưa khoảng 20 vạn quân do Trương Phụ và Mộc Thạnh chỉ huy sang xâm lược nước Đại Ngu.",
+    "Nhà Hồ dựa vào thành lũy kiên cố và vũ khí mới như súng thần cơ do Hồ Nguyên Trừng chế tạo để chống giữ, nhưng chủ yếu đánh phòng ngự nên bị đẩy lùi liên tiếp.",
+    "Đầu năm 1407, thành Đa Bang thất thủ khiến toàn bộ tuyến phòng ngự bên sông Hồng vỡ, quân Minh chiếm Thăng Long rồi tiến vào Tây Đô.",
+    "Cuộc kháng chiến kết thúc tháng 6 năm 1407 khi cha con Hồ Quý Ly và Hồ Hán Thương bị bắt ở vùng núi Thiên Cầm – Cao Vọng (Kỳ Anh, Hà Tĩnh), nhà Hồ sụp đổ sau 7 năm tồn tại.",
+    "Vì các cải cách của Hồ Quý Ly gây bất mãn và vì nhà Hồ cướp ngôi nhà Trần nên nhân dân không hết lòng ủng hộ, đó là nguyên nhân sâu xa khiến cuộc kháng chiến thất bại nhanh chóng.",
+    "Hồ Nguyên Trừng từng nói: 'Thần không sợ đánh, chỉ sợ lòng dân không theo mà thôi' – câu nói chỉ đúng nguyên nhân thất bại là mất lòng dân chứ không phải thiếu vũ khí.",
+    "Sau khi nhà Hồ sụp đổ, nước ta rơi vào ách đô hộ của nhà Minh suốt 20 năm (1407-1427) cho đến khi khởi nghĩa Lam Sơn thắng lợi."
+   ],
+   "traps": [
+    "Nhầm nhà Hồ thua vì thiếu vũ khí. Đúng: nhà Hồ có thành lũy kiên cố và súng thần cơ, nguyên nhân thất bại chính là không đoàn kết được toàn dân – 'lòng dân không theo'.",
+    "Nhầm nhà Minh sang xâm lược để giúp nhà Trần. Đúng: 'phù Trần diệt Hồ' chỉ là cái cớ; mục đích thật của nhà Minh là thôn tính nước ta, và sau khi thắng họ đặt ách đô hộ 20 năm chứ không lập lại nhà Trần.",
+    "Nhầm nhà Hồ mất năm 1400. Đúng: nhà Hồ được lập năm 1400 và sụp đổ năm 1407."
+   ],
+   "lessons": [
+    {
+     "book": "Cánh diều",
+     "bai": 18
+    },
+    {
+     "book": "CTST",
+     "bai": 18
+    }
+   ],
+   "topic_title": "Nhà Hồ và cuộc kháng chiến chống quân Minh xâm lược",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Nh%C3%A0_H%E1%BB%93",
+    "https://vi.wikipedia.org/wiki/H%E1%BB%93_Qu%C3%BD_Ly"
+   ]
+  },
+  {
+   "name": "Hồ Quý Ly",
+   "kind": "person",
+   "year": null,
+   "date_start": "1336",
+   "date_end": "1407",
+   "place": "Tây Đô (Thanh Hóa)",
+   "actors": [
+    "Hồ Quý Ly",
+    "Hồ Hán Thương",
+    "Hồ Nguyên Trừng"
+   ],
+   "aliases": [
+    "Hồ Quí Ly",
+    "Lê Quý Ly",
+    "Hồ Quý Ly (Lê Quý Ly)",
+    "vua Hồ Quý Ly"
+   ],
+   "summary": "Người lập ra nhà Hồ năm 1400, đặt quốc hiệu Đại Ngu, tiến hành hàng loạt cải cách táo bạo nhưng thất bại trong kháng chiến chống Minh và bị bắt năm 1407.",
+   "facts": [
+    "Hồ Quý Ly vốn là đại thần quyền lực cuối thời Trần; năm 1400 ông phế truất vua Trần, lên ngôi và lập ra nhà Hồ.",
+    "Ông đặt quốc hiệu nước ta là Đại Ngu, chữ 'Ngu' mang nghĩa yên vui, thái bình, thể hiện mong muốn xây dựng đất nước thịnh trị.",
+    "Ông chỉ ở ngôi khoảng một năm rồi năm 1401 nhường ngôi cho con là Hồ Hán Thương và lên làm Thái thượng hoàng, giữ theo lệ nhà Trần.",
+    "Hồ Quý Ly tiến hành nhiều cải cách táo bạo về tài chính, ruộng đất, giáo dục và quân sự trong khoảng các năm 1396-1407, nhằm cứu vãn khủng hoảng cuối thời Trần.",
+    "Tháng 6 năm 1407, sau khi kháng chiến chống Minh thất bại, cha con Hồ Quý Ly và Hồ Hán Thương bị quân Minh bắt tại vùng núi Cao Vọng (Kỳ Anh, Hà Tĩnh), kết thúc nhà Hồ."
+   ],
+   "traps": [
+    "Nhầm Hồ Quý Ly làm vua suốt từ 1400 đến 1407. Đúng: ông làm vua chỉ khoảng một năm (1400-1401) rồi nhường ngôi cho con Hồ Hán Thương và làm Thái thượng hoàng.",
+    "Nhầm 'Đại Ngu' nghĩa là ngu dốt. Đúng: chữ 'Ngu' ở đây nghĩa là sự yên vui, thái bình.",
+    "Nhầm Hồ Quý Ly bị bắt ở Tây Đô. Đúng: cha con ông bị bắt ở vùng núi Cao Vọng – Thiên Cầm thuộc Kỳ Anh, Hà Tĩnh ngày nay."
+   ],
+   "lessons": [
+    {
+     "book": "Cánh diều",
+     "bai": 18
+    },
+    {
+     "book": "CTST",
+     "bai": 18
+    }
+   ],
+   "topic_title": "Nhà Hồ và cuộc kháng chiến chống quân Minh xâm lược",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/H%E1%BB%93_Qu%C3%BD_Ly",
+    "https://vi.wikipedia.org/wiki/Nh%C3%A0_H%E1%BB%93"
+   ]
+  },
+  {
+   "name": "Thành Nhà Hồ (Tây Đô)",
+   "kind": "place",
+   "year": 1397,
+   "date_start": "1397",
+   "date_end": null,
+   "place": "Vĩnh Lộc, Thanh Hóa",
+   "actors": [
+    "Hồ Quý Ly"
+   ],
+   "aliases": [
+    "Tây Đô",
+    "Thành Tây Giai",
+    "Thành An Tôn",
+    "Thành nhà Hồ",
+    "Di sản văn hóa thế giới Thành Nhà Hồ"
+   ],
+   "summary": "Kinh đô bằng đá do Hồ Quý Ly cho xây năm 1397 ở Vĩnh Lộc, Thanh Hóa, là kinh đô của nhà Hồ và ngày nay là di sản văn hóa thế giới.",
+   "facts": [
+    "Năm 1397, Hồ Quý Ly cho xây một tòa thành đá lớn ở vùng Vĩnh Lộc, Thanh Hóa và dời đô về đó, gọi là Tây Đô, còn Thăng Long thì gọi là Đông Đô.",
+    "Tòa thành có chu vi hơn 3,5 km, được ghép từ những khối đá lớn và tương truyền chỉ xây xong trong khoảng ba tháng.",
+    "Việc dời đô về Tây Đô nhằm tránh xa Thăng Long – nơi thế lực nhà Trần còn mạnh – và dựa vào địa thế hiểm trở của núi non Thanh Hóa để phòng thủ.",
+    "Tuy nhiên, vì bắt dân phu lao dịch nặng nề để xây thành nên việc này càng làm nhân dân bất bình với nhà Hồ.",
+    "Thành Nhà Hồ hiện vẫn còn bốn cổng đá đồ sộ và được UNESCO công nhận là Di sản văn hóa thế giới."
+   ],
+   "traps": [
+    "Nhầm Tây Đô ở Thăng Long. Đúng: Tây Đô nằm ở huyện Vĩnh Lộc, tỉnh Thanh Hóa; Thăng Long khi đó được gọi là Đông Đô.",
+    "Nhầm thành xây bằng gạch. Đúng: điểm đặc biệt của Thành Nhà Hồ là được xây bằng những khối ĐÁ lớn."
+   ],
+   "lessons": [
+    {
+     "book": "Cánh diều",
+     "bai": 18
+    },
+    {
+     "book": "CTST",
+     "bai": 18
+    }
+   ],
+   "topic_title": "Nhà Hồ và cuộc kháng chiến chống quân Minh xâm lược",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Nh%C3%A0_H%E1%BB%93",
+    "https://vi.wikipedia.org/wiki/H%E1%BB%93_Qu%C3%BD_Ly"
+   ]
+  },
+  {
+   "name": "Khởi nghĩa Lam Sơn (1418–1427)",
+   "kind": "movement",
+   "year": 1418,
+   "date_start": "1418-02-07",
+   "date_end": "1427-12-10",
+   "place": "Lam Sơn (Thanh Hóa), Nghệ An, Tốt Động – Chúc Động, Chi Lăng – Xương Giang, Đông Quan",
+   "actors": [
+    "Lê Lợi",
+    "Nguyễn Trãi",
+    "Nguyễn Chích",
+    "Lê Lai",
+    "Vương Thông",
+    "Liễu Thăng",
+    "Mộc Thạnh"
+   ],
+   "aliases": [
+    "Cuộc khởi nghĩa Lam Sơn",
+    "Khởi nghĩa Lam Sơn 1418-1427",
+    "Lam Sơn khởi nghĩa",
+    "Kháng chiến chống quân Minh của Lê Lợi",
+    "Cuộc khởi nghĩa Lam Sơn (1418 - 1427)"
+   ],
+   "summary": "Cuộc khởi nghĩa do Lê Lợi lãnh đạo từ 7/2/1418 ở Lam Sơn (Thanh Hóa), trải mười năm gian khổ đã đánh đuổi quân Minh, giành lại độc lập cho Đại Việt vào cuối năm 1427.",
+   "facts": [
+    "Ngày 7/2/1418, Lê Lợi dựng cờ khởi nghĩa ở Lam Sơn (Thanh Hóa) và tự xưng là Bình Định vương, mở đầu cuộc kháng chiến chống ách đô hộ của nhà Minh.",
+    "Những năm 1418-1423 nghĩa quân gặp muôn vàn khó khăn, ba lần phải rút lên núi Chí Linh; có lần Lê Lai đã liều mình cải trang làm Lê Lợi để đánh lạc hướng giặc, cứu chủ tướng thoát hiểm.",
+    "Cuối năm 1424, Lê Lợi chấp thuận kế sách của Nguyễn Chích là chuyển địa bàn vào Nghệ An, biến vùng này thành hậu phương vững chắc – đây là bước ngoặt đưa nghĩa quân từ thế thủ sang thế công.",
+    "Cuối năm 1426, Lê Lợi chia quân làm ba cánh tiến ra Bắc; tháng 11/1426, nghĩa quân đánh tan cuộc phản công của Vương Thông trong trận Tốt Động – Chúc Động.",
+    "Năm 1427, nhà Minh sai Liễu Thăng và Mộc Thạnh đem 15 vạn viện binh sang cứu; nghĩa quân chủ trương 'vây thành diệt viện', tiêu diệt hoàn toàn viện binh trong trận Chi Lăng – Xương Giang.",
+    "Vì viện binh bị diệt sạch nên Vương Thông đang bị vây trong thành Đông Quan phải xin hòa; ngày 10/12/1427 hai bên tổ chức Hội thề Đông Quan và quân Minh được rút về nước an toàn.",
+    "Thắng lợi của khởi nghĩa Lam Sơn kết thúc 20 năm đô hộ của nhà Minh và mở ra triều đại Lê sơ từ năm 1428."
+   ],
+   "traps": [
+    "Nhầm khởi nghĩa Lam Sơn nổ ra ở Nghệ An. Đúng: khởi nghĩa nổ ra tại Lam Sơn, Thanh Hóa ngày 7/2/1418; Nghệ An là địa bàn được chuyển vào từ cuối năm 1424 theo kế của Nguyễn Chích.",
+    "Nhầm khởi nghĩa kết thúc bằng việc tiêu diệt hết quân Minh trong thành Đông Quan. Đúng: kết thúc bằng Hội thề Đông Quan ngày 10/12/1427, ta cấp lương thực và thuyền ngựa cho quân Minh rút về nước.",
+    "Nhầm Lê Lai là người lãnh đạo khởi nghĩa. Đúng: người lãnh đạo là Lê Lợi; Lê Lai là tướng đã hi sinh khi cải trang làm Lê Lợi để cứu chủ tướng.",
+    "Nhầm kế chuyển quân vào Nghệ An là của Nguyễn Trãi. Đúng: đó là kế sách của Nguyễn CHÍCH; Nguyễn Trãi là quân sư và là người viết 'Bình Ngô đại cáo'."
+   ],
+   "lessons": [
+    {
+     "book": "Cánh diều",
+     "bai": 19
+    },
+    {
+     "book": "KNTT",
+     "bai": 16
+    },
+    {
+     "book": "cũ",
+     "bai": 19
+    },
+    {
+     "book": "CTST",
+     "bai": 19
+    }
+   ],
+   "topic_title": "Khởi nghĩa Lam Sơn (1418 – 1427)",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Kh%E1%BB%9Fi_ngh%C4%A9a_Lam_S%C6%A1n",
+    "https://vi.wikipedia.org/wiki/Tr%E1%BA%ADn_Chi_L%C4%83ng_%E2%80%93_X%C6%B0%C6%A1ng_Giang"
+   ]
+  },
+  {
+   "name": "Lê Lợi",
+   "kind": "person",
+   "year": null,
+   "date_start": "1385",
+   "date_end": "1433",
+   "place": "Lam Sơn (Thanh Hóa) – Đông Kinh",
+   "actors": [
+    "Lê Lợi",
+    "Nguyễn Trãi",
+    "Lê Lai"
+   ],
+   "aliases": [
+    "Lê Thái Tổ",
+    "Bình Định vương Lê Lợi",
+    "Bình Định vương",
+    "vua Lê Thái Tổ",
+    "Lê Lợi (Lê Thái Tổ)"
+   ],
+   "summary": "Người khởi xướng và lãnh đạo khởi nghĩa Lam Sơn, xưng Bình Định vương năm 1418, lên ngôi hoàng đế năm 1428 lập ra triều Lê sơ với miếu hiệu Lê Thái Tổ.",
+   "facts": [
+    "Lê Lợi là một hào trưởng vùng Lam Sơn (Thanh Hóa), ngày 7/2/1418 ông dựng cờ khởi nghĩa và tự xưng Bình Định vương.",
+    "Suốt mười năm 1418-1427, ông lãnh đạo nghĩa quân Lam Sơn từ chỗ chỉ có vài nghìn người trong rừng núi Thanh Hóa đến chỗ đánh đuổi được 20 vạn quân Minh.",
+    "Sau khi kháng chiến thắng lợi, năm 1428 Lê Lợi lên ngôi hoàng đế, đặt lại quốc hiệu là Đại Việt, đóng đô ở Đông Kinh (tức Thăng Long), lập ra triều Lê sơ.",
+    "Ông là vị vua đầu tiên của nhà Lê sơ, miếu hiệu là Lê Thái Tổ, mất năm 1433 sau 5 năm trị vì.",
+    "Truyền thuyết hồ Hoàn Kiếm kể rằng Lê Lợi được Rùa Vàng cho mượn gươm thần để đánh giặc, sau khi thắng lợi thì trả gươm lại giữa hồ ở Thăng Long."
+   ],
+   "traps": [
+    "Nhầm Lê Lợi lên ngôi ngay năm 1418. Đúng: năm 1418 ông chỉ xưng Bình Định vương; đến năm 1428, sau khi đuổi hết quân Minh, ông mới lên ngôi hoàng đế.",
+    "Nhầm Lê Lợi lập ra nhà Hậu Lê ở Hoa Lư hay Thăng Long. Đúng: kinh đô nhà Lê sơ đặt ở Đông Kinh, chính là Thăng Long được đổi tên.",
+    "Nhầm Lê Lợi là người viết 'Bình Ngô đại cáo'. Đúng: Nguyễn Trãi viết bài cáo ấy theo lệnh của Lê Lợi."
+   ],
+   "lessons": [
+    {
+     "book": "Cánh diều",
+     "bai": 19
+    },
+    {
+     "book": "KNTT",
+     "bai": 16
+    },
+    {
+     "book": "cũ",
+     "bai": 19
+    },
+    {
+     "book": "CTST",
+     "bai": 19
+    }
+   ],
+   "topic_title": "Khởi nghĩa Lam Sơn (1418 – 1427)",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Kh%E1%BB%9Fi_ngh%C4%A9a_Lam_S%C6%A1n",
+    "https://vi.wikipedia.org/wiki/Nh%C3%A0_L%C3%AA_s%C6%A1"
+   ]
+  },
+  {
+   "name": "Trận Chi Lăng – Xương Giang (1427)",
+   "kind": "battle",
+   "year": 1427,
+   "date_start": "1427-09-18",
+   "date_end": "1427-11",
+   "place": "Ải Chi Lăng (Lạng Sơn) – thành Xương Giang (Bắc Giang)",
+   "actors": [
+    "Lê Lợi",
+    "Lê Sát",
+    "Trần Lựu",
+    "Liễu Thăng",
+    "Mộc Thạnh",
+    "Thôi Tụ",
+    "Hoàng Phúc"
+   ],
+   "aliases": [
+    "Chiến thắng Chi Lăng - Xương Giang",
+    "Trận Chi Lăng",
+    "Trận Xương Giang",
+    "Chi Lăng – Xương Giang 1427",
+    "Trận Chi Lăng Xương Giang"
+   ],
+   "summary": "Trận quyết chiến chiến lược cuối năm 1427, nghĩa quân Lam Sơn tiêu diệt hoàn toàn 15 vạn viện binh Minh, chém Liễu Thăng ở ải Chi Lăng, buộc quân Minh trong thành Đông Quan phải đầu hàng.",
+   "facts": [
+    "Năm 1427, nhà Minh sai Liễu Thăng đem 10 vạn quân theo đường Lạng Sơn và Mộc Thạnh đem 5 vạn quân theo đường Vân Nam sang cứu viện cho Vương Thông đang bị vây ở Đông Quan.",
+    "Nghĩa quân Lam Sơn chủ trương 'vây thành diệt viện': tiếp tục vây Đông Quan nhưng dồn lực tiêu diệt đạo viện binh trước.",
+    "Tướng Trần Lựu vờ thua để nhử Liễu Thăng đuổi theo vào ải Chi Lăng; tại đây Liễu Thăng bị phục binh chém chết ở núi Mã Yên vào ngày 20 tháng 9 âm lịch năm 1427 cùng hơn một vạn quân Minh.",
+    "Số quân Minh còn lại rút chạy về phía Xương Giang thì bị bao vây tiêu diệt: hơn 5 vạn quân bị giết, hơn 3 vạn bị bắt, các tướng Thôi Tụ và Hoàng Phúc bị bắt sống.",
+    "Mộc Thạnh không tử trận; khi nghe tin Liễu Thăng bị chém, đạo quân của ông ta tan vỡ bỏ chạy, bản thân Mộc Thạnh chạy thoát.",
+    "Vì toàn bộ viện binh bị tiêu diệt nên Vương Thông trong thành Đông Quan mất hết hy vọng, buộc phải xin hòa và rút quân về nước, kết thúc chiến tranh."
+   ],
+   "traps": [
+    "Nhầm Mộc Thạnh cũng tử trận ở Chi Lăng. Đúng: chỉ Liễu Thăng bị chém ở núi Mã Yên (ải Chi Lăng); Mộc Thạnh nghe tin thì bỏ chạy và thoát thân.",
+    "Nhầm Chi Lăng – Xương Giang là trận đánh của Lê Hoàn hay Lý Thường Kiệt. Đúng: đây là trận của nghĩa quân Lam Sơn do Lê Lợi lãnh đạo, năm 1427, đánh viện binh nhà Minh.",
+    "Nhầm chủ trương của nghĩa quân là đánh chiếm Đông Quan trước. Đúng: chủ trương là 'vây thành diệt viện' – vây Đông Quan và tập trung tiêu diệt viện binh."
+   ],
+   "lessons": [
+    {
+     "book": "Cánh diều",
+     "bai": 19
+    },
+    {
+     "book": "KNTT",
+     "bai": 16
+    },
+    {
+     "book": "cũ",
+     "bai": 19
+    },
+    {
+     "book": "CTST",
+     "bai": 19
+    }
+   ],
+   "topic_title": "Khởi nghĩa Lam Sơn (1418 – 1427)",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Tr%E1%BA%ADn_Chi_L%C4%83ng_%E2%80%93_X%C6%B0%C6%A1ng_Giang",
+    "https://vi.wikipedia.org/wiki/Kh%E1%BB%9Fi_ngh%C4%A9a_Lam_S%C6%A1n"
+   ]
+  },
+  {
+   "name": "Bình Ngô đại cáo",
+   "kind": "artifact",
+   "year": 1428,
+   "date_start": "1428",
+   "date_end": null,
+   "place": "Đông Kinh (Thăng Long)",
+   "actors": [
+    "Nguyễn Trãi",
+    "Lê Lợi"
+   ],
+   "aliases": [
+    "Đại cáo bình Ngô",
+    "Bình Ngô đại cáo của Nguyễn Trãi",
+    "Bình ngô đại cáo",
+    "Áng thiên cổ hùng văn"
+   ],
+   "summary": "Bài cáo chữ Hán do Nguyễn Trãi soạn theo lệnh Lê Lợi năm 1428, tuyên bố thắng lợi trước quân Minh và khẳng định nền độc lập của Đại Việt, được coi là bản Tuyên ngôn Độc lập thứ hai.",
+   "facts": [
+    "'Bình Ngô đại cáo' do Nguyễn Trãi soạn theo lệnh của Lê Lợi và được công bố năm 1428, ngay sau khi quân Minh rút hết về nước.",
+    "Bài cáo viết bằng chữ Hán theo lối văn biền ngẫu, dài khoảng 1.330 chữ, được người đời sau khen là 'áng thiên cổ hùng văn'.",
+    "Mở đầu bài cáo, Nguyễn Trãi khẳng định Đại Việt là một nước có nền văn hiến riêng, có lãnh thổ, phong tục và lịch sử các triều đại riêng, ngang hàng với phương Bắc.",
+    "Bài cáo tố cáo tội ác của quân Minh, kể lại chặng đường gian khổ của khởi nghĩa Lam Sơn và nêu tư tưởng 'lấy đại nghĩa thắng hung tàn, lấy chí nhân thay cường bạo'.",
+    "Vì tuyên bố dứt khoát chủ quyền và chấm dứt ách đô hộ, 'Bình Ngô đại cáo' được coi là bản Tuyên ngôn Độc lập thứ hai của dân tộc, sau 'Nam quốc sơn hà'.",
+    "Chữ 'Ngô' trong nhan đề là cách gọi quân xâm lược phương Bắc, ở đây chỉ quân Minh."
+   ],
+   "traps": [
+    "Nhầm 'Bình Ngô đại cáo' viết năm 1427. Đúng: bài cáo được công bố năm 1428, sau khi chiến tranh đã kết thúc.",
+    "Nhầm tác giả là Lê Lợi. Đúng: tác giả là Nguyễn Trãi, viết theo lệnh Lê Lợi.",
+    "Nhầm 'Ngô' là nước Ngô thời Tam Quốc. Đúng: ở đây 'Ngô' là cách người Việt gọi quân xâm lược phương Bắc, cụ thể là quân Minh.",
+    "Nhầm đây là bản tuyên ngôn độc lập đầu tiên. Đúng: bản thứ nhất là 'Nam quốc sơn hà', 'Bình Ngô đại cáo' là bản thứ hai."
+   ],
+   "lessons": [
+    {
+     "book": "Cánh diều",
+     "bai": 19
+    },
+    {
+     "book": "KNTT",
+     "bai": 16
+    },
+    {
+     "book": "cũ",
+     "bai": 19
+    },
+    {
+     "book": "CTST",
+     "bai": 19
+    }
+   ],
+   "topic_title": "Khởi nghĩa Lam Sơn (1418 – 1427)",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/B%C3%ACnh_Ng%C3%B4_%C4%91%E1%BA%A1i_c%C3%A1o"
+   ]
+  },
+  {
+   "name": "Đại Việt thời Lê sơ (1428–1527)",
+   "kind": "dynasty",
+   "year": 1428,
+   "date_start": "1428",
+   "date_end": "1527",
+   "place": "Đông Kinh (Thăng Long)",
+   "actors": [
+    "Lê Lợi",
+    "Lê Thánh Tông",
+    "Ngô Sĩ Liên",
+    "Mạc Đăng Dung"
+   ],
+   "aliases": [
+    "Nhà Lê sơ",
+    "Triều Lê sơ",
+    "Nước Đại Việt thời Lê sơ",
+    "Đại Việt thời Lê sơ",
+    "Lê sơ"
+   ],
+   "summary": "Giai đoạn Đại Việt dưới triều Lê sơ từ 1428 đến 1527, phát triển rực rỡ nhất dưới thời Lê Thánh Tông, kết thúc khi Mạc Đăng Dung cướp ngôi lập nhà Mạc.",
+   "facts": [
+    "Năm 1428, sau thắng lợi của khởi nghĩa Lam Sơn, Lê Lợi lên ngôi hoàng đế, đặt quốc hiệu Đại Việt và đóng đô ở Đông Kinh, mở đầu thời Lê sơ.",
+    "Nhà nước Lê sơ được tổ chức theo hướng tập trung quyền lực vào tay vua; đến thời Lê Thánh Tông thì bỏ hẳn các chức quan trung gian như tể tướng và lập sáu bộ giúp việc trực tiếp cho vua.",
+    "Năm 1471, Lê Thánh Tông chia lại cả nước thành 13 đạo thừa tuyên, mỗi đạo có ba ty phụ trách hành chính, quân sự và tư pháp riêng biệt.",
+    "Nhà Lê sơ lấy Nho giáo làm hệ tư tưởng chính thống, mở nhiều khoa thi và cho dựng bia tiến sĩ ở Văn Miếu để khắc tên người đỗ đại khoa.",
+    "Về kinh tế, nhà Lê sơ thi hành phép quân điền chia lại ruộng công trong làng xã, khuyến khích khai hoang và đắp đê, nhờ đó nông nghiệp phục hồi nhanh sau chiến tranh.",
+    "Năm 1527, Mạc Đăng Dung ép vua Lê nhường ngôi và lập ra nhà Mạc, chấm dứt thời kì Lê sơ kéo dài gần một trăm năm."
+   ],
+   "traps": [
+    "Nhầm kinh đô nhà Lê sơ là Lam Kinh hay Hoa Lư. Đúng: kinh đô là Đông Kinh, tức Thăng Long; Lam Kinh (Thanh Hóa) chỉ là nơi đặt lăng miếu tổ tiên họ Lê.",
+    "Nhầm nhà Lê sơ kéo dài đến thế kỉ XVIII. Đúng: thời Lê sơ chỉ từ 1428 đến 1527; sau đó là nhà Mạc, rồi thời Lê trung hưng.",
+    "Nhầm người chấm dứt nhà Lê sơ là Trịnh Kiểm hay Nguyễn Kim. Đúng: người cướp ngôi nhà Lê sơ năm 1527 là Mạc Đăng Dung."
+   ],
+   "lessons": [
+    {
+     "book": "Cánh diều",
+     "bai": 20
+    },
+    {
+     "book": "KNTT",
+     "bai": 17
+    },
+    {
+     "book": "cũ",
+     "bai": 20
+    },
+    {
+     "book": "CTST",
+     "bai": 20
+    }
+   ],
+   "topic_title": "Việt Nam thời Lê sơ (1428 – 1527)",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Nh%C3%A0_L%C3%AA_s%C6%A1",
+    "https://vi.wikipedia.org/wiki/L%C3%AA_Th%C3%A1nh_T%C3%B4ng"
+   ]
+  },
+  {
+   "name": "Lê Thánh Tông",
+   "kind": "person",
+   "year": null,
+   "date_start": "1442-08-25",
+   "date_end": "1497-03-03",
+   "place": "Đông Kinh (Thăng Long)",
+   "actors": [
+    "Lê Thánh Tông",
+    "Ngô Sĩ Liên"
+   ],
+   "aliases": [
+    "Lê Tư Thành",
+    "vua Lê Thánh Tông",
+    "Hồng Đức đế",
+    "Lê Thánh Tôn",
+    "Thánh Tông nhà Lê"
+   ],
+   "summary": "Vị vua trị vì 1460-1497, đưa Đại Việt thời Lê sơ đến giai đoạn cường thịnh nhất với cải cách hành chính 13 đạo thừa tuyên, bộ luật Hồng Đức và nền văn hóa, khoa cử phát triển.",
+   "facts": [
+    "Lê Thánh Tông tên thật là Lê Tư Thành, sinh năm 1442, trị vì từ năm 1460 đến khi mất năm 1497, tổng cộng 37 năm.",
+    "Ông đặt hai niên hiệu là Quang Thuận (1460-1469) và Hồng Đức (1469-1497); giai đoạn Hồng Đức được sử sách gọi là thời thịnh trị nhất của nhà Lê sơ.",
+    "Năm 1471, ông chia cả nước thành 13 đạo thừa tuyên và bãi bỏ các chức quan trung gian, lập sáu bộ để tập trung quyền hành vào tay nhà vua.",
+    "Ông cho ban hành bộ 'Quốc triều hình luật', quen gọi là luật Hồng Đức, và cho hoàn thành bản đồ hành chính cả nước gọi là bản đồ Hồng Đức vào năm 1490.",
+    "Năm 1471, quân Đại Việt do ông chỉ huy tiến đánh Chăm-pa, chiếm kinh đô Vi-giay-a và bắt vua Chăm là Trà Toàn, khiến lãnh thổ Đại Việt mở rộng nhiều về phía nam.",
+    "Ông là ông vua hay chữ, sáng tác hàng trăm bài thơ và năm 1495 lập hội Tao Đàn quy tụ 28 nhà thơ trong triều gọi là 'Tao Đàn nhị thập bát tú'.",
+    "Chính dưới triều ông, năm 1479, sử thần Ngô Sĩ Liên hoàn thành bộ 'Đại Việt sử ký toàn thư'."
+   ],
+   "traps": [
+    "Nhầm Lê Thánh Tông là người sáng lập nhà Lê sơ. Đúng: người sáng lập là Lê Lợi (Lê Thái Tổ) năm 1428; Lê Thánh Tông lên ngôi năm 1460.",
+    "Nhầm số đạo thừa tuyên là 12 hay 15. Đúng: năm 1471 Lê Thánh Tông chia cả nước thành 13 đạo thừa tuyên.",
+    "Nhầm bộ luật Hồng Đức do Lê Lợi ban hành. Đúng: 'Quốc triều hình luật' (luật Hồng Đức) gắn với thời Lê Thánh Tông."
+   ],
+   "lessons": [
+    {
+     "book": "Cánh diều",
+     "bai": 20
+    },
+    {
+     "book": "KNTT",
+     "bai": 17
+    },
+    {
+     "book": "cũ",
+     "bai": 20
+    },
+    {
+     "book": "CTST",
+     "bai": 20
+    }
+   ],
+   "topic_title": "Việt Nam thời Lê sơ (1428 – 1527)",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/L%C3%AA_Th%C3%A1nh_T%C3%B4ng",
+    "https://vi.wikipedia.org/wiki/Nh%C3%A0_L%C3%AA_s%C6%A1",
+    "https://vi.wikipedia.org/wiki/Ch%C4%83m_Pa"
+   ]
+  },
+  {
+   "name": "Quốc triều hình luật (Luật Hồng Đức)",
+   "kind": "artifact",
+   "year": null,
+   "date_start": null,
+   "date_end": null,
+   "place": "Đông Kinh (Thăng Long)",
+   "actors": [
+    "Lê Thánh Tông"
+   ],
+   "aliases": [
+    "Luật Hồng Đức",
+    "Bộ luật Hồng Đức",
+    "Quốc triều hình luật",
+    "Luật Hồng Đức thời Lê sơ"
+   ],
+   "summary": "Bộ luật tiêu biểu của thời Lê sơ, gắn với niên hiệu Hồng Đức của Lê Thánh Tông, nổi bật vì có nhiều điều bảo vệ quyền lợi phụ nữ và người dân.",
+   "facts": [
+    "'Quốc triều hình luật', thường gọi là luật Hồng Đức, là bộ luật tiêu biểu nhất của thời Lê sơ, gắn với niên hiệu Hồng Đức (1469-1497) của vua Lê Thánh Tông.",
+    "Bộ luật bảo vệ quyền lợi của nhà vua, hoàng tộc và giai cấp thống trị, đồng thời khuyến khích sản xuất nông nghiệp và bảo vệ chủ quyền quốc gia.",
+    "Điểm tiến bộ nổi bật là bộ luật có nhiều điều bảo vệ quyền lợi phụ nữ, ví dụ con gái cũng được chia tài sản thừa kế và người vợ có quyền xin li hôn trong một số trường hợp.",
+    "Vì có những quy định tiến bộ hiếm thấy trong xã hội phong kiến, luật Hồng Đức được đánh giá là thành tựu lập pháp nổi bật của lịch sử Việt Nam thời trung đại."
+   ],
+   "traps": [
+    "Nhầm luật Hồng Đức là bộ luật thành văn đầu tiên của nước ta. Đúng: bộ luật thành văn đầu tiên là 'Hình thư' thời Lý (năm 1042); luật Hồng Đức là bộ luật thời Lê sơ.",
+    "Nhầm luật Hồng Đức với 'Hoàng Việt luật lệ' (luật Gia Long). Đúng: luật Hồng Đức là thời Lê sơ thế kỉ XV, còn luật Gia Long là thời Nguyễn đầu thế kỉ XIX."
+   ],
+   "lessons": [
+    {
+     "book": "Cánh diều",
+     "bai": 20
+    },
+    {
+     "book": "KNTT",
+     "bai": 17
+    },
+    {
+     "book": "cũ",
+     "bai": 20
+    },
+    {
+     "book": "CTST",
+     "bai": 20
+    }
+   ],
+   "topic_title": "Việt Nam thời Lê sơ (1428 – 1527)",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/L%C3%AA_Th%C3%A1nh_T%C3%B4ng",
+    "https://vi.wikipedia.org/wiki/Nh%C3%A0_L%C3%AA_s%C6%A1"
+   ]
+  },
+  {
+   "name": "Đại Việt sử ký toàn thư",
+   "kind": "artifact",
+   "year": 1479,
+   "date_start": "1479",
+   "date_end": null,
+   "place": "Đông Kinh (Thăng Long)",
+   "actors": [
+    "Ngô Sĩ Liên",
+    "Lê Thánh Tông"
+   ],
+   "aliases": [
+    "Đại Việt sử ký toàn thư của Ngô Sĩ Liên",
+    "Toàn thư",
+    "ĐVSKTT",
+    "Đại Việt sử kí toàn thư"
+   ],
+   "summary": "Bộ quốc sử do Ngô Sĩ Liên hoàn thành năm 1479 dưới triều Lê Thánh Tông, chép lịch sử Việt Nam từ thời truyền thuyết, là bộ sử biên niên quan trọng bậc nhất còn lại đến nay.",
+   "facts": [
+    "'Đại Việt sử ký toàn thư' được sử thần Ngô Sĩ Liên hoàn thành năm 1479, dưới triều vua Lê Thánh Tông.",
+    "Bộ sử chép lịch sử nước ta từ thời truyền thuyết Kinh Dương Vương, qua các triều đại, và về sau được các sử thần đời sau chép nối tiếp.",
+    "Bản in đầy đủ và được phát hành rộng rãi nhất là bản khắc in năm 1697 thời vua Lê Hy Tông, gồm 25 quyển chia thành phần Ngoại kỷ và phần Bản kỷ.",
+    "Ngô Sĩ Liên soạn bộ sử này trên cơ sở kế thừa 'Đại Việt sử ký' của Lê Văn Hưu thời Trần và 'Đại Việt sử ký tục biên' của Phan Phu Tiên.",
+    "Vì là bộ sử biên niên xưa nhất còn nguyên vẹn đến nay, 'Đại Việt sử ký toàn thư' trở thành nguồn tư liệu gốc quan trọng bậc nhất để tìm hiểu lịch sử Việt Nam thời trung đại."
+   ],
+   "traps": [
+    "Nhầm 'Đại Việt sử ký toàn thư' với 'Đại Việt sử ký'. Đúng: 'Đại Việt sử ký' là của Lê Văn Hưu, hoàn thành năm 1272 thời Trần; 'Đại Việt sử ký toàn thư' là của Ngô Sĩ Liên, hoàn thành năm 1479 thời Lê sơ.",
+    "Nhầm tác giả là Lê Văn Hưu. Đúng: người soạn bộ 'Toàn thư' năm 1479 là Ngô Sĩ Liên."
+   ],
+   "lessons": [
+    {
+     "book": "Cánh diều",
+     "bai": 20
+    },
+    {
+     "book": "KNTT",
+     "bai": 17
+    },
+    {
+     "book": "cũ",
+     "bai": 20
+    },
+    {
+     "book": "CTST",
+     "bai": 20
+    }
+   ],
+   "topic_title": "Việt Nam thời Lê sơ (1428 – 1527)",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_Vi%E1%BB%87t_s%E1%BB%AD_k%C3%BD_to%C3%A0n_th%C6%B0",
+    "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_Vi%E1%BB%87t_s%E1%BB%AD_k%C3%BD"
+   ]
+  },
+  {
+   "name": "Vương quốc Chăm-pa từ đầu thế kỉ X đến đầu thế kỉ XVI",
+   "kind": "period",
+   "year": null,
+   "date_start": "0900",
+   "date_end": "1471",
+   "place": "Vùng Trung Bộ Việt Nam, kinh đô Vi-giay-a (Bình Định)",
+   "actors": [
+    "Chế Mân",
+    "Trà Toàn",
+    "Lê Thánh Tông",
+    "Huyền Trân công chúa"
+   ],
+   "aliases": [
+    "Chăm-pa",
+    "Chiêm Thành",
+    "Vương quốc Chăm Pa",
+    "Champa",
+    "Chăm pa thế kỉ X-XVI"
+   ],
+   "summary": "Giai đoạn Chăm-pa dời trung tâm về Vi-giay-a (Đồ Bàn), nhiều lần thay đổi lãnh thổ trong quan hệ với Đại Việt và Chân Lạp, đến năm 1471 thì suy yếu hẳn sau khi mất kinh đô.",
+   "facts": [
+    "Từ khoảng năm 1000, người Chăm dời trung tâm chính trị xuống Vi-giay-a, người Việt gọi là Đồ Bàn hay Chà Bàn, nằm gần thành phố Quy Nhơn (Bình Định) ngày nay.",
+    "Năm 1069, sau cuộc tiến công của vua Lý Thánh Tông và Lý Thường Kiệt, vua Chăm-pa nhường cho Đại Việt ba châu Bố Chính, Địa Lý (Quảng Bình) và Ma Linh (bắc Quảng Trị).",
+    "Năm 1306, vua Chăm-pa là Chế Mân dâng châu Ô và châu Rí (nam Quảng Trị và Thừa Thiên Huế) làm sính lễ cưới công chúa Huyền Trân của Đại Việt.",
+    "Trong khoảng 1113-1220 diễn ra 'cuộc chiến tranh Một trăm năm' với Chân Lạp, khiến Chăm-pa hai lần bị Chân Lạp chiếm đóng.",
+    "Năm 1471, vua Lê Thánh Tông đem quân đánh chiếm kinh đô Vi-giay-a và bắt vua Trà Toàn; từ đó lãnh thổ Chăm-pa bị thu hẹp mạnh và chia thành nhiều tiểu quốc nhỏ.",
+    "Chăm-pa chủ yếu theo Hin-đu giáo, thờ thần Si-va, để lại các đền tháp gạch đặc sắc như thánh địa Mỹ Sơn – di sản văn hóa thế giới được UNESCO công nhận năm 1999.",
+    "Kinh tế Chăm-pa dựa vào trồng lúa, thủ công nghiệp và nhất là thương mại biển, vì vậy các cảng của Chăm-pa từng là điểm dừng quan trọng trên con đường buôn bán trên biển."
+   ],
+   "traps": [
+    "Nhầm kinh đô Chăm-pa giai đoạn này là Mỹ Sơn. Đúng: Mỹ Sơn là thánh địa tôn giáo; kinh đô từ khoảng năm 1000 đến 1471 là Vi-giay-a (Đồ Bàn) ở Bình Định.",
+    "Nhầm Chăm-pa bị xóa sổ hoàn toàn năm 1471. Đúng: năm 1471 Chăm-pa mất kinh đô và suy yếu nghiêm trọng, nhưng vẫn còn các tiểu quốc tồn tại thêm nhiều thế kỉ.",
+    "Nhầm châu Ô, châu Rí được nhường sau một cuộc chiến. Đúng: năm 1306 Chế Mân dâng hai châu này làm sính lễ cưới công chúa Huyền Trân, tức bằng con đường hôn nhân."
+   ],
+   "lessons": [
+    {
+     "book": "Cánh diều",
+     "bai": 21
+    }
+   ],
+   "topic_title": "Vùng đất phía nam",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Ch%C4%83m_Pa",
+    "https://loigiaihay.com/bai-21-vung-dat-phia-nam-tu-dau-the-ki-x-den-dau-the-ki-xvi-sgk-lich-su-va-dia-li-7-chan-troi-sang-tao-a107865.html"
+   ]
+  },
+  {
+   "name": "Vùng đất Nam Bộ từ đầu thế kỉ X đến đầu thế kỉ XVI",
+   "kind": "period",
+   "year": null,
+   "date_start": "0900",
+   "date_end": "1500",
+   "place": "Nam Bộ Việt Nam",
+   "actors": [],
+   "aliases": [
+    "Vùng đất Nam Bộ thế kỉ X-XVI",
+    "Nam Bộ sau thời Phù Nam",
+    "Thủy Chân Lạp",
+    "Vùng đất phía nam Nam Bộ"
+   ],
+   "summary": "Giai đoạn vùng Nam Bộ sau khi Phù Nam sụp đổ: dân cư thưa thớt, sản xuất nông nghiệp và đánh bắt là chính, văn hóa vừa giữ truyền thống Phù Nam vừa tiếp nhận ảnh hưởng bên ngoài.",
+   "facts": [
+    "Sau khi vương quốc Phù Nam sụp đổ vào khoảng thế kỉ VII, vùng đất Nam Bộ trên danh nghĩa thuộc quyền cai quản của Chân Lạp nhưng thực tế triều đình Chân Lạp gần như không quản lí được vùng đất xa xôi, ngập nước này.",
+    "Từ thế kỉ X đến đầu thế kỉ XVI, dân cư Nam Bộ rất thưa thớt, sinh sống rải rác trên các giồng đất cao và ven các con sông lớn.",
+    "Hoạt động kinh tế chủ yếu của cư dân là trồng lúa nước kết hợp chăn nuôi gia súc, gia cầm và đánh bắt thủy hải sản.",
+    "Về văn hóa, cư dân vẫn giữ nhiều truyền thống từ thời Phù Nam, đồng thời tiếp nhận ảnh hưởng từ bên ngoài; Hin-đu giáo, Phật giáo và các tín ngưỡng dân gian tiếp tục được duy trì.",
+    "Vì vùng đất bị bỏ hoang hóa nhiều thế kỉ nên đến các thế kỉ XVII-XVIII, khi lưu dân người Việt vào khai phá, Nam Bộ mới thực sự được đánh thức và phát triển mạnh."
+   ],
+   "traps": [
+    "Nhầm Nam Bộ thời kì này là một vương quốc mạnh. Đúng: sau khi Phù Nam sụp đổ, vùng Nam Bộ dân cư thưa thớt, hoang hóa, không có nhà nước riêng phát triển.",
+    "Nhầm Phù Nam tồn tại đến thế kỉ XVI. Đúng: Phù Nam sụp đổ khoảng thế kỉ VII; giai đoạn X-XVI là thời kì vùng đất này thuộc danh nghĩa Chân Lạp."
+   ],
+   "lessons": [
+    {
+     "book": "Cánh diều",
+     "bai": 21
+    }
+   ],
+   "topic_title": "Vùng đất phía nam",
+   "sources": [
+    "https://loigiaihay.com/bai-21-vung-dat-phia-nam-tu-dau-the-ki-x-den-dau-the-ki-xvi-sgk-lich-su-va-dia-li-7-chan-troi-sang-tao-a107865.html",
+    "https://vietjack.com/lich-su-7-kn/ly-thuyet-bai-18-vuong-quoc-cham-pa-va-vung-dat-nam-bo-tu-dau-the-ki-x.jsp"
+   ]
+  },
+  {
+   "name": "Các vương quốc phong kiến Đông Nam Á (nửa sau thế kỉ X – nửa đầu thế kỉ XVI)",
+   "kind": "period",
+   "year": null,
+   "date_start": "0950",
+   "date_end": "1550",
+   "place": "Đông Nam Á",
+   "actors": [
+    "Pha Ngừm",
+    "Gia-y-a-vác-man VII"
+   ],
+   "aliases": [
+    "Đông Nam Á từ nửa sau thế kỉ X đến nửa đầu thế kỉ XVI",
+    "Khái quát Đông Nam Á thế kỉ X-XVI",
+    "Các quốc gia phong kiến Đông Nam Á",
+    "Vương quốc phong kiến Đông Nam Á"
+   ],
+   "summary": "Giai đoạn các quốc gia phong kiến Đông Nam Á phát triển thịnh đạt và hình thành thêm nhiều vương quốc mới, với nền văn hóa riêng dựa trên ảnh hưởng Ấn Độ, Trung Hoa và bản địa.",
+   "facts": [
+    "Từ nửa sau thế kỉ X đến nửa đầu thế kỉ XVI, các quốc gia phong kiến Đông Nam Á bước vào thời kì phát triển thịnh đạt, củng cố bộ máy nhà nước và luật pháp.",
+    "Ở lục địa có Đại Việt, vương quốc Pa-gan (Mi-an-ma) mạnh lên từ nửa sau thế kỉ X, vương quốc Cam-pu-chia thời Ăng-co và các vương quốc của người Thái là Su-khô-thay rồi A-yút-thay-a hình thành từ thế kỉ XIII.",
+    "Ở hải đảo, vương quốc Mô-giô-pa-hít thống nhất phần lớn các đảo của In-đô-nê-xi-a trong các thế kỉ XIII-XIV, sau đó vương quốc Hồi giáo Ma-lắc-ca nổi lên thành trung tâm buôn bán lớn.",
+    "Vì các cuộc xâm lược của quân Mông – Nguyên thế kỉ XIII đã làm xáo trộn khu vực nên nhiều tộc người phải di cư và lập nên các vương quốc mới như Su-khô-thay, A-yút-thay-a và Lan Xang.",
+    "Về tôn giáo, Phật giáo Tiểu thừa trở nên phổ biến, còn Hồi giáo được du nhập vào khu vực hải đảo từ khoảng thế kỉ XII-XIII.",
+    "Về chữ viết, chữ Thái ra đời từ đầu thế kỉ XIII, chữ Lào khoảng thế kỉ XIV, còn người Việt sáng tạo chữ Nôm trên cơ sở chữ Hán.",
+    "Kiến trúc tiêu biểu của khu vực gồm quần thể đền Ăng-co ở Cam-pu-chia và chùa Suê-đa-gôn ở Mi-an-ma, phản ánh ảnh hưởng đậm nét của văn hóa Ấn Độ."
+   ],
+   "traps": [
+    "Nhầm chữ Nôm là chữ của người Thái hoặc người Lào. Đúng: chữ Nôm là chữ của người Việt, sáng tạo dựa trên chữ Hán.",
+    "Nhầm Hồi giáo có mặt ở Đông Nam Á ngay từ đầu Công nguyên. Đúng: Hồi giáo du nhập vào khu vực hải đảo khoảng thế kỉ XII-XIII, muộn hơn nhiều so với Hin-đu giáo và Phật giáo.",
+    "Nhầm Su-khô-thay và A-yút-thay-a là hai tên gọi của cùng một vương quốc. Đúng: đó là hai vương quốc của người Thái, A-yút-thay-a về sau chinh phục Su-khô-thay."
+   ],
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 6
+    },
+    {
+     "book": "CTST",
+     "bai": 11
+    }
+   ],
+   "topic_title": "Các vương quốc phong kiến Đông Nam Á từ nửa sau thế kỉ X đến nửa đầu thế kỉ XVI",
+   "sources": [
+    "https://vietjack.com/lich-su-7-kn/ly-thuyet-bai-6-cac-vuong-quoc-phong-kien-dong-nam-a.jsp",
+    "https://olm.vn/chu-de/ly-thuyet-bai-6-cac-vuong-quoc-phong-kien-dong-nam-a-tu-nua-sau-the-ki-x-den-nua-dau-the-ki-xvi-3604029641"
+   ]
+  },
+  {
+   "name": "Vương quốc Cam-pu-chia thời Ăng-co",
+   "kind": "period",
+   "year": null,
+   "date_start": "0802",
+   "date_end": "1431",
+   "place": "Ăng-co (Cam-pu-chia)",
+   "actors": [
+    "Gia-y-a-vác-man II",
+    "Xu-ry-a-vác-man II",
+    "Gia-y-a-vác-man VII"
+   ],
+   "aliases": [
+    "Thời kì Ăng-co",
+    "Đế quốc Khơ-me",
+    "Vương quốc Ăng-co",
+    "Ăng-co",
+    "Angkor"
+   ],
+   "summary": "Thời kì thịnh đạt nhất của vương quốc Cam-pu-chia, kéo dài từ năm 802 đến năm 1431, để lại quần thể đền Ăng-co Vát và Ăng-co Thom nổi tiếng thế giới.",
+   "facts": [
+    "Thời kì Ăng-co của vương quốc Cam-pu-chia bắt đầu từ năm 802, khi vua Gia-y-a-vác-man II tự xưng là 'vua của các vị vua' trên núi Phnôm Ku-len.",
+    "Trong các thế kỉ X-XIII, vương quốc Ăng-co là quốc gia hùng mạnh bậc nhất Đông Nam Á, lãnh thổ có lúc bao trùm cả vùng hạ lưu sông Mê Công.",
+    "Đền Ăng-co Vát được xây dựng vào đầu thế kỉ XII dưới thời vua Xu-ry-a-vác-man II, thờ thần Vi-snu, là ngôi đền lớn nhất thế giới thờ vị thần này.",
+    "Kinh thành Ăng-co Thom với những tháp mặt người nổi tiếng được xây dựng dưới thời vua Gia-y-a-vác-man VII vào cuối thế kỉ XII.",
+    "Năm 1431, quân A-yút-thay-a của người Thái chiếm được Ăng-co Thom, buộc người Khơ-me phải bỏ kinh đô mà chuyển dần xuống phía nam – đây là mốc kết thúc thời kì Ăng-co.",
+    "Vì nền tảng kinh tế là nông nghiệp trồng lúa dựa vào hệ thống hồ chứa và kênh dẫn nước khổng lồ nên khi hệ thống thủy lợi suy thoái, sức mạnh của Ăng-co cũng suy yếu theo."
+   ],
+   "traps": [
+    "Nhầm Ăng-co Vát và Ăng-co Thom là một công trình. Đúng: Ăng-co Vát là ngôi đền xây đầu thế kỉ XII, Ăng-co Thom là kinh thành xây cuối thế kỉ XII, hai công trình khác nhau.",
+    "Nhầm Ăng-co Vát là đền thờ Phật ngay từ đầu. Đúng: ban đầu Ăng-co Vát là đền Hin-đu giáo thờ thần Vi-snu, về sau mới chuyển thành nơi thờ Phật.",
+    "Nhầm thời kì Ăng-co kết thúc vào thế kỉ XVI. Đúng: kết thúc năm 1431 khi quân A-yút-thay-a chiếm Ăng-co Thom."
+   ],
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 6
+    },
+    {
+     "book": "CTST",
+     "bai": 11
+    }
+   ],
+   "topic_title": "Các vương quốc phong kiến Đông Nam Á từ nửa sau thế kỉ X đến nửa đầu thế kỉ XVI",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%BF_qu%E1%BB%91c_Khmer",
+    "https://olm.vn/chu-de/ly-thuyet-bai-6-cac-vuong-quoc-phong-kien-dong-nam-a-tu-nua-sau-the-ki-x-den-nua-dau-the-ki-xvi-3604029641"
+   ]
+  },
+  {
+   "name": "Vương quốc Lan Xang",
+   "kind": "period",
+   "year": 1353,
+   "date_start": "1353",
+   "date_end": null,
+   "place": "Lào",
+   "actors": [
+    "Pha Ngừm"
+   ],
+   "aliases": [
+    "Lan Xang",
+    "Lạn Xạng",
+    "Lang Xang",
+    "Vương quốc Triệu Voi",
+    "Lan Xang (Triệu Voi)"
+   ],
+   "summary": "Vương quốc thống nhất đầu tiên của người Lào, do Pha Ngừm lập năm 1353, tên gọi có nghĩa là 'Triệu Voi', kinh đô ban đầu ở vùng Luông Pha-băng.",
+   "facts": [
+    "Năm 1353, thủ lĩnh Pha Ngừm đã thống nhất các mường Lào rời rạc và lập ra vương quốc Lan Xang.",
+    "Tên 'Lan Xang' có nghĩa là 'Triệu Voi', thể hiện sức mạnh và sự giàu có của vương quốc.",
+    "Kinh đô đầu tiên của Lan Xang đặt ở Xiềng Đông – Xiềng Thoong, tức Luông Pha-băng ngày nay.",
+    "Pha Ngừm lập ra bộ máy cai trị tập trung với người đứng đầu được tôn là 'Chậu Xỉ-vít', nghĩa là chúa tể của sự sống.",
+    "Vì các mường nhỏ vẫn giữ khá nhiều quyền tự trị nên Lan Xang không tập quyền chặt như một số nước láng giềng, song sau hơn một thế kỉ phát triển vẫn trở thành vương quốc khá mạnh ở vùng Đông Dương.",
+    "Lan Xang thịnh đạt nhất vào thế kỉ XVII rồi suy yếu và bị chia cắt vào thế kỉ XVIII."
+   ],
+   "traps": [
+    "Nhầm Lan Xang là tên gọi của Cam-pu-chia. Đúng: Lan Xang là vương quốc của người LÀO, còn Cam-pu-chia thời này là vương quốc Ăng-co của người Khơ-me.",
+    "Nhầm kinh đô đầu tiên của Lan Xang là Viêng Chăn. Đúng: kinh đô ban đầu ở Xiềng Đông – Xiềng Thoong, tức Luông Pha-băng; Viêng Chăn là kinh đô về sau."
+   ],
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 6
+    },
+    {
+     "book": "CTST",
+     "bai": 11
+    }
+   ],
+   "topic_title": "Các vương quốc phong kiến Đông Nam Á từ nửa sau thế kỉ X đến nửa đầu thế kỉ XVI",
+   "sources": [
+    "https://nghiencuulichsu.com/2013/05/06/lich-su-lao-vuong-quoc-lang-xang/",
+    "https://olm.vn/chu-de/ly-thuyet-bai-6-cac-vuong-quoc-phong-kien-dong-nam-a-tu-nua-sau-the-ki-x-den-nua-dau-the-ki-xvi-3604029641"
+   ]
+  },
+  {
+   "name": "Vương quốc Chăm-pa và vùng đất Nam Bộ từ đầu thế kỉ X đến đầu thế kỉ XVI",
+   "kind": "period",
+   "year": null,
+   "date_start": "0900",
+   "date_end": "1500",
+   "place": "Trung Bộ và Nam Bộ Việt Nam",
+   "actors": [
+    "Chế Mân",
+    "Trà Toàn",
+    "Lê Thánh Tông"
+   ],
+   "aliases": [
+    "Chăm-pa và Nam Bộ thế kỉ X-XVI",
+    "Vương quốc Chăm pa và vùng đất Nam Bộ",
+    "Chăm-pa, Nam Bộ từ thế kỉ X đến XVI"
+   ],
+   "summary": "Bức tranh chung của vùng đất phía nam từ thế kỉ X đến đầu thế kỉ XVI: Chăm-pa lấy Vi-giay-a làm kinh đô rồi suy yếu sau năm 1471, còn Nam Bộ hoang hóa, dân cư thưa thớt.",
+   "facts": [
+    "Từ đầu thế kỉ X đến đầu thế kỉ XVI, Chăm-pa lấy Vi-giay-a (Đồ Bàn, Bình Định ngày nay) làm kinh đô và trải qua nhiều biến động trong quan hệ với Đại Việt và Chân Lạp.",
+    "Năm 1306, vua Chăm là Chế Mân dâng châu Ô và châu Rí làm sính lễ cưới công chúa Huyền Trân, nhờ đó lãnh thổ Đại Việt mở rộng tới vùng Thừa Thiên Huế ngày nay.",
+    "Năm 1471, vua Lê Thánh Tông đánh chiếm Vi-giay-a; từ đó Chăm-pa suy yếu hẳn và bị chia thành nhiều tiểu quốc nhỏ.",
+    "Người Chăm giỏi xây tháp gạch và điêu khắc đá, để lại các di tích như thánh địa Mỹ Sơn, tháp Bánh Ít, tháp Dương Long.",
+    "Trong khi đó, vùng đất Nam Bộ sau khi Phù Nam sụp đổ thì gần như bị bỏ hoang: dân cư thưa thớt, sống bằng trồng lúa nước, chăn nuôi và đánh bắt thủy hải sản.",
+    "Vì triều đình Chân Lạp không quản lí nổi vùng đất ngập nước xa xôi này nên Nam Bộ vẫn giữ nhiều truyền thống văn hóa từ thời Phù Nam và các tín ngưỡng dân gian."
+   ],
+   "traps": [
+    "Nhầm Chăm-pa và Phù Nam là một. Đúng: Chăm-pa ở vùng Trung Bộ và tồn tại đến thế kỉ XVII-XVIII; Phù Nam ở vùng Nam Bộ và sụp đổ từ thế kỉ VII.",
+    "Nhầm sau năm 1471 Chăm-pa biến mất hoàn toàn. Đúng: Chăm-pa mất kinh đô và suy yếu, nhưng các tiểu quốc còn tồn tại thêm nhiều thế kỉ."
+   ],
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 18
+    }
+   ],
+   "topic_title": "Các vương quốc phong kiến Đông Nam Á từ nửa sau thế kỉ X đến nửa đầu thế kỉ XVI",
+   "sources": [
+    "https://vietjack.com/lich-su-7-kn/ly-thuyet-bai-18-vuong-quoc-cham-pa-va-vung-dat-nam-bo-tu-dau-the-ki-x.jsp",
+    "https://vi.wikipedia.org/wiki/Ch%C4%83m_Pa"
+   ]
+  },
+  {
+   "name": "Ngô Quyền xưng vương và nhà Ngô (939–965)",
+   "kind": "dynasty",
+   "year": 939,
+   "date_start": "939",
+   "date_end": "965",
+   "place": "Cổ Loa (Đông Anh, Hà Nội)",
+   "actors": [
+    "Ngô Quyền",
+    "Dương Tam Kha",
+    "Ngô Xương Ngập",
+    "Ngô Xương Văn"
+   ],
+   "aliases": [
+    "Nhà Ngô",
+    "Ngô Vương Quyền",
+    "Triều Ngô",
+    "Ngô Quyền xưng vương",
+    "Tiền Ngô Vương"
+   ],
+   "summary": "Sau chiến thắng Bạch Đằng năm 938, Ngô Quyền xưng vương năm 939 và đóng đô ở Cổ Loa, mở nền độc lập tự chủ; nhà Ngô tồn tại đến năm 965 thì suy sụp.",
+   "facts": [
+    "Sau chiến thắng Bạch Đằng năm 938, đến năm 939 Ngô Quyền xưng vương, bỏ hẳn chức Tiết độ sứ của phong kiến phương Bắc và đóng đô ở Cổ Loa.",
+    "Việc bỏ chức Tiết độ sứ để xưng vương có ý nghĩa rất lớn: nó tuyên bố nước ta là một quốc gia độc lập, chấm dứt hơn một nghìn năm Bắc thuộc.",
+    "Ngô Quyền chọn Cổ Loa – kinh đô cũ của nhà nước Âu Lạc – làm kinh đô nhằm khẳng định sự nối tiếp truyền thống dựng nước của tổ tiên.",
+    "Ông đặt ra các chức quan văn võ, quy định lễ nghi trong triều và cử người trông coi các địa phương, bước đầu xây dựng bộ máy nhà nước tự chủ.",
+    "Ngô Quyền mất ngày 14/2/944; ngay sau đó Dương Tam Kha cướp ngôi, khiến triều đình rối loạn.",
+    "Năm 950, Ngô Xương Văn lật đổ Dương Tam Kha giành lại ngôi vua, nhưng đến năm 965 ông tử trận thì nhà Ngô sụp đổ, đất nước rơi vào loạn 12 sứ quân."
+   ],
+   "traps": [
+    "Nhầm Ngô Quyền xưng đế. Đúng: các vua nhà Ngô chỉ xưng VƯƠNG chứ chưa xưng đế; người đầu tiên xưng đế là Đinh Bộ Lĩnh năm 968.",
+    "Nhầm Ngô Quyền đóng đô ở Hoa Lư hay Đại La. Đúng: kinh đô nhà Ngô là Cổ Loa; Hoa Lư là kinh đô nhà Đinh, còn Đại La (Thăng Long) là kinh đô từ thời Lý.",
+    "Nhầm Ngô Quyền xưng vương ngay năm 938. Đúng: trận Bạch Đằng là năm 938, đến năm 939 ông mới xưng vương."
+   ],
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 9
+    }
+   ],
+   "topic_title": "Đất nước buổi đầu độc lập (939 - 967)",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Ng%C3%B4_Quy%E1%BB%81n",
+    "https://vi.wikipedia.org/wiki/Nh%C3%A0_Ng%C3%B4"
+   ]
+  },
+  {
+   "name": "Loạn 12 sứ quân",
+   "kind": "event",
+   "year": 965,
+   "date_start": "965",
+   "date_end": "968",
+   "place": "Đại Việt (các vùng châu thổ Bắc Bộ)",
+   "actors": [
+    "Ngô Xương Văn",
+    "Đỗ Cảnh Thạc",
+    "Trần Lãm",
+    "Phạm Bạch Hổ",
+    "Đinh Bộ Lĩnh"
+   ],
+   "aliases": [
+    "Loạn 12 sứ quân",
+    "Thời kì 12 sứ quân",
+    "Loạn mười hai sứ quân",
+    "12 sứ quân"
+   ],
+   "summary": "Thời kì đất nước bị chia cắt bởi 12 thế lực cát cứ sau khi nhà Ngô suy sụp, kéo dài từ năm 965 đến khi Đinh Bộ Lĩnh thống nhất đất nước năm 968.",
+   "facts": [
+    "Sau khi Ngô Quyền mất năm 944, Dương Tam Kha cướp ngôi khiến triều đình rối loạn và các thế lực địa phương không chịu phục tùng trung ương.",
+    "Năm 965, Ngô Xương Văn tử trận, nhà Ngô sụp đổ hẳn; các thổ hào ở nhiều nơi nổi lên chiếm giữ một vùng, xưng là sứ quân, sử gọi là 'loạn 12 sứ quân'.",
+    "Một số sứ quân tiêu biểu là Đỗ Cảnh Thạc ở Đỗ Động Giang, Trần Lãm ở Bố Hải Khẩu, Phạm Bạch Hổ ở Đằng Châu, Ngô Nhật Khánh ở Đường Lâm.",
+    "Vì đất nước bị chia cắt thành nhiều vùng đánh nhau liên miên nên sản xuất đình đốn, nhân dân khổ cực và nguy cơ ngoại xâm từ phương Bắc lại đe dọa.",
+    "Đinh Bộ Lĩnh, xuất thân ở Hoa Lư (Ninh Bình), đã kết hợp đánh dẹp bằng quân sự với thu phục bằng chính trị, lần lượt dẹp yên các sứ quân và thống nhất đất nước vào năm 968.",
+    "Nhân dân gọi ông là 'Vạn Thắng vương' vì đánh đâu thắng đó."
+   ],
+   "traps": [
+    "Nhầm loạn 12 sứ quân xảy ra ngay sau khi Ngô Quyền mất năm 944. Đúng: sau năm 944 triều đình đã rối loạn, nhưng cục diện 12 sứ quân chỉ hình thành rõ từ năm 965, khi Ngô Xương Văn mất.",
+    "Nhầm người dẹp loạn 12 sứ quân là Lê Hoàn. Đúng: người dẹp loạn và thống nhất đất nước năm 968 là Đinh Bộ Lĩnh; Lê Hoàn lên ngôi sau, năm 980.",
+    "Nhầm 12 sứ quân là quân xâm lược nước ngoài. Đúng: đó là các thế lực cát cứ trong nước, do các thổ hào địa phương cầm đầu."
+   ],
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 9
+    }
+   ],
+   "topic_title": "Đất nước buổi đầu độc lập (939 - 967)",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Lo%E1%BA%A1n_12_s%E1%BB%A9_qu%C3%A2n",
+    "https://vi.wikipedia.org/wiki/Nh%C3%A0_Ng%C3%B4"
+   ]
+  },
+  {
+   "name": "Đinh Bộ Lĩnh thống nhất đất nước (968)",
+   "kind": "event",
+   "year": 968,
+   "date_start": "968",
+   "date_end": null,
+   "place": "Hoa Lư (Ninh Bình)",
+   "actors": [
+    "Đinh Bộ Lĩnh",
+    "Trần Lãm"
+   ],
+   "aliases": [
+    "Đinh Bộ Lĩnh dẹp loạn 12 sứ quân",
+    "Đinh Tiên Hoàng thống nhất đất nước",
+    "Vạn Thắng vương",
+    "Đinh Bộ Lĩnh"
+   ],
+   "summary": "Năm 968 Đinh Bộ Lĩnh dẹp xong loạn 12 sứ quân, lên ngôi Hoàng đế, đặt quốc hiệu Đại Cồ Việt và đóng đô ở Hoa Lư.",
+   "facts": [
+    "Đinh Bộ Lĩnh quê ở Hoa Lư (Ninh Bình), thuở nhỏ nổi tiếng với trò chơi cờ lau tập trận cùng lũ trẻ chăn trâu.",
+    "Ông dựa vào lực lượng của sứ quân Trần Lãm ở Bố Hải Khẩu rồi vừa đánh dẹp vừa thu phục, lần lượt dẹp yên toàn bộ 12 sứ quân.",
+    "Năm 968, sau khi đất nước thống nhất, Đinh Bộ Lĩnh lên ngôi Hoàng đế, lấy hiệu là Đinh Tiên Hoàng.",
+    "Ông đặt quốc hiệu nước ta là Đại Cồ Việt, đóng đô ở Hoa Lư và năm 970 đặt niên hiệu Thái Bình.",
+    "Việc Đinh Bộ Lĩnh xưng Hoàng đế và đặt niên hiệu riêng có ý nghĩa khẳng định nước ta ngang hàng với phương Bắc, không còn là một quận huyện phụ thuộc."
+   ],
+   "traps": [
+    "Nhầm Đinh Bộ Lĩnh xưng vương như Ngô Quyền. Đúng: ông xưng HOÀNG ĐẾ (Đinh Tiên Hoàng), đây là điểm khác biệt quan trọng so với nhà Ngô chỉ xưng vương.",
+    "Nhầm kinh đô là Cổ Loa hay Đại La. Đúng: kinh đô nhà Đinh là Hoa Lư (Ninh Bình).",
+    "Nhầm quốc hiệu là Đại Việt. Đúng: quốc hiệu thời Đinh là ĐẠI CỒ VIỆT; quốc hiệu Đại Việt phải đến năm 1054 thời Lý Thánh Tông mới có."
+   ],
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 9
+    }
+   ],
+   "topic_title": "Đất nước buổi đầu độc lập (939 - 967)",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Nh%C3%A0_%C4%90inh",
+    "https://vi.wikipedia.org/wiki/Lo%E1%BA%A1n_12_s%E1%BB%A9_qu%C3%A2n"
+   ]
+  },
+  {
+   "name": "Nhà Đinh và nước Đại Cồ Việt (968–980)",
+   "kind": "dynasty",
+   "year": 968,
+   "date_start": "968",
+   "date_end": "980",
+   "place": "Hoa Lư (Ninh Bình)",
+   "actors": [
+    "Đinh Bộ Lĩnh",
+    "Đinh Liễn",
+    "Đinh Toàn",
+    "Đỗ Thích",
+    "Dương Vân Nga"
+   ],
+   "aliases": [
+    "Nhà Đinh",
+    "Triều Đinh",
+    "Đại Cồ Việt thời Đinh",
+    "Nước Đại Cồ Việt",
+    "Đinh Tiên Hoàng"
+   ],
+   "summary": "Triều đại do Đinh Bộ Lĩnh lập năm 968 với quốc hiệu Đại Cồ Việt, kinh đô Hoa Lư, tồn tại 12 năm rồi chuyển sang nhà Tiền Lê năm 980.",
+   "facts": [
+    "Năm 968, Đinh Bộ Lĩnh lên ngôi Hoàng đế, lập ra nhà Đinh, đặt quốc hiệu là Đại Cồ Việt và chọn Hoa Lư làm kinh đô.",
+    "Ông đặt niên hiệu Thái Bình từ năm 970, cho đúc tiền đồng 'Thái Bình hưng bảo' – đồng tiền riêng đầu tiên của nước ta.",
+    "Nhà Đinh xây dựng quân đội gồm mười đạo, đặt các chức quan văn võ và dùng hình phạt nghiêm khắc để giữ kỉ cương trong buổi đầu dựng nước.",
+    "Cuối năm 979, Đinh Tiên Hoàng cùng con trai Đinh Liễn bị ám hại; sử cũ chép do viên quan Đỗ Thích gây ra.",
+    "Con nhỏ là Đinh Toàn mới 6 tuổi lên nối ngôi, trong khi quân Tống lăm le xâm lược, vì vậy năm 980 triều thần và Thái hậu Dương Vân Nga đã suy tôn Thập đạo tướng quân Lê Hoàn lên làm vua, mở ra nhà Tiền Lê.",
+    "Nhà Đinh chỉ tồn tại 12 năm (968-980) nhưng có công đặt nền móng cho nhà nước quân chủ tập quyền độc lập ở nước ta."
+   ],
+   "traps": [
+    "Nhầm quốc hiệu thời Đinh là Đại Việt. Đúng: quốc hiệu là ĐẠI CỒ VIỆT.",
+    "Nhầm Lê Hoàn cướp ngôi nhà Đinh. Đúng: ông được Thái hậu Dương Vân Nga và triều thần suy tôn lên ngôi năm 980 trong hoàn cảnh vua còn nhỏ và giặc Tống sắp sang.",
+    "Nhầm Đinh Tiên Hoàng mất năm 980. Đúng: ông bị ám hại cuối năm 979; năm 980 mới là năm Lê Hoàn lên ngôi."
+   ],
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 10
+    },
+    {
+     "book": "cũ",
+     "bai": 9
+    }
+   ],
+   "topic_title": "Đại Cồ Việt thời Đinh và Tiền Lê (968 - 1009)",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Nh%C3%A0_%C4%90inh"
+   ]
+  },
+  {
+   "name": "Nhà Tiền Lê và Lê Hoàn (980–1009)",
+   "kind": "dynasty",
+   "year": 980,
+   "date_start": "980",
+   "date_end": "1009",
+   "place": "Hoa Lư (Ninh Bình)",
+   "actors": [
+    "Lê Hoàn",
+    "Dương Vân Nga",
+    "Lê Long Đĩnh"
+   ],
+   "aliases": [
+    "Nhà Tiền Lê",
+    "Lê Đại Hành",
+    "Triều Tiền Lê",
+    "Lê Hoàn",
+    "Đại Cồ Việt thời Tiền Lê"
+   ],
+   "summary": "Triều đại do Lê Hoàn lập năm 980 sau khi được suy tôn thay nhà Đinh, nổi bật với chiến thắng chống Tống năm 981 và lễ cày tịch điền, tồn tại đến năm 1009.",
+   "facts": [
+    "Năm 980, trước nguy cơ quân Tống xâm lược và khi vua Đinh Toàn còn nhỏ, Thập đạo tướng quân Lê Hoàn được Thái hậu Dương Vân Nga cùng triều thần suy tôn lên ngôi, lập ra nhà Tiền Lê, sử gọi là Lê Đại Hành.",
+    "Nhà Tiền Lê vẫn giữ quốc hiệu Đại Cồ Việt và đóng đô ở Hoa Lư như nhà Đinh.",
+    "Ngay năm 981, Lê Hoàn đã chỉ huy quân dân đánh tan cuộc xâm lược của nhà Tống, giữ vững nền độc lập.",
+    "Lê Hoàn là vị vua đầu tiên đích thân cày ruộng trong lễ tịch điền vào mùa xuân, nhằm khuyến khích nhân dân chăm lo sản xuất nông nghiệp.",
+    "Ông cũng cho đào kênh, mở đường và đặt quan hệ bang giao với nhà Tống trên thế nước độc lập.",
+    "Năm 1009, vua Lê Long Đĩnh mất, triều Tiền Lê chấm dứt; các quan trong triều đã tôn Lý Công Uẩn lên ngôi, mở ra nhà Lý."
+   ],
+   "traps": [
+    "Nhầm nhà Tiền Lê với nhà Lê sơ (Hậu Lê). Đúng: nhà TIỀN LÊ là của Lê Hoàn (980-1009); nhà LÊ SƠ là của Lê Lợi, bắt đầu năm 1428, cách nhau hơn 400 năm.",
+    "Nhầm Lê Hoàn dời đô ra Thăng Long. Đúng: kinh đô thời Tiền Lê vẫn ở Hoa Lư; việc dời đô ra Thăng Long là của Lý Công Uẩn năm 1010."
+   ],
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 10
+    },
+    {
+     "book": "cũ",
+     "bai": 9
+    }
+   ],
+   "topic_title": "Đại Cồ Việt thời Đinh và Tiền Lê (968 - 1009)",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_tranh_T%E1%BB%91ng%E2%80%93Vi%E1%BB%87t_(981)",
+    "https://vi.wikipedia.org/wiki/Nh%C3%A0_%C4%90inh"
+   ]
+  },
+  {
+   "name": "Cuộc kháng chiến chống Tống năm 981",
+   "kind": "campaign",
+   "year": 981,
+   "date_start": "981-01",
+   "date_end": "981-04",
+   "place": "Sông Bạch Đằng, ải Chi Lăng (Lạng Sơn), Bình Lỗ",
+   "actors": [
+    "Lê Hoàn",
+    "Phạm Cự Lạng",
+    "Hầu Nhân Bảo",
+    "Tôn Toàn Hưng"
+   ],
+   "aliases": [
+    "Kháng chiến chống Tống lần thứ nhất",
+    "Chiến tranh Tống – Việt 981",
+    "Kháng chiến chống Tống năm 981",
+    "Cuộc kháng chiến chống quân Tống xâm lược lần thứ nhất"
+   ],
+   "summary": "Cuộc kháng chiến chống quân Tống lần thứ nhất do Lê Hoàn chỉ huy đầu năm 981, đánh bại quân Tống ở Bạch Đằng và Chi Lăng, tướng Hầu Nhân Bảo tử trận.",
+   "facts": [
+    "Đầu năm 981, nhà Tống lợi dụng lúc nước ta vừa thay đổi triều đại đã đưa quân theo hai đường thủy bộ sang xâm lược Đại Cồ Việt.",
+    "Quân Tống do Hầu Nhân Bảo làm tổng chỉ huy, cùng các tướng Tôn Toàn Hưng, Lưu Trừng; phía Đại Cồ Việt do vua Lê Hoàn trực tiếp cầm quân.",
+    "Lê Hoàn đã cho đóng cọc trên sông Bạch Đằng để chặn thủy quân giặc, học theo cách đánh của Ngô Quyền năm 938.",
+    "Đến tháng 4 năm 981, quân ta đánh tan quân Tống ở vùng sông Bạch Đằng và ải Chi Lăng, tướng tổng chỉ huy Hầu Nhân Bảo tử trận.",
+    "Vì mất chủ tướng và bị đánh cả hai đường thủy bộ nên quân Tống phải rút chạy về nước, cuộc xâm lược thất bại hoàn toàn.",
+    "Sau chiến thắng, nhà Tống buộc phải công nhận nền độc lập của Đại Cồ Việt và nối lại quan hệ bang giao."
+   ],
+   "traps": [
+    "Nhầm cuộc kháng chiến năm 981 do Lý Thường Kiệt chỉ huy. Đúng: năm 981 do LÊ HOÀN chỉ huy; Lý Thường Kiệt chỉ huy cuộc kháng chiến lần thứ hai năm 1075-1077.",
+    "Nhầm trận Bạch Đằng năm 981 với trận Bạch Đằng năm 938 của Ngô Quyền. Đúng: đây là hai trận khác nhau, cách nhau 43 năm và đánh hai kẻ thù khác nhau (Nam Hán và Tống).",
+    "Nhầm tướng giặc tử trận là Quách Quỳ. Đúng: năm 981 tướng Tống tử trận là Hầu Nhân Bảo; Quách Quỳ là tướng Tống trong cuộc chiến 1076-1077."
+   ],
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 10
+    },
+    {
+     "book": "cũ",
+     "bai": 9
+    }
+   ],
+   "topic_title": "Đại Cồ Việt thời Đinh và Tiền Lê (968 - 1009)",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_tranh_T%E1%BB%91ng%E2%80%93Vi%E1%BB%87t_(981)"
+   ]
+  },
+  {
+   "name": "Nhà Lý thành lập và dời đô ra Thăng Long (1009–1010)",
+   "kind": "event",
+   "year": 1010,
+   "date_start": "1009-10",
+   "date_end": "1010",
+   "place": "Hoa Lư (Ninh Bình) – Đại La / Thăng Long (Hà Nội)",
+   "actors": [
+    "Lý Công Uẩn",
+    "Lê Long Đĩnh",
+    "Vạn Hạnh"
+   ],
+   "aliases": [
+    "Lý Công Uẩn dời đô",
+    "Nhà Lý dời đô ra Thăng Long",
+    "Lý Thái Tổ",
+    "Dời đô năm 1010",
+    "Triều Lý định đô ở Thăng Long"
+   ],
+   "summary": "Năm 1009 Lý Công Uẩn lên ngôi lập ra nhà Lý; năm 1010 ông dời đô từ Hoa Lư về thành Đại La và đổi tên thành Thăng Long, mở ra thời kì phát triển mới của đất nước.",
+   "facts": [
+    "Tháng 10 năm 1009, sau khi vua Lê Long Đĩnh mất, Lý Công Uẩn được triều thần và sư Vạn Hạnh ủng hộ tôn lên làm vua, lập ra nhà Lý, tức Lý Thái Tổ.",
+    "Mùa xuân năm 1010, Lý Công Uẩn ban 'Chiếu dời đô' và dời kinh đô từ Hoa Lư về thành Đại La, rồi đổi tên thành Thăng Long, nghĩa là 'rồng bay lên'.",
+    "Vì Hoa Lư nằm giữa vùng núi non chật hẹp chỉ hợp phòng thủ, còn Đại La ở giữa đồng bằng rộng lớn, đất bằng phẳng, giao thông thuận lợi, nên nhà Lý dời đô để mở mang đất nước lâu dài.",
+    "Việc dời đô ra Thăng Long đánh dấu bước chuyển từ nhu cầu phòng thủ sang nhu cầu xây dựng và phát triển kinh tế – văn hóa của một quốc gia đã vững mạnh.",
+    "Năm 1054, vua Lý Thánh Tông đổi quốc hiệu từ Đại Cồ Việt thành Đại Việt – tên nước được dùng suốt nhiều thế kỉ sau đó.",
+    "Nhà Lý tồn tại 216 năm với 9 đời vua, kết thúc năm 1225 khi Lý Chiêu Hoàng nhường ngôi cho Trần Cảnh."
+   ],
+   "traps": [
+    "Nhầm Lý Công Uẩn dời đô năm 1009. Đúng: ông lên ngôi năm 1009 và dời đô năm 1010.",
+    "Nhầm quốc hiệu Đại Việt có từ khi nhà Lý thành lập. Đúng: quốc hiệu Đại Việt được đặt năm 1054, dưới thời Lý Thánh Tông, trước đó vẫn là Đại Cồ Việt.",
+    "Nhầm Thăng Long là tên có sẵn của thành Đại La. Đúng: Đại La là tên cũ, sau khi dời đô năm 1010 Lý Công Uẩn mới đổi tên thành Thăng Long."
+   ],
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 11
+    },
+    {
+     "book": "CTST",
+     "bai": 15
+    }
+   ],
+   "topic_title": "Nhà Lý xây dựng và phát triển đất nước (1009 - 1225)",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Nh%C3%A0_L%C3%BD"
+   ]
+  },
+  {
+   "name": "Chiếu dời đô",
+   "kind": "artifact",
+   "year": 1010,
+   "date_start": "1010",
+   "date_end": null,
+   "place": "Hoa Lư – Đại La",
+   "actors": [
+    "Lý Công Uẩn"
+   ],
+   "aliases": [
+    "Thiên đô chiếu",
+    "Chiếu dời đô của Lý Công Uẩn",
+    "Chiếu dời đô 1010",
+    "Chiếu rời đô"
+   ],
+   "summary": "Bài chiếu do Lý Công Uẩn ban năm 1010 để giải thích lí do dời kinh đô từ Hoa Lư về thành Đại La, mở đầu cho lịch sử nghìn năm của Thăng Long – Hà Nội.",
+   "facts": [
+    "'Chiếu dời đô', tên chữ Hán là 'Thiên đô chiếu', do vua Lý Công Uẩn ban vào mùa xuân năm 1010 để công bố quyết định dời kinh đô.",
+    "Trong bài chiếu, nhà vua nêu rõ thành Đại La ở vào nơi trung tâm trời đất, thế đất rộng và bằng phẳng, dân cư không khổ vì ngập lụt, muôn vật phong phú tốt tươi.",
+    "Bài chiếu cũng dẫn việc các triều đại xưa từng dời đô để cho thấy dời đô là việc bình thường và cần thiết khi đất nước phát triển.",
+    "Vì Lý Công Uẩn nhìn thấy thế đất Đại La phù hợp cho một kinh đô lâu dài nên ông quyết định dời đô, và sự kiện này mở đầu lịch sử hơn một nghìn năm của Thăng Long – Hà Nội.",
+    "Tương truyền khi thuyền vua đến chân thành Đại La thì thấy rồng vàng bay lên, vì thế kinh đô mới được đặt tên là Thăng Long."
+   ],
+   "traps": [
+    "Nhầm tác giả 'Chiếu dời đô' là Lý Thường Kiệt hay Lý Thánh Tông. Đúng: tác giả là Lý Công Uẩn (Lý Thái Tổ), năm 1010.",
+    "Nhầm 'Chiếu dời đô' viết bằng chữ Nôm. Đúng: bài chiếu viết bằng chữ Hán."
+   ],
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 11
+    },
+    {
+     "book": "CTST",
+     "bai": 15
+    }
+   ],
+   "topic_title": "Nhà Lý xây dựng và phát triển đất nước (1009 - 1225)",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Nh%C3%A0_L%C3%BD"
+   ]
+  },
+  {
+   "name": "Tổ chức nhà nước và luật pháp thời Lý",
+   "kind": "concept",
+   "year": 1042,
+   "date_start": "1042",
+   "date_end": null,
+   "place": "Thăng Long",
+   "actors": [
+    "Lý Thái Tông",
+    "Lý Thánh Tông"
+   ],
+   "aliases": [
+    "Hình thư",
+    "Bộ luật Hình thư",
+    "Luật pháp thời Lý",
+    "Ngụ binh ư nông",
+    "Tổ chức bộ máy nhà nước thời Lý"
+   ],
+   "summary": "Nhà Lý xây dựng bộ máy quân chủ tập quyền, ban hành bộ luật thành văn đầu tiên là 'Hình thư' năm 1042 và thực hiện chính sách quân sự 'ngụ binh ư nông'.",
+   "facts": [
+    "Nhà Lý tổ chức bộ máy nhà nước theo chế độ quân chủ tập quyền: vua đứng đầu, dưới có các quan đại thần, cả nước chia thành 24 lộ, phủ, dưới nữa là hương, xã.",
+    "Năm 1042, vua Lý Thái Tông cho ban hành bộ 'Hình thư' – bộ luật thành văn đầu tiên của nước ta, giúp việc xét xử có quy định rõ ràng thay vì tùy tiện.",
+    "Quân đội nhà Lý gồm cấm quân bảo vệ kinh thành và quân địa phương ở các lộ, được huấn luyện chu đáo và trang bị đầy đủ.",
+    "Nhà Lý thi hành chính sách 'ngụ binh ư nông': binh lính thay phiên nhau về quê cày cấy, khi có chiến tranh thì tập hợp lại chiến đấu.",
+    "Vì binh lính vẫn tham gia sản xuất nên chính sách 'ngụ binh ư nông' vừa bảo đảm lực lượng quốc phòng vừa không làm thiếu nhân lực cho nông nghiệp.",
+    "Nhà Lý còn gả công chúa và ban chức tước cho các tù trưởng miền núi để củng cố khối đoàn kết dân tộc và giữ vững vùng biên giới."
+   ],
+   "traps": [
+    "Nhầm bộ luật thành văn đầu tiên của nước ta là luật Hồng Đức. Đúng: bộ luật thành văn đầu tiên là 'Hình thư' năm 1042 thời Lý; luật Hồng Đức là thời Lê sơ thế kỉ XV.",
+    "Nhầm 'ngụ binh ư nông' nghĩa là giải tán quân đội. Đúng: đó là chính sách cho binh lính thay phiên về làm ruộng, khi cần thì triệu tập đánh giặc.",
+    "Nhầm 'Hình thư' ban hành thời Lý Công Uẩn. Đúng: bộ luật này do vua Lý Thái Tông ban hành năm 1042."
+   ],
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 11
+    },
+    {
+     "book": "CTST",
+     "bai": 15
+    }
+   ],
+   "topic_title": "Nhà Lý xây dựng và phát triển đất nước (1009 - 1225)",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Nh%C3%A0_L%C3%BD"
+   ]
+  },
+  {
+   "name": "Giáo dục và khoa cử thời Lý",
+   "kind": "concept",
+   "year": 1070,
+   "date_start": "1070",
+   "date_end": "1076",
+   "place": "Thăng Long",
+   "actors": [
+    "Lý Thánh Tông",
+    "Lý Nhân Tông",
+    "Lê Văn Thịnh"
+   ],
+   "aliases": [
+    "Văn Miếu Quốc Tử Giám thời Lý",
+    "Khoa thi đầu tiên 1075",
+    "Quốc Tử Giám 1076",
+    "Giáo dục thời Lý",
+    "Văn Miếu 1070"
+   ],
+   "summary": "Nhà Lý đặt nền móng cho giáo dục và khoa cử nước ta: dựng Văn Miếu năm 1070, mở khoa thi đầu tiên năm 1075 và lập Quốc Tử Giám năm 1076.",
+   "facts": [
+    "Năm 1070, vua Lý Thánh Tông cho xây Văn Miếu ở Thăng Long để thờ Khổng Tử và làm nơi dạy học cho con vua.",
+    "Năm 1075, nhà Lý mở khoa thi đầu tiên trong lịch sử khoa cử nước ta để chọn người tài ra làm quan; người đỗ đầu là Lê Văn Thịnh.",
+    "Năm 1076, vua Lý Nhân Tông cho lập Quốc Tử Giám bên cạnh Văn Miếu – được coi là trường đại học đầu tiên của nước ta.",
+    "Vì nhà nước cần một đội ngũ quan lại có học vấn để cai trị nên nhà Lý mở khoa thi và lập trường học, thay dần việc chọn quan theo dòng dõi.",
+    "Đạo Phật rất thịnh dưới thời Lý: các vua cho xây nhiều chùa tháp nổi tiếng như chùa Một Cột, tháp Báo Thiên, và nhiều nhà sư được trọng dụng làm cố vấn cho triều đình."
+   ],
+   "traps": [
+    "Nhầm Văn Miếu và Quốc Tử Giám xây cùng một năm. Đúng: Văn Miếu dựng năm 1070, còn Quốc Tử Giám lập năm 1076, cách nhau 6 năm.",
+    "Nhầm khoa thi đầu tiên mở năm 1076. Đúng: khoa thi đầu tiên là năm 1075; năm 1076 là năm lập Quốc Tử Giám.",
+    "Nhầm bia tiến sĩ ở Văn Miếu có từ thời Lý. Đúng: việc dựng bia tiến sĩ bắt đầu từ thời Lê sơ, thế kỉ XV."
+   ],
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 11
+    },
+    {
+     "book": "CTST",
+     "bai": 15
+    }
+   ],
+   "topic_title": "Nhà Lý xây dựng và phát triển đất nước (1009 - 1225)",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Nh%C3%A0_L%C3%BD"
+   ]
+  },
+  {
+   "name": "Nhà Trần thành lập (1226)",
+   "kind": "event",
+   "year": 1226,
+   "date_start": "1226-01",
+   "date_end": null,
+   "place": "Thăng Long",
+   "actors": [
+    "Lý Chiêu Hoàng",
+    "Trần Cảnh",
+    "Trần Thủ Độ"
+   ],
+   "aliases": [
+    "Nhà Trần thành lập",
+    "Trần Cảnh lên ngôi",
+    "Trần Thái Tông",
+    "Lý Chiêu Hoàng nhường ngôi",
+    "Triều Trần thành lập"
+   ],
+   "summary": "Cuối năm 1225 – đầu năm 1226, Lý Chiêu Hoàng nhường ngôi cho chồng là Trần Cảnh, chấm dứt nhà Lý và mở ra nhà Trần kéo dài đến năm 1400.",
+   "facts": [
+    "Cuối năm 1225, nữ hoàng Lý Chiêu Hoàng nhường ngôi cho chồng là Trần Cảnh; đầu năm 1226 Trần Cảnh chính thức lên ngôi, tức vua Trần Thái Tông, lập ra nhà Trần.",
+    "Người sắp đặt cuộc chuyển giao ngôi báu này là Thái sư Trần Thủ Độ, nhân vật có vai trò quyết định trong buổi đầu triều Trần.",
+    "Vì nhà Lý cuối thời suy yếu, vua quan ăn chơi, mất mùa đói kém và các thế lực nổi dậy khắp nơi nên việc chuyển giao sang họ Trần diễn ra tương đối êm thấm, không gây nội chiến lớn.",
+    "Nhà Trần bắt tay củng cố đất nước: chia lại cả nước thành 12 lộ, đắp đê Đỉnh nhĩ dọc các triền sông và đặt chức Hà đê sứ trông coi việc đê điều.",
+    "Nhà Trần ban hành bộ 'Quốc triều hình luật' và lập cơ quan Thẩm hình viện để xét xử kiện tụng.",
+    "Nhà Trần tồn tại 175 năm với 12 đời vua, kết thúc năm 1400 khi Hồ Quý Ly phế vua Trần và lập ra nhà Hồ."
+   ],
+   "traps": [
+    "Nhầm nhà Trần cướp ngôi nhà Lý bằng chiến tranh. Đúng: ngôi vua được chuyển giao bằng việc Lý Chiêu Hoàng nhường ngôi cho chồng là Trần Cảnh, do Trần Thủ Độ sắp đặt.",
+    "Nhầm vị vua đầu tiên nhà Trần là Trần Thủ Độ. Đúng: vua đầu tiên là Trần Cảnh (Trần Thái Tông); Trần Thủ Độ là Thái sư, không làm vua.",
+    "Nhầm nhà Trần thành lập năm 1225 hay 1258. Đúng: Lý Chiêu Hoàng nhường ngôi cuối năm 1225 và nhà Trần bắt đầu từ năm 1226."
+   ],
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 13
+    }
+   ],
+   "topic_title": "Đại Việt thời Trần (1226 - 1400)",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Nh%C3%A0_Tr%E1%BA%A7n"
+   ]
+  },
+  {
+   "name": "Chế độ Thái thượng hoàng thời Trần",
+   "kind": "concept",
+   "year": null,
+   "date_start": "1226",
+   "date_end": "1400",
+   "place": "Thăng Long – Thiên Trường",
+   "actors": [
+    "Trần Thái Tông",
+    "Trần Thánh Tông",
+    "Trần Nhân Tông"
+   ],
+   "aliases": [
+    "Thái thượng hoàng",
+    "Chế độ Thái thượng hoàng",
+    "Lưỡng đầu chế thời Trần",
+    "Thượng hoàng"
+   ],
+   "summary": "Tục lệ đặc trưng của nhà Trần: vua truyền ngôi sớm cho con rồi lên làm Thái thượng hoàng cùng dạy dỗ và trông coi việc nước, giúp tránh tranh giành ngôi báu.",
+   "facts": [
+    "Các vua nhà Trần thường truyền ngôi sớm cho con rồi lui về làm Thái thượng hoàng, cùng vua con trông coi việc nước.",
+    "Vì ngôi vua được định đoạt sớm ngay khi vua cha còn sống nên chế độ này hạn chế được nạn tranh giành ngôi báu và giúp vua trẻ được rèn luyện, có người dày dạn kinh nghiệm kèm cặp.",
+    "Chính nhờ cách làm này mà trong ba lần kháng chiến chống Mông – Nguyên, nhà Trần luôn có hai người đứng đầu cùng lo việc nước, ví dụ Thượng hoàng Trần Thánh Tông và vua Trần Nhân Tông trong cuộc kháng chiến năm 1285.",
+    "Nhà Trần còn có tục các vương hầu được cấp thái ấp và lập điền trang, đồng thời chỉ kết hôn trong nội bộ họ Trần để giữ ngôi báu không rơi vào tay dòng họ khác.",
+    "Chế độ Thái thượng hoàng và chính sách 'thân dân' của các vua Trần là nền tảng cho khối đoàn kết vua tôi, tạo nên sức mạnh đánh bại quân Mông – Nguyên."
+   ],
+   "traps": [
+    "Nhầm Thái thượng hoàng là chức vụ không có quyền hành. Đúng: dưới thời Trần, Thái thượng hoàng vẫn cùng vua con quyết định việc nước, thậm chí là người có tiếng nói cuối cùng.",
+    "Nhầm chế độ Thái thượng hoàng bắt đầu từ nhà Lý. Đúng: đây là nét đặc trưng của nhà TRẦN."
+   ],
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 13
+    }
+   ],
+   "topic_title": "Đại Việt thời Trần (1226 - 1400)",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Nh%C3%A0_Tr%E1%BA%A7n",
+    "https://vi.wikipedia.org/wiki/H%E1%BB%99i_ngh%E1%BB%8B_Di%C3%AAn_H%E1%BB%93ng"
+   ]
+  },
+  {
+   "name": "Nguyễn Hiền – Trạng nguyên trẻ nhất lịch sử khoa cử Việt Nam",
+   "kind": "person",
+   "year": null,
+   "date_start": "1234",
+   "date_end": "1256",
+   "place": "Làng Dương A, Nam Trực, Nam Định",
+   "actors": [
+    "Nguyễn Hiền",
+    "Trần Thái Tông",
+    "Lê Văn Hưu",
+    "Đặng Ma La"
+   ],
+   "aliases": [
+    "Nguyễn Hiền",
+    "Trạng nguyên Nguyễn Hiền",
+    "Trạng Hiền",
+    "Nguyễn Hiền trạng nguyên 13 tuổi"
+   ],
+   "summary": "Nguyễn Hiền (1234-1256) đỗ trạng nguyên năm 1247 khi mới 13 tuổi dưới triều vua Trần Thái Tông, là trạng nguyên trẻ nhất trong lịch sử khoa cử Việt Nam.",
+   "facts": [
+    "Nguyễn Hiền đỗ trạng nguyên năm 1247, khi mới 13 tuổi, và đến nay vẫn là trạng nguyên trẻ nhất trong lịch sử khoa cử Việt Nam.",
+    "Ông đỗ dưới triều vua Trần Thái Tông – vị vua đầu tiên của nhà Trần.",
+    "Nguyễn Hiền sinh năm 1234, mất năm 1256, quê ở làng Dương A, nay thuộc xã Nam Thắng, huyện Nam Trực, tỉnh Nam Định.",
+    "Khoa thi năm 1247 rất đặc biệt vì cả ba người đỗ đầu đều còn rất trẻ: Nguyễn Hiền 13 tuổi đỗ trạng nguyên, Lê Văn Hưu 17 tuổi đỗ bảng nhãn, Đặng Ma La 14 tuổi đỗ thám hoa.",
+    "Vì ông còn quá nhỏ nên sau khi đỗ, nhà vua cho ông về quê học thêm lễ nghĩa ba năm rồi mới bổ nhiệm làm quan.",
+    "Ông mất sớm khi mới 22 tuổi, nhưng tên tuổi 'Trạng Hiền' còn được nhân dân truyền tụng đến ngày nay."
+   ],
+   "traps": [
+    "Trả lời trạng nguyên trẻ nhất là 'Nguyễn Minh Sát'. SAI HOÀN TOÀN – không có nhân vật lịch sử nào tên như vậy. Đáp án đúng là NGUYỄN HIỀN, đỗ năm 1247 khi 13 tuổi.",
+    "Nhầm Nguyễn Hiền đỗ thời vua Trần Nhân Tông hoặc thời Lê. Đúng: ông đỗ năm 1247, dưới triều vua Trần Thái Tông.",
+    "Nhầm tuổi đỗ trạng nguyên là 12 hay 14. Đúng: Nguyễn Hiền đỗ trạng nguyên khi 13 tuổi.",
+    "Nhầm Lê Văn Hưu là người đỗ trạng nguyên khoa 1247. Đúng: khoa đó Lê Văn Hưu đỗ BẢNG NHÃN (17 tuổi), trạng nguyên là Nguyễn Hiền."
+   ],
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 13
+    }
+   ],
+   "topic_title": "Đại Việt thời Trần (1226 - 1400)",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Nguy%E1%BB%85n_Hi%E1%BB%81n",
+    "https://vi.wikipedia.org/wiki/Nh%C3%A0_Tr%E1%BA%A7n"
+   ]
+  },
+  {
+   "name": "Văn hóa, giáo dục và khoa học thời Trần",
+   "kind": "concept",
+   "year": 1272,
+   "date_start": "1226",
+   "date_end": "1400",
+   "place": "Thăng Long",
+   "actors": [
+    "Lê Văn Hưu",
+    "Chu Văn An",
+    "Hàn Thuyên",
+    "Trần Nhân Tông"
+   ],
+   "aliases": [
+    "Thành tựu văn hóa thời Trần",
+    "Đại Việt sử ký Lê Văn Hưu",
+    "Chữ Nôm thời Trần",
+    "Giáo dục thời Trần",
+    "Văn hóa Đại Việt thời Trần"
+   ],
+   "summary": "Thời Trần văn hóa Đại Việt phát triển rực rỡ với bộ quốc sử đầu tiên 'Đại Việt sử ký' (1272), sự phổ biến của chữ Nôm, thiền phái Trúc Lâm và nhà giáo Chu Văn An.",
+   "facts": [
+    "Năm 1272, sử gia Lê Văn Hưu hoàn thành bộ 'Đại Việt sử ký' gồm 30 quyển, chép lịch sử nước ta từ Triệu Vũ Đế đến Lý Chiêu Hoàng – đây là bộ quốc sử đầu tiên của Việt Nam.",
+    "Nhà Trần lập Quốc sử viện để chép sử và mở rộng Quốc Tử Giám cho cả con em quan lại và thường dân học giỏi vào học.",
+    "Chữ Nôm được dùng ngày càng rộng rãi trong sáng tác văn học; Hàn Thuyên là người nổi tiếng với việc làm thơ phú bằng chữ Nôm.",
+    "Chu Văn An là nhà giáo mẫu mực thời Trần; ông từng dâng 'Thất trảm sớ' xin chém bảy gian thần, khi vua không nghe thì ông từ quan về dạy học.",
+    "Vua Trần Nhân Tông sau khi nhường ngôi đã lên núi Yên Tử tu hành và sáng lập thiền phái Trúc Lâm – dòng thiền mang bản sắc riêng của người Việt.",
+    "Nghệ thuật thời Trần để lại nhiều công trình đặc sắc như tháp Phổ Minh, thành Tây Đô, cùng các tác phẩm văn học nổi tiếng như 'Hịch tướng sĩ' của Trần Quốc Tuấn và 'Phú sông Bạch Đằng' của Trương Hán Siêu."
+   ],
+   "traps": [
+    "Nhầm 'Đại Việt sử ký' của Lê Văn Hưu với 'Đại Việt sử ký toàn thư' của Ngô Sĩ Liên. Đúng: bộ của Lê Văn Hưu hoàn thành năm 1272 thời Trần; bộ 'Toàn thư' của Ngô Sĩ Liên hoàn thành năm 1479 thời Lê sơ.",
+    "Nhầm chữ Nôm ra đời thời Lê sơ. Đúng: chữ Nôm đã xuất hiện và được dùng rộng rãi từ thời Trần.",
+    "Nhầm thiền phái Trúc Lâm do Trần Thái Tông sáng lập. Đúng: người sáng lập là vua Trần Nhân Tông sau khi nhường ngôi, tu ở núi Yên Tử."
+   ],
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 13
+    }
+   ],
+   "topic_title": "Đại Việt thời Trần (1226 - 1400)",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_Vi%E1%BB%87t_s%E1%BB%AD_k%C3%BD",
+    "https://vi.wikipedia.org/wiki/Nh%C3%A0_Tr%E1%BA%A7n"
+   ]
+  },
+  {
+   "name": "Nước Đại Ngu thời Hồ (1400–1407)",
+   "kind": "dynasty",
+   "year": 1400,
+   "date_start": "1400",
+   "date_end": "1407",
+   "place": "Tây Đô (Thanh Hóa)",
+   "actors": [
+    "Hồ Quý Ly",
+    "Hồ Hán Thương",
+    "Hồ Nguyên Trừng"
+   ],
+   "aliases": [
+    "Nhà Hồ",
+    "Đại Ngu",
+    "Nước Đại Ngu",
+    "Triều Hồ",
+    "Đại Ngu thời Hồ"
+   ],
+   "summary": "Triều đại do Hồ Quý Ly lập năm 1400 với quốc hiệu Đại Ngu và kinh đô Tây Đô, chỉ tồn tại 7 năm rồi bị nhà Minh tiêu diệt năm 1407.",
+   "facts": [
+    "Năm 1400, Hồ Quý Ly phế truất vua Trần, lên ngôi và lập ra nhà Hồ, đặt quốc hiệu nước ta là Đại Ngu.",
+    "Chữ 'Ngu' trong quốc hiệu Đại Ngu mang nghĩa yên vui, thái bình, thể hiện mong ước xây dựng một đất nước thịnh trị.",
+    "Kinh đô của nhà Hồ là Tây Đô, tòa thành đá ở Vĩnh Lộc (Thanh Hóa) được xây từ năm 1397, còn Thăng Long thì được gọi là Đông Đô.",
+    "Nhà Hồ chỉ có hai đời vua: Hồ Quý Ly (1400-1401) và Hồ Hán Thương (1401-1407).",
+    "Vì nhà Hồ cướp ngôi nhà Trần và các cải cách gây xáo trộn nên không được lòng dân, dẫn tới thất bại nhanh chóng trước quân Minh.",
+    "Tháng 6 năm 1407, cha con Hồ Quý Ly bị quân Minh bắt, nhà Hồ sụp đổ sau 7 năm tồn tại và nước ta rơi vào ách đô hộ của nhà Minh."
+   ],
+   "traps": [
+    "Nhầm quốc hiệu thời Hồ là Đại Việt. Đúng: quốc hiệu là ĐẠI NGU (1400-1407).",
+    "Nhầm kinh đô nhà Hồ ở Thăng Long. Đúng: kinh đô là Tây Đô ở Vĩnh Lộc, Thanh Hóa; Thăng Long khi đó gọi là Đông Đô.",
+    "Nhầm nhà Hồ tồn tại hàng chục năm. Đúng: nhà Hồ chỉ tồn tại 7 năm, từ 1400 đến 1407, với hai đời vua."
+   ],
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 15
+    }
+   ],
+   "topic_title": "Nước Đại Ngu thời Hồ (1400 - 1407)",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Nh%C3%A0_H%E1%BB%93",
+    "https://vi.wikipedia.org/wiki/H%E1%BB%93_Qu%C3%BD_Ly"
+   ]
+  },
+  {
+   "name": "Cải cách của Hồ Quý Ly",
+   "kind": "concept",
+   "year": 1396,
+   "date_start": "1396",
+   "date_end": "1407",
+   "place": "Đại Ngu (Tây Đô, Thăng Long)",
+   "actors": [
+    "Hồ Quý Ly"
+   ],
+   "aliases": [
+    "Cải cách Hồ Quý Ly",
+    "Chính sách cải cách của Hồ Quý Ly",
+    "Hạn điền hạn nô",
+    "Cải cách cuối thế kỉ XIV đầu thế kỉ XV"
+   ],
+   "summary": "Loạt cải cách táo bạo về tài chính, ruộng đất, nô tì, giáo dục và quân sự do Hồ Quý Ly tiến hành từ năm 1396 nhằm cứu vãn khủng hoảng, nhưng không được lòng dân.",
+   "facts": [
+    "Năm 1396, Hồ Quý Ly cho phát hành tiền giấy 'Thông bảo hội sao' thay cho tiền đồng – đây là lần đầu tiên nước ta dùng tiền giấy.",
+    "Năm 1397, ông ban hành phép 'hạn điền', quy định số ruộng tối đa mỗi người được sở hữu, phần vượt quá phải sung công, nhằm hạn chế thế lực của quý tộc lớn.",
+    "Năm 1401, ông ban phép 'hạn nô', giới hạn số nô tì mà mỗi quý tộc được nuôi; số dư bị nhà nước sung làm quan nô.",
+    "Về giáo dục, ông đề cao chữ Nôm, cho dịch sách chữ Hán ra chữ Nôm để dạy học, đồng thời sửa lại chế độ thi cử và bắt buộc thí sinh làm bài toán.",
+    "Về quân sự, ông cho làm sổ hộ tịch để tăng quân số, chế tạo súng thần cơ và đóng thuyền chiến lớn để phòng thủ đất nước.",
+    "Vì các cải cách đụng chạm quyền lợi quý tộc cũ mà lại không giải quyết được đời sống khổ cực của nông dân, cộng thêm việc bắt dân phu xây thành nặng nề, nên nhà Hồ không tập hợp được sức mạnh toàn dân khi quân Minh sang xâm lược.",
+    "Chính vì thế Hồ Nguyên Trừng đã nói: 'Thần không sợ đánh, chỉ sợ lòng dân không theo mà thôi'."
+   ],
+   "traps": [
+    "Nhầm cải cách của Hồ Quý Ly chỉ tiến hành sau khi ông lên ngôi năm 1400. Đúng: nhiều cải cách đã bắt đầu từ khi ông còn là đại thần cuối thời Trần, ví dụ tiền giấy năm 1396 và hạn điền năm 1397.",
+    "Nhầm 'hạn điền' là chia đều ruộng cho dân. Đúng: 'hạn điền' là quy định mức ruộng tối đa được sở hữu, phần vượt bị sung công, nhằm hạn chế đại địa chủ.",
+    "Nhầm cải cách thất bại vì thiếu tiền hoặc thiếu vũ khí. Đúng: nguyên nhân chính là cải cách chưa hợp lòng dân, không giải quyết được đời sống nông dân nên mất chỗ dựa trong nhân dân."
+   ],
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 15
+    }
+   ],
+   "topic_title": "Nước Đại Ngu thời Hồ (1400 - 1407)",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/H%E1%BB%93_Qu%C3%BD_Ly",
+    "https://vi.wikipedia.org/wiki/Nh%C3%A0_H%E1%BB%93"
+   ]
+  },
+  {
+   "name": "Tiền giấy Thông bảo hội sao",
+   "kind": "artifact",
+   "year": 1396,
+   "date_start": "1396",
+   "date_end": null,
+   "place": "Đại Việt (cuối thời Trần) – Đại Ngu",
+   "actors": [
+    "Hồ Quý Ly"
+   ],
+   "aliases": [
+    "Thông bảo hội sao",
+    "Tiền giấy Thông bảo hội sao",
+    "Tiền giấy đầu tiên của Việt Nam",
+    "Hội sao thông bảo"
+   ],
+   "summary": "Loại tiền giấy do Hồ Quý Ly cho phát hành năm 1396, là đồng tiền giấy đầu tiên trong lịch sử Việt Nam, thay cho tiền đồng.",
+   "facts": [
+    "Năm 1396, Hồ Quý Ly cho phát hành tiền giấy mang tên 'Thông bảo hội sao' – loại tiền giấy đầu tiên trong lịch sử tiền tệ Việt Nam.",
+    "Nhà nước quy định dân chúng phải nộp tiền đồng để đổi lấy tiền giấy, ai giữ hoặc tiêu tiền đồng sẽ bị trị tội.",
+    "Trên các tờ tiền giấy có in hình khác nhau tùy theo mệnh giá, chẳng hạn hình rong, sóng, mây, rùa, lân, phượng, rồng.",
+    "Mục đích của việc phát hành tiền giấy là thu tiền đồng về để đúc vũ khí và tăng nguồn thu cho nhà nước đang cạn kiệt.",
+    "Vì nhân dân chưa quen dùng tiền giấy và không tin vào giá trị của nó nên chính sách này gây xáo trộn việc buôn bán và làm dân thêm bất bình với nhà Hồ."
+   ],
+   "traps": [
+    "Nhầm tiền giấy Thông bảo hội sao có từ thời Lý hoặc thời Lê. Đúng: tiền giấy này do Hồ Quý Ly phát hành năm 1396.",
+    "Nhầm việc phát hành tiền giấy là một thành công. Đúng: đây là cải cách táo bạo, đi trước thời đại, nhưng thực tế thất bại vì dân không tin dùng."
+   ],
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 15
+    }
+   ],
+   "topic_title": "Nước Đại Ngu thời Hồ (1400 - 1407)",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/H%E1%BB%93_Qu%C3%BD_Ly",
+    "https://vi.wikipedia.org/wiki/Nh%C3%A0_H%E1%BB%93"
+   ]
+  }
+ ]
+}

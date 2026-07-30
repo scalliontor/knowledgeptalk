@@ -1,0 +1,1570 @@
+{
+ "grade": 10,
+ "chunk": 3,
+ "cards": [
+  {
+   "name": "Các Mác",
+   "kind": "person",
+   "aliases": [
+    "Karl Marx",
+    "C. Mác",
+    "Mác",
+    "Các-Mác",
+    "Cac Mac",
+    "Kark Marx",
+    "Mac"
+   ],
+   "year": null,
+   "date_start": "1818-05-05",
+   "date_end": "1883-03-14",
+   "place": "Tơ-ri-ơ (Trier), Đức; mất tại Luân Đôn, Anh",
+   "actors": [
+    "Các Mác",
+    "Phri-đrích Ăng-ghen"
+   ],
+   "summary": "Nhà tư tưởng người Đức, cùng Ăng-ghen sáng lập chủ nghĩa xã hội khoa học giữa thế kỉ XIX.",
+   "facts": [
+    "Các Mác sinh ngày 5/5/1818 tại thành phố Tơ-ri-ơ của nước Đức và qua đời ngày 14/3/1883 ở Luân Đôn, nước Anh.",
+    "Năm 1842, Các Mác gặp Phri-đrích Ăng-ghen ở thành phố Cô-lô-nhơ, mở đầu tình bạn và sự hợp tác kéo dài suốt đời của hai ông.",
+    "Năm 1848, Các Mác cùng Ăng-ghen viết chung Tuyên ngôn của Đảng Cộng sản, văn kiện đánh dấu chủ nghĩa xã hội khoa học chính thức ra đời.",
+    "Năm 1867, Các Mác xuất bản tập I bộ Tư bản, công trình phân tích quy luật vận động của nền kinh tế tư bản chủ nghĩa.",
+    "Năm 1864, Các Mác tham gia sáng lập Quốc tế thứ nhất ở Luân Đôn và được giao soạn thảo tuyên ngôn cùng điều lệ của tổ chức này.",
+    "Chính vì phong trào công nhân châu Âu nửa đầu thế kỉ XIX đấu tranh sôi nổi nhưng thiếu lí luận dẫn đường nên Mác và Ăng-ghen mới xây dựng chủ nghĩa xã hội khoa học để soi sáng con đường đấu tranh đó."
+   ],
+   "traps": [
+    "Nhiều bạn tưởng Tuyên ngôn của Đảng Cộng sản do một mình Các Mác viết; thực ra đó là tác phẩm chung của Các Mác và Ăng-ghen, công bố năm 1848.",
+    "Bộ Tư bản không hoàn thành trọn vẹn lúc Mác còn sống: tập I ra năm 1867, còn tập II và tập III do Ăng-ghen chỉnh lí, xuất bản sau khi Mác mất năm 1883.",
+    "Đừng nhầm Các Mác với Lê-nin: Mác (1818-1883) đặt nền móng lí luận, còn Lê-nin (1870-1924) là người phát triển và vận dụng lí luận đó vào cách mạng Nga."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 37
+    }
+   ],
+   "topic_title": "Mác và Ăng-ghen. Sự ra đời của chủ nghĩa xã hội khoa học",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Karl_Marx",
+    "https://vi.wikipedia.org/wiki/Qu%E1%BB%91c_t%E1%BA%BF_th%E1%BB%A9_nh%E1%BA%A5t"
+   ]
+  },
+  {
+   "name": "Phri-đrích Ăng-ghen",
+   "kind": "person",
+   "aliases": [
+    "Friedrich Engels",
+    "Ăng-ghen",
+    "Ph. Ăng-ghen",
+    "Angghen",
+    "Engels",
+    "Phriđrich Ăngghen"
+   ],
+   "year": null,
+   "date_start": "1820-11-28",
+   "date_end": "1895-08-05",
+   "place": "Bác-men (Barmen), Đức; mất tại Luân Đôn, Anh",
+   "actors": [
+    "Phri-đrích Ăng-ghen",
+    "Các Mác"
+   ],
+   "summary": "Người bạn, người cộng sự suốt đời của Các Mác và là đồng sáng lập chủ nghĩa xã hội khoa học.",
+   "facts": [
+    "Phri-đrích Ăng-ghen sinh ngày 28/11/1820 ở Bác-men thuộc nước Đức và mất ngày 5/8/1895 tại Luân Đôn, nước Anh.",
+    "Năm 1844, Ăng-ghen viết tác phẩm Tình cảnh giai cấp công nhân Anh, mô tả đời sống cực khổ của thợ thuyền trong thời kì công nghiệp hóa.",
+    "Năm 1848, Ăng-ghen cùng Các Mác công bố Tuyên ngôn của Đảng Cộng sản, tác phẩm mở đầu cho chủ nghĩa xã hội khoa học.",
+    "Sau khi Các Mác mất năm 1883, Ăng-ghen dành nhiều năm biên tập và cho xuất bản tập II và tập III bộ Tư bản mà Mác còn để dở dang.",
+    "Năm 1884, Ăng-ghen viết Nguồn gốc của gia đình, của chế độ tư hữu và của nhà nước, một tác phẩm lí luận quan trọng của ông.",
+    "Nhờ Ăng-ghen tiếp tục dẫn dắt phong trào công nhân châu Âu sau năm 1883 mà Quốc tế thứ hai mới được thành lập năm 1889 và hoạt động có định hướng trong những năm đầu."
+   ],
+   "traps": [
+    "Có bạn nghĩ Ăng-ghen chỉ là người giúp việc cho Mác; thực ra ông là đồng tác giả Tuyên ngôn của Đảng Cộng sản 1848 và là người hoàn thiện bộ Tư bản sau khi Mác qua đời.",
+    "Ăng-ghen mất năm 1895, tức là ông còn sống khi Quốc tế thứ hai ra đời năm 1889 nhưng không còn sống để chứng kiến tổ chức này tan rã năm 1914."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 37
+    }
+   ],
+   "topic_title": "Mác và Ăng-ghen. Sự ra đời của chủ nghĩa xã hội khoa học",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Friedrich_Engels",
+    "https://vi.wikipedia.org/wiki/Qu%E1%BB%91c_t%E1%BA%BF_th%E1%BB%A9_hai"
+   ]
+  },
+  {
+   "name": "Tuyên ngôn của Đảng Cộng sản (1848)",
+   "kind": "artifact",
+   "aliases": [
+    "Tuyên ngôn Đảng Cộng sản",
+    "Tuyên ngôn cộng sản",
+    "Communist Manifesto",
+    "Manifest der Kommunistischen Partei",
+    "Tuyên ngôn của những người cộng sản"
+   ],
+   "year": 1848,
+   "date_start": "1848",
+   "date_end": "1848",
+   "place": "Luân Đôn, Anh",
+   "actors": [
+    "Các Mác",
+    "Phri-đrích Ăng-ghen"
+   ],
+   "summary": "Văn kiện do Mác và Ăng-ghen soạn năm 1848, đánh dấu sự ra đời của chủ nghĩa xã hội khoa học.",
+   "facts": [
+    "Tuyên ngôn của Đảng Cộng sản được Các Mác và Phri-đrích Ăng-ghen viết chung và công bố năm 1848.",
+    "Việc Tuyên ngôn của Đảng Cộng sản ra đời năm 1848 được coi là mốc đánh dấu chủ nghĩa xã hội khoa học chính thức hình thành.",
+    "Tuyên ngôn nêu quan điểm cho rằng giai cấp công nhân là lực lượng có sứ mệnh lãnh đạo cuộc đấu tranh xóa bỏ chế độ tư bản chủ nghĩa.",
+    "Vì phong trào công nhân trước năm 1848 đấu tranh tự phát và thiếu cương lĩnh nên Tuyên ngôn ra đời đã cung cấp cho họ một cương lĩnh hành động có hệ thống.",
+    "Tuyên ngôn của Đảng Cộng sản kết thúc bằng lời kêu gọi đoàn kết những người lao động ở tất cả các nước lại với nhau."
+   ],
+   "traps": [
+    "Đừng nhầm Tuyên ngôn của Đảng Cộng sản (1848) với bộ Tư bản (tập I ra năm 1867): một bên là cương lĩnh chính trị, một bên là công trình nghiên cứu kinh tế.",
+    "Tuyên ngôn ra đời năm 1848, tức là trước khi Quốc tế thứ nhất được thành lập năm 1864, chứ không phải do Quốc tế thứ nhất soạn ra."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 37
+    }
+   ],
+   "topic_title": "Mác và Ăng-ghen. Sự ra đời của chủ nghĩa xã hội khoa học",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Karl_Marx",
+    "https://vi.wikipedia.org/wiki/Friedrich_Engels"
+   ]
+  },
+  {
+   "name": "Quốc tế thứ nhất",
+   "kind": "org",
+   "aliases": [
+    "Đệ Nhất Quốc tế",
+    "Hội Liên hiệp Lao động Quốc tế",
+    "International Workingmen's Association",
+    "Quốc tế I",
+    "Đệ nhất quốc tế"
+   ],
+   "year": 1864,
+   "date_start": "1864-09-28",
+   "date_end": "1876",
+   "place": "Luân Đôn, Anh (thành lập tại hội trường St. Martin)",
+   "actors": [
+    "Các Mác",
+    "Ba-cu-nin"
+   ],
+   "summary": "Tổ chức quốc tế đầu tiên của giai cấp công nhân, thành lập năm 1864 với vai trò linh hồn của Các Mác.",
+   "facts": [
+    "Quốc tế thứ nhất được thành lập ngày 28/9/1864 tại hội trường Xanh Mác-tin ở thành phố Luân Đôn, nước Anh.",
+    "Tên gọi chính thức của Quốc tế thứ nhất là Hội Liên hiệp Lao động Quốc tế, tập hợp các tổ chức công nhân ở nhiều nước châu Âu và châu Mỹ.",
+    "Các Mác là người sáng lập và được bầu vào ban lãnh đạo Quốc tế thứ nhất, đồng thời soạn thảo tuyên ngôn và điều lệ của tổ chức.",
+    "Quốc tế thứ nhất truyền bá học thuyết Mác vào phong trào công nhân và ủng hộ các cuộc đấu tranh của thợ thuyền ở nhiều nước.",
+    "Do mâu thuẫn không thể dung hòa giữa phái theo chủ nghĩa Mác và phái vô chính phủ của Ba-cu-nin nên Quốc tế thứ nhất tuyên bố giải tán năm 1876 tại Phi-la-đen-phi-a, nước Mĩ.",
+    "Khoảng 30 ủy viên Hội đồng Công xã Pa-ri năm 1871 là hội viên Quốc tế thứ nhất, cho thấy ảnh hưởng của tổ chức này tới phong trào công nhân Pháp."
+   ],
+   "traps": [
+    "Quốc tế thứ nhất thành lập năm 1864 ở Luân Đôn, không phải ở Pa-ri; Pa-ri năm 1889 mới là nơi ra đời Quốc tế thứ hai.",
+    "Người sáng lập và lãnh đạo Quốc tế thứ nhất là Các Mác, không phải Lê-nin (Lê-nin sinh năm 1870, sau khi tổ chức này ra đời 6 năm).",
+    "Quốc tế thứ nhất giải tán năm 1876 vì chia rẽ nội bộ, không phải vì Chiến tranh thế giới thứ nhất — đó là nguyên nhân làm tan rã Quốc tế thứ hai năm 1914."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 38
+    }
+   ],
+   "topic_title": "Quốc tế thứ nhất và Công xã Pa-ri 1871",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Qu%E1%BB%91c_t%E1%BA%BF_th%E1%BB%A9_nh%E1%BA%A5t",
+    "https://vi.wikipedia.org/wiki/C%C3%B4ng_x%C3%A3_Paris"
+   ]
+  },
+  {
+   "name": "Công xã Pa-ri (1871)",
+   "kind": "event",
+   "aliases": [
+    "Công xã Paris",
+    "Paris Commune",
+    "Công xã Pari",
+    "Cong xa Pari",
+    "Công xã Pa ri 1871"
+   ],
+   "year": 1871,
+   "date_start": "1871-03-18",
+   "date_end": "1871-05-28",
+   "place": "Pa-ri, Pháp",
+   "actors": [
+    "Chi-e (Adolphe Thiers)",
+    "Na-pô-lê-ông III",
+    "Quốc dân quân Pa-ri"
+   ],
+   "summary": "Chính quyền cách mạng của nhân dân lao động Pa-ri tồn tại 72 ngày năm 1871, được coi là nhà nước kiểu mới đầu tiên.",
+   "facts": [
+    "Công xã Pa-ri tồn tại từ ngày 18/3/1871 đến ngày 28/5/1871, tức khoảng 72 ngày.",
+    "Công xã Pa-ri bùng nổ trong bối cảnh nước Pháp thất bại trong Chiến tranh Pháp - Phổ và hoàng đế Na-pô-lê-ông III đầu hàng vào tháng 9/1870.",
+    "Chính vì chính phủ Chi-e ở Véc-xai định tước vũ khí của Quốc dân quân vào rạng sáng 18/3/1871 mà nhân dân Pa-ri đã nổi dậy, làm bùng nổ Công xã.",
+    "Ngày 26/3/1871, nhân dân Pa-ri bầu Hội đồng Công xã và kết quả được công bố ngày 28/3/1871 với 85 đại biểu trúng cử.",
+    "Trong Hội đồng Công xã có nhiều công nhân cùng trí thức, nhà báo, thầy thuốc, giáo viên, trong đó khoảng 30 người là hội viên Quốc tế thứ nhất.",
+    "Từ ngày 21 đến 28/5/1871, quân Véc-xai đàn áp đẫm máu Công xã trong sự kiện mà lịch sử gọi là Tuần lễ đẫm máu.",
+    "Công xã Pa-ri được xem là hình ảnh của một nhà nước kiểu mới do người lao động làm chủ, để lại nhiều bài học cho phong trào công nhân thế giới."
+   ],
+   "traps": [
+    "Công xã Pa-ri diễn ra năm 1871, đừng nhầm với Cách mạng tư sản Pháp năm 1789 hay Cách mạng tháng Hai ở Nga năm 1917.",
+    "Công xã Pa-ri bị đàn áp bởi chính phủ tư sản Pháp của Chi-e đóng ở Véc-xai, chứ không phải bị quân Phổ trực tiếp tiêu diệt.",
+    "Hội đồng Công xã được bầu ngày 26/3/1871, còn ngày 18/3/1871 là ngày khởi nghĩa thắng lợi — hai mốc này thường bị lẫn."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 38
+    }
+   ],
+   "topic_title": "Quốc tế thứ nhất và Công xã Pa-ri 1871",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/C%C3%B4ng_x%C3%A3_Paris",
+    "https://vi.wikipedia.org/wiki/Qu%E1%BB%91c_t%E1%BA%BF_th%E1%BB%A9_nh%E1%BA%A5t"
+   ]
+  },
+  {
+   "name": "Quốc tế thứ hai",
+   "kind": "org",
+   "aliases": [
+    "Đệ Nhị Quốc tế",
+    "Quốc tế II",
+    "Second International",
+    "Đệ nhị quốc tế",
+    "Quoc te thu hai"
+   ],
+   "year": 1889,
+   "date_start": "1889-07-14",
+   "date_end": "1914-08-04",
+   "place": "Pa-ri, Pháp",
+   "actors": [
+    "Phri-đrích Ăng-ghen"
+   ],
+   "summary": "Tổ chức quốc tế của phong trào công nhân thành lập năm 1889 ở Pa-ri, tan rã khi Chiến tranh thế giới thứ nhất bùng nổ.",
+   "facts": [
+    "Quốc tế thứ hai được thành lập ngày 14/7/1889 tại Pa-ri, với khoảng 400 đại biểu đến từ 22 nước.",
+    "Ăng-ghen là người có vai trò dẫn dắt Quốc tế thứ hai trong những năm đầu, cho tới khi ông qua đời năm 1895.",
+    "Quốc tế thứ hai chủ trương thành lập chính đảng của giai cấp công nhân ở từng nước, đẩy mạnh đấu tranh chính trị và đòi ngày làm việc 8 giờ.",
+    "Đại hội thành lập Quốc tế thứ hai năm 1889 quyết định lấy ngày 1/5 hằng năm làm Ngày Quốc tế Lao động để biểu dương sức mạnh đoàn kết của người lao động.",
+    "Vì phần lớn lãnh đạo các đảng xã hội dân chủ ủng hộ chính phủ nước mình tham chiến khi Chiến tranh thế giới thứ nhất nổ ra nên Quốc tế thứ hai thực tế tan rã từ ngày 4/8/1914."
+   ],
+   "traps": [
+    "Ngày Quốc tế Lao động 1/5 do Quốc tế thứ hai quyết định năm 1889, không phải do Quốc tế thứ nhất (1864-1876).",
+    "Quốc tế thứ hai ra đời năm 1889 tại Pa-ri, còn Quốc tế thứ nhất ra đời năm 1864 tại Luân Đôn — hai địa điểm và hai mốc năm khác nhau.",
+    "Quốc tế thứ hai tan rã năm 1914 do Chiến tranh thế giới thứ nhất, chứ không phải do mâu thuẫn với phái vô chính phủ như Quốc tế thứ nhất."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 39
+    }
+   ],
+   "topic_title": "Quốc tế thứ hai",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Qu%E1%BB%91c_t%E1%BA%BF_th%E1%BB%A9_hai",
+    "https://vi.wikipedia.org/wiki/Friedrich_Engels"
+   ]
+  },
+  {
+   "name": "Ngày Quốc tế Lao động 1/5",
+   "kind": "concept",
+   "aliases": [
+    "Ngày 1-5",
+    "Mồng 1 tháng 5",
+    "Quốc tế Lao động",
+    "May Day",
+    "ngày quốc tế lao động mùng 1/5"
+   ],
+   "year": 1889,
+   "date_start": "1889-07",
+   "date_end": null,
+   "place": "Pa-ri, Pháp (nơi ra quyết định)",
+   "actors": [
+    "Quốc tế thứ hai"
+   ],
+   "summary": "Ngày kỉ niệm quốc tế của người lao động, do Đại hội thành lập Quốc tế thứ hai chọn năm 1889.",
+   "facts": [
+    "Ngày Quốc tế Lao động 1/5 được Đại hội thành lập Quốc tế thứ hai họp ở Pa-ri tháng 7/1889 quyết định chọn làm ngày đấu tranh chung của người lao động toàn thế giới.",
+    "Ngày 1/5 gắn với yêu sách trung tâm của phong trào công nhân cuối thế kỉ XIX là đòi ngày làm việc chỉ 8 giờ.",
+    "Chính vì công nhân nhiều nước cùng lúc đòi giảm giờ làm và tăng lương mà Quốc tế thứ hai mới chọn một ngày chung để họ biểu dương lực lượng và đoàn kết với nhau.",
+    "Từ năm 1890 trở đi, ngày 1/5 được người lao động ở nhiều nước châu Âu và châu Mỹ kỉ niệm bằng mít tinh, tuần hành và bãi công."
+   ],
+   "traps": [
+    "Ngày Quốc tế Lao động 1/5 do Quốc tế thứ hai chọn năm 1889, không phải do Công xã Pa-ri năm 1871 hay Quốc tế thứ nhất năm 1864."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 39
+    }
+   ],
+   "topic_title": "Quốc tế thứ hai",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Qu%E1%BB%91c_t%E1%BA%BF_th%E1%BB%A9_hai"
+   ]
+  },
+  {
+   "name": "V.I. Lê-nin",
+   "kind": "person",
+   "aliases": [
+    "Vladimir Ilyich Lenin",
+    "Lênin",
+    "Lê nin",
+    "Vla-đi-mia I-lích Lê-nin",
+    "V. I. Lenin",
+    "Vladimir Ilyich Ulyanov",
+    "U-li-a-nốp",
+    "Lenin"
+   ],
+   "year": null,
+   "date_start": "1870-04-22",
+   "date_end": "1924-01-21",
+   "place": "Sim-biếc (nay là U-li-a-nốp), Nga; mất tại Goóc-ki gần Mát-xcơ-va",
+   "actors": [
+    "V.I. Lê-nin"
+   ],
+   "summary": "Lãnh tụ phong trào công nhân Nga đầu thế kỉ XX, người sáng lập Đảng Bôn-sê-vích và lãnh đạo Cách mạng tháng Mười 1917.",
+   "facts": [
+    "V.I. Lê-nin sinh ngày 22/4/1870 ở thành phố Sim-biếc trên sông Vôn-ga và mất ngày 21/1/1924 tại Goóc-ki gần Mát-xcơ-va.",
+    "Tên thật của Lê-nin là Vla-đi-mia I-lích U-li-a-nốp; bút danh Lê-nin bắt đầu được ông dùng từ tháng 12/1901.",
+    "Khoảng năm 1900, Lê-nin cùng các đồng chí xuất bản báo Tia lửa (I-xcơ-ra) để truyền bá chủ nghĩa Mác trong công nhân Nga.",
+    "Năm 1902, Lê-nin viết tác phẩm Làm gì?, trong đó nêu tư tưởng về một chính đảng cách mạng kiểu mới của giai cấp công nhân.",
+    "Tháng 11/1905, Lê-nin bí mật trở về Pê-téc-bua để trực tiếp lãnh đạo phong trào cách mạng đang dâng cao ở Nga.",
+    "Chính vì Lê-nin đã dày công xây dựng một chính đảng kiểu mới từ đầu thế kỉ XX mà giai cấp công nhân Nga mới có tổ chức lãnh đạo để làm nên Cách mạng tháng Mười năm 1917.",
+    "Sau Cách mạng tháng Mười, Lê-nin đứng đầu chính quyền Xô viết đầu tiên từ tháng 11/1917 cho đến khi ông qua đời năm 1924."
+   ],
+   "traps": [
+    "Lê-nin không phải người sáng lập chủ nghĩa xã hội khoa học; công lao đó thuộc về Mác và Ăng-ghen năm 1848, còn Lê-nin là người kế thừa và phát triển.",
+    "Tên thật của Lê-nin là U-li-a-nốp, còn Lê-nin chỉ là bút danh dùng từ năm 1901 — đừng nhầm đó là họ khai sinh.",
+    "Lê-nin sinh năm 1870, tức là sau khi Quốc tế thứ nhất ra đời năm 1864, nên ông không thể là người sáng lập tổ chức đó."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 40
+    }
+   ],
+   "topic_title": "Lê-nin và phong trào công nhân Nga đầu thế kỉ XX",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Vladimir_Ilyich_Lenin",
+    "https://dcs.bacgiang.gov.vn/detail/-/asset_publisher/M0UUAFstbTMq/content/v-i-lenin-mot-nhan-cach-lon-vi-lanh-tu-thien-tai-tinh-than-cach-mang-triet-e"
+   ]
+  },
+  {
+   "name": "Đảng Bôn-sê-vích Nga",
+   "kind": "org",
+   "aliases": [
+    "Bolshevik",
+    "Đảng Bôn sê vích",
+    "phái Bôn-sê-vích",
+    "Đảng Công nhân xã hội dân chủ Nga",
+    "Bônsêvích",
+    "Bolsheviks"
+   ],
+   "year": 1903,
+   "date_start": "1903-07",
+   "date_end": null,
+   "place": "Luân Đôn (nơi họp Đại hội II), Anh",
+   "actors": [
+    "V.I. Lê-nin",
+    "Phái Men-sê-vích"
+   ],
+   "summary": "Chính đảng kiểu mới của giai cấp công nhân Nga do Lê-nin xây dựng, hình thành tại Đại hội II năm 1903.",
+   "facts": [
+    "Đại hội lần thứ hai Đảng Công nhân xã hội dân chủ Nga họp tháng 7/1903 tại Luân Đôn, tại đây những người theo Lê-nin được gọi là Bôn-sê-vích, nghĩa là phái đa số.",
+    "Những người không tán thành đường lối của Lê-nin tại Đại hội năm 1903 được gọi là Men-sê-vích, nghĩa là phái thiểu số.",
+    "Chính vì Lê-nin kiên trì tư tưởng về một chính đảng cách mạng chặt chẽ nêu trong tác phẩm Làm gì? năm 1902 mà tại Đại hội năm 1903 mới hình thành phái Bôn-sê-vích tách khỏi phái Men-sê-vích.",
+    "Đảng Bôn-sê-vích do Lê-nin đứng đầu về sau trở thành lực lượng lãnh đạo Cách mạng tháng Mười Nga năm 1917."
+   ],
+   "traps": [
+    "Bôn-sê-vích nghĩa là phái đa số còn Men-sê-vích là phái thiểu số; nhiều bạn hay đổi ngược hai khái niệm này.",
+    "Đại hội II của Đảng Công nhân xã hội dân chủ Nga họp năm 1903 ở Luân Đôn chứ không phải ở Mát-xcơ-va hay Pê-téc-bua."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 40
+    }
+   ],
+   "topic_title": "Lê-nin và phong trào công nhân Nga đầu thế kỉ XX",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Vladimir_Ilyich_Lenin"
+   ]
+  },
+  {
+   "name": "Cách mạng Nga 1905 - 1907",
+   "kind": "event",
+   "aliases": [
+    "Cách mạng 1905-1907 ở Nga",
+    "Cách mạng Nga 1905",
+    "Ngày chủ nhật đẫm máu",
+    "Chủ nhật đẫm máu 1905",
+    "Cach mang Nga 1905 1907"
+   ],
+   "year": 1905,
+   "date_start": "1905-01-09",
+   "date_end": "1907",
+   "place": "Nga (Xanh Pê-téc-bua, Mát-xcơ-va và nhiều thành phố)",
+   "actors": [
+    "Nga hoàng Ni-cô-lai II",
+    "V.I. Lê-nin",
+    "Công nhân Pê-téc-bua"
+   ],
+   "summary": "Cuộc cách mạng dân chủ tư sản kiểu mới ở Nga, mở đầu bằng Ngày chủ nhật đẫm máu 9/1/1905.",
+   "facts": [
+    "Cuộc cách mạng Nga diễn ra trong hai năm 1905 - 1907 và mở đầu bằng sự kiện Ngày chủ nhật đẫm máu ngày 9/1/1905.",
+    "Ngày 9/1/1905, khoảng 14 vạn công nhân Pê-téc-bua cùng gia đình tay không kéo đến Cung điện Mùa Đông để dâng bản thỉnh cầu lên Nga hoàng nhưng bị quân đội nổ súng đàn áp.",
+    "Chính vì quân đội Nga hoàng bắn vào đoàn người tay không ngày 9/1/1905 mà lòng tin vào Nga hoàng bị sụp đổ và làn sóng bãi công, khởi nghĩa lan rộng khắp nước Nga.",
+    "Mùa thu năm 1905, phong trào cách mạng lên tới đỉnh cao với các cuộc tổng bãi công chính trị làm tê liệt kinh tế và giao thông trên cả nước.",
+    "Tháng 11/1905, Lê-nin bí mật từ nước ngoài trở về Pê-téc-bua để trực tiếp lãnh đạo phong trào.",
+    "Lê-nin đánh giá cuộc cách mạng 1905 - 1907 là cuộc tổng diễn tập cho thắng lợi của Cách mạng tháng Mười Nga năm 1917."
+   ],
+   "traps": [
+    "Ngày chủ nhật đẫm máu ở Nga là ngày 9/1/1905 theo lịch Nga cũ (tương ứng 22/1/1905 theo dương lịch hiện nay); sách giáo khoa Việt Nam dùng mốc 9/1/1905.",
+    "Cách mạng 1905 - 1907 không lật đổ được chế độ Nga hoàng; nó chỉ là cuộc tổng diễn tập, còn chế độ Nga hoàng bị lật đổ trong Cách mạng tháng Hai năm 1917.",
+    "Đừng nhầm Cách mạng Nga 1905 - 1907 với Cách mạng tháng Mười 1917 — hai sự kiện cách nhau hơn mười năm."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 40
+    }
+   ],
+   "topic_title": "Lê-nin và phong trào công nhân Nga đầu thế kỉ XX",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Vladimir_Ilyich_Lenin",
+    "https://loigiaihay.com/cach-mang-1905-1907-o-nga-c85a12531.html",
+    "https://nghiencuuquocte.org/2019/01/22/tham-sat-ngay-chu-nhat-dam-mau-o-nga/"
+   ]
+  },
+  {
+   "name": "Khái niệm văn minh",
+   "kind": "concept",
+   "aliases": [
+    "văn minh là gì",
+    "văn minh và văn hoá",
+    "phân biệt văn minh với văn hóa",
+    "khai niem van minh"
+   ],
+   "year": null,
+   "date_start": null,
+   "date_end": null,
+   "place": null,
+   "actors": [],
+   "summary": "Khái niệm chỉ trạng thái phát triển cao của xã hội loài người, phân biệt với khái niệm văn hóa.",
+   "facts": [
+    "Văn minh được hiểu là trạng thái xã hội đã phát triển cao, có đô thị, có phân tầng xã hội, có bộ máy nhà nước và có chữ viết.",
+    "Chữ viết và nhà nước là hai dấu hiệu quan trọng để nhận biết một cộng đồng đã bước vào thời kì văn minh.",
+    "Văn hóa là toàn bộ giá trị vật chất và tinh thần do con người sáng tạo ra và xuất hiện cùng với loài người, còn văn minh chỉ xuất hiện khi xã hội đạt tới trình độ tổ chức cao.",
+    "Chính vì văn hóa ra đời sớm hơn và rộng hơn nên mọi nền văn minh đều là văn hóa, nhưng không phải mọi giai đoạn văn hóa đều đã là văn minh.",
+    "Các nền văn minh lớn của phương Đông thời cổ - trung đại gồm Ai Cập, Lưỡng Hà, Ấn Độ và Trung Hoa, đều hình thành bên những dòng sông lớn."
+   ],
+   "traps": [
+    "Đừng đánh đồng văn hóa với văn minh: văn hóa xuất hiện cùng loài người từ thời nguyên thủy, còn văn minh chỉ xuất hiện khi có nhà nước, đô thị và chữ viết.",
+    "Các nền văn minh phương Đông cổ đại hình thành ở lưu vực sông lớn (sông Nin, Ơ-phrát và Ti-grơ, sông Ấn và sông Hằng, Hoàng Hà và Trường Giang), không phải ở vùng ven Địa Trung Hải như Hy Lạp - La Mã."
+   ],
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 5
+    }
+   ],
+   "topic_title": "Khái niệm văn minh. Một số nền văn minh phương Đông thời kì cổ – trung đại",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/V%C4%83n_minh"
+   ]
+  },
+  {
+   "name": "Văn minh Lưỡng Hà cổ đại",
+   "kind": "concept",
+   "aliases": [
+    "Lưỡng Hà",
+    "Mesopotamia",
+    "Mê-xô-pô-ta-mi",
+    "văn minh Lưỡng Hà",
+    "Luong Ha",
+    "Babylon"
+   ],
+   "year": null,
+   "date_start": null,
+   "date_end": null,
+   "place": "Lưu vực sông Ơ-phrát và Ti-grơ (Tây Á, nay thuộc I-rắc)",
+   "actors": [
+    "Người Xu-me",
+    "Vua Ham-mu-ra-bi"
+   ],
+   "summary": "Nền văn minh phương Đông hình thành ở lưu vực hai con sông Ơ-phrát và Ti-grơ, nổi tiếng với chữ hình nêm và bộ luật Ham-mu-ra-bi.",
+   "facts": [
+    "Văn minh Lưỡng Hà hình thành ở vùng đất giữa hai con sông Ơ-phrát và Ti-grơ thuộc Tây Á, ngày nay chủ yếu nằm trên lãnh thổ I-rắc.",
+    "Người Xu-me ở Lưỡng Hà đã sáng tạo chữ hình nêm, được coi là một trong những hệ chữ viết sớm nhất của loài người, viết bằng que vót nhọn trên đất sét rồi đem nung.",
+    "Bộ luật Ham-mu-ra-bi của Lưỡng Hà gồm 282 điều và là một trong những bộ luật thành văn cổ nhất còn giữ được gần như nguyên vẹn đến ngày nay.",
+    "Người Lưỡng Hà dùng hệ đếm cơ số 60, nhờ đó ngày nay chúng ta vẫn chia một giờ thành 60 phút và một phút thành 60 giây.",
+    "Vườn treo Ba-bi-lon của Lưỡng Hà được người Hy Lạp xếp vào bảy kì quan của thế giới cổ đại."
+   ],
+   "traps": [
+    "Chữ hình nêm là của người Lưỡng Hà, còn chữ tượng hình khắc trên đá và viết trên giấy pa-pi-rút là của người Ai Cập cổ đại — hai loại chữ khác nhau.",
+    "Bộ luật Ham-mu-ra-bi thuộc về Lưỡng Hà chứ không phải Ai Cập; nó cũng không phải bộ luật đầu tiên tuyệt đối mà là bộ luật cổ còn nguyên vẹn nhất."
+   ],
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 5
+    }
+   ],
+   "topic_title": "Khái niệm văn minh. Một số nền văn minh phương Đông thời kì cổ – trung đại",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/V%C4%83n_minh",
+    "https://thanhnien.vn/van-minh-luong-ha-bai-hoc-doan-ket-vuot-len-moi-khac-biet-185976846.htm",
+    "https://gogoedu.vn/lich-su-lop-6/1996/bai-7-luong-ha-dai.html"
+   ]
+  },
+  {
+   "name": "Văn minh Văn Lang - Âu Lạc",
+   "kind": "concept",
+   "aliases": [
+    "văn minh sông Hồng",
+    "văn minh Việt cổ",
+    "nước Văn Lang",
+    "nước Âu Lạc",
+    "Van Lang Au Lac",
+    "văn minh Văn Lang Âu Lạc"
+   ],
+   "year": null,
+   "date_start": "-0700",
+   "date_end": "-0179",
+   "place": "Lưu vực sông Hồng, sông Mã, sông Cả (Bắc Bộ và Bắc Trung Bộ Việt Nam)",
+   "actors": [
+    "Hùng Vương",
+    "An Dương Vương (Thục Phán)",
+    "Triệu Đà"
+   ],
+   "summary": "Nền văn minh đầu tiên trên đất nước Việt Nam, gắn với nhà nước Văn Lang thời Hùng Vương và nhà nước Âu Lạc của An Dương Vương.",
+   "facts": [
+    "Nhà nước Văn Lang ra đời khoảng thế kỉ VII trước Công nguyên ở lưu vực sông Hồng, do các vua Hùng đứng đầu, kinh đô đặt tại Phong Châu.",
+    "Nước Văn Lang được chia thành 15 bộ, dưới vua Hùng có các Lạc hầu, Lạc tướng giúp việc và Bồ chính đứng đầu các làng, chạ.",
+    "Sau Văn Lang, Thục Phán xưng An Dương Vương lập nước Âu Lạc, đóng đô ở Cổ Loa thuộc huyện Đông Anh, Hà Nội ngày nay.",
+    "Người Âu Lạc xây thành Cổ Loa hình xoáy ốc và chế tạo nỏ bắn nhiều mũi tên một lúc, các nhà khảo cổ đã tìm được hàng vạn mũi tên đồng cùng khuôn đúc ở đây.",
+    "Năm 179 trước Công nguyên, Triệu Đà đánh bại An Dương Vương, nước Âu Lạc mất và nước ta bước vào thời kì Bắc thuộc kéo dài hơn một nghìn năm.",
+    "Chính vì nghề luyện kim và trồng lúa nước phát triển mạnh ở lưu vực sông Hồng mà cư dân nơi đây mới đủ điều kiện lập nên nhà nước Văn Lang, nhà nước đầu tiên trong lịch sử Việt Nam."
+   ],
+   "traps": [
+    "Kinh đô nước Văn Lang là Phong Châu, còn kinh đô nước Âu Lạc là Cổ Loa — hai kinh đô của hai nhà nước khác nhau, rất hay bị lẫn.",
+    "Về năm lập nước Âu Lạc, các tài liệu ghi khác nhau (khoảng năm 208 TCN theo sách giáo khoa hiện hành, 257 TCN theo Đại Việt sử ký toàn thư); mốc chắc chắn và hay hỏi là năm mất nước 179 TCN.",
+    "Người đánh bại An Dương Vương năm 179 TCN là Triệu Đà, không phải nhà Hán hay Mã Viện."
+   ],
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 11
+    }
+   ],
+   "topic_title": "Một số nền văn minh cổ trên đất nước Việt Nam",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/V%C4%83n_Lang",
+    "https://vi.wikipedia.org/wiki/%C3%82u_L%E1%BA%A1c",
+    "https://vi.wikipedia.org/wiki/V%C4%83n_h%C3%B3a_%C4%90%C3%B4ng_S%C6%A1n"
+   ]
+  },
+  {
+   "name": "Văn hóa Đông Sơn và trống đồng",
+   "kind": "artifact",
+   "aliases": [
+    "văn hoá Đông Sơn",
+    "trống đồng Đông Sơn",
+    "trống đồng Ngọc Lũ",
+    "Dong Son culture",
+    "Đông Sơn"
+   ],
+   "year": null,
+   "date_start": "-0800",
+   "date_end": "-0200",
+   "place": "Làng Đông Sơn bên sông Mã, Thanh Hóa và lưu vực sông Hồng, sông Mã, sông Lam",
+   "actors": [
+    "Nguyễn Văn Lắm",
+    "Rô-be Hai-nơ Ghen-đơn"
+   ],
+   "summary": "Nền văn hóa đồ đồng phát triển rực rỡ ở Bắc Bộ và Bắc Trung Bộ, cơ sở vật chất của nhà nước Văn Lang - Âu Lạc.",
+   "facts": [
+    "Văn hóa Đông Sơn tồn tại khoảng từ năm 800 trước Công nguyên đến năm 200 trước Công nguyên, thuộc thời đại đồ đồng và sơ kì đồ sắt ở Việt Nam.",
+    "Năm 1924, một người dân tên Nguyễn Văn Lắm tình cờ tìm được các hiện vật đồng ở làng Đông Sơn bên bờ sông Mã, tỉnh Thanh Hóa, mở đầu cho việc phát hiện nền văn hóa này.",
+    "Năm 1934, tên gọi Văn hóa Đông Sơn chính thức được nhà khảo cổ học Rô-be Hai-nơ Ghen-đơn đặt cho nền văn hóa này.",
+    "Hiện vật tiêu biểu nhất của văn hóa Đông Sơn là trống đồng, trong đó nổi tiếng nhất là trống đồng Ngọc Lũ với hoa văn khắc cảnh sinh hoạt của cư dân Việt cổ.",
+    "Địa bàn văn hóa Đông Sơn trải dọc lưu vực sông Hồng, sông Mã và sông Lam, từ Hà Giang xuống tới Quảng Bình.",
+    "Chính nhờ trình độ luyện kim đồng thau đạt tới đỉnh cao trong văn hóa Đông Sơn mà cư dân Việt cổ mới có đủ cơ sở kinh tế - kĩ thuật để dựng nên nhà nước Văn Lang rồi Âu Lạc."
+   ],
+   "traps": [
+    "Văn hóa Đông Sơn được đặt tên theo làng Đông Sơn ở Thanh Hóa (nơi phát hiện năm 1924), không phải theo một triều đại hay một vị vua.",
+    "Văn hóa Đông Sơn là cơ sở của văn minh Văn Lang - Âu Lạc ở miền Bắc; đừng nhầm với văn hóa Sa Huỳnh ở miền Trung (cơ sở của Chăm-pa) hay văn hóa Óc Eo ở Nam Bộ (gắn với Phù Nam)."
+   ],
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 11
+    }
+   ],
+   "topic_title": "Một số nền văn minh cổ trên đất nước Việt Nam",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/V%C4%83n_h%C3%B3a_%C4%90%C3%B4ng_S%C6%A1n"
+   ]
+  },
+  {
+   "name": "Văn minh Đại Việt",
+   "kind": "concept",
+   "aliases": [
+    "nền văn minh Đại Việt",
+    "văn minh Thăng Long",
+    "Đại Việt",
+    "Van minh Dai Viet"
+   ],
+   "year": null,
+   "date_start": "1054",
+   "date_end": "1858",
+   "place": "Quốc gia Đại Việt (Việt Nam thời quân chủ độc lập)",
+   "actors": [
+    "Lý Thánh Tông",
+    "Lê Thánh Tông"
+   ],
+   "summary": "Nền văn minh của người Việt trong thời kì quốc gia độc lập tự chủ, kế thừa văn minh Văn Lang - Âu Lạc.",
+   "facts": [
+    "Quốc hiệu Đại Việt được vua Lý Thánh Tông đặt năm 1054 và được dùng trong các triều Lý, Trần, Hậu Lê, Mạc, Tây Sơn và ba năm đầu triều Nguyễn.",
+    "Quốc hiệu Đại Việt tồn tại qua hai giai đoạn, từ năm 1054 đến năm 1400 và từ năm 1428 đến năm 1804, tổng cộng hơn bảy trăm năm.",
+    "Văn minh Đại Việt được hình thành trên cơ sở kế thừa văn minh Văn Lang - Âu Lạc, tiếp thu có chọn lọc văn hóa bên ngoài và dựa trên nền độc lập tự chủ của quốc gia.",
+    "Chính vì đất nước giành lại được độc lập sau chiến thắng Bạch Đằng năm 938 mà người Việt mới có điều kiện xây dựng một nền văn minh riêng mang tên Đại Việt.",
+    "Về tư tưởng - tôn giáo, văn minh Đại Việt là sự hòa hợp của Nho giáo, Phật giáo và Đạo giáo cùng với tín ngưỡng thờ cúng tổ tiên bản địa.",
+    "Năm 1479, vua Lê Thánh Tông sai Ngô Sĩ Liên biên soạn bộ Đại Việt sử ký toàn thư, bộ quốc sử tiêu biểu của văn minh Đại Việt.",
+    "Năm 1804, vua Gia Long đổi quốc hiệu Đại Việt thành Việt Nam, khép lại thời kì mang tên Đại Việt."
+   ],
+   "traps": [
+    "Quốc hiệu Đại Việt có từ năm 1054 thời Lý Thánh Tông, không phải từ năm 968 (khi Đinh Bộ Lĩnh đặt quốc hiệu Đại Cồ Việt) hay năm 1010 (khi dời đô ra Thăng Long).",
+    "Đại Việt sử ký toàn thư do Ngô Sĩ Liên biên soạn năm 1479 dưới thời Lê Thánh Tông; đừng nhầm với Đại Việt sử ký của Lê Văn Hưu thời Trần.",
+    "Văn minh Đại Việt kế thừa chứ không phủ nhận văn minh Văn Lang - Âu Lạc; đây là hai giai đoạn nối tiếp nhau chứ không đối lập."
+   ],
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 12
+    },
+    {
+     "book": "CTST",
+     "bai": 18
+    }
+   ],
+   "topic_title": "Văn minh Đại Việt",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_Vi%E1%BB%87t",
+    "https://loigiaihay.com/bai-12-van-minh-dai-viet-sgk-lich-su-10-ket-noi-tri-thuc-a107442.html",
+    "https://vov2.vov.vn/van-hoa-giai-tri/vua-le-thanh-tong-va-viec-bien-soan-quoc-su-50916.vov2"
+   ]
+  },
+  {
+   "name": "Giáo dục và khoa cử Đại Việt",
+   "kind": "concept",
+   "aliases": [
+    "khoa cử Đại Việt",
+    "Văn Miếu Quốc Tử Giám",
+    "Quốc Tử Giám",
+    "bia tiến sĩ",
+    "giáo dục thời Lý Trần Lê",
+    "khoa bảng Việt Nam"
+   ],
+   "year": null,
+   "date_start": "1070",
+   "date_end": "1919",
+   "place": "Thăng Long (Hà Nội)",
+   "actors": [
+    "Lý Thánh Tông",
+    "Lý Nhân Tông",
+    "Lê Thánh Tông"
+   ],
+   "summary": "Hệ thống trường học và thi cử Nho học của Đại Việt, khởi đầu từ Văn Miếu năm 1070 và Quốc Tử Giám năm 1076.",
+   "facts": [
+    "Năm 1070, vua Lý Thánh Tông cho xây Văn Miếu ở Thăng Long để thờ Khổng Tử, mở đầu cho nền giáo dục Nho học của Đại Việt.",
+    "Năm 1075, triều Lý mở khoa thi đầu tiên trong lịch sử khoa cử Việt Nam để tuyển chọn người tài ra làm quan.",
+    "Năm 1076, vua Lý Nhân Tông lập Quốc Tử Giám bên cạnh Văn Miếu, được coi là trường đại học đầu tiên của Việt Nam.",
+    "Năm 1484, vua Lê Thánh Tông cho dựng bia tiến sĩ ở Văn Miếu để khắc tên những người đỗ đạt từ khoa thi năm 1442 trở đi.",
+    "Hiện nay ở Văn Miếu - Quốc Tử Giám còn giữ được 82 tấm bia tiến sĩ, tấm sớm nhất ghi khoa thi năm 1442 và tấm muộn nhất dựng năm 1780.",
+    "Chính vì các triều đại Đại Việt cần một đội ngũ quan lại có học để quản lí đất nước mà chế độ khoa cử mới được mở rộng liên tục từ thế kỉ XI đến thế kỉ XV."
+   ],
+   "traps": [
+    "Trạng nguyên trẻ nhất trong lịch sử khoa cử Việt Nam là NGUYỄN HIỀN, đỗ năm 1247 khi mới 13 tuổi dưới thời vua Trần Thái Tông — không có nhân vật nào tên 'Nguyễn Minh Sát' trong lịch sử khoa bảng Việt Nam.",
+    "Ba mốc 1070 (dựng Văn Miếu), 1075 (khoa thi đầu tiên) và 1076 (lập Quốc Tử Giám) rất hay bị đảo lộn; hãy nhớ Văn Miếu có trước, rồi mới đến khoa thi và Quốc Tử Giám.",
+    "Bia tiến sĩ bắt đầu được dựng năm 1484 thời Lê Thánh Tông, chứ không phải từ thời Lý khi mới lập Quốc Tử Giám."
+   ],
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 12
+    },
+    {
+     "book": "CTST",
+     "bai": 18
+    }
+   ],
+   "topic_title": "Văn minh Đại Việt",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/V%C4%83n_Mi%E1%BA%BFu_-_Qu%E1%BB%91c_T%E1%BB%AD_Gi%C3%A1m",
+    "https://vi.wikipedia.org/wiki/Nguy%E1%BB%85n_Hi%E1%BB%81n"
+   ]
+  },
+  {
+   "name": "Nguyễn Hiền (Trạng nguyên trẻ nhất Việt Nam)",
+   "kind": "person",
+   "aliases": [
+    "Nguyễn Hiền",
+    "Trạng nguyên Nguyễn Hiền",
+    "Trạng Hiền",
+    "trạng nguyên trẻ nhất",
+    "Nguyen Hien"
+   ],
+   "year": null,
+   "date_start": "1234",
+   "date_end": "1256",
+   "place": "Làng Dương A, huyện Nam Trực, tỉnh Nam Định",
+   "actors": [
+    "Nguyễn Hiền",
+    "Trần Thái Tông"
+   ],
+   "summary": "Trạng nguyên trẻ nhất lịch sử khoa cử Việt Nam, đỗ năm 1247 khi mới 13 tuổi dưới triều Trần Thái Tông.",
+   "facts": [
+    "Nguyễn Hiền đỗ Trạng nguyên năm 1247 khi mới 13 tuổi và trở thành trạng nguyên trẻ nhất trong lịch sử khoa cử Việt Nam.",
+    "Nguyễn Hiền đỗ trạng nguyên dưới triều vua Trần Thái Tông, vị vua đầu tiên của nhà Trần.",
+    "Nguyễn Hiền sinh năm 1234 và mất năm 1256, chỉ hưởng dương 22 tuổi.",
+    "Quê Nguyễn Hiền là làng Dương A, nay thuộc huyện Nam Trực, tỉnh Nam Định.",
+    "Khoa thi năm 1247 mà Nguyễn Hiền đỗ đầu cũng là khoa thi đầu tiên trong lịch sử Việt Nam đặt ra danh vị tam khôi gồm trạng nguyên, bảng nhãn và thám hoa.",
+    "Chính vì đỗ trạng nguyên khi còn quá nhỏ tuổi mà theo sử sách Nguyễn Hiền được vua cho về quê học thêm lễ nghi trước khi ra làm quan."
+   ],
+   "traps": [
+    "Trạng nguyên trẻ nhất lịch sử khoa cử Việt Nam là Nguyễn Hiền, đỗ năm 13 tuổi vào năm 1247; KHÔNG có nhân vật nào tên 'Nguyễn Minh Sát' — đó là cái tên bịa, không có trong lịch sử.",
+    "Nguyễn Hiền đỗ trạng nguyên thời vua Trần Thái Tông (nhà Trần), không phải thời Lý hay thời Lê.",
+    "Đừng nhầm Nguyễn Hiền với Mạc Đĩnh Chi hay Lê Văn Thịnh: Mạc Đĩnh Chi đỗ trạng nguyên năm 1304, còn Lê Văn Thịnh đỗ đầu khoa thi đầu tiên năm 1075."
+   ],
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 12
+    },
+    {
+     "book": "CTST",
+     "bai": 18
+    }
+   ],
+   "topic_title": "Văn minh Đại Việt",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Nguy%E1%BB%85n_Hi%E1%BB%81n",
+    "https://vi.wikipedia.org/wiki/V%C4%83n_Mi%E1%BA%BFu_-_Qu%E1%BB%91c_T%E1%BB%AD_Gi%C3%A1m"
+   ]
+  },
+  {
+   "name": "Chữ Nôm",
+   "kind": "concept",
+   "aliases": [
+    "chữ nôm",
+    "Nôm",
+    "văn học chữ Nôm",
+    "chu Nom"
+   ],
+   "year": null,
+   "date_start": null,
+   "date_end": null,
+   "place": "Đại Việt",
+   "actors": [
+    "Nguyễn Trãi",
+    "Nguyễn Du"
+   ],
+   "summary": "Hệ chữ viết do người Việt sáng tạo trên cơ sở chữ Hán để ghi tiếng Việt, một thành tựu lớn của văn minh Đại Việt.",
+   "facts": [
+    "Chữ Nôm là loại chữ do người Việt sáng tạo trên cơ sở chữ Hán để ghi lại tiếng nói của dân tộc mình.",
+    "Chữ Nôm xuất hiện từ khoảng thế kỉ XIII và phát triển mạnh từ thế kỉ XV trở đi.",
+    "Chính vì người Việt muốn ghi lại tiếng nói riêng mà chữ Hán vay mượn không diễn đạt được nên chữ Nôm mới ra đời và ngày càng được dùng rộng rãi trong sáng tác văn học.",
+    "Nhờ có chữ Nôm mà nền văn học tiếng Việt phát triển với những tác phẩm lớn như Quốc âm thi tập của Nguyễn Trãi ở thế kỉ XV và Truyện Kiều của Nguyễn Du ở đầu thế kỉ XIX.",
+    "Sự ra đời của chữ Nôm thể hiện ý thức tự chủ về văn hóa của người Việt trong thời kì quốc gia Đại Việt độc lập."
+   ],
+   "traps": [
+    "Chữ Nôm được sáng tạo dựa trên chữ Hán chứ không phải dựa trên chữ Latinh; chữ Quốc ngữ theo mẫu tự Latinh mới là loại chữ ra đời sau, từ thế kỉ XVII.",
+    "Chữ Nôm là chữ của người Việt dùng để ghi tiếng Việt, không phải chữ Hán của người Trung Quốc, dù hai loại chữ trông khá giống nhau."
+   ],
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 12
+    },
+    {
+     "book": "CTST",
+     "bai": 18
+    }
+   ],
+   "topic_title": "Văn minh Đại Việt",
+   "sources": [
+    "https://loigiaihay.com/bai-12-van-minh-dai-viet-sgk-lich-su-10-ket-noi-tri-thuc-a107442.html",
+    "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_Vi%E1%BB%87t"
+   ]
+  },
+  {
+   "name": "Cộng đồng 54 dân tộc Việt Nam",
+   "kind": "concept",
+   "aliases": [
+    "54 dân tộc Việt Nam",
+    "các dân tộc Việt Nam",
+    "dân tộc thiểu số",
+    "ngữ hệ Việt Nam",
+    "dan toc Viet Nam"
+   ],
+   "year": null,
+   "date_start": null,
+   "date_end": null,
+   "place": "Việt Nam",
+   "actors": [],
+   "summary": "Khái quát về 54 dân tộc anh em ở Việt Nam, cách phân chia theo dân số và theo ngữ hệ.",
+   "facts": [
+    "Việt Nam hiện nay là quốc gia đa dân tộc với 54 dân tộc anh em cùng chung sống.",
+    "Theo dân số, các dân tộc Việt Nam được chia thành dân tộc đa số là người Kinh và các dân tộc thiểu số như Tày, Thái, Mường, Khơ-me, Hoa.",
+    "Theo ngôn ngữ, 54 dân tộc Việt Nam được xếp vào 5 ngữ hệ với 8 nhóm ngôn ngữ, gồm ngữ hệ Nam Á, Thái - Ka-đai, Mông - Dao, Nam Đảo và Hán - Tạng.",
+    "Khái niệm dân tộc được hiểu theo hai nghĩa: dân tộc - quốc gia là toàn thể cư dân một nước như dân tộc Việt Nam, còn dân tộc - tộc người là cộng đồng chung ngôn ngữ và văn hóa như dân tộc Kinh, dân tộc Mường.",
+    "Người Kinh thuộc nhóm ngôn ngữ Việt - Mường trong ngữ hệ Nam Á và chiếm đa số trong dân cư Việt Nam."
+   ],
+   "traps": [
+    "Việt Nam có 54 dân tộc chứ không phải 54 ngữ hệ; 54 dân tộc ấy được xếp vào 5 ngữ hệ với 8 nhóm ngôn ngữ.",
+    "Dân tộc Kinh là dân tộc đa số về dân số, nhưng không nên gọi 53 dân tộc còn lại là 'dân tộc ít người' theo nghĩa xem nhẹ — thuật ngữ chính xác là dân tộc thiểu số."
+   ],
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 13
+    }
+   ],
+   "topic_title": "Đời sống vật chất và tinh thần của cộng đồng các dân tộc Việt Nam",
+   "sources": [
+    "https://vietjack.com/lich-su-10-kn/ly-thuyet-bai-13-doi-song-vat-chat-va-tinh-than-cua-cong-dong-cac-dan-toc-viet-nam.jsp",
+    "https://loigiaihay.com/bai-13-doi-song-vat-chat-tinh-than-cua-cong-dong-cac-dan-toc-viet-nam-sgk-lich-su-10-ket-noi-tri-thuc-a107468.html"
+   ]
+  },
+  {
+   "name": "Đời sống vật chất và tinh thần của các dân tộc Việt Nam",
+   "kind": "concept",
+   "aliases": [
+    "đời sống vật chất các dân tộc",
+    "đời sống tinh thần các dân tộc",
+    "ăn mặc ở đi lại của các dân tộc",
+    "tín ngưỡng lễ hội các dân tộc Việt Nam"
+   ],
+   "year": null,
+   "date_start": null,
+   "date_end": null,
+   "place": "Việt Nam",
+   "actors": [],
+   "summary": "Những nét chính về ăn, mặc, ở, đi lại và về tín ngưỡng, phong tục, lễ hội của người Kinh và các dân tộc thiểu số.",
+   "facts": [
+    "Về sản xuất, người Kinh chủ yếu canh tác lúa nước ở đồng bằng với hệ thống thủy lợi, còn nhiều dân tộc thiểu số làm nương rẫy trên vùng đồi núi.",
+    "Về nhà ở, người Kinh thường ở nhà trệt xây bằng gạch hoặc đất, còn nhiều dân tộc thiểu số ở nhà sàn dựng bằng vật liệu tự nhiên như gỗ, tre, nứa, lá.",
+    "Về trang phục, người Kinh có áo dài truyền thống và ngày nay dùng nhiều trang phục hiện đại, còn các dân tộc thiểu số mặc trang phục dệt thủ công với hoa văn và đồ trang sức riêng của từng tộc người.",
+    "Về bữa ăn, cả người Kinh và các dân tộc thiểu số đều lấy cơm gạo làm lương thực chính, kết hợp với rau, cá, thịt.",
+    "Về tín ngưỡng, các dân tộc Việt Nam đều thờ cúng tổ tiên và tin vào nhiều vị thần gắn với tự nhiên; bên cạnh đó Phật giáo, Công giáo, Hồi giáo cũng có tín đồ ở nhiều vùng.",
+    "Về lễ hội, người Kinh có nhiều lễ hội vùng miền và lễ hội mang tính quốc gia, còn các dân tộc thiểu số thường tổ chức lễ hội gắn với mùa vụ và vòng đời con người trong phạm vi làng bản.",
+    "Chính vì mỗi dân tộc sinh sống trong một môi trường tự nhiên khác nhau mà cách ăn, mặc, ở và lễ hội của họ mới mang đậm dấu ấn vùng miền như vậy."
+   ],
+   "traps": [
+    "Không phải mọi dân tộc thiểu số đều ở nhà sàn và không phải người Kinh chỉ mặc áo dài; sách chỉ nêu nét phổ biến chứ không phải quy tắc tuyệt đối.",
+    "Thờ cúng tổ tiên là tín ngưỡng dân gian chung của nhiều dân tộc Việt Nam, không phải là một tôn giáo như Phật giáo hay Công giáo."
+   ],
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 13
+    }
+   ],
+   "topic_title": "Đời sống vật chất và tinh thần của cộng đồng các dân tộc Việt Nam",
+   "sources": [
+    "https://vietjack.com/lich-su-10-kn/ly-thuyet-bai-13-doi-song-vat-chat-va-tinh-than-cua-cong-dong-cac-dan-toc-viet-nam.jsp",
+    "https://loigiaihay.com/bai-13-doi-song-vat-chat-tinh-than-cua-cong-dong-cac-dan-toc-viet-nam-sgk-lich-su-10-ket-noi-tri-thuc-a107468.html"
+   ]
+  },
+  {
+   "name": "Khái quát các nền văn minh thế giới cổ - trung đại",
+   "kind": "concept",
+   "aliases": [
+    "văn minh thế giới cổ trung đại",
+    "văn minh phương Đông và phương Tây",
+    "các nền văn minh lớn thời cổ đại",
+    "khai quat van minh the gioi"
+   ],
+   "year": null,
+   "date_start": null,
+   "date_end": null,
+   "place": "Phương Đông (Bắc Phi, Tây Á, Nam Á, Đông Á) và phương Tây (ven Địa Trung Hải, Tây Âu)",
+   "actors": [],
+   "summary": "Bức tranh chung về các nền văn minh lớn của loài người thời cổ đại và trung đại, ở cả phương Đông và phương Tây.",
+   "facts": [
+    "Các nền văn minh lớn của phương Đông thời cổ đại gồm Ai Cập, Lưỡng Hà, Ấn Độ và Trung Hoa, đều ra đời bên những dòng sông lớn từ khoảng thiên niên kỉ IV - III trước Công nguyên.",
+    "Các nền văn minh phương Tây tiêu biểu thời cổ đại là Hy Lạp và La Mã, hình thành muộn hơn, từ khoảng thiên niên kỉ I trước Công nguyên ở vùng ven Địa Trung Hải.",
+    "Chính vì các dòng sông lớn bồi đắp phù sa và cung cấp nước tưới mà nông nghiệp ở phương Đông phát triển sớm, dẫn tới sự ra đời sớm của nhà nước và văn minh tại đó.",
+    "Trái lại, do đất đai Hy Lạp và La Mã ít màu mỡ nhưng có nhiều cảng biển nên cư dân nơi đây phát triển mạnh về thủ công nghiệp và thương nghiệp đường biển.",
+    "Thời trung đại ở Tây Âu, phong trào Văn hóa Phục hưng từ thế kỉ XIV đã mở ra một giai đoạn phát triển mới cho văn minh phương Tây.",
+    "Chữ viết, nhà nước, đô thị và các thành tựu khoa học - nghệ thuật là những dấu hiệu chung cho thấy một cộng đồng đã bước vào thời kì văn minh."
+   ],
+   "traps": [
+    "Văn minh phương Đông (Ai Cập, Lưỡng Hà, Ấn Độ, Trung Hoa) ra đời SỚM hơn văn minh phương Tây (Hy Lạp, La Mã), chứ không phải ngược lại.",
+    "Văn minh phương Đông gắn với các dòng sông lớn, còn văn minh Hy Lạp - La Mã gắn với biển Địa Trung Hải — đừng đảo ngược đặc điểm này."
+   ],
+   "lessons": [
+    {
+     "book": "CTST",
+     "bai": 5
+    }
+   ],
+   "topic_title": "Khái quát lịch sử văn minh thế giới cổ – trung đại",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/V%C4%83n_minh",
+    "https://vi.wikipedia.org/wiki/Ai_C%E1%BA%ADp_c%E1%BB%95_%C4%91%E1%BA%A1i",
+    "https://vi.wikipedia.org/wiki/Hy_L%E1%BA%A1p_c%E1%BB%95_%C4%91%E1%BA%A1i"
+   ]
+  },
+  {
+   "name": "Văn minh Ai Cập cổ đại",
+   "kind": "concept",
+   "aliases": [
+    "Ai Cập cổ đại",
+    "văn minh Ai Cập",
+    "Ancient Egypt",
+    "Ai Cap co dai",
+    "văn minh sông Nin"
+   ],
+   "year": null,
+   "date_start": "-3200",
+   "date_end": "-0030",
+   "place": "Lưu vực sông Nin, Đông Bắc châu Phi",
+   "actors": [
+    "Mê-nét (Narmer)",
+    "Pha-ra-ông"
+   ],
+   "summary": "Nền văn minh phương Đông ra đời bên sông Nin, nổi tiếng với kim tự tháp, chữ tượng hình và kĩ thuật ướp xác.",
+   "facts": [
+    "Văn minh Ai Cập cổ đại hình thành bên lưu vực sông Nin ở Đông Bắc châu Phi từ khoảng năm 3200 - 3000 trước Công nguyên.",
+    "Khoảng năm 3100 trước Công nguyên, vua Na-me (mà truyền thuyết gọi là Mê-nét) đã thống nhất Thượng Ai Cập và Hạ Ai Cập, lập nên nhà nước Ai Cập thống nhất.",
+    "Người Ai Cập cổ đại sáng tạo chữ tượng hình, khắc trên đá và viết trên giấy làm từ cây pa-pi-rút mọc ven sông Nin.",
+    "Người Ai Cập cổ đại đạt trình độ cao về toán học, y học, thiên văn và kĩ thuật ướp xác để giữ thi hài lâu dài.",
+    "Chính vì sông Nin hằng năm dâng nước bồi đắp phù sa và buộc con người phải tính toán mùa lũ mà người Ai Cập mới sớm làm ra lịch và phát triển hình học để đo lại ruộng đất.",
+    "Năm 30 trước Công nguyên, Ai Cập bị đế quốc La Mã thôn tính, chấm dứt thời kì độc lập của nền văn minh này."
+   ],
+   "traps": [
+    "Chữ viết của người Ai Cập cổ đại là chữ tượng hình, còn chữ hình nêm là của người Lưỡng Hà — hai loại chữ khác nhau, rất hay bị đổi chỗ.",
+    "Nhà vua Ai Cập được gọi là Pha-ra-ông, không gọi là hoàng đế hay thiên tử như ở Trung Hoa.",
+    "Văn minh Ai Cập kết thúc vai trò độc lập năm 30 TCN khi bị La Mã thôn tính, chứ không phải bị Hy Lạp của A-lếch-xăng-đơ tiêu diệt hoàn toàn năm 332 TCN."
+   ],
+   "lessons": [
+    {
+     "book": "CTST",
+     "bai": 6
+    }
+   ],
+   "topic_title": "Văn minh Ai Cập cổ đại",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Ai_C%E1%BA%ADp_c%E1%BB%95_%C4%91%E1%BA%A1i",
+    "https://vi.wikipedia.org/wiki/Kim_t%E1%BB%B1_th%C3%A1p_Kheops"
+   ]
+  },
+  {
+   "name": "Kim tự tháp Kê-ốp",
+   "kind": "artifact",
+   "aliases": [
+    "Kim tự tháp Khufu",
+    "Đại kim tự tháp Giza",
+    "Kim tự tháp Kheops",
+    "kim tu thap Keop",
+    "kim tự tháp Ai Cập"
+   ],
+   "year": null,
+   "date_start": "-2570",
+   "date_end": null,
+   "place": "Gi-za, gần Cai-rô, Ai Cập",
+   "actors": [
+    "Pha-ra-ông Kê-ốp (Khufu)"
+   ],
+   "summary": "Kim tự tháp lớn nhất Ai Cập, kì quan duy nhất còn lại trong bảy kì quan thế giới cổ đại.",
+   "facts": [
+    "Kim tự tháp Kê-ốp được xây khoảng năm 2570 trước Công nguyên tại Gi-za, gần thủ đô Cai-rô của Ai Cập ngày nay.",
+    "Kim tự tháp Kê-ốp là lăng mộ của pha-ra-ông Kê-ốp thuộc Vương triều thứ tư của Ai Cập cổ đại.",
+    "Ban đầu kim tự tháp Kê-ốp cao khoảng 146,6 mét, ngày nay chỉ còn khoảng 138,5 mét do lớp đá vôi ốp ngoài bị bong mất.",
+    "Việc xây kim tự tháp Kê-ốp kéo dài khoảng 27 năm, huy động sức lao động của rất nhiều người.",
+    "Kim tự tháp Kê-ốp là kì quan duy nhất trong bảy kì quan của thế giới cổ đại còn tồn tại gần như nguyên vẹn đến ngày nay."
+   ],
+   "traps": [
+    "Kim tự tháp là lăng mộ của các pha-ra-ông, không phải đền thờ thần hay kho chứa lương thực.",
+    "Trong bảy kì quan thế giới cổ đại, chỉ còn kim tự tháp Kê-ốp tồn tại; vườn treo Ba-bi-lon và các kì quan khác đều đã biến mất."
+   ],
+   "lessons": [
+    {
+     "book": "CTST",
+     "bai": 6
+    }
+   ],
+   "topic_title": "Văn minh Ai Cập cổ đại",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Kim_t%E1%BB%B1_th%C3%A1p_Kheops",
+    "https://vi.wikipedia.org/wiki/Ai_C%E1%BA%ADp_c%E1%BB%95_%C4%91%E1%BA%A1i"
+   ]
+  },
+  {
+   "name": "Văn minh Hy Lạp cổ đại",
+   "kind": "concept",
+   "aliases": [
+    "Hy Lạp cổ đại",
+    "văn minh Hy Lạp",
+    "Ancient Greece",
+    "Hy Lap co dai",
+    "thành bang Hy Lạp"
+   ],
+   "year": null,
+   "date_start": "-0800",
+   "date_end": "-0030",
+   "place": "Bán đảo Ban-căng và các đảo trên biển Ê-giê, ven Địa Trung Hải",
+   "actors": [
+    "Xô-crát",
+    "Pla-tôn",
+    "A-ri-xtốt",
+    "A-lếch-xăng-đơ Đại đế"
+   ],
+   "summary": "Nền văn minh phương Tây cổ đại phát triển rực rỡ với các thành bang, nền dân chủ A-ten và thành tựu triết học, khoa học, nghệ thuật.",
+   "facts": [
+    "Văn minh Hy Lạp cổ đại phát triển ở bán đảo Ban-căng và các đảo trên biển Ê-giê, hưng thịnh nhất vào các thế kỉ V - IV trước Công nguyên.",
+    "Hy Lạp cổ đại không phải một quốc gia thống nhất mà gồm nhiều thành bang, trong đó nổi bật nhất là A-ten và Xpác.",
+    "A-ten xây dựng nền dân chủ với đại hội công dân quyết định công việc chung, còn Xpác duy trì chế độ quân sự nghiêm ngặt.",
+    "Hy Lạp cổ đại sản sinh những nhà triết học lớn như Xô-crát, Pla-tôn và A-ri-xtốt, đặt nền móng cho triết học phương Tây.",
+    "Chính vì đất đai Hy Lạp ít màu mỡ nhưng bờ biển nhiều vũng vịnh mà cư dân nơi đây mới đẩy mạnh thủ công nghiệp và buôn bán đường biển thay vì chỉ trồng trọt.",
+    "Trong các thế kỉ IV trước Công nguyên, A-lếch-xăng-đơ Đại đế đã mở rộng ảnh hưởng văn hóa Hy Lạp sang tận Ai Cập và Ấn Độ, tạo nên nền văn hóa Hy Lạp hóa."
+   ],
+   "traps": [
+    "Hy Lạp cổ đại gồm nhiều thành bang độc lập chứ không phải một đế quốc thống nhất như La Mã.",
+    "Nền dân chủ cổ đại là của A-ten, còn Xpác theo chế độ quân sự - quý tộc; hai thành bang này thường bị nhầm lẫn.",
+    "Dân chủ A-ten chỉ dành cho nam công dân tự do, còn nô lệ, phụ nữ và kiều dân đều không có quyền tham gia."
+   ],
+   "lessons": [
+    {
+     "book": "CTST",
+     "bai": 9
+    }
+   ],
+   "topic_title": "Văn minh Ai Cập cổ đại",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Hy_L%E1%BA%A1p_c%E1%BB%95_%C4%91%E1%BA%A1i"
+   ]
+  },
+  {
+   "name": "Văn minh La Mã cổ đại",
+   "kind": "concept",
+   "aliases": [
+    "La Mã cổ đại",
+    "văn minh La Mã",
+    "Ancient Rome",
+    "Rô-ma",
+    "La Ma co dai",
+    "đế quốc La Mã"
+   ],
+   "year": null,
+   "date_start": "-0753",
+   "date_end": "0476",
+   "place": "Bán đảo I-ta-li-a và vùng quanh Địa Trung Hải",
+   "actors": [
+    "Ốc-ta-vi-a-nút (Augustus)",
+    "Tơ-ra-gia-nút"
+   ],
+   "summary": "Nền văn minh phương Tây cổ đại nổi bật về luật pháp, kiến trúc và kĩ thuật xây dựng, kéo dài từ thế kỉ VIII TCN đến năm 476.",
+   "facts": [
+    "Theo truyền thuyết, thành Rô-ma được lập năm 753 trước Công nguyên, mở đầu lịch sử La Mã cổ đại.",
+    "Năm 509 trước Công nguyên, La Mã lập chế độ cộng hòa và duy trì thể chế này cho tới năm 27 trước Công nguyên.",
+    "Năm 27 trước Công nguyên, Ốc-ta-vi-a-nút lên nắm quyền với danh hiệu Au-gút-tút, mở đầu thời kì Đế quốc La Mã.",
+    "Năm 449 trước Công nguyên, người La Mã ban hành Luật Mười hai bảng, đặt nền móng cho hệ thống luật pháp phương Tây sau này.",
+    "Người La Mã sáng tạo ra bê tông, xây dựng hệ thống dẫn nước, đường sá dài hàng nghìn ki-lô-mét và những công trình đồ sộ như đấu trường Cô-li-dê.",
+    "Khoảng năm 117, dưới thời hoàng đế Tơ-ra-gia-nút, đế quốc La Mã đạt tới lãnh thổ rộng nhất, khoảng 5 triệu ki-lô-mét vuông.",
+    "Năm 476, đế quốc Tây La Mã sụp đổ trước các cuộc xâm nhập của người Giéc-man, đánh dấu thời cổ đại phương Tây kết thúc và thời trung đại bắt đầu."
+   ],
+   "traps": [
+    "Năm 476 là mốc sụp đổ của đế quốc TÂY La Mã, không phải toàn bộ La Mã; phần Đông La Mã (Bi-dăng-tin) còn tồn tại tới năm 1453.",
+    "La Mã chuyển từ cộng hòa sang đế chế năm 27 TCN với Ốc-ta-vi-a-nút, chứ không phải với Xê-da (Xê-da bị ám sát năm 44 TCN).",
+    "Chữ Latinh và hệ thống luật pháp là thành tựu của La Mã, còn triết học với Xô-crát, Pla-tôn, A-ri-xtốt là của Hy Lạp."
+   ],
+   "lessons": [
+    {
+     "book": "CTST",
+     "bai": 9
+    }
+   ],
+   "topic_title": "Văn minh Ai Cập cổ đại",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/La_M%C3%A3_c%E1%BB%95_%C4%91%E1%BA%A1i",
+    "https://vi.wikipedia.org/wiki/Hy_L%E1%BA%A1p_c%E1%BB%95_%C4%91%E1%BA%A1i"
+   ]
+  },
+  {
+   "name": "Văn minh Trung Hoa cổ - trung đại",
+   "kind": "concept",
+   "aliases": [
+    "văn minh Trung Hoa",
+    "văn minh Trung Quốc cổ trung đại",
+    "Trung Hoa cổ đại",
+    "van minh Trung Hoa"
+   ],
+   "year": null,
+   "date_start": null,
+   "date_end": null,
+   "place": "Lưu vực Hoàng Hà và Trường Giang, Trung Quốc",
+   "actors": [
+    "Khổng Tử",
+    "Tần Thủy Hoàng",
+    "Tư Mã Thiên"
+   ],
+   "summary": "Nền văn minh phương Đông hình thành bên Hoàng Hà và Trường Giang, để lại nhiều thành tựu về tư tưởng, chữ viết, sử học và kĩ thuật.",
+   "facts": [
+    "Văn minh Trung Hoa hình thành bên lưu vực Hoàng Hà và Trường Giang, phát triển liên tục từ thời cổ đại sang thời trung đại.",
+    "Khổng Tử sống vào khoảng thế kỉ VI - V trước Công nguyên là người sáng lập Nho giáo, học thuyết chi phối tư tưởng và giáo dục Trung Hoa suốt hàng nghìn năm.",
+    "Chữ viết của người Trung Hoa là chữ Hán, ban đầu khắc trên mai rùa, xương thú rồi phát triển thành hệ chữ tượng hình hoàn chỉnh.",
+    "Về sử học, Tư Mã Thiên thời Hán viết bộ Sử ký, tác phẩm sử học mẫu mực của Trung Hoa cổ đại.",
+    "Người Trung Hoa để lại những công trình kiến trúc đồ sộ như Vạn Lí Trường Thành và Tử Cấm Thành.",
+    "Chính vì Nho giáo đề cao việc học và việc thi cử để chọn quan lại mà chế độ khoa cử Trung Hoa mới phát triển và ảnh hưởng sâu đậm sang Việt Nam, Triều Tiên, Nhật Bản."
+   ],
+   "traps": [
+    "Nho giáo do Khổng Tử sáng lập ở Trung Hoa, còn Phật giáo do Thích Ca Mâu Ni sáng lập ở Ấn Độ — hai tôn giáo, hai quê hương khác nhau.",
+    "Chữ Hán là chữ tượng hình của người Trung Hoa; chữ Nôm của người Việt là loại chữ dựa trên chữ Hán nhưng do người Việt sáng tạo để ghi tiếng Việt."
+   ],
+   "lessons": [
+    {
+     "book": "CTST",
+     "bai": 7
+    }
+   ],
+   "topic_title": "Văn minh Trung Hoa cổ – trung đại",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/T%E1%BA%A7n_Th%E1%BB%A7y_Ho%C3%A0ng",
+    "https://www.studocu.vn/vn/document/dai-hoc-quoc-gia-ha-noi/lich-su-van-minh-the-gioi/nhung-thanh-tuu-cua-van-minh-trung-quoc-thoi-co-trung-dai/40421345"
+   ]
+  },
+  {
+   "name": "Tứ đại phát minh của Trung Hoa",
+   "kind": "concept",
+   "aliases": [
+    "bốn phát minh lớn",
+    "tứ đại phát minh",
+    "giấy la bàn thuốc súng kĩ thuật in",
+    "tu dai phat minh"
+   ],
+   "year": null,
+   "date_start": null,
+   "date_end": null,
+   "place": "Trung Quốc",
+   "actors": [
+    "Thái Luân"
+   ],
+   "summary": "Bốn phát minh kĩ thuật lớn của người Trung Hoa gồm giấy, kĩ thuật in, la bàn và thuốc súng.",
+   "facts": [
+    "Tứ đại phát minh của người Trung Hoa gồm giấy, kĩ thuật in, la bàn và thuốc súng.",
+    "Giấy là phát minh giúp con người ghi chép và lưu giữ tri thức dễ dàng, thay thế cho thẻ tre và lụa đắt đỏ trước đó.",
+    "La bàn là dụng cụ xác định phương hướng, về sau góp phần quan trọng vào các cuộc phát kiến địa lí của người châu Âu.",
+    "Thuốc súng làm thay đổi cách thức chiến tranh, dẫn tới sự ra đời của các loại vũ khí có sức công phá lớn.",
+    "Chính vì người Trung Hoa phát minh ra giấy và kĩ thuật in mà sách vở mới được nhân bản nhanh, góp phần truyền bá tri thức rộng rãi ở châu Á rồi châu Âu."
+   ],
+   "traps": [
+    "Tứ đại phát minh gồm giấy, kĩ thuật in, la bàn, thuốc súng — không bao gồm chữ viết hay đồ gốm sứ, dù đó cũng là thành tựu của Trung Hoa.",
+    "Kĩ thuật in và giấy là phát minh của Trung Hoa; người châu Âu (Gu-ten-béc, thế kỉ XV) chỉ cải tiến máy in chữ rời chứ không phát minh ra việc in."
+   ],
+   "lessons": [
+    {
+     "book": "CTST",
+     "bai": 7
+    }
+   ],
+   "topic_title": "Văn minh Trung Hoa cổ – trung đại",
+   "sources": [
+    "https://www.studocu.vn/vn/document/truong-dai-hoc-mo-ha-noi/dia-ly-du-lich/tu-dai-phat-minh-tu-dai-phat-minh-cua-trung-hoa/64935264",
+    "https://kenhgiaovien.com/tai-lieu/cau-hoi-tu-luan-lich-su-10-chan-troi-sang-tao-bai-7-van-minh-trung-hoa-co-trung-dai"
+   ]
+  },
+  {
+   "name": "Tần Thủy Hoàng",
+   "kind": "person",
+   "aliases": [
+    "Tần Thuỷ Hoàng",
+    "Doanh Chính",
+    "Tần Thủy Hoàng Đế",
+    "Qin Shi Huang",
+    "Tan Thuy Hoang"
+   ],
+   "year": null,
+   "date_start": "-0259",
+   "date_end": "-0210",
+   "place": "Trung Quốc",
+   "actors": [
+    "Tần Thủy Hoàng"
+   ],
+   "summary": "Vị vua thống nhất Trung Quốc năm 221 TCN và là hoàng đế đầu tiên trong lịch sử Trung Hoa.",
+   "facts": [
+    "Tần Thủy Hoàng sinh năm 259 trước Công nguyên và mất năm 210 trước Công nguyên, thọ 49 tuổi.",
+    "Năm 221 trước Công nguyên, Tần Thủy Hoàng đánh bại sáu nước chư hầu còn lại, thống nhất Trung Quốc sau nhiều thế kỉ chia cắt.",
+    "Cũng trong năm 221 trước Công nguyên, ông đặt ra danh hiệu hoàng đế và tự xưng là Thủy Hoàng Đế, nghĩa là vị hoàng đế đầu tiên.",
+    "Sau khi thống nhất, Tần Thủy Hoàng cho thống nhất chữ viết, tiền tệ, đơn vị đo lường và cả chiều dài trục bánh xe trong cả nước.",
+    "Từ năm 214 trước Công nguyên, Tần Thủy Hoàng cho nối các đoạn tường thành cũ để xây Vạn Lí Trường Thành nhằm chống người Hung Nô ở phương bắc.",
+    "Lăng mộ Tần Thủy Hoàng nổi tiếng với đội quân tượng đất nung được phát hiện gần thành phố Tây An ngày nay.",
+    "Chính vì mỗi nước chư hầu trước đó dùng chữ viết, tiền và đơn vị đo lường riêng mà sau khi thống nhất năm 221 TCN Tần Thủy Hoàng mới phải thống nhất tất cả những thứ đó để cai trị đất nước."
+   ],
+   "traps": [
+    "Tần Thủy Hoàng thống nhất Trung Quốc năm 221 TCN, không phải là người mở đầu triều Hán (nhà Hán lập năm 206 TCN sau khi nhà Tần sụp đổ).",
+    "Vạn Lí Trường Thành không do một mình Tần Thủy Hoàng xây từ đầu; ông cho nối các đoạn tường thành có sẵn từ thời Chiến Quốc từ năm 214 TCN."
+   ],
+   "lessons": [
+    {
+     "book": "CTST",
+     "bai": 7
+    }
+   ],
+   "topic_title": "Văn minh Trung Hoa cổ – trung đại",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/T%E1%BA%A7n_Th%E1%BB%A7y_Ho%C3%A0ng"
+   ]
+  },
+  {
+   "name": "Văn minh Ấn Độ cổ - trung đại",
+   "kind": "concept",
+   "aliases": [
+    "văn minh Ấn Độ",
+    "Ấn Độ cổ trung đại",
+    "van minh An Do",
+    "văn minh sông Ấn sông Hằng"
+   ],
+   "year": null,
+   "date_start": null,
+   "date_end": null,
+   "place": "Lưu vực sông Ấn và sông Hằng, bán đảo Ấn Độ",
+   "actors": [
+    "Thích Ca Mâu Ni"
+   ],
+   "summary": "Nền văn minh phương Đông hình thành bên sông Ấn và sông Hằng, quê hương của Hin-đu giáo, Phật giáo và chữ số 0.",
+   "facts": [
+    "Văn minh Ấn Độ cổ - trung đại hình thành và phát triển bên lưu vực hai con sông lớn là sông Ấn và sông Hằng.",
+    "Chữ viết tiêu biểu của Ấn Độ cổ đại là chữ Phạn, được dùng để ghi kinh sách và sáng tác văn học.",
+    "Văn học Ấn Độ cổ đại nổi tiếng với kinh Vê-đa và hai bộ sử thi đồ sộ là Ma-ha-bha-ra-ta và Ra-ma-y-a-na.",
+    "Ấn Độ là quê hương của Hin-đu giáo và Phật giáo, hai tôn giáo lớn có ảnh hưởng sâu rộng tới nhiều nước Đông Nam Á, trong đó có Việt Nam.",
+    "Người Ấn Độ sáng tạo hệ thống chữ số tự nhiên mà ta dùng ngày nay, đặc biệt là phát minh ra chữ số 0.",
+    "Kiến trúc và điêu khắc Ấn Độ nổi bật với những ngôi chùa khoét sâu trong núi đá cùng các pho tượng Phật tạc bằng đá rất tinh xảo.",
+    "Chính vì thương nhân và nhà tu hành Ấn Độ đi lại buôn bán, truyền đạo khắp Đông Nam Á từ những thế kỉ đầu Công nguyên mà chữ Phạn, Hin-đu giáo và Phật giáo mới lan tới các vương quốc như Chăm-pa và Phù Nam."
+   ],
+   "traps": [
+    "Chữ số mà thế giới dùng ngày nay (kể cả số 0) là phát minh của người Ấn Độ, người A-rập chỉ là cầu nối truyền sang châu Âu nên bị gọi nhầm là 'chữ số A-rập'.",
+    "Phật giáo ra đời ở Ấn Độ chứ không phải ở Trung Quốc; Trung Quốc chỉ là nơi Phật giáo du nhập rồi phát triển mạnh."
+   ],
+   "lessons": [
+    {
+     "book": "CTST",
+     "bai": 8
+    }
+   ],
+   "topic_title": "Văn minh Trung Hoa cổ – trung đại",
+   "sources": [
+    "https://loigiaihay.com/ly-thuyet-van-minh-an-do-co-trung-dai-lich-su-10-chan-troi-sang-tao-a111402.html",
+    "https://haylamdo.com/lich-su-10-ct/luyen-tap-2-trang-51-lich-su-10.jsp"
+   ]
+  },
+  {
+   "name": "Phong trào Văn hóa Phục hưng",
+   "kind": "movement",
+   "aliases": [
+    "Văn hóa Phục hưng",
+    "Phục Hưng",
+    "Renaissance",
+    "phong trào Phục hưng",
+    "van hoa Phuc hung"
+   ],
+   "year": null,
+   "date_start": "1300",
+   "date_end": "1600",
+   "place": "Khởi đầu ở Phi-ren-xê, I-ta-li-a rồi lan ra Tây Âu",
+   "actors": [
+    "Lê-ô-na đơ Vanh-xi",
+    "Mi-ken-lăng-giơ",
+    "Ra-pha-en",
+    "Sếch-xpia",
+    "Cô-péc-ních",
+    "Ga-li-lê"
+   ],
+   "summary": "Phong trào văn hóa lớn ở Tây Âu từ thế kỉ XIV, đề cao con người và khôi phục tinh hoa văn hóa Hy Lạp - La Mã cổ đại.",
+   "facts": [
+    "Phong trào Văn hóa Phục hưng bắt đầu ở thành phố Phi-ren-xê của nước I-ta-li-a vào thế kỉ XIV - XV rồi lan rộng khắp Tây Âu.",
+    "Phục hưng có nghĩa là khôi phục và làm sống lại những giá trị của nền văn hóa Hy Lạp - La Mã cổ đại đã bị lãng quên trong thời trung đại.",
+    "Tư tưởng cốt lõi của phong trào Phục hưng là chủ nghĩa nhân văn, đề cao giá trị, vẻ đẹp và tự do của con người.",
+    "Hội họa Phục hưng đạt đỉnh cao với Lê-ô-na đơ Vanh-xi, Mi-ken-lăng-giơ và Ra-pha-en; văn học có nhà viết kịch Sếch-xpia.",
+    "Khoa học Phục hưng gắn với Cô-péc-ních và Ga-li-lê, những người thay đổi cách con người nhìn nhận vũ trụ.",
+    "Chính vì giáo hội thời trung đại kìm hãm tư tưởng và đề cao thần quyền mà tầng lớp thị dân, tư sản đang lên mới khởi xướng phong trào Phục hưng để đòi giải phóng con người.",
+    "Phong trào Văn hóa Phục hưng được coi là chiếc cầu nối giữa thời trung đại và thời cận đại, mở đường cho khoa học hiện đại phát triển."
+   ],
+   "traps": [
+    "Phục hưng khởi đầu ở I-ta-li-a (Phi-ren-xê) chứ không phải ở Pháp hay Anh, dù về sau lan rộng khắp Tây Âu.",
+    "Phục hưng nghĩa là làm sống lại tinh hoa văn hóa Hy Lạp - La Mã cổ đại, không phải là khôi phục văn hóa thời trung đại.",
+    "Đừng nhầm phong trào Văn hóa Phục hưng (thế kỉ XIV - XVII) với Cách mạng công nghiệp (thế kỉ XVIII) hay Cải cách tôn giáo, dù chúng đều diễn ra ở châu Âu."
+   ],
+   "lessons": [
+    {
+     "book": "CTST",
+     "bai": 10
+    }
+   ],
+   "topic_title": "Văn minh Tây Âu thời Phục hưng",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Ph%E1%BB%A5c_H%C6%B0ng"
+   ]
+  },
+  {
+   "name": "Ni-cô-lai Cô-péc-ních",
+   "kind": "person",
+   "aliases": [
+    "Nicolaus Copernicus",
+    "Cô-péc-ních",
+    "Copernicus",
+    "Copecnich",
+    "Cô pec ních",
+    "thuyết nhật tâm"
+   ],
+   "year": null,
+   "date_start": "1473-02-19",
+   "date_end": "1543-05-24",
+   "place": "Tô-runh, Ba Lan; mất tại Phrom-boóc",
+   "actors": [
+    "Ni-cô-lai Cô-péc-ních"
+   ],
+   "summary": "Nhà thiên văn học Ba Lan thời Phục hưng, người đề xướng thuyết nhật tâm cho rằng Trái Đất quay quanh Mặt Trời.",
+   "facts": [
+    "Ni-cô-lai Cô-péc-ních sinh ngày 19/2/1473 ở thành phố Tô-runh và mất ngày 24/5/1543, ông là người Ba Lan.",
+    "Cô-péc-ních đề xướng thuyết nhật tâm, cho rằng Mặt Trời mới là trung tâm còn Trái Đất cùng các hành tinh quay quanh Mặt Trời.",
+    "Năm 1543, đúng năm ông qua đời, tác phẩm Về sự chuyển động quay của các thiên thể của Cô-péc-ních được xuất bản.",
+    "Chính vì thuyết nhật tâm của Cô-péc-ních năm 1543 bác bỏ quan niệm Trái Đất là trung tâm vũ trụ mà nhà thờ vẫn bảo vệ nên nó đã mở đầu cho một cuộc cách mạng trong nhận thức khoa học của loài người.",
+    "Thuyết nhật tâm của Cô-péc-ních về sau được Ga-li-lê dùng kính thiên văn quan sát và bảo vệ, dù ông bị Giáo hội xét xử."
+   ],
+   "traps": [
+    "Cô-péc-ních nêu thuyết NHẬT TÂM (Mặt Trời là trung tâm), còn thuyết địa tâm (Trái Đất là trung tâm) là quan niệm cũ của Ptô-lê-mê mà ông bác bỏ.",
+    "Người bị Giáo hội đưa ra tòa án dị giáo vì bảo vệ thuyết nhật tâm là Ga-li-lê, còn Bru-nô bị thiêu sống; Cô-péc-ních mất năm 1543 ngay khi sách vừa in nên không bị xét xử."
+   ],
+   "lessons": [
+    {
+     "book": "CTST",
+     "bai": 10
+    }
+   ],
+   "topic_title": "Văn minh Tây Âu thời Phục hưng",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Nicolaus_Copernicus",
+    "https://vi.wikipedia.org/wiki/Ph%E1%BB%A5c_H%C6%B0ng"
+   ]
+  },
+  {
+   "name": "Lê-ô-na đơ Vanh-xi",
+   "kind": "person",
+   "aliases": [
+    "Leonardo da Vinci",
+    "Lê ô na đơ Vanh xi",
+    "Leona de Vinci",
+    "Đa Vinci",
+    "Da Vinci"
+   ],
+   "year": null,
+   "date_start": "1452-04-15",
+   "date_end": "1519-05-02",
+   "place": "Vin-xi, I-ta-li-a; mất tại Am-boa, Pháp",
+   "actors": [
+    "Lê-ô-na đơ Vanh-xi"
+   ],
+   "summary": "Danh họa và nhà bác học người I-ta-li-a, gương mặt tiêu biểu nhất của thời Phục hưng.",
+   "facts": [
+    "Lê-ô-na đơ Vanh-xi sinh ngày 15/4/1452 tại làng Vin-xi ở I-ta-li-a và mất ngày 2/5/1519 tại Am-boa, nước Pháp.",
+    "Hai bức tranh nổi tiếng nhất của Lê-ô-na đơ Vanh-xi là Nàng Mô-na Li-da và Bữa tiệc cuối cùng.",
+    "Ngoài hội họa, Lê-ô-na đơ Vanh-xi còn nghiên cứu giải phẫu cơ thể người, kiến trúc, cơ khí và thiên nhiên.",
+    "Lê-ô-na đơ Vanh-xi phác thảo nhiều ý tưởng vượt trước thời đại như máy bay trực thăng, xe bọc thép và chiếc dù.",
+    "Ông có thói quen viết ngược từ phải sang trái bằng tay trái, khiến các ghi chép của ông phải soi gương mới đọc được.",
+    "Chính vì thời Phục hưng đề cao con người và khuyến khích tìm hiểu thế giới thực mà những tài năng toàn diện như Lê-ô-na đơ Vanh-xi mới xuất hiện."
+   ],
+   "traps": [
+    "Bức Nàng Mô-na Li-da là của Lê-ô-na đơ Vanh-xi, còn tượng Đa-vít và tranh trên trần nhà nguyện Xích-xtin là của Mi-ken-lăng-giơ.",
+    "Lê-ô-na đơ Vanh-xi là người I-ta-li-a dù ông mất ở Pháp năm 1519."
+   ],
+   "lessons": [
+    {
+     "book": "CTST",
+     "bai": 10
+    }
+   ],
+   "topic_title": "Văn minh Tây Âu thời Phục hưng",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Leonardo_da_Vinci",
+    "https://vi.wikipedia.org/wiki/Ph%E1%BB%A5c_H%C6%B0ng"
+   ]
+  },
+  {
+   "name": "Văn minh Chăm-pa",
+   "kind": "concept",
+   "aliases": [
+    "Chăm Pa",
+    "Chămpa",
+    "Champa",
+    "Lâm Ấp",
+    "vương quốc Chăm-pa",
+    "văn minh Chăm Pa",
+    "Chiêm Thành"
+   ],
+   "year": 192,
+   "date_start": "0192",
+   "date_end": null,
+   "place": "Vùng ven biển miền Trung Việt Nam, từ Quảng Bình đến Bình Thuận",
+   "actors": [
+    "Khu Liên",
+    "Bha-đra-vác-man I"
+   ],
+   "summary": "Nền văn minh của người Chăm ở miền Trung Việt Nam, ra đời năm 192 trên nền tảng văn hóa Sa Huỳnh.",
+   "facts": [
+    "Năm 192, Khu Liên lãnh đạo nhân dân nổi dậy chống ách đô hộ của nhà Hán và lập ra nhà nước Lâm Ấp, tiền thân của vương quốc Chăm-pa.",
+    "Địa bàn chủ yếu của Chăm-pa là dải đất ven biển miền Trung Việt Nam, thời kì cực thịnh trải từ Quảng Bình vào tới Bình Thuận và lên cả vùng cao nguyên.",
+    "Cơ sở hình thành văn minh Chăm-pa là văn hóa Sa Huỳnh, nền văn hóa thời đại đồ sắt phát triển ở ven biển miền Trung trong thiên niên kỉ I trước Công nguyên.",
+    "Người Chăm sớm tiếp thu chữ Phạn của Ấn Độ và từ thế kỉ IV đã sáng tạo chữ Chăm cổ, thuộc loại chữ viết ra đời sớm ở Đông Nam Á.",
+    "Tôn giáo chính của người Chăm là Hin-đu giáo, đặc biệt là thờ thần Si-va, bên cạnh đó có Phật giáo và về sau là Hồi giáo.",
+    "Chính vì nằm trên tuyến đường buôn bán đường biển nối Ấn Độ với Trung Hoa mà cư dân Chăm-pa mới sớm tiếp thu chữ viết, tôn giáo và nghệ thuật Ấn Độ đậm nét như vậy.",
+    "Kiến trúc tiêu biểu của văn minh Chăm-pa là hệ thống đền tháp xây bằng gạch, nổi bật nhất là khu Thánh địa Mỹ Sơn."
+   ],
+   "traps": [
+    "Văn minh Chăm-pa ra đời trên nền văn hóa SA HUỲNH ở miền Trung, không phải trên văn hóa Đông Sơn ở miền Bắc hay Óc Eo ở Nam Bộ.",
+    "Người lập nước Lâm Ấp năm 192 là Khu Liên; đừng nhầm với An Dương Vương của Âu Lạc hay các vua Phù Nam.",
+    "Chăm-pa còn được gọi là Lâm Ấp (thời kì đầu) và Chiêm Thành (trong thư tịch Việt Nam), đó là cùng một vương quốc chứ không phải ba nước khác nhau."
+   ],
+   "lessons": [
+    {
+     "book": "CTST",
+     "bai": 16
+    }
+   ],
+   "topic_title": "Văn minh Chăm-pa",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Ch%C4%83m_Pa",
+    "https://vi.wikipedia.org/wiki/Th%C3%A1nh_%C4%91%E1%BB%8Ba_M%E1%BB%B9_S%C6%A1n"
+   ]
+  },
+  {
+   "name": "Thánh địa Mỹ Sơn",
+   "kind": "place",
+   "aliases": [
+    "Mỹ Sơn",
+    "khu đền tháp Mỹ Sơn",
+    "My Son",
+    "thánh địa Mĩ Sơn"
+   ],
+   "year": null,
+   "date_start": "0381",
+   "date_end": "1400",
+   "place": "Thung lũng Mỹ Sơn, tỉnh Quảng Nam (nay thuộc thành phố Đà Nẵng)",
+   "actors": [
+    "Vua Bha-đra-vác-man I"
+   ],
+   "summary": "Khu đền tháp lớn nhất của người Chăm, di sản văn hóa thế giới được UNESCO công nhận năm 1999.",
+   "facts": [
+    "Thánh địa Mỹ Sơn nằm trong một thung lũng thuộc tỉnh Quảng Nam trước đây, cách trung tâm Đà Nẵng khoảng 40 ki-lô-mét.",
+    "Khu đền tháp Mỹ Sơn được xây dựng kéo dài từ khoảng thế kỉ IV đến thế kỉ XIV, qua nhiều đời vua Chăm-pa.",
+    "Những di vật sớm nhất ở Mỹ Sơn gắn với thời vua Bha-đra-vác-man I trị vì trong khoảng năm 381 đến 413.",
+    "Các đền tháp ở Mỹ Sơn chủ yếu thờ thần Si-va thông qua biểu tượng Lin-ga, vị thần được coi là thần bảo hộ của các vua Chăm-pa.",
+    "Ở Mỹ Sơn có trên 70 công trình kiến trúc, được các nhà khảo cổ người Pháp chia thành 10 nhóm kí hiệu từ A đến K.",
+    "Năm 1999, Thánh địa Mỹ Sơn được UNESCO công nhận là Di sản văn hóa thế giới."
+   ],
+   "traps": [
+    "Mỹ Sơn thờ thần Si-va của Hin-đu giáo, không phải là một quần thể chùa Phật giáo.",
+    "Mỹ Sơn được UNESCO công nhận Di sản văn hóa thế giới năm 1999, cùng năm với Phố cổ Hội An; đừng nhầm với Cố đô Huế được công nhận năm 1993.",
+    "Mỹ Sơn là khu đền tháp của người Chăm ở miền Trung, đừng nhầm với di tích Óc Eo của Phù Nam ở Nam Bộ."
+   ],
+   "lessons": [
+    {
+     "book": "CTST",
+     "bai": 16
+    }
+   ],
+   "topic_title": "Văn minh Chăm-pa",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Th%C3%A1nh_%C4%91%E1%BB%8Ba_M%E1%BB%B9_S%C6%A1n",
+    "https://vi.wikipedia.org/wiki/Ch%C4%83m_Pa"
+   ]
+  },
+  {
+   "name": "Văn minh Phù Nam",
+   "kind": "concept",
+   "aliases": [
+    "Phù Nam",
+    "vương quốc Phù Nam",
+    "Funan",
+    "van minh Phu Nam"
+   ],
+   "year": null,
+   "date_start": "0001",
+   "date_end": "0627",
+   "place": "Vùng hạ lưu sông Mê Công, Nam Bộ Việt Nam và các vùng lân cận",
+   "actors": [
+    "Chân Lạp"
+   ],
+   "summary": "Vương quốc cổ hình thành ở châu thổ sông Mê Công từ khoảng thế kỉ I, gắn với văn hóa Óc Eo.",
+   "facts": [
+    "Vương quốc Phù Nam hình thành ở vùng hạ lưu sông Mê Công từ khoảng thế kỉ I và tồn tại đến khoảng thế kỉ VII.",
+    "Lãnh thổ Phù Nam thời cực thịnh trải rộng từ Nam Bộ Việt Nam ngày nay sang tới lưu vực sông Chao Phray-a của Thái Lan và xuống bắc bán đảo Ma-lay-a.",
+    "Cơ sở vật chất của văn minh Phù Nam là văn hóa Óc Eo, với các cảng thị và mạng lưới buôn bán đường biển rộng lớn.",
+    "Cư dân Phù Nam theo Bà La Môn giáo và Phật giáo, hai tôn giáo du nhập từ Ấn Độ, cùng tồn tại song song.",
+    "Chính vì Phù Nam nằm trên tuyến hải thương nối Ấn Độ Dương với Biển Đông mà nơi đây mới trở thành trung tâm buôn bán sầm uất và tiếp nhận mạnh mẽ văn hóa Ấn Độ.",
+    "Từ khoảng giữa thế kỉ VI, Phù Nam suy yếu rồi bị Chân Lạp thôn tính, và đến khoảng năm 627 thì không còn tồn tại như một quốc gia độc lập."
+   ],
+   "traps": [
+    "Phù Nam ở Nam Bộ gắn với văn hóa Óc Eo, còn Chăm-pa ở miền Trung gắn với văn hóa Sa Huỳnh — hai vương quốc, hai nền văn hóa nền tảng khác nhau.",
+    "Phù Nam bị Chân Lạp thôn tính vào khoảng thế kỉ VII, chứ không phải bị Đại Việt hay nhà Hán tiêu diệt."
+   ],
+   "lessons": [
+    {
+     "book": "CTST",
+     "bai": 17
+    }
+   ],
+   "topic_title": "Văn minh Chăm-pa",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Ph%C3%B9_Nam",
+    "https://vi.wikipedia.org/wiki/V%C4%83n_h%C3%B3a_%C3%93c_Eo"
+   ]
+  },
+  {
+   "name": "Văn hóa Óc Eo",
+   "kind": "concept",
+   "aliases": [
+    "Óc Eo",
+    "văn hoá Óc Eo",
+    "Oc Eo",
+    "di chỉ Óc Eo",
+    "Óc Eo - Ba Thê"
+   ],
+   "year": null,
+   "date_start": "0001",
+   "date_end": "0700",
+   "place": "Gò Óc Eo dưới chân núi Ba Thê, tỉnh An Giang và nhiều tỉnh Nam Bộ",
+   "actors": [
+    "Lu-i Ma-lơ-rê (Louis Malleret)"
+   ],
+   "summary": "Nền văn hóa khảo cổ ở Nam Bộ Việt Nam, cơ sở vật chất của vương quốc Phù Nam.",
+   "facts": [
+    "Óc Eo vốn là tên một gò đất nằm ở phía đông nam núi Ba Thê thuộc tỉnh An Giang, nơi các hiện vật quan trọng đầu tiên được tìm thấy vào năm 1944.",
+    "Văn hóa Óc Eo phát triển từ khoảng thế kỉ I đến thế kỉ VII, với trung tâm là vùng Óc Eo - Ba Thê.",
+    "Văn hóa Óc Eo gắn bó chặt chẽ với vương quốc Phù Nam, đặc biệt trong các thế kỉ IV - VI khi Phù Nam hùng mạnh nhất.",
+    "Ở các di chỉ Óc Eo, các nhà khảo cổ tìm được đồ trang sức bằng thủy tinh, đá quý, kim loại cùng tượng thần Vi-snu, Si-va và tượng Phật.",
+    "Việc tìm thấy đồng tiền La Mã mang hình các hoàng đế An-tô-ni-nút Pi-út và Mác-cút Au-rê-li-út tại Óc Eo chứng tỏ nơi đây từng buôn bán với những vùng đất rất xa.",
+    "Di tích văn hóa Óc Eo được phát hiện ở nhiều tỉnh Nam Bộ như An Giang, Đồng Tháp, Cần Thơ, Vĩnh Long, Cà Mau."
+   ],
+   "traps": [
+    "Óc Eo là tên một địa điểm khảo cổ ở An Giang, không phải tên một vương quốc; vương quốc gắn với nền văn hóa này là Phù Nam.",
+    "Đừng nhầm Óc Eo (Nam Bộ, gắn với Phù Nam) với Sa Huỳnh (miền Trung, gắn với Chăm-pa) và Đông Sơn (miền Bắc, gắn với Văn Lang - Âu Lạc)."
+   ],
+   "lessons": [
+    {
+     "book": "CTST",
+     "bai": 17
+    }
+   ],
+   "topic_title": "Văn minh Chăm-pa",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/V%C4%83n_h%C3%B3a_%C3%93c_Eo",
+    "https://vi.wikipedia.org/wiki/Ph%C3%B9_Nam"
+   ]
+  }
+ ]
+}

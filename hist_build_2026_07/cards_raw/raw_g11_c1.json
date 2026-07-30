@@ -1,0 +1,1772 @@
+{
+ "grade": 11,
+ "chunk": 1,
+ "cards": [
+  {
+   "name": "Biển Đông",
+   "kind": "place",
+   "summary": "Vùng biển rìa lớn của Thái Bình Dương, nơi Việt Nam có chủ quyền, quyền chủ quyền và quyền tài phán theo luật pháp quốc tế.",
+   "facts": [
+    "Biển Đông có diện tích khoảng 3,4 triệu km2, là biển lớn thứ tư thế giới sau biển Philippines, biển San Hô và biển Ả Rập.",
+    "Biển Đông được bao quanh bởi bờ biển của nhiều nước và vùng lãnh thổ như Việt Nam, Trung Quốc, Philippines, Malaysia, Brunei, Indonesia, Singapore, Thái Lan, Campuchia, Đài Loan.",
+    "Biển Đông nằm trên tuyến hàng hải đông đúc hàng thứ hai thế giới, nên ai kiểm soát được vùng biển này sẽ chi phối một phần lớn thương mại đường biển của châu Á.",
+    "Việt Nam có đường bờ biển dài khoảng 3.260 km (không kể các đảo) trải từ Quảng Ninh đến vùng biển Tây Nam, nên hầu hết các hoạt động kinh tế biển của nước ta đều gắn với Biển Đông.",
+    "Hai quần đảo lớn nhất giữa Biển Đông là Hoàng Sa và Trường Sa, đều thuộc chủ quyền của Việt Nam.",
+    "Công ước của Liên hợp quốc về Luật Biển được ký ngày 10/12/1982 tại Montego Bay (Jamaica) và có hiệu lực từ ngày 16/11/1994, quy định lãnh hải rộng 12 hải lí và vùng đặc quyền kinh tế rộng 200 hải lí tính từ đường cơ sở.",
+    "Vì Công ước Luật Biển 1982 cho phép quốc gia ven biển có vùng đặc quyền kinh tế 200 hải lí, nên đây là cơ sở pháp lí quốc tế quan trọng để Việt Nam khẳng định các vùng biển của mình trên Biển Đông."
+   ],
+   "topic_title": "Việt Nam và Biển Đông",
+   "aliases": [
+    "Biển Đông Việt Nam",
+    "biển Nam Trung Hoa",
+    "South China Sea",
+    "Đông Hải"
+   ],
+   "year": null,
+   "date_start": null,
+   "date_end": null,
+   "place": "Biển Đông",
+   "actors": [
+    "Việt Nam"
+   ],
+   "traps": [
+    "Nhiều tài liệu nước ngoài gọi Biển Đông là 'biển Nam Trung Hoa' (South China Sea), nhưng đó chỉ là tên gọi địa lí theo thói quen quốc tế, KHÔNG có nghĩa vùng biển này thuộc về Trung Quốc.",
+    "Biển Đông là biển lớn thứ TƯ thế giới, không phải biển lớn nhất thế giới.",
+    "Công ước Luật Biển của Liên hợp quốc là năm 1982 (có hiệu lực 1994), không phải năm 1958 hay 1994 là năm ký."
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Bi%E1%BB%83n_%C4%90%C3%B4ng",
+    "https://vi.wikipedia.org/wiki/C%C3%B4ng_%C6%B0%E1%BB%9Bc_Li%C3%AAn_Hi%E1%BB%87p_Qu%E1%BB%91c_v%E1%BB%81_Lu%E1%BA%ADt_bi%E1%BB%83n",
+    "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%8Ba_l%C3%BD_Vi%E1%BB%87t_Nam"
+   ],
+   "lessons": [
+    {
+     "book": "cánh diều",
+     "bai": 13
+    },
+    {
+     "book": "KNTT",
+     "bai": 13
+    },
+    {
+     "book": "CTST",
+     "bai": 13
+    }
+   ]
+  },
+  {
+   "name": "Quần đảo Hoàng Sa",
+   "kind": "place",
+   "summary": "Quần đảo của Việt Nam ở phía bắc Biển Đông, thuộc thành phố Đà Nẵng, được các chúa Nguyễn và triều Nguyễn xác lập chủ quyền từ rất sớm.",
+   "facts": [
+    "Quần đảo Hoàng Sa gồm khoảng 30 đảo, cồn cát cùng nhiều bãi đá và rạn san hô, tổng diện tích phần nổi chỉ khoảng 870 ha.",
+    "Về hành chính, quần đảo Hoàng Sa là huyện Hoàng Sa thuộc thành phố Đà Nẵng của Việt Nam.",
+    "Hoàng Sa cách đảo Lý Sơn (Quảng Ngãi) khoảng 200 hải lí và cách đảo Hải Nam của Trung Quốc khoảng 230 hải lí.",
+    "Từ thế kỉ XVII, các chúa Nguyễn đã cho lập đội Hoàng Sa gồm 70 suất, tuyển người xã An Vĩnh (Quảng Ngãi) ra quần đảo làm nhiệm vụ mỗi năm 6 tháng.",
+    "Năm 1835, vua Minh Mạng cho dựng miếu, đặt bia đá, đóng cọc và trồng cây trên đảo, tức là nhà nước phong kiến Việt Nam đã thực thi chủ quyền bằng hành động cụ thể chứ không chỉ tuyên bố.",
+    "Năm 1974, Trung Quốc dùng vũ lực đánh chiếm nhóm đảo phía tây quần đảo Hoàng Sa từ tay chính quyền Sài Gòn; việc chiếm đóng bằng vũ lực này không tạo ra chủ quyền hợp pháp theo luật pháp quốc tế."
+   ],
+   "topic_title": "Việt Nam và Biển Đông",
+   "aliases": [
+    "Hoàng Sa",
+    "huyện Hoàng Sa",
+    "quần đảo Paracel",
+    "Paracel Islands",
+    "Tây Sa"
+   ],
+   "year": null,
+   "date_start": null,
+   "date_end": null,
+   "place": "Bắc Biển Đông",
+   "actors": [
+    "chúa Nguyễn",
+    "vua Minh Mạng"
+   ],
+   "traps": [
+    "Quần đảo Hoàng Sa thuộc thành phố ĐÀ NẴNG, còn quần đảo Trường Sa thuộc tỉnh KHÁNH HÒA — rất dễ đảo ngược hai đơn vị hành chính này.",
+    "Sự kiện Trung Quốc dùng vũ lực chiếm Hoàng Sa là năm 1974, còn sự kiện Gạc Ma ở Trường Sa là năm 1988 — hai sự kiện khác nhau, khác nơi, khác năm."
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Qu%E1%BA%A7n_%C4%91%E1%BA%A3o_Ho%C3%A0ng_Sa",
+    "https://vi.wikipedia.org/wiki/Bi%E1%BB%83n_%C4%90%C3%B4ng"
+   ],
+   "lessons": [
+    {
+     "book": "cánh diều",
+     "bai": 13
+    },
+    {
+     "book": "KNTT",
+     "bai": 13
+    },
+    {
+     "book": "CTST",
+     "bai": 13
+    }
+   ]
+  },
+  {
+   "name": "Quần đảo Trường Sa",
+   "kind": "place",
+   "summary": "Quần đảo của Việt Nam ở phía nam Biển Đông, thuộc tỉnh Khánh Hòa, hiện là khu vực có tranh chấp giữa nhiều bên.",
+   "facts": [
+    "Quần đảo Trường Sa gồm hơn 100 đảo, đá và bãi san hô nằm rải trên vùng biển rộng gần 160.000 km2, nhưng tổng diện tích đất nổi chỉ khoảng 18 km2.",
+    "Về hành chính, quần đảo Trường Sa thuộc tỉnh Khánh Hòa của Việt Nam.",
+    "Hiện có sáu bên cùng đưa ra yêu sách ở khu vực Trường Sa là Việt Nam, Trung Quốc, Đài Loan, Philippines, Malaysia và Brunei.",
+    "Việt Nam khẳng định chủ quyền ở Trường Sa dựa trên việc chiếm hữu thật sự, quản lí liên tục và hòa bình từ thời các chúa Nguyễn và triều Nguyễn, sau đó được kế thừa qua các thời kì.",
+    "Ngày 14/3/1988, Trung Quốc dùng vũ lực tấn công lực lượng Việt Nam tại các đá Gạc Ma, Cô Lin và Len Đao thuộc quần đảo Trường Sa, khiến 64 chiến sĩ Hải quân Việt Nam hi sinh."
+   ],
+   "topic_title": "Việt Nam và Biển Đông",
+   "aliases": [
+    "Trường Sa",
+    "huyện Trường Sa",
+    "đặc khu Trường Sa",
+    "quần đảo Spratly",
+    "Spratly Islands",
+    "Nam Sa"
+   ],
+   "year": null,
+   "date_start": null,
+   "date_end": null,
+   "place": "Nam Biển Đông",
+   "actors": [
+    "Việt Nam"
+   ],
+   "traps": [
+    "Trường Sa thuộc tỉnh Khánh Hòa, KHÔNG thuộc Đà Nẵng (Đà Nẵng quản lí huyện Hoàng Sa).",
+    "Sự kiện Gạc Ma diễn ra ngày 14/3/1988 ở Trường Sa, không phải năm 1974 (năm đó là Hoàng Sa)."
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Qu%E1%BA%A7n_%C4%91%E1%BA%A3o_Tr%C6%B0%E1%BB%9Dng_Sa"
+   ],
+   "lessons": [
+    {
+     "book": "cánh diều",
+     "bai": 13
+    },
+    {
+     "book": "KNTT",
+     "bai": 13
+    },
+    {
+     "book": "CTST",
+     "bai": 13
+    }
+   ]
+  },
+  {
+   "name": "Hải đội Hoàng Sa",
+   "kind": "org",
+   "summary": "Tổ chức nhà nước do các chúa Nguyễn lập từ thế kỉ XVII để ra khai thác và quản lí quần đảo Hoàng Sa, là bằng chứng lịch sử về chủ quyền của Việt Nam.",
+   "facts": [
+    "Hải đội Hoàng Sa được các chúa Nguyễn lập ra từ thế kỉ XVII, tuyển 70 suất dân đinh xã An Vĩnh, huyện Bình Sơn, phủ Quảng Ngãi.",
+    "Mỗi năm đội Hoàng Sa dùng năm chiếc thuyền câu nhỏ ra quần đảo, đi khoảng ba ngày ba đêm mới tới nơi, làm nhiệm vụ trong khoảng sáu tháng rồi trở về.",
+    "Nhiệm vụ của đội Hoàng Sa là thu lượm hải sản quý, đo đạc hải trình và trục vớt hàng hóa từ các tàu bị đắm dạt vào quần đảo.",
+    "Cùng thời gian đó, chúa Nguyễn còn lập đội Bắc Hải, tuyển người ở Bình Thuận, để khai thác vùng biển Côn Sơn và Phú Quý.",
+    "Sang thời nhà Nguyễn, dưới triều vua Gia Long đầu thế kỉ XIX, đội Hoàng Sa vẫn tiếp tục hoạt động và được giao thêm việc đo đạc, vẽ bản đồ hải trình.",
+    "Chính vì hải đội Hoàng Sa hoạt động đều đặn, hòa bình và liên tục suốt hàng trăm năm dưới sự quản lí của nhà nước, nên Việt Nam có đầy đủ cơ sở lịch sử để khẳng định chủ quyền với quần đảo Hoàng Sa."
+   ],
+   "topic_title": "Việt Nam và Biển Đông",
+   "aliases": [
+    "đội Hoàng Sa",
+    "Hoàng Sa đội",
+    "đội Hoàng Sa kiêm quản Bắc Hải"
+   ],
+   "year": null,
+   "date_start": null,
+   "date_end": null,
+   "place": "Quảng Ngãi và quần đảo Hoàng Sa",
+   "actors": [
+    "chúa Nguyễn",
+    "dân xã An Vĩnh"
+   ],
+   "traps": [
+    "Đội Hoàng Sa do CHÚA NGUYỄN lập từ thế kỉ XVII, chứ không phải do vua Gia Long hay vua Minh Mạng lập ra lần đầu — hai vua này chỉ tiếp tục và củng cố.",
+    "Đội Bắc Hải khai thác vùng Côn Sơn, Phú Quý ở phía nam, không phải khai thác Hoàng Sa như đội Hoàng Sa."
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%99i_Ho%C3%A0ng_Sa",
+    "https://vi.wikipedia.org/wiki/Qu%E1%BA%A7n_%C4%91%E1%BA%A3o_Ho%C3%A0ng_Sa"
+   ],
+   "lessons": [
+    {
+     "book": "cánh diều",
+     "bai": 13
+    },
+    {
+     "book": "KNTT",
+     "bai": 13
+    },
+    {
+     "book": "CTST",
+     "bai": 13
+    }
+   ]
+  },
+  {
+   "name": "Cuộc Duy tân Minh Trị",
+   "kind": "movement",
+   "summary": "Cuộc cải cách toàn diện do Thiên hoàng Minh Trị tiến hành ở Nhật Bản từ năm 1868, đưa Nhật từ nước phong kiến trở thành cường quốc tư bản.",
+   "facts": [
+    "Cuộc Duy tân Minh Trị bắt đầu vào tháng 1 năm 1868, khi chính quyền mới của Thiên hoàng được lập ra và chế độ Mạc phủ Tô-ku-ga-oa bị xóa bỏ.",
+    "Về chính trị, Nhật Bản xóa bỏ chế độ Mạc phủ, lập chính phủ mới theo kiểu phương Tây và đến năm 1889 ban hành Hiến pháp, xác lập chế độ quân chủ lập hiến.",
+    "Về kinh tế, chính quyền Minh Trị thống nhất tiền tệ bằng đồng yên, cho tự do buôn bán và tập trung xây dựng hạ tầng, nhất là đường sắt.",
+    "Về quân sự, quân đội Nhật được tổ chức lại theo mô hình phương Tây: lục quân học theo Đức còn hải quân học theo Anh.",
+    "Về giáo dục, Nhật Bản thi hành giáo dục bắt buộc, đưa khoa học - kĩ thuật vào chương trình học và mời khoảng 500 chuyên gia nước ngoài sang giảng dạy.",
+    "Chính nhờ cuộc Duy tân Minh Trị năm 1868 mà Nhật Bản giữ được độc lập, thoát khỏi số phận trở thành thuộc địa như hầu hết các nước châu Á cùng thời.",
+    "Sau khi giàu mạnh lên nhờ cải cách, Nhật Bản chuyển sang giai đoạn đế quốc chủ nghĩa và bắt đầu bành trướng, thể hiện rõ qua chiến thắng trước Nga năm 1905."
+   ],
+   "topic_title": "Nhật Bản",
+   "aliases": [
+    "Duy tân Minh Trị",
+    "Minh Trị Duy tân",
+    "cải cách Minh Trị",
+    "Meiji Restoration",
+    "Minh Trị Tân chính"
+   ],
+   "year": 1868,
+   "date_start": "1868",
+   "date_end": "1912",
+   "place": "Nhật Bản",
+   "actors": [
+    "Thiên hoàng Minh Trị",
+    "Mạc phủ Tokugawa"
+   ],
+   "traps": [
+    "Duy tân Minh Trị là cuộc cải cách TỪ TRÊN XUỐNG do Thiên hoàng và tầng lớp quý tộc tư sản hóa tiến hành, không phải một cuộc khởi nghĩa nông dân.",
+    "Mốc chuẩn là năm 1868, không phải 1858 hay 1878; Hiến pháp Nhật Bản mới là năm 1889.",
+    "Duy tân Minh Trị ở Nhật (1868) khác với Duy tân Mậu Tuất ở Trung Quốc (1898) — cải cách của Nhật thành công, còn của Trung Quốc thất bại sau hơn 100 ngày."
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Minh_Tr%E1%BB%8B_Duy_t%C3%A2n"
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 1
+    }
+   ]
+  },
+  {
+   "name": "Thiên hoàng Minh Trị",
+   "kind": "person",
+   "summary": "Vị Thiên hoàng đứng đầu Nhật Bản trong thời kì cải cách 1868-1912, gắn liền với cuộc Duy tân Minh Trị.",
+   "facts": [
+    "Thiên hoàng Minh Trị tên thật là Mút-su-hi-tô, lên ngôi năm 1867 khi mới khoảng 14-15 tuổi.",
+    "Thời kì Minh Trị kéo dài từ năm 1868 đến năm 1912, đúng bằng thời gian trị vì của Thiên hoàng Minh Trị.",
+    "Thiên hoàng Minh Trị cùng các cộng sự như Ô-ku-bô, Ki-đô, Sai-gô và I-oa-ku-ra đã lật đổ quyền lực của Mạc phủ và giành lại quyền cai trị cho Thiên hoàng vào đầu năm 1868.",
+    "Vì Thiên hoàng Minh Trị đứng về phía cải cách và trực tiếp ban hành các sắc lệnh duy tân nên công cuộc canh tân Nhật Bản được tiến hành nhanh và triệt để."
+   ],
+   "topic_title": "Nhật Bản",
+   "aliases": [
+    "Minh Trị Thiên hoàng",
+    "Mutsuhito",
+    "Mút-su-hi-tô",
+    "Meiji",
+    "vua Minh Trị"
+   ],
+   "year": null,
+   "date_start": "1852",
+   "date_end": "1912",
+   "place": "Nhật Bản",
+   "actors": [
+    "Thiên hoàng Minh Trị"
+   ],
+   "traps": [
+    "Minh Trị là niên hiệu của Thiên hoàng Mút-su-hi-tô, không phải tên riêng của ông.",
+    "Thiên hoàng Minh Trị trị vì đến năm 1912, không phải đến hết Chiến tranh thế giới thứ nhất."
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Minh_Tr%E1%BB%8B_Duy_t%C3%A2n"
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 1
+    }
+   ]
+  },
+  {
+   "name": "Chiến tranh Nga - Nhật (1904-1905)",
+   "kind": "event",
+   "summary": "Cuộc chiến giữa đế quốc Nga và đế quốc Nhật Bản để tranh giành Mãn Châu và Triều Tiên, kết thúc bằng thắng lợi của Nhật.",
+   "facts": [
+    "Chiến tranh Nga - Nhật diễn ra từ ngày 10/2/1904 đến ngày 5/9/1905.",
+    "Nguyên nhân của cuộc chiến là hai đế quốc Nga và Nhật cùng muốn giành quyền kiểm soát vùng Mãn Châu (Trung Quốc) và bán đảo Triều Tiên.",
+    "Trận hải chiến quyết định diễn ra ở eo biển Đối Mã (Tsushima) cuối tháng 5 năm 1905, khi hạm đội Nga bị hải quân Nhật tiêu diệt gần như hoàn toàn.",
+    "Chiến tranh kết thúc bằng Hòa ước Poóc-xmút ký ngày 5/9/1905 tại thành phố Portsmouth của Hoa Kỳ; theo hòa ước, Nga phải thừa nhận quyền lợi của Nhật ở Triều Tiên và nhượng cho Nhật Lữ Thuận, Đại Liên cùng nửa phía nam đảo Sakhalin.",
+    "Vì Nhật Bản đã kịp cải cách và công nghiệp hóa sau năm 1868, nên tới năm 1905 nước này đủ mạnh để đánh bại nước Nga, đây là lần đầu một nước châu Á chiến thắng một cường quốc châu Âu trong thời cận đại."
+   ],
+   "topic_title": "Nhật Bản",
+   "aliases": [
+    "chiến tranh Nga-Nhật",
+    "Nhật - Nga chiến tranh",
+    "Russo-Japanese War",
+    "hòa ước Portsmouth",
+    "Hòa ước Poóc-xmút"
+   ],
+   "year": 1904,
+   "date_start": "1904-02-10",
+   "date_end": "1905-09-05",
+   "place": "Mãn Châu, Triều Tiên, eo biển Đối Mã",
+   "actors": [
+    "Đế quốc Nhật Bản",
+    "Đế quốc Nga"
+   ],
+   "traps": [
+    "Chiến tranh Nga - Nhật là 1904-1905; đừng nhầm với Chiến tranh Trung - Nhật 1894-1895 (Nhật đánh nhà Thanh).",
+    "Hòa ước Poóc-xmút được ký tại Hoa Kỳ (bang New Hampshire), không phải ở Anh dù tên nghe giống một thành phố của Anh.",
+    "Nga thua trận nhưng không mất Mãn Châu cho Nhật hoàn toàn; Nga nhượng Lữ Thuận, Đại Liên và nam Sakhalin."
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_tranh_Nga-Nh%E1%BA%ADt"
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 1
+    }
+   ]
+  },
+  {
+   "name": "Khởi nghĩa Xi-pay (1857-1859)",
+   "kind": "movement",
+   "summary": "Cuộc nổi dậy lớn của binh lính Ấn Độ trong quân đội Anh cùng nhân dân Ấn Độ chống ách thống trị của thực dân Anh.",
+   "facts": [
+    "Khởi nghĩa Xi-pay bùng nổ ngày 10/5/1857 và kéo dài khoảng hai năm, đến năm 1859 thì bị thực dân Anh đàn áp đẫm máu.",
+    "Xi-pay là tên gọi những binh lính người Ấn Độ được tuyển vào quân đội của Công ty Đông Ấn Anh; họ bị đối xử bất công và bị xúc phạm về tín ngưỡng.",
+    "Duyên cớ trực tiếp thường được ghi lại là việc lính Xi-pay phải dùng loại đạn có giấy bọc mỡ bò và mỡ lợn, xúc phạm tín ngưỡng của cả người theo đạo Hin-đu lẫn người theo đạo Hồi.",
+    "Nguyên nhân sâu xa của khởi nghĩa là chính sách cai trị hà khắc và chính sách 'chia để trị' của thực dân Anh, khoét sâu mâu thuẫn tôn giáo, chủng tộc và đẳng cấp ở Ấn Độ.",
+    "Cuộc khởi nghĩa nhanh chóng lan khắp miền Bắc và một phần miền Trung Ấn Độ, nghĩa quân lập được chính quyền và giải phóng một số thành phố lớn.",
+    "Chính vì cuộc khởi nghĩa 1857-1859 làm rung chuyển nền cai trị thuộc địa nên năm 1858 Anh phải giải thể Công ty Đông Ấn và chuyển sang cai trị Ấn Độ trực tiếp như một thuộc địa của Hoàng gia Anh."
+   ],
+   "topic_title": "Ấn Độ",
+   "aliases": [
+    "khởi nghĩa Xipay",
+    "khởi nghĩa Sepoy",
+    "Khởi nghĩa Ấn Độ 1857",
+    "cuộc nổi dậy Ấn Độ 1857",
+    "binh lính Xi-pay"
+   ],
+   "year": 1857,
+   "date_start": "1857-05-10",
+   "date_end": "1859",
+   "place": "Bắc và Trung Ấn Độ",
+   "actors": [
+    "binh lính Xi-pay",
+    "Công ty Đông Ấn Anh",
+    "nhân dân Ấn Độ"
+   ],
+   "traps": [
+    "Xi-pay là lính người ẤN ĐỘ phục vụ trong quân đội Anh, không phải lính Anh.",
+    "Cuộc khởi nghĩa kéo dài 1857-1859, không kết thúc ngay trong năm 1858; năm 1858 là mốc Anh giải thể Công ty Đông Ấn và cai trị trực tiếp.",
+    "Quan hệ nhân quả đúng chiều: khởi nghĩa Xi-pay nổ ra TRƯỚC rồi mới dẫn đến việc Anh xóa bỏ Công ty Đông Ấn năm 1858, chứ không phải ngược lại."
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Kh%E1%BB%9Fi_ngh%C4%A9a_%E1%BA%A4n_%C4%90%E1%BB%99_1857",
+    "https://nguoikesu.com/hoi-dap/lop-11/phan-1/chuong-1/bai-2/hay-neu-nguyen-nhan-dien-bien-va-y-nghia-cua-cuoc-khoi-nghia-xipay"
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 2
+    }
+   ]
+  },
+  {
+   "name": "Đảng Quốc đại Ấn Độ",
+   "kind": "org",
+   "summary": "Chính đảng của giai cấp tư sản Ấn Độ, thành lập năm 1885, giữ vai trò lãnh đạo phong trào dân tộc Ấn Độ.",
+   "facts": [
+    "Đảng Quốc đại Ấn Độ được thành lập ngày 28/12/1885, là tổ chức chính đảng của giai cấp tư sản dân tộc Ấn Độ.",
+    "Đảng Quốc đại được coi là tổ chức mang tinh thần dân tộc chủ nghĩa đầu tiên hình thành trong các thuộc địa của đế quốc Anh ở châu Á và châu Phi.",
+    "Trong 20 năm đầu, Đảng Quốc đại chủ trương đấu tranh ôn hòa, đòi chính quyền Anh nới rộng quyền tự trị và cải cách kinh tế cho người Ấn.",
+    "Đến đầu thế kỉ XX, nội bộ Đảng Quốc đại phân hóa thành phái 'ôn hòa' và phái 'cấp tiến' do Ti-lắc đứng đầu, phái cấp tiến chủ trương đấu tranh kiên quyết hơn.",
+    "Vì phong trào dân tộc Ấn Độ ngày càng lớn mạnh sau khởi nghĩa Xi-pay, giai cấp tư sản Ấn Độ mới có đủ điều kiện lập ra chính đảng riêng vào năm 1885."
+   ],
+   "topic_title": "Ấn Độ",
+   "aliases": [
+    "Quốc dân Đại hội",
+    "Indian National Congress",
+    "INC",
+    "Đảng Quốc dân Đại hội Ấn Độ"
+   ],
+   "year": 1885,
+   "date_start": "1885-12-28",
+   "date_end": null,
+   "place": "Ấn Độ",
+   "actors": [
+    "giai cấp tư sản Ấn Độ",
+    "Ti-lắc"
+   ],
+   "traps": [
+    "Đảng Quốc đại thành lập năm 1885, đừng nhầm với mốc 1858 (Anh cai trị trực tiếp Ấn Độ).",
+    "Ti-lắc là lãnh tụ phái CẤP TIẾN trong Đảng Quốc đại, không phải người sáng lập đảng."
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A3ng_Qu%E1%BB%91c_%C4%91%E1%BA%A1i_%E1%BA%A4n_%C4%90%E1%BB%99"
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 2
+    }
+   ]
+  },
+  {
+   "name": "Đạo luật chia đôi xứ Ben-gan năm 1905",
+   "kind": "event",
+   "summary": "Việc thực dân Anh chia tách xứ Ben-gan theo tôn giáo năm 1905, châm ngòi cho cao trào đấu tranh dân tộc ở Ấn Độ.",
+   "facts": [
+    "Năm 1905, Toàn quyền Anh ở Ấn Độ là Cơ-dơn đã chia xứ Ben-gan, vùng hành chính lớn nhất Ấn Độ thuộc Anh, thành hai phần: một phần đa số dân theo đạo Hồi và một phần đa số dân theo đạo Hin-đu.",
+    "Mục đích của việc chia đôi Ben-gan năm 1905 là khoét sâu chia rẽ tôn giáo để làm suy yếu phong trào dân tộc đang lên ở Ấn Độ.",
+    "Chính vì đạo luật chia cắt Ben-gan mang tính chia rẽ tôn giáo nên nó đã làm bùng lên làn sóng phản đối rộng lớn của nhân dân Ấn Độ trong những năm 1905-1908.",
+    "Ti-lắc cùng phái cấp tiến đã kêu gọi phong trào Xoa-đe-si (dùng hàng nội hóa) và phong trào tẩy chay hàng hóa Anh để phản đối việc chia cắt Ben-gan."
+   ],
+   "topic_title": "Ấn Độ",
+   "aliases": [
+    "chia cắt Bengal 1905",
+    "đạo luật chia cắt Ben-gan",
+    "phân chia Bengal",
+    "Partition of Bengal"
+   ],
+   "year": 1905,
+   "date_start": "1905",
+   "date_end": "1908",
+   "place": "xứ Ben-gan, Ấn Độ",
+   "actors": [
+    "Toàn quyền Cơ-dơn (Curzon)",
+    "Ti-lắc"
+   ],
+   "traps": [
+    "Việc chia đôi Ben-gan năm 1905 là do thực dân Anh gây ra để chia rẽ, không phải do người Ấn tự chia.",
+    "Đừng nhầm việc chia đôi Ben-gan năm 1905 với việc chia cắt Ấn Độ - Pakistan năm 1947 — hai sự kiện cách nhau hơn 40 năm."
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Chia_c%E1%BA%AFt_%E1%BA%A4n_%C4%90%E1%BB%99",
+    "https://vi.wikipedia.org/wiki/Raj_thu%E1%BB%99c_Anh"
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 2
+    }
+   ]
+  },
+  {
+   "name": "Chiến tranh thuốc phiện lần thứ nhất",
+   "kind": "event",
+   "summary": "Cuộc chiến tranh xâm lược của thực dân Anh đối với nhà Thanh, mở đầu quá trình biến Trung Quốc thành nước nửa thuộc địa.",
+   "facts": [
+    "Chiến tranh thuốc phiện lần thứ nhất diễn ra giữa nhà Thanh và đế quốc Anh, kéo dài từ năm 1840 đến năm 1842 (một số tài liệu tính mốc bắt đầu từ năm 1839).",
+    "Nguyên nhân trực tiếp là việc triều đình nhà Thanh cấm và tịch thu thuốc phiện mà thương nhân Anh buôn lậu vào Trung Quốc.",
+    "Chiến tranh kết thúc bằng Điều ước Nam Kinh năm 1842, theo đó nhà Thanh phải mở nhiều cửa biển cho Anh buôn bán và nhượng Hồng Kông cho Anh.",
+    "Điều ước Nam Kinh năm 1842 là hiệp ước bất bình đẳng đầu tiên nhà Thanh phải ký, mở đầu cho hàng loạt hiệp ước bất bình đẳng sau đó.",
+    "Chính vì thua trong chiến tranh thuốc phiện và phải ký Điều ước Nam Kinh 1842 mà Trung Quốc từ một nước phong kiến độc lập dần trở thành nước nửa thuộc địa, nửa phong kiến."
+   ],
+   "topic_title": "Trung Quốc",
+   "aliases": [
+    "chiến tranh Nha phiến",
+    "Opium War",
+    "chiến tranh nha phiến lần thứ nhất",
+    "Điều ước Nam Kinh",
+    "Hiệp ước Nam Kinh"
+   ],
+   "year": 1840,
+   "date_start": "1840",
+   "date_end": "1842",
+   "place": "Trung Quốc",
+   "actors": [
+    "nhà Thanh",
+    "đế quốc Anh"
+   ],
+   "traps": [
+    "Sách giáo khoa Việt Nam thường ghi chiến tranh thuốc phiện 1840-1842, còn một số tài liệu quốc tế ghi 1839-1842; mốc kết thúc 1842 với Điều ước Nam Kinh thì thống nhất.",
+    "Nước tiến hành chiến tranh thuốc phiện lần thứ nhất là ANH, không phải Pháp hay liên quân nhiều nước."
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_tranh_Nha_phi%E1%BA%BFn"
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 3
+    }
+   ]
+  },
+  {
+   "name": "Cuộc Duy tân Mậu Tuất năm 1898",
+   "kind": "movement",
+   "summary": "Cuộc vận động cải cách của phái Duy tân Trung Quốc do vua Quang Tự ủng hộ, chỉ tồn tại hơn 100 ngày thì bị dập tắt.",
+   "facts": [
+    "Cuộc Duy tân Mậu Tuất bắt đầu ngày 11/6/1898, khi vua Quang Tự ban hành hàng loạt sắc lệnh cải cách.",
+    "Người chủ xướng cuộc vận động cải cách là Khang Hữu Vi cùng học trò là Lương Khải Siêu, hai ông đã dâng thư lên vua Quang Tự xin duy tân sau khi Trung Quốc thua Nhật Bản năm 1894-1895.",
+    "Nội dung cải cách gồm mở trường học kiểu mới, xây dựng đường sắt, sửa đổi chế độ thi cử, tinh giản bộ máy hành chính và luyện tập quân đội theo lối mới.",
+    "Ngày 21/9/1898, Từ Hi Thái hậu làm chính biến, bắt giam vua Quang Tự và ra lệnh bãi bỏ toàn bộ cải cách, nên cuộc duy tân chỉ tồn tại hơn 100 ngày và được gọi là 'Bách nhật duy tân'.",
+    "Sáu người chủ chốt của phái Duy tân, trong đó có Đàm Tự Đồng, bị xử tử và được người đời gọi là 'Lục quân tử'; Khang Hữu Vi và Lương Khải Siêu phải trốn sang Nhật Bản.",
+    "Cuộc Duy tân Mậu Tuất thất bại vì phái cải cách chỉ dựa vào một ông vua không có thực quyền, trong khi phe bảo thủ do Từ Hi Thái hậu đứng đầu nắm toàn bộ quân đội và triều chính."
+   ],
+   "topic_title": "Trung Quốc",
+   "aliases": [
+    "Bách nhật duy tân",
+    "Mậu Tuất biến pháp",
+    "biến pháp Mậu Tuất",
+    "Duy tân biến pháp",
+    "cuộc vận động Duy tân 1898"
+   ],
+   "year": 1898,
+   "date_start": "1898-06-11",
+   "date_end": "1898-09-21",
+   "place": "Bắc Kinh, Trung Quốc",
+   "actors": [
+    "vua Quang Tự",
+    "Khang Hữu Vi",
+    "Lương Khải Siêu",
+    "Từ Hi Thái hậu"
+   ],
+   "traps": [
+    "Duy tân Mậu Tuất là năm 1898, khác hoàn toàn với Cách mạng Tân Hợi năm 1911.",
+    "Người đàn áp cuộc duy tân là TỪ HI THÁI HẬU, còn vua Quang Tự là người ủng hộ cải cách và bị giam lỏng.",
+    "Duy tân Mậu Tuất ở Trung Quốc thất bại, khác với Duy tân Minh Trị ở Nhật Bản (1868) thành công."
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/B%C3%A1ch_nh%E1%BA%ADt_duy_t%C3%A2n"
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 3
+    }
+   ]
+  },
+  {
+   "name": "Phong trào Nghĩa Hòa đoàn (1899-1901)",
+   "kind": "movement",
+   "summary": "Phong trào nông dân Trung Quốc chống đế quốc, bùng nổ ở Sơn Đông rồi lan ra miền Bắc, bị liên quân 8 nước đàn áp.",
+   "facts": [
+    "Phong trào Nghĩa Hòa đoàn diễn ra từ tháng 11 năm 1899 đến ngày 7/9/1901, bùng nổ ở tỉnh Sơn Đông rồi lan rộng ra miền Bắc Trung Quốc.",
+    "Nghĩa Hòa đoàn là phong trào của nông dân chống lại ảnh hưởng của nước ngoài về thương mại, chính trị, văn hóa và chống việc truyền đạo Ki-tô.",
+    "Để dập tắt phong trào, liên quân tám nước gồm Nhật Bản, Nga, Anh, Pháp, Mỹ, Đức, Ý và Áo - Hung đã kéo vào đánh chiếm Bắc Kinh năm 1900.",
+    "Phong trào kết thúc bằng Điều ước Tân Sửu năm 1901, buộc nhà Thanh phải xử tử các quan lại ủng hộ Nghĩa Hòa đoàn và bồi thường chiến phí khổng lồ cho các nước.",
+    "Chính vì Điều ước Tân Sửu 1901 khiến nhà Thanh mất hết uy tín và lệ thuộc nặng nề vào các nước đế quốc, nên nó đặt nền cho sự sụp đổ của triều Mãn Thanh chỉ 10 năm sau đó."
+   ],
+   "topic_title": "Trung Quốc",
+   "aliases": [
+    "Nghĩa Hòa đoàn",
+    "khởi nghĩa Nghĩa Hòa đoàn",
+    "Boxer Rebellion",
+    "phong trào Nghĩa Hòa Đoàn",
+    "Điều ước Tân Sửu"
+   ],
+   "year": 1899,
+   "date_start": "1899-11",
+   "date_end": "1901-09-07",
+   "place": "Sơn Đông và miền Bắc Trung Quốc",
+   "actors": [
+    "Nghĩa Hòa đoàn",
+    "liên quân 8 nước",
+    "nhà Thanh"
+   ],
+   "traps": [
+    "Liên quân tám nước gồm Nhật, Nga, Anh, Pháp, Mỹ, Đức, Ý, Áo - Hung; không có Tây Ban Nha hay Hà Lan trong danh sách này.",
+    "Điều ước kết thúc phong trào Nghĩa Hòa đoàn là Điều ước Tân Sửu năm 1901, khác với Điều ước Nam Kinh năm 1842.",
+    "Nghĩa Hòa đoàn là phong trào của nông dân chống đế quốc, không phải cuộc cải cách của triều đình."
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Phong_tr%C3%A0o_Ngh%C4%A9a_H%C3%B2a_%C4%90o%C3%A0n"
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 3
+    }
+   ]
+  },
+  {
+   "name": "Cách mạng Tân Hợi năm 1911",
+   "kind": "event",
+   "summary": "Cuộc cách mạng tư sản do Tôn Trung Sơn lãnh đạo, lật đổ triều Mãn Thanh và lập ra Trung Hoa Dân quốc.",
+   "facts": [
+    "Cách mạng Tân Hợi bùng nổ ngày 10/10/1911 với cuộc khởi nghĩa ở Vũ Xương và kéo dài đến ngày 12/2/1912.",
+    "Người lãnh đạo cách mạng là Tôn Trung Sơn, người đã thành lập Trung Quốc Đồng minh hội vào tháng 8 năm 1905 tại Tô-ki-ô (Nhật Bản).",
+    "Cương lĩnh của Trung Quốc Đồng minh hội dựa trên Chủ nghĩa Tam dân của Tôn Trung Sơn, gồm dân tộc độc lập, dân quyền tự do và dân sinh hạnh phúc.",
+    "Ngày 1/1/1912, Chính phủ lâm thời Trung Hoa Dân quốc được thành lập và Tôn Trung Sơn tuyên thệ nhậm chức Đại Tổng thống lâm thời.",
+    "Ngày 12/2/1912, vua Phổ Nghi thoái vị, chấm dứt triều Mãn Thanh và kết thúc hơn hai nghìn năm chế độ quân chủ chuyên chế ở Trung Quốc.",
+    "Ngày 15/2/1912, Viên Thế Khải được bầu làm Đại Tổng thống lâm thời thay Tôn Trung Sơn, cho thấy thành quả cách mạng đã rơi vào tay thế lực quân phiệt nên cách mạng Tân Hợi là cuộc cách mạng tư sản không triệt để."
+   ],
+   "topic_title": "Trung Quốc",
+   "aliases": [
+    "Cách mạng Tân Hợi",
+    "cách mạng 1911",
+    "Xinhai Revolution",
+    "khởi nghĩa Vũ Xương",
+    "Tôn Trung Sơn",
+    "Tôn Dật Tiên"
+   ],
+   "year": 1911,
+   "date_start": "1911-10-10",
+   "date_end": "1912-02-12",
+   "place": "Vũ Xương, Nam Kinh, Trung Quốc",
+   "actors": [
+    "Tôn Trung Sơn",
+    "Trung Quốc Đồng minh hội",
+    "Viên Thế Khải",
+    "vua Phổ Nghi"
+   ],
+   "traps": [
+    "Cách mạng Tân Hợi lật đổ triều MÃN THANH, không phải nhà Minh hay nhà Nguyên.",
+    "Cách mạng nổ ra năm 1911 (khởi nghĩa Vũ Xương 10/10/1911) nhưng Trung Hoa Dân quốc thành lập ngày 1/1/1912 — hai mốc khác nhau.",
+    "Cách mạng Tân Hợi là cách mạng TƯ SẢN không triệt để, không phải cách mạng vô sản; nó không xóa bỏ được ách áp bức của đế quốc và tàn dư phong kiến."
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/C%C3%A1ch_m%E1%BA%A1ng_T%C3%A2n_H%E1%BB%A3i",
+    "https://vi.wikipedia.org/wiki/Trung_Hoa_D%C3%A2n_Qu%E1%BB%91c_(1912%E2%80%931949)"
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 3
+    }
+   ]
+  },
+  {
+   "name": "Quá trình xâm lược Đông Nam Á của thực dân phương Tây",
+   "kind": "period",
+   "summary": "Từ nửa sau thế kỉ XIX, các nước tư bản phương Tây hoàn thành việc biến hầu hết Đông Nam Á thành thuộc địa, chỉ trừ Xiêm.",
+   "facts": [
+    "Từ nửa sau thế kỉ XIX, chủ nghĩa tư bản phương Tây đẩy mạnh xâm lược Đông Nam Á vì cần thị trường, nguyên liệu và nhân công.",
+    "Thực dân Anh chiếm Miến Điện (Mi-an-ma) và Mã Lai (Ma-lai-xi-a).",
+    "Thực dân Pháp chiếm ba nước Đông Dương là Việt Nam, Lào và Cam-pu-chia.",
+    "Thực dân Hà Lan (cùng Bồ Đào Nha trước đó) chiếm In-đô-nê-xi-a.",
+    "Tây Ban Nha chiếm Phi-líp-pin, sau đó đến năm 1898 Mỹ thay chân Tây Ban Nha cai trị quần đảo này.",
+    "Xiêm (Thái Lan) là nước duy nhất ở Đông Nam Á giữ được độc lập, nhưng thực chất trở thành 'vùng đệm' giữa hai thế lực Anh và Pháp.",
+    "Chính vì các nước Đông Nam Á đều nằm ở vị trí chiến lược và giàu tài nguyên nên đây là khu vực bị các đế quốc tranh giành gay gắt vào cuối thế kỉ XIX."
+   ],
+   "topic_title": "Các nước Đông Nam Á (Cuối thế kỉ XIX - đầu thế kỉ XX)",
+   "aliases": [
+    "Đông Nam Á cuối thế kỉ XIX",
+    "thuộc địa ở Đông Nam Á",
+    "quá trình thực dân hóa Đông Nam Á"
+   ],
+   "year": null,
+   "date_start": "1850",
+   "date_end": "1918",
+   "place": "Đông Nam Á",
+   "actors": [
+    "Anh",
+    "Pháp",
+    "Hà Lan",
+    "Tây Ban Nha",
+    "Mỹ",
+    "Xiêm"
+   ],
+   "traps": [
+    "In-đô-nê-xi-a là thuộc địa của HÀ LAN, không phải của Anh.",
+    "Phi-líp-pin trước năm 1898 là thuộc địa của Tây Ban Nha, sau năm 1898 mới rơi vào tay MỸ.",
+    "Xiêm giữ được độc lập nhưng vẫn phải cắt nhiều vùng đất và lệ thuộc vào Anh - Pháp, không phải hoàn toàn tự chủ."
+   ],
+   "sources": [
+    "https://nguoikesu.com/giai-bai-tap/lich-su-lop-11/phan-1-lich-su-the-gioi-can-dai-tiep-theo/chuong-1-cac-nuoc-chau-a-chau-phi-va-khu-vuc-mi-la-tinh-the-ki-xix-dau-the-ki-xx/bai-4-cac-nuoc-dong-nam-a-cuoi-the-ki-xix-dau-the-ki-xx/neu-nhung-net-chinh-ve-tinh-hinh-cac-nuoc-dong-nam-a-vao-cuoi-the-ki-xix-dau-the-ki-xx"
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 4
+    }
+   ]
+  },
+  {
+   "name": "Cải cách của vua Ra-ma V ở Xiêm",
+   "kind": "movement",
+   "summary": "Công cuộc cải cách toàn diện của vua Chu-la-long-con (Ra-ma V) giúp Xiêm là nước duy nhất ở Đông Nam Á giữ được độc lập.",
+   "facts": [
+    "Vua Ra-ma V, tức Chu-la-long-con, trị vì Xiêm từ ngày 1/10/1868 đến ngày 23/10/1910, tổng cộng hơn 42 năm.",
+    "Về chính trị, Ra-ma V lập chế độ nội các theo kiểu phương Tây và cải tổ bộ máy địa phương thành các tỉnh, huyện hiện đại.",
+    "Về xã hội, Ra-ma V từng bước xóa bỏ chế độ nô lệ và tuyên bố tự do tôn giáo trong một vương quốc vốn theo Phật giáo.",
+    "Về kinh tế, tuyến đường sắt đầu tiên của Xiêm nối Băng Cốc với A-út-thay-a khánh thành năm 1896, cùng thời gian đó Xiêm phát hành tiền giấy.",
+    "Về ngoại giao, Xiêm chủ động 'mở cửa', ký các hiệp ước hữu nghị và thương mại với Anh (1826), với Mỹ (1833) và với Pháp (1907), đồng thời khéo lợi dụng mâu thuẫn giữa các cường quốc để họ kiềm chế lẫn nhau.",
+    "Ra-ma V hai lần sang thăm châu Âu vào các năm 1897 và 1907, trở thành vị vua Xiêm đầu tiên đi châu Âu.",
+    "Chính nhờ vừa cải cách bên trong vừa nhượng bộ một phần lãnh thổ và mềm dẻo về ngoại giao mà Xiêm trở thành 'vùng đệm' giữa Anh và Pháp, nhờ đó giữ được nền độc lập."
+   ],
+   "topic_title": "Các nước Đông Nam Á (Cuối thế kỉ XIX - đầu thế kỉ XX)",
+   "aliases": [
+    "Ra-ma V",
+    "Rama V",
+    "Chulalongkorn",
+    "Chu-la-long-con",
+    "cải cách ở Xiêm",
+    "Xiêm La",
+    "Thái Lan"
+   ],
+   "year": null,
+   "date_start": "1868-10-01",
+   "date_end": "1910-10-23",
+   "place": "Xiêm (Thái Lan)",
+   "actors": [
+    "vua Ra-ma V (Chu-la-long-con)"
+   ],
+   "traps": [
+    "Người tiến hành cải cách toàn diện cuối thế kỉ XIX ở Xiêm là RA-MA V, không phải Ra-ma IV (dù Ra-ma IV đã mở đầu việc mở cửa).",
+    "Xiêm không bị biến thành thuộc địa nhưng phải cắt đất cho Anh và Pháp và trở thành vùng đệm — không nên nói Xiêm 'hoàn toàn không bị ảnh hưởng'."
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Chulalongkorn",
+    "https://nguoikesu.com/hoi-dap/lop-11/phan-1/chuong-1/bai-4/vi-sao-xiem-la-nuoc-duy-nhat-trong-khu-vuc-dong-nam-a-khong-tro-thanh-thuoc-dia-cua-cac-nuoc-tu-ban-phuong-tay"
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 4
+    }
+   ]
+  },
+  {
+   "name": "Cách mạng Phi-líp-pin năm 1896",
+   "kind": "movement",
+   "summary": "Cuộc cách mạng của nhân dân Phi-líp-pin chống thực dân Tây Ban Nha do tổ chức Ka-ti-pu-nan lãnh đạo.",
+   "facts": [
+    "Cách mạng Phi-líp-pin bùng nổ tháng 8 năm 1896, sau khi thực dân Tây Ban Nha phát hiện tổ chức bí mật Ka-ti-pu-nan.",
+    "Ngày 28/8/1896, Bô-ni-pha-xi-ô phát lệnh khởi nghĩa với khẩu hiệu 'Chiến thắng hay là chết!' và được đông đảo nhân dân hưởng ứng.",
+    "Tại các vùng giải phóng, chính quyền nhân dân do Ka-ti-pu-nan lãnh đạo đã chia ruộng đất cho nông dân và tiến tới thành lập nền cộng hòa.",
+    "Năm 1897, Bô-ni-pha-xi-ô bị sát hại, tổ chức Ka-ti-pu-nan tan rã và cuộc cách mạng đi vào thoái trào.",
+    "Ngày 12/6/1898, A-ghi-nan-đô tuyên bố Phi-líp-pin độc lập khỏi Tây Ban Nha tại Ca-vi-tê.",
+    "Cũng trong năm 1898, sau chiến tranh Mỹ - Tây Ban Nha, Tây Ban Nha nhượng quần đảo Phi-líp-pin cho Mỹ với giá 20 triệu đô la theo Hiệp ước Pa-ri, nên nhân dân Phi-líp-pin vừa thoát ách Tây Ban Nha lại rơi ngay vào ách thống trị của Mỹ và phải tiếp tục kháng chiến từ năm 1899."
+   ],
+   "topic_title": "Các nước Đông Nam Á (Cuối thế kỉ XIX - đầu thế kỉ XX)",
+   "aliases": [
+    "cách mạng Philippines 1896",
+    "Ka-ti-pu-nan",
+    "Katipunan",
+    "Bô-ni-pha-xi-ô",
+    "Andrés Bonifacio",
+    "A-ghi-nan-đô",
+    "Aguinaldo",
+    "Hô-xê Ri-dan"
+   ],
+   "year": 1896,
+   "date_start": "1896-08",
+   "date_end": "1898",
+   "place": "Phi-líp-pin",
+   "actors": [
+    "Bô-ni-pha-xi-ô",
+    "A-ghi-nan-đô",
+    "Tây Ban Nha",
+    "Mỹ"
+   ],
+   "traps": [
+    "Cách mạng 1896 nhằm chống TÂY BAN NHA; đến năm 1898 Phi-líp-pin mới chuyển sang bị Mỹ thống trị.",
+    "Người phát lệnh khởi nghĩa ngày 28/8/1896 là Bô-ni-pha-xi-ô; còn Hô-xê Ri-dan là nhà văn yêu nước thuộc xu hướng cải cách ôn hòa, không phải người lãnh đạo Ka-ti-pu-nan.",
+    "Nền độc lập được tuyên bố ngày 12/6/1898 không kéo dài, vì ngay sau đó Mỹ mua lại Phi-líp-pin từ Tây Ban Nha."
+   ],
+   "sources": [
+    "https://nguoikesu.com/hoi-dap/lop-11/phan-1/chuong-1/bai-4/cach-mang-nam-1896-o-phi-lip-pin-dien-ra-nhu-the-nao",
+    "https://vi.wikipedia.org/wiki/C%C3%A1ch_m%E1%BA%A1ng_Philippines"
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 4
+    }
+   ]
+  },
+  {
+   "name": "Hội nghị Béc-lin (1884-1885)",
+   "kind": "event",
+   "summary": "Hội nghị của các cường quốc châu Âu tại Béc-lin nhằm thỏa thuận việc phân chia châu Phi thành thuộc địa.",
+   "facts": [
+    "Hội nghị Béc-lin diễn ra từ ngày 15/11/1884 đến ngày 26/2/1885 tại thủ đô Béc-lin của đế quốc Đức.",
+    "Hội nghị do Thủ tướng Đức Bi-xmác chủ trì, được triệu tập theo đề nghị của vua Lê-ô-pôn II của Bỉ, với sự tham dự của 14 nước.",
+    "Mục đích của hội nghị là đặt ra luật chơi chung cho việc chiếm thuộc địa và buôn bán ở châu Phi, đồng thời công nhận các yêu sách lãnh thổ của các cường quốc châu Âu.",
+    "Kết quả hội nghị là Định ước chung Béc-lin, được coi là văn bản chính thức hóa 'cuộc tranh giành châu Phi' giữa các nước đế quốc.",
+    "Chính vì các nước đế quốc đã thỏa thuận chia phần với nhau tại Hội nghị Béc-lin 1884-1885 nên đến đầu thế kỉ XX hầu hết châu Phi đã bị biến thành thuộc địa."
+   ],
+   "topic_title": "Châu Phi và khu vực Mĩ Latinh (Thế kỉ XIX - đầu thế kỉ XX)",
+   "aliases": [
+    "Hội nghị Berlin 1884",
+    "Hội nghị Béc-lin về châu Phi",
+    "Định ước Béc-lin",
+    "Berlin Conference"
+   ],
+   "year": 1884,
+   "date_start": "1884-11-15",
+   "date_end": "1885-02-26",
+   "place": "Béc-lin, Đức",
+   "actors": [
+    "Bi-xmác",
+    "Lê-ô-pôn II của Bỉ",
+    "các cường quốc châu Âu"
+   ],
+   "traps": [
+    "Hội nghị Béc-lin 1884-1885 là hội nghị chia châu Phi, hoàn toàn khác Hội nghị Véc-xai năm 1919 (sau Chiến tranh thế giới thứ nhất) và Hội nghị Pốt-xđam năm 1945.",
+    "Người chủ trì hội nghị là Thủ tướng Đức Bi-xmác, dù người đề nghị triệu tập là vua Bỉ Lê-ô-pôn II."
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/H%E1%BB%99i_ngh%E1%BB%8B_Berlin_(1884)"
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 5
+    }
+   ]
+  },
+  {
+   "name": "Trận A-đu-a năm 1896",
+   "kind": "battle",
+   "summary": "Trận đánh trong đó quân đội Ê-ti-ô-pi-a đánh bại quân xâm lược Ý, giúp nước này giữ được độc lập.",
+   "facts": [
+    "Trận A-đu-a diễn ra ngày 1/3/1896 trên đất Ê-ti-ô-pi-a, giữa quân đội Ê-ti-ô-pi-a và quân xâm lược Ý.",
+    "Người lãnh đạo quân đội Ê-ti-ô-pi-a trong trận A-đu-a là hoàng đế Mê-nê-lích II.",
+    "Quân Ý bị đánh bại nặng nề trong trận A-đu-a, tin thất bại gây chấn động ở Ý với các cuộc biểu tình lớn nổ ra tại Rô-ma.",
+    "Chính nhờ chiến thắng A-đu-a năm 1896 mà Ê-ti-ô-pi-a giữ vững nền độc lập trước làn sóng xâm lược của các nước đế quốc châu Âu.",
+    "Cùng với Li-bê-ri-a, Ê-ti-ô-pi-a là một trong rất ít quốc gia châu Phi không bị biến thành thuộc địa vào đầu thế kỉ XX."
+   ],
+   "topic_title": "Châu Phi và khu vực Mĩ Latinh (Thế kỉ XIX - đầu thế kỉ XX)",
+   "aliases": [
+    "trận Adwa",
+    "trận Adua",
+    "A-đu-a",
+    "Ê-ti-ô-pi-a",
+    "Ethiopia",
+    "Menelik II",
+    "Mê-nê-lích II",
+    "Abyssinia"
+   ],
+   "year": 1896,
+   "date_start": "1896-03-01",
+   "date_end": "1896-03-01",
+   "place": "A-đu-a, Ê-ti-ô-pi-a",
+   "actors": [
+    "Mê-nê-lích II",
+    "quân đội Ý"
+   ],
+   "traps": [
+    "Ê-ti-ô-pi-a đánh bại quân Ý, KHÔNG phải quân Anh hay quân Pháp.",
+    "Trận A-đu-a là năm 1896; đừng nhầm với việc Ý xâm lược Ê-ti-ô-pi-a lần thứ hai năm 1935-1936.",
+    "Hai nước châu Phi giữ được độc lập đầu thế kỉ XX thường được nhắc là Ê-ti-ô-pi-a và Li-bê-ri-a."
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Umberto_I_c%E1%BB%A7a_%C3%9D"
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 5
+    }
+   ]
+  },
+  {
+   "name": "Cách mạng Ha-i-ti (1791-1804)",
+   "kind": "movement",
+   "summary": "Cuộc nổi dậy của người nô lệ ở thuộc địa Pháp Xanh Đô-manh-gơ, dẫn tới sự ra đời nước Ha-i-ti độc lập.",
+   "facts": [
+    "Cách mạng Ha-i-ti nổ ra ngày 22/8/1791 tại thuộc địa Xanh Đô-manh-gơ của Pháp và kéo dài đến ngày 1/1/1804.",
+    "Lực lượng chủ yếu của cách mạng là những người nô lệ da đen nổi dậy chống chính quyền thực dân Pháp.",
+    "Nhân vật lãnh đạo nổi bật là Tút-xanh Lu-véc-tuy-a, người giữ vai trò chủ chốt trong giai đoạn 1793-1804; sau đó Đét-xa-lin là người tuyên bố nền độc lập.",
+    "Ngày 1/1/1804, Ha-i-ti tuyên bố độc lập, trở thành nước đầu tiên ở khu vực Mĩ Latinh giành được độc lập.",
+    "Cách mạng Ha-i-ti là cuộc nổi dậy của nô lệ duy nhất trong lịch sử dẫn tới việc lập ra một quốc gia độc lập, tuy phải trả giá bằng khoảng 200.000 sinh mạng.",
+    "Chính vì thắng lợi của cách mạng Ha-i-ti đầu thế kỉ XIX mà phong trào đấu tranh giành độc lập ở khu vực Mĩ Latinh được cổ vũ mạnh mẽ trong những thập niên tiếp theo."
+   ],
+   "topic_title": "Châu Phi và khu vực Mĩ Latinh (Thế kỉ XIX - đầu thế kỉ XX)",
+   "aliases": [
+    "Haiti",
+    "Ha-i-ti",
+    "cách mạng Haiti",
+    "Xanh Đô-manh-gơ",
+    "Saint-Domingue",
+    "Toussaint Louverture",
+    "Tút-xanh Lu-véc-tuy-a"
+   ],
+   "year": 1791,
+   "date_start": "1791-08-22",
+   "date_end": "1804-01-01",
+   "place": "Xanh Đô-manh-gơ (Ha-i-ti)",
+   "actors": [
+    "Tút-xanh Lu-véc-tuy-a",
+    "Đét-xa-lin",
+    "thực dân Pháp"
+   ],
+   "traps": [
+    "Ha-i-ti tuyên bố độc lập năm 1804, còn năm 1791 chỉ là năm cuộc nổi dậy bắt đầu.",
+    "Ha-i-ti là thuộc địa của PHÁP, không phải của Tây Ban Nha hay Anh.",
+    "Ha-i-ti là nước đầu tiên ở Mĩ Latinh giành độc lập, không phải Mê-hi-cô hay Bra-xin."
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/C%C3%A1ch_m%E1%BA%A1ng_Haiti"
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 5
+    }
+   ]
+  },
+  {
+   "name": "Học thuyết Mơn-rô năm 1823",
+   "kind": "concept",
+   "summary": "Tuyên bố chính sách đối ngoại của Mỹ năm 1823 với khẩu hiệu 'châu Mĩ của người châu Mĩ', về sau thành công cụ để Mỹ độc chiếm ảnh hưởng ở Mĩ Latinh.",
+   "facts": [
+    "Học thuyết Mơn-rô được Tổng thống Mỹ Giêm Mơn-rô trình bày trước Quốc hội ngày 2/12/1823.",
+    "Nội dung cốt lõi của học thuyết là: mọi mưu toan của các nước châu Âu nhằm thực dân hóa hay can thiệp vào châu Mĩ đều bị coi là hành động thù địch, đổi lại Mỹ cam kết không can thiệp vào công việc nội bộ châu Âu.",
+    "Học thuyết ra đời trong bối cảnh nhiều thuộc địa của Tây Ban Nha và Bồ Đào Nha ở Mĩ Latinh vừa giành được độc lập, còn các nước quân chủ châu Âu muốn khôi phục ách thống trị.",
+    "Trong những năm đầu, học thuyết Mơn-rô chưa có sức nặng thực tế vì quân đội Mỹ còn yếu; nó chỉ có hiệu lực nhờ hải quân Anh mặc nhiên ủng hộ để bảo vệ quyền lợi buôn bán của Anh ở Mĩ Latinh.",
+    "Vì khẩu hiệu 'châu Mĩ của người châu Mĩ' gạt được các cường quốc châu Âu ra khỏi khu vực nên trên thực tế nó mở đường cho Mỹ từng bước biến Mĩ Latinh thành 'sân sau' của mình."
+   ],
+   "topic_title": "Châu Phi và khu vực Mĩ Latinh (Thế kỉ XIX - đầu thế kỉ XX)",
+   "aliases": [
+    "chủ nghĩa Mơn-rô",
+    "Monroe Doctrine",
+    "học thuyết Monroe",
+    "châu Mĩ của người châu Mĩ"
+   ],
+   "year": 1823,
+   "date_start": "1823-12-02",
+   "date_end": null,
+   "place": "Hoa Kỳ",
+   "actors": [
+    "Tổng thống Giêm Mơn-rô"
+   ],
+   "traps": [
+    "Học thuyết Mơn-rô là năm 1823, do Tổng thống Mơn-rô đưa ra; đừng nhầm với chính sách 'Cái gậy lớn' của Tổng thống Th. Ru-dơ-ven đầu thế kỉ XX.",
+    "Khẩu hiệu 'châu Mĩ của người châu Mĩ' nghe như bảo vệ các nước Mĩ Latinh, nhưng thực chất phục vụ tham vọng độc chiếm ảnh hưởng của Mỹ."
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/H%E1%BB%8Dc_thuy%E1%BA%BFt_Monroe"
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 5
+    }
+   ]
+  },
+  {
+   "name": "Chiến tranh thế giới thứ nhất (1914-1918)",
+   "kind": "event",
+   "summary": "Cuộc chiến tranh đế quốc quy mô thế giới giữa khối Liên minh và khối Hiệp ước, kết thúc bằng thất bại của phe Đức - Áo-Hung.",
+   "facts": [
+    "Chiến tranh thế giới thứ nhất diễn ra từ ngày 28/7/1914 đến ngày 11/11/1918.",
+    "Duyên cớ trực tiếp của chiến tranh là vụ ám sát Thái tử Áo - Hung Phran-xơ Phéc-đi-năng tại Xa-ra-e-vô ngày 28/6/1914 do một người theo chủ nghĩa dân tộc Xéc-bi thực hiện.",
+    "Hai khối đối địch là khối Liên minh Trung tâm gồm Đức, Áo - Hung, Ốt-tô-man, Bun-ga-ri và khối Hiệp ước gồm Anh, Pháp, Nga cùng các nước đồng minh.",
+    "Mỹ tham chiến vào năm 1917, đứng về phía khối Hiệp ước và làm thay đổi tương quan lực lượng.",
+    "Nước Nga rút khỏi chiến tranh sau Cách mạng tháng Mười năm 1917, khi Chính quyền Xô viết ra Sắc lệnh hòa bình.",
+    "Chiến tranh thế giới thứ nhất làm hơn 19 triệu người thiệt mạng, trong đó khoảng 5,5 triệu quân nhân chết và khoảng 4 triệu dân thường chết.",
+    "Nguyên nhân sâu xa của chiến tranh là mâu thuẫn giữa các nước đế quốc về thị trường và thuộc địa; vụ ám sát ở Xa-ra-e-vô chỉ là ngòi nổ làm bùng lên mâu thuẫn vốn đã tích tụ từ lâu."
+   ],
+   "topic_title": "Chiến tranh thế giới thứ nhất (1914 - 1918)",
+   "aliases": [
+    "Thế chiến thứ nhất",
+    "Đại chiến thế giới lần thứ nhất",
+    "World War I",
+    "chiến tranh 1914-1918",
+    "Xa-ra-e-vô",
+    "Sarajevo"
+   ],
+   "year": 1914,
+   "date_start": "1914-07-28",
+   "date_end": "1918-11-11",
+   "place": "châu Âu",
+   "actors": [
+    "Đức",
+    "Áo - Hung",
+    "Anh",
+    "Pháp",
+    "Nga",
+    "Mỹ"
+   ],
+   "traps": [
+    "Vụ ám sát ở Xa-ra-e-vô ngày 28/6/1914 chỉ là DUYÊN CỚ, còn nguyên nhân sâu xa là mâu thuẫn tranh giành thuộc địa giữa các đế quốc — đừng đảo ngược hai loại nguyên nhân này.",
+    "Ám sát ngày 28/6/1914 nhưng chiến tranh mới bùng nổ ngày 28/7/1914, cách nhau đúng một tháng.",
+    "Mỹ tham chiến năm 1917 chứ không phải ngay từ 1914; Nga rút khỏi chiến tranh cũng trong năm 1917 sau Cách mạng tháng Mười."
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_tranh_th%E1%BA%BF_gi%E1%BB%9Bi_th%E1%BB%A9_nh%E1%BA%A5t"
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 6
+    }
+   ]
+  },
+  {
+   "name": "Hòa ước Véc-xai năm 1919",
+   "kind": "treaty",
+   "summary": "Hòa ước ký tại cung điện Véc-xai năm 1919, chính thức kết thúc Chiến tranh thế giới thứ nhất và định đoạt số phận nước Đức bại trận.",
+   "facts": [
+    "Hòa ước Véc-xai được ký ngày 28/6/1919 tại cung điện Véc-xai gần Pa-ri (Pháp), đúng 5 năm sau vụ ám sát ở Xa-ra-e-vô.",
+    "Hòa ước Véc-xai là văn kiện chính thức chấm dứt tình trạng chiến tranh giữa nước Đức và khối Hiệp ước sau Chiến tranh thế giới thứ nhất.",
+    "Theo hòa ước, nước Đức bại trận phải chịu trách nhiệm về chiến tranh, phải bồi thường nặng nề, mất thuộc địa và bị hạn chế quân bị.",
+    "Hòa ước Véc-xai cùng các hiệp ước ký sau đó tạo thành hệ thống Véc-xai - Oa-sinh-tơn, tức trật tự thế giới mới do các nước thắng trận sắp đặt.",
+    "Chính vì hòa ước Véc-xai quá khắc nghiệt với nước Đức nên nó gieo mầm bất mãn, góp phần dẫn tới sự trỗi dậy của chủ nghĩa phát xít và Chiến tranh thế giới thứ hai sau này."
+   ],
+   "topic_title": "Chiến tranh thế giới thứ nhất (1914 - 1918)",
+   "aliases": [
+    "Hội nghị Véc-xai",
+    "Hiệp ước Véc-xai",
+    "Versailles",
+    "Hòa ước Versailles",
+    "hệ thống Véc-xai - Oa-sinh-tơn"
+   ],
+   "year": 1919,
+   "date_start": "1919-06-28",
+   "date_end": "1919-06-28",
+   "place": "cung điện Véc-xai, Pháp",
+   "actors": [
+    "Anh",
+    "Pháp",
+    "Mỹ",
+    "Đức"
+   ],
+   "traps": [
+    "Tên chuẩn của hội nghị và hòa ước là VÉC-XAI (Versailles), không được gọi chung chung là 'hội nghị hòa bình' hay 'hội nghị Pa-ri'.",
+    "Hòa ước Véc-xai ký năm 1919, còn chiến tranh kết thúc bằng hiệp định đình chiến ngày 11/11/1918 — hai mốc khác nhau.",
+    "Trật tự sau chiến tranh gọi là hệ thống Véc-xai - Oa-sinh-tơn, không phải hệ thống Ianta (đó là sau Chiến tranh thế giới thứ hai)."
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_tranh_th%E1%BA%BF_gi%E1%BB%9Bi_th%E1%BB%A9_nh%E1%BA%A5t"
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 6
+    }
+   ]
+  },
+  {
+   "name": "Chiến tranh thế giới thứ hai (1939-1945)",
+   "kind": "event",
+   "summary": "Cuộc chiến tranh lớn nhất lịch sử loài người giữa phe Đồng minh và phe phát xít, kết thúc bằng thắng lợi của phe Đồng minh.",
+   "facts": [
+    "Chiến tranh thế giới thứ hai bùng nổ ngày 1/9/1939 khi phát xít Đức tấn công Ba Lan và kết thúc ngày 2/9/1945 khi Nhật Bản ký văn kiện đầu hàng.",
+    "Phe Trục gồm Đức Quốc xã, Nhật Bản và I-ta-li-a; phe Đồng minh gồm Liên Xô, Mỹ, Anh, Trung Quốc và nhiều nước khác.",
+    "Ngày 22/6/1941, Đức bất ngờ tấn công Liên Xô, mở ra Mặt trận phía Đông và đưa Liên Xô chính thức bước vào cuộc chiến.",
+    "Trận Xta-lin-grát là trận đánh trên bộ lớn nhất trong lịch sử và là bước ngoặt của chiến tranh trên Mặt trận phía Đông.",
+    "Nước Đức đầu hàng không điều kiện ngày 8/5/1945, còn Nhật Bản đầu hàng ngày 2/9/1945, khép lại Chiến tranh thế giới thứ hai.",
+    "Chiến tranh thế giới thứ hai làm khoảng 70 đến 85 triệu người chết, trong đó số dân thường thiệt mạng còn nhiều hơn số quân nhân.",
+    "Chính vì Đức tấn công Liên Xô ngày 22/6/1941 mà Liên Xô từ một nước đứng ngoài trở thành lực lượng chủ lực đánh bại chủ nghĩa phát xít trong những năm 1941-1945."
+   ],
+   "topic_title": "Chiến tranh thế giới thứ nhất (1914 - 1918)",
+   "aliases": [
+    "Thế chiến thứ hai",
+    "Đại chiến thế giới lần thứ hai",
+    "World War II",
+    "chiến tranh 1939-1945",
+    "Chiến tranh giữ nước vĩ đại"
+   ],
+   "year": 1939,
+   "date_start": "1939-09-01",
+   "date_end": "1945-09-02",
+   "place": "châu Âu, châu Á - Thái Bình Dương, Bắc Phi",
+   "actors": [
+    "Đức Quốc xã",
+    "Nhật Bản",
+    "I-ta-li-a",
+    "Liên Xô",
+    "Mỹ",
+    "Anh"
+   ],
+   "traps": [
+    "Liên Xô tham gia Chiến tranh thế giới thứ hai trong giai đoạn 1941-1945, sự kiện này KHÔNG thuộc thời kì Liên Xô xây dựng chủ nghĩa xã hội 1921-1941 (bài 10) — hai giai đoạn phải tách bạch.",
+    "Chiến tranh bùng nổ ngày 1/9/1939 (Đức đánh Ba Lan), không phải ngày 22/6/1941 (đó là ngày Đức tấn công Liên Xô).",
+    "Đức đầu hàng 8/5/1945 nhưng chiến tranh chỉ thật sự kết thúc khi Nhật đầu hàng ngày 2/9/1945."
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_tranh_th%E1%BA%BF_gi%E1%BB%9Bi_th%E1%BB%A9_hai"
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 17
+    }
+   ]
+  },
+  {
+   "name": "Khởi nghĩa Thái Nguyên năm 1917",
+   "kind": "movement",
+   "summary": "Cuộc khởi nghĩa của binh lính người Việt và tù chính trị ở Thái Nguyên trong những năm Chiến tranh thế giới thứ nhất.",
+   "facts": [
+    "Khởi nghĩa Thái Nguyên bùng nổ đêm 30/8/1917 tại tỉnh lị Thái Nguyên.",
+    "Hai người lãnh đạo cuộc khởi nghĩa là Trịnh Văn Cấn, thường gọi là Đội Cấn, một đội trưởng lính khố xanh, và Lương Ngọc Quyến, một tù chính trị thuộc Việt Nam Quang phục hội.",
+    "Nghĩa quân giết viên giám binh người Pháp, phá nhà lao giải phóng 203 tù chính trị, rồi treo cờ năm sao của Việt Nam Quang phục hội và tuyên bố quốc hiệu 'Đại Hùng'.",
+    "Nghĩa quân làm chủ tỉnh lị Thái Nguyên trong 6 ngày, từ ngày 30/8 đến ngày 5/9/1917, trước khi quân Pháp với pháo binh mạnh chiếm lại thành.",
+    "Đội Cấn rút quân lên vùng rừng núi phía bắc và đến ngày 11/1/1918 đã tự sát ở vùng núi Pháo để không rơi vào tay giặc.",
+    "Cuộc khởi nghĩa nổ ra được là vì trong Chiến tranh thế giới thứ nhất, Pháp bắt lính người Việt sang châu Âu và vơ vét nặng nề, khiến mâu thuẫn giữa binh lính người Việt với thực dân Pháp lên tới đỉnh điểm."
+   ],
+   "topic_title": "Chiến tranh thế giới thứ nhất (1914 - 1918)",
+   "aliases": [
+    "khởi nghĩa Thái Nguyên",
+    "Đội Cấn",
+    "Trịnh Văn Cấn",
+    "Lương Ngọc Quyến",
+    "binh biến Thái Nguyên 1917"
+   ],
+   "year": 1917,
+   "date_start": "1917-08-30",
+   "date_end": "1917-09-05",
+   "place": "Thái Nguyên",
+   "actors": [
+    "Trịnh Văn Cấn (Đội Cấn)",
+    "Lương Ngọc Quyến",
+    "thực dân Pháp"
+   ],
+   "traps": [
+    "Đội Cấn chính là Trịnh Văn Cấn — đây là hai cách gọi của cùng một người, không phải hai nhân vật.",
+    "Khởi nghĩa Thái Nguyên là năm 1917, đừng nhầm với phong trào Đông Kinh nghĩa thục năm 1907 hay vụ Hà thành đầu độc năm 1908.",
+    "Nghĩa quân chỉ làm chủ tỉnh lị Thái Nguyên 6 ngày rồi thất bại, không giữ được lâu dài."
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Kh%E1%BB%9Fi_ngh%C4%A9a_Th%C3%A1i_Nguy%C3%AAn",
+    "https://vi.wikipedia.org/wiki/Vi%E1%BB%87t_Nam_trong_Chi%E1%BA%BFn_tranh_th%E1%BA%BF_gi%E1%BB%9Bi_th%E1%BB%A9_nh%E1%BA%A5t"
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 24
+    }
+   ]
+  },
+  {
+   "name": "Chính sách vơ vét của Pháp ở Việt Nam trong Chiến tranh thế giới thứ nhất",
+   "kind": "period",
+   "summary": "Chính sách bóc lột người và của mà thực dân Pháp áp dụng ở Việt Nam trong những năm 1914-1918 để phục vụ chiến tranh.",
+   "facts": [
+    "Trong những năm 1914-1918, thực dân Pháp ra sức vơ vét sức người, sức của ở Việt Nam để bù đắp tổn thất do Chiến tranh thế giới thứ nhất gây ra.",
+    "Pháp tăng thuế, bắt nhân dân Việt Nam mua công trái, tổng cộng khoảng 184 triệu phrăng, một khoản khổng lồ lúc bấy giờ.",
+    "Việt Nam còn phải cung cấp cho Pháp khoảng 336.000 tấn lương thực, nông lâm sản như cao su, đỗ, gỗ, gạo, ngô, thịt, trứng.",
+    "Gần 49.000 lính và gần 49.000 lính thợ người Việt bị bắt rời làng quê đưa sang châu Âu phục vụ chiến tranh cho Pháp.",
+    "Hơn 30.000 người Việt Nam đã chết và khoảng 60.000 người bị thương trên các chiến trường châu Âu.",
+    "Ngày 5/6/1911, trước khi chiến tranh nổ ra, Nguyễn Tất Thành đã rời bến Nhà Rồng ở Sài Gòn trên tàu Đô đốc La-tút-sơ Tơ-rê-vin với tên gọi Văn Ba để đi tìm đường cứu nước.",
+    "Chính vì Pháp bóc lột tàn tệ trong những năm chiến tranh nên mâu thuẫn xã hội ở Việt Nam gay gắt thêm, làm bùng nổ nhiều cuộc nổi dậy như phong trào hội kín ở Nam Kì (1916) và khởi nghĩa Thái Nguyên (1917)."
+   ],
+   "topic_title": "Chiến tranh thế giới thứ nhất (1914 - 1918)",
+   "aliases": [
+    "Việt Nam trong những năm Chiến tranh thế giới thứ nhất",
+    "chính sách khai thác thời chiến",
+    "lính thợ",
+    "lính khố đỏ",
+    "phong trào hội kín Nam Kì"
+   ],
+   "year": null,
+   "date_start": "1914",
+   "date_end": "1918",
+   "place": "Việt Nam",
+   "actors": [
+    "thực dân Pháp",
+    "Nguyễn Tất Thành",
+    "vua Duy Tân"
+   ],
+   "traps": [
+    "Nguyễn Tất Thành ra đi tìm đường cứu nước ngày 5/6/1911 tại bến Nhà Rồng, tức là TRƯỚC Chiến tranh thế giới thứ nhất chứ không phải trong chiến tranh.",
+    "Cuộc vận động khởi nghĩa của vua Duy Tân cùng Thái Phiên, Trần Cao Vân là năm 1916; sau đó vua Duy Tân bị Pháp đày sang đảo Rê-uy-ni-ông.",
+    "Phong trào hội kín Nam Kì (1916) và khởi nghĩa Thái Nguyên (1917) là hai phong trào khác nhau, khác địa bàn và khác lực lượng."
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Vi%E1%BB%87t_Nam_trong_Chi%E1%BA%BFn_tranh_th%E1%BA%BF_gi%E1%BB%9Bi_th%E1%BB%A9_nh%E1%BA%A5t",
+    "https://vi.wikipedia.org/wiki/Nguy%E1%BB%85n_T%E1%BA%A5t_Th%C3%A0nh",
+    "https://vi.wikipedia.org/wiki/Phong_tr%C3%A0o_h%E1%BB%99i_k%C3%ADn_Nam_K%E1%BB%B3"
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 24
+    }
+   ]
+  },
+  {
+   "name": "Vích-to Huy-gô",
+   "kind": "person",
+   "summary": "Nhà văn, nhà thơ lớn của nước Pháp thế kỉ XIX, tiêu biểu cho tư tưởng nhân đạo trong văn học thời cận đại.",
+   "facts": [
+    "Vích-to Huy-gô sinh ngày 26/2/1802 và mất ngày 22/5/1885, là nhà văn người Pháp.",
+    "Tiểu thuyết 'Những người khốn khổ' của Huy-gô được xuất bản năm 1862, phản ánh nỗi khổ của người nghèo trong xã hội tư bản Pháp.",
+    "Tiểu thuyết 'Nhà thờ Đức Bà Pa-ri' của Huy-gô ra đời năm 1831.",
+    "Suốt đời mình, Huy-gô đấu tranh đòi bãi bỏ án tử hình, bênh vực người nghèo và cổ vũ cho giáo dục, tự do ngôn luận.",
+    "Khi Huy-gô qua đời năm 1885, hơn hai triệu người đã dự tang lễ quốc gia của ông và thi hài ông được đưa vào điện Păng-tê-ông.",
+    "Vì các tác phẩm của Huy-gô phơi bày bất công xã hội và tràn đầy lòng thương người nên ông được coi là ngọn cờ của chủ nghĩa nhân đạo trong văn học Pháp thế kỉ XIX."
+   ],
+   "topic_title": "Những thành tựu văn hoá thời cận đại",
+   "aliases": [
+    "Victor Hugo",
+    "Huy-gô",
+    "Vic-to Huy-gô",
+    "Những người khốn khổ",
+    "Les Misérables"
+   ],
+   "year": null,
+   "date_start": "1802-02-26",
+   "date_end": "1885-05-22",
+   "place": "Pháp",
+   "actors": [
+    "Vích-to Huy-gô"
+   ],
+   "traps": [
+    "Huy-gô là nhà văn PHÁP, không phải nhà văn Anh hay Nga.",
+    "'Những người khốn khổ' (1862) là của Huy-gô, còn 'Chiến tranh và hòa bình' là của Lép Tôn-xtôi (Nga) — hai tác giả, hai nền văn học khác nhau."
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Victor_Hugo"
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 7
+    }
+   ]
+  },
+  {
+   "name": "Lép Tôn-xtôi",
+   "kind": "person",
+   "summary": "Nhà văn Nga vĩ đại thế kỉ XIX, đại biểu xuất sắc của chủ nghĩa hiện thực phê phán.",
+   "facts": [
+    "Lép Tôn-xtôi sinh ngày 9/9/1828 tại I-a-xnai-a Pô-li-a-na và mất ngày 20/11/1910, là nhà văn người Nga.",
+    "Bộ tiểu thuyết sử thi 'Chiến tranh và hòa bình' của Tôn-xtôi ra mắt năm 1869 và được coi là một trong những tác phẩm vĩ đại nhất của văn học thế giới.",
+    "Tiểu thuyết 'An-na Ka-rê-ni-na' được Tôn-xtôi hoàn thành năm 1877.",
+    "'Phục sinh' xuất bản năm 1899 là tác phẩm lớn cuối cùng của Tôn-xtôi.",
+    "Các tác phẩm của Tôn-xtôi dựng lại bức tranh chân thực về xã hội Nga thế kỉ XIX, phê phán sự bất công của chế độ Nga hoàng.",
+    "Tư tưởng bất bạo động của Tôn-xtôi về sau đã ảnh hưởng sâu sắc tới Ma-hát-ma Gan-đi ở Ấn Độ và Mác-tin Lu-thơ Kinh ở Mỹ."
+   ],
+   "topic_title": "Những thành tựu văn hoá thời cận đại",
+   "aliases": [
+    "Lev Tolstoy",
+    "Leo Tolstoy",
+    "Tôn-xtôi",
+    "Lép Ni-cô-lai-ê-vích Tôn-xtôi",
+    "Chiến tranh và hòa bình",
+    "An-na Ka-rê-ni-na"
+   ],
+   "year": null,
+   "date_start": "1828-09-09",
+   "date_end": "1910-11-20",
+   "place": "Nga",
+   "actors": [
+    "Lép Tôn-xtôi"
+   ],
+   "traps": [
+    "Tôn-xtôi là nhà văn NGA, không phải Pháp.",
+    "'Chiến tranh và hòa bình' (1869) là của Tôn-xtôi; đừng gán nhầm cho Huy-gô hay Đốt-xtôi-ép-xki.",
+    "Tôn-xtôi mất năm 1910, tức là trước Cách mạng tháng Mười Nga năm 1917."
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Lev_Nikolayevich_Tolstoy"
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 7
+    }
+   ]
+  },
+  {
+   "name": "Lút-vích van Bét-tô-ven",
+   "kind": "person",
+   "summary": "Nhà soạn nhạc thiên tài người Đức, cầu nối giữa âm nhạc cổ điển và lãng mạn, biểu tượng của nghị lực sáng tạo.",
+   "facts": [
+    "Bét-tô-ven được rửa tội ngày 17/12/1770 tại thành phố Bon (Đức) và mất ngày 26/3/1827 tại Viên, hưởng thọ 56 tuổi.",
+    "Những tác phẩm nổi tiếng nhất của Bét-tô-ven gồm Bản giao hưởng số 3 'Anh hùng', Bản giao hưởng số 5 'Định mệnh' và Bản giao hưởng số 9 với chương kết 'Bài ca Hoan hỉ'.",
+    "Bét-tô-ven bắt đầu bị suy giảm thính lực từ khoảng năm 30 tuổi và đến năm 1819 thì điếc hoàn toàn.",
+    "Dù bị điếc hoàn toàn, Bét-tô-ven vẫn tiếp tục sáng tác những tác phẩm lớn nhất của mình và giao tiếp với người khác qua những cuốn sổ ghi chép.",
+    "Bét-tô-ven là cầu nối giữa thời kì âm nhạc cổ điển và thời kì lãng mạn, ảnh hưởng sâu rộng tới các nhạc sĩ đời sau."
+   ],
+   "topic_title": "Những thành tựu văn hoá thời cận đại",
+   "aliases": [
+    "Beethoven",
+    "Bét-tô-ven",
+    "Ludwig van Beethoven",
+    "giao hưởng Định mệnh",
+    "giao hưởng số 9"
+   ],
+   "year": null,
+   "date_start": "1770-12-17",
+   "date_end": "1827-03-26",
+   "place": "Đức và Áo",
+   "actors": [
+    "Bét-tô-ven"
+   ],
+   "traps": [
+    "Bét-tô-ven là nhạc sĩ người ĐỨC (sinh ở Bon), tuy phần lớn sự nghiệp diễn ra ở Viên (Áo).",
+    "Bét-tô-ven bị điếc từ khi còn trẻ và điếc hoàn toàn từ năm 1819 nhưng vẫn sáng tác — không phải ông ngừng sáng tác khi bị điếc.",
+    "Đừng nhầm Bét-tô-ven (1770-1827) với Mô-da (1756-1791), hai nhạc sĩ khác thời và khác quốc tịch."
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Ludwig_van_Beethoven"
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 7
+    }
+   ]
+  },
+  {
+   "name": "Chủ nghĩa xã hội không tưởng",
+   "kind": "concept",
+   "summary": "Trào lưu tư tưởng đầu thế kỉ XIX phê phán chủ nghĩa tư bản và mơ ước một xã hội công bằng, nhưng chưa tìm ra con đường hiện thực.",
+   "facts": [
+    "Chủ nghĩa xã hội không tưởng hình thành và phát triển chủ yếu trong khoảng 25 năm đầu của thế kỉ XIX, khi chủ nghĩa tư bản bộc lộ nhiều mặt trái.",
+    "Những đại biểu chính của trào lưu này là Xanh Xi-mông, Sác-lơ Phu-ri-ê và Rô-be Ô-oen.",
+    "Các nhà xã hội không tưởng phê phán sâu sắc chủ nghĩa tư bản và bênh vực quyền lợi của người lao động.",
+    "Hạn chế của chủ nghĩa xã hội không tưởng là không nhận ra bản chất và quy luật của chủ nghĩa tư bản, không chỉ ra được con đường giải phóng giai cấp công nhân và bác bỏ đấu tranh giai cấp.",
+    "Chính vì chủ nghĩa xã hội không tưởng có hạn chế đó nên đến giữa thế kỉ XIX, chủ nghĩa xã hội khoa học của Mác và Ăng-ghen đã ra đời và thay thế nó trong phong trào công nhân.",
+    "Dù còn không tưởng, tư tưởng của Xanh Xi-mông, Phu-ri-ê và Ô-oen vẫn là một trong những tiền đề tư tưởng quan trọng của chủ nghĩa Mác."
+   ],
+   "topic_title": "Những thành tựu văn hoá thời cận đại",
+   "aliases": [
+    "chủ nghĩa xã hội không tưởng",
+    "Xanh Xi-mông",
+    "Saint-Simon",
+    "Phu-ri-ê",
+    "Fourier",
+    "Ô-oen",
+    "Robert Owen",
+    "utopian socialism"
+   ],
+   "year": null,
+   "date_start": "1800",
+   "date_end": "1848",
+   "place": "Tây Âu",
+   "actors": [
+    "Xanh Xi-mông",
+    "Phu-ri-ê",
+    "Ô-oen"
+   ],
+   "traps": [
+    "Chủ nghĩa xã hội không tưởng có TRƯỚC và là một tiền đề của chủ nghĩa Mác, không phải là một nhánh tách ra từ chủ nghĩa Mác — đừng đảo ngược thứ tự.",
+    "Rô-be Ô-oen là người Anh, còn Xanh Xi-mông và Phu-ri-ê là người Pháp.",
+    "Các nhà xã hội không tưởng phê phán chủ nghĩa tư bản nhưng KHÔNG chủ trương đấu tranh giai cấp, đó là điểm khác căn bản so với Mác - Ăng-ghen."
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Ch%E1%BB%A7_ngh%C4%A9a_x%C3%A3_h%E1%BB%99i_kh%C3%B4ng_t%C6%B0%E1%BB%9Fng"
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 7
+    }
+   ]
+  },
+  {
+   "name": "Lịch sử thế giới cận đại",
+   "kind": "period",
+   "summary": "Thời kì lịch sử thế giới từ các cuộc cách mạng tư sản đầu tiên đến hết Chiến tranh thế giới thứ nhất và Cách mạng tháng Mười Nga năm 1917.",
+   "facts": [
+    "Lịch sử thế giới cận đại được tính từ các cuộc cách mạng tư sản đầu tiên ở châu Âu vào thế kỉ XVI - XVII cho đến năm 1917.",
+    "Nội dung lớn thứ nhất của thời cận đại là sự thắng lợi của các cuộc cách mạng tư sản và sự xác lập của chủ nghĩa tư bản trên phạm vi thế giới.",
+    "Nội dung lớn thứ hai là việc các nước tư bản chuyển sang giai đoạn đế quốc chủ nghĩa và hoàn thành việc phân chia thuộc địa vào cuối thế kỉ XIX - đầu thế kỉ XX.",
+    "Nội dung lớn thứ ba là sự ra đời và phát triển của phong trào công nhân cùng chủ nghĩa xã hội khoa học từ giữa thế kỉ XIX.",
+    "Nội dung lớn thứ tư là phong trào đấu tranh giải phóng dân tộc của nhân dân các nước Á, Phi, Mĩ Latinh chống lại ách thống trị của thực dân.",
+    "Chính vì mâu thuẫn giữa các đế quốc về thuộc địa không thể giải quyết bằng thương lượng nên thời cận đại khép lại bằng Chiến tranh thế giới thứ nhất 1914-1918 và Cách mạng tháng Mười Nga năm 1917."
+   ],
+   "topic_title": "Ôn tập lịch sử thế giới cận đại",
+   "aliases": [
+    "thời cận đại",
+    "lịch sử cận đại thế giới",
+    "thế giới cận đại"
+   ],
+   "year": null,
+   "date_start": "1566",
+   "date_end": "1917",
+   "place": "thế giới",
+   "actors": [],
+   "traps": [
+    "Lịch sử thế giới cận đại kết thúc năm 1917 với Cách mạng tháng Mười Nga; từ sau 1917 là lịch sử thế giới hiện đại.",
+    "Thời cận đại mở đầu bằng cách mạng tư sản (Nê-đéc-lan, Anh), không phải bằng Cách mạng Pháp 1789 — Cách mạng Pháp chỉ là cuộc cách mạng tư sản triệt để nhất."
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/C%C3%A1ch_m%E1%BA%A1ng_t%C6%B0_s%E1%BA%A3n",
+    "https://vi.wikipedia.org/wiki/Ch%E1%BB%A7_ngh%C4%A9a_%C4%91%E1%BA%BF_qu%E1%BB%91c"
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 8
+    }
+   ]
+  },
+  {
+   "name": "Cách mạng tư sản",
+   "kind": "concept",
+   "summary": "Loại hình cách mạng do giai cấp tư sản lãnh đạo nhằm lật đổ chế độ phong kiến và mở đường cho chủ nghĩa tư bản phát triển.",
+   "facts": [
+    "Cách mạng tư sản là cuộc cách mạng do giai cấp tư sản lãnh đạo nhằm lật đổ chế độ phong kiến, thiết lập nền dân chủ tư sản và mở đường cho chủ nghĩa tư bản phát triển.",
+    "Các cuộc cách mạng tư sản diễn ra kéo dài từ thế kỉ XVI đến thế kỉ XX ở nhiều khu vực trên thế giới.",
+    "Những cuộc cách mạng tư sản tiêu biểu gồm cách mạng Nê-đéc-lan, cách mạng tư sản Anh 1642-1688, Chiến tranh giành độc lập của 13 thuộc địa Anh ở Bắc Mĩ 1775-1783 và Cách mạng Pháp 1789.",
+    "Cách mạng Tân Hợi ở Trung Quốc năm 1911 và cuộc Duy tân Minh Trị ở Nhật Bản năm 1868 cũng mang tính chất tư sản, dù diễn ra dưới những hình thức khác nhau.",
+    "Vì cách mạng tư sản chỉ thay chế độ bóc lột phong kiến bằng chế độ bóc lột tư bản chủ nghĩa nên nó không giải phóng được người lao động, đó là hạn chế căn bản của loại hình cách mạng này."
+   ],
+   "topic_title": "Ôn tập lịch sử thế giới cận đại",
+   "aliases": [
+    "cách mạng tư sản",
+    "cách mạng dân chủ tư sản",
+    "bourgeois revolution"
+   ],
+   "year": null,
+   "date_start": null,
+   "date_end": null,
+   "place": "châu Âu, Bắc Mĩ, châu Á",
+   "actors": [
+    "giai cấp tư sản"
+   ],
+   "traps": [
+    "Cách mạng Tân Hợi 1911 và Duy tân Minh Trị 1868 mang tính chất TƯ SẢN, không phải cách mạng vô sản.",
+    "Chiến tranh giành độc lập của 13 thuộc địa Anh ở Bắc Mĩ (1775-1783) cũng là một cuộc cách mạng tư sản, vì nó vừa giành độc lập vừa mở đường cho chủ nghĩa tư bản phát triển."
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/C%C3%A1ch_m%E1%BA%A1ng_t%C6%B0_s%E1%BA%A3n"
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 8
+    }
+   ]
+  },
+  {
+   "name": "Chủ nghĩa đế quốc",
+   "kind": "concept",
+   "summary": "Giai đoạn phát triển của chủ nghĩa tư bản cuối thế kỉ XIX - đầu thế kỉ XX, gắn với độc quyền và tranh giành thuộc địa.",
+   "facts": [
+    "Chủ nghĩa đế quốc là chính sách và hình thái xã hội dựa trên việc mở rộng quyền lực, ảnh hưởng và thuộc địa của một quốc gia ra bên ngoài.",
+    "Chủ nghĩa đế quốc đạt tới đỉnh cao trong giai đoạn từ cuối thế kỉ XIX đến giữa thế kỉ XX, khi các nước công nghiệp châu Âu, nhất là Anh và Pháp, ráo riết bành trướng để giành thị trường, nguyên liệu và nhân công.",
+    "Lê-nin đã phân tích hiện tượng này trong tác phẩm 'Chủ nghĩa đế quốc, giai đoạn tột cùng của chủ nghĩa tư bản', công bố năm 1917.",
+    "Cuộc tranh giành thuộc địa giữa các đế quốc, tiêu biểu là 'cuộc tranh giành châu Phi' sau Hội nghị Béc-lin 1884-1885, làm căng thẳng quốc tế tăng cao.",
+    "Chính vì thuộc địa trên thế giới đã bị chia xong mà các đế quốc trẻ như Đức lại muốn chia lại, nên mâu thuẫn giữa các đế quốc đã dẫn tới Chiến tranh thế giới thứ nhất năm 1914."
+   ],
+   "topic_title": "Ôn tập lịch sử thế giới cận đại",
+   "aliases": [
+    "đế quốc chủ nghĩa",
+    "chủ nghĩa tư bản độc quyền",
+    "imperialism",
+    "giai đoạn đế quốc chủ nghĩa"
+   ],
+   "year": null,
+   "date_start": "1870",
+   "date_end": "1918",
+   "place": "thế giới",
+   "actors": [
+    "Anh",
+    "Pháp",
+    "Đức",
+    "Mỹ",
+    "Nhật Bản"
+   ],
+   "traps": [
+    "Thuộc địa và mâu thuẫn đế quốc là NGUYÊN NHÂN SÂU XA của Chiến tranh thế giới thứ nhất, còn vụ ám sát ở Xa-ra-e-vô chỉ là duyên cớ — không được đảo chiều nhân quả.",
+    "Tác phẩm của Lê-nin về chủ nghĩa đế quốc công bố năm 1917, tức là trước Cách mạng tháng Mười ít lâu."
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Ch%E1%BB%A7_ngh%C4%A9a_%C4%91%E1%BA%BF_qu%E1%BB%91c"
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 8
+    }
+   ]
+  },
+  {
+   "name": "Cách mạng tháng Hai năm 1917 ở Nga",
+   "kind": "event",
+   "summary": "Cuộc cách mạng dân chủ tư sản lật đổ chế độ Nga hoàng, tạo ra tình trạng hai chính quyền song song tồn tại ở nước Nga.",
+   "facts": [
+    "Cách mạng tháng Hai nổ ra vào cuối tháng 2 năm 1917 theo lịch Nga cũ, tức đầu tháng 3 năm 1917 theo lịch mới, tại thủ đô Pê-tơ-rô-grát.",
+    "Cách mạng mở đầu bằng cuộc biểu tình của khoảng 90.000 nữ công nhân thuộc 50 xí nghiệp ở Pê-tơ-rô-grát nhân Ngày Quốc tế Phụ nữ.",
+    "Phong trào nhanh chóng lan rộng và đến giữa tháng 3 năm 1917 thì binh lính ngả về phía cách mạng, khiến chế độ Nga hoàng sụp đổ.",
+    "Nga hoàng Ni-cô-lai II phải thoái vị, chấm dứt sự thống trị hơn 300 năm của dòng họ Rô-ma-nốp và chế độ quân chủ chuyên chế ở nước Nga.",
+    "Sau cách mạng, nước Nga tồn tại hai chính quyền song song: Chính phủ lâm thời của giai cấp tư sản và các Xô viết đại biểu công nhân, binh lính.",
+    "Chính vì hai chính quyền cùng tồn tại mà không thể dung hòa được về đường lối chiến tranh và ruộng đất, nên nước Nga tất yếu phải tiến tới một cuộc cách mạng thứ hai vào tháng Mười năm 1917."
+   ],
+   "topic_title": "Cách mạng tháng Mười Nga năm 1917 và cuộc đấu tranh bảo vệ cách mạng (1917 - 1921)",
+   "aliases": [
+    "Cách mạng tháng Hai",
+    "cách mạng dân chủ tư sản tháng Hai",
+    "February Revolution",
+    "Cách mạng tháng Hai Nga"
+   ],
+   "year": 1917,
+   "date_start": "1917-02-23",
+   "date_end": "1917-03",
+   "place": "Pê-tơ-rô-grát, Nga",
+   "actors": [
+    "công nhân và binh lính Nga",
+    "Nga hoàng Ni-cô-lai II",
+    "Chính phủ lâm thời"
+   ],
+   "traps": [
+    "Cách mạng tháng Hai lật đổ CHẾ ĐỘ NGA HOÀNG, còn Cách mạng tháng Mười mới lật đổ Chính phủ lâm thời tư sản — không được đảo lẫn hai kết quả này.",
+    "Cách mạng tháng Hai theo lịch Nga cũ rơi vào tháng 3 theo lịch mới, giống như Cách mạng tháng Mười rơi vào tháng 11 theo lịch mới.",
+    "Cách mạng tháng Hai là cách mạng dân chủ tư sản kiểu mới, không phải cách mạng xã hội chủ nghĩa."
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/C%C3%A1ch_m%E1%BA%A1ng_Th%C3%A1ng_Hai"
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 9
+    }
+   ]
+  },
+  {
+   "name": "Cách mạng tháng Mười Nga năm 1917",
+   "kind": "event",
+   "summary": "Cuộc cách mạng xã hội chủ nghĩa do Lê-nin và Đảng Bôn-sê-vích lãnh đạo, lập ra nhà nước Xô viết đầu tiên trên thế giới.",
+   "facts": [
+    "Cách mạng tháng Mười Nga diễn ra trong hai ngày 25 và 26 tháng 10 năm 1917 theo lịch Nga cũ, tương ứng với ngày 7 và 8 tháng 11 năm 1917 theo lịch mới.",
+    "Cuộc cách mạng do Đảng Bôn-sê-vích lãnh đạo, với những nhân vật chủ chốt là Lê-nin, Tơ-rốt-xki, Xvéc-lốp và Đư-ben-cô.",
+    "Quân khởi nghĩa đánh chiếm Cung điện Mùa Đông ở Pê-tơ-rô-grát, lật đổ Chính phủ lâm thời tư sản do Kê-ren-xki đứng đầu.",
+    "Ngay sau khởi nghĩa, Đại hội Xô viết toàn Nga lần thứ hai tuyên bố là cơ quan quyền lực tối cao và thông qua Sắc lệnh hòa bình cùng Sắc lệnh ruộng đất.",
+    "Kết quả của Cách mạng tháng Mười là Chính quyền Xô viết được thành lập, mở đầu công cuộc xây dựng nhà nước xã hội chủ nghĩa đầu tiên trên thế giới.",
+    "Cách mạng tháng Mười Nga đã cổ vũ mạnh mẽ phong trào cách mạng và phong trào giải phóng dân tộc trên toàn thế giới, trong đó có Việt Nam."
+   ],
+   "topic_title": "Cách mạng tháng Mười Nga năm 1917 và cuộc đấu tranh bảo vệ cách mạng (1917 - 1921)",
+   "aliases": [
+    "Cách mạng tháng Mười",
+    "Cách mạng Tháng Mười Nga",
+    "October Revolution",
+    "khởi nghĩa tháng Mười",
+    "Cách mạng xã hội chủ nghĩa tháng Mười"
+   ],
+   "year": 1917,
+   "date_start": "1917-10-25",
+   "date_end": "1917-10-26",
+   "place": "Pê-tơ-rô-grát, Nga",
+   "actors": [
+    "Lê-nin",
+    "Đảng Bôn-sê-vích",
+    "Tơ-rốt-xki",
+    "Kê-ren-xki"
+   ],
+   "traps": [
+    "Gọi là 'Cách mạng tháng Mười' theo lịch Nga cũ, nhưng ngày kỉ niệm là 7/11 theo lịch mới — hai cách tính lịch chứ không phải hai sự kiện.",
+    "Cách mạng tháng Mười lật đổ CHÍNH PHỦ LÂM THỜI TƯ SẢN, chứ chế độ Nga hoàng đã bị Cách mạng tháng Hai lật đổ từ trước.",
+    "Lực lượng lãnh đạo là Đảng Bôn-sê-vích do Lê-nin đứng đầu, không phải phái Men-sê-vích."
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/C%C3%A1ch_m%E1%BA%A1ng_Th%C3%A1ng_M%C6%B0%E1%BB%9Di"
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 9
+    }
+   ]
+  },
+  {
+   "name": "V.I. Lê-nin",
+   "kind": "person",
+   "summary": "Lãnh tụ Đảng Bôn-sê-vích, người lãnh đạo Cách mạng tháng Mười Nga và đứng đầu nhà nước Xô viết đầu tiên.",
+   "facts": [
+    "Lê-nin tên thật là Vla-đi-mia I-lích U-li-a-nốp, sinh ngày 22/4/1870 và mất ngày 21/1/1924.",
+    "Lê-nin là người sáng lập và lãnh đạo phái Bôn-sê-vích trong Đảng Công nhân xã hội dân chủ Nga, về sau trở thành Đảng Cộng sản Liên Xô.",
+    "Sau Cách mạng tháng Hai năm 1917, Lê-nin trở về Nga và công bố 'Luận cương tháng Tư', nêu khẩu hiệu 'hòa bình, ruộng đất, bánh mì' và chủ trương chuyển cách mạng sang giai đoạn xã hội chủ nghĩa.",
+    "Từ tháng 11 năm 1917 đến khi qua đời năm 1924, Lê-nin đứng đầu Hội đồng Dân ủy, tức chính phủ của nước Nga Xô viết rồi Liên Xô.",
+    "Năm 1921, Lê-nin đề ra Chính sách kinh tế mới nhằm khôi phục nền kinh tế kiệt quệ sau nội chiến và nạn đói.",
+    "Chính vì Lê-nin kịp thời đưa ra 'Luận cương tháng Tư' năm 1917 mà Đảng Bôn-sê-vích có được đường lối đúng để tiến tới thắng lợi của Cách mạng tháng Mười."
+   ],
+   "topic_title": "Cách mạng tháng Mười Nga năm 1917 và cuộc đấu tranh bảo vệ cách mạng (1917 - 1921)",
+   "aliases": [
+    "Lenin",
+    "Lê-nin",
+    "V.I. Lênin",
+    "Vladimir Ilyich Lenin",
+    "U-li-a-nốp",
+    "Ulyanov"
+   ],
+   "year": null,
+   "date_start": "1870-04-22",
+   "date_end": "1924-01-21",
+   "place": "Nga",
+   "actors": [
+    "Lê-nin"
+   ],
+   "traps": [
+    "Lê-nin mất năm 1924, sau đó Xta-lin mới lãnh đạo Liên Xô thực hiện các kế hoạch 5 năm — không gán công nghiệp hóa 1928-1937 cho Lê-nin.",
+    "'Luận cương tháng Tư' là năm 1917, sau Cách mạng tháng Hai và trước Cách mạng tháng Mười."
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Vladimir_Ilyich_Lenin"
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 9
+    }
+   ]
+  },
+  {
+   "name": "Hồng quân và cuộc chiến đấu bảo vệ Chính quyền Xô viết (1918-1920)",
+   "kind": "org",
+   "summary": "Lực lượng vũ trang của nhà nước Xô viết, được lập năm 1918 và đã đánh bại quân Bạch vệ cùng lực lượng can thiệp nước ngoài.",
+   "facts": [
+    "Hồng quân Công Nông được chính thức thành lập ngày 28/1/1918 theo sắc lệnh của Hội đồng Dân ủy, ngày truyền thống được lấy là 23/2/1918 khi những đơn vị Hồng quân lớn đầu tiên xuất hiện ở Pê-tơ-rô-grát và Mát-xcơ-va.",
+    "Người tổ chức và chỉ huy Hồng quân trong giai đoạn đầu là Tơ-rốt-xki, giữ chức Dân ủy Chiến tranh từ năm 1918 đến năm 1924.",
+    "Trong những năm 1918-1920, Hồng quân đã chiến đấu chống quân Bạch vệ trong nước và quân can thiệp của các nước đế quốc bên ngoài.",
+    "Đến năm 1920, Hồng quân đã đánh bại các lực lượng thù địch, bảo vệ được Chính quyền Xô viết non trẻ.",
+    "Từ năm 1922, Hồng quân chính thức trở thành quân đội của Liên bang Xô viết.",
+    "Tháng 2 năm 1946, Hồng quân được đổi tên thành Quân đội Xô viết.",
+    "Chính vì phải chiến đấu chống thù trong giặc ngoài suốt 1918-1920 mà nhà nước Xô viết buộc phải thi hành Chính sách cộng sản thời chiến, trưng thu lương thực thừa của nông dân để dồn sức cho tiền tuyến."
+   ],
+   "topic_title": "Cách mạng tháng Mười Nga năm 1917 và cuộc đấu tranh bảo vệ cách mạng (1917 - 1921)",
+   "aliases": [
+    "Hồng quân",
+    "Hồng quân Công Nông",
+    "Hồng quân Liên Xô",
+    "Red Army",
+    "Quân đội Xô viết",
+    "nội chiến Nga"
+   ],
+   "year": 1918,
+   "date_start": "1918-01-28",
+   "date_end": "1920",
+   "place": "nước Nga Xô viết",
+   "actors": [
+    "Hồng quân",
+    "Tơ-rốt-xki",
+    "quân Bạch vệ",
+    "quân can thiệp nước ngoài"
+   ],
+   "traps": [
+    "Tên gọi chuẩn là HỒNG QUÂN (Hồng quân Công Nông, sau là Hồng quân Liên Xô), KHÔNG được gọi là 'quân đội đỏ'.",
+    "Hồng quân được thành lập năm 1918, sau Cách mạng tháng Mười 1917 chứ không phải trước.",
+    "Hồng quân chỉ đổi tên thành Quân đội Xô viết từ tháng 2 năm 1946, nên trong Chiến tranh thế giới thứ hai vẫn gọi là Hồng quân."
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/H%E1%BB%93ng_qu%C3%A2n"
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 9
+    }
+   ]
+  },
+  {
+   "name": "Chính sách kinh tế mới (NEP) năm 1921",
+   "kind": "concept",
+   "summary": "Chính sách do Lê-nin đề xướng năm 1921, thay Chính sách cộng sản thời chiến, cho phép phát triển kinh tế nhiều thành phần dưới sự kiểm soát của nhà nước.",
+   "facts": [
+    "Chính sách kinh tế mới, viết tắt là NEP, được thực hiện ở nước Nga Xô viết từ năm 1921 và kéo dài đến khoảng năm 1929.",
+    "Người đề xướng Chính sách kinh tế mới là Lê-nin, nhằm khôi phục nền kinh tế kiệt quệ sau nội chiến, nạn đói và các cuộc bạo loạn.",
+    "NEP thay thế Chính sách cộng sản thời chiến, bỏ chế độ trưng thu lương thực thừa và thay bằng thuế lương thực để nông dân được giữ phần dôi ra.",
+    "NEP cho phép tự do buôn bán, mở lại chợ, cho tư nhân kinh doanh những xí nghiệp nhỏ trong khi nhà nước vẫn nắm các ngành kinh tế then chốt.",
+    "Vì NEP khuyến khích lợi ích của người sản xuất nên nông nghiệp và công nghiệp nước Nga nhanh chóng phục hồi sau những năm chiến tranh và nội chiến.",
+    "Đến cuối những năm 1920, NEP được thay bằng đường lối công nghiệp hóa và tập thể hóa theo các kế hoạch 5 năm."
+   ],
+   "topic_title": "Liên Xô xây dựng chủ nghĩa xã hội (1921 - 1941)",
+   "aliases": [
+    "NEP",
+    "Chính sách kinh tế mới",
+    "chính sách kinh tế mới của Lê-nin",
+    "New Economic Policy"
+   ],
+   "year": 1921,
+   "date_start": "1921",
+   "date_end": "1929",
+   "place": "nước Nga Xô viết / Liên Xô",
+   "actors": [
+    "Lê-nin"
+   ],
+   "traps": [
+    "NEP là năm 1921, thay cho Chính sách cộng sản thời chiến (1919-1921) — không được lẫn tên hai chính sách.",
+    "NEP không phải là 'quay lại chủ nghĩa tư bản' mà là nền kinh tế nhiều thành phần do nhà nước Xô viết kiểm soát các ngành then chốt.",
+    "Người đề ra NEP là Lê-nin, không phải Xta-lin (Xta-lin là người sau này chấm dứt NEP để công nghiệp hóa)."
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Ch%C3%ADnh_s%C3%A1ch_kinh_t%E1%BA%BF_m%E1%BB%9Bi",
+    "https://vi.wikipedia.org/wiki/Vladimir_Ilyich_Lenin"
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 10
+    }
+   ]
+  },
+  {
+   "name": "Liên bang Cộng hòa xã hội chủ nghĩa Xô viết thành lập (1922)",
+   "kind": "event",
+   "summary": "Sự kiện các nước cộng hòa Xô viết hợp nhất thành Liên Xô vào cuối năm 1922.",
+   "facts": [
+    "Liên bang Cộng hòa xã hội chủ nghĩa Xô viết, gọi tắt là Liên Xô, được thành lập ngày 30/12/1922, sau khi Nội chiến Nga kết thúc.",
+    "Hiệp ước thành lập năm 1922 hợp nhất bốn nước cộng hòa ban đầu là Nga, U-crai-na, Bê-lô-rút-xi-a và Ngoại Cáp-ca-dơ.",
+    "Về sau Liên Xô mở rộng thành liên bang gồm 15 nước cộng hòa.",
+    "Chính vì Hồng quân đã bảo vệ được Chính quyền Xô viết trong nội chiến 1918-1920, các nước cộng hòa Xô viết mới có điều kiện hợp nhất thành một nhà nước liên bang vào cuối năm 1922."
+   ],
+   "topic_title": "Liên Xô xây dựng chủ nghĩa xã hội (1921 - 1941)",
+   "aliases": [
+    "Liên Xô",
+    "Liên bang Xô viết",
+    "Liên bang Cộng hòa xã hội chủ nghĩa Xô viết",
+    "USSR",
+    "CCCP"
+   ],
+   "year": 1922,
+   "date_start": "1922-12-30",
+   "date_end": null,
+   "place": "Mát-xcơ-va",
+   "actors": [
+    "Nga",
+    "U-crai-na",
+    "Bê-lô-rút-xi-a",
+    "Ngoại Cáp-ca-dơ"
+   ],
+   "traps": [
+    "Liên Xô được thành lập năm 1922, KHÔNG phải năm 1917 — năm 1917 Cách mạng tháng Mười chỉ lập ra nước Nga Xô viết.",
+    "Ban đầu Liên Xô chỉ gồm 4 nước cộng hòa, con số 15 nước cộng hòa là kết quả của quá trình mở rộng về sau."
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Li%C3%AAn_X%C3%B4"
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 10
+    }
+   ]
+  },
+  {
+   "name": "Công cuộc công nghiệp hóa và các kế hoạch 5 năm ở Liên Xô (1928-1937)",
+   "kind": "event",
+   "summary": "Đường lối công nghiệp hóa xã hội chủ nghĩa và tập thể hóa nông nghiệp do Xta-lin lãnh đạo, thực hiện qua các kế hoạch 5 năm.",
+   "facts": [
+    "Kế hoạch 5 năm lần thứ nhất của Liên Xô được thực hiện trong những năm 1928-1932, kế hoạch 5 năm lần thứ hai trong những năm 1933-1937.",
+    "Người lãnh đạo công cuộc công nghiệp hóa và tập thể hóa nông nghiệp là Xta-lin, sau khi ông từng bước củng cố quyền lực tiếp theo cái chết của Lê-nin năm 1924.",
+    "Đường lối công nghiệp hóa của Liên Xô ưu tiên phát triển công nghiệp nặng, đồng thời tiến hành tập thể hóa nông nghiệp trên quy mô lớn.",
+    "Nhờ các kế hoạch 5 năm, Liên Xô đạt tốc độ tăng trưởng kinh tế rất nhanh và từ một nước nông nghiệp lạc hậu trở thành cường quốc công nghiệp.",
+    "Mặt trái của tập thể hóa cưỡng bức là nạn đói lớn trong hai năm 1932-1933, làm hàng triệu người chết.",
+    "Chính vì Liên Xô đã xây dựng được nền công nghiệp nặng vững mạnh trong những năm 1928-1937 nên nước này mới đủ tiềm lực đứng vững trước cuộc xâm lược của phát xít Đức từ năm 1941."
+   ],
+   "topic_title": "Liên Xô xây dựng chủ nghĩa xã hội (1921 - 1941)",
+   "aliases": [
+    "kế hoạch 5 năm",
+    "kế hoạch năm năm lần thứ nhất",
+    "công nghiệp hóa xã hội chủ nghĩa",
+    "tập thể hóa nông nghiệp",
+    "Xta-lin",
+    "Stalin"
+   ],
+   "year": 1928,
+   "date_start": "1928",
+   "date_end": "1937",
+   "place": "Liên Xô",
+   "actors": [
+    "Xta-lin"
+   ],
+   "traps": [
+    "Thời kì Liên Xô xây dựng chủ nghĩa xã hội trong bài học này là 1921-1941; việc Liên Xô tham gia Chiến tranh thế giới thứ hai (1941-1945) KHÔNG thuộc giai đoạn này mà thuộc bài về Chiến tranh thế giới thứ hai.",
+    "Người lãnh đạo các kế hoạch 5 năm là Xta-lin, không phải Lê-nin (Lê-nin mất năm 1924, trước khi kế hoạch 5 năm lần thứ nhất bắt đầu).",
+    "Kế hoạch 5 năm lần thứ nhất là 1928-1932 và lần thứ hai là 1933-1937, không nên gộp chung thành một giai đoạn."
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Li%C3%AAn_X%C3%B4"
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 10
+    }
+   ]
+  }
+ ]
+}

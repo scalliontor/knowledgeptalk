@@ -1,0 +1,1672 @@
+{
+ "grade": 12,
+ "chunk": 1,
+ "cards": [
+  {
+   "name": "Hội nghị Ianta",
+   "kind": "event",
+   "summary": "Hội nghị của ba cường quốc Liên Xô, Mĩ, Anh đầu năm 1945 đưa ra những quyết định đặt nền móng cho trật tự thế giới mới sau Chiến tranh thế giới thứ hai.",
+   "facts": [
+    "Hội nghị Ianta diễn ra từ ngày 4 đến ngày 11 tháng 2 năm 1945 tại thành phố Ianta trên bán đảo Crưm, khi đó thuộc Liên Xô.",
+    "Ba nhà lãnh đạo dự hội nghị là Tổng Bí thư Liên Xô Xtalin, Tổng thống Mĩ Rudơven và Thủ tướng Anh Sớcsin.",
+    "Hội nghị họp vào lúc Chiến tranh thế giới thứ hai sắp kết thúc, nên ba nước phải bàn cách kết thúc chiến tranh và sắp xếp lại thế giới sau chiến tranh.",
+    "Hội nghị thống nhất phải tiêu diệt tận gốc chủ nghĩa phát xít, buộc Đức đầu hàng không điều kiện và chia nước Đức thành bốn khu vực chiếm đóng.",
+    "Xtalin cam kết Liên Xô sẽ tham chiến chống Nhật ở châu Á trong vòng hai đến ba tháng sau khi nước Đức đầu hàng.",
+    "Hội nghị nhất trí thành lập một tổ chức quốc tế giữ gìn hòa bình, chính là Liên hợp quốc, với quyền phủ quyết dành cho các ủy viên thường trực Hội đồng Bảo an.",
+    "Vì hội nghị Ianta thỏa thuận phân chia phạm vi ảnh hưởng giữa Liên Xô và Mĩ ở châu Âu và châu Á, thế giới sau năm 1945 bị chia thành hai phe đối lập, hình thành trật tự hai cực Ianta."
+   ],
+   "traps": [
+    "Hiến chương Liên hợp quốc KHÔNG được ký ở Ianta: hội nghị Ianta chỉ quyết định thành lập tổ chức, còn Hiến chương được ký ở San Francisco ngày 26/6/1945.",
+    "Ianta nằm ở bán đảo Crưm thuộc Liên Xô, không phải ở Mĩ hay Anh.",
+    "'Hai cực' của trật tự Ianta là Liên Xô và Mĩ, không phải Liên Xô và Anh, dù Anh cũng dự hội nghị.",
+    "Đừng nhầm Hội nghị Ianta (tháng 2/1945, mở đầu trật tự hai cực) với Hội nghị Manta (tháng 12/1989, tuyên bố chấm dứt Chiến tranh lạnh)."
+   ],
+   "aliases": [
+    "Hội nghị Yalta",
+    "Hội nghị Ianta 1945",
+    "Hội nghị Crưm",
+    "Yalta Conference",
+    "hội nghị I-an-ta"
+   ],
+   "year": 1945,
+   "date_start": "1945-02-04",
+   "date_end": "1945-02-11",
+   "place": "Ianta, bán đảo Crưm (Liên Xô)",
+   "actors": [
+    "Xtalin",
+    "Rudơven",
+    "Sớcsin"
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 1
+    }
+   ],
+   "topic_title": "Sự hình thành trật tự thế giới mới sau Chiến tranh thế giới thứ hai (1945 - 1949)",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/H%E1%BB%99i_ngh%E1%BB%8B_Yalta",
+    "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_tranh_L%E1%BA%A1nh"
+   ]
+  },
+  {
+   "name": "Liên hợp quốc",
+   "kind": "org",
+   "summary": "Tổ chức quốc tế lớn nhất hành tinh, ra đời cuối năm 1945 với nhiệm vụ giữ gìn hòa bình và an ninh thế giới.",
+   "facts": [
+    "Hội nghị quốc tế ở San Francisco (Mĩ) họp từ ngày 25/4 đến ngày 26/6/1945 với đại biểu của 50 nước để thông qua Hiến chương Liên hợp quốc.",
+    "Hiến chương Liên hợp quốc được ký ngày 26/6/1945 nhưng phải đến ngày 24/10/1945 mới chính thức có hiệu lực, nên ngày 24/10 hằng năm được lấy làm Ngày Liên hợp quốc.",
+    "Liên hợp quốc khi ra đời có 51 nước thành viên sáng lập.",
+    "Bộ máy của Liên hợp quốc gồm các cơ quan chính là Đại hội đồng, Hội đồng Bảo an, Hội đồng Kinh tế và Xã hội, Hội đồng Quản thác, Tòa án Quốc tế và Ban Thư ký.",
+    "Hội đồng Bảo an giữ vai trò trọng yếu trong việc duy trì hòa bình, với năm ủy viên thường trực là Liên Xô (nay là Nga), Mĩ, Anh, Pháp và Trung Quốc.",
+    "Vì Liên hợp quốc hoạt động theo nguyên tắc nhất trí giữa năm ủy viên thường trực, nên một nghị quyết quan trọng của Hội đồng Bảo an sẽ không thông qua được nếu chỉ một nước lớn phủ quyết."
+   ],
+   "traps": [
+    "Ngày ký Hiến chương (26/6/1945) khác ngày Liên hợp quốc chính thức thành lập, tức ngày Hiến chương có hiệu lực (24/10/1945).",
+    "Nguyên tắc nhất trí nghĩa là phải được cả 5 ủy viên thường trực tán thành, chứ không phải chỉ cần đa số phiếu.",
+    "Liên hợp quốc được quyết định thành lập tại Hội nghị Ianta (2/1945), còn nơi thông qua Hiến chương là San Francisco."
+   ],
+   "aliases": [
+    "Liên Hợp Quốc",
+    "LHQ",
+    "United Nations",
+    "UN",
+    "Liên hiệp quốc"
+   ],
+   "year": 1945,
+   "date_start": "1945-06-26",
+   "date_end": "1945-10-24",
+   "place": "San Francisco (Mĩ); trụ sở tại Niu Oóc",
+   "actors": [
+    "50 nước dự hội nghị San Francisco"
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 1
+    }
+   ],
+   "topic_title": "Sự hình thành trật tự thế giới mới sau Chiến tranh thế giới thứ hai (1945 - 1949)",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Li%C3%AAn_Hi%E1%BB%87p_Qu%E1%BB%91c"
+   ]
+  },
+  {
+   "name": "Trật tự hai cực Ianta",
+   "kind": "concept",
+   "summary": "Khuôn khổ trật tự thế giới do Liên Xô và Mĩ đứng đầu hai cực, chi phối quan hệ quốc tế từ năm 1945 đến năm 1991.",
+   "facts": [
+    "Trật tự hai cực Ianta hình thành từ năm 1945 trên cơ sở những thỏa thuận phân chia phạm vi ảnh hưởng tại Hội nghị Ianta tháng 2/1945.",
+    "Ở cực thứ nhất là Liên Xô cùng các nước xã hội chủ nghĩa Đông Âu, ở cực thứ hai là Mĩ cùng các nước tư bản Tây Âu.",
+    "Theo thỏa thuận Ianta, nước Đức bị chia thành bốn khu vực chiếm đóng, châu Âu bị chia thành khu vực ảnh hưởng của Liên Xô ở phía đông và của Mĩ, Anh ở phía tây.",
+    "Vì hai cực đối đầu nhau về ý thức hệ và quân sự, quan hệ quốc tế suốt gần nửa thế kỉ bị đặt trong tình trạng Chiến tranh lạnh.",
+    "Trật tự hai cực Ianta sụp đổ hoàn toàn khi Liên Xô tan rã ngày 26/12/1991, sau đó thế giới chuyển dần sang xu thế đa cực."
+   ],
+   "traps": [
+    "Trật tự hai cực Ianta tan rã năm 1991 khi Liên Xô sụp đổ, chứ không phải năm 1989 (1989 chỉ là năm tuyên bố chấm dứt Chiến tranh lạnh).",
+    "Trật tự này mang tên hội nghị Ianta chứ không mang tên hội nghị Pốtxđam.",
+    "Hai cực là Liên Xô và Mĩ; Anh, Pháp tuy là nước thắng trận nhưng không tạo thành một cực riêng."
+   ],
+   "aliases": [
+    "trật tự hai cực Yalta",
+    "hệ thống Ianta",
+    "trật tự thế giới hai cực"
+   ],
+   "year": 1945,
+   "date_start": "1945",
+   "date_end": "1991",
+   "place": "Toàn thế giới",
+   "actors": [
+    "Liên Xô",
+    "Mĩ"
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 1
+    }
+   ],
+   "topic_title": "Sự hình thành trật tự thế giới mới sau Chiến tranh thế giới thứ hai (1945 - 1949)",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/H%E1%BB%99i_ngh%E1%BB%8B_Yalta",
+    "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_tranh_L%E1%BA%A1nh"
+   ]
+  },
+  {
+   "name": "Công cuộc khôi phục và những thành tựu của Liên Xô (1945 - 1970)",
+   "kind": "period",
+   "summary": "Sau chiến tranh, Liên Xô hàn gắn vết thương, trở thành cường quốc công nghiệp và dẫn đầu thế giới trong chinh phục vũ trụ.",
+   "facts": [
+    "Liên Xô bước ra khỏi Chiến tranh thế giới thứ hai với thiệt hại cực lớn, khoảng 27 triệu người chết, nên nhiệm vụ hàng đầu sau năm 1945 là khôi phục kinh tế.",
+    "Liên Xô thực hiện kế hoạch 5 năm khôi phục kinh tế trong những năm 1946 - 1950 và nhanh chóng trở thành nền kinh tế lớn thứ hai thế giới.",
+    "Ngày 4/10/1957, Liên Xô phóng thành công Sputnik 1, vệ tinh nhân tạo đầu tiên của loài người, mở đầu kỷ nguyên chinh phục vũ trụ.",
+    "Ngày 12/4/1961, nhà du hành Liên Xô Yuri Gagarin bay một vòng quanh Trái Đất trên con tàu Phương Đông 1 trong 1 giờ 48 phút, trở thành người đầu tiên bay vào vũ trụ.",
+    "Vì đạt được những thành tựu khoa học - kĩ thuật và tiềm lực quân sự to lớn, Liên Xô trở thành chỗ dựa cho phong trào cách mạng thế giới và là đối trọng của Mĩ trong trật tự hai cực."
+   ],
+   "traps": [
+    "Gagarin bay vòng quanh Trái Đất năm 1961, ông KHÔNG phải người đặt chân lên Mặt Trăng.",
+    "Năm 1957 Liên Xô phóng vệ tinh nhân tạo (không người lái), còn chuyến bay có người đầu tiên là năm 1961 — hai mốc khác nhau.",
+    "Kế hoạch 5 năm khôi phục kinh tế là 1946 - 1950, không phải sau năm 1953."
+   ],
+   "aliases": [
+    "Liên bang Xô viết",
+    "Liên Xô sau Chiến tranh thế giới thứ hai",
+    "USSR",
+    "Xô viết"
+   ],
+   "year": null,
+   "date_start": "1945",
+   "date_end": "1970",
+   "place": "Liên Xô",
+   "actors": [
+    "Yuri Gagarin",
+    "Nhân dân Liên Xô"
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 2
+    }
+   ],
+   "topic_title": "Liên Xô và các nước Đông Âu (1945 - 1991). Liên bang Nga (1991 - 2000)",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Li%C3%AAn_X%C3%B4",
+    "https://vi.wikipedia.org/wiki/Sputnik_1",
+    "https://vi.wikipedia.org/wiki/Yuri_Gagarin"
+   ]
+  },
+  {
+   "name": "Liên Xô tan rã",
+   "kind": "event",
+   "summary": "Cuộc khủng hoảng và công cuộc cải tổ thất bại dẫn tới việc Liên bang Xô viết chấm dứt tồn tại cuối năm 1991.",
+   "facts": [
+    "Ngày 11/3/1985, Goócbachốp được bầu làm Tổng Bí thư Đảng Cộng sản Liên Xô và tiến hành công cuộc cải tổ với hai khẩu hiệu 'cải tổ' (perestroika) và 'công khai' (glasnost).",
+    "Cải tổ được tiến hành thiếu đồng bộ và mắc nhiều sai lầm, nên thay vì đưa đất nước thoát khỏi khủng hoảng lại làm khủng hoảng thêm trầm trọng.",
+    "Từ ngày 18 đến ngày 22/8/1991, một nhóm lãnh đạo bảo thủ lập 'Ủy ban Nhà nước về tình trạng khẩn cấp' tiến hành đảo chính nhưng THẤT BẠI sau ba ngày.",
+    "Vì cuộc đảo chính tháng 8/1991 thất bại, Đảng Cộng sản Liên Xô bị đình chỉ hoạt động và các nước cộng hòa lần lượt tuyên bố độc lập.",
+    "Ngày 8/12/1991, lãnh đạo ba nước Nga, Ucraina và Bêlarút ký Hiệp định Bêlôvegiơ, tuyên bố lập Cộng đồng các quốc gia độc lập (SNG).",
+    "Ngày 21/12/1991, 11 nước cộng hòa ký Nghị định thư Anma Ata mở rộng SNG.",
+    "Ngày 25/12/1991, Goócbachốp từ chức và lá cờ đỏ búa liềm được hạ xuống khỏi điện Cremli; ngày 26/12/1991 Liên Xô chính thức chấm dứt tồn tại."
+   ],
+   "traps": [
+    "Cuộc đảo chính tháng 8/1991 THẤT BẠI chứ không thành công; chính thất bại đó đẩy nhanh sự tan rã của Liên Xô.",
+    "Liên Xô tan rã cuối năm 1991, không phải năm 1989 (1989 là năm bức tường Béclin sụp đổ và Chiến tranh lạnh được tuyên bố chấm dứt).",
+    "SNG (Cộng đồng các quốc gia độc lập) là một tổ chức mới của các nước cộng hòa cũ, KHÔNG phải Liên Xô đổi tên.",
+    "Người đứng đầu Liên Xô lúc tan rã là Goócbachốp; Enxin là Tổng thống nước Nga, không phải Tổng thống Liên Xô."
+   ],
+   "aliases": [
+    "Liên bang Xô viết sụp đổ",
+    "Liên Xô sụp đổ 1991",
+    "sự tan rã của Liên Xô",
+    "Gorbachev cải tổ",
+    "perestroika"
+   ],
+   "year": 1991,
+   "date_start": "1985-03-11",
+   "date_end": "1991-12-26",
+   "place": "Liên Xô (Mátxcơva)",
+   "actors": [
+    "Goócbachốp",
+    "Enxin"
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 2
+    }
+   ],
+   "topic_title": "Liên Xô và các nước Đông Âu (1945 - 1991). Liên bang Nga (1991 - 2000)",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Li%C3%AAn_X%C3%B4_tan_r%C3%A3",
+    "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A3o_ch%C3%ADnh_Li%C3%AAn_X%C3%B4_n%C4%83m_1991",
+    "https://vi.wikipedia.org/wiki/C%E1%BB%99ng_%C4%91%E1%BB%93ng_c%C3%A1c_Qu%E1%BB%91c_gia_%C4%90%E1%BB%99c_l%E1%BA%ADp"
+   ]
+  },
+  {
+   "name": "Liên bang Nga (1991 - 2000)",
+   "kind": "period",
+   "summary": "Giai đoạn nước Nga kế tục Liên Xô, trải qua khủng hoảng kinh tế - chính trị trong thập niên 1990 rồi dần ổn định từ năm 2000.",
+   "facts": [
+    "Sau khi Liên Xô tan rã cuối năm 1991, Liên bang Nga là quốc gia kế tục Liên Xô, tiếp tục giữ ghế ủy viên thường trực Hội đồng Bảo an Liên hợp quốc.",
+    "Bôrít Enxin làm Tổng thống Nga từ ngày 10/7/1991 đến ngày 31/12/1999.",
+    "Từ đầu năm 1992, chương trình cải cách theo 'liệu pháp sốc' làm giá cả tăng vọt, nhiều nhà máy đóng cửa, đời sống nhân dân Nga rất khó khăn.",
+    "Năm 1998, chính phủ Nga mất khả năng trả nợ, gây khủng hoảng tài chính và đồng rúp mất giá mạnh.",
+    "Ngày 31/12/1999, Enxin từ chức và Vlađimia Putin lên làm quyền Tổng thống, sau đó trúng cử Tổng thống trong cuộc bầu cử tháng 3/2000, mở ra giai đoạn nước Nga dần phục hồi."
+   ],
+   "traps": [
+    "Putin lên nắm quyền cuối năm 1999 - đầu năm 2000, không phải năm 1991.",
+    "Liên bang Nga là quốc gia kế tục Liên Xô về mặt pháp lý, nhưng không phải là Liên Xô thu nhỏ hay SNG.",
+    "Thập niên 1990 ở Nga là giai đoạn khủng hoảng, không phải giai đoạn phát triển thần kì."
+   ],
+   "aliases": [
+    "Liên bang Nga",
+    "nước Nga sau 1991",
+    "Russia",
+    "Enxin",
+    "Yeltsin"
+   ],
+   "year": null,
+   "date_start": "1991",
+   "date_end": "2000",
+   "place": "Liên bang Nga",
+   "actors": [
+    "Bôrít Enxin",
+    "Vlađimia Putin"
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 2
+    }
+   ],
+   "topic_title": "Liên Xô và các nước Đông Âu (1945 - 1991). Liên bang Nga (1991 - 2000)",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Boris_Yeltsin",
+    "https://vi.wikipedia.org/wiki/Li%C3%AAn_X%C3%B4_tan_r%C3%A3"
+   ]
+  },
+  {
+   "name": "Nước Cộng hòa Nhân dân Trung Hoa ra đời",
+   "kind": "event",
+   "summary": "Ngày 1/10/1949, thắng lợi của Đảng Cộng sản Trung Quốc trong nội chiến đưa tới sự ra đời của nước Cộng hòa Nhân dân Trung Hoa.",
+   "facts": [
+    "Sau Chiến tranh thế giới thứ hai, Trung Quốc diễn ra cuộc nội chiến giữa Đảng Cộng sản Trung Quốc và Quốc dân đảng, kết thúc vào năm 1949 với thắng lợi của những người cộng sản.",
+    "Ngày 1/10/1949, nước Cộng hòa Nhân dân Trung Hoa được tuyên bố thành lập tại Bắc Kinh, đứng đầu là Đảng Cộng sản Trung Quốc do Mao Trạch Đông lãnh đạo.",
+    "Vì thất bại trong nội chiến, Tưởng Giới Thạch cùng chính quyền Trung Hoa Dân quốc phải rút chạy ra đảo Đài Loan năm 1949.",
+    "Sự ra đời của nước Cộng hòa Nhân dân Trung Hoa đã chấm dứt hơn 100 năm bị đế quốc nô dịch và tăng cường lực lượng cho hệ thống xã hội chủ nghĩa trên thế giới."
+   ],
+   "traps": [
+    "Nước Cộng hòa Nhân dân Trung Hoa thành lập ngày 1/10/1949, không phải năm 1945 hay 1946.",
+    "Sự kiện 1/10/1949 KẾT THÚC cuộc nội chiến Quốc - Cộng, chứ không phải mở đầu cuộc nội chiến.",
+    "Chính quyền rút ra Đài Loan là Trung Hoa Dân quốc của Tưởng Giới Thạch, không phải Đảng Cộng sản."
+   ],
+   "aliases": [
+    "CHND Trung Hoa",
+    "Trung Quốc",
+    "nước Trung Hoa mới",
+    "Quốc khánh Trung Quốc 1/10"
+   ],
+   "year": 1949,
+   "date_start": "1949-10-01",
+   "date_end": "1949-10-01",
+   "place": "Bắc Kinh, Trung Quốc",
+   "actors": [
+    "Mao Trạch Đông",
+    "Tưởng Giới Thạch",
+    "Đảng Cộng sản Trung Quốc"
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 3
+    }
+   ],
+   "topic_title": "Trung Quốc và bán đảo Triều Tiên",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/C%E1%BB%99ng_h%C3%B2a_Nh%C3%A2n_d%C3%A2n_Trung_Hoa",
+    "https://vi.wikipedia.org/wiki/L%E1%BB%8Bch_s%E1%BB%AD_C%E1%BB%99ng_h%C3%B2a_Nh%C3%A2n_d%C3%A2n_Trung_Hoa"
+   ]
+  },
+  {
+   "name": "Công cuộc cải cách - mở cửa ở Trung Quốc",
+   "kind": "movement",
+   "summary": "Đường lối cải cách kinh tế do Đặng Tiểu Bình khởi xướng từ tháng 12/1978, đưa Trung Quốc tăng trưởng nhanh trong nhiều thập niên.",
+   "facts": [
+    "Công cuộc cải cách - mở cửa của Trung Quốc bắt đầu từ tháng 12/1978, mốc thường được nhắc tới là ngày 18/12/1978 khi Hội nghị Trung ương 3 khóa XI của Đảng Cộng sản Trung Quốc họp.",
+    "Người khởi xướng và lãnh đạo đường lối cải cách - mở cửa là Đặng Tiểu Bình.",
+    "Nội dung cải cách gồm khoán ruộng đất cho hộ nông dân, mở cửa thu hút đầu tư nước ngoài, cho phép tư nhân kinh doanh và lập các đặc khu kinh tế ven biển.",
+    "Nhờ đường lối cải cách - mở cửa, kinh tế Trung Quốc tăng trưởng khoảng 9,5% mỗi năm trong giai đoạn 1978 - 2013, đến năm 2005 khu vực tư nhân đã chiếm khoảng 70% GDP.",
+    "Vì Trung Quốc chuyển từ nền kinh tế kế hoạch tập trung sang kinh tế thị trường có sự quản lí của Nhà nước, đời sống nhân dân được cải thiện rõ rệt và vị thế quốc tế của nước này tăng lên nhanh chóng."
+   ],
+   "traps": [
+    "Người khởi xướng cải cách - mở cửa là ĐẶNG TIỂU BÌNH, không phải Mao Trạch Đông.",
+    "Mốc mở đầu cải cách - mở cửa là tháng 12/1978, không phải năm 1949 hay 1976.",
+    "Cải cách - mở cửa là cải cách kinh tế chứ không phải xóa bỏ vai trò lãnh đạo của Đảng Cộng sản Trung Quốc."
+   ],
+   "aliases": [
+    "cải cách mở cửa",
+    "cải cách khai phóng",
+    "Đặng Tiểu Bình cải cách",
+    "reform and opening up"
+   ],
+   "year": 1978,
+   "date_start": "1978-12",
+   "date_end": "2000",
+   "place": "Trung Quốc",
+   "actors": [
+    "Đặng Tiểu Bình",
+    "Đảng Cộng sản Trung Quốc"
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 3
+    }
+   ],
+   "topic_title": "Trung Quốc và bán đảo Triều Tiên",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/C%E1%BA%A3i_c%C3%A1ch_kinh_t%E1%BA%BF_Trung_Qu%E1%BB%91c",
+    "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%B7ng_Ti%E1%BB%83u_B%C3%ACnh"
+   ]
+  },
+  {
+   "name": "Sự chia cắt bán đảo Triều Tiên và Chiến tranh Triều Tiên (1950 - 1953)",
+   "kind": "event",
+   "summary": "Bán đảo Triều Tiên bị chia đôi ở vĩ tuyến 38 sau năm 1945 và trở thành nơi đối đầu nóng bỏng giữa hai phe trong Chiến tranh lạnh.",
+   "facts": [
+    "Sau khi Nhật Bản đầu hàng năm 1945, quân đội Liên Xô giải giáp quân Nhật ở phía bắc còn quân đội Mĩ ở phía nam bán đảo Triều Tiên, lấy vĩ tuyến 38 làm ranh giới tạm thời.",
+    "Ngày 15/8/1948, Đại Hàn Dân Quốc (Hàn Quốc) được thành lập ở phía nam bán đảo.",
+    "Ngày 9/9/1948, Cộng hòa Dân chủ Nhân dân Triều Tiên được thành lập ở phía bắc bán đảo.",
+    "Vì hai nhà nước đối lập cùng tồn tại trên một dân tộc và mỗi bên dựa vào một siêu cường, bán đảo Triều Tiên trở thành điểm nóng và chiến tranh bùng nổ ngày 25/6/1950.",
+    "Chiến tranh Triều Tiên kéo dài từ ngày 25/6/1950 đến ngày 27/7/1953.",
+    "Ngày 27/7/1953, hai bên ký Hiệp định đình chiến, lập khu phi quân sự chia cắt hai miền, nhưng đến nay vẫn chưa có hiệp ước hòa bình chính thức."
+   ],
+   "traps": [
+    "Văn kiện ký ngày 27/7/1953 là HIỆP ĐỊNH ĐÌNH CHIẾN, không phải hiệp ước hòa bình, nên về pháp lý chiến tranh chưa thực sự kết thúc.",
+    "Bán đảo Triều Tiên chia cắt ở VĨ TUYẾN 38, đừng nhầm với vĩ tuyến 17 chia cắt Việt Nam theo Hiệp định Giơnevơ 1954.",
+    "Hai nhà nước Triều Tiên ra đời năm 1948, TRƯỚC khi chiến tranh nổ ra năm 1950."
+   ],
+   "aliases": [
+    "chiến tranh Triều Tiên",
+    "vĩ tuyến 38",
+    "Korean War",
+    "bán đảo Triều Tiên bị chia cắt"
+   ],
+   "year": 1950,
+   "date_start": "1950-06-25",
+   "date_end": "1953-07-27",
+   "place": "Bán đảo Triều Tiên",
+   "actors": [
+    "Cộng hòa Dân chủ Nhân dân Triều Tiên",
+    "Đại Hàn Dân Quốc",
+    "Liên Xô",
+    "Mĩ",
+    "Trung Quốc"
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 3
+    }
+   ],
+   "topic_title": "Trung Quốc và bán đảo Triều Tiên",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_tranh_Tri%E1%BB%81u_Ti%C3%AAn",
+    "https://vi.wikipedia.org/wiki/Ph%C3%A2n_chia_Tri%E1%BB%81u_Ti%C3%AAn"
+   ]
+  },
+  {
+   "name": "Các nước Đông Nam Á giành độc lập năm 1945",
+   "kind": "event",
+   "summary": "Nhân lúc phát xít Nhật đầu hàng Đồng minh tháng 8/1945, nhiều dân tộc Đông Nam Á nổi dậy giành và tuyên bố độc lập.",
+   "facts": [
+    "Tháng 8/1945, phát xít Nhật đầu hàng Đồng minh vô điều kiện, tạo ra thời cơ thuận lợi để nhân dân Đông Nam Á vùng dậy giành chính quyền.",
+    "Ngày 17/8/1945, Xucácnô đọc bản tuyên ngôn tuyên bố Inđônêxia độc lập, chỉ hai ngày sau khi Nhật đầu hàng.",
+    "Ngày 2/9/1945, Chủ tịch Hồ Chí Minh đọc Tuyên ngôn Độc lập khai sinh nước Việt Nam Dân chủ Cộng hòa sau thắng lợi của Cách mạng tháng Tám.",
+    "Chính vì Nhật đầu hàng khiến chính quyền thực dân cũ chưa kịp quay lại, các dân tộc Đông Nam Á mới giành được độc lập nhanh chóng trong tháng 8 - 9/1945.",
+    "Thực dân Hà Lan không chịu công nhận nền độc lập của Inđônêxia và gây chiến, phải đến tháng 12/1949 mới ký Hiệp định Bàn tròn La Hay công nhận.",
+    "Nhân dân Lào cũng nổi dậy năm 1945, nhưng phải đến ngày 22/10/1953 Pháp mới ký hiệp ước công nhận nền độc lập của Lào."
+   ],
+   "traps": [
+    "Nhật đầu hàng ĐỒNG MINH năm 1945 chứ không phải 'trao trả độc lập' cho các nước Đông Nam Á.",
+    "Ngày Inđônêxia tuyên bố độc lập là 17/8/1945, còn thời điểm Hà Lan buộc phải công nhận là tháng 12/1949 — hai mốc khác nhau.",
+    "Ba nước tuyên bố độc lập sớm nhất khu vực năm 1945 là Inđônêxia, Việt Nam và Lào, không phải Xingapo hay Malaixia."
+   ],
+   "aliases": [
+    "Đông Nam Á 1945",
+    "Indonesia độc lập 17/8/1945",
+    "Xucácnô",
+    "Sukarno",
+    "thời cơ ngàn năm có một"
+   ],
+   "year": 1945,
+   "date_start": "1945-08",
+   "date_end": "1945-09",
+   "place": "Đông Nam Á",
+   "actors": [
+    "Xucácnô",
+    "Hồ Chí Minh",
+    "phát xít Nhật"
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 4
+    }
+   ],
+   "topic_title": "Các nước Đông Nam Á",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Tuy%C3%AAn_ng%C3%B4n_%C4%91%E1%BB%99c_l%E1%BA%ADp_Indonesia",
+    "https://vi.wikipedia.org/wiki/L%C3%A0o",
+    "https://vi.wikipedia.org/wiki/H%E1%BB%93_Ch%C3%AD_Minh"
+   ]
+  },
+  {
+   "name": "Hiệp hội các quốc gia Đông Nam Á (ASEAN)",
+   "kind": "org",
+   "summary": "Tổ chức liên kết khu vực của các nước Đông Nam Á, thành lập ngày 8/8/1967 và mở rộng thành ASEAN 10 vào cuối thế kỉ XX.",
+   "facts": [
+    "ASEAN được thành lập ngày 8/8/1967 tại Băng Cốc (Thái Lan) với văn kiện là Tuyên bố Băng Cốc.",
+    "Năm nước sáng lập ASEAN là Inđônêxia, Malaixia, Philíppin, Xingapo và Thái Lan.",
+    "Ngày 24/2/1976, các nước ASEAN ký Hiệp ước Bali, xác định những nguyên tắc cơ bản: tôn trọng chủ quyền và toàn vẹn lãnh thổ của nhau, không can thiệp vào công việc nội bộ của nhau, giải quyết tranh chấp bằng biện pháp hòa bình và không dùng vũ lực.",
+    "Brunây gia nhập ASEAN ngày 8/1/1984, Việt Nam ngày 28/7/1995, Lào và Mianma ngày 23/7/1997, Campuchia ngày 30/4/1999, đưa tổ chức trở thành ASEAN 10.",
+    "Vì Hiệp ước Bali 1976 đặt ra những nguyên tắc chung, quan hệ giữa các nước trong khu vực chuyển từ đối đầu sang đối thoại và hợp tác."
+   ],
+   "traps": [
+    "Việt Nam gia nhập ASEAN ngày 28/7/1995 (thành viên thứ bảy), không phải năm 1997 hay 1999.",
+    "ASEAN thành lập tại BĂNG CỐC năm 1967; Bali (1976) chỉ là nơi ký Hiệp ước Thân thiện và Hợp tác, không phải nơi thành lập tổ chức.",
+    "Tuyên bố Băng Cốc 1967 khác Hiệp ước Bali 1976 — một là văn kiện thành lập, một là văn kiện xác lập nguyên tắc quan hệ."
+   ],
+   "aliases": [
+    "ASEAN",
+    "Hiệp hội các nước Đông Nam Á",
+    "Tuyên bố Băng Cốc",
+    "Hiệp ước Bali 1976",
+    "Hiệp ước Thân thiện và Hợp tác Đông Nam Á",
+    "TAC"
+   ],
+   "year": 1967,
+   "date_start": "1967-08-08",
+   "date_end": "1999-04-30",
+   "place": "Băng Cốc (Thái Lan)",
+   "actors": [
+    "Inđônêxia",
+    "Malaixia",
+    "Philíppin",
+    "Xingapo",
+    "Thái Lan"
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 4
+    }
+   ],
+   "topic_title": "Các nước Đông Nam Á",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/ASEAN",
+    "https://en.wikipedia.org/wiki/Treaty_of_Amity_and_Cooperation_in_Southeast_Asia"
+   ]
+  },
+  {
+   "name": "Nước Cộng hòa Dân chủ Nhân dân Lào thành lập",
+   "kind": "event",
+   "summary": "Ngày 2/12/1975, thắng lợi của cách mạng Lào chấm dứt chế độ quân chủ và lập ra nước Cộng hòa Dân chủ Nhân dân Lào.",
+   "facts": [
+    "Sau Chiến tranh thế giới thứ hai, nhân dân Lào tiến hành kháng chiến chống Pháp và đến ngày 22/10/1953 Pháp buộc phải công nhận nền độc lập của Lào.",
+    "Từ năm 1959 đến năm 1975, lực lượng Pathét Lào tiếp tục chiến đấu chống chính quyền được Mĩ hậu thuẫn, trong liên minh chiến đấu với cách mạng Việt Nam.",
+    "Ngày 2/12/1975, nước Cộng hòa Dân chủ Nhân dân Lào chính thức được thành lập sau khi Pathét Lào giành được chính quyền trong cả nước.",
+    "Vì chế độ quân chủ Vương quốc Lào bị lật đổ năm 1975, lịch sử Lào bước sang thời kì xây dựng đất nước theo con đường mới."
+   ],
+   "traps": [
+    "Ngày thành lập nước Cộng hòa Dân chủ Nhân dân Lào là 2/12/1975, khác với mốc 1953 khi Pháp công nhận độc lập.",
+    "Nước Lào mới ra đời sau Việt Nam thống nhất (30/4/1975) vài tháng, cùng năm 1975 — dễ nhầm là trước.",
+    "Pathét Lào là lực lượng cách mạng Lào, không phải một đảng của Việt Nam."
+   ],
+   "aliases": [
+    "CHDCND Lào",
+    "nước Lào",
+    "Pathét Lào",
+    "Pathet Lào",
+    "Lào độc lập 1975"
+   ],
+   "year": 1975,
+   "date_start": "1975-12-02",
+   "date_end": "1975-12-02",
+   "place": "Lào",
+   "actors": [
+    "Pathét Lào"
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 4
+    }
+   ],
+   "topic_title": "Các nước Đông Nam Á",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/L%C3%A0o"
+   ]
+  },
+  {
+   "name": "Ấn Độ giành độc lập",
+   "kind": "event",
+   "summary": "Sau cuộc đấu tranh bền bỉ, Ấn Độ tách khỏi Anh năm 1947 và trở thành nước cộng hòa năm 1950.",
+   "facts": [
+    "Ngày 15/8/1947, thực dân Anh chia Ấn Độ thành hai quốc gia tự trị theo tôn giáo là Ấn Độ và Pakixtan, chấm dứt ách thống trị trực tiếp của Anh.",
+    "Cuộc đấu tranh giành độc lập của Ấn Độ gắn liền với đường lối bất bạo động do Mahátma Ganđi lãnh đạo.",
+    "Giaoahaclan Nêru trở thành Thủ tướng đầu tiên của Ấn Độ từ năm 1947.",
+    "Ngày 26/1/1950, Hiến pháp Ấn Độ có hiệu lực và Ấn Độ chính thức trở thành nước cộng hòa dân chủ, thế tục; ngày này được lấy làm Ngày Cộng hòa của Ấn Độ.",
+    "Vì thực dân Anh chia đôi tiểu lục địa theo tiêu chí tôn giáo, mâu thuẫn Ấn Độ - Pakixtan kéo dài dai dẳng suốt nửa sau thế kỉ XX."
+   ],
+   "traps": [
+    "Ngày 15/8/1947 Ấn Độ mới được hưởng quy chế TỰ TRỊ (dominion); phải đến 26/1/1950 mới là nước cộng hòa độc lập hoàn toàn.",
+    "Ganđi là lãnh tụ tinh thần của phong trào, còn Thủ tướng đầu tiên là NÊRU — Ganđi chưa bao giờ làm thủ tướng.",
+    "Năm 1947 Ấn Độ bị chia thành hai nước (Ấn Độ và Pakixtan), không phải giành độc lập nguyên vẹn."
+   ],
+   "aliases": [
+    "Ấn Độ độc lập 1947",
+    "phương án Maobáttơn",
+    "Mountbatten Plan",
+    "Nêru",
+    "Nehru",
+    "Ganđi",
+    "Gandhi"
+   ],
+   "year": 1947,
+   "date_start": "1947-08-15",
+   "date_end": "1950-01-26",
+   "place": "Ấn Độ",
+   "actors": [
+    "Mahátma Ganđi",
+    "Giaoahaclan Nêru",
+    "thực dân Anh"
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 5
+    }
+   ],
+   "topic_title": "Ấn Độ và khu vực Trung Đông",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Ph%C3%A2n_chia_%E1%BA%A4n_%C4%90%E1%BB%99",
+    "https://vi.wikipedia.org/wiki/%E1%BA%A4n_%C4%90%E1%BB%99"
+   ]
+  },
+  {
+   "name": "Vấn đề Palextin và sự ra đời của Nhà nước Ixraen",
+   "kind": "event",
+   "summary": "Nghị quyết chia cắt Palextin năm 1947 và việc Ixraen tuyên bố lập quốc năm 1948 mở đầu cuộc xung đột Trung Đông kéo dài.",
+   "facts": [
+    "Ngày 29/11/1947, Đại hội đồng Liên hợp quốc thông qua nghị quyết chia vùng đất Palextin thành hai nhà nước — một của người Do Thái và một của người Ả Rập — còn Giêrudalem đặt dưới sự quản lí quốc tế.",
+    "Ngày 14/5/1948, Đavít Ben Gurion tuyên bố thành lập Nhà nước Ixraen trên vùng đất Palextin.",
+    "Ngay hôm sau, ngày 15/5/1948, quân đội bốn nước Ả Rập là Ai Cập, Xyri, Ngoại Gioócđani và Irắc tiến vào Palextin, mở đầu cuộc chiến tranh Ả Rập - Ixraen 1948.",
+    "Kết quả cuộc chiến 1948 là Ixraen kiểm soát phần lớn lãnh thổ được chia cho mình và cả nhiều vùng dự định dành cho người Ả Rập.",
+    "Vì nhà nước Ả Rập Palextin theo nghị quyết 1947 không được lập ra trên thực tế, khu vực Trung Đông rơi vào vòng xung đột dai dẳng suốt nửa sau thế kỉ XX."
+   ],
+   "traps": [
+    "Nghị quyết năm 1947 dự kiến HAI nhà nước, nhưng năm 1948 chỉ có Nhà nước Ixraen ra đời.",
+    "Ixraen tuyên bố thành lập ngày 14/5/1948 và chiến tranh nổ ra ngày 15/5/1948 — không phải chiến tranh có trước rồi mới lập nước.",
+    "Nghị quyết chia cắt Palextin là của Liên hợp quốc (29/11/1947), không phải của nước Anh."
+   ],
+   "aliases": [
+    "xung đột Trung Đông",
+    "vấn đề Palestine",
+    "Israel",
+    "Ixraen lập quốc",
+    "nghị quyết 181"
+   ],
+   "year": 1948,
+   "date_start": "1947-11-29",
+   "date_end": "1949",
+   "place": "Palextin, Trung Đông",
+   "actors": [
+    "Đavít Ben Gurion",
+    "Liên hợp quốc",
+    "các nước Ả Rập"
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 5
+    }
+   ],
+   "topic_title": "Ấn Độ và khu vực Trung Đông",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Israel"
+   ]
+  },
+  {
+   "name": "Năm châu Phi 1960",
+   "kind": "event",
+   "summary": "Năm 1960 được gọi là 'Năm châu Phi' vì có tới 17 quốc gia châu Phi tuyên bố độc lập trong cùng một năm.",
+   "facts": [
+    "Năm 1960 được lịch sử gọi là 'Năm châu Phi' vì trong năm đó có 17 nước châu Phi giành được độc lập.",
+    "Trong 17 nước giành độc lập năm 1960 có 14 nước vốn là thuộc địa của Pháp, 2 nước thuộc Anh và 1 nước thuộc Bỉ.",
+    "Nigiêria tuyên bố độc lập ngày 1/10/1960, Mađagátxca ngày 26/6/1960, Camơrun ngày 1/1/1960 — đều nằm trong 'Năm châu Phi'.",
+    "Chỉ trong năm 1960, số quốc gia độc lập ở châu Phi tăng từ 9 lên 26 nước, với dân số được giải phóng tăng từ 95 triệu lên 180 triệu người.",
+    "Vì Chiến tranh thế giới thứ hai làm suy yếu nghiêm trọng các đế quốc thực dân Anh, Pháp, Bỉ, phong trào giải phóng dân tộc ở châu Phi bùng lên mạnh mẽ và đạt đỉnh cao vào năm 1960."
+   ],
+   "traps": [
+    "'Năm châu Phi' là năm 1960 với 17 nước độc lập — không phải năm 1945, 1954 hay 1975.",
+    "Phần lớn các nước độc lập năm 1960 là thuộc địa của PHÁP (14 nước), không phải của Anh.",
+    "Châu Phi được mệnh danh 'Lục địa mới trỗi dậy' sau chiến tranh; đừng nhầm với Mĩ Latinh - 'Lục địa bùng cháy'."
+   ],
+   "aliases": [
+    "Year of Africa",
+    "1960 Năm châu Phi",
+    "phong trào giải phóng dân tộc châu Phi"
+   ],
+   "year": 1960,
+   "date_start": "1960-01-01",
+   "date_end": "1960-12-31",
+   "place": "Châu Phi",
+   "actors": [
+    "17 quốc gia châu Phi",
+    "thực dân Pháp",
+    "thực dân Anh",
+    "Bỉ"
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 6
+    }
+   ],
+   "topic_title": "Các nước châu Phi và Mĩ Latinh",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Year_of_Africa",
+    "https://vi.wikipedia.org/wiki/Ch%C3%A2u_Phi"
+   ]
+  },
+  {
+   "name": "Cuộc chiến tranh giành độc lập của Angiêri",
+   "kind": "event",
+   "summary": "Cuộc kháng chiến kéo dài gần 8 năm buộc Pháp phải công nhận nền độc lập của Angiêri năm 1962.",
+   "facts": [
+    "Cuộc chiến tranh giành độc lập của Angiêri chống thực dân Pháp bắt đầu ngày 1/11/1954 và kéo dài đến tháng 3/1962.",
+    "Tháng 3/1962, Pháp và đại diện Angiêri ký Hiệp định Êviêng tại Pháp để chấm dứt chiến tranh.",
+    "Ngày 1/7/1962, cuộc trưng cầu dân ý ở Angiêri cho kết quả 99,72% cử tri ủng hộ độc lập.",
+    "Ngày 3/7/1962, Angiêri được công nhận độc lập, chấm dứt hơn một thế kỉ ách thống trị của thực dân Pháp.",
+    "Vì thất bại ở Angiêri sau khi đã thất bại ở Đông Dương năm 1954, hệ thống thuộc địa của Pháp gần như sụp đổ hoàn toàn."
+   ],
+   "traps": [
+    "Angiêri giành độc lập năm 1962, sau Việt Nam (1954) — không phải trước.",
+    "Hiệp định chấm dứt chiến tranh Angiêri là Hiệp định Êviêng (1962), không phải Hiệp định Giơnevơ (1954, về Đông Dương).",
+    "Angiêri thuộc châu Phi và là thuộc địa của Pháp, không phải của Anh."
+   ],
+   "aliases": [
+    "Algérie",
+    "Algeria",
+    "chiến tranh Angiêri",
+    "Hiệp định Êviêng",
+    "Évian"
+   ],
+   "year": 1962,
+   "date_start": "1954-11-01",
+   "date_end": "1962-07-03",
+   "place": "Angiêri (Bắc Phi)",
+   "actors": [
+    "Mặt trận Giải phóng Dân tộc Angiêri",
+    "thực dân Pháp"
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 6
+    }
+   ],
+   "topic_title": "Các nước châu Phi và Mĩ Latinh",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_tranh_Alg%C3%A9rie"
+   ]
+  },
+  {
+   "name": "Xóa bỏ chế độ apácthai ở Nam Phi",
+   "kind": "event",
+   "summary": "Chế độ phân biệt chủng tộc ở Nam Phi bị xóa bỏ năm 1994 với cuộc bầu cử đa chủng tộc đầu tiên và việc Nenxơn Manđêla làm Tổng thống.",
+   "facts": [
+    "Chế độ apácthai (phân biệt chủng tộc) trở thành chính sách chính thức ở Nam Phi từ năm 1948, sau khi Đảng Quốc dân của người da trắng thắng cử.",
+    "Ngày 11/2/1990, Nenxơn Manđêla được trả tự do sau 27 năm bị giam cầm, mở đường cho tiến trình thương lượng xóa bỏ apácthai.",
+    "Đến năm 1991, những đạo luật phân biệt chủng tộc cuối cùng ở Nam Phi bị bãi bỏ.",
+    "Năm 1993, Manđêla và Tổng thống Đơ Clác cùng được trao Giải Nobel Hòa bình vì nỗ lực chấm dứt chế độ apácthai.",
+    "Ngày 27/4/1994, Nam Phi tổ chức cuộc bầu cử dân chủ đa chủng tộc đầu tiên, Đại hội Dân tộc Phi (ANC) giành 62% số phiếu.",
+    "Ngày 10/5/1994, Nenxơn Manđêla nhậm chức Tổng thống, trở thành tổng thống da đen đầu tiên của Nam Phi, đánh dấu chế độ apácthai bị xóa bỏ trên thực tế."
+   ],
+   "traps": [
+    "Manđêla nhậm chức Tổng thống năm 1994, còn năm 1990 chỉ là năm ông được RA TÙ — hai mốc khác nhau.",
+    "Chế độ apácthai tồn tại ở NAM PHI (1948 - 1994), đừng nhầm sang nước khác.",
+    "Manđêla bị giam 27 năm, không phải 17 hay 20 năm."
+   ],
+   "aliases": [
+    "apartheid",
+    "chế độ phân biệt chủng tộc Nam Phi",
+    "Nelson Mandela",
+    "Manđêla",
+    "ANC"
+   ],
+   "year": 1994,
+   "date_start": "1948",
+   "date_end": "1994-05-10",
+   "place": "Nam Phi",
+   "actors": [
+    "Nenxơn Manđêla",
+    "Đơ Clác",
+    "Đại hội Dân tộc Phi (ANC)"
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 6
+    }
+   ],
+   "topic_title": "Các nước châu Phi và Mĩ Latinh",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Apartheid",
+    "https://vi.wikipedia.org/wiki/Nelson_Mandela"
+   ]
+  },
+  {
+   "name": "Cách mạng Cuba",
+   "kind": "event",
+   "summary": "Cuộc cách mạng do Phiđen Cátxtơrô lãnh đạo lật đổ chế độ độc tài Batixta, thắng lợi ngày 1/1/1959.",
+   "facts": [
+    "Cách mạng Cuba mở đầu bằng cuộc tấn công vào trại lính Môncađa ngày 26/7/1953 do Phiđen Cátxtơrô chỉ huy, tuy thất bại nhưng đã thổi bùng phong trào đấu tranh.",
+    "Ngày 2/12/1956, con tàu Granma đưa Phiđen Cátxtơrô, Raun Cátxtơrô cùng khoảng 80 chiến sĩ từ Mêhicô trở về Cuba để xây dựng căn cứ và tiến hành chiến tranh du kích.",
+    "Ngày 1/1/1959, chế độ độc tài Batixta sụp đổ, Batixta bỏ chạy khỏi Cuba và cách mạng giành thắng lợi.",
+    "Vì cách mạng thắng lợi năm 1959, Cuba trở thành nước đi theo con đường xã hội chủ nghĩa đầu tiên ở khu vực Mĩ Latinh và trở thành lá cờ đầu của phong trào giải phóng dân tộc trong khu vực."
+   ],
+   "traps": [
+    "Ngày cách mạng Cuba thắng lợi là 1/1/1959; còn ngày 26/7/1953 chỉ là sự kiện MỞ ĐẦU (tấn công trại Môncađa).",
+    "Lãnh tụ của cách mạng Cuba là PHIĐEN CÁTXTƠRÔ; Chê Ghêvara là đồng chí chiến đấu, không phải người đứng đầu.",
+    "Tàu Granma về nước năm 1956, không phải 1959."
+   ],
+   "aliases": [
+    "Cuba",
+    "Fidel Castro",
+    "Phiđen Cátxtơrô",
+    "trại lính Moncada",
+    "tàu Granma",
+    "Lục địa bùng cháy"
+   ],
+   "year": 1959,
+   "date_start": "1953-07-26",
+   "date_end": "1959-01-01",
+   "place": "Cuba",
+   "actors": [
+    "Phiđen Cátxtơrô",
+    "Raun Cátxtơrô",
+    "Batixta"
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 6
+    }
+   ],
+   "topic_title": "Các nước châu Phi và Mĩ Latinh",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/C%C3%A1ch_m%E1%BA%A1ng_Cuba"
+   ]
+  },
+  {
+   "name": "Sự phát triển kinh tế Mĩ sau Chiến tranh thế giới thứ hai",
+   "kind": "period",
+   "summary": "Mĩ bước ra khỏi chiến tranh với nền kinh tế mạnh nhất thế giới và trở thành trung tâm kinh tế - tài chính lớn nhất trong nhiều thập niên.",
+   "facts": [
+    "Sau Chiến tranh thế giới thứ hai, lãnh thổ nước Mĩ không phải là chiến trường nên Mĩ hầu như không bị tàn phá, trong khi châu Âu và Nhật Bản kiệt quệ.",
+    "Kinh tế Mĩ tăng trưởng nhanh trong những năm sau 1945, đời sống người dân sung túc với ô tô, máy giặt, máy hút bụi và tiện nghi gia đình hiện đại.",
+    "Vì có tiềm lực kinh tế vượt trội, Mĩ đủ sức viện trợ 12,4 tỉ USD cho Tây Âu qua Kế hoạch Mácsan từ năm 1948 và giữ vai trò lãnh đạo phe tư bản chủ nghĩa.",
+    "Mĩ đầu tư khổng lồ cho chạy đua vũ trang với Liên Xô, đặc biệt là vũ khí hạt nhân, trong suốt thời kì Chiến tranh lạnh."
+   ],
+   "traps": [
+    "Lãnh thổ Mĩ KHÔNG bị chiến tranh tàn phá, đó là lí do kinh tế Mĩ vượt lên — đừng nói Mĩ 'phải khôi phục kinh tế sau chiến tranh' như Liên Xô hay Tây Âu.",
+    "Kế hoạch Mácsan là viện trợ Mĩ dành cho TÂY ÂU, không phải chương trình phục hồi kinh tế trong nước Mĩ.",
+    "Mĩ giàu mạnh nhất nhưng không giữ mãi thế độc quyền: đến những năm 1970 Tây Âu và Nhật Bản đã trở thành đối thủ cạnh tranh."
+   ],
+   "aliases": [
+    "nước Mĩ",
+    "Hoa Kỳ sau 1945",
+    "kinh tế Mĩ",
+    "USA"
+   ],
+   "year": null,
+   "date_start": "1945",
+   "date_end": "1973",
+   "place": "Hoa Kỳ",
+   "actors": [
+    "Hoa Kỳ"
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 7
+    }
+   ],
+   "topic_title": "Nước Mĩ",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/L%E1%BB%8Bch_s%E1%BB%AD_Hoa_K%E1%BB%B3_(1945%E2%80%931964)",
+    "https://vi.wikipedia.org/wiki/K%E1%BA%BF_ho%E1%BA%A1ch_Marshall"
+   ]
+  },
+  {
+   "name": "Chiến lược toàn cầu của Mĩ",
+   "kind": "concept",
+   "summary": "Đường lối đối ngoại xuyên suốt của Mĩ sau năm 1945 nhằm ngăn chặn chủ nghĩa cộng sản và vươn lên bá chủ thế giới.",
+   "facts": [
+    "Ngày 12/3/1947, Tổng thống Truman đọc thông điệp trước Quốc hội, cam kết viện trợ cho bất cứ nước nào bị đe dọa bởi chủ nghĩa cộng sản; văn kiện này gọi là Học thuyết Truman.",
+    "Tháng 6/1947, Ngoại trưởng Mácsan đề xuất kế hoạch viện trợ phục hồi kinh tế châu Âu, giúp Mĩ tập hợp các nước Tây Âu vào liên minh chống Liên Xô.",
+    "Ngày 4/4/1949, Mĩ cùng các nước phương Tây lập khối quân sự NATO để phòng thủ tập thể ở Bắc Đại Tây Dương.",
+    "Trong khuôn khổ chiến lược toàn cầu, Mĩ can thiệp vào nhiều nơi trên thế giới, trong đó có Triều Tiên và Việt Nam.",
+    "Vì Mĩ theo đuổi chính sách ngăn chặn chủ nghĩa cộng sản bằng viện trợ kinh tế và liên minh quân sự, châu Âu và thế giới bị chia thành hai khối đối lập."
+   ],
+   "traps": [
+    "Học thuyết Truman ra đời ngày 12/3/1947, các nhà sử học lấy mốc này làm thời điểm mở đầu Chiến tranh lạnh — không phải năm 1945.",
+    "Kế hoạch mang tên Ngoại trưởng MÁCSAN, còn học thuyết ngăn chặn cộng sản mang tên Tổng thống TRUMAN — đừng đảo hai tên.",
+    "Mục tiêu của chiến lược toàn cầu là ngăn chặn và đẩy lùi chủ nghĩa xã hội, đàn áp phong trào giải phóng dân tộc và khống chế các nước đồng minh, chứ không chỉ đơn thuần là viện trợ kinh tế."
+   ],
+   "aliases": [
+    "học thuyết Truman",
+    "Truman Doctrine",
+    "chính sách ngăn chặn",
+    "chiến lược toàn cầu của Mỹ"
+   ],
+   "year": 1947,
+   "date_start": "1947-03-12",
+   "date_end": "1991",
+   "place": "Hoa Kỳ và toàn thế giới",
+   "actors": [
+    "Tổng thống Truman",
+    "Ngoại trưởng Mácsan"
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 7
+    }
+   ],
+   "topic_title": "Nước Mĩ",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/H%E1%BB%8Dc_thuy%E1%BA%BFt_Truman",
+    "https://vi.wikipedia.org/wiki/NATO",
+    "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_tranh_L%E1%BA%A1nh"
+   ]
+  },
+  {
+   "name": "Kế hoạch Mácsan",
+   "kind": "event",
+   "summary": "Chương trình viện trợ của Mĩ giúp Tây Âu phục hồi kinh tế sau chiến tranh, đồng thời kéo Tây Âu vào quỹ đạo chống Liên Xô.",
+   "facts": [
+    "Ngày 5/6/1947, Ngoại trưởng Mĩ Gioóc Mácsan đọc diễn văn tại Đại học Havớt, đề xuất kế hoạch phục hồi kinh tế châu Âu.",
+    "Quốc hội Mĩ phê chuẩn khoản viện trợ 12,4 tỉ USD, thực hiện trong 4 năm từ năm 1948 đến năm 1951.",
+    "Nhờ kế hoạch Mácsan, sản lượng công nghiệp của Tây Âu tăng khoảng 35% trong những năm 1948 - 1952 và vượt mức trước chiến tranh.",
+    "Vì nhận viện trợ Mĩ, các nước Tây Âu phục hồi nhanh nhưng ngày càng lệ thuộc vào Mĩ về kinh tế và chính trị.",
+    "Liên Xô và các nước Đông Âu từ chối tham gia kế hoạch Mácsan và lập Hội đồng Tương trợ Kinh tế (SEV) vào tháng 1/1949, khiến châu Âu bị phân chia thành hai khối kinh tế đối lập."
+   ],
+   "traps": [
+    "Kế hoạch mang tên Ngoại trưởng Mácsan (đề xuất 6/1947), không phải tên Tổng thống Truman.",
+    "Kế hoạch Mácsan viện trợ cho TÂY ÂU; Đông Âu theo Liên Xô đã từ chối tham gia.",
+    "Diễn văn đề xuất là tháng 6/1947 nhưng viện trợ thực hiện từ năm 1948 — không phải giải ngân ngay trong năm 1947."
+   ],
+   "aliases": [
+    "Marshall Plan",
+    "kế hoạch Mac-san",
+    "kế hoạch phục hồi châu Âu",
+    "ERP"
+   ],
+   "year": 1947,
+   "date_start": "1947-06-05",
+   "date_end": "1951",
+   "place": "Tây Âu",
+   "actors": [
+    "Gioóc Mácsan",
+    "Hoa Kỳ",
+    "các nước Tây Âu"
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 8
+    }
+   ],
+   "topic_title": "Tây Âu",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/K%E1%BA%BF_ho%E1%BA%A1ch_Marshall",
+    "https://vi.wikipedia.org/wiki/H%E1%BB%99i_%C4%91%E1%BB%93ng_T%C6%B0%C6%A1ng_tr%E1%BB%A3_Kinh_t%E1%BA%BF"
+   ]
+  },
+  {
+   "name": "Liên minh châu Âu (EU)",
+   "kind": "org",
+   "summary": "Tổ chức liên kết khu vực lớn nhất hành tinh, đi từ Cộng đồng Kinh tế châu Âu năm 1957 đến Liên minh châu Âu năm 1993 và đồng tiền chung euro.",
+   "facts": [
+    "Năm 1957, sáu nước Tây Âu ký Hiệp ước Rôma thành lập Cộng đồng Kinh tế châu Âu (EEC), hiệp ước có hiệu lực từ ngày 1/1/1958.",
+    "Ngày 7/2/1992, các nước thành viên ký Hiệp ước Maxtrích tại Hà Lan, xác lập ba trụ cột của Liên minh châu Âu.",
+    "Hiệp ước Maxtrích có hiệu lực ngày 1/11/1993, từ đó tổ chức chính thức mang tên Liên minh châu Âu (EU).",
+    "Đồng tiền chung euro được đưa vào giao dịch điện tử từ ngày 1/1/1999 và tiền giấy, tiền xu euro chính thức lưu hành từ ngày 1/1/2002 tại 12 nước thành viên.",
+    "Vì các nước Tây Âu có chung nền văn minh, kinh tế gắn bó và muốn thoát dần sự lệ thuộc vào Mĩ, xu hướng liên kết khu vực ngày càng được đẩy mạnh và trở thành tổ chức liên kết chặt chẽ nhất thế giới."
+   ],
+   "traps": [
+    "Tên gọi 'Liên minh châu Âu' có từ ngày 1/11/1993 khi Hiệp ước Maxtrích có hiệu lực; hiệp ước được KÝ năm 1992 — hai mốc khác nhau.",
+    "Đồng euro dùng trong giao dịch từ 1999 nhưng tiền mặt euro chỉ lưu hành từ 1/1/2002.",
+    "EEC (1957) là tiền thân của EU chứ không phải cùng một tổ chức với tên khác ngay từ đầu."
+   ],
+   "aliases": [
+    "EU",
+    "Liên minh châu Âu",
+    "Cộng đồng Kinh tế châu Âu",
+    "EEC",
+    "Hiệp ước Maastricht",
+    "Maxtrích",
+    "đồng euro"
+   ],
+   "year": 1993,
+   "date_start": "1957",
+   "date_end": "2002-01-01",
+   "place": "Tây Âu",
+   "actors": [
+    "Các nước thành viên EU"
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 8
+    }
+   ],
+   "topic_title": "Tây Âu",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Li%C3%AAn_minh_ch%C3%A2u_%C3%82u"
+   ]
+  },
+  {
+   "name": "Hiến pháp 1947 và Hiệp ước an ninh Mĩ - Nhật",
+   "kind": "treaty",
+   "summary": "Hai văn kiện định hình nước Nhật sau chiến tranh: hiến pháp hòa bình từ bỏ chiến tranh và hiệp ước an ninh đưa Nhật vào ô bảo hộ của Mĩ.",
+   "facts": [
+    "Hiến pháp mới của Nhật Bản được thông qua ngày 3/11/1946 và chính thức có hiệu lực ngày 3/5/1947, từ đó ngày 3/5 trở thành Ngày Hiến pháp của Nhật Bản.",
+    "Điều 9 Hiến pháp Nhật Bản quy định nhân dân Nhật vĩnh viễn từ bỏ chiến tranh và việc dùng vũ lực để giải quyết tranh chấp quốc tế, không duy trì quân đội và không thừa nhận quyền tham chiến.",
+    "Ngày 8/9/1951, Nhật Bản ký Hiệp ước hòa bình San Francisco, chấm dứt tình trạng chiến tranh và chế độ chiếm đóng; hiệp ước có hiệu lực ngày 28/4/1952.",
+    "Cùng ngày 8/9/1951, Nhật Bản ký Hiệp ước an ninh với Mĩ, chấp nhận đặt mình dưới 'ô bảo hộ hạt nhân' và cho Mĩ đóng quân trên đất Nhật.",
+    "Vì chi phí quốc phòng bị giới hạn theo hiến pháp và được Mĩ bảo trợ an ninh, Nhật Bản dồn được nguồn lực cho phát triển kinh tế, đây là một nguyên nhân quan trọng của sự phát triển 'thần kì'."
+   ],
+   "traps": [
+    "Hiến pháp Nhật thông qua năm 1946 nhưng CÓ HIỆU LỰC ngày 3/5/1947 — mốc thường được hỏi là 1947.",
+    "Hiệp ước hòa bình San Francisco và Hiệp ước an ninh Mĩ - Nhật được ký CÙNG NGÀY 8/9/1951, đừng tách ra hai năm khác nhau.",
+    "Điều 9 quy định Nhật từ bỏ chiến tranh, chứ không phải cấm Nhật phát triển kinh tế hay công nghiệp."
+   ],
+   "aliases": [
+    "Hiến pháp hòa bình Nhật Bản",
+    "Điều 9 Hiến pháp Nhật",
+    "Hiệp ước San Francisco",
+    "Hiệp ước an ninh Mỹ - Nhật",
+    "Hiệp ước Xan Phranxixcô"
+   ],
+   "year": 1951,
+   "date_start": "1947-05-03",
+   "date_end": "1952-04-28",
+   "place": "Nhật Bản; San Francisco (Mĩ)",
+   "actors": [
+    "Nhật Bản",
+    "Hoa Kỳ"
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 9
+    }
+   ],
+   "topic_title": "Nhật Bản",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Hi%E1%BA%BFn_ph%C3%A1p_Nh%E1%BA%ADt_B%E1%BA%A3n",
+    "https://vi.wikipedia.org/wiki/Hi%E1%BB%87p_%C6%B0%E1%BB%9Bc_San_Francisco"
+   ]
+  },
+  {
+   "name": "Sự phát triển 'thần kì' của kinh tế Nhật Bản",
+   "kind": "period",
+   "summary": "Từ một nước bại trận kiệt quệ, Nhật Bản vươn lên thành một trong ba trung tâm kinh tế - tài chính lớn của thế giới.",
+   "facts": [
+    "Sau năm 1945, Nhật Bản là nước bại trận, kinh tế bị tàn phá nặng nề và phải bắt đầu công cuộc tái thiết.",
+    "Chiến tranh Triều Tiên nổ ra năm 1950 đem lại cho Nhật Bản nhiều đơn đặt hàng quân sự của Mĩ, làm sản lượng công nghiệp, nhất là đóng tàu và sắt thép, tăng nhanh — đây được coi là 'ngọn gió thần' với kinh tế Nhật.",
+    "Trong thập niên 1960, kinh tế Nhật Bản tăng trưởng trung bình khoảng 10% mỗi năm, sau đó chậm lại còn khoảng 5% trong thập niên 1970 và 4% trong thập niên 1980.",
+    "Nhờ tốc độ tăng trưởng cao liên tục, Nhật Bản trở thành một trong ba trung tâm kinh tế - tài chính lớn của thế giới cùng Mĩ và Tây Âu.",
+    "Nhật Bản giữ vị trí nền kinh tế lớn thứ hai thế giới cho tới năm 2010 thì bị Trung Quốc vượt qua."
+   ],
+   "traps": [
+    "Giai đoạn tăng trưởng cao nhất của Nhật là thập niên 1960 (khoảng 10%/năm), không phải thập niên 1990 — những năm 1990 Nhật rơi vào trì trệ kéo dài.",
+    "Chiến tranh Triều Tiên (1950 - 1953) là cơ hội làm giàu cho kinh tế Nhật, chứ không phải nguyên nhân tàn phá kinh tế Nhật.",
+    "Nhật Bản là nền kinh tế lớn thứ hai thế giới, bị Trung Quốc vượt năm 2010 — không phải bị vượt ngay từ thập niên 1980."
+   ],
+   "aliases": [
+    "thần kì Nhật Bản",
+    "kinh tế Nhật Bản sau chiến tranh",
+    "Japanese economic miracle",
+    "ngọn gió thần"
+   ],
+   "year": null,
+   "date_start": "1952",
+   "date_end": "1973",
+   "place": "Nhật Bản",
+   "actors": [
+    "Nhật Bản"
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 9
+    }
+   ],
+   "topic_title": "Nhật Bản",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Kinh_t%E1%BA%BF_Nh%E1%BA%ADt_B%E1%BA%A3n",
+    "https://vi.wikipedia.org/wiki/Th%E1%BA%A7n_k%E1%BB%B3_kinh_t%E1%BA%BF_Nh%E1%BA%ADt_B%E1%BA%A3n"
+   ]
+  },
+  {
+   "name": "Chiến tranh lạnh",
+   "kind": "period",
+   "summary": "Tình trạng đối đầu căng thẳng kéo dài hơn bốn thập niên giữa hai phe do Mĩ và Liên Xô đứng đầu, không có xung đột quân sự trực tiếp giữa hai siêu cường.",
+   "facts": [
+    "Chiến tranh lạnh kéo dài từ năm 1947 đến năm 1991, mở đầu bằng Học thuyết Truman ngày 12/3/1947 và kết thúc khi Liên Xô tan rã.",
+    "Đây là cuộc đối đầu căng thẳng về chính trị, kinh tế, quân sự và ý thức hệ giữa phe tư bản chủ nghĩa do Mĩ đứng đầu và phe xã hội chủ nghĩa do Liên Xô đứng đầu.",
+    "Trong Chiến tranh lạnh, hai siêu cường chạy đua vũ trang quyết liệt, đặc biệt là vũ khí hạt nhân, đẩy thế giới luôn ở bên bờ một cuộc chiến tranh hủy diệt.",
+    "Vì hai siêu cường tránh đụng đầu trực tiếp, cuộc đối đầu được biểu hiện qua các cuộc chiến tranh cục bộ như chiến tranh Triều Tiên 1950 - 1953 và chiến tranh Việt Nam.",
+    "Chi phí khổng lồ cho chạy đua vũ trang làm cả Mĩ và Liên Xô đều suy giảm thế mạnh, đó là lí do hai bên đi tới hòa hoãn và tuyên bố chấm dứt Chiến tranh lạnh tháng 12/1989."
+   ],
+   "traps": [
+    "'Lạnh' nghĩa là Mĩ và Liên Xô không đánh nhau trực tiếp, NHƯNG vẫn có nhiều cuộc chiến tranh cục bộ ở Triều Tiên, Việt Nam, Trung Đông.",
+    "Chiến tranh lạnh được tuyên bố chấm dứt tháng 12/1989, còn trật tự hai cực chỉ sụp đổ hẳn khi Liên Xô tan rã cuối năm 1991.",
+    "Mốc mở đầu Chiến tranh lạnh là Học thuyết Truman (3/1947), không phải Hội nghị Ianta (2/1945)."
+   ],
+   "aliases": [
+    "Cold War",
+    "chiến tranh lạnh Mĩ - Xô",
+    "thời kì Chiến tranh lạnh"
+   ],
+   "year": null,
+   "date_start": "1947",
+   "date_end": "1991",
+   "place": "Toàn thế giới",
+   "actors": [
+    "Hoa Kỳ",
+    "Liên Xô"
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 10
+    }
+   ],
+   "topic_title": "Quan hệ quốc tế trong và sau thời kì Chiến tranh lạnh",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_tranh_L%E1%BA%A1nh",
+    "https://vi.wikipedia.org/wiki/H%E1%BB%8Dc_thuy%E1%BA%BFt_Truman"
+   ]
+  },
+  {
+   "name": "NATO, SEV và khối Vácsava",
+   "kind": "org",
+   "summary": "Ba tổ chức tiêu biểu cho sự đối đầu hai khối trong Chiến tranh lạnh: liên minh quân sự của phương Tây, tổ chức kinh tế và liên minh quân sự của phe xã hội chủ nghĩa.",
+   "facts": [
+    "Tháng 1/1949, Liên Xô cùng Bungari, Tiệp Khắc, Hungari, Ba Lan, Rumani thành lập Hội đồng Tương trợ Kinh tế (SEV) để hợp tác kinh tế và khoa học - kĩ thuật giữa các nước xã hội chủ nghĩa.",
+    "Ngày 4/4/1949, Mĩ và các nước phương Tây ký Hiệp ước Bắc Đại Tây Dương, lập khối quân sự NATO nhằm phòng thủ tập thể trước Liên Xô.",
+    "Ngày 14/5/1955, Liên Xô và bảy nước Đông Âu ký Hiệp ước Vácsava tại thủ đô Ba Lan, lập liên minh phòng thủ quân sự chung.",
+    "Chính vì Tây Đức được kết nạp vào NATO tháng 5/1955, Liên Xô và các nước Đông Âu mới lập khối Vácsava để đối phó — Vácsava ra đời SAU và để đáp lại NATO.",
+    "SEV chấm dứt hoạt động ngày 28/6/1991 và khối Vácsava giải thể trong năm 1991, đánh dấu sự tan rã của hệ thống hai khối đối đầu ở châu Âu."
+   ],
+   "traps": [
+    "NATO ra đời năm 1949, TRƯỚC khối Vácsava (1955); Vácsava là phản ứng đáp lại NATO, không phải ngược lại.",
+    "SEV là tổ chức hợp tác KINH TẾ, còn Vácsava là liên minh QUÂN SỰ — đừng đánh đồng hai tổ chức.",
+    "Cả SEV và khối Vácsava đều giải thể năm 1991, cùng thời điểm Liên Xô tan rã."
+   ],
+   "aliases": [
+    "NATO",
+    "Hiệp ước Bắc Đại Tây Dương",
+    "khối Vacsava",
+    "Hiệp ước Vacsava",
+    "Warszawa",
+    "SEV",
+    "COMECON",
+    "Hội đồng Tương trợ Kinh tế"
+   ],
+   "year": 1949,
+   "date_start": "1949-01",
+   "date_end": "1991",
+   "place": "Châu Âu",
+   "actors": [
+    "Hoa Kỳ",
+    "Liên Xô",
+    "các nước Đông Âu",
+    "các nước Tây Âu"
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 10
+    }
+   ],
+   "topic_title": "Quan hệ quốc tế trong và sau thời kì Chiến tranh lạnh",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/NATO",
+    "https://vi.wikipedia.org/wiki/Kh%E1%BB%91i_Warszawa",
+    "https://vi.wikipedia.org/wiki/H%E1%BB%99i_%C4%91%E1%BB%93ng_T%C6%B0%C6%A1ng_tr%E1%BB%A3_Kinh_t%E1%BA%BF"
+   ]
+  },
+  {
+   "name": "Hội nghị Manta và sự chấm dứt Chiến tranh lạnh",
+   "kind": "event",
+   "summary": "Tháng 12/1989, hai nhà lãnh đạo Xô - Mĩ gặp nhau ở đảo Manta và cùng tuyên bố chấm dứt Chiến tranh lạnh.",
+   "facts": [
+    "Ngày 9/11/1989, bức tường Béclin sụp đổ, trở thành biểu tượng cho sự kết thúc thời kì đối đầu Đông - Tây ở châu Âu.",
+    "Tháng 12/1989, tại đảo Manta trên Địa Trung Hải, Tổng thống Liên Xô Goócbachốp và Tổng thống Mĩ Busơ (cha) gặp nhau và tuyên bố chấm dứt Chiến tranh lạnh.",
+    "Vì cuộc chạy đua vũ trang kéo dài làm cả hai siêu cường suy yếu về kinh tế, Liên Xô và Mĩ buộc phải chuyển từ đối đầu sang đối thoại và hòa hoãn.",
+    "Sau tuyên bố Manta, chế độ xã hội chủ nghĩa ở các nước Đông Âu lần lượt sụp đổ trong những năm 1989 - 1991 và Liên Xô tan rã ngày 26/12/1991, chấm dứt trật tự hai cực Ianta."
+   ],
+   "traps": [
+    "Hội nghị MANTA (12/1989) tuyên bố chấm dứt Chiến tranh lạnh, hoàn toàn khác Hội nghị IANTA (2/1945) lập ra trật tự hai cực — hai tên rất dễ nhầm.",
+    "Chiến tranh lạnh chấm dứt năm 1989 nhưng Liên Xô còn tồn tại tới cuối năm 1991.",
+    "Bức tường Béclin sụp đổ ngày 9/11/1989, trước hội nghị Manta chỉ vài tuần, chứ không phải sau đó."
+   ],
+   "aliases": [
+    "Hội nghị Manta",
+    "Malta Summit",
+    "cuộc gặp Manta 12/1989",
+    "Goócbachốp - Busơ",
+    "chấm dứt Chiến tranh lạnh"
+   ],
+   "year": 1989,
+   "date_start": "1989-12",
+   "date_end": "1989-12",
+   "place": "Đảo Manta, Địa Trung Hải",
+   "actors": [
+    "Goócbachốp",
+    "Busơ (cha)"
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 10
+    }
+   ],
+   "topic_title": "Quan hệ quốc tế trong và sau thời kì Chiến tranh lạnh",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_tranh_L%E1%BA%A1nh"
+   ]
+  },
+  {
+   "name": "Cách mạng khoa học - công nghệ nửa sau thế kỉ XX",
+   "kind": "concept",
+   "summary": "Bước phát triển nhảy vọt của khoa học - kĩ thuật từ giữa thế kỉ XX, trong đó khoa học trở thành lực lượng sản xuất trực tiếp.",
+   "facts": [
+    "Cách mạng khoa học - kĩ thuật hiện đại bắt đầu từ giữa thế kỉ XX, với đặc điểm lớn nhất là khoa học trở thành lực lượng sản xuất trực tiếp, mọi phát minh kĩ thuật đều bắt nguồn từ nghiên cứu khoa học.",
+    "Ngày 4/10/1957, Liên Xô phóng vệ tinh Sputnik 1, mở đầu kỉ nguyên chinh phục vũ trụ của loài người.",
+    "Ngày 12/4/1961, Yuri Gagarin thực hiện chuyến bay vào vũ trụ đầu tiên của loài người trên tàu Phương Đông 1.",
+    "Ngày 5/7/1996, cừu Đôly ra đời tại Viện Roslin ở Êđinbơgơ (Xcốtlen), là động vật có vú đầu tiên được nhân bản vô tính từ tế bào trưởng thành.",
+    "Dự án bản đồ gen người khởi động năm 1990, công bố bản thảo ngày 26/6/2000 và hoàn thành vào tháng 4/2003, giải mã hơn 3 tỉ cặp base của bộ gen người.",
+    "Vì khoa học - công nghệ phát triển vượt bậc, năng suất lao động tăng cao và cơ cấu kinh tế thế giới thay đổi, tạo cơ sở vật chất - kĩ thuật cho xu thế toàn cầu hóa."
+   ],
+   "traps": [
+    "Cừu Đôly ra đời năm 1996 (được công bố năm 1997), không phải năm 2000.",
+    "Bản đồ gen người công bố BẢN THẢO năm 2000 và HOÀN THÀNH năm 2003 — hai mốc khác nhau.",
+    "Đặc trưng cốt lõi của cách mạng khoa học - công nghệ là khoa học đi trước và trở thành lực lượng sản xuất trực tiếp, chứ không phải chỉ là chế tạo được nhiều máy móc."
+   ],
+   "aliases": [
+    "cách mạng khoa học kĩ thuật",
+    "cách mạng khoa học công nghệ",
+    "cừu Dolly",
+    "Đôly",
+    "dự án bản đồ gen người",
+    "Human Genome Project"
+   ],
+   "year": null,
+   "date_start": "1950",
+   "date_end": "2003",
+   "place": "Toàn thế giới",
+   "actors": [
+    "Liên Xô",
+    "Viện Roslin",
+    "các nhà khoa học quốc tế"
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 11
+    }
+   ],
+   "topic_title": "Cách mạng khoa học - công nghệ và xu thế toàn cầu hoá nửa sau thế kỉ XX",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Sputnik_1",
+    "https://vi.wikipedia.org/wiki/Yuri_Gagarin",
+    "https://vi.wikipedia.org/wiki/C%E1%BB%ABu_Dolly",
+    "https://vi.wikipedia.org/wiki/D%E1%BB%B1_%C3%A1n_B%E1%BA%A3n_%C4%91%E1%BB%93_gene_Ng%C6%B0%E1%BB%9Di"
+   ]
+  },
+  {
+   "name": "Xu thế toàn cầu hóa",
+   "kind": "concept",
+   "summary": "Xu thế khách quan từ những thập niên cuối thế kỉ XX làm các quốc gia ngày càng phụ thuộc lẫn nhau về kinh tế, công nghệ và văn hóa.",
+   "facts": [
+    "Toàn cầu hóa là quá trình các quốc gia và con người ngày càng phụ thuộc lẫn nhau về kinh tế, công nghệ, môi trường, văn hóa và xã hội, trở thành xu thế nổi bật từ những thập niên cuối thế kỉ XX.",
+    "Biểu hiện của toàn cầu hóa gồm thương mại quốc tế tăng nhanh hơn tốc độ tăng trưởng kinh tế, dòng vốn đầu tư quốc tế mở rộng, các công ty xuyên quốc gia lớn mạnh và dữ liệu chảy xuyên biên giới qua Internet, vệ tinh.",
+    "Ngày 1/1/1995, Tổ chức Thương mại Thế giới (WTO) chính thức hoạt động, kế tục Hiệp định chung về thuế quan và thương mại (GATT) có từ năm 1948, trụ sở đặt tại Giơnevơ (Thụy Sĩ).",
+    "Việt Nam chính thức gia nhập WTO ngày 11/1/2007.",
+    "Vì toàn cầu hóa mở ra cơ hội tiếp cận vốn, thị trường và công nghệ nhưng cũng làm tăng cạnh tranh, nó vừa là thời cơ vừa là thách thức, đồng thời khoét sâu khoảng cách giàu nghèo giữa các nước."
+   ],
+   "traps": [
+    "WTO ra đời ngày 1/1/1995 kế tục GATT, WTO không phải cơ quan của Liên hợp quốc.",
+    "Toàn cầu hóa là xu thế khách quan, không thể đảo ngược, mang cả mặt tích cực lẫn tiêu cực — không nên chỉ nói một chiều.",
+    "Việt Nam gia nhập WTO năm 2007, sau khi gia nhập ASEAN năm 1995."
+   ],
+   "aliases": [
+    "globalization",
+    "toàn cầu hoá",
+    "WTO",
+    "Tổ chức Thương mại Thế giới",
+    "GATT"
+   ],
+   "year": 1995,
+   "date_start": "1980",
+   "date_end": "2000",
+   "place": "Toàn thế giới",
+   "actors": [
+    "WTO",
+    "IMF",
+    "Ngân hàng Thế giới",
+    "các công ty xuyên quốc gia"
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 11
+    }
+   ],
+   "topic_title": "Cách mạng khoa học - công nghệ và xu thế toàn cầu hoá nửa sau thế kỉ XX",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/To%C3%A0n_c%E1%BA%A7u_h%C3%B3a",
+    "https://vi.wikipedia.org/wiki/T%E1%BB%95_ch%E1%BB%A9c_Th%C6%B0%C6%A1ng_m%E1%BA%A1i_Th%E1%BA%BF_gi%E1%BB%9Bi"
+   ]
+  },
+  {
+   "name": "Lịch sử thế giới hiện đại 1945 - 2000",
+   "kind": "period",
+   "summary": "Tổng kết những nội dung chủ yếu của lịch sử thế giới từ sau Chiến tranh thế giới thứ hai đến hết thế kỉ XX.",
+   "facts": [
+    "Từ năm 1945 đến năm 1991, quan hệ quốc tế bị chi phối bởi trật tự hai cực Ianta và tình trạng Chiến tranh lạnh giữa hai siêu cường Liên Xô và Mĩ.",
+    "Chủ nghĩa xã hội từ một nước đã trở thành hệ thống thế giới, nhưng rồi lâm vào khủng hoảng và sụp đổ ở Đông Âu, Liên Xô trong những năm 1989 - 1991.",
+    "Phong trào giải phóng dân tộc thắng lợi rộng khắp làm hệ thống thuộc địa của chủ nghĩa thực dân sụp đổ, tiêu biểu là 'Năm châu Phi' 1960 với 17 nước độc lập.",
+    "Chủ nghĩa tư bản phát triển nhanh và hình thành ba trung tâm kinh tế - tài chính lớn là Mĩ, Tây Âu và Nhật Bản.",
+    "Cách mạng khoa học - công nghệ đưa tới xu thế toàn cầu hóa, khiến các quốc gia phụ thuộc lẫn nhau ngày càng chặt chẽ.",
+    "Vì Chiến tranh lạnh chấm dứt tháng 12/1989 và Liên Xô tan rã ngày 26/12/1991, thế giới bước sang thời kì mới với xu thế hòa bình, hợp tác và lấy phát triển kinh tế làm trọng điểm."
+   ],
+   "traps": [
+    "Sau năm 1991 thế giới chuyển dần sang xu thế đa cực, không còn trật tự hai cực.",
+    "Giai đoạn 1945 - 2000 được gọi là lịch sử thế giới hiện đại phần sau; mốc mở đầu là năm 1945 chứ không phải 1917.",
+    "Chủ nghĩa xã hội sụp đổ ở Liên Xô và Đông Âu, nhưng vẫn tồn tại ở một số nước như Việt Nam, Trung Quốc, Cuba, Lào."
+   ],
+   "aliases": [
+    "tổng kết lịch sử thế giới hiện đại",
+    "lịch sử thế giới 1945-2000",
+    "thế giới sau Chiến tranh thế giới thứ hai"
+   ],
+   "year": null,
+   "date_start": "1945",
+   "date_end": "2000",
+   "place": "Toàn thế giới",
+   "actors": [
+    "Liên Xô",
+    "Hoa Kỳ",
+    "các nước Á - Phi - Mĩ Latinh"
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 12
+    }
+   ],
+   "topic_title": "Tổng kết lịch sử thế giới hiện đại từ năm 1945 đến năm 2000",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_tranh_L%E1%BA%A1nh",
+    "https://vi.wikipedia.org/wiki/Li%C3%AAn_X%C3%B4_tan_r%C3%A3",
+    "https://en.wikipedia.org/wiki/Year_of_Africa"
+   ]
+  },
+  {
+   "name": "Lịch sử Việt Nam 1919 - 2000",
+   "kind": "period",
+   "summary": "Tổng kết các thời kì lớn của lịch sử Việt Nam từ sau Chiến tranh thế giới thứ nhất đến cuối thế kỉ XX.",
+   "facts": [
+    "Thời kì 1919 - 1930 là giai đoạn phong trào dân tộc dân chủ phát triển, kết thúc bằng sự ra đời của Đảng Cộng sản Việt Nam năm 1930.",
+    "Thời kì 1930 - 1945 là quá trình đấu tranh giành chính quyền, đỉnh cao là Cách mạng tháng Tám và bản Tuyên ngôn Độc lập ngày 2/9/1945 khai sinh nước Việt Nam Dân chủ Cộng hòa.",
+    "Thời kì 1945 - 1954 là chín năm kháng chiến chống thực dân Pháp, kết thúc bằng chiến thắng Điện Biên Phủ và Hiệp định Giơnevơ năm 1954.",
+    "Thời kì 1954 - 1975 là cuộc kháng chiến chống Mĩ, kết thúc bằng thắng lợi ngày 30/4/1975, đất nước được thống nhất.",
+    "Từ tháng 12/1986, Đại hội VI của Đảng khởi xướng công cuộc Đổi mới, đưa đất nước ra khỏi khủng hoảng và phát triển.",
+    "Vì Đảng Cộng sản Việt Nam ra đời năm 1930 chấm dứt sự khủng hoảng về đường lối cứu nước, cách mạng Việt Nam mới có lãnh đạo thống nhất để đi tới các thắng lợi 1945, 1954 và 1975."
+   ],
+   "traps": [
+    "Công cuộc Đổi mới bắt đầu từ Đại hội VI tháng 12/1986, không phải năm 1975 hay 1991.",
+    "Mốc kết thúc kháng chiến chống Pháp là năm 1954, mốc thống nhất đất nước là 30/4/1975 — hai mốc khác nhau.",
+    "Nước Việt Nam Dân chủ Cộng hòa ra đời ngày 2/9/1945, còn Đảng ra đời năm 1930 — không nhầm hai mốc."
+   ],
+   "aliases": [
+    "tổng kết lịch sử Việt Nam 1919-2000",
+    "các thời kì lịch sử Việt Nam hiện đại"
+   ],
+   "year": null,
+   "date_start": "1919",
+   "date_end": "2000",
+   "place": "Việt Nam",
+   "actors": [
+    "Đảng Cộng sản Việt Nam",
+    "Hồ Chí Minh",
+    "nhân dân Việt Nam"
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 32
+    }
+   ],
+   "topic_title": "Tổng kết lịch sử thế giới hiện đại từ năm 1945 đến năm 2000",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/L%E1%BB%8Bch_s%E1%BB%AD_Vi%E1%BB%87t_Nam",
+    "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A3ng_C%E1%BB%99ng_s%E1%BA%A3n_Vi%E1%BB%87t_Nam"
+   ]
+  },
+  {
+   "name": "Cuộc khai thác thuộc địa lần thứ hai của thực dân Pháp",
+   "kind": "event",
+   "summary": "Chương trình vơ vét quy mô lớn của Pháp ở Đông Dương sau Chiến tranh thế giới thứ nhất, tập trung vào cao su và khai mỏ.",
+   "facts": [
+    "Sau Chiến tranh thế giới thứ nhất, nước Pháp bị thiệt hại nặng nề nên đẩy mạnh khai thác thuộc địa để bù đắp, mở đầu cuộc khai thác thuộc địa lần thứ hai ở Đông Dương từ năm 1919 và kéo dài tới năm 1929.",
+    "Anbe Xarô (Albert Sarraut), người từng làm Toàn quyền Đông Dương và giữ chức Bộ trưởng Thuộc địa Pháp trong thập niên 1920, là người vạch ra chủ trương 'khai thác giá trị các thuộc địa Pháp'.",
+    "Vốn của Pháp đổ mạnh vào các đồn điền cao su, khai mỏ than, xi măng và xay xát gạo — những ngành thu lợi nhanh và ít cạnh tranh với chính quốc.",
+    "Pháp nắm độc quyền buôn bán muối, rượu và thuốc phiện ở Đông Dương để thu lợi, đồng thời đặt ra nhiều thứ thuế nặng nề.",
+    "Pháp mở mang giao thông phục vụ khai thác: đến năm 1936 Đông Dương có khoảng 2.600 km đường sắt cùng hệ thống đường bộ và các cảng Hải Phòng, Sài Gòn.",
+    "Vì thực dân Pháp chỉ đầu tư vào những ngành vơ vét nguyên liệu và hạn chế công nghiệp nặng, kinh tế Việt Nam phát triển què quặt và ngày càng lệ thuộc vào kinh tế Pháp."
+   ],
+   "traps": [
+    "Khai thác thuộc địa LẦN THỨ HAI diễn ra sau Chiến tranh thế giới thứ nhất (1919 - 1929); lần thứ nhất là trước năm 1914.",
+    "Pháp tập trung vốn vào cao su và khai mỏ, KHÔNG phát triển công nghiệp nặng ở Việt Nam vì sợ cạnh tranh với chính quốc.",
+    "Người chủ trương chương trình khai thác là Anbe Xarô, không phải Pôn Đume (gắn với cuộc khai thác lần thứ nhất)."
+   ],
+   "aliases": [
+    "khai thác thuộc địa lần 2",
+    "chương trình khai thác thuộc địa lần thứ hai",
+    "Albert Sarraut",
+    "Anbe Xarô",
+    "Đông Dương thuộc Pháp"
+   ],
+   "year": 1919,
+   "date_start": "1919",
+   "date_end": "1929",
+   "place": "Đông Dương (Việt Nam)",
+   "actors": [
+    "Anbe Xarô",
+    "thực dân Pháp"
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 13
+    }
+   ],
+   "topic_title": "Những chuyển biến mới về kinh tế và xã hội ở Việt Nam sau Chiến tranh thế giới thứ nhất",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Albert_Sarraut",
+    "https://vi.wikipedia.org/wiki/Kinh_t%E1%BA%BF_Vi%E1%BB%87t_Nam_th%E1%BB%9Di_Ph%C3%A1p_thu%E1%BB%99c",
+    "https://vi.wikipedia.org/wiki/Li%C3%AAn_bang_%C4%90%C3%B4ng_D%C6%B0%C6%A1ng"
+   ]
+  },
+  {
+   "name": "Chuyển biến xã hội Việt Nam sau Chiến tranh thế giới thứ nhất",
+   "kind": "concept",
+   "summary": "Cuộc khai thác thuộc địa lần thứ hai làm xã hội Việt Nam phân hóa sâu sắc, hình thành những giai cấp mới với thái độ chính trị khác nhau.",
+   "facts": [
+    "Cùng với cuộc khai thác thuộc địa lần thứ hai (1919 - 1929), xã hội Việt Nam phân hóa ngày càng sâu sắc, bên cạnh các giai cấp cũ xuất hiện những giai cấp, tầng lớp mới.",
+    "Giai cấp công nhân Việt Nam tăng nhanh về số lượng do nhu cầu nhân công ở các đồn điền cao su, hầm mỏ và nhà máy của tư bản Pháp.",
+    "Nông dân chiếm khoảng 95% dân số nhưng chỉ nắm khoảng 30% ruộng đất, lại chịu thuế nặng nên bị bần cùng hóa, trở thành lực lượng cách mạng đông đảo nhất.",
+    "Giai cấp tư sản và tầng lớp tiểu tư sản Việt Nam hình thành và phân hóa: tư sản mại bản gắn với Pháp, còn tư sản dân tộc và tiểu tư sản trí thức có tinh thần dân tộc, dễ tiếp thu tư tưởng tiến bộ.",
+    "Tháng 8/1925, công nhân xưởng đóng tàu Ba Son ở Sài Gòn do Tôn Đức Thắng lãnh đạo bãi công, không chịu sửa chữa chiến hạm Pháp — sự kiện thường được xem là dấu mốc phong trào công nhân chuyển từ đấu tranh kinh tế sang đấu tranh mang tính chính trị.",
+    "Chính vì giai cấp công nhân ra đời và lớn mạnh cùng mâu thuẫn dân tộc gay gắt, xã hội Việt Nam có cơ sở để tiếp nhận chủ nghĩa Mác - Lênin, dẫn tới sự ra đời của Đảng Cộng sản Việt Nam năm 1930."
+   ],
+   "traps": [
+    "Mâu thuẫn cơ bản nhất trong xã hội Việt Nam lúc này là giữa toàn thể dân tộc Việt Nam với thực dân Pháp, bên cạnh mâu thuẫn nông dân - địa chủ.",
+    "Giai cấp công nhân Việt Nam ra đời từ cuộc khai thác thuộc địa lần thứ nhất và phát triển mạnh SAU Chiến tranh thế giới thứ nhất, không phải mới xuất hiện năm 1930.",
+    "Bãi công Ba Son là tháng 8/1925 ở Sài Gòn, do Tôn Đức Thắng lãnh đạo — không nhầm sang Nguyễn Ái Quốc."
+   ],
+   "aliases": [
+    "phân hóa giai cấp Việt Nam 1919-1929",
+    "bãi công Ba Son",
+    "Tôn Đức Thắng",
+    "giai cấp công nhân Việt Nam"
+   ],
+   "year": null,
+   "date_start": "1919",
+   "date_end": "1929",
+   "place": "Việt Nam",
+   "actors": [
+    "công nhân",
+    "nông dân",
+    "tư sản dân tộc",
+    "tiểu tư sản",
+    "Tôn Đức Thắng"
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 13
+    }
+   ],
+   "topic_title": "Những chuyển biến mới về kinh tế và xã hội ở Việt Nam sau Chiến tranh thế giới thứ nhất",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Kinh_t%E1%BA%BF_Vi%E1%BB%87t_Nam_th%E1%BB%9Di_Ph%C3%A1p_thu%E1%BB%99c",
+    "https://vi.wikipedia.org/wiki/T%C3%B4n_%C4%90%E1%BB%A9c_Th%E1%BA%AFng"
+   ]
+  },
+  {
+   "name": "Hoạt động cứu nước của Nguyễn Ái Quốc (1919 - 1925)",
+   "kind": "event",
+   "summary": "Chặng đường Nguyễn Ái Quốc tìm ra con đường cứu nước theo cách mạng vô sản và chuẩn bị về tư tưởng, tổ chức cho việc thành lập Đảng.",
+   "facts": [
+    "Ngày 18/6/1919, thay mặt những người Việt Nam yêu nước ở Pháp, Nguyễn Ái Quốc gửi tới Hội nghị Vécxai bản Yêu sách của nhân dân An Nam đòi các quyền tự do, dân chủ cho người dân thuộc địa.",
+    "Tháng 7/1920, Người đọc Sơ thảo lần thứ nhất những luận cương về vấn đề dân tộc và vấn đề thuộc địa của Lênin và tìm thấy con đường giải phóng dân tộc theo cách mạng vô sản.",
+    "Tháng 12/1920, tại Đại hội Tua của Đảng Xã hội Pháp, Nguyễn Ái Quốc bỏ phiếu tán thành Quốc tế Cộng sản và tham gia sáng lập Đảng Cộng sản Pháp, trở thành người cộng sản Việt Nam đầu tiên.",
+    "Năm 1921, Người cùng những người yêu nước các thuộc địa lập Hội Liên hiệp thuộc địa ở Pari; năm 1922 ra báo Người cùng khổ (Le Paria) để tố cáo tội ác thực dân.",
+    "Tháng 6/1925, tại Quảng Châu (Trung Quốc), Nguyễn Ái Quốc sáng lập Hội Việt Nam Cách mạng Thanh niên và ra báo Thanh niên làm cơ quan tuyên truyền.",
+    "Chính vì Nguyễn Ái Quốc truyền bá chủ nghĩa Mác - Lênin về nước qua sách báo và các lớp huấn luyện, phong trào yêu nước Việt Nam mới chuyển dần sang khuynh hướng vô sản."
+   ],
+   "traps": [
+    "Tháng 12/1920 Nguyễn Ái Quốc tham gia sáng lập ĐẢNG CỘNG SẢN PHÁP, chứ không phải Đảng Cộng sản Việt Nam (Đảng ta mãi năm 1930 mới ra đời).",
+    "Bản Yêu sách năm 1919 gửi tới Hội nghị Vécxai (Versailles), không phải Liên hợp quốc hay Quốc tế Cộng sản.",
+    "Người đọc Luận cương của Lênin vào tháng 7/1920, còn Đại hội Tua là tháng 12/1920 — hai sự kiện cùng năm nhưng khác thời điểm."
+   ],
+   "aliases": [
+    "Nguyễn Ái Quốc",
+    "Hồ Chí Minh",
+    "bản Yêu sách của nhân dân An Nam",
+    "Đại hội Tua",
+    "Đại hội Tours",
+    "Le Paria",
+    "Người cùng khổ"
+   ],
+   "year": 1919,
+   "date_start": "1919-06-18",
+   "date_end": "1925-06",
+   "place": "Pháp, Liên Xô, Trung Quốc",
+   "actors": [
+    "Nguyễn Ái Quốc"
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 14
+    }
+   ],
+   "topic_title": "Phong trào dân tộc dân chủ ở Việt Nam từ năm 1919 đến năm 1925",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/H%E1%BB%93_Ch%C3%AD_Minh",
+    "https://vi.wikipedia.org/wiki/H%E1%BB%99i_Vi%E1%BB%87t_Nam_C%C3%A1ch_m%E1%BA%A1ng_Thanh_ni%C3%AAn"
+   ]
+  },
+  {
+   "name": "Hội Việt Nam Cách mạng Thanh niên",
+   "kind": "org",
+   "summary": "Tổ chức tiền thân của Đảng do Nguyễn Ái Quốc lập ra năm 1925, truyền bá chủ nghĩa Mác - Lênin và phân hóa thành ba tổ chức cộng sản năm 1929.",
+   "facts": [
+    "Hội Việt Nam Cách mạng Thanh niên được Nguyễn Ái Quốc thành lập tháng 6/1925 tại Quảng Châu (Trung Quốc), lấy báo Thanh niên làm cơ quan tuyên truyền.",
+    "Từ những năm 1926 - 1929, Hội xây dựng cơ sở trong các nhà máy, hầm mỏ, đồn điền và chủ trương 'vô sản hóa', đưa hội viên vào sống, lao động cùng công nhân để tuyên truyền cách mạng.",
+    "Trong năm 1929, phong trào phát triển mạnh dẫn tới sự ra đời của ba tổ chức cộng sản: Đông Dương Cộng sản đảng ở Bắc Kì, An Nam Cộng sản đảng ở Nam Kì và Đông Dương Cộng sản liên đoàn ở Trung Kì.",
+    "Hội Việt Nam Cách mạng Thanh niên tuyên bố giải tán ngày 4/8/1929 sau khi các tổ chức cộng sản ra đời.",
+    "Chính vì ba tổ chức cộng sản hoạt động riêng rẽ và công kích lẫn nhau, yêu cầu hợp nhất thành một chính đảng duy nhất trở nên cấp thiết, dẫn tới hội nghị hợp nhất đầu năm 1930."
+   ],
+   "traps": [
+    "Hội Việt Nam Cách mạng Thanh niên lập tại QUẢNG CHÂU (Trung Quốc) năm 1925, không phải ở trong nước.",
+    "Ba tổ chức cộng sản ra đời năm 1929 gồm Đông Dương Cộng sản đảng, An Nam Cộng sản đảng và Đông Dương Cộng sản liên đoàn — đừng nhầm với Việt Nam Quốc dân đảng.",
+    "'Vô sản hóa' là phong trào đưa hội viên vào nhà máy, hầm mỏ để tuyên truyền, không phải một cuộc khởi nghĩa."
+   ],
+   "aliases": [
+    "Việt Nam Thanh niên Cách mạng đồng chí Hội",
+    "Hội VNCM Thanh niên",
+    "báo Thanh niên",
+    "phong trào vô sản hóa"
+   ],
+   "year": 1925,
+   "date_start": "1925-06",
+   "date_end": "1929-08-04",
+   "place": "Quảng Châu (Trung Quốc) và Việt Nam",
+   "actors": [
+    "Nguyễn Ái Quốc",
+    "hội viên Hội Việt Nam Cách mạng Thanh niên"
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 15
+    }
+   ],
+   "topic_title": "Phong trào dân tộc dân chủ ở Việt Nam từ năm 1919 đến năm 1925",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/H%E1%BB%99i_Vi%E1%BB%87t_Nam_C%C3%A1ch_m%E1%BA%A1ng_Thanh_ni%C3%AAn"
+   ]
+  },
+  {
+   "name": "Khởi nghĩa Yên Bái",
+   "kind": "event",
+   "summary": "Cuộc khởi nghĩa của Việt Nam Quốc dân đảng đêm 9 rạng 10/2/1930, thất bại nhanh chóng và chấm dứt vai trò của khuynh hướng cách mạng dân chủ tư sản.",
+   "facts": [
+    "Việt Nam Quốc dân đảng thành lập ngày 25/12/1927, do Nguyễn Thái Học đứng đầu, đi theo khuynh hướng cách mạng dân chủ tư sản với mục tiêu lập nước Việt Nam cộng hòa.",
+    "Ngày 9/2/1929, một số đảng viên tự ý ám sát trùm mộ phu người Pháp Badanh ở Hà Nội, khiến thực dân Pháp mở đợt khủng bố lớn làm Việt Nam Quốc dân đảng tổn thất nặng.",
+    "Chính vì bị Pháp truy lùng ráo riết và đứng trước nguy cơ tan rã, Việt Nam Quốc dân đảng quyết định khởi nghĩa sớm với tinh thần 'không thành công cũng thành nhân'.",
+    "Đêm 9 rạng ngày 10/2/1930, khởi nghĩa nổ ra ở Yên Bái rồi lan ra một số địa phương Bắc Kì nhưng nhanh chóng bị dập tắt vì kế hoạch bị lộ, thiếu vũ khí và liên lạc kém.",
+    "Ngày 17/6/1930, Nguyễn Thái Học cùng 12 đồng chí bị thực dân Pháp xử chém tại Yên Bái.",
+    "Khởi nghĩa Yên Bái thất bại đã chấm dứt vai trò lịch sử của Việt Nam Quốc dân đảng và của khuynh hướng cách mạng dân chủ tư sản trong phong trào giải phóng dân tộc Việt Nam."
+   ],
+   "traps": [
+    "Khởi nghĩa Yên Bái do VIỆT NAM QUỐC DÂN ĐẢNG lãnh đạo, KHÔNG phải do Đảng Cộng sản.",
+    "Khởi nghĩa nổ ra đêm 9 rạng 10/2/1930, gần như cùng lúc với hội nghị thành lập Đảng Cộng sản Việt Nam đầu năm 1930, nhưng đây là hai sự kiện hoàn toàn độc lập.",
+    "Nguyễn Thái Học bị xử chém ngày 17/6/1930 tại Yên Bái, không phải hi sinh ngay trong đêm khởi nghĩa."
+   ],
+   "aliases": [
+    "khởi nghĩa Yên Bái 1930",
+    "Việt Nam Quốc dân đảng",
+    "VNQDĐ",
+    "Nguyễn Thái Học",
+    "vụ ám sát Bazin",
+    "Badanh"
+   ],
+   "year": 1930,
+   "date_start": "1930-02-09",
+   "date_end": "1930-06-17",
+   "place": "Yên Bái và một số tỉnh Bắc Kì",
+   "actors": [
+    "Nguyễn Thái Học",
+    "Phó Đức Chính",
+    "Việt Nam Quốc dân đảng",
+    "thực dân Pháp"
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 15
+    }
+   ],
+   "topic_title": "Phong trào dân tộc dân chủ ở Việt Nam từ năm 1919 đến năm 1925",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Kh%E1%BB%9Fi_ngh%C4%A9a_Y%C3%AAn_B%C3%A1i",
+    "https://vi.wikipedia.org/wiki/Vi%E1%BB%87t_Nam_Qu%E1%BB%91c_d%C3%A2n_%C4%90%E1%BA%A3ng"
+   ]
+  },
+  {
+   "name": "Đảng Cộng sản Việt Nam ra đời (3/2/1930)",
+   "kind": "org",
+   "summary": "Hội nghị hợp nhất các tổ chức cộng sản đầu năm 1930 do Nguyễn Ái Quốc chủ trì đã lập ra Đảng Cộng sản Việt Nam, bước ngoặt của cách mạng Việt Nam.",
+   "facts": [
+    "Hội nghị hợp nhất các tổ chức cộng sản họp từ ngày 6/1/1930 tại bán đảo Cửu Long, Hương Cảng (Trung Quốc), do Nguyễn Ái Quốc triệu tập và chủ trì.",
+    "Hội nghị hợp nhất Đông Dương Cộng sản đảng và An Nam Cộng sản đảng thành một đảng duy nhất lấy tên là Đảng Cộng sản Việt Nam; Đông Dương Cộng sản liên đoàn xin gia nhập ngày 24/2/1930.",
+    "Ngày 3/2/1930 được lấy làm ngày kỉ niệm thành lập Đảng Cộng sản Việt Nam.",
+    "Hội nghị thông qua Chính cương vắn tắt, Sách lược vắn tắt do Nguyễn Ái Quốc soạn thảo, hợp thành Cương lĩnh chính trị đầu tiên của Đảng.",
+    "Chính vì phong trào yêu nước Việt Nam trước đó khủng hoảng về đường lối và giai cấp lãnh đạo, việc Đảng ra đời năm 1930 đã chấm dứt cuộc khủng hoảng đó và trở thành bước ngoặt vĩ đại của cách mạng Việt Nam."
+   ],
+   "traps": [
+    "Người chủ trì hội nghị thành lập Đảng là NGUYỄN ÁI QUỐC, với tư cách phái viên của Quốc tế Cộng sản, không phải Trần Phú.",
+    "Ngày kỉ niệm thành lập Đảng là 3/2/1930; hội nghị hợp nhất khai mạc từ ngày 6/1/1930 — hai mốc gắn với nhau nhưng khác nhau.",
+    "Hội nghị họp ở Cửu Long, Hương Cảng (Trung Quốc), KHÔNG họp ở trong nước.",
+    "Cương lĩnh chính trị đầu tiên (2/1930) do Nguyễn Ái Quốc soạn, khác với Luận cương chính trị (10/1930) do Trần Phú soạn."
+   ],
+   "aliases": [
+    "Đảng Cộng sản Việt Nam",
+    "hội nghị thành lập Đảng",
+    "hội nghị hợp nhất",
+    "Cửu Long Hương Cảng",
+    "Cương lĩnh chính trị đầu tiên",
+    "3/2/1930"
+   ],
+   "year": 1930,
+   "date_start": "1930-01-06",
+   "date_end": "1930-02-24",
+   "place": "Cửu Long, Hương Cảng (Trung Quốc)",
+   "actors": [
+    "Nguyễn Ái Quốc",
+    "Đông Dương Cộng sản đảng",
+    "An Nam Cộng sản đảng",
+    "Đông Dương Cộng sản liên đoàn"
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 15
+    }
+   ],
+   "topic_title": "Phong trào dân tộc dân chủ ở Việt Nam từ năm 1919 đến năm 1925",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A3ng_C%E1%BB%99ng_s%E1%BA%A3n_Vi%E1%BB%87t_Nam",
+    "https://vi.wikipedia.org/wiki/H%E1%BB%93_Ch%C3%AD_Minh"
+   ]
+  },
+  {
+   "name": "Trần Phú và Luận cương chính trị tháng 10/1930",
+   "kind": "person",
+   "summary": "Trần Phú là Tổng Bí thư đầu tiên của Đảng, người soạn thảo Luận cương chính trị được thông qua tại Hội nghị Ban Chấp hành Trung ương tháng 10/1930.",
+   "facts": [
+    "Trần Phú sinh ngày 1/5/1904, quê ở Đức Thọ, tỉnh Hà Tĩnh, hi sinh ngày 6/9/1931 tại Sài Gòn khi mới 27 tuổi.",
+    "Hội nghị Ban Chấp hành Trung ương Đảng họp từ ngày 14 đến ngày 31/10/1930 tại Hương Cảng đã quyết định đổi tên Đảng thành Đảng Cộng sản Đông Dương.",
+    "Tại hội nghị tháng 10/1930, Trần Phú được bầu làm TỔNG BÍ THƯ ĐẦU TIÊN của Đảng và giữ cương vị này cho đến khi bị bắt năm 1931.",
+    "Trần Phú là người soạn thảo bản Luận cương chính trị, được Hội nghị Ban Chấp hành Trung ương tháng 10/1930 thông qua.",
+    "Trước lúc hi sinh trong nhà tù thực dân, Trần Phú nhắn lại lời tâm huyết 'Hãy giữ vững chí khí chiến đấu'."
+   ],
+   "traps": [
+    "Tổng Bí thư ĐẦU TIÊN của Đảng là TRẦN PHÚ (bầu tháng 10/1930), KHÔNG phải Nguyễn Ái Quốc — Nguyễn Ái Quốc là người sáng lập và chủ trì hội nghị thành lập Đảng nhưng không giữ chức Tổng Bí thư năm 1930.",
+    "Luận cương chính trị (10/1930) do Trần Phú soạn, khác Cương lĩnh chính trị đầu tiên (2/1930) do Nguyễn Ái Quốc soạn.",
+    "Tại hội nghị tháng 10/1930 Đảng đổi tên thành Đảng Cộng sản Đông Dương, không giữ nguyên tên Đảng Cộng sản Việt Nam.",
+    "Trần Phú mất năm 1931 lúc 27 tuổi, không phải sống tới thời kì kháng chiến chống Pháp."
+   ],
+   "aliases": [
+    "Trần Phú",
+    "Tổng Bí thư đầu tiên",
+    "Luận cương chính trị 1930",
+    "Đảng Cộng sản Đông Dương",
+    "Hãy giữ vững chí khí chiến đấu"
+   ],
+   "year": null,
+   "date_start": "1904-05-01",
+   "date_end": "1931-09-06",
+   "place": "Hương Cảng (Trung Quốc); Sài Gòn",
+   "actors": [
+    "Trần Phú",
+    "Ban Chấp hành Trung ương Đảng"
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 15
+    }
+   ],
+   "topic_title": "Phong trào dân tộc dân chủ ở Việt Nam từ năm 1919 đến năm 1925",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Tr%E1%BA%A7n_Ph%C3%BA",
+    "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A3ng_C%E1%BB%99ng_s%E1%BA%A3n_Vi%E1%BB%87t_Nam"
+   ]
+  }
+ ]
+}
