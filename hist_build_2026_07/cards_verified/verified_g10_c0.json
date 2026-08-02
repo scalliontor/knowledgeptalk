@@ -1,0 +1,1671 @@
+{
+ "grade": 10,
+ "chunk": 0,
+ "cards": [
+  {
+   "name": "Hiện thực lịch sử",
+   "kind": "concept",
+   "summary": "Toàn bộ những gì đã thực sự diễn ra trong quá khứ, tồn tại độc lập và khách quan, không phụ thuộc vào việc con người có biết hay ghi chép lại hay không.",
+   "facts": [
+    "Hiện thực lịch sử là tất cả những gì đã thật sự xảy ra trong quá khứ của con người và xã hội, ví dụ Cách mạng tháng Tám năm 1945 đã diễn ra dù sau này ai kể lại thế nào.",
+    "Hiện thực lịch sử mang tính khách quan và duy nhất: một sự kiện chỉ xảy ra một lần, ở một thời điểm, và không ai thay đổi được nó nữa.",
+    "Vì hiện thực lịch sử đã trôi qua và không lặp lại, con người chỉ có thể tiếp cận nó gián tiếp thông qua các dấu vết còn để lại, tức là sử liệu.",
+    "Chính vì hiện thực lịch sử tồn tại độc lập với ý muốn con người nên nhà sử học phải tôn trọng sự thật, không được tô vẽ hay cắt bớt cho vừa ý mình."
+   ],
+   "topic_title": "Hiện thực lịch sử và nhận thức lịch sử",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/S%E1%BB%AD_h%E1%BB%8Dc"
+   ],
+   "aliases": [
+    "lịch sử khách quan",
+    "hiện thực khách quan của lịch sử",
+    "quá khứ khách quan"
+   ],
+   "traps": [
+    "Nhầm hiện thực lịch sử với nhận thức lịch sử. Đúng: hiện thực lịch sử là cái ĐÃ XẢY RA (khách quan, duy nhất); nhận thức lịch sử là cái con người HIỂU VÀ KỂ LẠI về nó (chủ quan, có thể nhiều cách khác nhau).",
+    "Nghĩ rằng hiện thực lịch sử thay đổi khi có tài liệu mới. Đúng: hiện thực không đổi, chỉ có nhận thức của chúng ta về nó được bổ sung, chỉnh sửa."
+   ],
+   "lessons": [
+    {
+     "book": "cánh diều",
+     "bai": 1
+    },
+    {
+     "book": "KNTT",
+     "bai": 1
+    },
+    {
+     "book": "CTST",
+     "bai": 1
+    }
+   ]
+  },
+  {
+   "name": "Nhận thức lịch sử",
+   "kind": "concept",
+   "summary": "Những hiểu biết, mô tả và đánh giá của con người về hiện thực lịch sử, mang tính chủ quan nên cùng một sự kiện có thể có nhiều cách trình bày khác nhau.",
+   "facts": [
+    "Nhận thức lịch sử là toàn bộ tri thức, hiểu biết, ý niệm và đánh giá mà con người xây dựng được về quá khứ, thể hiện qua sách sử, bài giảng, phim tài liệu hay lời kể.",
+    "Nhận thức lịch sử luôn chậm hơn hiện thực lịch sử vì nó chỉ hình thành sau khi sự kiện đã xảy ra và người ta thu thập được sử liệu về sự kiện đó.",
+    "Vì mỗi người nghiên cứu đứng ở góc nhìn, thời đại và nguồn tư liệu khác nhau nên cùng một sự kiện lại có nhiều nhận thức khác nhau, đó là lí do lịch sử thường được viết đi viết lại.",
+    "Khi tìm được sử liệu mới hoặc phương pháp nghiên cứu tốt hơn, nhận thức lịch sử được điều chỉnh để tiến gần hơn tới hiện thực lịch sử.",
+    "Nhà sử học phải phê phán sử liệu, tức kiểm tra tính xác thực và độ tin cậy của nguồn, trước khi rút ra kết luận, nhằm hạn chế sai lệch của nhận thức."
+   ],
+   "topic_title": "Hiện thực lịch sử và nhận thức lịch sử",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/S%E1%BB%AD_h%E1%BB%8Dc"
+   ],
+   "aliases": [
+    "tri thức về lịch sử",
+    "lịch sử được nhận thức",
+    "lịch sử chủ quan"
+   ],
+   "traps": [
+    "Cho rằng nhận thức lịch sử khác nhau nghĩa là lịch sử 'muốn viết sao cũng được'. Đúng: nhận thức có thể khác nhau về góc nhìn nhưng vẫn phải dựa trên sử liệu và tôn trọng sự thật khách quan.",
+    "Đảo chiều quan hệ: nói nhận thức lịch sử có trước rồi mới có hiện thực lịch sử. Đúng: hiện thực xảy ra trước, nhận thức hình thành sau và phản ánh lại hiện thực đó."
+   ],
+   "lessons": [
+    {
+     "book": "cánh diều",
+     "bai": 1
+    },
+    {
+     "book": "KNTT",
+     "bai": 1
+    },
+    {
+     "book": "CTST",
+     "bai": 1
+    }
+   ]
+  },
+  {
+   "name": "Sử học",
+   "kind": "concept",
+   "summary": "Khoa học nghiên cứu một cách có hệ thống về quá khứ loài người, với đối tượng là toàn bộ hoạt động của con người trong quá khứ và nguyên tắc hàng đầu là khách quan, trung thực.",
+   "facts": [
+    "Sử học là khoa học nghiên cứu quá khứ của loài người một cách có hệ thống, không chỉ kể lại việc gì đã xảy ra mà còn giải thích vì sao và bằng cách nào nó xảy ra.",
+    "Đối tượng nghiên cứu của Sử học là toàn bộ hoạt động của con người và xã hội loài người trong quá khứ, diễn ra trên mọi lĩnh vực: chính trị, ngoại giao, quân sự, kinh tế, xã hội, văn hoá.",
+    "Sử học có HAI chức năng cơ bản: chức năng khoa học (khôi phục hiện thực lịch sử một cách chính xác, khách quan) và chức năng xã hội (phục vụ cuộc sống hiện tại thông qua bài học kinh nghiệm của quá khứ).",
+    "Nhiệm vụ của Sử học là cung cấp tri thức khoa học về lịch sử và giáo dục, nêu gương, góp phần truyền bá những giá trị, truyền thống tốt đẹp cho thế hệ sau.",
+    "Các nguyên tắc cơ bản của Sử học là khách quan, trung thực và tiến bộ (sách Kết nối tri thức nêu thêm nguyên tắc nhân văn): nhà sử học phải dựa vào sử liệu, không thêm bớt theo ý muốn cá nhân.",
+    "Herodotos, nhà sử học Hy Lạp thế kỉ V TCN, thường được gọi là 'cha đẻ của Sử học' vì ông là người đầu tiên ghi chép lịch sử theo lối khảo cứu và đối chiếu tư liệu."
+   ],
+   "topic_title": "Hiện thực lịch sử và nhận thức lịch sử",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/S%E1%BB%AD_h%E1%BB%8Dc",
+    "https://hoc247.net/lich-su-10/bai-1-hien-thuc-lich-su-va-nhan-thuc-lich-su-l13183.html"
+   ],
+   "aliases": [
+    "khoa học lịch sử",
+    "môn Sử",
+    "Historia"
+   ],
+   "actors": [
+    "Herodotos"
+   ],
+   "traps": [
+    "Nhầm chức năng với nguyên tắc và nhiệm vụ của Sử học. Đúng: CHỨC NĂNG gồm khoa học và xã hội (2 chức năng); NHIỆM VỤ là cung cấp tri thức khoa học và giáo dục, nêu gương; NGUYÊN TẮC là khách quan, trung thực, tiến bộ (nhân văn).",
+    "Nhầm Herodotos với Thucydides. Herodotos được gọi là 'cha đẻ của Sử học'; Thucydides thường được coi là người đặt nền cho lối viết sử theo phương pháp phê phán, chính trị - quân sự."
+   ],
+   "lessons": [
+    {
+     "book": "cánh diều",
+     "bai": 1
+    },
+    {
+     "book": "KNTT",
+     "bai": 1
+    },
+    {
+     "book": "CTST",
+     "bai": 1
+    }
+   ],
+   "fixed": [
+    "Sửa 'ba chức năng' -> đúng SGK: 2 chức năng (khoa học, xã hội); tách riêng nhiệm vụ",
+    "Sửa 'hai nguyên tắc' -> nguyên tắc cơ bản là khách quan, trung thực, tiến bộ (KNTT thêm nhân văn)"
+   ]
+  },
+  {
+   "name": "Sử liệu (nguồn sử liệu)",
+   "kind": "concept",
+   "summary": "Toàn bộ dấu vết mà quá khứ để lại, là cơ sở duy nhất để nhà sử học khôi phục lịch sử; được chia thành sử liệu sơ cấp và thứ cấp, hoặc theo dạng tồn tại: chữ viết, hiện vật, truyền miệng, hình ảnh.",
+   "facts": [
+    "Sử liệu là tất cả những dấu vết mà quá khứ để lại và nhờ đó con người ngày nay có thể biết được chuyện đã xảy ra, ví dụ trống đồng Đông Sơn, bia tiến sĩ, nhật kí, ảnh chụp.",
+    "Sử liệu sơ cấp là tư liệu hình thành ngay trong thời kì được nghiên cứu như văn bản gốc, thư từ, nhật kí, lời kể nhân chứng, hiện vật khảo cổ; sử liệu thứ cấp là tài liệu phân tích lại từ nguồn khác, ví dụ sách nghiên cứu viết sau này.",
+    "Theo dạng tồn tại, sử liệu thường được chia thành tư liệu chữ viết, tư liệu hiện vật, tư liệu truyền miệng và tư liệu hình ảnh, phim ảnh, ghi âm.",
+    "Vì mỗi loại sử liệu chỉ phản ánh một phần và có thể sai lệch, nhà sử học phải đối chiếu nhiều nguồn khác nhau trước khi kết luận, đó gọi là phê phán sử liệu.",
+    "Chính vì hiện thực lịch sử đã qua đi không lặp lại nên sử liệu trở thành cầu nối duy nhất giữa người hôm nay và quá khứ."
+   ],
+   "topic_title": "Tri thức lịch sử và cuộc sống",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/S%E1%BB%AD_h%E1%BB%8Dc"
+   ],
+   "aliases": [
+    "tư liệu lịch sử",
+    "nguồn sử liệu",
+    "tài liệu lịch sử"
+   ],
+   "traps": [
+    "Nhầm sử liệu sơ cấp và thứ cấp. Đúng: sơ cấp ra đời cùng thời với sự kiện (bản gốc, hiện vật, nhân chứng); thứ cấp là công trình viết lại, phân tích về sau.",
+    "Coi truyền thuyết là sử liệu vô giá trị. Đúng: truyền thuyết là tư liệu truyền miệng, có lõi lịch sử nhưng phải đối chiếu với khảo cổ và thư tịch mới dùng được."
+   ],
+   "lessons": [
+    {
+     "book": "cánh diều",
+     "bai": 2
+    },
+    {
+     "book": "KNTT",
+     "bai": 2
+    },
+    {
+     "book": "CTST",
+     "bai": 2
+    }
+   ]
+  },
+  {
+   "name": "Tri thức lịch sử và vai trò với cuộc sống",
+   "kind": "concept",
+   "summary": "Những hiểu biết về quá khứ giúp con người hiểu chính mình và cộng đồng, rút kinh nghiệm cho hiện tại và dự báo tương lai; cần học lịch sử suốt đời và học từ nhiều nguồn.",
+   "facts": [
+    "Tri thức lịch sử là những hiểu biết của con người về các lĩnh vực trong quá khứ, được đúc kết từ việc nghiên cứu và phê phán sử liệu.",
+    "Tri thức lịch sử giúp mỗi người biết mình từ đâu tới, tạo nên ý thức về cội nguồn, bản sắc dân tộc và trách nhiệm với cộng đồng.",
+    "Vì lịch sử ghi lại cả thành công lẫn thất bại của người đi trước, việc học lịch sử giúp rút ra bài học kinh nghiệm để giải quyết vấn đề của hiện tại và dự báo xu hướng tương lai.",
+    "Học tập lịch sử cần diễn ra suốt đời chứ không dừng ở nhà trường, vì lượng tri thức lịch sử luôn được bổ sung khi có phát hiện khảo cổ và tư liệu mới.",
+    "Ngoài sách giáo khoa, người học có thể thu nhận tri thức lịch sử qua tham quan bảo tàng, di tích, xem phim tài liệu, đọc hồi kí và tra cứu tư liệu số."
+   ],
+   "topic_title": "Tri thức lịch sử và cuộc sống",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/S%E1%BB%AD_h%E1%BB%8Dc"
+   ],
+   "aliases": [
+    "học tập lịch sử suốt đời",
+    "vai trò của tri thức lịch sử"
+   ],
+   "traps": [
+    "Cho rằng học lịch sử chỉ là học thuộc mốc thời gian. Đúng: cốt lõi là hiểu bối cảnh, nguyên nhân - kết quả và rút ra bài học, mốc thời gian chỉ là khung neo."
+   ],
+   "lessons": [
+    {
+     "book": "cánh diều",
+     "bai": 2
+    },
+    {
+     "book": "KNTT",
+     "bai": 2
+    },
+    {
+     "book": "CTST",
+     "bai": 2
+    }
+   ]
+  },
+  {
+   "name": "Sử học với các ngành khoa học khác (tính liên ngành)",
+   "kind": "concept",
+   "summary": "Sử học vừa sử dụng thành tựu của các ngành khoa học xã hội, nhân văn và khoa học tự nhiên, công nghệ để nghiên cứu quá khứ, vừa cung cấp tri thức nền cho các ngành đó.",
+   "facts": [
+    "Sử học có mối quan hệ hai chiều với các ngành khác: Sử học dùng phương pháp, tư liệu của các ngành để dựng lại quá khứ, đồng thời cung cấp bối cảnh lịch sử cho các ngành đó phát triển.",
+    "Khảo cổ học cung cấp cho Sử học các hiện vật và di chỉ, ví dụ cuộc khai quật văn hoá Đông Sơn từ năm 1924 đã giúp chứng minh trình độ luyện kim của cư dân Việt cổ.",
+    "Các ngành khoa học tự nhiên và công nghệ hỗ trợ Sử học bằng những phương pháp như xác định niên đại bằng cacbon phóng xạ, phân tích thành phần hợp kim của hiện vật, quét 3D và số hoá di tích.",
+    "Ngược lại, Sử học cung cấp tri thức về bối cảnh xã hội cho Văn học, Địa lí, Luật học, Chính trị học và cả lịch sử khoa học, kĩ thuật.",
+    "Vì một sự kiện quá khứ để lại nhiều loại dấu vết khác nhau nên chỉ khi kết hợp nhiều ngành, nhà sử học mới dựng lại được bức tranh tương đối đầy đủ."
+   ],
+   "topic_title": "Sử học với các lĩnh vực khoa học khác",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/S%E1%BB%AD_h%E1%BB%8Dc",
+    "https://vi.wikipedia.org/wiki/V%C4%83n_h%C3%B3a_%C4%90%C3%B4ng_S%C6%A1n"
+   ],
+   "aliases": [
+    "tính liên ngành của Sử học",
+    "Sử học liên ngành",
+    "mối quan hệ giữa Sử học và các khoa học"
+   ],
+   "traps": [
+    "Nghĩ Sử học chỉ liên quan tới khoa học xã hội. Đúng: Sử học dùng cả khoa học tự nhiên và công nghệ, ví dụ phương pháp cacbon phóng xạ để định niên đại hiện vật."
+   ],
+   "lessons": [
+    {
+     "book": "cánh diều",
+     "bai": 3
+    },
+    {
+     "book": "KNTT",
+     "bai": 3
+    },
+    {
+     "book": "CTST",
+     "bai": 3
+    }
+   ]
+  },
+  {
+   "name": "Di sản văn hoá",
+   "kind": "concept",
+   "summary": "Sản phẩm vật chất và tinh thần có giá trị lịch sử, văn hoá, khoa học được truyền từ thế hệ này sang thế hệ khác; theo Luật Di sản văn hoá năm 2001 của Việt Nam gồm di sản vật thể và di sản phi vật thể.",
+   "facts": [
+    "Luật Di sản văn hoá số 28/2001/QH10 được Quốc hội Việt Nam thông qua năm 2001 xác định di sản văn hoá là sản phẩm vật chất và tinh thần có giá trị lịch sử, văn hoá, khoa học được lưu truyền qua các thế hệ.",
+    "Di sản văn hoá vật thể là sản phẩm vật chất như di tích lịch sử - văn hoá, danh lam thắng cảnh, di vật, cổ vật và bảo vật quốc gia; ví dụ khu di tích Mỹ Sơn hay 82 bia tiến sĩ ở Văn Miếu.",
+    "Di sản văn hoá phi vật thể là sản phẩm tinh thần được lưu giữ bằng trí nhớ, chữ viết, truyền miệng và trình diễn, gồm tiếng nói, chữ viết, lễ hội, nghề thủ công truyền thống, tri thức dân gian, ẩm thực.",
+    "Kết quả nghiên cứu của Sử học là cơ sở khoa học để xác định giá trị, tính xác thực và tính toàn vẹn của di sản, nhờ đó công tác bảo tồn mới đúng hướng.",
+    "Ngược lại, di sản được bảo tồn tốt trở thành nguồn sử liệu sống động cho Sử học và là tài nguyên cho du lịch, công nghiệp văn hoá.",
+    "Luật Di sản văn hoá năm 2001 (sửa đổi, bổ sung năm 2009) đã được thay thế bằng Luật Di sản văn hoá số 45/2024/QH15, Quốc hội thông qua ngày 23/11/2024, có hiệu lực từ ngày 01/7/2025; sách giáo khoa hiện hành vẫn trích định nghĩa theo Luật năm 2001."
+   ],
+   "topic_title": "Sử học với một số lĩnh vực, ngành nghề hiện đại",
+   "sources": [
+    "https://luatvietnam.vn/chinh-sach/luat-di-san-van-hoa-2001-so-28-2001-qh10-12034-d1.html",
+    "https://loigiaihay.com/ly-thuyet-su-hoc-voi-mot-so-linh-vuc-nganh-nghe-hien-dai-lich-su-10-a111071.html",
+    "https://vanban.chinhphu.vn/?pageid=27160&docid=212473&classid=1&typegroupid=3"
+   ],
+   "aliases": [
+    "di sản văn hoá vật thể",
+    "di sản văn hoá phi vật thể",
+    "Luật Di sản văn hoá 2001"
+   ],
+   "year": 2001,
+   "place": "Việt Nam",
+   "traps": [
+    "Nhầm di sản vật thể với phi vật thể. Đúng: cồng chiêng Tây Nguyên là không gian văn hoá phi vật thể, còn khu đền tháp Mỹ Sơn là di sản vật thể.",
+    "Nghĩ bảo tồn nghĩa là 'đóng băng' di tích. Đúng: bảo tồn phải giữ tính xác thực và toàn vẹn nhưng vẫn gắn với phát huy giá trị trong đời sống hiện tại."
+   ],
+   "lessons": [
+    {
+     "book": "cánh diều",
+     "bai": 4
+    },
+    {
+     "book": "KNTT",
+     "bai": 4
+    },
+    {
+     "book": "CTST",
+     "bai": 4
+    }
+   ],
+   "fixed": [
+    "Bổ sung mốc Luật Di sản văn hoá 45/2024/QH15 (hiệu lực 01/7/2025) thay Luật 2001; thêm nguồn chinhphu.vn"
+   ]
+  },
+  {
+   "name": "Công nghiệp văn hoá và du lịch di sản",
+   "kind": "concept",
+   "summary": "Các ngành sản xuất sản phẩm văn hoá và khai thác di sản để phát triển kinh tế; Sử học cung cấp chất liệu và cơ sở khoa học, còn nguồn thu từ các ngành này quay lại tái đầu tư cho bảo tồn.",
+   "facts": [
+    "Công nghiệp văn hoá là những ngành sản xuất và phân phối sản phẩm văn hoá mang tính hàng hoá như điện ảnh, xuất bản, thời trang, trò chơi điện tử, du lịch văn hoá.",
+    "Ở Việt Nam, Chiến lược phát triển các ngành công nghiệp văn hoá đến năm 2020, tầm nhìn 2030 được Thủ tướng Chính phủ phê duyệt tại Quyết định số 1755/QĐ-TTg ngày 08/9/2016, xác định 12 ngành công nghiệp văn hoá, trong đó có du lịch văn hoá.",
+    "Sử học cung cấp cho công nghiệp văn hoá chất liệu và tri thức nền: nhân vật, sự kiện, phong tục, kiến trúc của quá khứ chính là kịch bản và bối cảnh cho phim, sách, trò chơi.",
+    "Du lịch di sản là việc khai thác giá trị các di tích, danh thắng để phục vụ tham quan, nhờ đó di sản được nhiều người biết đến hơn.",
+    "Vì công nghiệp văn hoá và du lịch mang lại nguồn thu, một phần nguồn lực đó được tái đầu tư cho nghiên cứu và trùng tu di tích, tạo vòng tuần hoàn giữa bảo tồn và phát triển.",
+    "Tuy nhiên nếu khai thác quá mức, du lịch có thể làm hư hại di tích và làm biến dạng lễ hội truyền thống, nên cần nguyên tắc tôn trọng tính xác thực của di sản."
+   ],
+   "topic_title": "Sử học với một số lĩnh vực, ngành nghề hiện đại",
+   "sources": [
+    "https://vanban.chinhphu.vn/default.aspx?pageid=27160&docid=186367",
+    "https://loigiaihay.com/ly-thuyet-su-hoc-voi-mot-so-linh-vuc-nganh-nghe-hien-dai-lich-su-10-a111071.html",
+    "https://luatvietnam.vn/chinh-sach/luat-di-san-van-hoa-2001-so-28-2001-qh10-12034-d1.html"
+   ],
+   "aliases": [
+    "ngành công nghiệp văn hoá",
+    "du lịch văn hoá",
+    "du lịch di sản"
+   ],
+   "traps": [
+    "Đảo chiều quan hệ: nói du lịch tạo ra di sản. Đúng: di sản và tri thức lịch sử có trước, du lịch khai thác giá trị đó, rồi nguồn thu mới quay lại hỗ trợ bảo tồn."
+   ],
+   "lessons": [
+    {
+     "book": "cánh diều",
+     "bai": 4
+    },
+    {
+     "book": "KNTT",
+     "bai": 4
+    },
+    {
+     "book": "CTST",
+     "bai": 4
+    }
+   ],
+   "fixed": [
+    "Bổ sung căn cứ nhà nước (QĐ 1755/QĐ-TTg 2016, 12 ngành công nghiệp văn hoá) thay vì chỉ dựa loigiaihay"
+   ]
+  },
+  {
+   "name": "Khái niệm văn minh",
+   "kind": "concept",
+   "summary": "Trạng thái tiến bộ cao của xã hội loài người, thường được nhận biết qua sự xuất hiện của nhà nước, đô thị, chữ viết và phân công lao động; khác với văn hoá ở chỗ hẹp hơn về thời gian và thiên về trình độ phát triển.",
+   "facts": [
+    "Văn minh được hiểu là trạng thái phát triển cao của xã hội loài người, đặc trưng bởi đô thị, phân tầng xã hội, nhà nước và hệ thống chữ viết.",
+    "Ba tiêu chí thường dùng để xác định một nền văn minh cổ đại là: đã có nhà nước, đã có đô thị, và đã có chữ viết.",
+    "Văn hoá xuất hiện cùng lúc với con người và bao trùm mọi giá trị vật chất, tinh thần; còn văn minh chỉ ra đời khi xã hội đã vượt qua thời nguyên thuỷ, tức muộn hơn văn hoá rất nhiều.",
+    "Vì văn minh gắn với trình độ phát triển nên một nền văn minh có thể suy tàn, nhưng những giá trị văn hoá của cộng đồng đó vẫn có thể tiếp tục được lưu truyền.",
+    "Bốn nền văn minh lớn xuất hiện sớm ở phương Đông cổ đại nằm bên các dòng sông lớn: Ai Cập bên sông Nin, Lưỡng Hà bên sông Ti-grơ và Ơ-phrát, Ấn Độ bên sông Ấn và sông Hằng, Trung Hoa bên sông Hoàng Hà và Trường Giang."
+   ],
+   "topic_title": "Khái niệm văn minh",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/V%C4%83n_minh",
+    "https://vi.wikipedia.org/wiki/L%C6%B0%E1%BB%A1ng_H%C3%A0",
+    "https://vi.wikipedia.org/wiki/Ai_C%E1%BA%ADp_c%E1%BB%95_%C4%91%E1%BA%A1i"
+   ],
+   "aliases": [
+    "civilization",
+    "văn minh và văn hoá",
+    "tiêu chí văn minh"
+   ],
+   "traps": [
+    "Đồng nhất văn minh với văn hoá. Đúng: văn hoá rộng hơn và có từ khi có loài người; văn minh hẹp hơn, chỉ giai đoạn phát triển cao khi đã có nhà nước, đô thị, chữ viết.",
+    "Cho rằng dân tộc nào cũng phải trải qua đúng một nền văn minh giống nhau. Đúng: mỗi nền văn minh hình thành trên điều kiện tự nhiên và lịch sử riêng nên rất khác nhau."
+   ],
+   "lessons": [
+    {
+     "book": "cánh diều",
+     "bai": 5
+    },
+    {
+     "book": "KNTT",
+     "bai": 5
+    }
+   ],
+   "fixed": [
+    "Bổ sung lessons KNTT bài 5 (Khái niệm văn minh. Một số nền văn minh phương Đông)"
+   ]
+  },
+  {
+   "name": "Văn minh Ai Cập cổ đại",
+   "kind": "period",
+   "summary": "Nền văn minh hình thành bên lưu vực sông Nin ở Đông Bắc châu Phi từ khoảng thiên niên kỉ IV TCN, nổi tiếng với nhà nước pharaon, chữ tượng hình, kim tự tháp và kĩ thuật ướp xác.",
+   "facts": [
+    "Văn minh Ai Cập cổ đại hình thành dọc hạ lưu sông Nin, con sông hằng năm dâng nước để lại lớp phù sa màu mỡ, nhờ đó nông nghiệp phát triển sớm và nhà nước ra đời.",
+    "Khoảng năm 3100 TCN, pharaon Narmer, mà người Hy Lạp gọi là Menes, đã thống nhất Thượng Ai Cập và Hạ Ai Cập, mở đầu nhà nước Ai Cập thống nhất.",
+    "Người Ai Cập cổ đại sáng tạo ra chữ tượng hình, một trong những hệ chữ viết ra đời sớm nhất thế giới, thường được khắc trên đá và viết trên giấy làm từ cây papyrus.",
+    "Kim tự tháp là lăng mộ của các pharaon, tiêu biểu là quần thể kim tự tháp Giza, minh chứng cho trình độ toán học, thiên văn và tổ chức lao động rất cao.",
+    "Vì tin vào sự bất tử của linh hồn, người Ai Cập phát triển kĩ thuật ướp xác, và chính niềm tin tôn giáo này thúc đẩy họ hoàn thiện y học, giải phẫu.",
+    "Năm 30 TCN, Ai Cập rơi vào tay đế quốc La Mã và trở thành một tỉnh của La Mã, chấm dứt thời kì độc lập của nền văn minh này."
+   ],
+   "topic_title": "Một số nền văn minh phương Đông",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Ai_C%E1%BA%ADp_c%E1%BB%95_%C4%91%E1%BA%A1i"
+   ],
+   "aliases": [
+    "Ai Cập cổ đại",
+    "văn minh sông Nin",
+    "Ancient Egypt",
+    "Nê-mét/Mê-nét (Menes)",
+    "Na-mơ (Narmer)"
+   ],
+   "date_start": "-3100",
+   "date_end": "-30",
+   "place": "Lưu vực sông Nin, Đông Bắc châu Phi",
+   "traps": [
+    "Nhầm chữ tượng hình Ai Cập với chữ hình nêm. Đúng: chữ tượng hình là của Ai Cập; chữ hình nêm (khắc trên phiến đất sét) là của cư dân Lưỡng Hà.",
+    "Nghĩ kim tự tháp là đền thờ. Đúng: kim tự tháp là lăng mộ của pharaon.",
+    "Nhầm người thống nhất Ai Cập. Đúng: Narmer (Menes) khoảng năm 3100 TCN, không phải Ramses hay Tutankhamun."
+   ],
+   "lessons": [
+    {
+     "book": "cánh diều",
+     "bai": 6
+    },
+    {
+     "book": "KNTT",
+     "bai": 5
+    },
+    {
+     "book": "CTST",
+     "bai": 6
+    }
+   ],
+   "fixed": [
+    "Xoá ký tự Hán lạc vào trap chữ hình nêm",
+    "Sửa lessons: Cánh Diều bài 6 (phương Đông) - bài 7 là 'Một số nền văn minh phương Tây', không phải Ai Cập"
+   ]
+  },
+  {
+   "name": "Văn minh Trung Hoa cổ - trung đại",
+   "kind": "period",
+   "summary": "Nền văn minh hình thành bên lưu vực Hoàng Hà và Trường Giang, nổi bật với Nho giáo, chữ Hán, tứ đại phát minh và các công trình như Vạn Lý Trường Thành.",
+   "facts": [
+    "Văn minh Trung Hoa hình thành sớm bên lưu vực sông Hoàng Hà và sông Trường Giang, phát triển liên tục qua các triều Hạ, Thương, Chu rồi đến Tần, Hán và các triều đại về sau.",
+    "Chữ viết Trung Hoa xuất hiện từ thời nhà Thương dưới dạng giáp cốt văn, tức chữ khắc trên mai rùa và xương thú dùng để bói toán.",
+    "Năm 221 TCN, Tần Thuỷ Hoàng thống nhất Trung Quốc, lập nên nhà nước quân chủ tập quyền đầu tiên và cho thống nhất chữ viết, đo lường, tiền tệ.",
+    "Trung Hoa cống hiến cho thế giới bốn phát minh lớn là giấy, kĩ thuật in, la bàn và thuốc súng; chính la bàn và kĩ thuật in về sau góp phần thúc đẩy các cuộc phát kiến địa lí và sự lan truyền tri thức ở châu Âu.",
+    "Khổng Tử sống vào khoảng thế kỉ VI-V TCN là người sáng lập Nho giáo, học thuyết chi phối tổ chức nhà nước và giáo dục ở Trung Hoa cùng nhiều nước Đông Á, trong đó có Đại Việt.",
+    "Vạn Lý Trường Thành được xây dựng và nối dài qua nhiều triều đại, khởi đầu quy mô lớn từ thời Tần, nhằm phòng thủ trước các tộc du mục phương Bắc."
+   ],
+   "topic_title": "Một số nền văn minh phương Đông",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/L%E1%BB%8Bch_s%E1%BB%AD_Trung_Qu%E1%BB%91c"
+   ],
+   "aliases": [
+    "văn minh Trung Quốc",
+    "văn minh Hoàng Hà",
+    "Trung Hoa cổ trung đại"
+   ],
+   "actors": [
+    "Tần Thuỷ Hoàng",
+    "Khổng Tử"
+   ],
+   "traps": [
+    "Nhầm bốn phát minh lớn của Trung Hoa. Đúng: giấy, kĩ thuật in, la bàn, thuốc súng - không bao gồm bánh xe hay chữ số 0.",
+    "Cho rằng chữ số 0 là phát minh của Trung Hoa. Đúng: chữ số 0 và hệ chữ số mà ta quen gọi là số A-rập có nguồn gốc từ Ấn Độ."
+   ],
+   "lessons": [
+    {
+     "book": "cánh diều",
+     "bai": 6
+    },
+    {
+     "book": "KNTT",
+     "bai": 5
+    },
+    {
+     "book": "CTST",
+     "bai": 7
+    }
+   ],
+   "fixed": [
+    "Sửa lessons: bỏ Cánh Diều bài 7 (là bài văn minh phương Tây); thêm KNTT bài 5, CTST bài 7"
+   ]
+  },
+  {
+   "name": "Văn minh Ấn Độ cổ - trung đại",
+   "kind": "period",
+   "summary": "Nền văn minh bên lưu vực sông Ấn và sông Hằng, khởi đầu bằng văn minh Ha-rap-pa từ khoảng 3300 TCN, để lại chữ số 0, chữ Phạn, Hindu giáo và Phật giáo.",
+   "facts": [
+    "Văn minh Ấn Độ cổ đại bắt đầu với nền văn minh lưu vực sông Ấn, khoảng 3300-1700 TCN, nổi tiếng với hai đô thị được quy hoạch chặt chẽ là Ha-rap-pa và Mô-hen-giô Đa-rô.",
+    "Sau đó là thời kì Vê-đa, khoảng 1500-500 TCN, khi người A-ri-a chuyển sang định cư nông nghiệp và hình thành chế độ đẳng cấp (varna).",
+    "Người Ấn Độ sáng tạo chữ số từ 0 đến 9 cùng hệ đếm thập phân, thành tựu được người A-rập truyền sang châu Âu nên thường bị gọi nhầm là 'số A-rập'.",
+    "Phật giáo do Xít-đác-ta Gô-ta-ma, tức Đức Phật Thích Ca, sáng lập vào khoảng thế kỉ VI-V TCN, về sau lan rộng khắp châu Á; Hindu giáo cũng hình thành và trở thành tôn giáo lớn nhất Ấn Độ.",
+    "Vương triều Mô-ri-a khoảng 322-185 TCN thống nhất phần lớn tiểu lục địa, và dưới thời vua A-sô-ca, Phật giáo được nhà nước bảo trợ nên truyền bá mạnh ra bên ngoài.",
+    "Thời Gúp-ta, khoảng thế kỉ IV-VI, được coi là thời hoàng kim của văn hoá Ấn Độ với thành tựu rực rỡ về văn học chữ Phạn, thiên văn và toán học."
+   ],
+   "topic_title": "Một số nền văn minh phương Đông",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/L%E1%BB%8Bch_s%E1%BB%AD_%E1%BA%A4n_%C4%90%E1%BB%99"
+   ],
+   "aliases": [
+    "văn minh sông Ấn",
+    "văn minh Ha-rap-pa",
+    "Harappa",
+    "Mohenjo-Daro",
+    "văn minh Ấn Độ"
+   ],
+   "actors": [
+    "A-sô-ca (Ashoka)",
+    "Thích Ca Mâu Ni"
+   ],
+   "traps": [
+    "Gọi hệ chữ số 0-9 là phát minh của người A-rập. Đúng: nguồn gốc Ấn Độ, người A-rập chỉ là cầu nối truyền sang châu Âu.",
+    "Nhầm nơi ra đời Phật giáo. Đúng: Phật giáo ra đời ở Ấn Độ khoảng thế kỉ VI-V TCN, không phải ở Trung Quốc."
+   ],
+   "lessons": [
+    {
+     "book": "cánh diều",
+     "bai": 6
+    },
+    {
+     "book": "KNTT",
+     "bai": 5
+    },
+    {
+     "book": "CTST",
+     "bai": 8
+    }
+   ],
+   "fixed": [
+    "Sửa lessons: bỏ Cánh Diều bài 7 (văn minh phương Tây); thêm KNTT bài 5, CTST bài 8"
+   ]
+  },
+  {
+   "name": "Văn minh Hy Lạp - La Mã cổ đại",
+   "kind": "period",
+   "summary": "Hai nền văn minh phương Tây tiêu biểu ven Địa Trung Hải, để lại nền dân chủ Athens, triết học Hy Lạp, luật pháp và hệ chữ Latinh của La Mã.",
+   "facts": [
+    "Văn minh Hy Lạp cổ đại phát triển trên bán đảo Ban-căng và các đảo ven biển Ê-giê, nơi địa hình núi non chia cắt nên hình thành các thành bang độc lập, tiêu biểu là A-ten và Xpác.",
+    "A-ten là nơi nền dân chủ cổ đại phát triển nhất, đạt đỉnh cao vào thế kỉ V TCN dưới thời Pê-ri-clét, khi công dân nam tự do được tham gia Đại hội nhân dân quyết định việc chung.",
+    "A-ten cũng là trung tâm triết học và văn học với các nhà tư tưởng lớn Xô-crát, Pla-tông và A-ri-xtốt.",
+    "Thành Rô-ma được lập vào thế kỉ VIII TCN theo truyền thuyết là năm 753 TCN; La Mã trải qua thời kì cộng hoà từ năm 509 TCN rồi chuyển sang đế chế từ năm 27 TCN dưới thời Ốc-ta-vi-út Au-gút-tút.",
+    "Người La Mã để lại hệ chữ cái La-tinh - nền tảng chữ viết của phần lớn châu Âu và cả chữ Quốc ngữ Việt Nam - cùng hệ thống luật pháp và khái niệm 'res publica' là gốc của từ 'cộng hoà'.",
+    "Năm 146 TCN La Mã chinh phục các thành bang Hy Lạp, chấm dứt nền độc lập chính trị của Hy Lạp; đến năm 476, đế quốc Tây La Mã sụp đổ, khép lại thời cổ đại phương Tây."
+   ],
+   "topic_title": "Một số nền văn minh phương Tây thời kì cổ - trung đại",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Hy_L%E1%BA%A1p_c%E1%BB%95_%C4%91%E1%BA%A1i",
+    "https://vi.wikipedia.org/wiki/La_M%C3%A3_c%E1%BB%95_%C4%91%E1%BA%A1i"
+   ],
+   "aliases": [
+    "văn minh phương Tây cổ đại",
+    "Hy Lạp cổ đại",
+    "La Mã cổ đại",
+    "Athens",
+    "A-ten",
+    "Rô-ma",
+    "Roma"
+   ],
+   "actors": [
+    "Pê-ri-clét",
+    "Xô-crát",
+    "Pla-tông",
+    "A-ri-xtốt",
+    "Ốc-ta-vi-út Au-gút-tút"
+   ],
+   "traps": [
+    "Nhầm mốc sụp đổ: năm 476 là năm đế quốc TÂY La Mã sụp đổ; đế quốc Đông La Mã (Byzantine) còn tồn tại đến năm 1453.",
+    "Cho rằng dân chủ A-ten là dân chủ cho mọi người. Đúng: chỉ công dân nam tự do được tham chính, còn phụ nữ, nô lệ và kiều dân bị loại trừ."
+   ],
+   "lessons": [
+    {
+     "book": "cánh diều",
+     "bai": 7
+    },
+    {
+     "book": "KNTT",
+     "bai": 6
+    },
+    {
+     "book": "CTST",
+     "bai": 9
+    }
+   ],
+   "fixed": [
+    "topic_title sai 'Cơ sở hình thành văn minh Đông Nam Á' -> 'Một số nền văn minh phương Tây thời kì cổ - trung đại'",
+    "Sửa lessons: Cánh Diều bài 7 (không phải 10), CTST bài 9 (không phải 13 - bài 13 CTST là văn minh Đông Nam Á)"
+   ]
+  },
+  {
+   "name": "Cách mạng công nghiệp lần thứ nhất",
+   "kind": "event",
+   "summary": "Cuộc cách mạng khởi đầu ở Anh từ những năm 1760 đến giữa thế kỉ XIX, chuyển sản xuất từ thủ công sang cơ khí nhờ máy hơi nước và máy dệt, mở đầu thời đại công nghiệp.",
+   "facts": [
+    "Cách mạng công nghiệp lần thứ nhất bắt đầu ở nước Anh vào khoảng những năm 1760 và kéo dài đến giữa thế kỉ XIX, sau đó lan sang Pháp, Đức và Bắc Mỹ.",
+    "Ngành dệt là nơi khởi phát: năm 1733 Giôn Ki chế ra thoi bay, năm 1764 Giêm Ha-gri-vơ sáng chế máy kéo sợi Gien-ny giúp năng suất tăng khoảng 8 lần, năm 1769 Ác-crai-tơ làm máy kéo sợi chạy bằng sức nước.",
+    "Năm 1784, Giêm Oát hoàn thiện máy hơi nước, và chính phát minh này giải phóng nhà máy khỏi việc phải đặt cạnh dòng nước, nhờ đó các trung tâm công nghiệp và đô thị mọc lên nhanh chóng.",
+    "Năm 1785, Ét-mơn Các-rai chế tạo máy dệt chạy bằng hơi nước, làm năng suất dệt tăng khoảng 40 lần so với dệt tay.",
+    "Vì máy móc thay thế lao động thủ công, xã hội hình thành rõ hai giai cấp mới là tư sản công nghiệp và vô sản công nghiệp, tạo tiền đề cho phong trào công nhân thế kỉ XIX."
+   ],
+   "topic_title": "Cách mạng công nghiệp thời kì cận đại",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/C%C3%A1ch_m%E1%BA%A1ng_c%C3%B4ng_nghi%E1%BB%87p"
+   ],
+   "aliases": [
+    "cách mạng công nghiệp 1.0",
+    "CMCN lần thứ nhất",
+    "Industrial Revolution",
+    "Giêm Oát",
+    "James Watt",
+    "máy kéo sợi Gien-ny",
+    "Spinning Jenny"
+   ],
+   "date_start": "1760",
+   "date_end": "1840",
+   "place": "Anh",
+   "actors": [
+    "Giêm Oát (James Watt)",
+    "Giêm Ha-gri-vơ (James Hargreaves)",
+    "Ét-mơn Các-rai (Edmund Cartwright)"
+   ],
+   "traps": [
+    "Nói Giêm Oát 'phát minh ra máy hơi nước'. Chính xác hơn: máy hơi nước đã có trước (Niu-cô-men), Giêm Oát cải tiến và hoàn thiện nó năm 1784 thành máy có hiệu suất cao dùng được rộng rãi.",
+    "Nhầm máy kéo sợi Gien-ny với máy dệt. Đúng: Gien-ny (1764, Ha-gri-vơ) là máy KÉO SỢI; máy DỆT chạy hơi nước là của Các-rai năm 1785.",
+    "Nhầm nước khởi đầu. Đúng: Anh, không phải Pháp hay Mỹ."
+   ],
+   "lessons": [
+    {
+     "book": "cánh diều",
+     "bai": 8
+    },
+    {
+     "book": "NXBDG",
+     "bai": 32
+    },
+    {
+     "book": "KNTT",
+     "bai": 7
+    },
+    {
+     "book": "CTST",
+     "bai": 11
+    }
+   ]
+  },
+  {
+   "name": "Cách mạng công nghiệp lần thứ hai",
+   "kind": "event",
+   "summary": "Cuộc cách mạng khoảng 1870-1914, đưa điện, động cơ đốt trong, thép và dây chuyền sản xuất hàng loạt vào đời sống, biến sản xuất cơ khí thành sản xuất điện khí hoá.",
+   "facts": [
+    "Cách mạng công nghiệp lần thứ hai diễn ra khoảng từ năm 1870 đến năm 1914, khi Chiến tranh thế giới thứ nhất bùng nổ, với các nước đi đầu là Mỹ, Đức và Anh.",
+    "Đặc trưng lớn nhất của giai đoạn này là điện khí hoá: điện được đưa vào sản xuất và sinh hoạt, kéo theo bóng đèn điện, điện thoại, máy phát điện.",
+    "Các ngành công nghiệp mới như luyện thép, hoá dầu, hoá chất và chế tạo động cơ đốt trong phát triển mạnh, mở đường cho ô tô và sau đó là máy bay.",
+    "Vì có điện và động cơ đốt trong, phương pháp sản xuất hàng loạt theo dây chuyền lắp ráp ra đời, làm giá thành hàng hoá giảm mạnh và thị trường thế giới mở rộng nhanh.",
+    "Sự bùng nổ sản xuất và nhu cầu nguyên liệu, thị trường của các nước công nghiệp là một nguyên nhân sâu xa thúc đẩy các cuộc xâm chiếm thuộc địa cuối thế kỉ XIX - đầu thế kỉ XX."
+   ],
+   "topic_title": "Cách mạng công nghiệp thời kì cận đại",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/C%C3%A1ch_m%E1%BA%A1ng_c%C3%B4ng_nghi%E1%BB%87p"
+   ],
+   "aliases": [
+    "cách mạng công nghiệp 2.0",
+    "CMCN lần thứ hai",
+    "cách mạng kĩ thuật - công nghệ lần hai"
+   ],
+   "date_start": "1870",
+   "date_end": "1914",
+   "traps": [
+    "Nhầm đặc trưng: hơi nước là của lần thứ nhất, ĐIỆN mới là đặc trưng của lần thứ hai.",
+    "Cho rằng cách mạng công nghiệp lần hai kết thúc năm 1945. Đúng: thường được tính kết thúc khoảng năm 1914, khi Chiến tranh thế giới thứ nhất nổ ra."
+   ],
+   "lessons": [
+    {
+     "book": "cánh diều",
+     "bai": 8
+    },
+    {
+     "book": "KNTT",
+     "bai": 7
+    },
+    {
+     "book": "CTST",
+     "bai": 11
+    }
+   ]
+  },
+  {
+   "name": "Cách mạng công nghiệp lần thứ ba",
+   "kind": "event",
+   "summary": "Cuộc cách mạng từ nửa sau thế kỉ XX, khởi đầu ở Mỹ, lấy máy tính điện tử, điện tử - tin học và internet làm nền tảng để tự động hoá sản xuất; còn gọi là cách mạng số.",
+   "facts": [
+    "Cách mạng công nghiệp lần thứ ba diễn ra vào nửa sau thế kỉ XX, khởi đầu ở Mỹ rồi lan sang Liên Xô, Nhật Bản, Anh, Pháp, Đức.",
+    "Máy tính điện tử đầu tiên ra đời ở Mỹ năm 1946, chạy bằng đèn điện tử chân không, đánh dấu bước ngoặt của thời đại thông tin.",
+    "Chính sự ra đời của máy tính điện tử đã dẫn tới tự động hoá quá trình sản xuất, khác với lần thứ nhất là cơ khí hoá và lần thứ hai là điện khí hoá.",
+    "World Wide Web được công bố rộng rãi năm 1991 đã biến internet thành mạng thông tin toàn cầu, làm bùng nổ trao đổi tri thức và thương mại điện tử.",
+    "Vì thông tin di chuyển gần như tức thời, cách mạng công nghiệp lần thứ ba thúc đẩy mạnh mẽ quá trình toàn cầu hoá kinh tế cuối thế kỉ XX.",
+    "Cuộc cách mạng này còn được gọi là cách mạng số hoặc cách mạng khoa học - công nghệ, gắn với các thành tựu chinh phục vũ trụ và công nghệ vật liệu mới."
+   ],
+   "topic_title": "Cách mạng công nghiệp thời kì hiện đại",
+   "sources": [
+    "https://hoc247.net/lich-su-10/bai-9-cach-mang-cong-nghiep-thoi-ki-hien-dai-l13461.html",
+    "https://vi.wikipedia.org/wiki/C%C3%A1ch_m%E1%BA%A1ng_c%C3%B4ng_nghi%E1%BB%87p"
+   ],
+   "aliases": [
+    "cách mạng công nghiệp 3.0",
+    "cách mạng số",
+    "cách mạng khoa học - công nghệ",
+    "CMCN lần thứ ba"
+   ],
+   "traps": [
+    "Nhầm lần thứ ba với lần thứ tư. Đúng: lần thứ ba là máy tính - internet - tự động hoá (nửa sau thế kỉ XX); lần thứ tư là AI, IoT, dữ liệu lớn (từ đầu thế kỉ XXI).",
+    "Cho rằng máy tính điện tử đầu tiên ra đời ở Anh năm 1946. Đúng: ở Mỹ, năm 1946."
+   ],
+   "lessons": [
+    {
+     "book": "cánh diều",
+     "bai": 9
+    },
+    {
+     "book": "KNTT",
+     "bai": 8
+    },
+    {
+     "book": "CTST",
+     "bai": 12
+    }
+   ],
+   "fixed": [
+    "topic_title sai 'thời kì cận đại' -> 'Cách mạng công nghiệp thời kì hiện đại' (Cánh Diều bài 9, KNTT bài 8, CTST bài 12)"
+   ]
+  },
+  {
+   "name": "Cách mạng công nghiệp lần thứ tư",
+   "kind": "event",
+   "summary": "Cuộc cách mạng bắt đầu từ đầu thế kỉ XXI, hợp nhất công nghệ số, vật lí và sinh học với trụ cột là trí tuệ nhân tạo, internet vạn vật, dữ liệu lớn; khái niệm được Klaus Schwab phổ biến tại Diễn đàn Kinh tế Thế giới Davos năm 2016.",
+   "facts": [
+    "Cách mạng công nghiệp lần thứ tư bắt đầu từ đầu thế kỉ XXI, với các nước đi đầu là Mỹ, Đức, Nhật Bản, Anh, Pháp.",
+    "Thuật ngữ 'Công nghiệp 4.0' xuất phát từ một chiến lược công nghệ cao của Chính phủ Đức năm 2011, sau đó được Klaus Schwab, Chủ tịch Diễn đàn Kinh tế Thế giới, phổ biến rộng rãi.",
+    "Chủ đề của Hội nghị thường niên Diễn đàn Kinh tế Thế giới tại Davos, Thuỵ Sĩ tháng 1 năm 2016 là 'Làm chủ cuộc cách mạng công nghiệp lần thứ tư', nhờ đó khái niệm này trở nên phổ biến toàn cầu.",
+    "Các trụ cột công nghệ của cuộc cách mạng này gồm trí tuệ nhân tạo (AI), internet kết nối vạn vật (IoT), dữ liệu lớn (Big Data), điện toán đám mây, in 3D, công nghệ sinh học và xe tự lái.",
+    "Điểm khác biệt căn bản là sự hợp nhất giữa thế giới thực và thế giới số, khiến máy móc không chỉ thay sức người mà còn bắt đầu thay một phần lao động trí óc.",
+    "Vì tự động hoá lan tới cả công việc trí óc, cách mạng công nghiệp lần thứ tư đặt ra thách thức lớn về việc làm và đòi hỏi người lao động phải học tập suốt đời."
+   ],
+   "topic_title": "Cách mạng công nghiệp thời kì hiện đại",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/C%C3%A1ch_m%E1%BA%A1ng_C%C3%B4ng_nghi%E1%BB%87p_l%E1%BA%A7n_th%E1%BB%A9_t%C6%B0",
+    "https://hoc247.net/lich-su-10/bai-9-cach-mang-cong-nghiep-thoi-ki-hien-dai-l13461.html"
+   ],
+   "aliases": [
+    "cách mạng công nghiệp 4.0",
+    "Công nghiệp 4.0",
+    "Industry 4.0",
+    "CMCN lần thứ tư",
+    "Klaus Schwab",
+    "Cờ-lau Xva-bờ"
+   ],
+   "actors": [
+    "Klaus Schwab"
+   ],
+   "place": "Davos, Thuỵ Sĩ (nơi phổ biến khái niệm)",
+   "traps": [
+    "Cho rằng Klaus Schwab là người đầu tiên nghĩ ra khái niệm. Đúng: thuật ngữ xuất hiện từ chiến lược công nghệ cao của Đức năm 2011; Schwab là người phổ biến qua bài viết năm 2015 và Davos 2016.",
+    "Xếp internet vào cách mạng lần thứ tư. Đúng: máy tính và internet thuộc lần thứ BA; lần thứ tư là AI, IoT, Big Data trên nền internet đã có."
+   ],
+   "lessons": [
+    {
+     "book": "cánh diều",
+     "bai": 9
+    },
+    {
+     "book": "KNTT",
+     "bai": 8
+    },
+    {
+     "book": "CTST",
+     "bai": 12
+    }
+   ],
+   "fixed": [
+    "topic_title sai 'thời kì cận đại' -> 'Cách mạng công nghiệp thời kì hiện đại' (Cánh Diều bài 9, KNTT bài 8, CTST bài 12)"
+   ]
+  },
+  {
+   "name": "Cơ sở hình thành văn minh Đông Nam Á thời cổ - trung đại",
+   "kind": "concept",
+   "summary": "Văn minh Đông Nam Á hình thành trên nền nông nghiệp lúa nước ở vùng khí hậu nhiệt đới gió mùa, cộng với việc tiếp thu và bản địa hoá ảnh hưởng từ văn minh Ấn Độ và Trung Hoa.",
+   "facts": [
+    "Đông Nam Á nằm ở phía đông nam châu Á, có khí hậu nhiệt đới gió mùa, nhiều sông lớn và đồng bằng phù sa, nên nghề trồng lúa nước trở thành nền tảng kinh tế và văn hoá bản địa.",
+    "Vì nằm trên đường hàng hải nối Ấn Độ Dương với Thái Bình Dương, đặc biệt qua eo biển Ma-lắc-ca, Đông Nam Á sớm trở thành nơi giao thoa thương mại và văn hoá giữa Ấn Độ, Trung Hoa và thế giới A-rập.",
+    "Ảnh hưởng Ấn Độ đến Đông Nam Á thể hiện rõ ở tôn giáo (Hindu giáo, Phật giáo), chữ viết, văn học và kiến trúc đền tháp; nhiều vương quốc cổ như Phù Nam, Chăm-pa, tiền Ăng-co chịu ảnh hưởng sâu của tư tưởng Bà La Môn.",
+    "Trên cơ sở chữ viết cổ Ấn Độ, cư dân Đông Nam Á đã sáng tạo chữ viết riêng như chữ Chăm cổ, chữ Khơ-me cổ, chữ Thái, chữ Mã Lai cổ.",
+    "Việt Nam là nơi ảnh hưởng của văn minh Trung Hoa đậm nét nhất trong khu vực, biểu hiện ở chữ Hán, Nho giáo và mô hình tổ chức nhà nước.",
+    "Điểm cốt lõi là cư dân Đông Nam Á không sao chép nguyên xi mà bản địa hoá các yếu tố ngoại lai, kết hợp với tín ngưỡng bản địa để tạo nên bản sắc riêng."
+   ],
+   "topic_title": "Cơ sở hình thành văn minh Đông Nam Á thời kì cổ – trung đại",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/%C4%90%C3%B4ng_Nam_%C3%81",
+    "https://www.tapchinghiencuuphathoc.vn/anh-huong-cua-van-minh-an-do-doi-voi-dong-nam-a-va-lich-su-nhan-loai.html"
+   ],
+   "aliases": [
+    "cơ sở văn minh Đông Nam Á",
+    "văn minh khu vực Đông Nam Á",
+    "bản địa hoá văn hoá Ấn Độ"
+   ],
+   "traps": [
+    "Cho rằng văn minh Đông Nam Á chỉ là bản sao của Ấn Độ và Trung Hoa. Đúng: nền tảng bản địa là nông nghiệp lúa nước và tín ngưỡng dân gian; yếu tố ngoại lai được tiếp thu có chọn lọc và bản địa hoá.",
+    "Đảo chiều ảnh hưởng: nói Đông Nam Á truyền chữ viết cho Ấn Độ. Đúng: chữ viết cổ của nhiều dân tộc Đông Nam Á được sáng tạo trên cơ sở chữ viết Ấn Độ."
+   ],
+   "lessons": [
+    {
+     "book": "cánh diều",
+     "bai": 10
+    },
+    {
+     "book": "KNTT",
+     "bai": 9
+    },
+    {
+     "book": "CTST",
+     "bai": 13
+    }
+   ]
+  },
+  {
+   "name": "Thành tựu văn minh Đông Nam Á thời cổ - trung đại",
+   "kind": "concept",
+   "summary": "Văn minh Đông Nam Á để lại hệ thống chữ viết riêng, các tôn giáo tín ngưỡng đa dạng và những công trình kiến trúc kì vĩ như Ăng-co Vát, Bô-rô-bu-đua, Pa-gan và các tháp Chăm.",
+   "facts": [
+    "Về chữ viết, các dân tộc Đông Nam Á đã sáng tạo chữ Chăm cổ, chữ Khơ-me cổ, chữ Thái, chữ Miến, còn người Việt tạo ra chữ Nôm trên cơ sở chữ Hán.",
+    "Về tôn giáo, Đông Nam Á là nơi cùng tồn tại Phật giáo, Hindu giáo, Hồi giáo và các tín ngưỡng bản địa; In-đô-nê-xi-a ngày nay là quốc gia có số tín đồ Hồi giáo đông nhất thế giới.",
+    "Quần thể đền Ăng-co của người Khơ-me ở Cam-pu-chia là công trình tiêu biểu cho kiến trúc đền núi chịu ảnh hưởng Hindu giáo rồi chuyển sang Phật giáo.",
+    "Quần thể Bô-rô-bu-đua trên đảo Gia-va của In-đô-nê-xi-a là một trong những công trình Phật giáo lớn nhất thế giới, còn Pa-gan ở Mi-an-ma nổi tiếng với hàng nghìn ngôi chùa tháp.",
+    "Khu đền tháp Mỹ Sơn của người Chăm ở Việt Nam là minh chứng cho nghệ thuật xây gạch và điêu khắc Hindu giáo, được UNESCO ghi danh Di sản văn hoá thế giới năm 1999.",
+    "Nhờ nền nông nghiệp lúa nước phát triển, cư dân Đông Nam Á có tích luỹ lương thực và nhân lực, đó là điều kiện vật chất cho phép xây dựng những công trình kiến trúc khổng lồ như vậy."
+   ],
+   "topic_title": "Hành trình phát triển và thành tựu của văn minh Đông Nam Á",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/%C4%90%C3%B4ng_Nam_%C3%81",
+    "https://vi.wikipedia.org/wiki/Th%C3%A1nh_%C4%91%E1%BB%8Ba_M%E1%BB%B9_S%C6%A1n"
+   ],
+   "aliases": [
+    "Angkor Wat",
+    "Ăng-co Vát",
+    "Borobudur",
+    "Bô-rô-bu-đua",
+    "Pagan",
+    "Pa-gan",
+    "thành tựu văn minh Đông Nam Á"
+   ],
+   "traps": [
+    "Nhầm Bô-rô-bu-đua với Ăng-co Vát. Đúng: Bô-rô-bu-đua là công trình Phật giáo ở In-đô-nê-xi-a; Ăng-co Vát là đền của người Khơ-me ở Cam-pu-chia.",
+    "Nhầm Mỹ Sơn là công trình Phật giáo. Đúng: Mỹ Sơn là thánh địa Hindu giáo của người Chăm, chủ yếu thờ thần Si-va."
+   ],
+   "lessons": [
+    {
+     "book": "cánh diều",
+     "bai": 11
+    },
+    {
+     "book": "KNTT",
+     "bai": 10
+    },
+    {
+     "book": "CTST",
+     "bai": 14
+    }
+   ],
+   "fixed": [
+    "topic_title sai (đang ghi bài 'Cơ sở hình thành') -> 'Hành trình phát triển và thành tựu của văn minh Đông Nam Á'"
+   ]
+  },
+  {
+   "name": "Nhà nước Văn Lang",
+   "kind": "period",
+   "summary": "Nhà nước đầu tiên trong lịch sử Việt Nam, do các Vua Hùng đứng đầu, kinh đô ở Phong Châu, tồn tại khoảng từ thế kỉ VII TCN đến khi được thay bằng nước Âu Lạc cuối thế kỉ III TCN.",
+   "facts": [
+    "Văn Lang là nhà nước đầu tiên trong lịch sử Việt Nam, ra đời khoảng thế kỉ VII TCN trên cơ sở nền văn hoá Đông Sơn ở lưu vực sông Hồng, sông Mã, sông Cả.",
+    "Đứng đầu nhà nước Văn Lang là Hùng Vương, còn gọi là Lạc Vương, đóng đô ở Phong Châu, vùng Việt Trì - Phú Thọ ngày nay.",
+    "Cả nước Văn Lang được chia thành 15 bộ; giúp việc cho vua có Lạc hầu coi việc dân sự và Lạc tướng đứng đầu các bộ, dưới nữa là Bồ chính đứng đầu các chiềng, chạ.",
+    "Kinh tế chính của cư dân Văn Lang là trồng lúa nước, kết hợp chăn nuôi, đánh cá và các nghề thủ công như đúc đồng, làm gốm, dệt vải.",
+    "Cư dân Văn Lang có tục xăm mình, nhuộm răng, ăn trầu và thờ cúng tổ tiên cùng các lực lượng tự nhiên, đó là nền móng của bản sắc văn hoá Việt.",
+    "Chính vì tổ chức nhà nước còn sơ khai và nhu cầu chống ngoại xâm cùng trị thuỷ tăng lên, Văn Lang được thay thế bằng nhà nước Âu Lạc do Thục Phán lập ra vào cuối thế kỉ III TCN."
+   ],
+   "topic_title": "Văn minh Văn Lang – Âu Lạc",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/V%C4%83n_Lang",
+    "https://vi.wikipedia.org/wiki/V%C4%83n_h%C3%B3a_%C4%90%C3%B4ng_S%C6%A1n"
+   ],
+   "aliases": [
+    "nước Văn Lang",
+    "thời Hùng Vương",
+    "Lạc Việt",
+    "Phong Châu"
+   ],
+   "actors": [
+    "Hùng Vương"
+   ],
+   "place": "Kinh đô Phong Châu, vùng Việt Trì - Phú Thọ ngày nay",
+   "traps": [
+    "Nhầm kinh đô Văn Lang với Cổ Loa. Đúng: kinh đô Văn Lang là Phong Châu; Cổ Loa là kinh đô của nước Âu Lạc thời An Dương Vương.",
+    "Nhầm số bộ. Đúng: nước Văn Lang chia làm 15 bộ.",
+    "Nhầm chức quan: Lạc hầu giúp vua việc dân sự ở trung ương, Lạc tướng đứng đầu các bộ, Bồ chính đứng đầu làng bản."
+   ],
+   "lessons": [
+    {
+     "book": "cánh diều",
+     "bai": 12
+    },
+    {
+     "book": "CTST",
+     "bai": 15
+    }
+   ],
+   "date_start": "-700",
+   "fixed": [
+    "Bổ sung date_start ~ thế kỉ VII TCN"
+   ]
+  },
+  {
+   "name": "Nhà nước Âu Lạc",
+   "kind": "period",
+   "summary": "Nhà nước do An Dương Vương Thục Phán lập ra sau khi hợp nhất Âu Việt và Lạc Việt, đóng đô ở Cổ Loa, nổi tiếng với thành Cổ Loa và nỏ bắn nhiều tên, sụp đổ năm 179 TCN trước Triệu Đà.",
+   "facts": [
+    "Sau khi lãnh đạo người Âu Việt và Lạc Việt kháng chiến chống quân Tần thắng lợi, Thục Phán lên ngôi xưng An Dương Vương và lập nước Âu Lạc vào cuối thế kỉ III TCN.",
+    "Kinh đô Âu Lạc được dời về Cổ Loa, thuộc huyện Đông Anh, Hà Nội ngày nay, nơi có vị trí trung tâm đồng bằng, kiểm soát được các tuyến đường thuỷ bộ quan trọng.",
+    "Thành Cổ Loa được xây theo hình xoáy ốc với ba vòng thành, vòng ngoài chu vi khoảng 8 km, đắp bằng đất nện có kè đá ở chân, vừa là kinh đô vừa là quân thành.",
+    "Khảo cổ học tại Cổ Loa đã tìm thấy hàng vạn mũi tên đồng, chứng thực trình độ luyện kim cao và truyền thuyết về nỏ thần bắn được nhiều mũi tên một lúc gắn với tướng Cao Lỗ.",
+    "Năm 179 TCN, do An Dương Vương chủ quan và mắc mưu chia rẽ nội bộ, Triệu Đà đánh chiếm được Âu Lạc, mở đầu hơn một nghìn năm Bắc thuộc của dân tộc ta.",
+    "Truyền thuyết Mị Châu - Trọng Thuỷ chính là cách nhân dân ghi nhớ bài học mất nước vì mất cảnh giác trước kẻ thù."
+   ],
+   "topic_title": "Văn minh Văn Lang – Âu Lạc",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/%C3%82u_L%E1%BA%A1c",
+    "https://vi.wikipedia.org/wiki/C%E1%BB%95_Loa"
+   ],
+   "aliases": [
+    "nước Âu Lạc",
+    "An Dương Vương",
+    "Thục Phán",
+    "thành Cổ Loa",
+    "Loa Thành"
+   ],
+   "actors": [
+    "An Dương Vương (Thục Phán)",
+    "Cao Lỗ",
+    "Triệu Đà"
+   ],
+   "date_end": "-179",
+   "place": "Cổ Loa, Đông Anh, Hà Nội",
+   "traps": [
+    "Nhầm năm mất nước. Đúng: Âu Lạc rơi vào tay Triệu Đà năm 179 TCN.",
+    "Nhầm năm thành lập: sách giáo khoa Việt Nam thường ghi Âu Lạc ra đời khoảng năm 208 TCN, trong khi một số tài liệu ghi 257 TCN; điểm chắc chắn là cuối thế kỉ III TCN.",
+    "Nhầm An Dương Vương là một vị Vua Hùng. Đúng: An Dương Vương là Thục Phán, người thay thế triều đại Hùng Vương và lập nước Âu Lạc."
+   ],
+   "lessons": [
+    {
+     "book": "cánh diều",
+     "bai": 12
+    },
+    {
+     "book": "CTST",
+     "bai": 15
+    }
+   ]
+  },
+  {
+   "name": "Văn hoá Đông Sơn và trống đồng",
+   "kind": "artifact",
+   "summary": "Nền văn hoá đồ đồng phát triển rực rỡ ở Bắc Bộ và Bắc Trung Bộ khoảng thế kỉ VIII TCN đến thế kỉ II TCN, là cơ sở vật chất của văn minh Văn Lang - Âu Lạc, tiêu biểu là trống đồng.",
+   "facts": [
+    "Văn hoá Đông Sơn có niên đại khoảng từ 800 TCN đến 200 TCN, phân bố ở Bắc Bộ và Bắc Trung Bộ Việt Nam, dọc lưu vực sông Hồng, sông Mã, sông Cả.",
+    "Di chỉ đầu tiên được phát hiện năm 1924 bên bờ sông Mã ở làng Đông Sơn, Thanh Hoá, và đến năm 1934 học giả Robert von Heine-Geldern chính thức đặt tên là 'văn hoá Đông Sơn'.",
+    "Hiện vật tiêu biểu nhất là trống đồng Đông Sơn; đã phát hiện khoảng 140 chiếc ở Việt Nam, chiếm gần một nửa số trống loại này được biết ở Đông Nam Á.",
+    "Mặt trống đồng khắc hình ngôi sao nhiều cánh ở giữa cùng các vòng hoa văn hình người múa, nhà sàn, thuyền, chim lạc, phản ánh sinh động đời sống và tín ngưỡng thờ Mặt Trời của cư dân Việt cổ.",
+    "Chính trình độ luyện kim đồng thau đạt tới đỉnh cao của văn hoá Đông Sơn đã tạo ra dư thừa sản phẩm và phân hoá xã hội, là cơ sở vật chất cho sự ra đời nhà nước Văn Lang.",
+    "Trống đồng còn là biểu tượng quyền lực của thủ lĩnh và là nhạc khí dùng trong lễ hội, cầu mưa của cư dân nông nghiệp lúa nước."
+   ],
+   "topic_title": "Văn minh Văn Lang – Âu Lạc",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/V%C4%83n_h%C3%B3a_%C4%90%C3%B4ng_S%C6%A1n"
+   ],
+   "aliases": [
+    "trống đồng Đông Sơn",
+    "trống đồng Ngọc Lũ",
+    "văn hoá Đông Sơn",
+    "đồ đồng Đông Sơn"
+   ],
+   "date_start": "-800",
+   "date_end": "-200",
+   "place": "Làng Đông Sơn, Thanh Hoá và lưu vực sông Hồng, sông Mã, sông Cả",
+   "traps": [
+    "Cho rằng trống đồng là đồ dùng sinh hoạt thường ngày. Đúng: trống đồng là nhạc khí lễ nghi và biểu tượng quyền lực của thủ lĩnh.",
+    "Nhầm chất liệu: trống Đông Sơn đúc bằng đồng thau (hợp kim đồng - thiếc - chì), không phải bằng sắt.",
+    "Đảo chiều nhân quả: nói nhà nước Văn Lang ra đời rồi mới có văn hoá Đông Sơn. Đúng: văn hoá Đông Sơn là cơ sở kinh tế - kĩ thuật dẫn tới sự ra đời của nhà nước Văn Lang."
+   ],
+   "lessons": [
+    {
+     "book": "cánh diều",
+     "bai": 12
+    },
+    {
+     "book": "CTST",
+     "bai": 15
+    }
+   ]
+  },
+  {
+   "name": "Văn minh Chăm-pa",
+   "kind": "period",
+   "summary": "Nền văn minh của người Chăm ở dải đất miền Trung Việt Nam, khởi nguồn từ nước Lâm Ấp năm 192, chịu ảnh hưởng sâu đậm văn hoá Ấn Độ, để lại chữ Chăm cổ và các đền tháp như Mỹ Sơn.",
+   "facts": [
+    "Năm 192, nhân dân huyện Tượng Lâm nổi dậy giành độc lập và lập nên nước Lâm Ấp, tiền thân của vương quốc Chăm-pa.",
+    "Lãnh thổ Chăm-pa lúc thịnh đạt trải dài ở miền Trung Việt Nam, khoảng từ Quảng Bình đến Bình Thuận ngày nay.",
+    "Cư dân Chăm-pa tiếp thu sâu sắc văn hoá Ấn Độ: theo Hindu giáo (nhất là thờ thần Si-va) và Phật giáo, dùng chữ Phạn rồi sáng tạo chữ Chăm cổ trên cơ sở chữ Ấn Độ; về sau một bộ phận theo Hồi giáo.",
+    "Thánh địa Mỹ Sơn thuộc xã Duy Phú, huyện Duy Xuyên, tỉnh Quảng Nam (nay thuộc thành phố Đà Nẵng sau sáp nhập tỉnh năm 2025), được xây dựng và bồi đắp từ khoảng thế kỉ IV đến thế kỉ XIII - XIV, gồm hơn 70 công trình chia thành các nhóm đền tháp; người Pháp phát hiện lại năm 1885.",
+    "Năm 1999, UNESCO ghi danh khu đền tháp Mỹ Sơn là Di sản văn hoá thế giới, ghi nhận giá trị nổi bật toàn cầu của kiến trúc và điêu khắc Chăm.",
+    "Từ năm 1471 lãnh thổ Chăm-pa thu hẹp dần, và đến năm 1832 dưới thời vua Minh Mạng thì phần đất còn lại được sáp nhập hoàn toàn vào lãnh thổ Việt Nam."
+   ],
+   "topic_title": "Văn minh Chăm-pa, văn minh Phù Nam",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Ch%C4%83m_Pa",
+    "https://vi.wikipedia.org/wiki/Th%C3%A1nh_%C4%91%E1%BB%8Ba_M%E1%BB%B9_S%C6%A1n"
+   ],
+   "aliases": [
+    "Chăm-pa",
+    "Champa",
+    "Lâm Ấp",
+    "Chiêm Thành",
+    "vương quốc Chăm",
+    "thánh địa Mỹ Sơn"
+   ],
+   "year": 192,
+   "date_start": "192",
+   "date_end": "1832",
+   "place": "Miền Trung Việt Nam, từ Quảng Bình đến Bình Thuận",
+   "traps": [
+    "Nhầm Mỹ Sơn là đền Phật giáo. Đúng: Mỹ Sơn là thánh địa Hindu giáo, thờ thần Si-va dưới hình tượng linga.",
+    "Nhầm năm UNESCO công nhận Mỹ Sơn. Đúng: năm 1999, cùng đợt với Phố cổ Hội An.",
+    "Nhầm Chăm-pa với Phù Nam. Đúng: Chăm-pa ở miền Trung, ra đời năm 192; Phù Nam ở Nam Bộ, tồn tại khoảng thế kỉ I đến thế kỉ VII."
+   ],
+   "lessons": [
+    {
+     "book": "cánh diều",
+     "bai": 13
+    }
+   ],
+   "fixed": [
+    "Chuẩn hoá địa danh Mỹ Sơn (xã Duy Phú, Duy Xuyên, Quảng Nam - nay thuộc TP Đà Nẵng)"
+   ]
+  },
+  {
+   "name": "Văn minh Phù Nam và văn hoá Óc Eo",
+   "kind": "period",
+   "summary": "Vương quốc cổ ở hạ lưu sông Mê Công tồn tại khoảng thế kỉ I đến thế kỉ VII, có nền thương mại biển phát triển với cảng thị Óc Eo, bị Chân Lạp thôn tính vào khoảng thế kỉ VII.",
+   "facts": [
+    "Phù Nam là vương quốc cổ hình thành khoảng thế kỉ I ở vùng hạ lưu sông Mê Công, có ảnh hưởng rộng từ Nam Bộ Việt Nam sang Cam-pu-chia, Thái Lan và bán đảo Mã Lai.",
+    "Văn hoá Óc Eo, có niên đại khoảng thế kỉ I đến thế kỉ VII, được coi là nền văn hoá vật chất của vương quốc Phù Nam; tên gọi lấy từ gò đất Óc Eo dưới chân núi Ba Thê, huyện Thoại Sơn, tỉnh An Giang.",
+    "Nhà khảo cổ người Pháp Louis Malleret khai quật Óc Eo trong khoảng tháng 2 đến tháng 4 năm 1944, mở đầu việc nghiên cứu khoa học về nền văn hoá này.",
+    "Tại Óc Eo đã tìm thấy tiền vàng La Mã của các hoàng đế Antoninus Pius và Marcus Aurelius cùng hiện vật Ấn Độ, Trung Hoa, chứng tỏ đây là cảng thị quốc tế sầm uất trên tuyến hàng hải Đông - Tây.",
+    "Cư dân Óc Eo ở nhà sàn, trồng lúa, đi lại bằng thuyền và giỏi các nghề thủ công như làm gốm, chế tác vàng, thuỷ tinh; họ theo cả Phật giáo lẫn Hindu giáo.",
+    "Vào khoảng thế kỉ VII, Chân Lạp tấn công và thôn tính Phù Nam, chấm dứt sự tồn tại của vương quốc này."
+   ],
+   "topic_title": "Văn minh Chăm-pa, văn minh Phù Nam",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Ph%C3%B9_Nam",
+    "https://vi.wikipedia.org/wiki/V%C4%83n_h%C3%B3a_%C3%93c_Eo"
+   ],
+   "aliases": [
+    "Phù Nam",
+    "Funan",
+    "văn hoá Óc Eo",
+    "Oc Eo",
+    "cảng thị Óc Eo",
+    "Ba Thê"
+   ],
+   "date_start": "1",
+   "date_end": "700",
+   "place": "Hạ lưu sông Mê Công, Nam Bộ Việt Nam ngày nay",
+   "actors": [
+    "Louis Malleret"
+   ],
+   "traps": [
+    "Cho rằng Óc Eo là một vương quốc. Đúng: Óc Eo là tên một địa điểm khảo cổ và nền văn hoá vật chất; vương quốc là Phù Nam.",
+    "Nhầm nước đã tiêu diệt Phù Nam. Đúng: Chân Lạp, vào khoảng thế kỉ VII - không phải Chăm-pa.",
+    "Nhầm năm khai quật Óc Eo. Đúng: Louis Malleret khai quật năm 1944."
+   ],
+   "lessons": [
+    {
+     "book": "cánh diều",
+     "bai": 13
+    }
+   ]
+  },
+  {
+   "name": "Văn minh Đại Việt",
+   "kind": "period",
+   "summary": "Nền văn minh của người Việt trong thời kì độc lập tự chủ từ thế kỉ X đến giữa thế kỉ XIX, kế thừa văn minh Văn Lang - Âu Lạc, tiếp thu có chọn lọc văn minh bên ngoài; còn gọi là văn minh Thăng Long.",
+   "facts": [
+    "Văn minh Đại Việt là nền văn minh hình thành và phát triển trong thời kì đất nước độc lập, tự chủ, kéo dài gần một nghìn năm từ thế kỉ X đến giữa thế kỉ XIX; do gắn với kinh đô Thăng Long nên còn được gọi là văn minh Thăng Long.",
+    "Ba cơ sở hình thành của văn minh Đại Việt là: kế thừa nền văn minh Văn Lang - Âu Lạc, nền độc lập tự chủ giành lại được từ thế kỉ X, và việc tiếp thu có chọn lọc các thành tựu văn minh bên ngoài, chủ yếu là Trung Hoa và Ấn Độ.",
+    "Chính vì giành lại được độc lập sau hơn một nghìn năm Bắc thuộc mà người Việt mới có điều kiện xây dựng nhà nước, phát triển kinh tế và sáng tạo văn hoá theo bản sắc riêng.",
+    "Giai đoạn sơ kì từ thế kỉ X đến đầu thế kỉ XI gắn với công cuộc khôi phục nền tự chủ dưới các chính quyền họ Khúc, họ Dương, Ngô, Đinh và Tiền Lê.",
+    "Giai đoạn phát triển từ đầu thế kỉ XI đến thế kỉ XVI gắn với các triều Lý, Trần, Hồ, Lê sơ, khi Thăng Long trở thành trung tâm chính trị, kinh tế, văn hoá và văn minh Đại Việt đạt nhiều thành tựu rực rỡ.",
+    "Giai đoạn muộn từ thế kỉ XVI đến năm 1858 diễn ra trong tình trạng đất nước chia cắt và có thêm yếu tố mới do văn minh phương Tây du nhập; cuộc xâm lược của thực dân Pháp năm 1858 chấm dứt thời kì phát triển của văn minh Đại Việt."
+   ],
+   "topic_title": "Cơ sở hình thành và quá trình phát triển của văn minh Đại Việt",
+   "sources": [
+    "https://loigiaihay.com/ly-thuyet-van-minh-dai-viet-lich-su-10-chan-troi-sang-tao-a187270.html",
+    "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_Vi%E1%BB%87t"
+   ],
+   "aliases": [
+    "văn minh Thăng Long",
+    "văn minh Đại Việt",
+    "nền văn minh Đại Việt"
+   ],
+   "date_start": "938",
+   "date_end": "1858",
+   "place": "Đại Việt, kinh đô Thăng Long",
+   "traps": [
+    "Nhầm mốc kết thúc. Đúng: văn minh Đại Việt được tính kết thúc thời kì phát triển vào năm 1858, khi thực dân Pháp nổ súng xâm lược, chứ không phải năm 1945.",
+    "Cho rằng văn minh Đại Việt chỉ là sự sao chép văn minh Trung Hoa. Đúng: đó là sự tiếp thu có chọn lọc trên nền tảng kế thừa văn minh Văn Lang - Âu Lạc và bản sắc dân tộc."
+   ],
+   "lessons": [
+    {
+     "book": "cánh diều",
+     "bai": 14
+    }
+   ]
+  },
+  {
+   "name": "Quốc hiệu Đại Việt",
+   "kind": "concept",
+   "summary": "Quốc hiệu do vua Lý Thánh Tông đặt năm 1054 thay cho Đại Cồ Việt, được dùng trong hai giai đoạn 1054-1400 và 1428-1804, tổng cộng hơn 700 năm.",
+   "facts": [
+    "Năm 1054, vua Lý Thánh Tông đổi quốc hiệu nước ta từ Đại Cồ Việt thành Đại Việt, thể hiện ý thức về một quốc gia độc lập ngang hàng với phương Bắc.",
+    "Quốc hiệu Đại Cồ Việt trước đó do Đinh Bộ Lĩnh đặt sau khi dẹp loạn 12 sứ quân và lập nhà Đinh vào thế kỉ X.",
+    "Năm 1400, Hồ Quý Ly lập nhà Hồ và đổi quốc hiệu thành Đại Ngu, nên quốc hiệu Đại Việt bị gián đoạn.",
+    "Sau khi khởi nghĩa Lam Sơn thắng lợi và quân Minh rút về năm 1427, Lê Lợi khôi phục quốc hiệu Đại Việt vào năm 1428.",
+    "Năm 1804, vua Gia Long đổi quốc hiệu thành Việt Nam, chấm dứt hơn 700 năm sử dụng quốc hiệu Đại Việt."
+   ],
+   "topic_title": "Cơ sở hình thành và quá trình phát triển của văn minh Đại Việt",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_Vi%E1%BB%87t"
+   ],
+   "aliases": [
+    "Đại Việt",
+    "Đại Cồ Việt",
+    "Đại Ngu",
+    "quốc hiệu nước ta"
+   ],
+   "year": 1054,
+   "date_start": "1054",
+   "date_end": "1804",
+   "actors": [
+    "Lý Thánh Tông",
+    "Hồ Quý Ly",
+    "Lê Lợi",
+    "Gia Long"
+   ],
+   "traps": [
+    "Nhầm người đặt quốc hiệu Đại Việt. Đúng: vua Lý Thánh Tông năm 1054; Đinh Bộ Lĩnh là người đặt quốc hiệu Đại Cồ Việt.",
+    "Nhầm quốc hiệu thời nhà Hồ. Đúng: nhà Hồ đổi quốc hiệu thành Đại Ngu năm 1400.",
+    "Nhầm năm đổi thành Việt Nam. Đúng: năm 1804, dưới triều vua Gia Long."
+   ],
+   "lessons": [
+    {
+     "book": "cánh diều",
+     "bai": 14
+    }
+   ]
+  },
+  {
+   "name": "Văn Miếu – Quốc Tử Giám",
+   "kind": "place",
+   "summary": "Quần thể di tích ở Hà Nội, gồm Văn Miếu dựng năm 1070 thời Lý Thánh Tông và Quốc Tử Giám lập năm 1076 thời Lý Nhân Tông - trường đại học đầu tiên của Việt Nam, nơi lưu giữ 82 bia tiến sĩ.",
+   "facts": [
+    "Văn Miếu được xây dựng năm 1070 dưới thời vua Lý Thánh Tông để thờ Khổng Tử và các bậc tiên hiền Nho học, đồng thời là nơi học tập của hoàng thái tử.",
+    "Năm 1076, vua Lý Nhân Tông cho lập Quốc Tử Giám bên cạnh Văn Miếu, được coi là trường đại học đầu tiên của Việt Nam, ban đầu dành cho con em quý tộc rồi mở rộng cho học trò giỏi trong dân.",
+    "Tại đây hiện còn 82 bia tiến sĩ, bia sớm nhất dựng năm 1484 ghi khoa thi năm 1442 và bia muộn nhất dựng năm 1780 ghi khoa thi năm 1779, phản ánh hơn ba thế kỉ khoa cử của nước ta.",
+    "Ngày 9/3/2010, tại Ma Cao (Trung Quốc), 82 bia tiến sĩ được UNESCO ghi danh là Di sản tư liệu thế giới KHU VỰC châu Á - Thái Bình Dương; đến ngày 27/7/2011 mới được ghi danh Di sản tư liệu thế giới trên phạm vi TOÀN CẦU (chương trình Ký ức thế giới).",
+    "Việc dựng bia tiến sĩ nhằm đề cao việc học và khuyến khích nhân tài, thể hiện tư tưởng 'hiền tài là nguyên khí quốc gia' mà Thân Nhân Trung đã viết trong bài kí bia năm 1484.",
+    "Năm 2012, Khuê Văn Các trong khuôn viên Văn Miếu được chọn làm biểu tượng của Thủ đô Hà Nội."
+   ],
+   "topic_title": "Một số thành tựu của văn minh Đại Việt",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/V%C4%83n_Mi%E1%BA%BFu_-_Qu%E1%BB%91c_T%E1%BB%AD_Gi%C3%A1m",
+    "https://vi.wikipedia.org/wiki/Bia_ti%E1%BA%BFn_s%C4%A9_V%C4%83n_Mi%E1%BA%BFu_Th%C4%83ng_Long"
+   ],
+   "aliases": [
+    "Văn Miếu Quốc Tử Giám",
+    "Quốc Tử Giám",
+    "bia tiến sĩ",
+    "Khuê Văn Các",
+    "trường đại học đầu tiên của Việt Nam"
+   ],
+   "year": 1070,
+   "place": "Hà Nội",
+   "actors": [
+    "Lý Thánh Tông",
+    "Lý Nhân Tông",
+    "Thân Nhân Trung"
+   ],
+   "traps": [
+    "Gộp hai mốc làm một. Đúng: Văn Miếu dựng năm 1070 (Lý Thánh Tông), Quốc Tử Giám lập năm 1076 (Lý Nhân Tông).",
+    "Nhầm số bia tiến sĩ. Đúng: hiện còn 82 bia.",
+    "Nhầm loại và cấp danh hiệu UNESCO. Đúng: 82 bia tiến sĩ là DI SẢN TƯ LIỆU (chương trình Ký ức thế giới) - cấp khu vực châu Á - Thái Bình Dương năm 2010, cấp toàn cầu năm 2011 - không phải Di sản văn hoá vật thể thế giới."
+   ],
+   "lessons": [
+    {
+     "book": "cánh diều",
+     "bai": 15
+    }
+   ],
+   "fixed": [
+    "Sửa danh hiệu UNESCO 2010: là Di sản tư liệu thế giới KHU VỰC châu Á - TBD; toàn cầu là 27/7/2011",
+    "Bổ sung bia muộn nhất 1780 ghi khoa thi 1779"
+   ]
+  },
+  {
+   "name": "Nguyễn Hiền",
+   "kind": "person",
+   "summary": "Trạng nguyên trẻ nhất trong lịch sử khoa bảng Việt Nam, quê Nam Định, đỗ đầu khoa thi năm 1247 khi mới 13 tuổi dưới triều vua Trần Thái Tông.",
+   "facts": [
+    "Nguyễn Hiền sinh năm 1234 tại làng Dương A, nay thuộc huyện Nam Trực, tỉnh Nam Định, và mất năm 1256 khi mới 22 tuổi.",
+    "Năm 1247, dưới triều vua Trần Thái Tông, Nguyễn Hiền đỗ Trạng nguyên khi mới 13 tuổi, trở thành trạng nguyên trẻ nhất trong lịch sử khoa bảng Việt Nam.",
+    "Khoa thi năm 1247 cũng là khoa thi đầu tiên đặt danh hiệu Tam khôi gồm Trạng nguyên, Bảng nhãn, Thám hoa; cùng khoa với Nguyễn Hiền có Lê Văn Hưu đỗ Bảng nhãn lúc 17 tuổi và Đặng Ma La đỗ Thám hoa lúc 14 tuổi.",
+    "Chính vì Nguyễn Hiền còn quá nhỏ tuổi nên tương truyền vua cho ông về quê học thêm lễ nghi trước khi ra làm quan.",
+    "Tấm gương Nguyễn Hiền được nhân dân lưu truyền như biểu tượng của tinh thần hiếu học và trí thông minh của người Việt."
+   ],
+   "topic_title": "Một số thành tựu của văn minh Đại Việt",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Nguy%E1%BB%85n_Hi%E1%BB%81n",
+    "https://vi.wikipedia.org/wiki/Khoa_b%E1%BA%A3ng_Vi%E1%BB%87t_Nam"
+   ],
+   "aliases": [
+    "Trạng nguyên Nguyễn Hiền",
+    "Trạng Hiền",
+    "trạng nguyên trẻ nhất Việt Nam",
+    "trạng nguyên 13 tuổi"
+   ],
+   "date_start": "1234",
+   "date_end": "1256",
+   "place": "Làng Dương A, Nam Trực, Nam Định",
+   "actors": [
+    "Trần Thái Tông",
+    "Lê Văn Hưu",
+    "Đặng Ma La"
+   ],
+   "traps": [
+    "BẪY QUAN TRỌNG: trạng nguyên trẻ nhất lịch sử khoa bảng Việt Nam, đỗ năm 13 tuổi thời vua Trần Thái Tông là NGUYỄN HIỀN. Không có nhân vật nào tên 'Nguyễn Minh Sát' trong lịch sử khoa bảng Việt Nam.",
+    "Nhầm Nguyễn Hiền với người đỗ đầu khoa thi đầu tiên. Đúng: khoa thi đầu tiên của nước ta là năm 1075 thời Lý Nhân Tông, người đỗ đầu là Lê Văn Thịnh.",
+    "Nhầm triều vua. Đúng: Nguyễn Hiền đỗ trạng nguyên năm 1247 dưới triều Trần Thái Tông, không phải Trần Nhân Tông."
+   ],
+   "lessons": [
+    {
+     "book": "cánh diều",
+     "bai": 15
+    }
+   ]
+  },
+  {
+   "name": "Khoa cử Đại Việt",
+   "kind": "concept",
+   "summary": "Chế độ thi cử Nho học chọn quan lại, bắt đầu từ khoa thi năm 1075 thời Lý Nhân Tông và chấm dứt năm 1919 thời Nguyễn, kéo dài hơn 840 năm.",
+   "facts": [
+    "Khoa thi đầu tiên của nước ta được mở năm 1075 dưới triều vua Lý Nhân Tông, gọi là khoa Minh kinh bác học, và Lê Văn Thịnh là người đỗ đầu.",
+    "Danh hiệu Tam khôi gồm Trạng nguyên, Bảng nhãn, Thám hoa xuất hiện từ thời Trần, lần đầu ở khoa thi năm 1247.",
+    "Chế độ khoa cử phát triển quy củ nhất dưới thời Lê sơ, đặc biệt thời vua Lê Thánh Tông ở thế kỉ XV, khi việc thi cử được tổ chức đều đặn và bắt đầu dựng bia tiến sĩ từ năm 1484.",
+    "Khoa thi Nho học cuối cùng ở Việt Nam được tổ chức năm 1919 dưới triều vua Khải Định, khép lại 844 năm khoa cử.",
+    "Vì lấy học vấn làm tiêu chuẩn chọn quan, khoa cử đã mở đường tiến thân cho con em thường dân có tài, góp phần tạo nên tầng lớp trí thức Nho học của Đại Việt."
+   ],
+   "topic_title": "Một số thành tựu của văn minh Đại Việt",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Khoa_b%E1%BA%A3ng_Vi%E1%BB%87t_Nam",
+    "https://vi.wikipedia.org/wiki/V%C4%83n_Mi%E1%BA%BFu_-_Qu%E1%BB%91c_T%E1%BB%AD_Gi%C3%A1m"
+   ],
+   "aliases": [
+    "thi cử Nho học",
+    "khoa bảng Việt Nam",
+    "Tam khôi",
+    "Trạng nguyên Bảng nhãn Thám hoa"
+   ],
+   "date_start": "1075",
+   "date_end": "1919",
+   "actors": [
+    "Lý Nhân Tông",
+    "Lê Văn Thịnh",
+    "Lê Thánh Tông",
+    "Khải Định"
+   ],
+   "traps": [
+    "Nhầm khoa thi đầu tiên với việc lập Quốc Tử Giám. Đúng: khoa thi đầu tiên năm 1075, Quốc Tử Giám lập năm 1076.",
+    "Nhầm năm chấm dứt khoa cử. Đúng: khoa thi Nho học cuối cùng năm 1919 thời vua Khải Định."
+   ],
+   "lessons": [
+    {
+     "book": "cánh diều",
+     "bai": 15
+    }
+   ]
+  },
+  {
+   "name": "Quốc triều hình luật (Luật Hồng Đức)",
+   "kind": "artifact",
+   "summary": "Bộ luật tiêu biểu nhất của Đại Việt, hoàn chỉnh dưới thời vua Lê Thánh Tông ở thế kỉ XV, gồm 722 điều, nổi bật ở việc bảo vệ quyền lợi của người phụ nữ.",
+   "facts": [
+    "Quốc triều hình luật, thường gọi là Bộ luật Hồng Đức, là bộ luật chính thức của nhà nước Đại Việt thời Lê sơ, được hoàn chỉnh dưới triều vua Lê Thánh Tông trong niên hiệu Hồng Đức, khoảng 1470-1497.",
+    "Bộ luật được khởi thảo từ thời Lê Thái Tổ, bổ sung qua các triều Lê Thái Tông, Lê Nhân Tông rồi hoàn thiện thời Lê Thánh Tông, nên nó là kết quả của cả một quá trình chứ không phải công trình của một đời vua.",
+    "Bộ luật gồm 722 điều, chia thành 13 chương trong 6 quyển, hiện được lưu giữ tại Viện Nghiên cứu Hán Nôm ở Hà Nội.",
+    "Điểm tiến bộ nổi bật là bảo vệ quyền lợi người phụ nữ: con gái có quyền thừa kế tài sản, hình phạt dành cho phụ nữ nhẹ hơn nam giới, và người vợ được quyền quản lí tài sản gia đình khi chồng mất.",
+    "Vì đề cao pháp luật và bảo vệ quyền tư hữu ruộng đất của nông dân, Quốc triều hình luật được coi là thành tựu lập pháp lớn nhất của văn minh Đại Việt."
+   ],
+   "topic_title": "Một số thành tựu của văn minh Đại Việt",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Qu%E1%BB%91c_tri%E1%BB%81u_h%C3%ACnh_lu%E1%BA%ADt"
+   ],
+   "aliases": [
+    "Bộ luật Hồng Đức",
+    "Luật Hồng Đức",
+    "Lê triều hình luật",
+    "Quốc triều hình luật"
+   ],
+   "actors": [
+    "Lê Thánh Tông"
+   ],
+   "traps": [
+    "Nhầm Quốc triều hình luật với Hoàng Việt luật lệ. Đúng: Quốc triều hình luật (Luật Hồng Đức) là của nhà Lê sơ thế kỉ XV; Hoàng Việt luật lệ (Luật Gia Long) là của nhà Nguyễn đầu thế kỉ XIX.",
+    "Nhầm số điều. Đúng: 722 điều, 13 chương, 6 quyển.",
+    "Nhầm bộ luật thành văn đầu tiên. Đúng: bộ luật thành văn đầu tiên của nước ta là Hình thư thời Lý (năm 1042), Luật Hồng Đức ra đời sau."
+   ],
+   "lessons": [
+    {
+     "book": "cánh diều",
+     "bai": 15
+    }
+   ]
+  },
+  {
+   "name": "Chữ Nôm",
+   "kind": "artifact",
+   "summary": "Hệ chữ viết do người Việt sáng tạo trên cơ sở chữ Hán để ghi tiếng Việt, xuất hiện sau thế kỉ X, phát triển mạnh từ thời Trần và trở thành văn tự hành chính dưới triều Tây Sơn.",
+   "facts": [
+    "Chữ Nôm là hệ thống văn tự do người Việt tạo ra dựa trên chất liệu chữ Hán, dùng bộ thủ, âm đọc và nghĩa của chữ Hán để ghi âm tiếng Việt.",
+    "Chữ Nôm hình thành từ khoảng thế kỉ X, sau khi dân tộc ta giành lại độc lập năm 938; dấu tích sớm còn lại như chuông chùa Vân Bản (Hải Phòng, đúc năm 1076) và các bia thế kỉ XII - XIII, và chữ Nôm được dùng ngày càng rộng rãi từ thời Trần (thế kỉ XIII - XIV).",
+    "Chính nhu cầu ghi lại tiếng nói và tâm hồn người Việt mà chữ Hán không diễn tả hết đã thúc đẩy việc sáng tạo chữ Nôm, thể hiện ý thức tự chủ về văn hoá.",
+    "Dưới triều Hồ ở đầu thế kỉ XV, nhiều sách kinh điển Nho học được dịch ra chữ Nôm; đến triều Tây Sơn giai đoạn 1788-1802, toàn bộ văn kiện hành chính bắt buộc phải viết bằng chữ Nôm.",
+    "Nhiều kiệt tác văn học dân tộc được viết bằng chữ Nôm như Truyện Kiều của Nguyễn Du, Chinh phụ ngâm bản diễn Nôm của Đoàn Thị Điểm và Lục Vân Tiên của Nguyễn Đình Chiểu."
+   ],
+   "topic_title": "Một số thành tựu của văn minh Đại Việt",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Ch%E1%BB%AF_N%C3%B4m"
+   ],
+   "aliases": [
+    "chữ Nôm",
+    "quốc âm",
+    "văn tự Nôm"
+   ],
+   "actors": [
+    "Nguyễn Du",
+    "Đoàn Thị Điểm",
+    "Nguyễn Đình Chiểu"
+   ],
+   "traps": [
+    "Nhầm chữ Nôm với chữ Quốc ngữ. Đúng: chữ Nôm dựa trên chữ Hán, ra đời sau thế kỉ X; chữ Quốc ngữ dùng chữ cái La-tinh, do các giáo sĩ phương Tây tạo ra từ thế kỉ XVII.",
+    "Cho rằng chữ Nôm là chữ Hán. Đúng: chữ Nôm dùng chất liệu chữ Hán nhưng là hệ chữ riêng để ghi tiếng Việt, người biết chữ Hán chưa chắc đọc được chữ Nôm."
+   ],
+   "lessons": [
+    {
+     "book": "cánh diều",
+     "bai": 15
+    }
+   ],
+   "fixed": [
+    "Bổ sung mốc chữ Nôm được dùng rộng rãi từ thế kỉ XIII và dẫn chứng chuông chùa Vân Bản 1076"
+   ]
+  },
+  {
+   "name": "Cộng đồng 54 dân tộc Việt Nam",
+   "kind": "concept",
+   "summary": "Việt Nam là quốc gia đa dân tộc với 54 dân tộc anh em cùng sinh sống, trong đó dân tộc Kinh chiếm khoảng 85% dân số, các dân tộc còn lại phân bố chủ yếu ở miền núi và trung du.",
+   "facts": [
+    "Việt Nam hiện có 54 dân tộc anh em cùng sinh sống, theo danh mục các thành phần dân tộc được Nhà nước ban hành từ năm 1979.",
+    "Dân tộc Kinh, còn gọi là dân tộc Việt, chiếm khoảng 85% dân số cả nước và cư trú chủ yếu ở đồng bằng và đô thị.",
+    "Các dân tộc thiểu số đông dân nhất gồm Tày, Thái, Mường, Khơ-me, Nùng, Mông, mỗi dân tộc chiếm khoảng trên dưới 1-2% dân số.",
+    "Các dân tộc Việt Nam thuộc nhiều ngữ hệ khác nhau, trong đó lớn nhất là ngữ hệ Nam Á (bao gồm nhóm Việt - Mường, Môn - Khơ-me), bên cạnh ngữ hệ Thái - Ka Đai, Mông - Dao, Nam Đảo và Hán - Tạng.",
+    "Các dân tộc thiểu số cư trú chủ yếu ở vùng núi phía Bắc, Trường Sơn - Tây Nguyên và một số vùng ở Nam Bộ, những địa bàn có vị trí chiến lược về quốc phòng và môi trường.",
+    "Vì mỗi dân tộc có tiếng nói, trang phục, lễ hội và tri thức dân gian riêng nên văn hoá Việt Nam là nền văn hoá thống nhất trong đa dạng."
+   ],
+   "topic_title": "Các dân tộc trên đất nước Việt Nam",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/C%C3%A1c_d%C3%A2n_t%E1%BB%99c_t%E1%BA%A1i_Vi%E1%BB%87t_Nam"
+   ],
+   "aliases": [
+    "54 dân tộc anh em",
+    "các dân tộc Việt Nam",
+    "cộng đồng dân tộc Việt Nam",
+    "dân tộc thiểu số Việt Nam"
+   ],
+   "place": "Việt Nam",
+   "traps": [
+    "Nhầm số dân tộc. Đúng: 54 dân tộc, theo danh mục ban hành năm 1979.",
+    "Nhầm 'dân tộc Kinh' với 'dân tộc Việt Nam'. Đúng: Kinh là một trong 54 dân tộc; dân tộc Việt Nam là khái niệm chỉ cả cộng đồng quốc gia.",
+    "Nhầm ngữ hệ: tiếng Việt thuộc ngữ hệ Nam Á, nhóm Việt - Mường, không thuộc ngữ hệ Hán - Tạng."
+   ],
+   "lessons": [
+    {
+     "book": "cánh diều",
+     "bai": 16
+    },
+    {
+     "book": "NXBDG",
+     "bai": 14
+    },
+    {
+     "book": "CTST",
+     "bai": 19
+    }
+   ]
+  },
+  {
+   "name": "Các quốc gia cổ đại trên đất nước Việt Nam",
+   "kind": "period",
+   "summary": "Trên lãnh thổ Việt Nam ngày nay từng tồn tại ba nền văn minh cổ tương ứng ba quốc gia cổ: Văn Lang - Âu Lạc ở Bắc Bộ, Chăm-pa ở Trung Bộ và Phù Nam ở Nam Bộ.",
+   "facts": [
+    "Ba quốc gia cổ đại từng tồn tại trên đất nước Việt Nam là Văn Lang - Âu Lạc ở Bắc Bộ và Bắc Trung Bộ, Chăm-pa ở duyên hải miền Trung, và Phù Nam ở Nam Bộ.",
+    "Văn Lang ra đời khoảng thế kỉ VII TCN trên nền văn hoá Đông Sơn, tiếp đó là Âu Lạc cuối thế kỉ III TCN, tồn tại đến năm 179 TCN.",
+    "Chăm-pa hình thành từ nước Lâm Ấp năm 192 trên nền văn hoá Sa Huỳnh, chịu ảnh hưởng sâu của văn hoá Ấn Độ.",
+    "Phù Nam ra đời khoảng thế kỉ I trên nền văn hoá Óc Eo ở hạ lưu sông Mê Công và tồn tại đến khoảng thế kỉ VII thì bị Chân Lạp thôn tính.",
+    "Chính vì ba quốc gia cổ này đều nằm trên lãnh thổ Việt Nam ngày nay nên di sản của cả ba đều là bộ phận hợp thành lịch sử và văn hoá Việt Nam."
+   ],
+   "topic_title": "Một số nền văn minh cổ trên đất nước Việt Nam",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/V%C4%83n_Lang",
+    "https://vi.wikipedia.org/wiki/Ch%C4%83m_Pa",
+    "https://vi.wikipedia.org/wiki/Ph%C3%B9_Nam"
+   ],
+   "aliases": [
+    "ba quốc gia cổ đại Việt Nam",
+    "Văn Lang Âu Lạc Chăm-pa Phù Nam"
+   ],
+   "traps": [
+    "Ghép sai nền văn hoá với quốc gia. Đúng: Đông Sơn ứng với Văn Lang - Âu Lạc, Sa Huỳnh ứng với Chăm-pa, Óc Eo ứng với Phù Nam.",
+    "Cho rằng Phù Nam nằm ở miền Trung. Đúng: Phù Nam ở Nam Bộ; Chăm-pa mới ở miền Trung."
+   ],
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 11
+    },
+    {
+     "book": "cánh diều",
+     "bai": 12
+    },
+    {
+     "book": "CTST",
+     "bai": 15
+    }
+   ],
+   "fixed": [
+    "topic_title sai 'Các dân tộc trên đất nước VN' -> 'Một số nền văn minh cổ trên đất nước Việt Nam'; sửa lessons về KNTT bài 11"
+   ]
+  },
+  {
+   "name": "Khối đại đoàn kết dân tộc Việt Nam",
+   "kind": "concept",
+   "summary": "Truyền thống gắn bó giữa các dân tộc trên đất nước Việt Nam, hình thành từ nhu cầu trị thuỷ và chống ngoại xâm, được Đảng và Chủ tịch Hồ Chí Minh nâng lên thành chiến lược cách mạng.",
+   "facts": [
+    "Khối đại đoàn kết dân tộc Việt Nam hình thành từ rất sớm, bắt nguồn từ nhu cầu cùng nhau trị thuỷ, làm nông nghiệp lúa nước và cùng nhau chống ngoại xâm.",
+    "Chính vì phải liên tục đối phó với thiên tai và các cuộc xâm lược từ bên ngoài mà các cộng đồng cư dân trên đất nước ta sớm gắn kết thành một khối, đó là cơ sở lịch sử của tinh thần đoàn kết dân tộc.",
+    "Truyền thuyết Con Rồng cháu Tiên với hình ảnh trăm trứng nở trăm con là cách nhân dân giải thích nguồn gốc chung của các dân tộc anh em, làm nền tảng tinh thần cho khối đại đoàn kết.",
+    "Chủ tịch Hồ Chí Minh coi đại đoàn kết là vấn đề chiến lược, với câu nói nổi tiếng 'Đoàn kết, đoàn kết, đại đoàn kết. Thành công, thành công, đại thành công'.",
+    "Trong lịch sử hiện đại, khối đại đoàn kết được tổ chức thành các hình thức mặt trận dân tộc thống nhất, tạo nên sức mạnh tổng hợp đưa cách mạng Việt Nam đến thắng lợi.",
+    "Ngày nay, chính sách dân tộc của Nhà nước Việt Nam dựa trên nguyên tắc bình đẳng, đoàn kết, tôn trọng và giúp nhau cùng phát triển giữa các dân tộc."
+   ],
+   "topic_title": "Khối đại đoàn kết dân tộc trong lịch sử Việt Nam",
+   "sources": [
+    "https://hochiminh.vn/tu-tuong-dao-duc-ho-chi-minh/nghien-cuu-tu-tuong-dao-duc-ho-chi-minh/gia-tri-tu-tuong-ho-chi-minh-ve-dai-doan-ket-dan-toc-8632",
+    "https://vi.wikipedia.org/wiki/M%E1%BA%B7t_tr%E1%BA%ADn_T%E1%BB%95_qu%E1%BB%91c_Vi%E1%BB%87t_Nam"
+   ],
+   "aliases": [
+    "đại đoàn kết dân tộc",
+    "đoàn kết dân tộc",
+    "tư tưởng đại đoàn kết Hồ Chí Minh"
+   ],
+   "actors": [
+    "Hồ Chí Minh"
+   ],
+   "traps": [
+    "Cho rằng khối đại đoàn kết dân tộc chỉ mới xuất hiện từ khi có Đảng. Đúng: truyền thống đoàn kết có từ thời dựng nước, Đảng và Chủ tịch Hồ Chí Minh là người kế thừa và nâng lên thành đường lối chiến lược.",
+    "Đảo chiều nhân quả: nói có mặt trận rồi mới có đoàn kết. Đúng: truyền thống đoàn kết là cơ sở, mặt trận là hình thức tổ chức để tập hợp và phát huy sức mạnh đó."
+   ],
+   "lessons": [
+    {
+     "book": "cánh diều",
+     "bai": 17
+    },
+    {
+     "book": "KNTT",
+     "bai": 14
+    },
+    {
+     "book": "CTST",
+     "bai": 20
+    }
+   ]
+  },
+  {
+   "name": "Mặt trận Tổ quốc Việt Nam",
+   "kind": "org",
+   "summary": "Tổ chức liên minh chính trị tập hợp khối đại đoàn kết toàn dân tộc, thành lập ngày 10/9/1955, kế thừa các hình thức mặt trận trước đó và hợp nhất ba tổ chức mặt trận vào ngày 4/2/1977.",
+   "facts": [
+    "Mặt trận Tổ quốc Việt Nam được thành lập ngày 10 tháng 9 năm 1955, là tổ chức liên minh chính trị tập hợp rộng rãi các tầng lớp nhân dân.",
+    "Các tổ chức tiền thân của Mặt trận gồm Hội Phản đế đồng minh ra đời năm 1930, Mặt trận Việt Minh thành lập ngày 19 tháng 5 năm 1941, Mặt trận Liên Việt, và Mặt trận Dân tộc Giải phóng miền Nam Việt Nam ra đời ngày 20 tháng 12 năm 1960.",
+    "Sau khi đất nước thống nhất, ngày 4 tháng 2 năm 1977, ba tổ chức mặt trận ở hai miền được hợp nhất thành Mặt trận Tổ quốc Việt Nam duy nhất trong cả nước.",
+    "Ngày 18 tháng 11 hằng năm được lấy làm Ngày truyền thống của Mặt trận Tổ quốc Việt Nam và Ngày hội đại đoàn kết toàn dân tộc, gắn với sự kiện ngày 18/11/1930 Ban Thường vụ Trung ương Đảng ra chỉ thị thành lập Hội Phản đế đồng minh.",
+    "Theo Điều 9 Hiến pháp năm 2013, Mặt trận Tổ quốc Việt Nam là cơ sở chính trị của chính quyền nhân dân, đại diện bảo vệ quyền và lợi ích hợp pháp của nhân dân.",
+    "Chính vì mục tiêu tập hợp mọi lực lượng yêu nước, Mặt trận là hình thức tổ chức cụ thể để biến truyền thống đại đoàn kết thành sức mạnh thực tế trong xây dựng và bảo vệ Tổ quốc."
+   ],
+   "topic_title": "Khối đại đoàn kết dân tộc trong lịch sử Việt Nam",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/M%E1%BA%B7t_tr%E1%BA%ADn_T%E1%BB%95_qu%E1%BB%91c_Vi%E1%BB%87t_Nam"
+   ],
+   "aliases": [
+    "MTTQ Việt Nam",
+    "Mặt trận dân tộc thống nhất",
+    "Việt Minh",
+    "Mặt trận Liên Việt",
+    "Mặt trận Dân tộc Giải phóng miền Nam Việt Nam"
+   ],
+   "year": 1955,
+   "date_start": "1955-09-10",
+   "place": "Việt Nam",
+   "traps": [
+    "Nhầm ngày thành lập Mặt trận Tổ quốc Việt Nam với ngày truyền thống. Đúng: thành lập ngày 10/9/1955; ngày truyền thống và Ngày hội đại đoàn kết là 18/11, gắn với mốc 18/11/1930.",
+    "Nhầm Việt Minh với Mặt trận Tổ quốc. Đúng: Mặt trận Việt Minh thành lập ngày 19/5/1941 là một tổ chức tiền thân, không đồng nhất với Mặt trận Tổ quốc Việt Nam.",
+    "Nhầm năm hợp nhất ba mặt trận. Đúng: ngày 4/2/1977, sau khi đất nước thống nhất."
+   ],
+   "lessons": [
+    {
+     "book": "cánh diều",
+     "bai": 17
+    },
+    {
+     "book": "KNTT",
+     "bai": 14
+    },
+    {
+     "book": "CTST",
+     "bai": 20
+    }
+   ]
+  },
+  {
+   "name": "Nguyễn Trung Trực",
+   "kind": "person",
+   "summary": "Anh hùng dân chài lãnh đạo nghĩa quân chống Pháp ở Nam Kỳ, nổi tiếng với trận đốt tàu Ét-pê-răng trên vàm Nhật Tảo (1861) và trận đánh đồn Kiên Giang (1868); bị Pháp hành hình ngày 27/10/1868 tại Rạch Giá với câu nói bất hủ 'Bao giờ người Tây nhổ hết cỏ nước Nam thì mới hết người Nam đánh Tây'.",
+   "facts": [
+    "Nguyễn Trung Trực (tên thật Nguyễn Văn Lịch, còn gọi Quản Chơn, Quản Lịch) sinh năm 1838 tại làng Bình Nhựt, phủ Tân An, tỉnh Gia Định (nay thuộc vùng Long An - Tây Ninh), xuất thân từ gia đình chài lưới.",
+    "Ngày 10/12/1861, ông chỉ huy nghĩa quân đốt cháy tàu chiến L'Espérance (Ét-pê-răng) của Pháp trên vàm Nhật Tảo, chiến công được ca ngợi trong câu thơ 'Hoả hồng Nhật Tảo oanh thiên địa' của Huỳnh Mẫn Đạt.",
+    "Tháng 6 năm 1868, nghĩa quân của ông đánh chiếm đồn Kiên Giang (Rạch Giá), diệt và bắt sống nhiều sĩ quan, binh lính Pháp, thu hơn 100 khẩu súng - trận đánh làm chấn động Nam Kỳ.",
+    "Ngày 27/10/1868, thực dân Pháp hành hình ông tại chợ Rạch Giá khi ông mới 30 tuổi; trước khi chết ông khảng khái nói: 'Bao giờ người Tây nhổ hết cỏ nước Nam thì mới hết người Nam đánh Tây' (một dị bản chép: 'Bao giờ nước Nam hết cỏ thì mới hết người Nam đánh Tây').",
+    "Chính vì câu nói đó khẳng định ý chí kháng chiến không bao giờ dứt của nhân dân, Nguyễn Trung Trực được nhân dân Nam Bộ lập đền thờ, tiêu biểu là đền thờ ở Rạch Giá, và giỗ ông hằng năm vào cuối tháng 8 âm lịch."
+   ],
+   "topic_title": "Truyền thống yêu nước và kháng chiến chống thực dân Pháp xâm lược (1858 - 1884)",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Nguy%E1%BB%85n_Trung_Tr%E1%BB%B1c",
+    "https://baotanglichsu.vn/vi/Articles/3097/15075/khoi-nghia-nguyen-trung-truc-1861-1868-bao-gio-nuoc-nam-het-co-thi-moi-het-nguoi-nam-djanh-tay.html",
+    "https://angiang.gov.vn/vi/khi-phach-nguyen-trung-truc-sang-mai"
+   ],
+   "aliases": [
+    "Nguyễn Văn Lịch",
+    "Quản Chơn",
+    "Quản Lịch",
+    "anh hùng Nguyễn Trung Trực",
+    "Hoả hồng Nhật Tảo",
+    "Bao giờ người Tây nhổ hết cỏ nước Nam"
+   ],
+   "year": 1868,
+   "date_start": "1838",
+   "date_end": "1868-10-27",
+   "place": "Vàm Nhật Tảo và Rạch Giá (Kiên Giang), Nam Kỳ",
+   "actors": [
+    "Nguyễn Trung Trực",
+    "Huỳnh Mẫn Đạt"
+   ],
+   "traps": [
+    "BẪY QUAN TRỌNG: câu 'Bao giờ người Tây nhổ hết cỏ nước Nam thì mới hết người Nam đánh Tây' là của NGUYỄN TRUNG TRỰC (nói trước khi bị hành hình năm 1868), KHÔNG phải của Phan Bội Châu, Trương Định hay Nguyễn Đình Chiểu.",
+    "Nhầm hai chiến công. Đúng: đốt tàu Ét-pê-răng trên vàm Nhật Tảo năm 1861; đánh đồn Kiên Giang (Rạch Giá) năm 1868 - hai trận khác nhau, cách nhau 7 năm.",
+    "Nhầm Nguyễn Trung Trực với Trương Định. Đúng: Trương Định là Bình Tây Đại nguyên soái khởi nghĩa ở Gò Công (mất 1864); Nguyễn Trung Trực hoạt động ở Tân An - Rạch Giá, hi sinh năm 1868."
+   ],
+   "lessons": [],
+   "fixed": [
+    "Thẻ bổ sung mới, kiểm chứng độc lập qua vi.wikipedia + nguồn nhà nước/bảo tàng"
+   ]
+  },
+  {
+   "name": "Trần Phú",
+   "kind": "person",
+   "summary": "Tổng Bí thư đầu tiên của Đảng, được bầu tại Hội nghị lần thứ nhất Ban Chấp hành Trung ương Đảng họp ở Hương Cảng tháng 10/1930 khi mới 26 tuổi; người dự thảo Luận cương chính trị tháng 10/1930.",
+   "facts": [
+    "Trần Phú sinh ngày 1/5/1904 tại thành An Thổ, phủ Tuy An, tỉnh Phú Yên; quê gốc ở làng Đông Thái, nay thuộc xã Tùng Ảnh, huyện Đức Thọ, tỉnh Hà Tĩnh.",
+    "Tháng 10 năm 1930, Hội nghị lần thứ nhất Ban Chấp hành Trung ương Đảng họp ở Hương Cảng (Hồng Kông, Trung Quốc) đã thông qua Luận cương chính trị do Trần Phú dự thảo, đổi tên Đảng thành Đảng Cộng sản Đông Dương và bầu Trần Phú làm Tổng Bí thư đầu tiên của Đảng khi ông mới 26 tuổi.",
+    "Ngày 18/4/1931, Trần Phú bị thực dân Pháp bắt tại Sài Gòn; ngày 6/9/1931 ông hi sinh tại Nhà thương Chợ Quán khi mới 27 tuổi, để lại lời nhắn 'Hãy giữ vững chí khí chiến đấu'.",
+    "Cần phân biệt: Cương lĩnh chính trị đầu tiên của Đảng do Nguyễn Ái Quốc soạn thảo, được thông qua tại Hội nghị thành lập Đảng đầu năm 1930; còn Luận cương chính trị tháng 10/1930 là của Trần Phú.",
+    "Nguyễn Ái Quốc là người sáng lập Đảng và chủ trì Hội nghị hợp nhất ba tổ chức cộng sản đầu năm 1930, nhưng chưa từng giữ chức Tổng Bí thư; chức danh đó bắt đầu từ Trần Phú tháng 10/1930."
+   ],
+   "topic_title": "Đảng Cộng sản Việt Nam ra đời và những năm 1930 - 1931",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Tr%E1%BA%A7n_Ph%C3%BA",
+    "https://ubkttw.vn/danh-muc/tin-tuc-thoi-su/dong-chi-tran-phu-tong-bi-thu-dau-tien-cua-dang-va-nhung-cong-hien-to-lon-quan-trong-doi-voi-su-nghiep-cach-mang.html",
+    "https://special.nhandan.vn/nhung-cong-hien-cua-Tong-Bi-thu-Tran-Phu-voi-cach-mang-Vietnam/index.html"
+   ],
+   "aliases": [
+    "Tổng Bí thư đầu tiên của Đảng",
+    "đồng chí Trần Phú",
+    "người soạn thảo Luận cương chính trị 1930",
+    "Tổng Bí thư Trần Phú"
+   ],
+   "year": 1930,
+   "date_start": "1904-05-01",
+   "date_end": "1931-09-06",
+   "place": "Hương Cảng (Hồng Kông) - nơi họp Hội nghị Trung ương tháng 10/1930",
+   "actors": [
+    "Trần Phú",
+    "Nguyễn Ái Quốc"
+   ],
+   "traps": [
+    "BẪY QUAN TRỌNG: Tổng Bí thư ĐẦU TIÊN của Đảng là TRẦN PHÚ (bầu tháng 10/1930 tại Hương Cảng), KHÔNG phải Nguyễn Ái Quốc - Nguyễn Ái Quốc sáng lập Đảng nhưng không giữ chức Tổng Bí thư.",
+    "Nhầm Cương lĩnh với Luận cương. Đúng: Cương lĩnh chính trị đầu tiên (đầu năm 1930) do Nguyễn Ái Quốc soạn; Luận cương chính trị (tháng 10/1930) do Trần Phú soạn.",
+    "Nhầm nơi họp Hội nghị Trung ương tháng 10/1930. Đúng: họp ở Hương Cảng (Trung Quốc), không phải ở trong nước."
+   ],
+   "lessons": [],
+   "fixed": [
+    "Thẻ bổ sung mới, kiểm chứng độc lập qua vi.wikipedia + nguồn nhà nước/bảo tàng"
+   ]
+  },
+  {
+   "name": "Vua Dục Đức (vị vua trị vì ngắn nhất, năm 1883)",
+   "kind": "person",
+   "summary": "Vị vua thứ năm của triều Nguyễn, tên thật Nguyễn Phúc Ưng Chân, lên ngôi ngày 19/7/1883 và chỉ ở ngôi ba ngày thì bị hai phụ chính đại thần Tôn Thất Thuyết và Nguyễn Văn Tường phế truất - vị vua tại vị ngắn nhất trong lịch sử Việt Nam.",
+   "facts": [
+    "Dục Đức tên thật là Nguyễn Phúc Ưng Ái, sau được vua Tự Đức đổi tên thành Nguyễn Phúc Ưng Chân, sinh năm 1852, là con nuôi của vua Tự Đức.",
+    "Ông lên ngôi ngày 19/7/1883 sau khi vua Tự Đức mất, nhưng chỉ tại vị BA NGÀY (19 - 23/7/1883) thì bị hai phụ chính đại thần Tôn Thất Thuyết và Nguyễn Văn Tường phế truất.",
+    "Lý do phế truất được nêu ra là ông tự ý sửa di chiếu, có tang mà mặc áo màu và ham chơi bời; sau đó ông bị giam trong ngục thất kinh thành Huế và chết vì bị bỏ đói ngày 6/10/1883.",
+    "Chính vì việc phế lập diễn ra liên tiếp mà năm 1883 - 1884 triều Nguyễn có tới bốn vua nối nhau (Tự Đức, Dục Đức, Hiệp Hoà, Kiến Phúc), phản ánh cuộc khủng hoảng của triều đình khi Pháp đang xâm lược.",
+    "Con trai ông là vua Thành Thái, sau này lên ngôi năm 1889; lăng mộ Dục Đức ở Huế gọi là An Lăng."
+   ],
+   "topic_title": "Triều Nguyễn nửa sau thế kỉ XIX",
+   "sources": [
+    "https://nguoikesu.com/nhan-vat/duc-duc",
+    "https://vi.wikipedia.org/wiki/D%E1%BB%A5c_%C4%90%E1%BB%A9c",
+    "https://tuoitre.vn/can-canh-noi-an-nghi-cua-vi-vua-trieu-nguyen-chi-o-ngoi-3-ngay-20240731231813956.htm"
+   ],
+   "aliases": [
+    "Dục Đức",
+    "Nguyễn Phúc Ưng Chân",
+    "Nguyễn Phúc Ưng Ái",
+    "ông vua ba ngày",
+    "vua trị vì ngắn nhất lịch sử Việt Nam",
+    "An Lăng"
+   ],
+   "year": 1883,
+   "date_start": "1852",
+   "date_end": "1883-10-06",
+   "place": "Kinh thành Huế",
+   "actors": [
+    "Dục Đức (Nguyễn Phúc Ưng Chân)",
+    "Tôn Thất Thuyết",
+    "Nguyễn Văn Tường",
+    "Tự Đức"
+   ],
+   "traps": [
+    "BẪY QUAN TRỌNG: vị vua trị vì NGẮN NHẤT trong lịch sử Việt Nam là DỤC ĐỨC - chỉ 3 ngày, tháng 7 năm 1883. KHÔNG phải Lê Hiến Tông (Lê Hiến Tông trị vì 1497 - 1504, tức 7 năm).",
+    "Nhầm Dục Đức với hai vua kế tiếp. Đúng: Hiệp Hoà ở ngôi khoảng 4 tháng (1883), Kiến Phúc khoảng 8 tháng (1883 - 1884); chỉ Dục Đức ở ngôi 3 ngày.",
+    "Nhầm nguyên nhân qua đời. Đúng: Dục Đức bị phế truất, giam trong ngục và chết vì bị bỏ đói năm 1883, không phải bị Pháp giết."
+   ],
+   "lessons": [],
+   "fixed": [
+    "Thẻ bổ sung mới, kiểm chứng độc lập qua vi.wikipedia + nguồn nhà nước/bảo tàng"
+   ]
+  }
+ ]
+}

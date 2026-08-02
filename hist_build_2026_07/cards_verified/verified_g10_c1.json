@@ -1,0 +1,1791 @@
+{
+ "grade": 10,
+ "chunk": 1,
+ "cards": [
+  {
+   "name": "Người tối cổ (Homo erectus)",
+   "kind": "concept",
+   "topic_title": "Sự xuất hiện loài người và bầy người nguyên thuỷ",
+   "summary": "Loài người cổ xuất hiện khoảng 1,8 triệu năm trước, biết chế tác công cụ đá và dùng lửa, sống thành bầy người nguyên thuỷ.",
+   "year": null,
+   "date_start": null,
+   "date_end": null,
+   "place": null,
+   "actors": [
+    "Người tối cổ"
+   ],
+   "aliases": [
+    "Homo erectus",
+    "Người đứng thẳng",
+    "người vượn cổ",
+    "bầy người nguyên thuỷ"
+   ],
+   "facts": [
+    "Người tối cổ (Homo erectus) xuất hiện cách ngày nay khoảng 1,8 triệu năm và tồn tại hơn 1 triệu năm, là một trong những loài sống lâu nhất của chi Người.",
+    "Người tối cổ chế tác được những công cụ đá ghè đẽo ngày càng phức tạp — tiêu biểu là rìu tay A-sơ-lơ (Acheulean) — dùng để săn bắt, chặt cây; loài chế tác công cụ đá sớm hơn là Người khéo léo (Homo habilis) với công cụ Ô-đô-vai (Oldowan).",
+    "Vì biết giữ lửa và dùng lửa nấu chín thức ăn, Người tối cổ chống được thú dữ và giá lạnh, nhờ đó mở rộng được vùng cư trú.",
+    "Từ châu Phi, Người tối cổ di cư rất xa: dấu tích của họ được tìm thấy ở Anh, Gruzia, Ấn Độ, Sri Lanka, Trung Quốc và đảo Java.",
+    "Ở giai đoạn này con người sống thành từng bầy, sách giáo khoa gọi là bầy người nguyên thuỷ, cùng nhau săn bắt, hái lượm và chia nhau thức ăn.",
+    "Hoá thạch Người tối cổ muộn nhất được biết có niên đại khoảng 143.000 năm trước, cho thấy loài này còn tồn tại song song một thời gian với người hiện đại."
+   ],
+   "traps": [
+    "Người tối cổ không phải là vượn: họ đã đi thẳng bằng hai chân, biết chế tác công cụ và dùng lửa; 'vượn người' là giai đoạn trước đó.",
+    "Đừng nhầm Người tối cổ với Người tinh khôn: Người tinh khôn (Homo sapiens) chỉ xuất hiện khoảng 195.000-300.000 năm trước, muộn hơn Người tối cổ rất nhiều."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 1
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Người_đứng_thẳng"
+   ],
+   "fixed": [
+    "facts: bỏ khẳng định sai 'nhóm người cổ ĐẦU TIÊN biết ghè đẽo đá' — loài chế tác công cụ đá đầu tiên là Người khéo léo (Homo habilis, công cụ Oldowan), Người tối cổ gắn với rìu tay Acheulean"
+   ]
+  },
+  {
+   "name": "Người tinh khôn (Homo sapiens)",
+   "kind": "concept",
+   "topic_title": "Sự xuất hiện loài người và bầy người nguyên thuỷ",
+   "summary": "Người hiện đại về giải phẫu, xuất hiện ở châu Phi khoảng 195.000-300.000 năm trước rồi lan ra khắp thế giới.",
+   "year": null,
+   "date_start": null,
+   "date_end": null,
+   "place": "châu Phi",
+   "actors": [
+    "Người tinh khôn"
+   ],
+   "aliases": [
+    "Homo sapiens",
+    "người hiện đại",
+    "Người khôn ngoan"
+   ],
+   "facts": [
+    "Người tinh khôn (Homo sapiens) xuất hiện ở châu Phi, hoá thạch sớm nhất có niên đại khoảng 195.000 năm trước; nhiều nghiên cứu gần đây đẩy mốc này lên khoảng 300.000 năm.",
+    "Khoảng 60.000 năm trước, Người tinh khôn bắt đầu cuộc di cư lớn ra khỏi châu Phi và dần có mặt trên khắp các châu lục.",
+    "Trong quá trình lan toả, Người tinh khôn dần thay thế các nhóm người cổ có trước như người Neanderthal.",
+    "Người tinh khôn có cấu tạo cơ thể giống hệt người ngày nay, vì thế còn được gọi là người hiện đại về mặt giải phẫu."
+   ],
+   "traps": [
+    "Nhớ đúng thứ tự tiến hoá: vượn người → Người tối cổ (khoảng 1,8 triệu năm) → Người tinh khôn (khoảng 195.000-300.000 năm), không được đảo ngược.",
+    "Người tinh khôn không tiến hoá từ các loài khỉ đang sống ngày nay; cả hai đều bắt nguồn từ tổ tiên chung đã tuyệt chủng."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 1
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Người_hiện_đại_về_giải_phẫu"
+   ]
+  },
+  {
+   "name": "Dấu tích Người tối cổ ở Việt Nam (Thẩm Khuyên, Thẩm Hai, Núi Đọ)",
+   "kind": "place",
+   "topic_title": "Xã hội nguyên thuỷ",
+   "summary": "Các di chỉ ở Lạng Sơn và Thanh Hoá chứng minh Người tối cổ đã sinh sống trên đất nước ta cách nay 30-40 vạn năm.",
+   "year": null,
+   "date_start": null,
+   "date_end": null,
+   "place": "Lạng Sơn, Thanh Hoá, Đồng Nai",
+   "actors": [
+    "Người tối cổ",
+    "Henri Mansuy"
+   ],
+   "aliases": [
+    "hang Thẩm Khuyên",
+    "hang Thẩm Hai",
+    "di chỉ Núi Đọ",
+    "núi Quảng Yên",
+    "Quan Yên",
+    "Xuân Lộc (Đồng Nai)"
+   ],
+   "facts": [
+    "Ở hai hang Thẩm Khuyên và Thẩm Hai (xã Tô Hiệu, huyện Bình Gia, Lạng Sơn), các nhà khảo cổ tìm được răng hoá thạch của Người tối cổ — 9 chiếc ở Thẩm Khuyên và 1 chiếc ở Thẩm Hai — trong lớp đất chứa xương động vật cổ, niên đại sách giáo khoa ghi khoảng 30-40 vạn năm cách ngày nay.",
+    "Những chiếc răng này được xác định thuộc loài Homo erectus (Người tối cổ), gần gũi với người vượn Bắc Kinh; đo bằng phương pháp ESR, một số kết quả cho niên đại còn sớm hơn, khoảng 40-50 vạn năm. Cùng tầng còn có hoá thạch vượn khổng lồ Gigantopithecus, đười ươi, voi Stegodon.",
+    "Tại Núi Đọ, Quan Yên (còn ghi là Quảng Yên, Thanh Hoá) và Xuân Lộc (Đồng Nai), người ta tìm thấy nhiều công cụ đá ghè đẽo thô sơ bằng đá badan do Người tối cổ chế tác; Núi Đọ được xem là một 'công xưởng' chế tác công cụ thời sơ kì đá cũ.",
+    "Vì tìm được cả xương răng người lẫn công cụ đá có niên đại rất sớm, các nhà khoa học khẳng định Việt Nam là một trong những nơi có con người sinh sống từ rất lâu đời.",
+    "Năm 1906, nhà khảo cổ người Pháp Henri Mansuy khai quật hang Thẩm Khoách (Phố Bình Gia, huyện Bình Gia, Lạng Sơn) — địa điểm đầu tiên phát lộ di vật văn hoá Bắc Sơn; ông cùng Madeleine Colani sau đó xác lập nền văn hoá Bắc Sơn, mở đầu việc nghiên cứu thời tiền sử ở nước ta."
+   ],
+   "traps": [
+    "Thẩm Khuyên, Thẩm Hai (Lạng Sơn) là nơi tìm thấy RĂNG hoá thạch của Người tối cổ, còn Núi Đọ (Thanh Hoá) là nơi tìm thấy CÔNG CỤ ĐÁ — đừng đổi chỗ hai loại dấu tích này."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 2
+    },
+    {
+     "book": "NXBDG",
+     "bai": 13
+    }
+   ],
+   "sources": [
+    "http://www.covatvietnam.info/co-vat-chat-lieu-da/hang-tham-khuyen-lang-son-di-chi-thoi-dai-do-da-cu/",
+    "https://luatduonggia.vn/dau-tich-cua-nguoi-toi-co-o-viet-nam-duoc-tim-thay-o-dau/",
+    "https://vi.wikipedia.org/wiki/Hang_Thẩm_Khuyên",
+    "https://vi.wikipedia.org/wiki/Henri_Mansuy"
+   ],
+   "fixed": [
+    "facts: bỏ chi tiết bịa 'răng vừa có nét người Neanderthal' — răng Thẩm Khuyên được xếp vào Homo erectus, gần người vượn Bắc Kinh",
+    "facts: sửa 'núi Quảng Yên' -> Quan Yên (Thanh Hoá) và bổ sung Xuân Lộc (Đồng Nai) theo SGK",
+    "facts: Mansuy 1906 khai quật hang Thẩm Khoách (Phố Bình Gia, huyện Bình Gia) chứ không phải 'các hang ở Bắc Sơn'",
+    "sources: thay nguồn yếu bằng vi.wikipedia Hang Thẩm Khuyên + Henri Mansuy"
+   ]
+  },
+  {
+   "name": "Văn hoá Hoà Bình – Bắc Sơn",
+   "kind": "period",
+   "topic_title": "Xã hội nguyên thuỷ",
+   "summary": "Hai nền văn hoá tiền sử tiêu biểu ở Việt Nam, đánh dấu bước chuyển từ ghè đẽo đá sang mài đá.",
+   "year": null,
+   "date_start": null,
+   "date_end": null,
+   "place": "vùng núi đá vôi Bắc Bộ Việt Nam",
+   "actors": [
+    "Madeleine Colani"
+   ],
+   "aliases": [
+    "văn hoá Hoà Bình",
+    "văn hoá Bắc Sơn",
+    "Hoabinhian",
+    "Cô-la-ni"
+   ],
+   "facts": [
+    "Văn hoá Hoà Bình có niên đại khoảng 12.000-10.000 năm TCN (một số tài liệu tính rộng hơn, cách ngày nay khoảng 18.000-7.500 năm), nằm ở giai đoạn chuyển từ thời đại đá cũ sang thời đại đá mới.",
+    "Công cụ đặc trưng của văn hoá Hoà Bình là những hòn đá cuội chỉ được ghè đẽo ở một mặt hoặc chỉ ở phần lưỡi.",
+    "Năm 1923, nữ khảo cổ học người Pháp Madeleine Colani phát hiện di cốt và công cụ đá trong các hang ở vùng Hoà Bình; ngày 30/1/1932, tên gọi 'văn hoá Hoà Bình' được Đại hội các nhà Tiền sử Viễn Đông họp tại Hà Nội chính thức công nhận.",
+    "Đến nay đã tìm được hơn 130 địa điểm thuộc văn hoá Hoà Bình trên đất Việt Nam, và dấu vết của nền văn hoá này còn lan ra Thái Lan, Lào, Campuchia, Malaysia, Indonesia.",
+    "Văn hoá Bắc Sơn là giai đoạn phát triển tiếp sau, cách ngày nay khoảng 10.000-8.000 năm (một số nghiên cứu ghi 11.000-6.000 năm cách ngày nay), với bước tiến quan trọng là công cụ đá đã được MÀI cho sắc lưỡi (rìu Bắc Sơn) chứ không chỉ ghè đẽo, và cư dân đã biết làm đồ gốm."
+   ],
+   "traps": [
+    "Đừng nhầm hai kĩ thuật: người Hoà Bình chủ yếu GHÈ ĐẼO đá cuội, còn người Bắc Sơn đã biết MÀI đá cho sắc lưỡi.",
+    "Tỉnh Hoà Bình nay đã sáp nhập vào tỉnh Phú Thọ nên tài liệu mới có thể ghi địa danh là Phú Thọ, nhưng tên nền văn hoá vẫn là 'văn hoá Hoà Bình'."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 2
+    },
+    {
+     "book": "NXBDG",
+     "bai": 13
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Văn_hóa_Hòa_Bình",
+    "https://vi.wikipedia.org/wiki/Văn_hóa_Bắc_Sơn"
+   ],
+   "fixed": [
+    "facts: sửa niên đại văn hoá Bắc Sơn 'khoảng 10.000-8.000 năm TCN' -> cách ngày nay khoảng 10.000-8.000 năm (lệch 10.000 năm)",
+    "facts: chốt niên đại văn hoá Hoà Bình theo vi.wikipedia (12.000-10.000 năm TCN) thay vì '15.000 năm cách ngày nay đến 2.000 TCN'",
+    "facts: bổ sung mốc chính xác 30/1/1932 công nhận tên gọi 'văn hoá Hoà Bình'"
+   ]
+  },
+  {
+   "name": "Văn hoá Phùng Nguyên",
+   "kind": "period",
+   "topic_title": "Xã hội nguyên thuỷ",
+   "summary": "Nền văn hoá mở đầu thời đại kim khí ở đồng bằng sông Hồng, cách nay khoảng 4.000 năm.",
+   "year": null,
+   "date_start": null,
+   "date_end": null,
+   "place": "đồng bằng sông Hồng (Phú Thọ, Vĩnh Phúc, Hà Nội, Bắc Ninh, Ninh Bình)",
+   "actors": [
+    "cư dân Phùng Nguyên"
+   ],
+   "aliases": [
+    "di chỉ Phùng Nguyên",
+    "di chỉ Mán Bạc"
+   ],
+   "facts": [
+    "Văn hoá Phùng Nguyên tồn tại từ khoảng cuối thiên niên kỉ III TCN đến giữa thiên niên kỉ II TCN, tức cách ngày nay chừng 4.000 năm, ở vùng đồng bằng sông Hồng.",
+    "Đã phát hiện hơn 60 di chỉ Phùng Nguyên, tập trung ở Phú Thọ, Vĩnh Phúc, Ninh Bình, Hà Nội và Bắc Ninh.",
+    "Người Phùng Nguyên đạt tới đỉnh cao của kĩ thuật chế tác đá với các thao tác cưa, khoan, mài, làm ra cả công cụ lao động lẫn đồ trang sức.",
+    "Đồ gốm Phùng Nguyên đã được làm bằng tay kết hợp bàn xoay, hoa văn trang trí rất phong phú.",
+    "Ở các di chỉ Phùng Nguyên xuất hiện một ít hiện vật bằng đồng và xỉ đồng, chứng tỏ cư dân bắt đầu biết luyện kim — đây là bước mở đầu cho thời đại kim khí ở nước ta.",
+    "Di chỉ Mán Bạc thuộc giai đoạn này còn giữ được nhiều mộ táng khoảng 4.000 năm tuổi."
+   ],
+   "traps": [
+    "Người Phùng Nguyên MỚI BẮT ĐẦU biết đến đồng, đồ đồng còn rất ít; nền văn hoá đồ đồng phát triển rực rỡ ở nước ta là văn hoá Đông Sơn về sau."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 2
+    },
+    {
+     "book": "NXBDG",
+     "bai": 13
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Văn_hóa_Phùng_Nguyên"
+   ]
+  },
+  {
+   "name": "Thị tộc, bộ lạc và sự tan rã của xã hội nguyên thuỷ",
+   "kind": "concept",
+   "topic_title": "Xã hội nguyên thuỷ",
+   "summary": "Tổ chức xã hội nguyên thuỷ và nguyên nhân dẫn tới tư hữu, phân hoá giàu nghèo.",
+   "year": null,
+   "date_start": null,
+   "date_end": null,
+   "place": null,
+   "actors": [],
+   "aliases": [
+    "công xã thị tộc",
+    "bộ lạc",
+    "chế độ tư hữu"
+   ],
+   "facts": [
+    "Trong xã hội nguyên thuỷ, những người cùng huyết thống sống chung thành thị tộc; nhiều thị tộc có quan hệ họ hàng và cùng nguồn gốc hợp thành bộ lạc.",
+    "Ở giai đoạn công xã thị tộc, mọi người cùng làm, cùng hưởng, chưa có của cải riêng nên chưa có kẻ giàu người nghèo.",
+    "Khi con người biết luyện kim và chế tạo công cụ bằng kim loại — ở nước ta bắt đầu từ thời văn hoá Phùng Nguyên, khoảng 4.000 năm trước — năng suất lao động tăng vọt và bắt đầu có sản phẩm dư thừa.",
+    "Chính việc có sản phẩm dư thừa thường xuyên đã làm nảy sinh chế độ tư hữu và sự phân hoá giàu nghèo, dẫn tới sự tan rã của xã hội nguyên thuỷ và sự ra đời của nhà nước."
+   ],
+   "traps": [
+    "Quan hệ nhân quả đúng chiều là: công cụ kim loại → năng suất tăng → có của dư thừa → tư hữu và phân hoá giàu nghèo → xã hội nguyên thuỷ tan rã. KHÔNG phải có tư hữu trước rồi mới có công cụ kim loại."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 2
+    },
+    {
+     "book": "NXBDG",
+     "bai": 13
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Văn_hóa_Phùng_Nguyên",
+    "https://vi.wikipedia.org/wiki/Văn_hóa_Hòa_Bình"
+   ]
+  },
+  {
+   "name": "Các quốc gia cổ đại phương Đông",
+   "kind": "concept",
+   "topic_title": "Các quốc gia cổ đại phương Đông",
+   "summary": "Những nhà nước đầu tiên của loài người, ra đời trên lưu vực các dòng sông lớn ở Ai Cập, Lưỡng Hà, Ấn Độ, Trung Quốc.",
+   "year": null,
+   "date_start": null,
+   "date_end": null,
+   "place": "lưu vực sông Nin, Ti-grơ – Ơ-phrát, sông Ấn – sông Hằng, Hoàng Hà – Trường Giang",
+   "actors": [],
+   "aliases": [
+    "phương Đông cổ đại",
+    "Ai Cập cổ đại",
+    "Lưỡng Hà",
+    "Mesopotamia"
+   ],
+   "facts": [
+    "Các quốc gia cổ đại phương Đông ra đời sớm nhất thế giới, trên lưu vực những dòng sông lớn: sông Nin ở Ai Cập, sông Ti-grơ và Ơ-phrát ở Lưỡng Hà, sông Ấn – sông Hằng ở Ấn Độ, Hoàng Hà – Trường Giang ở Trung Quốc.",
+    "Đất phù sa màu mỡ và nguồn nước dồi dào ven sông giúp nghề nông trồng lúa phát triển sớm và tạo ra của cải dư thừa, đó là lí do nhà nước ở phương Đông ra đời sớm hơn các nơi khác.",
+    "Muốn làm thuỷ lợi và trị thuỷ những dòng sông lớn, cư dân phải liên kết nhiều làng lại với nhau; chính nhu cầu đó thúc đẩy sự hình thành nhà nước tập quyền do vua đứng đầu.",
+    "Vùng Lưỡng Hà nằm giữa hai con sông Ti-grơ và Ơ-phrát, thuộc lãnh thổ I-rắc ngày nay, là nơi nối tiếp nhau của các nền văn minh Xu-me, Ác-cát, Ba-bi-lon và A-xi-ri.",
+    "Cư dân Lưỡng Hà sáng tạo chữ hình nêm khắc trên đất sét và dùng hệ đếm cơ số 60 — di sản còn thấy trong cách chia một giờ 60 phút và vòng tròn 360 độ.",
+    "Người Ai Cập cổ đại xây kim tự tháp làm lăng mộ cho các pha-ra-ông; đến nay đã phát hiện khoảng 138 kim tự tháp trên đất Ai Cập."
+   ],
+   "traps": [
+    "Chữ hình nêm là của người Lưỡng Hà, còn chữ tượng hình là của người Ai Cập — không được đổi chỗ hai loại chữ viết này.",
+    "Nhà nước ở phương Đông ra đời sớm là do điều kiện tự nhiên thuận lợi cho nông nghiệp và nhu cầu trị thuỷ, chứ không phải do thương nghiệp phát triển như ở Hi Lạp – Rô-ma."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 3
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Lưỡng_Hà",
+    "https://vi.wikipedia.org/wiki/Kim_tự_tháp_Ai_Cập"
+   ]
+  },
+  {
+   "name": "Bộ luật Ham-mu-ra-bi",
+   "kind": "artifact",
+   "topic_title": "Các quốc gia cổ đại phương Đông",
+   "summary": "Bộ luật thành văn cổ nhất còn được bảo tồn gần như nguyên vẹn của loài người, do vua Ham-mu-ra-bi của Ba-bi-lon (Lưỡng Hà) ban hành khoảng năm 1760 TCN.",
+   "year": null,
+   "date_start": "khoảng 1760 TCN",
+   "date_end": null,
+   "place": "Ba-bi-lon, Lưỡng Hà",
+   "actors": [
+    "Ham-mu-ra-bi"
+   ],
+   "aliases": [
+    "Bộ luật Hammurabi",
+    "Luật Ham-mu-ra-bi",
+    "Code of Hammurabi"
+   ],
+   "facts": [
+    "Bộ luật Ham-mu-ra-bi do vua Ham-mu-ra-bi của Ba-bi-lon ở vùng Lưỡng Hà ban hành khoảng năm 1760 TCN (ông trị vì khoảng 1792-1750 TCN), gồm 282 điều luật.",
+    "Bộ luật được khắc trên một bia đá badan cao khoảng 2,25 m; bia này được tìm thấy tháng 12/1901 ở Su-da (Iran ngày nay) và hiện trưng bày tại Bảo tàng Louvre, Pa-ri.",
+    "Đây là một trong những bộ luật thành văn sớm nhất và là bộ luật cổ được bảo tồn đầy đủ nhất, khắc công khai để mọi người cùng biết mà tuân theo, với mục đích nêu ngay ở phần mở đầu là 'để cho kẻ mạnh không hà hiếp kẻ yếu'.",
+    "Bộ luật cho thấy nhà nước cổ đại phương Đông đã dùng luật pháp thành văn để quản lí xã hội chứ không chỉ dựa vào tục lệ truyền miệng."
+   ],
+   "traps": [
+    "Ham-mu-ra-bi là vua Ba-bi-lon ở Lưỡng Hà (I-rắc ngày nay), KHÔNG phải vua Ai Cập.",
+    "Ham-mu-ra-bi KHÔNG phải bộ luật thành văn đầu tiên tuyệt đối: trước đó ở Lưỡng Hà đã có luật Ur-Nammu (khoảng 2050 TCN, sớm hơn khoảng 300 năm); Ham-mu-ra-bi là bộ luật cổ được bảo tồn đầy đủ nhất và nổi tiếng nhất."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 3
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Lưỡng_Hà",
+    "https://vi.wikipedia.org/wiki/Bộ_luật_Hammurabi"
+   ],
+   "fixed": [
+    "facts: sửa 'hơn 200 điều luật' -> 282 điều; bổ sung niên đại ~1760 TCN và đời vua 1792-1750 TCN",
+    "summary/traps: hạ 'bộ luật thành văn SỚM NHẤT của loài người' -> cổ nhất còn bảo tồn nguyên vẹn (luật Ur-Nammu ~2050 TCN có trước)",
+    "facts: bổ sung bia đá badan, tìm thấy 12/1901 ở Su-da, hiện ở Bảo tàng Louvre"
+   ]
+  },
+  {
+   "name": "Kim tự tháp Ai Cập",
+   "kind": "artifact",
+   "topic_title": "Các quốc gia cổ đại phương Đông",
+   "summary": "Những lăng mộ đá khổng lồ của các pha-ra-ông Ai Cập, xây từ khoảng thiên niên kỉ III TCN.",
+   "year": null,
+   "date_start": null,
+   "date_end": null,
+   "place": "Ai Cập",
+   "actors": [
+    "pha-ra-ông Kê-ốp",
+    "vua Djoser"
+   ],
+   "aliases": [
+    "kim tự tháp Kê-ốp",
+    "kim tự tháp Khufu",
+    "kim tự tháp Giza",
+    "Gi-za"
+   ],
+   "facts": [
+    "Kim tự tháp Kê-ốp (Khufu) ở Gi-za được xây khoảng năm 2589-2566 TCN, dưới Vương triều thứ tư của Ai Cập cổ đại.",
+    "Kim tự tháp Kê-ốp từng là công trình cao nhất thế giới và là kì quan duy nhất trong bảy kì quan thế giới cổ đại còn tồn tại đến ngày nay.",
+    "Kim tự tháp cổ nhất là kim tự tháp bậc thang của vua Djoser ở Saqqara, dựng khoảng năm 2630 TCN.",
+    "Kim tự tháp được xây làm lăng mộ cho pha-ra-ông và hoàng tộc, gắn với tín ngưỡng về sự sống sau cái chết của người Ai Cập.",
+    "Các ước tính về số nhân công xây kim tự tháp dao động từ vài nghìn đến khoảng 100.000 người và đến nay vẫn còn tranh luận."
+   ],
+   "traps": [
+    "Kim tự tháp là LĂNG MỘ, không phải đền thờ hay kho chứa lương thực.",
+    "Không nhầm kim tự tháp Ai Cập (bằng đá, khoảng thiên niên kỉ III TCN) với kim tự tháp của người Maya, Aztec ở châu Mỹ (muộn hơn hàng nghìn năm)."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 3
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Kim_tự_tháp_Ai_Cập"
+   ]
+  },
+  {
+   "name": "Nền dân chủ chủ nô A-ten",
+   "kind": "concept",
+   "topic_title": "Các quốc gia cổ đại phương Tây – Hi Lạp và Rô-ma",
+   "summary": "Thể chế dân chủ của thị quốc A-ten, hình thành từ cải cách của Cli-xten năm 508 TCN và đạt đỉnh cao thời Pê-ri-clét.",
+   "year": null,
+   "date_start": "508 TCN",
+   "date_end": null,
+   "place": "A-ten, Hi Lạp",
+   "actors": [
+    "Cli-xten",
+    "Pê-ri-clét"
+   ],
+   "aliases": [
+    "dân chủ Athens",
+    "Cleisthenes",
+    "Cli-xten",
+    "Pericles",
+    "Pê-ri-clét",
+    "Đại hội nhân dân",
+    "Hội đồng 500"
+   ],
+   "facts": [
+    "Năm 508 TCN, nhà chính trị Cli-xten tiến hành cải cách ở A-ten, chia công dân thành 10 bộ lạc theo nơi cư trú thay vì theo dòng họ, phá thế độc quyền của tầng lớp quý tộc.",
+    "Cải cách của Cli-xten mở rộng cơ quan tư vấn từ 400 lên 500 người, mỗi bộ lạc cử 50 đại biểu, nên gọi là Hội đồng 500.",
+    "Đại hội nhân dân của A-ten họp khoảng 40 lần mỗi năm để bàn bạc và biểu quyết những công việc lớn của thị quốc.",
+    "Nhiều chức vụ ở A-ten được chọn bằng cách bốc thăm nhằm hạn chế lợi thế của người giàu và người có dòng dõi.",
+    "A-ten còn có tục 'bỏ phiếu bằng vỏ sò' để trục xuất người bị coi là nguy hiểm cho nền dân chủ, cuộc bỏ phiếu phải có ít nhất 6.000 người tham gia.",
+    "Nền dân chủ A-ten chỉ dành cho nam công dân tự do; phụ nữ, nô lệ và kiều dân đều không có quyền công dân, vì thế gọi là dân chủ chủ nô.",
+    "Đến thời Pê-ri-clét, nắm quyền từ khoảng năm 460 TCN, nền dân chủ A-ten phát triển tới đỉnh cao, thường được gọi là thời hoàng kim."
+   ],
+   "traps": [
+    "Dân chủ A-ten KHÔNG dành cho tất cả mọi người: phụ nữ, nô lệ và kiều dân đều bị loại khỏi quyền công dân.",
+    "Người đặt nền móng cho dân chủ A-ten là Cli-xten (năm 508 TCN), còn Pê-ri-clét (thế kỉ V TCN) là người đưa nó lên đỉnh cao — đừng đảo vai trò hai người."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 4
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Cleisthenes",
+    "https://www.britannica.com/biography/Cleisthenes-of-Athens"
+   ]
+  },
+  {
+   "name": "Đế quốc Rô-ma",
+   "kind": "period",
+   "topic_title": "Các quốc gia cổ đại phương Tây – Hi Lạp và Rô-ma",
+   "summary": "Nhà nước Rô-ma chuyển từ cộng hoà sang đế quốc năm 27 TCN, chia đôi năm 395 và Tây Rô-ma sụp đổ năm 476.",
+   "year": null,
+   "date_start": "27 TCN",
+   "date_end": "476",
+   "place": "Địa Trung Hải",
+   "actors": [
+    "Ốc-ta-vi-út (Au-gút-tút)",
+    "Tra-gian",
+    "Rô-mu-lút Au-gút-tu-lút"
+   ],
+   "aliases": [
+    "đế quốc La Mã",
+    "Roma",
+    "Rome",
+    "Au-gút-tút",
+    "Augustus",
+    "Tây Rô-ma",
+    "Đông Rô-ma",
+    "Bi-dan-tin"
+   ],
+   "facts": [
+    "Ngày 16/1 năm 27 TCN, Ốc-ta-vi-út được trao tước hiệu Au-gút-tút, đánh dấu việc nhà nước Rô-ma chuyển từ chế độ cộng hoà sang chế độ đế quốc.",
+    "Dưới thời hoàng đế Tra-gian (98-117), đế quốc Rô-ma đạt lãnh thổ rộng nhất, khoảng 5 triệu km² với dân số ước tính 55-60 triệu người.",
+    "Năm 380, Ki-tô giáo được công nhận là quốc giáo của đế quốc Rô-ma.",
+    "Năm 395, đế quốc Rô-ma bị chia thành hai phần: Tây Rô-ma và Đông Rô-ma.",
+    "Năm 476, Tây Rô-ma sụp đổ khi hoàng đế cuối cùng Rô-mu-lút Au-gút-tu-lút bị phế truất; mốc này được coi là kết thúc thời cổ đại và mở đầu thời trung đại ở châu Âu.",
+    "Đông Rô-ma (Bi-dan-tin) còn tồn tại thêm gần một nghìn năm nữa, đến năm 1453 mới bị đế quốc Ottoman tiêu diệt khi thành Constantinopolis thất thủ."
+   ],
+   "traps": [
+    "Năm 476 chỉ là năm sụp đổ của TÂY Rô-ma; Đông Rô-ma vẫn tồn tại đến năm 1453.",
+    "Rô-ma cổ đại trải qua hai giai đoạn: cộng hoà trước, rồi mới đến đế quốc từ năm 27 TCN — không phải có hoàng đế ngay từ đầu."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 4
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Đế_quốc_La_Mã"
+   ]
+  },
+  {
+   "name": "Tần Thuỷ Hoàng thống nhất Trung Quốc",
+   "kind": "person",
+   "topic_title": "Trung Quốc thời phong kiến",
+   "summary": "Vị hoàng đế đầu tiên của Trung Quốc, thống nhất đất nước năm 221 TCN và đặt nền móng cho chế độ phong kiến tập quyền.",
+   "year": null,
+   "date_start": "259 TCN",
+   "date_end": "210 TCN",
+   "place": "Trung Quốc",
+   "actors": [
+    "Tần Thuỷ Hoàng"
+   ],
+   "aliases": [
+    "Tần Thủy Hoàng",
+    "Thuỷ Hoàng Đế",
+    "Doanh Chính",
+    "Qin Shi Huang",
+    "nhà Tần"
+   ],
+   "facts": [
+    "Năm 221 TCN, vua nước Tần hoàn thành việc thống nhất Trung Quốc sau nhiều thế kỉ chia cắt thời Chiến Quốc.",
+    "Sau khi thống nhất, ông tự xưng là Thuỷ Hoàng Đế — vị hoàng đế đầu tiên — thay cho danh hiệu 'vương' của các đời trước.",
+    "Tần Thuỷ Hoàng (259-210 TCN) bãi bỏ chế độ phân phong, chia cả nước thành 36 quận và cử quan lại của triều đình về cai trị.",
+    "Ông cho thống nhất chữ viết, tiền tệ và đơn vị đo lường trong cả nước, nhờ đó việc buôn bán và quản lí đất nước thuận tiện hơn hẳn.",
+    "Tần Thuỷ Hoàng huy động dân công nối các đoạn tường phòng thủ thành một hệ thống dài — tiền thân của Vạn Lí Trường Thành — và xây lăng mộ khổng lồ có đội quân đất nung.",
+    "Chính chính sách lao dịch nặng nề và hình phạt hà khắc của nhà Tần đã làm bùng nổ khởi nghĩa nông dân từ năm 209 TCN, khiến nhà Tần sụp đổ năm 206 TCN, chỉ khoảng 15 năm sau ngày thống nhất."
+   ],
+   "traps": [
+    "Tần Thuỷ Hoàng không xây toàn bộ Vạn Lí Trường Thành như ta thấy ngày nay; ông cho nối các đoạn tường cũ, phần lớn tường còn lại hiện nay được xây thời nhà Minh.",
+    "Nhà Tần thống nhất năm 221 TCN nhưng chỉ tồn tại đến năm 206 TCN — rất ngắn, không kéo dài hàng trăm năm."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 5
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Tần_Thủy_Hoàng"
+   ]
+  },
+  {
+   "name": "Nhà Đường",
+   "kind": "dynasty",
+   "topic_title": "Trung Quốc thời phong kiến",
+   "summary": "Triều đại thịnh vượng bậc nhất của Trung Quốc phong kiến, tồn tại 618-907.",
+   "year": null,
+   "date_start": "618",
+   "date_end": "907",
+   "place": "Trung Quốc",
+   "actors": [
+    "Lý Uyên",
+    "Đường Thái Tông",
+    "Võ Tắc Thiên",
+    "An Lộc Sơn",
+    "Chu Ôn"
+   ],
+   "aliases": [
+    "Đường triều",
+    "Tang dynasty",
+    "Đường Thái Tông",
+    "thơ Đường"
+   ],
+   "facts": [
+    "Nhà Đường được Lý Uyên lập năm 618 và tồn tại đến năm 907, là thời kì thịnh vượng bậc nhất của chế độ phong kiến Trung Quốc.",
+    "Đường Thái Tông trị vì từ năm 626 đến 649, được xem là mẫu mực của các vua phương Đông và được các bộ tộc du mục tôn là 'Thiên Khả hãn'.",
+    "Khoảng năm 669, lãnh thổ nhà Đường đạt tới mức rộng nhất, mở về phía tây tới tận Ba Tư dọc Con đường Tơ lụa.",
+    "Thời Đường là đỉnh cao của thơ ca Trung Quốc với những tên tuổi như Lý Bạch và Đỗ Phủ; kĩ thuật in khắc gỗ cũng phát triển mạnh.",
+    "Võ Tắc Thiên (690-705) là nữ hoàng đế duy nhất được thừa nhận trong lịch sử Trung Quốc.",
+    "Loạn An Lộc Sơn nổ ra năm 755 và kéo dài đến 763 đã làm suy yếu nghiêm trọng chính quyền trung ương, mở đầu quá trình tan rã của nhà Đường; năm 907 Chu Ôn phế vua cuối cùng, Trung Quốc bước vào thời Ngũ đại."
+   ],
+   "traps": [
+    "Loạn An Lộc Sơn (năm 755) LÀM cho nhà Đường suy yếu, chứ không phải nhà Đường suy yếu rồi mới xảy ra loạn An Lộc Sơn.",
+    "Nhà Đường sụp đổ năm 907 — đúng thời điểm họ Khúc đang gây dựng quyền tự chủ ở nước ta, nên hai sự kiện này gắn với nhau."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 5
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Nhà_Đường"
+   ]
+  },
+  {
+   "name": "Nhà Minh",
+   "kind": "dynasty",
+   "topic_title": "Trung Quốc thời phong kiến",
+   "summary": "Triều đại cuối cùng của người Hán cầm quyền ở Trung Quốc, tồn tại 1368-1644.",
+   "year": null,
+   "date_start": "1368",
+   "date_end": "1644",
+   "place": "Trung Quốc",
+   "actors": [
+    "Chu Nguyên Chương",
+    "Minh Thành Tổ",
+    "Trịnh Hoà",
+    "Lý Tự Thành"
+   ],
+   "aliases": [
+    "Minh triều",
+    "Ming dynasty",
+    "Minh Thái Tổ",
+    "quân Minh"
+   ],
+   "facts": [
+    "Nhà Minh do Chu Nguyên Chương lập năm 1368 và tồn tại 276 năm, đến năm 1644; đây là triều đại cuối cùng của người Hán cầm quyền ở Trung Quốc.",
+    "Minh Thành Tổ trị vì từ năm 1402 đến 1424, dời kinh đô về Bắc Kinh, cho xây Tử Cấm Thành và tổ chức các đoàn thuyền của Trịnh Hoà đi xa.",
+    "Cuối thời Minh, dân số Trung Quốc ước khoảng 160-200 triệu người, thuộc hàng đông nhất thế giới lúc bấy giờ.",
+    "Khủng hoảng tài chính do thiếu bạc, nạn hoạn quan lộng quyền, thiên tai liên tiếp cộng với cuộc khởi nghĩa nông dân của Lý Tự Thành năm 1644 đã làm nhà Minh sụp đổ, mở đường cho nhà Thanh lên thay."
+   ],
+   "traps": [
+    "Nhà Minh (1368-1644) khác nhà Thanh (từ 1644): nhà Thanh do người Mãn lập ra sau khi nhà Minh sụp đổ.",
+    "Quân Minh đô hộ nước ta trong giai đoạn 1407-1427, tức là chỉ vài chục năm sau khi nhà Minh mới thành lập."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 5
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Nhà_Minh"
+   ]
+  },
+  {
+   "name": "Vương triều Gúp-ta",
+   "kind": "dynasty",
+   "topic_title": "Các quốc gia Ấn và văn hoá truyền thống Ấn Độ",
+   "summary": "Vương triều định hình văn hoá truyền thống Ấn Độ, thịnh đạt khoảng 319-467.",
+   "year": null,
+   "date_start": "khoảng 240-280",
+   "date_end": "khoảng 540-550",
+   "place": "Ấn Độ",
+   "actors": [
+    "Sri Gupta",
+    "Chandragupta I",
+    "Samudragupta",
+    "Chandragupta II",
+    "Kalidasa",
+    "Aryabhata"
+   ],
+   "aliases": [
+    "Gupta",
+    "vương triều Gupta",
+    "Gúp-ta",
+    "Chan-đra Gúp-ta"
+   ],
+   "facts": [
+    "Vương triều Gúp-ta ở Ấn Độ do Sri Gupta sáng lập vào khoảng những năm 240-280, và phát triển rực rỡ nhất trong khoảng thời gian 319-467.",
+    "Các vua nổi bật của vương triều gồm Chandragupta I, Samudragupta và Chandragupta II (còn gọi là Vikramaditya).",
+    "Thời Gúp-ta được coi là 'thời kì hoàng kim' của Ấn Độ với thành tựu lớn về kiến trúc, điêu khắc, hội hoạ, cùng những học giả nổi tiếng như nhà thơ Kalidasa và nhà thiên văn – toán học Aryabhata.",
+    "Do mất dần lãnh thổ và bị các tộc Hung Nô (Huna) từ Trung Á tấn công, vương triều Gúp-ta suy sụp và kết thúc vào khoảng năm 540-550.",
+    "Chính vì văn hoá Ấn Độ định hình rực rỡ dưới thời Gúp-ta nên khi theo chân thương nhân và tăng lữ lan sang Đông Nam Á, nó ảnh hưởng rất sâu tới chữ viết, tôn giáo và kiến trúc của các vương quốc cổ ở đây."
+   ],
+   "traps": [
+    "Vương triều Gúp-ta (thế kỉ IV-VI) khác hẳn Vương quốc Hồi giáo Đê-li (1206-1526) và Vương triều Mô-gôn (từ 1526) — ba vương triều này cách nhau hàng trăm năm.",
+    "Đạo Phật ra đời ở Ấn Độ nhưng thời Gúp-ta là lúc đạo Hin-đu và văn hoá truyền thống Ấn Độ định hình rõ nét nhất."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 6
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Vương_triều_Gupta",
+    "https://vi.wikipedia.org/wiki/Lịch_sử_Đông_Nam_Á"
+   ]
+  },
+  {
+   "name": "Vương quốc Hồi giáo Đê-li",
+   "kind": "dynasty",
+   "topic_title": "Sự phát triển lịch sử và nền văn hoá đa dạng của Ấn Độ",
+   "summary": "Nhà nước Hồi giáo cai trị phần lớn Ấn Độ từ năm 1206 đến năm 1526.",
+   "year": null,
+   "date_start": "1206",
+   "date_end": "1526",
+   "place": "Đê-li, Ấn Độ",
+   "actors": [
+    "Qutb al-Din Aibak",
+    "Muhammad bin Tughlaq",
+    "Ti-mua",
+    "Ba-bua"
+   ],
+   "aliases": [
+    "Delhi Sultanate",
+    "vương triều Hồi giáo Delhi",
+    "Đê-li",
+    "Delhi"
+   ],
+   "facts": [
+    "Vương quốc Hồi giáo Đê-li tồn tại từ năm 1206 đến năm 1526, đóng đô ở Đê-li trên đất Ấn Độ.",
+    "Người mở đầu là Qutb al-Din Aibak, vốn là tướng gốc nô lệ người Thổ của Muhammad xứ Ghor; sau khi chủ bị ám sát năm 1206, ông lên nắm quyền.",
+    "Trong 320 năm, vương quốc trải qua năm dòng họ cầm quyền: Mamluk (1206-1290), Khalji (1290-1320), Tughlaq (1320-1413), Sayyid (1414-1451) và Lodi (1451-1526).",
+    "Dưới thời Muhammad bin Tughlaq, lãnh thổ vương quốc mở rộng nhất, bao trùm phần lớn tiểu lục địa Ấn Độ.",
+    "Tiếng Ba Tư là ngôn ngữ chính thức của triều đình và quan lại người Hin-đu vẫn được dùng trong bộ máy cai trị ở địa phương; tuy vậy người không theo Hồi giáo phải nộp thuế thân (jizya) và nhiều đền Hin-đu bị phá huỷ trong các cuộc chinh phạt, nên đây không phải một chính quyền khoan dung tôn giáo.",
+    "Cuộc xâm lược và cướp phá Đê-li của Ti-mua năm 1398 khiến vương quốc suy yếu hẳn, và năm 1526 Ba-bua đánh bại nhà Lodi, lập ra vương triều Mô-gôn."
+   ],
+   "traps": [
+    "Vương quốc Hồi giáo Đê-li chấm dứt năm 1526 vì bị Ba-bua đánh bại — đây chính là mốc mở đầu vương triều Mô-gôn, hai vương triều nối tiếp nhau chứ không tồn tại song song.",
+    "Đừng nhầm Đê-li với Mô-gôn về chính sách tôn giáo: vương quốc Hồi giáo Đê-li thi hành phân biệt tôn giáo (thuế jizya, phá đền Hin-đu); người nổi tiếng vì hoà hợp tôn giáo là vua A-cơ-ba của vương triều Mô-gôn sau này."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 7
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Vương_quốc_Hồi_giáo_Delhi",
+    "https://en.wikipedia.org/wiki/Delhi_Sultanate"
+   ],
+   "fixed": [
+    "facts: sửa nhận định sai lệch 'không có cưỡng bức cải đạo hàng loạt' -> nêu đúng thuế jizya đánh vào người ngoài Hồi giáo và việc phá đền Hin-đu"
+   ]
+  },
+  {
+   "name": "Vương triều Mô-gôn",
+   "kind": "dynasty",
+   "topic_title": "Sự phát triển lịch sử và nền văn hoá đa dạng của Ấn Độ",
+   "summary": "Vương triều do Ba-bua lập năm 1526, đưa Ấn Độ tới thời kì phát triển cuối cùng trước khi bị thực dân Anh thống trị.",
+   "year": null,
+   "date_start": "1526",
+   "date_end": "1858",
+   "place": "Ấn Độ",
+   "actors": [
+    "Ba-bua",
+    "A-cơ-ba",
+    "Sa Gia-han",
+    "Ao-reng-dép"
+   ],
+   "aliases": [
+    "Mughal",
+    "Mô-gôn",
+    "Babur",
+    "Akbar",
+    "Shah Jahan",
+    "Aurangzeb",
+    "Ta-giơ Ma-han",
+    "Taj Mahal"
+   ],
+   "facts": [
+    "Vương triều Mô-gôn được Ba-bua lập năm 1526 sau chiến thắng trong trận Pa-ni-pát lần thứ nhất trước vương quốc Hồi giáo Đê-li.",
+    "Vua A-cơ-ba trị vì từ năm 1556 đến 1605, xây dựng bộ máy hành chính quy củ và thi hành chính sách khoan dung tôn giáo, nhờ đó đất nước ổn định và phát triển.",
+    "Vua Sa Gia-han (1628-1658) cho xây lăng Ta-giơ Ma-han, công trình tiêu biểu cho thời kì hoàng kim về kiến trúc của Mô-gôn.",
+    "Vua Ao-reng-dép (1658-1707) mở rộng lãnh thổ tới mức lớn nhất nhưng lại thi hành chính sách tôn giáo hà khắc, gây bất bình trong dân chúng.",
+    "Chính vì mâu thuẫn nội bộ tích tụ dưới thời Ao-reng-dép mà sau khi ông chết năm 1707, đế quốc nhanh chóng tan rã trước sự trỗi dậy của các thế lực đối địch và các công ty thương mại châu Âu.",
+    "Vị vua Mô-gôn cuối cùng bị người Anh phế truất năm 1858, sau khi cuộc nổi dậy năm 1857 thất bại."
+   ],
+   "traps": [
+    "Ta-giơ Ma-han là LĂNG MỘ do vua Sa Gia-han xây cho hoàng hậu, không phải cung điện hay đền thờ.",
+    "A-cơ-ba nổi tiếng vì chính sách hoà hợp tôn giáo, còn Ao-reng-dép thì ngược lại, thi hành chính sách khắt khe — hai vị vua này hay bị nhầm lẫn."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 7
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Vương_triều_Mogul"
+   ]
+  },
+  {
+   "name": "Các vương quốc cổ ở Đông Nam Á",
+   "kind": "concept",
+   "topic_title": "Sự hình thành và phát triển các vương quốc chính ở Đông Nam Á",
+   "summary": "Hàng loạt vương quốc cổ hình thành ở Đông Nam Á từ đầu Công nguyên đến thế kỉ VII, dựa trên nông nghiệp lúa nước và buôn bán đường biển.",
+   "year": null,
+   "date_start": null,
+   "date_end": null,
+   "place": "Đông Nam Á",
+   "actors": [],
+   "aliases": [
+    "Phù Nam",
+    "Chăm-pa",
+    "Champa",
+    "Chân Lạp",
+    "Sri Vi-giay-a",
+    "Srivijaya",
+    "Đva-ra-va-ti"
+   ],
+   "facts": [
+    "Từ đầu Công nguyên đến khoảng thế kỉ VII, ở Đông Nam Á lần lượt hình thành hàng loạt vương quốc cổ như Phù Nam, Chăm-pa, Chân Lạp, Đva-ra-va-ti, Ta-ru-ma, Ma-lay-u, Tu-ma-sic.",
+    "Các vương quốc cổ đều dựa trên nghề nông trồng lúa nước, kết hợp với buôn bán đường biển nhờ nằm trên tuyến hàng hải nối Ấn Độ với Trung Quốc.",
+    "Chính vị trí nằm giữa hai nền văn minh lớn đã khiến văn hoá Ấn Độ và Trung Quốc ảnh hưởng mạnh tới chữ viết, tôn giáo và nghệ thuật của các vương quốc Đông Nam Á.",
+    "Vương quốc Chăm-pa hình thành ở miền Trung Việt Nam, tồn tại rất lâu từ khoảng thế kỉ II đến thế kỉ XIX và chịu ảnh hưởng của văn hoá Ấn Độ, Trung Quốc và Khơ-me.",
+    "Từ thế kỉ VII đến thế kỉ X, các vương quốc phong kiến dân tộc dần hình thành, tiêu biểu là Đại Cồ Việt, Chăm-pa, Cam-pu-chia, Pa-gan và Sri Vi-giay-a."
+   ],
+   "traps": [
+    "Phù Nam và Chăm-pa là hai vương quốc khác nhau: Phù Nam ở hạ lưu sông Mê Công (Nam Bộ ngày nay), Chăm-pa ở miền Trung Việt Nam."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 8
+    },
+    {
+     "book": "NXBDG",
+     "bai": 36
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Lịch_sử_Đông_Nam_Á",
+    "https://loigiaihay.com/ly-thuyet-cac-vuong-quoc-o-dong-nam-a-lich-su-6-chan-troi-sang-tao-a89927.html"
+   ]
+  },
+  {
+   "name": "Phong trào Hiến chương ở Anh",
+   "kind": "movement",
+   "topic_title": "Sự hình thành và phát triển phong trào công nhân",
+   "summary": "Phong trào công nhân có tổ chức lớn nhất châu Âu nửa đầu thế kỉ XIX, diễn ra ở Anh từ 1836 đến 1848.",
+   "year": null,
+   "date_start": "1836",
+   "date_end": "1848",
+   "place": "Anh",
+   "actors": [
+    "công nhân Anh",
+    "Hội Liên hiệp Công nhân Luân Đôn"
+   ],
+   "aliases": [
+    "Chartism",
+    "phong trào Hiến chương",
+    "Hiến chương nhân dân"
+   ],
+   "facts": [
+    "Phong trào Hiến chương ở Anh diễn ra từ năm 1836 đến năm 1848, là phong trào công nhân rộng lớn và có tổ chức nhất châu Âu lúc bấy giờ.",
+    "Trung tâm tổ chức của phong trào là Hội Liên hiệp Công nhân Luân Đôn, thành lập năm 1836.",
+    "Bản 'Hiến chương nhân dân' (People's Charter) gồm 6 yêu sách — trong đó có quyền phổ thông đầu phiếu cho nam giới và bỏ phiếu kín — do W. Lo-vét và Ph. Plây-xơ soạn cho Hội Liên hiệp Công nhân Luân Đôn, công bố năm 1838.",
+    "Công nhân đấu tranh bằng mít tinh, biểu tình và ba lần đưa kiến nghị lên Quốc hội: năm 1839 (hơn 1,28 triệu chữ kí), năm 1842 (hơn 3 triệu chữ kí) và năm 1848 — cả ba lần đều bị bác bỏ.",
+    "Năm 1848, bản kiến nghị thứ ba bị Quốc hội bác bỏ, phong trào đi vào thoái trào.",
+    "Tuy không đạt được mục tiêu trước mắt, phong trào Hiến chương cho thấy giai cấp công nhân đã trở thành một lực lượng chính trị độc lập và đang rất cần một lí luận cách mạng soi đường."
+   ],
+   "traps": [
+    "Phong trào Hiến chương diễn ra ở ANH; ở Pháp là khởi nghĩa của thợ dệt Li-ông, còn ở Đức là khởi nghĩa thợ dệt Sơ-lê-din — không được lẫn ba phong trào này."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 36
+    }
+   ],
+   "sources": [
+    "https://loigiaihay.com/phong-trao-cong-nhan-nua-dau-the-ki-xix-c83a13388.html",
+    "https://en.wikipedia.org/wiki/London_Working_Men%27s_Association",
+    "https://www.parliament.uk/about/living-heritage/transformingsociety/electionsvoting/chartists/overview/chartistmovement/"
+   ],
+   "fixed": [
+    "sources: thẻ chỉ dựa loigiaihay -> bổ sung nguồn độc lập (Quốc hội Anh, en.wikipedia LWMA)",
+    "facts: bổ sung mốc Hiến chương nhân dân công bố 1838 và ba lần kiến nghị 1839/1842/1848 (SGK VN tính phong trào 1836-1848 theo mốc lập Hội Liên hiệp Công nhân Luân Đôn)",
+    "topic_title: sửa từ 'Sự hình thành và phát triển các vương quốc chính ở Đông Nam Á' -> 'Sự hình thành và phát triển phong trào công nhân' (bài 36)"
+   ]
+  },
+  {
+   "name": "C. Mác và Ph. Ăng-ghen",
+   "kind": "person",
+   "topic_title": "Sự hình thành và phát triển phong trào công nhân",
+   "summary": "Hai nhà tư tưởng Đức sáng lập chủ nghĩa xã hội khoa học, gặp nhau năm 1844 và cùng viết Tuyên ngôn của Đảng Cộng sản năm 1848.",
+   "year": null,
+   "date_start": "5/5/1818",
+   "date_end": "14/3/1883",
+   "place": "Đức, Pháp, Anh",
+   "actors": [
+    "Các Mác",
+    "Phri-đrích Ăng-ghen"
+   ],
+   "aliases": [
+    "Karl Marx",
+    "Các Mác",
+    "Friedrich Engels",
+    "Ph. Ăng-ghen",
+    "Mác - Ăng-ghen"
+   ],
+   "facts": [
+    "Các Mác sinh ngày 5/5/1818 ở thành phố Tơ-ri-a (Đức) và mất ngày 14/3/1883 tại Luân Đôn.",
+    "Ngày 28/8/1844, Mác gặp Ăng-ghen ở Pa-ri, mở đầu tình bạn và sự hợp tác kéo dài suốt đời của hai ông.",
+    "Chính vì đã cùng nhau nghiên cứu phong trào công nhân từ năm 1844 nên đến năm 1848 hai ông mới có thể viết chung Tuyên ngôn của Đảng Cộng sản.",
+    "Tác phẩm kinh tế lớn nhất của Mác là bộ 'Tư bản'.",
+    "Năm 1864, Hội Liên hiệp lao động quốc tế — quen gọi là Quốc tế thứ nhất — được thành lập, Mác giữ vai trò quan trọng trong tổ chức này."
+   ],
+   "traps": [
+    "Mác và Ăng-ghen gặp nhau năm 1844, TRƯỚC khi viết Tuyên ngôn của Đảng Cộng sản năm 1848 — không đảo thứ tự.",
+    "Quốc tế thứ nhất thành lập năm 1864, sau Tuyên ngôn (1848) chứ không phải trước."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 36
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Karl_Marx"
+   ],
+   "fixed": [
+    "topic_title: sửa từ 'Sự hình thành và phát triển các vương quốc chính ở Đông Nam Á' -> 'Sự hình thành và phát triển phong trào công nhân' (bài 36)"
+   ]
+  },
+  {
+   "name": "Tuyên ngôn của Đảng Cộng sản",
+   "kind": "artifact",
+   "topic_title": "Sự hình thành và phát triển phong trào công nhân",
+   "summary": "Tác phẩm của Mác và Ăng-ghen công bố tháng 2/1848 ở Luân Đôn, đánh dấu sự ra đời của chủ nghĩa xã hội khoa học.",
+   "year": 1848,
+   "date_start": "2/1848",
+   "date_end": null,
+   "place": "Luân Đôn",
+   "actors": [
+    "Các Mác",
+    "Ph. Ăng-ghen",
+    "Đồng minh những người cộng sản"
+   ],
+   "aliases": [
+    "Tuyên ngôn Đảng Cộng sản",
+    "Communist Manifesto",
+    "Tuyên ngôn cộng sản"
+   ],
+   "facts": [
+    "Tuyên ngôn của Đảng Cộng sản do Các Mác và Ph. Ăng-ghen viết, được xuất bản ở Luân Đôn vào tháng 2/1848, đúng lúc phong trào cách mạng đang dâng lên khắp châu Âu.",
+    "Tác phẩm ra đời theo yêu cầu của Đồng minh những người cộng sản, giao cho Mác hoàn thành bản thảo cuối trong khoảng 6-7 tuần kể từ tháng 1/1848.",
+    "Tuyên ngôn gồm lời mở đầu và bốn phần, nêu luận điểm nổi tiếng rằng lịch sử của mọi xã hội từ trước tới nay là lịch sử đấu tranh giai cấp.",
+    "Tác phẩm kết thúc bằng lời kêu gọi 'Vô sản tất cả các nước, đoàn kết lại!'.",
+    "Năm 2013, UNESCO đưa Tuyên ngôn của Đảng Cộng sản cùng tập I bộ 'Tư bản' vào Chương trình Kí ức thế giới."
+   ],
+   "traps": [
+    "Tuyên ngôn của Đảng Cộng sản ra đời tháng 2/1848 tại LUÂN ĐÔN, không phải ở Pa-ri hay Béc-lin.",
+    "Đây là tác phẩm của cả Mác và Ăng-ghen, không phải của riêng Mác."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 36
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Tuyên_ngôn_của_Đảng_Cộng_sản"
+   ],
+   "fixed": [
+    "topic_title: sửa từ 'Sự hình thành và phát triển các vương quốc chính ở Đông Nam Á' -> 'Sự hình thành và phát triển phong trào công nhân' (bài 36)"
+   ]
+  },
+  {
+   "name": "Vương quốc Cam-pu-chia thời Ăng-co",
+   "kind": "period",
+   "topic_title": "Vương quốc Cam-pu-chia và Vương quốc Lào",
+   "summary": "Thời kì huy hoàng của người Khơ-me từ năm 802 đến năm 1431, để lại quần thể đền Ăng-co.",
+   "year": null,
+   "date_start": "802",
+   "date_end": "1431",
+   "place": "Cam-pu-chia",
+   "actors": [
+    "Gia-ya-vác-man II",
+    "Su-ry-a-vác-man II",
+    "Gia-ya-vác-man VII"
+   ],
+   "aliases": [
+    "đế quốc Khơ-me",
+    "Khmer",
+    "Angkor",
+    "Ăng-co Vát",
+    "Angkor Wat",
+    "Ăng-co Thom",
+    "Angkor Thom",
+    "Jayavarman",
+    "Suryavarman"
+   ],
+   "facts": [
+    "Năm 802, vua Gia-ya-vác-man II tự xưng là 'vua của các vị vua', mở đầu thời kì Ăng-co của vương quốc Cam-pu-chia.",
+    "Vua Su-ry-a-vác-man II (trị vì 1113-1150) cho xây khu đền Ăng-co Vát thờ thần Vi-snu trong khoảng 37 năm, đồng thời mở rộng lãnh thổ, đưa Cam-pu-chia thành một cường quốc mạnh ở Đông Nam Á lục địa.",
+    "Vua Gia-ya-vác-man VII (trị vì 1181-1219) đánh bại quân Chăm-pa và cho xây kinh đô mới Ăng-co Thom với đền Bay-on nổi tiếng có các tháp mặt người.",
+    "Từ thế kỉ XIII đến XV, vương quốc suy yếu vì mâu thuẫn nội bộ, sự chuyển đổi tôn giáo sang Phật giáo Tiểu thừa và sức ép của người Thái ở A-út-thay-a.",
+    "Năm 1431, quân A-út-thay-a chiếm được Ăng-co, chấm dứt thời kì huy hoàng kéo dài gần 630 năm của đế quốc Khơ-me."
+   ],
+   "traps": [
+    "Ăng-co Vát do Su-ry-a-vác-man II xây ở thế kỉ XII, còn Ăng-co Thom là kinh đô do Gia-ya-vác-man VII xây sau đó — không nhầm hai công trình.",
+    "Thời kì Ăng-co kết thúc năm 1431 do bị người Thái (A-út-thay-a) đánh chiếm, không phải do người Việt hay người Miến."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 9
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Đế_quốc_Khmer"
+   ],
+   "fixed": [
+    "facts: hạ khẳng định phóng đại 'mở rộng lãnh thổ ra KHẮP Đông Nam Á lục địa' -> trở thành một cường quốc mạnh ở Đông Nam Á lục địa; bổ sung Ăng-co Vát thờ thần Vi-snu"
+   ]
+  },
+  {
+   "name": "Vương quốc Lan Xang",
+   "kind": "period",
+   "topic_title": "Vương quốc Cam-pu-chia và Vương quốc Lào",
+   "summary": "Vương quốc thống nhất đầu tiên của người Lào, do Pha Ngừm lập giữa thế kỉ XIV và tan rã năm 1707.",
+   "year": null,
+   "date_start": "1353",
+   "date_end": "1707",
+   "place": "Lào",
+   "actors": [
+    "Pha Ngừm"
+   ],
+   "aliases": [
+    "Lạn Xạng",
+    "Lan Xang",
+    "Triệu Voi",
+    "Vạn Tượng",
+    "Fa Ngum",
+    "Pha Ngừm"
+   ],
+   "facts": [
+    "Giữa thế kỉ XIV, thủ lĩnh Pha Ngừm tập hợp và thống nhất các mường Lào, lập ra vương quốc Lan Xang; sách giáo khoa lấy mốc năm 1353, một số tài liệu ghi năm 1354.",
+    "Tên Lan Xang có nghĩa là 'Triệu Voi'; người Việt xưa gọi nước này là Vạn Tượng.",
+    "Các thế kỉ XV-XVII là thời kì phát triển thịnh vượng của Lan Xang: vua chia đất nước thành các mường, cử quan cai trị và xây dựng quân đội do nhà vua trực tiếp chỉ huy.",
+    "Năm 1707, Lan Xang tan rã thành hai vương quốc là Luang Pha-băng và Viêng Chăn; đến năm 1713 vùng Chăm-pa-xắc ở phía nam tách khỏi Viêng Chăn, nước Lào bị chia thành ba tiểu quốc.",
+    "Chính vì bị chia thành ba tiểu quốc tranh giành nhau mà nước Lào suy yếu nhanh chóng và lần lượt rơi vào ách thống trị của vương quốc Xiêm."
+   ],
+   "traps": [
+    "Lan Xang nghĩa là 'Triệu Voi'; 'Vạn Tượng' là cách người Việt xưa gọi nước Lào, còn Viêng Chăn là tên một kinh đô — ba tên này hay bị lẫn.",
+    "Mốc lập nước có tài liệu ghi 1353, có tài liệu ghi 1354; mốc tan rã thành ba tiểu quốc thì thống nhất là năm 1707.",
+    "Mốc 1707 là lúc Lan Xang tách thành HAI vương quốc (Luang Pha-băng, Viêng Chăn); tiểu quốc thứ ba Chăm-pa-xắc tách ra năm 1713 — không gộp cả ba vào một mốc 1707."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 9
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Lịch_sử_Lào",
+    "https://loigiaihay.com/vuong-quoc-lao-lich-su-7-c82a13611.html"
+   ],
+   "fixed": [
+    "facts: sửa 'năm 1707 tan rã thành ba tiểu quốc' -> 1707 tách thành hai (Luang Pha-băng, Viêng Chăn), Chăm-pa-xắc tách năm 1713"
+   ]
+  },
+  {
+   "name": "Lãnh địa phong kiến Tây Âu",
+   "kind": "concept",
+   "topic_title": "Thời kì hình thành và phát triển của chế độ phong kiến ở Tây Âu (Từ thế kỉ V đến thế kỉ XIV)",
+   "summary": "Đơn vị kinh tế – chính trị khép kín của Tây Âu trung đại, gồm lãnh chúa và nông nô.",
+   "year": null,
+   "date_start": null,
+   "date_end": null,
+   "place": "Tây Âu",
+   "actors": [
+    "lãnh chúa",
+    "nông nô",
+    "người Giéc-man"
+   ],
+   "aliases": [
+    "lãnh địa",
+    "lãnh chúa phong kiến",
+    "nông nô",
+    "manor"
+   ],
+   "facts": [
+    "Sau khi Tây Rô-ma sụp đổ năm 476, người Giéc-man lập nhiều vương quốc trên đất cũ của đế quốc và chế độ phong kiến Tây Âu dần hình thành từ đó.",
+    "Lãnh địa phong kiến là vùng đất rộng lớn thuộc quyền sở hữu của một lãnh chúa, bên trong có lâu đài, nhà thờ, ruộng đất và làng xóm của nông nô.",
+    "Trong lãnh địa có hai giai cấp cơ bản đối lập nhau: lãnh chúa nắm toàn quyền sở hữu ruộng đất và sống xa hoa nhờ thu tô thuế, còn nông nô lệ thuộc lãnh chúa và phải nộp tô.",
+    "Nông nô hình thành từ nô lệ được giải phóng và từ nông dân tự do bị mất ruộng đất.",
+    "Kinh tế lãnh địa mang tính tự cung tự cấp gần như khép kín: hầu hết mọi thứ cần dùng đều được làm ra tại chỗ, rất ít trao đổi với bên ngoài."
+   ],
+   "traps": [
+    "Nông nô KHÔNG phải nô lệ: nông nô có gia đình riêng, có nông cụ và túp lều riêng, chỉ lệ thuộc lãnh chúa về ruộng đất và phải nộp tô thuế."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 10
+    }
+   ],
+   "sources": [
+    "https://loigiaihay.com/lanh-dia-phong-kien-c82a13421.html",
+    "https://luatminhkhue.vn/lanh-dia-phong-kien-la-gi.aspx",
+    "https://vi.wikipedia.org/wiki/Phong_kiến_(châu_Âu)"
+   ],
+   "fixed": [
+    "sources: thẻ chỉ dựa loigiaihay/luatminhkhue/hoc247 -> bổ sung vi.wikipedia 'Phong kiến (châu Âu)' xác nhận nội dung lãnh chúa – nông nô – lãnh địa"
+   ]
+  },
+  {
+   "name": "Thành thị trung đại Tây Âu",
+   "kind": "concept",
+   "topic_title": "Thời kì hình thành và phát triển của chế độ phong kiến ở Tây Âu (Từ thế kỉ V đến thế kỉ XIV)",
+   "summary": "Các đô thị ra đời từ thế kỉ XI, phá vỡ kinh tế lãnh địa khép kín và thúc đẩy châu Âu phát triển.",
+   "year": null,
+   "date_start": "thế kỉ XI",
+   "date_end": null,
+   "place": "Tây Âu",
+   "actors": [
+    "thợ thủ công",
+    "thương nhân"
+   ],
+   "aliases": [
+    "thành thị trung đại",
+    "phường hội",
+    "thương hội",
+    "hội chợ"
+   ],
+   "facts": [
+    "Từ khoảng thế kỉ XI, sản xuất phát triển khiến thợ thủ công tách khỏi nông nghiệp và tìm đến những nơi đông người qua lại để lập xưởng, mở cửa hàng — thành thị trung đại ra đời từ đó.",
+    "Trong thành thị, thợ thủ công lập phường hội còn thương nhân lập thương hội để giúp nhau sản xuất, buôn bán và bảo vệ quyền lợi chung.",
+    "Chính vì thành thị mở rộng việc trao đổi hàng hoá mà nền kinh tế tự cung tự cấp của lãnh địa bị phá vỡ, sản xuất được thúc đẩy và thị trường ngày càng mở rộng.",
+    "Sự phát triển của thành thị và giao lưu buôn bán tạo điều kiện cho việc thống nhất quốc gia ở Tây Âu về sau.",
+    "Nhiều trường đại học đầu tiên của châu Âu cũng ra đời trong các thành thị trung đại, mang lại không khí tự do và tri thức mới."
+   ],
+   "traps": [
+    "Quan hệ nhân quả đúng: thủ công nghiệp tách khỏi nông nghiệp → thành thị ra đời (thế kỉ XI) → kinh tế lãnh địa khép kín bị phá vỡ. Không phải lãnh địa tan rã trước rồi mới có thành thị."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 10
+    }
+   ],
+   "sources": [
+    "https://loigiaihay.com/lanh-dia-phong-kien-c82a13421.html",
+    "https://hoc247.net/hoi-dap/lich-su-10/lap-bang-tong-hop-lanh-dia-phong-kien-va-thanh-thi-tay-au-thoi-trung-dai-voi-cac-noi-dung-thoi-gian-faq739614.html",
+    "https://vi.wikipedia.org/wiki/Phong_kiến_(châu_Âu)"
+   ],
+   "fixed": [
+    "sources: thẻ chỉ dựa loigiaihay/luatminhkhue/hoc247 -> bổ sung vi.wikipedia 'Phong kiến (châu Âu)' xác nhận nội dung lãnh chúa – nông nô – lãnh địa"
+   ]
+  },
+  {
+   "name": "Nhà nước phong kiến Đại Việt thế kỉ X–XV",
+   "kind": "concept",
+   "topic_title": "Quá trình hình thành và phát triển của nhà nước phong kiến (từ thế kỉ X đến thế kỉ XV)",
+   "summary": "Quá trình hình thành và hoàn thiện nhà nước quân chủ từ nhà Ngô đến nhà Lê sơ.",
+   "year": null,
+   "date_start": "939",
+   "date_end": null,
+   "place": "Việt Nam",
+   "actors": [
+    "Ngô Quyền",
+    "Đinh Bộ Lĩnh",
+    "Lý Công Uẩn",
+    "Lý Thánh Tông"
+   ],
+   "aliases": [
+    "Đại Cồ Việt",
+    "Đại Việt",
+    "Hoa Lư",
+    "Thăng Long",
+    "nhà Ngô",
+    "nhà Đinh",
+    "nhà Lý"
+   ],
+   "facts": [
+    "Năm 939, sau chiến thắng Bạch Đằng, Ngô Quyền xưng vương và lập nhà Ngô, mở đầu thời kì độc lập tự chủ lâu dài của nước ta.",
+    "Năm 968, Đinh Bộ Lĩnh dẹp xong loạn 12 sứ quân, lên ngôi Hoàng đế, đặt quốc hiệu Đại Cồ Việt và đóng đô ở Hoa Lư; từ năm Canh Ngọ 970 ông đặt niên hiệu Thái Bình.",
+    "Đinh Tiên Hoàng bị sát hại vào tháng 11 năm 979, sau khoảng 12 năm ở ngôi.",
+    "Năm 1009 Lý Công Uẩn lên ngôi lập nhà Lý; năm 1010 ông dời đô từ Hoa Lư ra thành Đại La và đổi tên thành Thăng Long vì cho rằng đất Hoa Lư chật hẹp và trũng thấp.",
+    "Năm 1054, vua Lý Thánh Tông đổi quốc hiệu từ Đại Cồ Việt thành Đại Việt.",
+    "Từ thế kỉ XI đến XV, bộ máy nhà nước quân chủ nước ta ngày càng hoàn chỉnh qua các triều Lý, Trần, Hồ và Lê sơ."
+   ],
+   "traps": [
+    "Người đặt quốc hiệu Đại Cồ Việt là Đinh Tiên Hoàng năm 968, còn người đổi thành Đại Việt là Lý Thánh Tông năm 1054 — hai mốc, hai người khác nhau.",
+    "Lý Công Uẩn lên ngôi năm 1009 nhưng dời đô ra Thăng Long năm 1010 — không gộp hai mốc làm một."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 17
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Đinh_Tiên_Hoàng",
+    "https://vi.wikipedia.org/wiki/Lý_Thái_Tổ",
+    "https://vi.wikipedia.org/wiki/Lý_Thánh_Tông"
+   ],
+   "fixed": [
+    "topic_title: sửa từ 'Thời kì hình thành và phát triển của chế độ phong kiến ở Tây Âu' -> 'Quá trình hình thành và phát triển của nhà nước phong kiến (từ thế kỉ X đến thế kỉ XV)' (bài 17)"
+   ]
+  },
+  {
+   "name": "Cải cách hành chính của Lê Thánh Tông",
+   "kind": "event",
+   "topic_title": "Quá trình hình thành và phát triển của nhà nước phong kiến (từ thế kỉ X đến thế kỉ XV)",
+   "summary": "Cuộc cải cách lớn những năm 1466-1471 đưa nhà nước quân chủ Đại Việt đạt đỉnh cao hoàn thiện.",
+   "year": 1466,
+   "date_start": "1466",
+   "date_end": "1471",
+   "place": "Đại Việt",
+   "actors": [
+    "Lê Thánh Tông"
+   ],
+   "aliases": [
+    "cải cách Lê Thánh Tông",
+    "13 đạo thừa tuyên",
+    "luật Hồng Đức",
+    "Quốc triều hình luật",
+    "bản đồ Hồng Đức"
+   ],
+   "facts": [
+    "Lê Thánh Tông sinh năm 1442, lên ngôi năm 1460 và trị vì tới khi mất năm 1497, tổng cộng gần 37 năm.",
+    "Năm 1466, ông xoá bỏ 5 đạo cũ, chia lại cả nước thành 12 đạo thừa tuyên cùng phủ Trung Đô (Thăng Long); năm 1471, sau khi lập thêm thừa tuyên Quảng Nam trên đất mới mở về phía nam, cả nước có 13 đạo thừa tuyên.",
+    "Năm 1471, sau chiến thắng Chăm-pa, ông ban hành 'Hoàng triều quan chế' quy định chi tiết hệ thống quan lại các cấp.",
+    "Bộ Quốc triều hình luật, quen gọi là luật Hồng Đức, được ban hành trong niên hiệu Hồng Đức (1469-1497) và được coi là bộ luật hoàn chỉnh, tiến bộ bậc nhất thời phong kiến Việt Nam.",
+    "Năm 1490, bản đồ Hồng Đức được hoàn thành, ghi nhận cả nước có 13 thừa tuyên, 52 phủ, 178 huyện và 50 châu.",
+    "Dưới thời Lê Thánh Tông tổ chức 12 khoa thi lớn, tuyển chọn hơn 500 người đỗ đạt ra làm quan."
+   ],
+   "traps": [
+    "Luật Hồng Đức là tên quen gọi của bộ Quốc triều hình luật thời Lê sơ, KHÔNG phải luật thời Lý hay thời Nguyễn; luật thời Nguyễn là Hoàng Việt luật lệ (luật Gia Long).",
+    "Cải cách chia nước thành 13 đạo thừa tuyên là kết quả của cả quá trình 1466-1471, nên tài liệu có thể ghi 1466 hoặc 1471 — cả hai đều có căn cứ."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 17
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Lê_Thánh_Tông"
+   ],
+   "fixed": [
+    "topic_title: sửa từ 'Thời kì hình thành và phát triển của chế độ phong kiến ở Tây Âu' -> 'Quá trình hình thành và phát triển của nhà nước phong kiến (từ thế kỉ X đến thế kỉ XV)' (bài 17)",
+    "facts: nói rõ năm 1466 chia thành 12 đạo thừa tuyên (bỏ 5 đạo cũ), năm 1471 thêm thừa tuyên Quảng Nam thành 13",
+    "facts: bổ sung '50 châu' vào bản đồ Hồng Đức 1490"
+   ]
+  },
+  {
+   "name": "Các cuộc phát kiến địa lí",
+   "kind": "event",
+   "topic_title": "Tây Âu thời hậu kì trung đại",
+   "summary": "Những chuyến thám hiểm đường biển cuối thế kỉ XV - đầu XVI mở ra con đường mới sang châu Á và tìm ra châu Mỹ.",
+   "year": null,
+   "date_start": "1488",
+   "date_end": "1522",
+   "place": "Đại Tây Dương, Ấn Độ Dương, Thái Bình Dương",
+   "actors": [
+    "Đi-a-xơ",
+    "Cô-lôm-bô",
+    "Va-xcô đơ Ga-ma",
+    "Ma-gien-lan",
+    "Ê-ca-nô"
+   ],
+   "aliases": [
+    "phát kiến địa lí",
+    "Bartolomeu Dias",
+    "Christopher Columbus",
+    "Vasco da Gama",
+    "Magellan",
+    "Ma-gien-lăng",
+    "mũi Hảo Vọng"
+   ],
+   "facts": [
+    "Năm 1488, nhà hàng hải Bồ Đào Nha Bác-tô-lô-mê-u Đi-a-xơ đi vòng qua mũi cực nam châu Phi, chứng minh có thể từ Đại Tây Dương sang được Ấn Độ Dương.",
+    "Năm 1492, Cri-xtốp Cô-lôm-bô vượt Đại Tây Dương và đến quần đảo Ba-ha-ma, Cu-ba, Hi-xpa-ni-ô-la; người châu Âu tìm ra châu Mỹ từ chuyến đi này.",
+    "Trong hai năm 1497-1498, Va-xcô đơ Ga-ma đi vòng quanh châu Phi và cập bến Ca-li-cút ở Ấn Độ, mở ra con đường biển trực tiếp từ châu Âu sang châu Á.",
+    "Đoàn thuyền của Ph. Ma-gien-lan khởi hành năm 1519, đi về phía tây vượt Thái Bình Dương và hoàn thành chuyến vòng quanh thế giới đầu tiên vào năm 1522 dưới sự chỉ huy của Ê-ca-nô.",
+    "Chính nhờ các cuộc phát kiến địa lí mà thị trường thế giới được mở rộng, vàng bạc và nguyên liệu từ thuộc địa đổ về châu Âu, tạo tiền đề cho chủ nghĩa tư bản ra đời.",
+    "Mặt trái của phát kiến địa lí là mở đầu quá trình cướp bóc thuộc địa và buôn bán nô lệ da đen."
+   ],
+   "traps": [
+    "Cô-lôm-bô đến châu Mỹ năm 1492 nhưng đến cuối đời vẫn tin mình đã tới Ấn Độ, vì thế người bản địa châu Mỹ bị gọi nhầm là 'người Ấn'.",
+    "Ma-gien-lan khởi hành năm 1519 nhưng chết dọc đường; người đưa đoàn thuyền về đích năm 1522 là Ê-ca-nô."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 11
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Thời_đại_Khám_phá"
+   ]
+  },
+  {
+   "name": "Phong trào Văn hoá Phục hưng",
+   "kind": "movement",
+   "topic_title": "Tây Âu thời hậu kì trung đại",
+   "summary": "Phong trào văn hoá khởi đầu ở Italia từ thế kỉ XIV, đề cao con người và lí trí, lan khắp châu Âu trong các thế kỉ XV-XVII.",
+   "year": null,
+   "date_start": "thế kỉ XIV",
+   "date_end": "thế kỉ XVII",
+   "place": "Italia và châu Âu",
+   "actors": [
+    "Lê-ô-na đơ Vanh-xi",
+    "Mi-ken-lăng-giơ",
+    "Ra-pha-en"
+   ],
+   "aliases": [
+    "Phục Hưng",
+    "Renaissance",
+    "chủ nghĩa nhân văn",
+    "Phi-ren-xê",
+    "Florence"
+   ],
+   "facts": [
+    "Phong trào Văn hoá Phục hưng khởi đầu ở thành phố Phi-ren-xê (Italia) từ thế kỉ XIV rồi lan khắp châu Âu, kéo dài tới thế kỉ XVII; giai đoạn phát triển rực rỡ nhất là thế kỉ XV-XVI.",
+    "Phục hưng nghĩa là làm sống lại di sản văn hoá Hi Lạp – Rô-ma cổ đại; việc thành Constantinopolis thất thủ năm 1453 khiến nhiều học giả mang sách vở cổ chạy sang phương Tây, càng thúc đẩy phong trào.",
+    "Italia lúc đó gồm nhiều thị quốc giàu có và tương đối tự do, nhờ đó giới thương nhân bảo trợ cho nghệ thuật và tư tưởng mới nảy nở.",
+    "Tư tưởng chủ đạo của Phục hưng là chủ nghĩa nhân văn, đề cao con người, đề cao lí trí và cuộc sống trần thế thay vì chỉ hướng về thần thánh.",
+    "Về mĩ thuật, thời Phục hưng phát triển luật phối cảnh và chủ nghĩa hiện thực với các danh hoạ Lê-ô-na đơ Vanh-xi, Mi-ken-lăng-giơ và Ra-pha-en.",
+    "Trong khoa học, các học giả chuyển từ suy luận theo triết học A-ri-xtốt sang quan sát và thực nghiệm, mở đường cho Cách mạng khoa học.",
+    "Chính tư tưởng nhân văn của Phục hưng đã tạo nền tảng cho Cải cách tôn giáo bùng nổ năm 1517."
+   ],
+   "traps": [
+    "'Phục hưng' không có nghĩa là quay về sống như thời cổ đại, mà là kế thừa tinh hoa cổ đại để xây dựng nền văn hoá mới đề cao con người.",
+    "Phong trào bắt đầu ở Italia, không phải ở Pháp hay Anh."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 11
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Phục_Hưng"
+   ],
+   "fixed": [
+    "date/summary/facts: thống nhất mốc — thẻ vốn ghi date_start 'thế kỉ XIV-XV' nhưng facts lại nói 'thế kỉ XV đến XVII'; chốt: khởi đầu thế kỉ XIV ở Italia, kéo dài đến thế kỉ XVII"
+   ]
+  },
+  {
+   "name": "Cải cách tôn giáo",
+   "kind": "movement",
+   "topic_title": "Tây Âu thời hậu kì trung đại",
+   "summary": "Phong trào do Lu-thơ mở đầu năm 1517, tấn công Giáo hội Thiên Chúa và làm ra đời đạo Tin Lành.",
+   "year": 1517,
+   "date_start": "31/10/1517",
+   "date_end": "1648",
+   "place": "Đức và Tây Âu",
+   "actors": [
+    "Mác-tin Lu-thơ",
+    "Giăng Can-vanh",
+    "Un-rích Duyn-gli",
+    "Hen-ri VIII"
+   ],
+   "aliases": [
+    "Martin Luther",
+    "Lu-thơ",
+    "Calvin",
+    "Can-vanh",
+    "95 luận đề",
+    "đạo Tin Lành",
+    "Kháng Cách"
+   ],
+   "facts": [
+    "Ngày 31/10/1517, Mác-tin Lu-thơ công bố 95 luận đề tại nhà thờ Wittenberg ở Đức, mở đầu phong trào Cải cách tôn giáo ở châu Âu.",
+    "Lu-thơ phê phán việc Giáo hội bán thẻ miễn tội để kiếm tiền và phản đối quyền lực tuyệt đối của Giáo hoàng.",
+    "Những nhà cải cách tiêu biểu khác gồm Giăng Can-vanh, Un-rích Duyn-gli và vua Hen-ri VIII của nước Anh.",
+    "Các nhà cải cách chủ trương lấy Kinh Thánh làm chuẩn mực cao nhất và tin rằng con người được cứu rỗi nhờ đức tin, không cần Giáo hội làm trung gian.",
+    "Phong trào dẫn tới sự ra đời của các giáo phái Tin Lành (phái Lu-thơ, phái Can-vanh, Anh giáo) và tạm khép lại về mặt chính trị bằng Hoà ước Westphalia năm 1648.",
+    "Vì Giáo hội là chỗ dựa tư tưởng của chế độ phong kiến nên việc tấn công Giáo hội khiến Cải cách tôn giáo trở thành một cuộc đấu tranh chống phong kiến trên lĩnh vực văn hoá tư tưởng."
+   ],
+   "traps": [
+    "Cải cách tôn giáo không nhằm xoá bỏ đạo Ki-tô mà nhằm cải tổ Giáo hội; kết quả là hình thành thêm các giáo phái Tin Lành bên cạnh Công giáo.",
+    "Mốc mở đầu là năm 1517 với 95 luận đề của Lu-thơ, không phải năm 1453 hay 1648."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 11
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Cải_cách_Kháng_Cách"
+   ]
+  },
+  {
+   "name": "Phân kì lịch sử thế giới thời nguyên thuỷ, cổ đại và trung đại",
+   "kind": "concept",
+   "topic_title": "Ôn tập: Lịch sử thế giới thời nguyên thuỷ, cổ đại và trung đại",
+   "summary": "Bảng hệ thống các mốc lớn phân chia ba thời kì đầu của lịch sử loài người.",
+   "year": null,
+   "date_start": null,
+   "date_end": null,
+   "place": null,
+   "actors": [],
+   "aliases": [
+    "ôn tập lịch sử thế giới",
+    "phân kì lịch sử",
+    "thời nguyên thuỷ",
+    "thời cổ đại",
+    "thời trung đại"
+   ],
+   "facts": [
+    "Thời nguyên thuỷ là chặng dài nhất, bắt đầu từ khi Người tối cổ xuất hiện cách nay khoảng 1,8 triệu năm và kết thúc khi loài người có công cụ kim loại, tư hữu và nhà nước.",
+    "Thời cổ đại mở đầu bằng sự ra đời của các quốc gia đầu tiên trên lưu vực những dòng sông lớn ở phương Đông, tiếp đó là các thị quốc Hi Lạp và đế quốc Rô-ma ở phương Tây.",
+    "Ở châu Âu, mốc năm 476 — năm Tây Rô-ma sụp đổ — thường được lấy làm ranh giới kết thúc thời cổ đại và mở đầu thời trung đại.",
+    "Thời trung đại ở Tây Âu trải qua hai chặng: chế độ phong kiến hình thành và phát triển với lãnh địa và thành thị (thế kỉ V-XIV), rồi hậu kì trung đại với phát kiến địa lí, Phục hưng và Cải cách tôn giáo (thế kỉ XV-XVI).",
+    "Ở phương Đông, chế độ phong kiến hình thành sớm hơn và kéo dài hơn, tiêu biểu là Trung Quốc từ nhà Tần năm 221 TCN cho đến nhà Thanh.",
+    "Điểm chung của cả phương Đông lẫn phương Tây là mỗi bước tiến của công cụ sản xuất đều kéo theo thay đổi trong tổ chức xã hội và nhà nước."
+   ],
+   "traps": [
+    "Mốc năm 476 chỉ dùng cho lịch sử châu Âu; lịch sử phương Đông có tiến trình riêng nên không áp máy móc mốc này.",
+    "Phương Đông vào chế độ phong kiến SỚM hơn nhưng lại RA khỏi nó MUỘN hơn phương Tây — đừng đảo ngược nhận định này."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 12
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Đế_quốc_La_Mã",
+    "https://vi.wikipedia.org/wiki/Phục_Hưng",
+    "https://vi.wikipedia.org/wiki/Tần_Thủy_Hoàng"
+   ]
+  },
+  {
+   "name": "Khởi nghĩa Hai Bà Trưng",
+   "kind": "event",
+   "topic_title": "Thời Bắc thuộc và các cuộc đấu tranh giành độc lập dân tộc (Từ thế kỉ II TCN đến đầu thế kỉ X)",
+   "summary": "Cuộc khởi nghĩa lớn đầu tiên chống ách đô hộ phương Bắc, nổ ra năm 40 và bị đàn áp năm 43.",
+   "year": 40,
+   "date_start": "tháng 2 năm 40",
+   "date_end": "năm 43",
+   "place": "Hát Môn, Mê Linh (Hà Nội ngày nay)",
+   "actors": [
+    "Trưng Trắc",
+    "Trưng Nhị",
+    "Thi Sách",
+    "Tô Định",
+    "Mã Viện"
+   ],
+   "aliases": [
+    "Hai Bà Trưng",
+    "Trưng Trắc",
+    "Trưng Nhị",
+    "khởi nghĩa năm 40",
+    "sông Hát",
+    "Mê Linh"
+   ],
+   "facts": [
+    "Tháng 2 năm 40, Trưng Trắc cùng em là Trưng Nhị dựng cờ khởi nghĩa ở cửa sông Hát, nay thuộc xã Hát Môn, huyện Phúc Thọ, Hà Nội.",
+    "Nguyên nhân trực tiếp của cuộc khởi nghĩa là ách cai trị tàn bạo của Thái thú Tô Định và việc chồng bà Trưng Trắc là Thi Sách bị giết.",
+    "Cuộc khởi nghĩa thắng lợi nhanh chóng, Tô Định phải bỏ chạy về nước; Trưng Trắc lên làm vua và đóng đô ở Mê Linh.",
+    "Năm 42, nhà Hán cử lão tướng Mã Viện đem quân sang đàn áp cuộc khởi nghĩa.",
+    "Năm 43, Hai Bà thất thế ở Cấm Khê; theo sử Trung Quốc thì Hai Bà bị bắt và bị giết, còn theo truyền thuyết Việt Nam thì Hai Bà gieo mình xuống sông Hát để giữ khí tiết.",
+    "Khởi nghĩa Hai Bà Trưng là cuộc khởi nghĩa lớn đầu tiên chống ách đô hộ phương Bắc, mở đầu truyền thống đấu tranh giành độc lập suốt thời Bắc thuộc."
+   ],
+   "traps": [
+    "Hai Bà Trưng khởi nghĩa năm 40 và thất bại năm 43 — chính quyền tự chủ chỉ tồn tại khoảng ba năm.",
+    "Tướng Hán sang đàn áp Hai Bà Trưng là MÃ VIỆN (năm 42), còn TÔ ĐỊNH là viên Thái thú bị đánh đuổi lúc đầu — hai người hoàn toàn khác nhau."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 15
+    },
+    {
+     "book": "NXBDG",
+     "bai": 16
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Hai_Bà_Trưng"
+   ]
+  },
+  {
+   "name": "Khởi nghĩa Lý Bí và nước Vạn Xuân",
+   "kind": "event",
+   "topic_title": "Thời Bắc thuộc và các cuộc đấu tranh giành độc lập dân tộc (Từ thế kỉ II TCN đến đầu thế kỉ X)",
+   "summary": "Lý Bí khởi nghĩa chống nhà Lương, lập nước Vạn Xuân năm 544 và xưng Lý Nam Đế.",
+   "year": 542,
+   "date_start": "541-542",
+   "date_end": "548",
+   "place": "Giao Châu",
+   "actors": [
+    "Lý Bí",
+    "Tiêu Tư",
+    "Triệu Quang Phục"
+   ],
+   "aliases": [
+    "Lý Nam Đế",
+    "Lý Bí",
+    "Lý Bôn",
+    "nước Vạn Xuân",
+    "niên hiệu Thiên Đức",
+    "Triệu Việt Vương"
+   ],
+   "facts": [
+    "Lý Bí phất cờ khởi nghĩa chống ách đô hộ của nhà Lương vào những năm 541-542; sách giáo khoa lấy mốc mùa xuân năm 542.",
+    "Nghĩa quân nhanh chóng đánh đuổi Thứ sử Tiêu Tư và làm chủ vùng đất Giao Châu.",
+    "Năm 544, Lý Bí lên ngôi, xưng là Lý Nam Đế, đặt quốc hiệu Vạn Xuân và niên hiệu Thiên Đức.",
+    "Tên nước Vạn Xuân thể hiện mong ước nền độc lập của dân tộc sẽ bền vững muôn đời như vạn mùa xuân.",
+    "Năm 548 Lý Nam Đế mất; Triệu Quang Phục tiếp tục kháng chiến, xưng là Triệu Việt Vương và giữ được nền tự chủ thêm một thời gian nữa.",
+    "Việc Lý Bí xưng ĐẾ và đặt quốc hiệu riêng cho thấy ý thức độc lập của người Việt đã phát triển cao hơn hẳn so với các cuộc khởi nghĩa trước đó."
+   ],
+   "traps": [
+    "Có tài liệu ghi Lý Bí khởi binh cuối năm 541, sách giáo khoa ghi mùa xuân năm 542; nhưng năm lập nước Vạn Xuân thì thống nhất là 544.",
+    "Lý Nam Đế (thế kỉ VI) hoàn toàn khác Lý Thái Tổ - Lý Công Uẩn (năm 1009) — hai người cách nhau gần 500 năm."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 15
+    },
+    {
+     "book": "NXBDG",
+     "bai": 16
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Lý_Nam_Đế"
+   ]
+  },
+  {
+   "name": "Khúc Thừa Dụ dựng quyền tự chủ",
+   "kind": "event",
+   "topic_title": "Thời Bắc thuộc và các cuộc đấu tranh giành độc lập dân tộc (Từ thế kỉ II TCN đến đầu thế kỉ X)",
+   "summary": "Năm 905 Khúc Thừa Dụ chiếm Đại La, tự xưng Tiết độ sứ, đặt nền móng cho nền độc lập của dân tộc.",
+   "year": 905,
+   "date_start": "905",
+   "date_end": "907",
+   "place": "Đại La",
+   "actors": [
+    "Khúc Thừa Dụ",
+    "Khúc Hạo"
+   ],
+   "aliases": [
+    "họ Khúc",
+    "Khúc Thừa Dụ",
+    "Tiết độ sứ",
+    "Tĩnh Hải quân",
+    "Khúc Hạo"
+   ],
+   "facts": [
+    "Năm 905, nhân lúc nhà Đường suy yếu, Khúc Thừa Dụ nổi dậy chiếm thành Đại La và tự xưng Tiết độ sứ, giành quyền tự chủ cho người Việt.",
+    "Năm 906, nhà Đường buộc phải công nhận Khúc Thừa Dụ là Tiết độ sứ Tĩnh Hải quân.",
+    "Cách làm khéo léo của Khúc Thừa Dụ là mượn danh nghĩa chức quan do nhà Đường phong để nắm toàn bộ thực quyền cai trị trong tay người Việt.",
+    "Khúc Thừa Dụ mất ngày 23/7/907 tại Đại La khi đã ngoài 76 tuổi; con ông là Khúc Hạo lên thay và tiến hành cải cách hành chính.",
+    "Chính vì họ Khúc đã xây được bộ máy tự chủ trong tay người Việt mà chỉ hơn 30 năm sau, Ngô Quyền mới có đủ lực làm nên chiến thắng Bạch Đằng năm 938."
+   ],
+   "traps": [
+    "Khúc Thừa Dụ không xưng vương hay xưng đế mà chỉ xưng Tiết độ sứ — đó là bước 'tự chủ', chưa phải độc lập hoàn toàn.",
+    "Người mở đầu là Khúc Thừa Dụ (905), còn người tiến hành cải cách hành chính là con ông — Khúc Hạo (từ 907)."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 15
+    },
+    {
+     "book": "NXBDG",
+     "bai": 16
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Khúc_Thừa_Dụ"
+   ]
+  },
+  {
+   "name": "Chiến thắng Bạch Đằng năm 938",
+   "kind": "battle",
+   "topic_title": "Thời Bắc thuộc và các cuộc đấu tranh giành độc lập dân tộc (Từ thế kỉ II TCN đến đầu thế kỉ X)",
+   "summary": "Trận thuỷ chiến do Ngô Quyền chỉ huy đánh tan quân Nam Hán, chấm dứt hơn một nghìn năm Bắc thuộc.",
+   "year": 938,
+   "date_start": "cuối năm 938",
+   "date_end": "938",
+   "place": "sông Bạch Đằng",
+   "actors": [
+    "Ngô Quyền",
+    "Kiều Công Tiễn",
+    "Lưu Hoằng Tháo",
+    "Lưu Cung",
+    "Dương Đình Nghệ"
+   ],
+   "aliases": [
+    "trận Bạch Đằng 938",
+    "Ngô Quyền",
+    "bãi cọc Bạch Đằng",
+    "quân Nam Hán"
+   ],
+   "facts": [
+    "Năm 937, nha tướng Kiều Công Tiễn giết Dương Đình Nghệ để đoạt quyền, rồi cầu cứu quân Nam Hán khi bị Ngô Quyền kéo quân ra hỏi tội.",
+    "Vua Nam Hán là Lưu Cung sai con là Lưu Hoằng Tháo đem khoảng 2 vạn quân theo đường biển tiến vào nước ta.",
+    "Ngô Quyền cho đóng cọc nhọn bịt sắt xuống lòng sông Bạch Đằng, lợi dụng quy luật lên xuống của thuỷ triều để bố trí trận địa mai phục.",
+    "Cuối năm 938, quân ta giả thua để nhử địch vượt qua bãi cọc lúc triều lên; đến khi triều rút thì phản công, thuyền giặc va vào cọc, vỡ và đắm hàng loạt.",
+    "Quân Nam Hán đại bại, Lưu Hoằng Tháo tử trận cùng hơn nửa số quân, khoảng một vạn người.",
+    "Chính chiến thắng Bạch Đằng năm 938 đã chấm dứt hơn một nghìn năm Bắc thuộc; năm 939 Ngô Quyền xưng vương, lập nhà Ngô, mở ra thời kì độc lập lâu dài của dân tộc."
+   ],
+   "traps": [
+    "Có ba trận Bạch Đằng nổi tiếng: năm 938 (Ngô Quyền chống Nam Hán), năm 981 (Lê Hoàn chống Tống) và năm 1288 (Trần Hưng Đạo chống Nguyên) — bắt buộc phải nói rõ năm.",
+    "Ngô Quyền đánh thắng ở Bạch Đằng năm 938 và xưng vương năm 939 — hai mốc liền nhau nhưng khác năm."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 15
+    },
+    {
+     "book": "NXBDG",
+     "bai": 16
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Trận_Bạch_Đằng_(938)"
+   ]
+  },
+  {
+   "name": "Kinh tế Đại Việt thế kỉ X–XV",
+   "kind": "concept",
+   "topic_title": "Công cuộc xây dựng và phát triển kinh tế trong các thế kỉ X - XV",
+   "summary": "Nông nghiệp, thuỷ lợi và ngoại thương Đại Việt phát triển mạnh với đê quai vạc và thương cảng Vân Đồn.",
+   "year": null,
+   "date_start": "thế kỉ X",
+   "date_end": "thế kỉ XV",
+   "place": "Đại Việt",
+   "actors": [
+    "Trần Thái Tông",
+    "Lý Anh Tông"
+   ],
+   "aliases": [
+    "đê quai vạc",
+    "Hà đê sứ",
+    "đê Đỉnh Nhĩ",
+    "thương cảng Vân Đồn",
+    "Vân Đồn"
+   ],
+   "facts": [
+    "Tháng 3 năm 1248, vua Trần Thái Tông hạ lệnh đắp đê suốt từ đầu nguồn ra tới biển; loại đê có nhiều đoạn cong này được dân quen gọi là đê quai vạc.",
+    "Cũng trong năm 1248, nhà Trần đặt chức Hà đê chánh sứ và phó sứ (quen gọi là Hà đê sứ) — lần đầu tiên nước ta có quan chuyên trách trông coi việc đê điều; ruộng của dân bị đê chiếm đều được đo đạc trả tiền.",
+    "Chính nhờ hệ thống đê ngăn lũ mà đồng bằng sông Hồng mở rộng được diện tích canh tác, mùa màng ổn định hơn và dân số tăng nhanh.",
+    "Năm 1149, vua Lý Anh Tông cho lập trang Vân Đồn (Quảng Ninh) — thương cảng quốc tế đầu tiên của Đại Việt.",
+    "Vân Đồn buôn bán với Trung Quốc, Nhật Bản, Ấn Độ, Xiêm, In-đô-nê-xi-a và thịnh vượng suốt ba triều Lý – Trần – Hậu Lê.",
+    "Vân Đồn còn có vị trí quân sự quan trọng, gắn với trận Vân Đồn năm 1288 trong cuộc kháng chiến chống quân Nguyên."
+   ],
+   "traps": [
+    "Đê quai vạc và chức Hà đê sứ là của nhà TRẦN (năm 1248), không phải nhà Lý.",
+    "Vân Đồn là thương cảng lập năm 1149 thời Lý; còn Phố Hiến và Hội An là những đô thị buôn bán muộn hơn nhiều, ở thế kỉ XVI-XVII."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 18
+    },
+    {
+     "book": "NXBDG",
+     "bai": 20
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Vân_Đồn",
+    "https://vi.wikipedia.org/wiki/Nông_nghiệp_Đại_Việt_thời_Trần",
+    "https://kinhtedothi.vn/thong-diep-tu-lich-su-ong-cha-ta-bao-ve-de-dieu-nhu-the-nao.html"
+   ],
+   "fixed": [
+    "facts: nói rõ chức đặt năm 1248 là 'Hà đê chánh sứ và phó sứ' theo Đại Việt sử ký toàn thư, bổ sung việc đền bù ruộng bị đê chiếm"
+   ]
+  },
+  {
+   "name": "Giáo dục và khoa cử Đại Việt thế kỉ X–XV",
+   "kind": "concept",
+   "topic_title": "Xây dựng và phát triển văn hoá dân tộc trong các thế kỉ X - XV",
+   "summary": "Từ Văn Miếu 1070, Quốc Tử Giám 1076 và khoa thi đầu tiên 1075 đến việc dựng bia tiến sĩ năm 1484.",
+   "year": null,
+   "date_start": "1070",
+   "date_end": "1484",
+   "place": "Thăng Long",
+   "actors": [
+    "Lý Thánh Tông",
+    "Lý Nhân Tông",
+    "Lê Văn Thịnh",
+    "Lê Thánh Tông",
+    "Nguyễn Hiền"
+   ],
+   "aliases": [
+    "Văn Miếu",
+    "Quốc Tử Giám",
+    "khoa thi Minh kinh bác học",
+    "bia tiến sĩ",
+    "khoa cử",
+    "trạng nguyên"
+   ],
+   "facts": [
+    "Mùa thu tháng 10 năm 1070, vua Lý Thánh Tông cho dựng Văn Miếu ở Thăng Long, đắp tượng Khổng Tử, Chu Công và Tứ phối.",
+    "Tháng 2 năm 1075, nhà Lý mở khoa thi đầu tiên của nước ta là khoa Minh kinh bác học; Lê Văn Thịnh người Bắc Ninh đỗ đầu, trở thành thủ khoa đầu tiên trong lịch sử khoa cử Việt Nam.",
+    "Năm 1076, vua Lý Nhân Tông lập Quốc Tử Giám bên cạnh Văn Miếu, được coi là trường đại học đầu tiên của Việt Nam.",
+    "Năm 1247, Nguyễn Hiền đỗ Trạng nguyên khi mới 13 tuổi dưới triều vua Trần Thái Tông, trở thành trạng nguyên trẻ nhất trong lịch sử khoa bảng Việt Nam.",
+    "Năm 1484, vua Lê Thánh Tông cho dựng bia ghi tên những người đỗ tiến sĩ, khắc lại từ khoa thi năm 1442 trở đi để đề cao việc học và khuyến khích nhân tài.",
+    "Từ năm 1484 đến năm 1780, nhà Hậu Lê tổ chức khoảng 117 khoa thi tiến sĩ, nhưng qua binh lửa đến nay Văn Miếu – Quốc Tử Giám chỉ còn giữ được 82 tấm bia tiến sĩ, ứng với các khoa thi từ năm 1442 đến năm 1779."
+   ],
+   "traps": [
+    "Trạng nguyên trẻ nhất lịch sử khoa bảng Việt Nam, đỗ năm 13 tuổi thời vua Trần Thái Tông, là NGUYỄN HIỀN — trong lịch sử Việt Nam KHÔNG có nhân vật nào tên 'Nguyễn Minh Sát'.",
+    "Văn Miếu dựng năm 1070 dưới thời Lý Thánh Tông, còn Quốc Tử Giám lập năm 1076 dưới thời Lý Nhân Tông — hai mốc và hai vua khác nhau.",
+    "Khoa thi đầu tiên là năm 1075, còn bia tiến sĩ mãi tới năm 1484 mới bắt đầu được dựng — hai việc cách nhau hơn 400 năm."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 18
+    },
+    {
+     "book": "NXBDG",
+     "bai": 20
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Văn_Miếu_-_Quốc_Tử_Giám",
+    "https://vi.wikipedia.org/wiki/Nguyễn_Hiền",
+    "https://nguoikesu.com/nhan-vat/le-van-thinh"
+   ],
+   "fixed": [
+    "facts: sửa 'trong khoảng 117 tấm bia TỪNG ĐƯỢC DỰNG còn 82' -> 117 là số KHOA THI (1484-1780), số bia còn lại là 82 (khoa 1442-1779)",
+    "topic_title: sửa từ 'Công cuộc xây dựng và phát triển kinh tế trong các thế kỉ X - XV' -> 'Xây dựng và phát triển văn hoá dân tộc trong các thế kỉ X - XV' (bài 20)"
+   ]
+  },
+  {
+   "name": "Nguyễn Hiền",
+   "kind": "person",
+   "topic_title": "Xây dựng và phát triển văn hoá dân tộc trong các thế kỉ X - XV",
+   "summary": "Trạng nguyên trẻ nhất lịch sử khoa bảng Việt Nam, đỗ năm 1247 khi mới 13 tuổi dưới triều Trần Thái Tông.",
+   "year": null,
+   "date_start": "1234",
+   "date_end": "1256",
+   "place": "làng Dương A, phủ Thiên Trường (nay thuộc Nam Định)",
+   "actors": [
+    "Nguyễn Hiền",
+    "Trần Thái Tông"
+   ],
+   "aliases": [
+    "Trạng nguyên Nguyễn Hiền",
+    "Trạng Hiền",
+    "Nguyễn Hiền (1234-1256)",
+    "trạng nguyên trẻ nhất"
+   ],
+   "facts": [
+    "Nguyễn Hiền sinh ngày 11/7/1234 tại làng Dương A, huyện Thượng Hiền, phủ Thiên Trường, nay thuộc tỉnh Nam Định.",
+    "Năm 1247, khi mới 13 tuổi, Nguyễn Hiền đỗ Trạng nguyên dưới triều vua Trần Thái Tông và trở thành trạng nguyên trẻ nhất trong lịch sử khoa bảng Việt Nam.",
+    "Ông làm quan tới chức Thượng thư bộ Công.",
+    "Nguyễn Hiền từng góp công đánh lui quân Chiêm Thành quấy phá năm 1255, tổ chức các công trình trị thuỷ trên sông Hồng và lập nơi luyện tập binh sĩ.",
+    "Giai thoại nổi tiếng kể rằng ông đã giải được câu đố xâu chỉ qua ruột con ốc xoắn của sứ giả phương Bắc, khiến sứ giả phải khâm phục.",
+    "Nguyễn Hiền mất ngày 5/9/1256 khi mới 22 tuổi; ông được truy phong là Đại vương thành hoàng và được thờ ở 32 ngôi đền."
+   ],
+   "traps": [
+    "Trạng nguyên trẻ nhất lịch sử Việt Nam, đỗ năm 13 tuổi thời Trần Thái Tông, là NGUYỄN HIỀN. Không hề tồn tại nhân vật lịch sử nào tên 'Nguyễn Minh Sát'.",
+    "Nguyễn Hiền đỗ đời Trần Thái Tông năm 1247, KHÔNG phải đời Lý; đừng nhầm ông với Lê Văn Thịnh — người đỗ đầu khoa thi đầu tiên năm 1075 thời Lý.",
+    "Nguyễn Hiền chỉ sống 22 năm (1234-1256), không phải một vị quan lão thành."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 18
+    },
+    {
+     "book": "NXBDG",
+     "bai": 20
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Nguyễn_Hiền"
+   ],
+   "fixed": [
+    "topic_title: sửa từ 'Công cuộc xây dựng và phát triển kinh tế trong các thế kỉ X - XV' -> 'Xây dựng và phát triển văn hoá dân tộc trong các thế kỉ X - XV' (bài 20)",
+    "facts: bổ sung ngày sinh 11/7/1234 và ngày mất 5/9/1256 theo vi.wikipedia (đã đối chiếu: đỗ trạng nguyên 1247 lúc 13 tuổi đời Trần Thái Tông, Thượng thư bộ Công, đánh Chiêm Thành 1255, thờ ở 32 đền — tất cả đều khớp)"
+   ]
+  },
+  {
+   "name": "Văn hoá Đại Việt thế kỉ X–XV",
+   "kind": "concept",
+   "topic_title": "Xây dựng và phát triển văn hoá dân tộc trong các thế kỉ X - XV",
+   "summary": "Phật giáo thịnh thời Lý – Trần, chữ Nôm ra đời, sử học và văn học chữ Hán phát triển rực rỡ.",
+   "year": null,
+   "date_start": "thế kỉ X",
+   "date_end": "thế kỉ XV",
+   "place": "Đại Việt",
+   "actors": [
+    "Lê Văn Hưu",
+    "Hàn Thuyên",
+    "Nguyễn Trãi",
+    "Ngô Sĩ Liên"
+   ],
+   "aliases": [
+    "Đại Việt sử ký",
+    "chữ Nôm",
+    "Hàn luật",
+    "Bình Ngô đại cáo",
+    "Nguyễn Thuyên",
+    "Đại Việt sử ký toàn thư"
+   ],
+   "facts": [
+    "Thời Lý – Trần, Phật giáo giữ vị trí đặc biệt trong đời sống: vua quan góp tiền dựng chùa, đúc chuông, nhiều nhà sư được trọng dụng và tham gia việc nước.",
+    "Năm 1272, Lê Văn Hưu hoàn thành bộ Đại Việt sử ký gồm 30 quyển và dâng lên vua Trần Thánh Tông; đây là bộ quốc sử đầu tiên của nước ta, chép từ Triệu Vũ Đế đến Lý Chiêu Hoàng.",
+    "Bản gốc Đại Việt sử ký bị mất trong thời quân Minh đô hộ, nhưng nội dung còn được Ngô Sĩ Liên dẫn lại trong bộ sử soạn năm 1479.",
+    "Hàn Thuyên, tên thật là Nguyễn Thuyên, sinh năm 1229, có công phát triển và phổ biến chữ Nôm, đặt ra lối thơ 'Hàn luật' đưa luật thơ Đường vào thơ Nôm.",
+    "Năm 1282, theo lệnh vua, Hàn Thuyên làm bài văn tế ném xuống sông Hồng để đuổi cá sấu; vua khen ngợi và ban cho ông họ Hàn theo tên nhà thơ Hàn Dũ đời Đường.",
+    "Năm 1428, sau khi khởi nghĩa Lam Sơn đánh đuổi quân Minh, Nguyễn Trãi thừa lệnh Lê Lợi viết Bình Ngô đại cáo — áng văn được coi là bản tuyên ngôn độc lập thứ hai của dân tộc."
+   ],
+   "traps": [
+    "Bản tuyên ngôn độc lập đầu tiên thường được coi là bài thơ 'Nam quốc sơn hà', còn Bình Ngô đại cáo năm 1428 là bản thứ hai — không đảo thứ tự.",
+    "Bộ quốc sử đầu tiên là Đại Việt sử ký của Lê Văn Hưu (1272); Đại Việt sử ký toàn thư của Ngô Sĩ Liên (1479) là bộ soạn sau, dựa trên bộ trước.",
+    "Chữ Nôm là chữ do người Việt sáng tạo dựa trên chữ Hán để ghi tiếng Việt, không phải chữ do người Trung Quốc đem sang."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 18
+    },
+    {
+     "book": "NXBDG",
+     "bai": 20
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Đại_Việt_sử_ký",
+    "https://vi.wikipedia.org/wiki/Hàn_Thuyên",
+    "https://vi.wikipedia.org/wiki/Bình_Ngô_đại_cáo"
+   ],
+   "fixed": [
+    "topic_title: sửa từ 'Công cuộc xây dựng và phát triển kinh tế trong các thế kỉ X - XV' -> 'Xây dựng và phát triển văn hoá dân tộc trong các thế kỉ X - XV' (bài 20)"
+   ]
+  }
+ ]
+}

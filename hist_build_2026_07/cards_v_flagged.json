@@ -1,0 +1,261 @@
+[
+ {
+  "name": "Cách mạng tư sản",
+  "kind": "concept",
+  "summary": "Loại hình cách mạng do giai cấp tư sản lãnh đạo nhằm lật đổ chế độ phong kiến và mở đường cho chủ nghĩa tư bản phát triển.",
+  "facts": [
+   "Cách mạng tư sản là cuộc cách mạng do giai cấp tư sản lãnh đạo nhằm lật đổ chế độ phong kiến, thiết lập nền dân chủ tư sản và mở đường cho chủ nghĩa tư bản phát triển.",
+   "Các cuộc cách mạng tư sản diễn ra kéo dài từ thế kỉ XVI đến thế kỉ XX ở nhiều khu vực trên thế giới.",
+   "Những cuộc cách mạng tư sản tiêu biểu gồm cách mạng Nê-đéc-lan, cách mạng tư sản Anh 1642-1688, Chiến tranh giành độc lập của 13 thuộc địa Anh ở Bắc Mĩ 1775-1783 và Cách mạng Pháp 1789.",
+   "Cách mạng Tân Hợi ở Trung Quốc năm 1911 và cuộc Duy tân Minh Trị ở Nhật Bản năm 1868 cũng mang tính chất tư sản, dù diễn ra dưới những hình thức khác nhau.",
+   "Vì cách mạng tư sản chỉ thay chế độ bóc lột phong kiến bằng chế độ bóc lột tư bản chủ nghĩa nên nó không giải phóng được người lao động, đó là hạn chế căn bản của loại hình cách mạng này."
+  ],
+  "topic_title": "Ôn tập lịch sử thế giới cận đại",
+  "aliases": [
+   "cách mạng tư sản",
+   "cách mạng dân chủ tư sản",
+   "bourgeois revolution"
+  ],
+  "year": null,
+  "date_start": null,
+  "date_end": null,
+  "place": "châu Âu, Bắc Mĩ, châu Á",
+  "actors": [
+   "giai cấp tư sản"
+  ],
+  "traps": [
+   "Cách mạng Tân Hợi 1911 và Duy tân Minh Trị 1868 mang tính chất TƯ SẢN, không phải cách mạng vô sản.",
+   "Chiến tranh giành độc lập của 13 thuộc địa Anh ở Bắc Mĩ (1775-1783) cũng là một cuộc cách mạng tư sản, vì nó vừa giành độc lập vừa mở đường cho chủ nghĩa tư bản phát triển."
+  ],
+  "sources": [
+   "https://vi.wikipedia.org/wiki/C%C3%A1ch_m%E1%BA%A1ng_t%C6%B0_s%E1%BA%A3n"
+  ],
+  "lessons": [
+   {
+    "book": "NXBDG",
+    "bai": 8
+   }
+  ],
+  "_grade": 11,
+  "_chunk": 1,
+  "_errs": [
+   "COLLISION-thiếu-qualifier(cach mang tu san)"
+  ]
+ },
+ {
+  "name": "Phan Châu Trinh và cuộc vận động Duy tân ở Trung Kì (1906 – 1908)",
+  "kind": "movement",
+  "year": 1906,
+  "date_start": "1906",
+  "date_end": "1908",
+  "place": "Trung Kì (Quảng Nam và các tỉnh lân cận)",
+  "actors": [
+   "Phan Châu Trinh",
+   "Huỳnh Thúc Kháng",
+   "Trần Quý Cáp"
+  ],
+  "aliases": [
+   "Phan Chu Trinh",
+   "Phan Châu Trinh",
+   "phong trào Duy tân",
+   "cuộc vận động Duy tân Trung Kì",
+   "Tây Hồ"
+  ],
+  "summary": "Phan Châu Trinh chủ trương cải cách ôn hòa theo phương châm 'khai dân trí, chấn dân khí, hậu dân sinh', lãnh đạo cuộc vận động Duy tân ở Trung Kì đầu thế kỉ XX.",
+  "facts": [
+   "Phan Châu Trinh sinh ngày 9/9/1872 và mất ngày 24/3/1926, là lãnh tụ tiêu biểu của khuynh hướng cải cách trong phong trào yêu nước đầu thế kỉ XX.",
+   "Chủ trương của ông gói trong ba mệnh đề: 'khai dân trí, chấn dân khí, hậu dân sinh' — mở mang dân trí, chấn hưng ý chí và làm cho đời sống nhân dân no đủ.",
+   "Phan Châu Trinh lãnh đạo cuộc vận động Duy tân ở Trung Kì, cổ vũ mở trường dạy chữ Quốc ngữ, lập hội buôn, phát triển nghề nghiệp, bài trừ hủ tục.",
+   "Khác với Phan Bội Châu, ông phản đối bạo động và chủ trương dựa vào Pháp để tiến hành cải cách, cho rằng phải nâng cao dân trí và kinh tế trước rồi mới tính chuyện độc lập.",
+   "Chính vì tư tưởng Duy tân lan rộng mà phong trào chống sưu thuế bùng nổ ở Trung Kì năm 1908; thực dân Pháp quy trách nhiệm cho Phan Châu Trinh và đày ông ra Côn Đảo.",
+   "Đám tang Phan Châu Trinh năm 1926 thu hút khoảng 60.000 người thuộc mọi tầng lớp, trở thành một cuộc vận động yêu nước rộng lớn."
+  ],
+  "traps": [
+   "SAI: Phan Châu Trinh chủ trương bạo động chống Pháp. ĐÚNG: ông phản đối bạo động, chủ trương cải cách ôn hòa; người chủ trương bạo động là Phan Bội Châu.",
+   "SAI: khẩu hiệu của ông là 'khai dân trí, chấn dân khí, hậu dân sinh' của Phan Bội Châu. ĐÚNG: đó là chủ trương của PHAN CHÂU TRINH.",
+   "Đừng nhầm Phan Châu Trinh (1872 – 1926) với Phan Bội Châu (1867 – 1940): hai người cùng thời, cùng yêu nước nhưng khác hẳn đường lối."
+  ],
+  "topic_title": "Phong trào yêu nước và cách mạng ở Việt Nam từ đầu thế kỉ XX đến Chiến tranh thế giới thứ nhất (1914)",
+  "lessons": [
+   {
+    "book": "NXBDG",
+    "bai": 23
+   }
+  ],
+  "sources": [
+   "https://vi.wikipedia.org/wiki/Phan_Châu_Trinh"
+  ],
+  "_grade": 11,
+  "_chunk": 2,
+  "_errs": [
+   "facts KHÔNG nhắc year(1906; facts có [0, 1872, 1908, 1926])"
+  ]
+ },
+ {
+  "name": "Cách mạng công nghiệp lần thứ nhất",
+  "kind": "period",
+  "year": 1760,
+  "date_start": "1760",
+  "date_end": "1840",
+  "place": "Anh, sau đó lan ra Pháp, Đức, Mỹ",
+  "actors": [
+   "Giêm Ha-gri-vơ",
+   "Giêm Oát",
+   "Ét-mơn Các-rai",
+   "Xti-phen-xơn"
+  ],
+  "aliases": [
+   "Cách mạng công nghiệp",
+   "cách mạng kĩ nghệ",
+   "Industrial Revolution",
+   "Cách mạng công nghiệp thế kỉ XVIII-XIX"
+  ],
+  "summary": "Quá trình chuyển từ sản xuất thủ công sang sản xuất bằng máy móc, khởi đầu ở Anh từ những năm 60 của thế kỉ XVIII đến giữa thế kỉ XIX.",
+  "facts": [
+   "Cách mạng công nghiệp lần thứ nhất bắt đầu ở nước Anh từ những năm 60 của thế kỉ XVIII và kết thúc vào những năm 40 của thế kỉ XIX.",
+   "Năm 1733, Giôn Kay phát minh ra thoi bay, giúp năng suất dệt vải tăng lên rõ rệt.",
+   "Năm 1764, Giêm Ha-gri-vơ chế tạo máy kéo sợi Gien-ni, kéo được nhiều sợi cùng lúc.",
+   "Năm 1785, Ét-mơn Các-rai chế tạo máy dệt vải chạy bằng sức nước, làm năng suất dệt tăng vọt.",
+   "Năm 1814, Xti-phen-xơn chế tạo thành công đầu máy xe lửa chạy bằng hơi nước (kéo được nhiều toa trên đường ray), mở ra thời kì giao thông đường sắt; trước đó, năm 1804 Tơ-re-vi-thích đã chạy thử đầu máy hơi nước đầu tiên trên thế giới.",
+   "Vì nước Anh có sẵn nguồn than, sắt, vốn và nhân công dồi dào, Anh trở thành quê hương của cách mạng công nghiệp.",
+   "Cách mạng công nghiệp đã làm xuất hiện hai giai cấp cơ bản của xã hội tư bản là giai cấp tư sản công nghiệp và giai cấp vô sản."
+  ],
+  "traps": [
+   "Cách mạng công nghiệp lần thứ nhất khởi đầu ở ANH, không phải ở Pháp hay Mỹ.",
+   "Máy kéo sợi Gien-ni (1764) là của Giêm Ha-gri-vơ, còn máy hơi nước là của Giêm Oát - đừng nhầm hai người tên Giêm.",
+   "Đây là cách mạng công nghiệp lần thứ nhất (thế kỉ XVIII-XIX), khác với cách mạng công nghiệp lần thứ hai cuối thế kỉ XIX."
+  ],
+  "lessons": [
+   {
+    "book": "KNTT",
+    "bai": 3
+   },
+   {
+    "book": "KNTT",
+    "bai": 4
+   }
+  ],
+  "topic_title": "Cách mạng công nghiệp (nửa sau thế kỉ XVIII - giữa thế kỉ XIX)",
+  "sources": [
+   "https://vi.wikipedia.org/wiki/C%C3%A1ch_m%E1%BA%A1ng_C%C3%B4ng_nghi%E1%BB%87p"
+  ],
+  "fixed": [
+   "Bỏ khẳng định sai 'đầu máy xe lửa hơi nước ĐẦU TIÊN' cho Xti-phen-xơn 1814: đầu máy hơi nước đầu tiên là của Tơ-re-vi-thích (1804)"
+  ],
+  "_grade": 8,
+  "_chunk": 0,
+  "_errs": [
+   "facts KHÔNG nhắc year(1760; facts có [1733, 1764, 1785, 1804])"
+  ]
+ },
+ {
+  "name": "Cách mạng công nghiệp lần thứ nhất",
+  "kind": "period",
+  "aliases": [
+   "cách mạng công nghiệp thế kỉ XVIII",
+   "cuộc cách mạng công nghiệp lần thứ nhất",
+   "công nghiệp hóa ở Anh"
+  ],
+  "year": 1760,
+  "date_start": "1760",
+  "date_end": "1840",
+  "place": "nước Anh rồi lan ra châu Âu và Bắc Mỹ",
+  "actors": [
+   "Giôn Kay",
+   "Giêm Ha-gri-vơ",
+   "Giêm Oát",
+   "Rô-bớt Phơn-tơn",
+   "Xti-phen-xơn"
+  ],
+  "summary": "Cách mạng công nghiệp lần thứ nhất bắt đầu ở Anh từ những năm 60 của thế kỉ XVIII, thay lao động thủ công bằng máy móc, rồi lan sang các nước châu Âu và Bắc Mỹ.",
+  "facts": [
+   "Cách mạng công nghiệp lần thứ nhất bắt đầu ở nước Anh vào những năm 60 của thế kỉ XVIII và kéo dài đến những năm 40 của thế kỉ XIX.",
+   "Ngành dệt là nơi khởi đầu với thoi bay của Giôn Kay năm 1733 và máy kéo sợi Gien-ni của Giêm Ha-gri-vơ năm 1764.",
+   "Năm 1785, Ét-mơn Các-rai chế tạo máy dệt vải chạy bằng sức nước, giúp năng suất dệt tăng vọt.",
+   "Năm 1807, Rô-bớt Phơn-tơn đóng thành công tàu thủy chạy bằng hơi nước; năm 1814, Xti-phen-xơn chế tạo đầu máy xe lửa.",
+   "Vì nước Anh sớm hoàn thành cách mạng tư sản, có nhiều vốn, nhân công và thuộc địa nên đây là nước đầu tiên tiến hành cách mạng công nghiệp.",
+   "Cách mạng công nghiệp đã thay thế lao động thủ công bằng máy móc, đưa loài người bước từ nền văn minh nông nghiệp sang nền văn minh công nghiệp."
+  ],
+  "traps": [
+   "Nhầm cách mạng công nghiệp lần thứ nhất bắt đầu ở Pháp hoặc Mỹ; nước khởi đầu là ANH.",
+   "Nhầm cách mạng công nghiệp lần thứ nhất diễn ra ở thế kỉ XIX trọn vẹn; nó bắt đầu từ những năm 60 của thế kỉ XVIII.",
+   "Nhầm cách mạng công nghiệp lần thứ nhất với các cuộc cách mạng công nghiệp sau này: lần thứ nhất gắn với máy hơi nước, lần thứ hai gắn với điện, không phải máy tính hay internet."
+  ],
+  "topic_title": "Cách mạng công nghiệp",
+  "lessons": [
+   {
+    "book": "cánh diều",
+    "bai": 2
+   },
+   {
+    "book": "CTST",
+    "bai": 2
+   }
+  ],
+  "sources": [
+   "https://vi.wikipedia.org/wiki/Cách_mạng_công_nghiệp"
+  ],
+  "_grade": 8,
+  "_chunk": 1,
+  "_errs": [
+   "facts KHÔNG nhắc year(1760; facts có [1733, 1764, 1785, 1807])"
+  ]
+ },
+ {
+  "name": "Hội Việt Nam Cách mạng Thanh niên",
+  "kind": "org",
+  "year": 1925,
+  "date_start": "1925-06-01",
+  "date_end": "1929-08-04",
+  "place": "Quảng Châu, Trung Quốc",
+  "actors": [
+   "Nguyễn Ái Quốc",
+   "Cộng sản đoàn"
+  ],
+  "aliases": [
+   "Hội Việt Nam Cách mạng Thanh niên",
+   "Việt Nam Thanh niên Cách mạng đồng chí Hội",
+   "Hội Thanh niên",
+   "Thanh niên Cách mạng đồng chí Hội",
+   "báo Thanh niên",
+   "Việt Nam Cách mạng Thanh niên"
+  ],
+  "summary": "Tổ chức cách mạng do Nguyễn Ái Quốc sáng lập tháng 6/1925 tại Quảng Châu, truyền bá chủ nghĩa Mác - Lênin về nước và chuẩn bị cho sự ra đời của Đảng Cộng sản Việt Nam.",
+  "facts": [
+   "Hội Việt Nam Cách mạng Thanh niên được Nguyễn Ái Quốc thành lập vào tháng 6 năm 1925 tại Quảng Châu (Trung Quốc), trên cơ sở nòng cốt là nhóm Cộng sản đoàn.",
+   "Hội mở các lớp huấn luyện chính trị do Nguyễn Ái Quốc trực tiếp giảng dạy để đào tạo cán bộ rồi đưa về nước hoạt động.",
+   "Cơ quan ngôn luận của Hội là báo Thanh niên, số đầu ra ngày 21/6/1925; các bài giảng của Nguyễn Ái Quốc sau đó được tập hợp in thành cuốn Đường Kách mệnh (1927).",
+   "Từ năm 1928, Hội chủ trương 'vô sản hóa', đưa hội viên vào các nhà máy, hầm mỏ, đồn điền để vừa lao động vừa tuyên truyền cách mạng trong công nhân.",
+   "Vì phong trào phát triển mạnh và yêu cầu phải có chính đảng của giai cấp vô sản, năm 1929 Hội phân hóa rồi giải thể (ngày 4/8/1929): hội viên Bắc Kỳ lập Đông Dương Cộng sản đảng (6/1929), số còn lại lập An Nam Cộng sản đảng (8/1929); riêng Đông Dương Cộng sản liên đoàn (9/1929) ra đời từ Tân Việt Cách mạng đảng chứ không phải từ Hội. Ba tổ chức này là tiền đề cho việc hợp nhất thành Đảng Cộng sản Việt Nam đầu năm 1930."
+  ],
+  "traps": [
+   "Hội Việt Nam Cách mạng Thanh niên thành lập THÁNG 6 NĂM 1925, KHÔNG phải năm 1920 hay 1927.",
+   "Hội thành lập ở Quảng Châu (Trung Quốc), không phải trong nước.",
+   "Hội Việt Nam Cách mạng Thanh niên là tổ chức tiền thân, chưa phải là Đảng Cộng sản Việt Nam (Đảng ra đời ngày 3/2/1930).",
+   "Báo của Hội là báo Thanh niên, không phải báo Nhân đạo hay Người cùng khổ.",
+   "Đông Dương Cộng sản liên đoàn (9/1929) tách ra từ TÂN VIỆT CÁCH MẠNG ĐẢNG, không phải từ Hội Việt Nam Cách mạng Thanh niên; chỉ Đông Dương Cộng sản đảng và An Nam Cộng sản đảng mới ra đời từ Hội."
+  ],
+  "topic_title": "Hoạt động của Nguyễn Ái Quốc và sự thành lập Đảng Cộng sản Việt Nam",
+  "lessons": [
+   {
+    "book": "KNTT",
+    "bai": 6
+   },
+   {
+    "book": "CTST",
+    "bai": 6
+   }
+  ],
+  "sources": [
+   "https://vi.wikipedia.org/wiki/H%E1%BB%99i_Vi%E1%BB%87t_Nam_C%C3%A1ch_m%E1%BA%A1ng_Thanh_ni%C3%AAn"
+  ],
+  "fixed": [
+   "chiều nhân-quả: 'hội viên chuyển sang BA tổ chức cộng sản' -> sai; Hội chỉ sinh ra 2 tổ chức (ĐDCS đảng, An Nam CS đảng), Đông Dương Cộng sản liên đoàn ra đời từ Tân Việt Cách mạng đảng"
+  ],
+  "_grade": 9,
+  "_chunk": 3,
+  "_errs": [
+   "fact-độ-dài"
+  ]
+ }
+]

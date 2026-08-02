@@ -1,0 +1,1744 @@
+{
+ "grade": 11,
+ "chunk": 2,
+ "cards": [
+  {
+   "name": "Đại khủng hoảng kinh tế thế giới (1929 – 1933)",
+   "kind": "event",
+   "year": 1929,
+   "date_start": "1929-10-24",
+   "date_end": "1933",
+   "place": "Khởi phát ở Mỹ, lan ra toàn bộ thế giới tư bản",
+   "actors": [
+    "Mỹ (Hoa Kỳ)",
+    "Đức",
+    "Anh",
+    "Pháp"
+   ],
+   "aliases": [
+    "khủng hoảng kinh tế 1929-1933",
+    "khủng hoảng kinh tế thế giới 1929",
+    "Đại suy thoái",
+    "Great Depression",
+    "khủng hoảng thừa 1929-1933",
+    "khủng hoảng kinh tế giữa hai cuộc chiến tranh"
+   ],
+   "summary": "Cuộc khủng hoảng kinh tế lớn nhất của thế giới tư bản giữa hai cuộc chiến, nổ ra ở Mỹ tháng 10/1929 và kéo dài tới năm 1933, đẩy nhiều nước đi theo con đường phát xít hóa.",
+   "facts": [
+    "Đại khủng hoảng kinh tế thế giới bùng nổ ngày 24/10/1929, khi thị trường chứng khoán phố Wall ở Mỹ sụp đổ.",
+    "Cuộc khủng hoảng kéo dài từ năm 1929 đến năm 1933, nên trong sách giáo khoa thường gọi gọn là 'khủng hoảng 1929 – 1933'.",
+    "Vì kinh tế Mỹ khi đó là đầu tàu của thế giới tư bản, nên khi nước Mỹ sụp đổ thì khủng hoảng lập tức kéo Anh, Pháp, Đức và các nước Mỹ Latinh đi xuống theo.",
+    "Trong ba năm 1929 – 1932, tổng sản phẩm của thế giới giảm khoảng 15%, riêng nước Mỹ giảm tới khoảng 30% và thương mại quốc tế giảm hơn một nửa.",
+    "Thất nghiệp lên tới khoảng 25% ở Mỹ và gần 30% ở Đức, còn trong thập niên 1930 có khoảng 9.000 ngân hàng Mỹ phá sản.",
+    "Chính vì khủng hoảng làm mâu thuẫn xã hội gay gắt mà các nước tư bản chia thành hai lối thoát: Mỹ – Anh – Pháp tiến hành cải cách kinh tế – xã hội, còn Đức – Italia – Nhật Bản phát xít hóa bộ máy nhà nước và gây chiến tranh.",
+    "Trật tự thế giới Vécxai – Oasinhtơn do các nước thắng trận lập ra sau Chiến tranh thế giới thứ nhất (Hòa ước Vécxai ký ngày 28/6/1919) vốn đã chứa nhiều mâu thuẫn, và cuộc khủng hoảng 1929 – 1933 càng làm trật tự này rạn nứt."
+   ],
+   "traps": [
+    "SAI: khủng hoảng bắt đầu năm 1928. ĐÚNG: bắt đầu năm 1929 và kéo dài đến năm 1933 — luôn nói 'khủng hoảng 1929 – 1933'.",
+    "SAI: khủng hoảng nổ ra đầu tiên ở Đức. ĐÚNG: nổ ra đầu tiên ở Mỹ (phố Wall, tháng 10/1929) rồi mới lan ra thế giới.",
+    "Nhân quả đúng chiều: khủng hoảng 1929 – 1933 là nguyên nhân dẫn tới chủ nghĩa phát xít lên nắm quyền, chứ không phải phát xít gây ra khủng hoảng."
+   ],
+   "topic_title": "Tình hình các nước tư bản giữa hai cuộc chiến tranh thế giới (1918 - 1939)",
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 11
+    },
+    {
+     "book": "NXBDG",
+     "bai": 13
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Đại_khủng_hoảng",
+    "https://vi.wikipedia.org/wiki/Hòa_ước_Versailles"
+   ]
+  },
+  {
+   "name": "Chính sách mới của Ru-dơ-ven (New Deal, 1933)",
+   "kind": "concept",
+   "year": 1933,
+   "date_start": "1933",
+   "date_end": "1939",
+   "place": "Hoa Kỳ",
+   "actors": [
+    "Franklin D. Roosevelt (Ph. Ru-dơ-ven)"
+   ],
+   "aliases": [
+    "New Deal",
+    "Chính sách kinh tế mới của Mỹ",
+    "chính sách mới của Rudơven",
+    "Ru-dơ-ven",
+    "Roosevelt",
+    "Chính sách mới ở Mĩ"
+   ],
+   "summary": "Hệ thống biện pháp cải cách kinh tế – xã hội do Tổng thống Ru-dơ-ven thực hiện từ năm 1933, giúp nước Mỹ thoát khỏi khủng hoảng mà không đi theo con đường phát xít.",
+   "facts": [
+    "Chính sách mới (New Deal) được Tổng thống Phrancơlin Rudơven thực hiện từ năm 1933, ngay khi ông nhậm chức giữa lúc nước Mỹ chìm trong khủng hoảng.",
+    "Chính sách mới triển khai qua hai đợt: đợt một năm 1933 – 1934 tập trung cứu hệ thống ngân hàng và tạo việc làm, đợt hai năm 1935 – 1936 mở rộng sang an sinh xã hội và bảo vệ người lao động.",
+    "Nhà nước Mỹ can thiệp trực tiếp vào kinh tế bằng các đạo luật lớn như Đạo luật Ngân hàng năm 1933, Đạo luật Điều chỉnh Nông nghiệp, Đạo luật Quan hệ Lao động Quốc gia và Đạo luật An sinh Xã hội năm 1935.",
+    "Chính phủ lập các cơ quan như WPA và CCC để tạo việc làm công cộng, nhờ đó hàng triệu người Mỹ có việc làm trở lại.",
+    "Chính vì Mỹ chọn cách cải cách kinh tế – xã hội trong khuôn khổ chế độ dân chủ tư sản mà nước này thoát khỏi khủng hoảng, khác hẳn con đường phát xít hóa của Đức và Nhật Bản.",
+    "Đạo luật Tiêu chuẩn Lao động Công bằng năm 1938 tiếp tục hoàn thiện Chính sách mới và đặt nền móng cho hệ thống phúc lợi xã hội hiện đại của Mỹ."
+   ],
+   "traps": [
+    "SAI: 'Chính sách kinh tế mới (NEP)' của Lênin ở nước Nga năm 1921 và 'Chính sách mới (New Deal)' của Ru-dơ-ven ở Mỹ năm 1933 là một. ĐÚNG: hai chính sách khác nhau hoàn toàn về nước, về thời gian và về bản chất.",
+    "SAI: Chính sách mới bắt đầu ngay khi khủng hoảng nổ ra năm 1929. ĐÚNG: bắt đầu năm 1933, tức bốn năm sau khi khủng hoảng bùng nổ."
+   ],
+   "topic_title": "Tình hình các nước tư bản giữa hai cuộc chiến tranh thế giới (1918 - 1939)",
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 13
+    },
+    {
+     "book": "NXBDG",
+     "bai": 11
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Chính_sách_kinh_tế_mới_(Hoa_Kỳ)",
+    "https://vi.wikipedia.org/wiki/Đại_khủng_hoảng"
+   ]
+  },
+  {
+   "name": "Chủ nghĩa phát xít lên nắm quyền ở Đức và Nhật Bản (1931 – 1933)",
+   "kind": "event",
+   "year": 1933,
+   "date_start": "1931-09-18",
+   "date_end": "1933-03-23",
+   "place": "Đức và Nhật Bản",
+   "actors": [
+    "Adolf Hitler (Hít-le)",
+    "Đảng Quốc xã",
+    "Paul von Hindenburg",
+    "giới quân phiệt Nhật Bản"
+   ],
+   "aliases": [
+    "Hitler lên nắm quyền",
+    "Hít-le lên làm Thủ tướng Đức",
+    "Đảng Quốc xã",
+    "chủ nghĩa phát xít Đức",
+    "Nhật Bản quân phiệt hóa",
+    "sự kiện Mãn Châu 1931",
+    "sự kiện Phụng Thiên",
+    "Mukden",
+    "nước Đức giữa hai cuộc chiến tranh",
+    "Nhật Bản giữa hai cuộc chiến tranh"
+   ],
+   "summary": "Dưới tác động của khủng hoảng 1929 – 1933, Đức và Nhật Bản đi theo con đường phát xít hóa bộ máy nhà nước và gây chiến tranh xâm lược, hình thành các lò lửa chiến tranh thế giới.",
+   "facts": [
+    "Nước Đức sau Chiến tranh thế giới thứ nhất là nền Cộng hòa Vaima, ra đời ngày 9/11/1918, phải chịu những điều khoản nặng nề của Hòa ước Vécxai ký ngày 28/6/1919 nên tâm lý phục thù lan rộng trong dân chúng Đức.",
+    "Khủng hoảng kinh tế 1929 – 1933 đẩy số người thất nghiệp ở Đức lên tới 6 triệu vào mùa hè năm 1932, tạo điều kiện cho Đảng Quốc xã của Hít-le thu hút quần chúng.",
+    "Ngày 30/1/1933, Tổng thống Hinđenbua bổ nhiệm Hít-le làm Thủ tướng nước Đức, mở đầu thời kỳ đen tối của chủ nghĩa phát xít.",
+    "Đạo luật ủy quyền (Đạo luật Trao quyền) được Quốc hội Đức thông qua ngày 23/3/1933 và công bố có hiệu lực từ ngày 24/3/1933, chấm dứt nền Cộng hòa Vaima và biến nước Đức thành nhà nước độc tài phát xít.",
+    "Ở Nhật Bản, cuộc khủng hoảng tài chính năm 1927 rồi khủng hoảng kinh tế thế giới 1929 – 1933 làm nền kinh tế điêu đứng, nên giới cầm quyền chọn cách quân phiệt hóa bộ máy nhà nước và gây chiến tranh để tìm nguyên liệu và thị trường.",
+    "Ngày 18/9/1931, sĩ quan Nhật Bản tự cho nổ một đoạn đường sắt gần Thẩm Dương rồi đổ tội cho người Trung Quốc, lấy cớ đó đánh chiếm vùng Đông Bắc Trung Quốc — đây là sự kiện Phụng Thiên (Mãn Châu).",
+    "Sau khi chiếm Đông Bắc Trung Quốc, Nhật Bản dựng lên nhà nước bù nhìn Mãn Châu Quốc năm 1932 và rút khỏi Hội Quốc Liên vào tháng 3/1933.",
+    "Chính việc Nhật Bản đánh chiếm Đông Bắc Trung Quốc từ tháng 9/1931 đã hình thành lò lửa chiến tranh đầu tiên ở châu Á – Thái Bình Dương."
+   ],
+   "traps": [
+    "SAI: Hít-le lên nắm quyền năm 1932 hoặc 1934. ĐÚNG: Hít-le được bổ nhiệm làm Thủ tướng Đức ngày 30/1/1933.",
+    "SAI: sự kiện Mãn Châu năm 1931 do quân Trung Quốc gây ra. ĐÚNG: chính quân đội Nhật Bản dàn dựng vụ nổ đường sắt để lấy cớ xâm lược.",
+    "Nhân quả đúng chiều: khủng hoảng kinh tế 1929 – 1933 là nguyên nhân đẩy Đức và Nhật Bản đi tới phát xít hóa, chứ không phải ngược lại."
+   ],
+   "topic_title": "Tình hình các nước tư bản giữa hai cuộc chiến tranh thế giới (1918 - 1939)",
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 12
+    },
+    {
+     "book": "NXBDG",
+     "bai": 14
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Cộng_hòa_Weimar",
+    "https://vi.wikipedia.org/wiki/Sự_kiện_Phụng_Thiên",
+    "https://vi.wikipedia.org/wiki/Hòa_ước_Versailles"
+   ],
+   "fixed": [
+    "Đạo luật ủy quyền: sửa 'có hiệu lực ngày 23/3/1933' -> 'thông qua ngày 23/3/1933, có hiệu lực từ 24/3/1933'"
+   ]
+  },
+  {
+   "name": "Phong trào độc lập dân tộc ở Đông Nam Á (1918 – 1939)",
+   "kind": "movement",
+   "year": null,
+   "date_start": "1918",
+   "date_end": "1939",
+   "place": "Đông Nam Á",
+   "actors": [
+    "Xucácnô (Sukarno)",
+    "Đảng Cộng sản Indonesia",
+    "Đảng Nhân dân Xiêm (Khana Ratsadon)",
+    "Rama VII"
+   ],
+   "aliases": [
+    "các nước Đông Nam Á giữa hai cuộc chiến tranh thế giới",
+    "phong trào giải phóng dân tộc Đông Nam Á 1918-1939",
+    "Cách mạng Xiêm 1932",
+    "Sukarno",
+    "Đảng Quốc dân Indonesia",
+    "PNI",
+    "PKI"
+   ],
+   "summary": "Giữa hai cuộc chiến tranh thế giới, phong trào đấu tranh giành độc lập ở Đông Nam Á phát triển mạnh với hai khuynh hướng vô sản và tư sản dân tộc, tiêu biểu là Indonesia và cuộc cách mạng năm 1932 ở Xiêm.",
+   "facts": [
+    "Sau Chiến tranh thế giới thứ nhất, phong trào độc lập dân tộc ở Đông Nam Á phát triển theo hai khuynh hướng song song: khuynh hướng vô sản do các đảng cộng sản lãnh đạo và khuynh hướng tư sản dân tộc.",
+    "Tại Indonesia, tổ chức tiền thân là Hội Liên hiệp Dân chủ Xã hội Đông Ấn (ISDV) lập năm 1914, đến tháng 5/1920 chuyển thành đảng cộng sản — đảng cộng sản đầu tiên ở châu Á gia nhập Quốc tế Cộng sản, về sau mang tên Đảng Cộng sản Indonesia.",
+    "Sau khi các cuộc khởi nghĩa do những người cộng sản phát động trong hai năm 1926 – 1927 bị thực dân Hà Lan đàn áp, ngọn cờ lãnh đạo phong trào ở Indonesia chuyển sang tay giai cấp tư sản dân tộc.",
+    "Năm 1927, Xucácnô (1901 – 1970) thành lập Đảng Quốc dân Indonesia (PNI), chủ trương đấu tranh chống thực dân Hà Lan; ông bị chính quyền thuộc địa bắt giam năm 1929.",
+    "Ngày 24/6/1932, tổ chức Đảng Nhân dân (Khana Ratsadon) gồm sĩ quan và trí thức tiến hành cuộc cách mạng không đổ máu ở Băng Cốc, lật đổ chế độ quân chủ chuyên chế của Xiêm.",
+    "Cách mạng Xiêm năm 1932 đưa đất nước chuyển sang chế độ quân chủ lập hiến, và ngày 10/12/1932 vua Rama VII (Pra-cha-thi-pốc) đã phê chuẩn bản hiến pháp đầu tiên của Xiêm.",
+    "Chính vì cuộc cách mạng năm 1932 chỉ hạn chế quyền vua chứ không xóa bỏ ngôi vua, nên Xiêm vẫn là nước quân chủ nhưng theo mô hình lập hiến."
+   ],
+   "traps": [
+    "SAI: cách mạng Xiêm năm 1932 lật đổ hoàn toàn chế độ quân chủ và lập nước cộng hòa. ĐÚNG: chuyển từ quân chủ chuyên chế sang quân chủ lập hiến, vua vẫn còn.",
+    "SAI: Xucácnô lãnh đạo khuynh hướng vô sản. ĐÚNG: Xucácnô đứng đầu Đảng Quốc dân Indonesia, thuộc khuynh hướng tư sản dân tộc.",
+    "Xiêm (Thái Lan) là nước duy nhất ở Đông Nam Á không trở thành thuộc địa, các nước còn lại đều bị thực dân phương Tây thống trị."
+   ],
+   "topic_title": "Tình hình các nước tư bản giữa hai cuộc chiến tranh thế giới (1918 - 1939)",
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 16
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Cách_mạng_Xiêm_1932",
+    "https://vi.wikipedia.org/wiki/Sukarno",
+    "https://vi.wikipedia.org/wiki/Đảng_Cộng_sản_Indonesia",
+    "https://id.wikipedia.org/wiki/Partai_Komunis_Indonesia"
+   ]
+  },
+  {
+   "name": "Phong trào Ngũ tứ (4/5/1919)",
+   "kind": "movement",
+   "year": 1919,
+   "date_start": "1919-05-04",
+   "date_end": "1919",
+   "place": "Quảng trường Thiên An Môn, Bắc Kinh, Trung Quốc",
+   "actors": [
+    "học sinh, sinh viên Bắc Kinh",
+    "công nhân và thương nhân Trung Quốc"
+   ],
+   "aliases": [
+    "Ngũ Tứ",
+    "phong trào Ngũ Tứ",
+    "May Fourth Movement",
+    "phong trào 4-5-1919",
+    "phong trào Ngũ tứ ở Trung Quốc"
+   ],
+   "summary": "Phong trào yêu nước của học sinh, sinh viên Bắc Kinh nổ ra ngày 4/5/1919 để phản đối quyết định của Hội nghị Vécxai trao quyền lợi ở Sơn Đông cho Nhật Bản, mở đầu thời kỳ cách mạng dân chủ mới ở Trung Quốc.",
+   "facts": [
+    "Phong trào Ngũ tứ nổ ra ngày 4/5/1919 tại Quảng trường Thiên An Môn, Bắc Kinh, với hơn 3.000 học sinh, sinh viên của 13 trường đại học.",
+    "Ngòi nổ của phong trào là quyết định của Hội nghị Vécxai (Hòa ước Vécxai ký ngày 28/6/1919) trao lại các quyền lợi của Đức ở tỉnh Sơn Đông cho Nhật Bản thay vì trả cho Trung Quốc.",
+    "Chính vì Hội nghị Vécxai đem tỉnh Sơn Đông của Trung Quốc trao cho Nhật Bản mà phong trào Ngũ tứ bùng nổ, chứ không phải Ngũ tứ nổ ra rồi mới có quyết định đó.",
+    "Từ Bắc Kinh, phong trào lan ra 22 tỉnh và 150 thành phố, lôi cuốn cả công nhân, thương nhân và các tầng lớp nhân dân tham gia.",
+    "Khẩu hiệu nổi bật của phong trào là đòi trừng trị các quan chức thân Nhật và đòi 'Trả lại Thanh Đảo cho Trung Quốc'.",
+    "Kết quả là chính phủ phải thả những người bị bắt, cách chức các quan lại thân Nhật, và đoàn đại biểu Trung Quốc từ chối ký vào Hòa ước Vécxai.",
+    "Phong trào Ngũ tứ mở đường cho chủ nghĩa Mác – Lênin truyền bá vào Trung Quốc, dẫn tới việc Đảng Cộng sản Trung Quốc ra đời tháng 7/1921."
+   ],
+   "traps": [
+    "SAI: gọi chung chung là 'hội nghị hòa bình'. ĐÚNG: tên chuẩn là Hội nghị Vécxai (Versailles), họp tại Pari từ ngày 18/1/1919, Hòa ước Vécxai ký ngày 28/6/1919.",
+    "SAI: phong trào Ngũ tứ do Đảng Cộng sản Trung Quốc lãnh đạo. ĐÚNG: Ngũ tứ nổ ra năm 1919, trước khi Đảng Cộng sản Trung Quốc ra đời (tháng 7/1921); phong trào chính là một trong những tiền đề dẫn tới sự ra đời của Đảng.",
+    "SAI: Ngũ tứ nổ ra ngày 5/4. ĐÚNG: 'Ngũ tứ' nghĩa là mùng 4 tháng 5 — ngày 4/5/1919."
+   ],
+   "topic_title": "Phong trào cách mạng ở Trung Quốc và Ấn Độ (1918 - 1939)",
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 15
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Phong_trào_Ngũ_Tứ",
+    "https://vi.wikipedia.org/wiki/Hòa_ước_Versailles"
+   ]
+  },
+  {
+   "name": "Đảng Cộng sản Trung Quốc ra đời (7/1921)",
+   "kind": "org",
+   "year": 1921,
+   "date_start": "1921-07",
+   "date_end": null,
+   "place": "Trung Quốc",
+   "actors": [
+    "những người cộng sản Trung Quốc",
+    "Mao Trạch Đông"
+   ],
+   "aliases": [
+    "ĐCS Trung Quốc",
+    "Đảng Cộng sản Trung Quốc thành lập",
+    "Trung Quốc Cộng sản Đảng",
+    "Đại hội I Đảng Cộng sản Trung Quốc"
+   ],
+   "summary": "Đảng Cộng sản Trung Quốc được thành lập tháng 7/1921 trên cơ sở phong trào Ngũ tứ và sự truyền bá chủ nghĩa Mác – Lênin, trở thành lực lượng lãnh đạo cách mạng Trung Quốc.",
+   "facts": [
+    "Đảng Cộng sản Trung Quốc được thành lập vào tháng 7/1921, hai năm sau phong trào Ngũ tứ.",
+    "Chính phong trào Ngũ tứ năm 1919 đã tạo điều kiện cho chủ nghĩa Mác – Lênin lan rộng trong giới trí thức Trung Quốc, và đó là tiền đề trực tiếp đưa tới sự ra đời của Đảng Cộng sản Trung Quốc.",
+    "Sau khi ra đời, Đảng Cộng sản Trung Quốc từng hợp tác với Quốc dân đảng, nhưng đến năm 1927 hai bên đổ vỡ và bước vào thời kỳ nội chiến kéo dài.",
+    "Trong những năm 1933 – 1934, Tưởng Giới Thạch huy động hơn 300.000 quân bao vây căn cứ cách mạng Giang Tây của Đảng Cộng sản, buộc Hồng quân công nông Trung Quốc phải rút lui chiến lược.",
+    "Đảng Cộng sản Trung Quốc lãnh đạo cuộc cách mạng đi tới thắng lợi, thành lập nước Cộng hòa Nhân dân Trung Hoa ngày 1/10/1949."
+   ],
+   "traps": [
+    "SAI: Đảng Cộng sản Trung Quốc ra đời trước phong trào Ngũ tứ. ĐÚNG: Ngũ tứ nổ ra tháng 5/1919, Đảng ra đời tháng 7/1921.",
+    "Đừng nhầm Đảng Cộng sản Trung Quốc (7/1921) với Đảng Cộng sản Việt Nam (đầu năm 1930) — hai đảng, hai mốc thời gian khác nhau."
+   ],
+   "topic_title": "Phong trào cách mạng ở Trung Quốc và Ấn Độ (1918 - 1939)",
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 15
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Phong_trào_Ngũ_Tứ",
+    "https://vi.wikipedia.org/wiki/Vạn_lý_Trường_chinh",
+    "https://vi.wikipedia.org/wiki/Cộng_hòa_Nhân_dân_Trung_Hoa"
+   ]
+  },
+  {
+   "name": "Vạn lí Trường chinh (1934 – 1935)",
+   "kind": "campaign",
+   "year": 1934,
+   "date_start": "1934-10-16",
+   "date_end": "1935-10-19",
+   "place": "Từ Giang Tây lên Thiểm Bắc (Diên An), Trung Quốc",
+   "actors": [
+    "Mao Trạch Đông",
+    "Hồng quân công nông Trung Quốc",
+    "Tưởng Giới Thạch"
+   ],
+   "aliases": [
+    "Vạn lý Trường chinh",
+    "cuộc Trường chinh",
+    "Long March",
+    "cuộc rút lui chiến lược của Hồng quân Trung Quốc"
+   ],
+   "summary": "Cuộc rút lui chiến lược dài khoảng 12.000 km của Hồng quân công nông Trung Quốc từ tháng 10/1934 đến tháng 10/1935, trong đó Mao Trạch Đông khẳng định vai trò lãnh đạo.",
+   "facts": [
+    "Vạn lí Trường chinh bắt đầu ngày 16/10/1934 và kết thúc ngày 19/10/1935, kéo dài khoảng 370 ngày.",
+    "Hồng quân công nông Trung Quốc rút khỏi căn cứ Giang Tây, đi vòng qua vùng núi phía tây rồi lên phía bắc tới Diên An thuộc tỉnh Thiểm Tây, vượt quãng đường khoảng 12.000 km.",
+    "Nguyên nhân của cuộc Trường chinh là các chiến dịch vây quét của Tưởng Giới Thạch trong hai năm 1933 – 1934, với hơn 300.000 quân Quốc dân đảng bao vây khoảng 86.000 quân cách mạng.",
+    "Hội nghị Tuân Nghĩa tháng 1/1935 đã chuyển quyền lãnh đạo về tay Mao Trạch Đông, sau những tổn thất nặng nề khi vượt sông Tương.",
+    "Cuộc Trường chinh trả giá rất đắt: trong khoảng 86.000 người xuất phát chỉ còn khoảng 7.000 người tới được Thiểm Bắc.",
+    "Chính nhờ cuộc Trường chinh mà lực lượng cách mạng Trung Quốc bảo toàn được nòng cốt và Mao Trạch Đông xác lập vững chắc vị trí lãnh đạo trong Đảng Cộng sản Trung Quốc."
+   ],
+   "traps": [
+    "SAI: Vạn lí Trường chinh là một chiến dịch tiến công. ĐÚNG: đây là cuộc rút lui chiến lược để bảo toàn lực lượng trước vòng vây của Quốc dân đảng.",
+    "SAI: cuộc Trường chinh diễn ra trong kháng chiến chống Nhật. ĐÚNG: diễn ra trong nội chiến Quốc – Cộng, các năm 1934 – 1935, trước khi Trung Quốc bước vào kháng chiến chống Nhật quy mô lớn năm 1937."
+   ],
+   "topic_title": "Phong trào cách mạng ở Trung Quốc và Ấn Độ (1918 - 1939)",
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 15
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Vạn_lý_Trường_chinh"
+   ]
+  },
+  {
+   "name": "Mahatma Gandhi",
+   "kind": "person",
+   "year": null,
+   "date_start": "1869-10-02",
+   "date_end": "1948-01-30",
+   "place": "Ấn Độ",
+   "actors": [
+    "Đảng Quốc đại Ấn Độ",
+    "thực dân Anh"
+   ],
+   "aliases": [
+    "M. Gandhi",
+    "Ganđi",
+    "Găng-đi",
+    "Mohandas Karamchand Gandhi",
+    "Thánh Gandhi",
+    "Mahatma Găngđi"
+   ],
+   "summary": "Lãnh tụ phong trào giải phóng dân tộc Ấn Độ, người đề xướng đường lối bất bạo động và bất hợp tác với thực dân Anh trong những năm 1918 – 1939.",
+   "facts": [
+    "Mahatma Gandhi sinh ngày 2/10/1869 ở Porbandar và mất ngày 30/1/1948 tại Niu Đêli do bị ám sát.",
+    "Gandhi chủ trương đấu tranh bằng phương pháp hòa bình, bất bạo động, gọi là Satyagraha — nghĩa là 'sức mạnh của chân lí', không dùng bạo lực làm tổn thương đối phương.",
+    "Từ năm 1920 đến năm 1922, Gandhi lãnh đạo phong trào bất hợp tác, kêu gọi nhân dân tẩy chay hàng hóa Anh và tự dệt vải khadi.",
+    "Phong trào bất hợp tác phải dừng đột ngột vào tháng 2/1922 sau vụ bạo lực ở Chauri Chaura, và Gandhi bị thực dân Anh kết án tù.",
+    "Tháng 3 – 4/1930, Gandhi dẫn đầu cuộc 'Hành trình muối' dài khoảng 400 km từ Ahmedabad tới Dandi để phản đối luật độc quyền muối của Anh; hơn 60.000 người đã bị bắt trong đợt đấu tranh này.",
+    "Từ năm 1921, Gandhi trở thành nhân vật trung tâm của Đảng Quốc đại và biến đảng này thành một phong trào quần chúng rộng lớn, dẫn dắt Ấn Độ tới độc lập năm 1947."
+   ],
+   "traps": [
+    "SAI: Gandhi chủ trương khởi nghĩa vũ trang. ĐÚNG: ông kiên trì đường lối bất bạo động, bất hợp tác.",
+    "SAI: 'Hành trình muối' diễn ra năm 1920. ĐÚNG: cuộc Hành trình muối (Dandi) diễn ra tháng 3 – 4/1930; phong trào bất hợp tác mới là 1920 – 1922.",
+    "Gandhi mất năm 1948, sau khi Ấn Độ giành độc lập năm 1947 — ông không sống tới thời kỳ Ấn Độ trở thành nước cộng hòa năm 1950."
+   ],
+   "topic_title": "Phong trào cách mạng ở Trung Quốc và Ấn Độ (1918 - 1939)",
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 15
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Mohandas_Karamchand_Gandhi"
+   ]
+  },
+  {
+   "name": "Cách mạng tháng Mười Nga (7/11/1917)",
+   "kind": "event",
+   "year": 1917,
+   "date_start": "1917-11-07",
+   "date_end": "1917-11-07",
+   "place": "Pêtơrôgrát, nước Nga",
+   "actors": [
+    "V. I. Lênin",
+    "Đảng Bônsêvich",
+    "L. Trốtxki",
+    "Chính phủ lâm thời tư sản"
+   ],
+   "aliases": [
+    "Cách mạng Tháng Mười",
+    "Cách mạng xã hội chủ nghĩa tháng Mười Nga",
+    "October Revolution",
+    "cách mạng 25/10/1917",
+    "cách mạng tháng 10 Nga"
+   ],
+   "summary": "Cuộc cách mạng do Lênin và Đảng Bônsêvich lãnh đạo, nổ ra ngày 25/10/1917 theo lịch Nga (tức 7/11/1917 theo dương lịch), lật đổ Chính phủ lâm thời tư sản và lập ra nhà nước Xô viết đầu tiên trên thế giới.",
+   "facts": [
+    "Cách mạng tháng Mười Nga nổ ra ngày 25/10/1917 theo lịch Nga cũ, tức ngày 7/11/1917 theo dương lịch, tại thủ đô Pêtơrôgrát.",
+    "Cuộc khởi nghĩa do Lênin và Đảng Bônsêvich tổ chức, trong đó Trốtxki điều phối lực lượng thông qua Ủy ban Quân sự Cách mạng.",
+    "Quân khởi nghĩa lần lượt chiếm các vị trí then chốt như cầu, nhà ga, trung tâm bưu điện, rồi tấn công Cung điện Mùa Đông và bắt giữ các bộ trưởng của Chính phủ lâm thời.",
+    "Thắng lợi của cách mạng đã lật đổ Chính phủ lâm thời tư sản và lập nên chính quyền Xô viết — nhà nước công nông đầu tiên trên thế giới.",
+    "Chính vì nước Nga kiệt quệ sau nhiều năm tham chiến trong Chiến tranh thế giới thứ nhất, đói kém và thương vong hơn hai triệu người, mà quần chúng đã ngả hẳn về phía Đảng Bônsêvich.",
+    "Quân đội của chính quyền Xô viết mang tên Hồng quân Công Nông, được thành lập theo sắc lệnh ngày 28/1/1918 và chính thức ra mắt ngày 23/2/1918, do Trốtxki tổ chức."
+   ],
+   "traps": [
+    "SAI: gọi quân đội cách mạng Nga/Liên Xô là 'quân đội đỏ'. ĐÚNG: tên gọi chuẩn trong sách giáo khoa là HỒNG QUÂN (Hồng quân Công Nông, sau là Quân đội Liên Xô từ năm 1946).",
+    "SAI: Cách mạng tháng Mười nổ ra tháng 10 dương lịch. ĐÚNG: ngày 25/10 là theo lịch Nga cũ, quy ra dương lịch là ngày 7/11/1917.",
+    "SAI: Cách mạng tháng Mười lật đổ chế độ Nga hoàng. ĐÚNG: Nga hoàng bị lật đổ trong Cách mạng tháng Hai năm 1917; Cách mạng tháng Mười lật đổ Chính phủ lâm thời tư sản."
+   ],
+   "topic_title": "Ôn tập lịch sử thế giới hiện đại (Phần từ năm 1917 đến năm 1945)",
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 18
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Cách_mạng_Tháng_Mười",
+    "https://vi.wikipedia.org/wiki/Hồng_quân"
+   ]
+  },
+  {
+   "name": "Lịch sử thế giới hiện đại giai đoạn 1917 – 1945",
+   "kind": "period",
+   "year": null,
+   "date_start": "1917",
+   "date_end": "1945",
+   "place": "Thế giới",
+   "actors": [
+    "Liên Xô",
+    "các nước tư bản",
+    "các nước thuộc địa"
+   ],
+   "aliases": [
+    "ôn tập lịch sử thế giới hiện đại 1917-1945",
+    "lịch sử thế giới hiện đại phần 1917-1945",
+    "tổng kết lịch sử thế giới hiện đại"
+   ],
+   "summary": "Giai đoạn 1917 – 1945 của lịch sử thế giới hiện đại gồm năm nội dung lớn: cách mạng tháng Mười và công cuộc xây dựng chủ nghĩa xã hội ở Liên Xô, khủng hoảng của chủ nghĩa tư bản, phong trào giải phóng dân tộc và hai cuộc chiến tranh thế giới.",
+   "facts": [
+    "Lịch sử thế giới hiện đại phần 1917 – 1945 mở đầu bằng Cách mạng tháng Mười Nga ngày 7/11/1917 và khép lại khi Chiến tranh thế giới thứ hai kết thúc ngày 2/9/1945.",
+    "Nội dung thứ nhất là thắng lợi của Cách mạng tháng Mười Nga và công cuộc xây dựng chủ nghĩa xã hội ở Liên Xô trong những năm 1921 – 1941.",
+    "Nội dung thứ hai là phong trào cách mạng thế giới lan rộng sau năm 1917, với sự ra đời hàng loạt đảng cộng sản như Đảng Cộng sản Indonesia (tháng 5/1920), Đảng Cộng sản Trung Quốc (tháng 7/1921).",
+    "Nội dung thứ ba là cuộc khủng hoảng kinh tế 1929 – 1933 và hai con đường thoát khủng hoảng khác nhau của các nước tư bản: cải cách ở Mỹ – Anh – Pháp, phát xít hóa ở Đức – Italia – Nhật Bản.",
+    "Nội dung thứ tư là phong trào độc lập dân tộc ở châu Á, châu Phi và Mỹ Latinh phát triển mạnh sau Chiến tranh thế giới thứ nhất.",
+    "Nội dung thứ năm là Chiến tranh thế giới thứ hai (1/9/1939 – 2/9/1945), cuộc chiến tàn khốc nhất lịch sử loài người.",
+    "Chính vì các nước phát xít gây chiến tranh xâm lược mà thế giới bị đẩy vào Chiến tranh thế giới thứ hai, và cũng chính chiến tranh đó đã mở đường cho hàng loạt nước giành độc lập sau năm 1945."
+   ],
+   "traps": [
+    "SAI: xếp việc Liên Xô tham gia Chiến tranh thế giới thứ hai vào giai đoạn xây dựng chủ nghĩa xã hội 1921 – 1941. ĐÚNG: Liên Xô xây dựng chủ nghĩa xã hội trong các năm 1921 – 1941, còn Liên Xô tham chiến trong Chiến tranh thế giới thứ hai là giai đoạn 1941 – 1945, sau khi Đức tấn công ngày 22/6/1941.",
+    "SAI: gọi quân đội Liên Xô là 'quân đội đỏ'. ĐÚNG: tên chuẩn là HỒNG QUÂN.",
+    "SAI: lịch sử thế giới hiện đại phần này bắt đầu từ năm 1918. ĐÚNG: mốc mở đầu là năm 1917 với Cách mạng tháng Mười Nga."
+   ],
+   "topic_title": "Ôn tập lịch sử thế giới hiện đại (Phần từ năm 1917 đến năm 1945)",
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 18
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Cách_mạng_Tháng_Mười",
+    "https://vi.wikipedia.org/wiki/Chiến_tranh_thế_giới_thứ_hai",
+    "https://vi.wikipedia.org/wiki/Đại_khủng_hoảng",
+    "https://vi.wikipedia.org/wiki/Hồng_quân"
+   ]
+  },
+  {
+   "name": "Chiến tranh thế giới thứ hai (1939 – 1945)",
+   "kind": "event",
+   "year": 1939,
+   "date_start": "1939-09-01",
+   "date_end": "1945-09-02",
+   "place": "Châu Âu, châu Á – Thái Bình Dương, châu Phi",
+   "actors": [
+    "phe phát xít Đức – Italia – Nhật Bản",
+    "phe Đồng minh",
+    "Liên Xô",
+    "Mỹ",
+    "Anh"
+   ],
+   "aliases": [
+    "CTTG2",
+    "Thế chiến thứ hai",
+    "Đại chiến thế giới lần thứ hai",
+    "chiến tranh thế giới 1939-1945",
+    "World War II"
+   ],
+   "summary": "Cuộc chiến tranh lớn nhất lịch sử nhân loại, nổ ra ngày 1/9/1939 khi Đức tấn công Ba Lan và kết thúc ngày 2/9/1945 khi Nhật Bản ký văn kiện đầu hàng.",
+   "facts": [
+    "Chiến tranh thế giới thứ hai bùng nổ ngày 1/9/1939, khi phát xít Đức tấn công Ba Lan.",
+    "Ngày 22/6/1941, Đức bất ngờ tấn công Liên Xô, mở ra Mặt trận phía Đông — mặt trận quyết định của cuộc chiến ở châu Âu.",
+    "Phát xít Đức đầu hàng vô điều kiện ngày 8/5/1945, chấm dứt chiến tranh ở châu Âu.",
+    "Nhật Bản tuyên bố đầu hàng ngày 15/8/1945 và chính thức ký văn kiện đầu hàng ngày 2/9/1945 — đó cũng là ngày Chiến tranh thế giới thứ hai kết thúc.",
+    "Chiến tranh gây tổn thất khủng khiếp: phe Đồng minh có hơn 61 triệu người chết, phe phát xít hơn 12 triệu người chết.",
+    "Chính vì các nước phát xít đẩy mạnh xâm lược mà một liên minh chống phát xít gồm Liên Xô, Mỹ, Anh đã hình thành, và chính liên minh này đã đánh bại chủ nghĩa phát xít.",
+    "Ngày 2/9/1945 cũng chính là ngày Chủ tịch Hồ Chí Minh đọc Tuyên ngôn Độc lập ở Hà Nội, khai sinh nước Việt Nam Dân chủ Cộng hòa."
+   ],
+   "traps": [
+    "SAI: Chiến tranh thế giới thứ hai kết thúc năm 1945 khi Đức đầu hàng (8/5/1945). ĐÚNG: chiến tranh ở châu Âu kết thúc 8/5/1945, nhưng cả cuộc chiến chỉ kết thúc ngày 2/9/1945 khi Nhật Bản ký đầu hàng.",
+    "SAI: Liên Xô tham chiến ngay từ năm 1939. ĐÚNG: Liên Xô bước vào cuộc chiến từ ngày 22/6/1941 khi bị Đức tấn công, nên giai đoạn Liên Xô tham chiến là 1941 – 1945."
+   ],
+   "topic_title": "Ôn tập lịch sử thế giới hiện đại (Phần từ năm 1917 đến năm 1945)",
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 18
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Chiến_tranh_thế_giới_thứ_hai"
+   ]
+  },
+  {
+   "name": "Pháp nổ súng xâm lược Việt Nam ở Đà Nẵng (1/9/1858)",
+   "kind": "battle",
+   "year": 1858,
+   "date_start": "1858-09-01",
+   "date_end": "1859-02-02",
+   "place": "Bán đảo Sơn Trà, Đà Nẵng",
+   "actors": [
+    "Rigault de Genouilly (Rigôn đơ Giơnuiy)",
+    "Nguyễn Tri Phương",
+    "Phạm Thế Hiển",
+    "liên quân Pháp – Tây Ban Nha"
+   ],
+   "aliases": [
+    "trận Đà Nẵng 1858",
+    "Pháp đánh Đà Nẵng",
+    "liên quân Pháp - Tây Ban Nha nổ súng ở Đà Nẵng",
+    "mở đầu xâm lược Việt Nam 1858",
+    "chiến sự Đà Nẵng 1858-1859"
+   ],
+   "summary": "Ngày 1/9/1858, liên quân Pháp – Tây Ban Nha nổ súng tấn công bán đảo Sơn Trà, mở đầu cuộc chiến tranh xâm lược Việt Nam; kế hoạch 'đánh nhanh thắng nhanh' của chúng bị chặn đứng.",
+   "facts": [
+    "Chiều tối ngày 31/8/1858, liên quân Pháp – Tây Ban Nha kéo tới cửa biển Đà Nẵng, và sáng ngày 1/9/1858 chúng chính thức nổ súng tấn công bán đảo Sơn Trà, mở đầu cuộc xâm lược Việt Nam.",
+    "Chỉ huy quân Pháp là Phó Đô đốc Rigôn đơ Giơnuiy, phối hợp với quân Tây Ban Nha do Đại tá Lanzarotte cầm đầu.",
+    "Triều đình Huế cử Nguyễn Tri Phương làm Tổng thống quân vụ, cùng Tham tán Phạm Thế Hiển tổ chức phòng thủ Đà Nẵng.",
+    "Quân dân ta thực hiện kế 'vườn không nhà trống', đắp lũy, bao vây khiến địch bị cầm chân suốt 5 tháng và chỉ chiếm được vài vị trí ven biển.",
+    "Chính vì bị cầm chân, lại bị bệnh tật và thiếu lương thực hành hạ, mà ngày 2/2/1859 Giơnuiy buộc phải để lại một lực lượng nhỏ rồi kéo quân vào đánh Gia Định.",
+    "Thất bại ở Đà Nẵng đã làm phá sản kế hoạch 'đánh nhanh thắng nhanh' của thực dân Pháp ngay từ bước mở đầu."
+   ],
+   "traps": [
+    "SAI: Pháp nổ súng xâm lược Việt Nam năm 1859 hoặc 1862. ĐÚNG: ngày 1/9/1858 tại Đà Nẵng.",
+    "SAI: Pháp đánh Việt Nam một mình. ĐÚNG: đây là liên quân Pháp – Tây Ban Nha.",
+    "SAI: Pháp chiếm được Đà Nẵng ngay năm 1858. ĐÚNG: kế hoạch đánh nhanh thắng nhanh thất bại, sau 5 tháng Pháp phải chuyển hướng vào Gia Định."
+   ],
+   "topic_title": "Nhân dân Việt Nam kháng chiến chống Pháp xâm lược (Từ năm 1858 đến trước năm 1873)",
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 19
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Trận_Đà_Nẵng_(1858-1859)",
+    "https://vi.wikipedia.org/wiki/Nguyễn_Tri_Phương"
+   ]
+  },
+  {
+   "name": "Hòa ước Nhâm Tuất (5/6/1862)",
+   "kind": "treaty",
+   "year": 1862,
+   "date_start": "1862-06-05",
+   "date_end": "1862-06-05",
+   "place": "Sài Gòn",
+   "actors": [
+    "Phan Thanh Giản",
+    "Lâm Duy Hiệp",
+    "Bonard (Bôna)",
+    "triều đình Huế"
+   ],
+   "aliases": [
+    "Hiệp ước Nhâm Tuất",
+    "hòa ước 1862",
+    "hiệp ước 5/6/1862",
+    "hòa ước Nhâm Tuất 1862"
+   ],
+   "summary": "Bản hiệp ước đầu tiên triều Nguyễn ký với Pháp ngày 5/6/1862, nhượng ba tỉnh miền Đông Nam Kỳ và mở đầu quá trình đầu hàng từng bước của nhà Nguyễn.",
+   "facts": [
+    "Hòa ước Nhâm Tuất được ký ngày 5/6/1862 tại Sài Gòn, trên chiến hạm Duperré của Pháp.",
+    "Đại diện triều đình Huế là Chánh sứ Phan Thanh Giản và Phó sứ Lâm Duy Hiệp, phía Pháp là tướng Bôna, phía Tây Ban Nha là Đại tá Don Carlos.",
+    "Theo hiệp ước, triều Nguyễn nhượng hẳn cho Pháp ba tỉnh miền Đông Nam Kỳ là Biên Hòa, Gia Định, Định Tường cùng đảo Côn Lôn.",
+    "Triều đình phải bồi thường chiến phí 4 triệu franc (tương đương khoảng 2,88 triệu lạng bạc) trả dần trong 10 năm.",
+    "Hiệp ước còn buộc triều đình mở ba cửa biển Đà Nẵng, Ba Lạt, Quảng Yên cho thương nhân Pháp và Tây Ban Nha, đồng thời cho phép tự do truyền đạo Thiên Chúa.",
+    "Chính vì triều đình ký hòa ước cắt đất nhượng bộ mà phong trào kháng chiến của nhân dân Nam Kỳ chuyển thành đấu tranh vừa chống Pháp vừa chống lệnh bãi binh của triều đình.",
+    "Đây là hiệp ước bất bình đẳng đầu tiên Việt Nam ký với Pháp, mở đầu chuỗi hiệp ước dẫn tới mất nước hoàn toàn năm 1884."
+   ],
+   "traps": [
+    "SAI: Hòa ước Nhâm Tuất nhượng cả sáu tỉnh Nam Kỳ. ĐÚNG: năm 1862 mới nhượng ba tỉnh miền ĐÔNG (Biên Hòa, Gia Định, Định Tường) và đảo Côn Lôn; ba tỉnh miền Tây (Vĩnh Long, An Giang, Hà Tiên) bị Pháp chiếm năm 1867.",
+    "SAI: hòa ước ký năm 1858 hoặc 1867. ĐÚNG: ký ngày 5/6/1862.",
+    "Đừng nhầm Hòa ước Nhâm Tuất 1862 với Hòa ước Giáp Tuất 1874 — hai hiệp ước khác nhau."
+   ],
+   "topic_title": "Nhân dân Việt Nam kháng chiến chống Pháp xâm lược (Từ năm 1858 đến trước năm 1873)",
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 19
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Hòa_ước_Nhâm_Tuất_(1862)"
+   ]
+  },
+  {
+   "name": "Trương Định",
+   "kind": "person",
+   "year": null,
+   "date_start": "1820",
+   "date_end": "1864-08-19",
+   "place": "Gò Công (Tân Hòa), Gia Định",
+   "actors": [
+    "Trương Định",
+    "nhân dân Nam Kỳ",
+    "triều đình Huế"
+   ],
+   "aliases": [
+    "Trương Công Định",
+    "Bình Tây Đại nguyên soái",
+    "Trương Định Gò Công",
+    "khởi nghĩa Trương Định"
+   ],
+   "summary": "Thủ lĩnh kháng Pháp tiêu biểu ở Nam Kỳ, được nhân dân tôn làm 'Bình Tây Đại nguyên soái', chống lệnh bãi binh của triều đình để ở lại cùng dân đánh giặc.",
+   "facts": [
+    "Trương Định sinh năm 1820, mất ngày 19/8/1864, xây dựng căn cứ kháng Pháp ở vùng Gò Công (Tân Hòa) thuộc tỉnh Gia Định.",
+    "Chính vì Trương Định cự tuyệt lệnh bãi binh của triều đình sau Hòa ước Nhâm Tuất năm 1862 mà nhân dân đã suy tôn ông làm 'Bình Tây Đại nguyên soái' — danh hiệu do nhân dân tôn xưng, không phải chức do triều đình phong.",
+    "Sau khi triều đình ký Hòa ước Nhâm Tuất năm 1862 và ra lệnh bãi binh, Trương Định đã cự tuyệt, tuyên bố triều đình có thể hòa nhưng ông vẫn ở lại làm tròn bổn phận với dân.",
+    "Chính vì Trương Định chống lệnh bãi binh mà cuộc kháng chiến ở Nam Kỳ tiếp tục, cho thấy nhân dân quyết đánh Pháp ngay cả khi triều đình đã đầu hàng.",
+    "Ngày 19/8/1864, do có kẻ phản bội chỉ điểm, quân Pháp bao vây căn cứ 'Đám lá tối trời'; Trương Định bị trọng thương và đã tự sát để không rơi vào tay giặc, khi mới ngoài 40 tuổi."
+   ],
+   "traps": [
+    "SAI: Trương Định tuân theo lệnh bãi binh của triều đình. ĐÚNG: ông kiên quyết ở lại cùng nhân dân kháng chiến, chống lại lệnh bãi binh sau Hòa ước 1862.",
+    "SAI: Trương Định bị Pháp xử tử. ĐÚNG: ông bị trọng thương khi bị bao vây và đã tự sát ngày 19/8/1864.",
+    "Đừng nhầm Trương Định (Gò Công, mất 1864) với Nguyễn Trung Trực (Rạch Giá, mất 1868).",
+    "SAI: nhân dân suy tôn Trương Định là 'Bình Tây Đại nguyên soái' ngay từ năm 1859 khi Pháp đánh Gia Định. ĐÚNG: danh hiệu này gắn với năm 1862, khi ông chống lệnh bãi binh sau Hòa ước Nhâm Tuất."
+   ],
+   "topic_title": "Nhân dân Việt Nam kháng chiến chống Pháp xâm lược (Từ năm 1858 đến trước năm 1873)",
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 19
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Trương_Định",
+    "https://vi.wikipedia.org/wiki/Hòa_ước_Nhâm_Tuất_(1862)"
+   ],
+   "fixed": [
+    "Bình Tây Đại nguyên soái: sửa mốc 'sau khi Pháp đánh Gia Định năm 1859' -> 'năm 1862, sau Hòa ước Nhâm Tuất và việc ông chống lệnh bãi binh' (sai chiều nhân-quả và sai năm)"
+   ]
+  },
+  {
+   "name": "Nguyễn Trung Trực",
+   "kind": "person",
+   "year": null,
+   "date_start": "1838",
+   "date_end": "1868-10-27",
+   "place": "Nam Kỳ (Nhật Tảo, Rạch Giá, Phú Quốc)",
+   "actors": [
+    "Nguyễn Trung Trực",
+    "nghĩa quân Nam Kỳ",
+    "quân Pháp"
+   ],
+   "aliases": [
+    "Nguyễn Văn Lịch",
+    "Quản Chơn",
+    "Quản Lịch",
+    "Nguyễn Trung Trực đốt tàu Hi Vọng",
+    "trận Nhật Tảo",
+    "Espérance",
+    "Hi Vọng"
+   ],
+   "summary": "Thủ lĩnh nghĩa quân Nam Kỳ nổi tiếng với trận đốt cháy tàu chiến Pháp trên sông Nhật Tảo năm 1861 và câu nói bất hủ 'Bao giờ người Tây nhổ hết cỏ nước Nam thì mới hết người Nam đánh Tây'.",
+   "facts": [
+    "Nguyễn Trung Trực sinh năm 1838 và hy sinh ngày 27/10/1868, khi mới 30 tuổi.",
+    "Ngày 10/12/1861, nghĩa quân do Nguyễn Trung Trực chỉ huy đã đốt cháy tàu chiến Pháp mang tên Espérance (tàu Hi Vọng) trên vàm sông Nhật Tảo.",
+    "Ngày 19/6/1868, ông chỉ huy nghĩa quân đánh úp đồn Kiên Giang (Rạch Giá), tiêu diệt 5 sĩ quan và 67 lính Pháp.",
+    "Sau khi bị bắt ở đảo Phú Quốc, ông bị thực dân Pháp đưa về hành hình tại Rạch Giá ngày 27/10/1868.",
+    "Trước quân thù, Nguyễn Trung Trực đã khảng khái tuyên bố: 'Bao giờ người Tây nhổ hết cỏ nước Nam thì mới hết người Nam đánh Tây' — câu nói trở thành biểu tượng cho ý chí bất khuất của dân tộc.",
+    "Chính vì hai chiến công 'hỏa hồng Nhật Tảo, kiếm bạt Kiên Giang' mà tên tuổi Nguyễn Trung Trực được nhân dân Nam Bộ ghi nhớ và lập đền thờ tới ngày nay."
+   ],
+   "traps": [
+    "SAI: câu 'Bao giờ người Tây nhổ hết cỏ nước Nam thì mới hết người Nam đánh Tây' là của Phan Bội Châu. ĐÚNG: đó là câu nói của NGUYỄN TRUNG TRỰC năm 1868, trước khi ông bị hành hình ở Rạch Giá.",
+    "SAI: Nguyễn Trung Trực đốt tàu Pháp ở sông Sài Gòn. ĐÚNG: trận đốt tàu Espérance diễn ra trên vàm sông Nhật Tảo ngày 10/12/1861.",
+    "Đừng nhầm Nguyễn Trung Trực với Nguyễn Hữu Huân hay Trương Định — ba thủ lĩnh khác nhau của phong trào kháng Pháp ở Nam Kỳ."
+   ],
+   "topic_title": "Nhân dân Việt Nam kháng chiến chống Pháp xâm lược (Từ năm 1858 đến trước năm 1873)",
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 19
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Nguyễn_Trung_Trực"
+   ]
+  },
+  {
+   "name": "Pháp đánh Bắc Kì lần thứ nhất và trận Cầu Giấy lần thứ nhất (1873)",
+   "kind": "battle",
+   "year": 1873,
+   "date_start": "1873-11-20",
+   "date_end": "1873-12-21",
+   "place": "Hà Nội và vùng Cầu Giấy",
+   "actors": [
+    "Francis Garnier (Gácniê)",
+    "Nguyễn Tri Phương",
+    "Lưu Vĩnh Phúc",
+    "quân Cờ Đen"
+   ],
+   "aliases": [
+    "trận Cầu Giấy 1873",
+    "Pháp đánh thành Hà Nội lần thứ nhất",
+    "Gácniê",
+    "Ph. Gacniê",
+    "biến cố Bắc Kỳ 1873",
+    "quân Cờ Đen Lưu Vĩnh Phúc"
+   ],
+   "summary": "Cuối năm 1873 Pháp do Gácniê chỉ huy đánh chiếm thành Hà Nội, Nguyễn Tri Phương hy sinh; nhưng ngày 21/12/1873 Gácniê tử trận ở Cầu Giấy khiến Pháp phải rút khỏi Bắc Kì.",
+   "facts": [
+    "Ngày 20/11/1873, quân Pháp do Francis Gácniê chỉ huy nổ súng đánh chiếm thành Hà Nội, mở đầu cuộc xâm lược Bắc Kì lần thứ nhất.",
+    "Tổng đốc Nguyễn Tri Phương (1800 – 1873) chỉ huy quân giữ thành, bị thương nặng và con trai là Nguyễn Lâm hy sinh; ông đã từ chối để giặc chữa trị, nhịn ăn gần một tháng rồi mất ngày 20/12/1873.",
+    "Ngày 21/12/1873, khoảng 1.000 quân Cờ Đen của Lưu Vĩnh Phúc phối hợp với quân triều đình phục kích ở Cầu Giấy, đánh tan toán quân khoảng 200 người do Gácniê chỉ huy kéo ra khỏi thành.",
+    "Gácniê tử trận ngay tại Cầu Giấy cùng nhiều sĩ quan Pháp, khiến quân Pháp ở Hà Nội hoang mang cực độ.",
+    "Chính vì thất bại nặng ở Cầu Giấy mà Pháp phải cử Philátcơ (Philastre) ra thương lượng, cho rút quân khỏi thành Hà Nội và các tỉnh đã chiếm ở Bắc Kì trong những tháng đầu năm 1874.",
+    "Đáng tiếc là thay vì thừa thắng, triều đình Huế lại ký Hiệp ước Giáp Tuất năm 1874, chính thức thừa nhận sáu tỉnh Nam Kì thuộc Pháp."
+   ],
+   "traps": [
+    "SAI: trận Cầu Giấy lần thứ nhất diễn ra năm 1882 hoặc 1883. ĐÚNG: lần thứ nhất là ngày 21/12/1873 (Gácniê tử trận); lần thứ hai là ngày 19/5/1883 (Rivie tử trận).",
+    "SAI: Nguyễn Tri Phương hy sinh ở Đà Nẵng. ĐÚNG: ông chỉ huy ở Đà Nẵng năm 1858, nhưng mất ngày 20/12/1873 sau khi thành Hà Nội thất thủ.",
+    "SAI: sau chiến thắng Cầu Giấy 1873, triều đình đánh đuổi được Pháp. ĐÚNG: triều đình lại ký Hiệp ước Giáp Tuất năm 1874, nhượng bộ thêm cho Pháp."
+   ],
+   "topic_title": "Chiến sự lan rộng ra cả nước. Cuộc kháng chiến của nhân dân ta từ năm 1873 đến năm 1884. Nhà Nguyễn đầu hàng",
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 20
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Trận_Cầu_Giấy_(1873)",
+    "https://vi.wikipedia.org/wiki/Nguyễn_Tri_Phương"
+   ],
+   "fixed": [
+    "Trận Cầu Giấy 1873: sửa 'tiêu diệt toán quân 200 người' -> '200 người là quân số toán quân Gácniê kéo ra, bị đánh tan' (Gácniê cùng vài sĩ quan tử trận, không phải diệt hết 200)",
+    "Cầu Giấy 1873 -> Pháp rút: bỏ 'chỉ trong vòng một tháng', nêu đúng là Philastre ra thương lượng, quân Pháp rút khỏi Hà Nội và Bắc Kì trong đầu năm 1874"
+   ]
+  },
+  {
+   "name": "Pháp đánh Bắc Kì lần thứ hai và trận Cầu Giấy lần thứ hai (1882 – 1883)",
+   "kind": "battle",
+   "year": 1882,
+   "date_start": "1882-04-25",
+   "date_end": "1883-05-19",
+   "place": "Hà Nội và vùng Cầu Giấy",
+   "actors": [
+    "Henri Rivière (Rivie)",
+    "Hoàng Diệu",
+    "Lưu Vĩnh Phúc",
+    "quân Cờ Đen"
+   ],
+   "aliases": [
+    "trận Cầu Giấy 1883",
+    "Pháp đánh thành Hà Nội lần thứ hai",
+    "Hoàng Diệu tuẫn tiết",
+    "Rivie",
+    "Ri-vi-e",
+    "Henri Rivière",
+    "chiến dịch Bắc Kỳ 1882-1886"
+   ],
+   "summary": "Ngày 25/4/1882 Rivie đánh chiếm thành Hà Nội lần thứ hai, Tổng đốc Hoàng Diệu tuẫn tiết; hơn một năm sau, ngày 19/5/1883, Rivie tử trận ở Cầu Giấy.",
+   "facts": [
+    "Ngày 25/4/1882, quân Pháp do Đại tá Henri Rivie chỉ huy nổ súng đánh thành Hà Nội lần thứ hai.",
+    "Tổng đốc Hà Ninh Hoàng Diệu (1829 – 1882) đã chỉ huy quân dân chống trả quyết liệt, nhưng thành vẫn thất thủ.",
+    "Khi thành mất, Hoàng Diệu đã dùng khăn bịt đầu thắt cổ tự vẫn ở Võ Miếu ngay trong ngày 25/4/1882, giữ trọn khí tiết chứ không chịu rơi vào tay giặc.",
+    "Ngày 19/5/1883, quân Cờ Đen của Lưu Vĩnh Phúc lại phục kích tại Cầu Giấy và tiêu diệt Henri Rivie — đúng nơi mười năm trước Gácniê đã tử trận.",
+    "Chính vì hai lần thất bại ở Cầu Giấy mà thực dân Pháp càng quyết tâm dứt điểm, chuyển hướng đánh thẳng vào cửa biển Thuận An để ép triều đình Huế đầu hàng.",
+    "Hoàng Diệu được nhân dân thờ ở đền Trung Liệt trên gò Đống Đa, Hà Nội, như một tấm gương trung nghĩa."
+   ],
+   "traps": [
+    "SAI: Hoàng Diệu giữ thành Hà Nội năm 1873. ĐÚNG: năm 1873 là Nguyễn Tri Phương; Hoàng Diệu giữ thành và tuẫn tiết ngày 25/4/1882.",
+    "SAI: trận Cầu Giấy lần hai diễn ra năm 1882. ĐÚNG: ngày 19/5/1883, Rivie tử trận.",
+    "SAI: Pháp đánh Bắc Kì lần hai năm 1883. ĐÚNG: Pháp nổ súng đánh thành Hà Nội lần thứ hai ngày 25/4/1882."
+   ],
+   "topic_title": "Chiến sự lan rộng ra cả nước. Cuộc kháng chiến của nhân dân ta từ năm 1873 đến năm 1884. Nhà Nguyễn đầu hàng",
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 20
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Hoàng_Diệu",
+    "https://vi.wikipedia.org/wiki/Trận_Cầu_Giấy"
+   ]
+  },
+  {
+   "name": "Hiệp ước Hácmăng (1883) và Hiệp ước Patơnốt (1884)",
+   "kind": "treaty",
+   "year": 1883,
+   "date_start": "1883-08-25",
+   "date_end": "1884-06-06",
+   "place": "Huế",
+   "actors": [
+    "François Jules Harmand (Hácmăng)",
+    "Jules Patenôtre (Patơnốt)",
+    "Trần Đình Túc",
+    "Nguyễn Trọng Hợp",
+    "Phạm Thận Duật",
+    "Nguyễn Văn Tường"
+   ],
+   "aliases": [
+    "Hòa ước Quý Mùi 1883",
+    "Hiệp ước Harmand",
+    "Hòa ước Giáp Thân 1884",
+    "Hiệp ước Patenôtre",
+    "hiệp ước 25/8/1883",
+    "hiệp ước 6/6/1884",
+    "nhà Nguyễn đầu hàng"
+   ],
+   "summary": "Hai bản hiệp ước ký năm 1883 và 1884 tại Huế, qua đó triều Nguyễn thừa nhận quyền bảo hộ của Pháp trên toàn cõi Việt Nam, chấm dứt sự tồn tại của nhà nước phong kiến độc lập.",
+   "facts": [
+    "Hiệp ước Hácmăng (Hòa ước Quý Mùi) được ký ngày 25/8/1883 tại Huế, gồm 27 điều khoản.",
+    "Đại diện phía Pháp là Tổng ủy Hácmăng, phía triều Nguyễn là Trần Đình Túc và Nguyễn Trọng Hợp; triều đình chính thức thừa nhận quyền bảo hộ của Pháp và giao toàn quyền ngoại giao cho Pháp.",
+    "Theo Hiệp ước Hácmăng, Pháp được đóng quân ở Đèo Ngang và cửa Thuận An, đặt công sứ ở các tỉnh Bắc Kì để giám sát quan lại Việt Nam.",
+    "Ngày 6/6/1884, hai bên ký tiếp Hiệp ước Patơnốt (Hòa ước Giáp Thân) gồm 19 điều, do Jules Patơnốt đại diện cho Pháp còn phía Việt Nam có Phạm Thận Duật, Tôn Thất Phan và Nguyễn Văn Tường.",
+    "Hiệp ước Patơnốt chia Việt Nam thành ba kì với ba chế độ cai trị khác nhau: Bắc Kì (Tonkin), Trung Kì (Annam) và Nam Kì (Cochinchine), đồng thời trả ba tỉnh Thanh Hóa – Nghệ An – Hà Tĩnh và Bình Thuận về cho Trung Kì.",
+    "Chính vì Pháp muốn xoa dịu dư luận và mua chuộc quan lại triều đình mà Hiệp ước Patơnốt đã sửa đổi vài điều so với Hiệp ước Hácmăng cho bớt nặng nề.",
+    "Hiệp ước Patơnốt ngày 6/6/1884 đánh dấu việc nhà Nguyễn đầu hàng hoàn toàn, Việt Nam trở thành thuộc địa nửa phong kiến của Pháp."
+   ],
+   "traps": [
+    "SAI: Hiệp ước Patơnốt ký năm 1883. ĐÚNG: Hiệp ước Hácmăng ký 25/8/1883, còn Hiệp ước Patơnốt ký 6/6/1884.",
+    "SAI: Hiệp ước Hácmăng là hiệp ước cuối cùng. ĐÚNG: bản cuối cùng là Hiệp ước Patơnốt năm 1884.",
+    "Trình tự đúng của chuỗi hiệp ước đầu hàng: Nhâm Tuất 1862 → Giáp Tuất 1874 → Hácmăng 1883 → Patơnốt 1884."
+   ],
+   "topic_title": "Chiến sự lan rộng ra cả nước. Cuộc kháng chiến của nhân dân ta từ năm 1873 đến năm 1884. Nhà Nguyễn đầu hàng",
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 20
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Hòa_ước_Quý_Mùi,_1883",
+    "https://vi.wikipedia.org/wiki/Hòa_ước_Giáp_Thân_(1884)"
+   ]
+  },
+  {
+   "name": "Vua Dục Đức (vị vua trị vì ngắn nhất triều Nguyễn, 1883)",
+   "kind": "person",
+   "year": 1883,
+   "date_start": "1852-02-23",
+   "date_end": "1883-10-06",
+   "place": "Kinh thành Huế",
+   "actors": [
+    "Nguyễn Phúc Ưng Chân (Dục Đức)",
+    "Tôn Thất Thuyết",
+    "Nguyễn Văn Tường"
+   ],
+   "aliases": [
+    "Dục Đức",
+    "Nguyễn Phúc Ưng Chân",
+    "Nguyễn Phúc Ưng Ái",
+    "vua trị vì 3 ngày",
+    "vua Dục Đức triều Nguyễn"
+   ],
+   "summary": "Vị vua thứ năm của triều Nguyễn, lên ngôi tháng 7/1883 nhưng chỉ ở ngôi 3 ngày thì bị phế truất — thời gian trị vì ngắn nhất trong lịch sử triều Nguyễn.",
+   "facts": [
+    "Vua Dục Đức tên thật là Nguyễn Phúc Ưng Ái, sau đổi thành Nguyễn Phúc Ưng Chân, sinh ngày 23/2/1852 và mất ngày 6/10/1883.",
+    "Ông lên ngôi ngày 19/7/1883, sau khi vua Tự Đức băng hà, nhưng chỉ tại vị đúng 3 ngày.",
+    "Ngày 23/7/1883, hai quyền thần là Tôn Thất Thuyết và Nguyễn Văn Tường đã phế truất Dục Đức và đưa người khác lên ngôi.",
+    "Sau khi bị phế, Dục Đức bị giam trong ngục thất kinh thành Huế và chết vào ngày 6/10/1883; sử sách chính thức chép ông tuyệt thực mà chết, song có tài liệu cho rằng ông bị hại.",
+    "Chính vì triều đình rối ren, các quyền thần phế lập vua liên tục trong năm 1883 mà sức chống Pháp của nhà Nguyễn càng suy yếu, đúng lúc Pháp đánh vào cửa Thuận An và ép ký Hiệp ước Hácmăng ngày 25/8/1883.",
+    "Với 3 ngày ở ngôi, Dục Đức là vị vua có thời gian trị vì ngắn nhất trong 13 đời vua triều Nguyễn."
+   ],
+   "traps": [
+    "SAI: vua trị vì ngắn nhất triều Nguyễn (và ngắn nhất lịch sử Việt Nam) là Lê Hiến Tông. ĐÚNG: đó là vua DỤC ĐỨC, chỉ ở ngôi 3 ngày trong tháng 7/1883.",
+    "Lưu ý năm 1883 triều Nguyễn có tới bốn vua nối nhau: Tự Đức mất, rồi Dục Đức, Hiệp Hòa, Kiến Phúc — đây là thời kỳ 'tứ nguyệt tam vương'.",
+    "SAI: Dục Đức bị Pháp phế truất. ĐÚNG: ông bị hai quyền thần Tôn Thất Thuyết và Nguyễn Văn Tường phế truất."
+   ],
+   "topic_title": "Chiến sự lan rộng ra cả nước. Cuộc kháng chiến của nhân dân ta từ năm 1873 đến năm 1884. Nhà Nguyễn đầu hàng",
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 20
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Dục_Đức",
+    "https://vi.wikipedia.org/wiki/Hòa_ước_Quý_Mùi,_1883"
+   ]
+  },
+  {
+   "name": "Cuộc phản công của phái chủ chiến ở kinh thành Huế (5/7/1885)",
+   "kind": "battle",
+   "year": 1885,
+   "date_start": "1885-07-05",
+   "date_end": "1885-07-05",
+   "place": "Kinh thành Huế",
+   "actors": [
+    "Tôn Thất Thuyết",
+    "vua Hàm Nghi",
+    "quân Pháp"
+   ],
+   "aliases": [
+    "biến cố kinh thành Huế 1885",
+    "cuộc phản công kinh đô Huế",
+    "kinh thành Huế thất thủ 5/7/1885",
+    "Tôn Thất Thuyết phản công"
+   ],
+   "summary": "Rạng sáng 5/7/1885, phái chủ chiến do Tôn Thất Thuyết đứng đầu tấn công quân Pháp ở kinh thành Huế; thất bại, ông đưa vua Hàm Nghi ra Quảng Trị, mở đường cho chiếu Cần Vương.",
+   "facts": [
+    "Đúng 1 giờ sáng ngày 5/7/1885, quân triều đình do Tôn Thất Thuyết chỉ huy bất ngờ nổ súng thần công tấn công quân Pháp trong kinh thành Huế.",
+    "Cuộc phản công nhanh chóng thất bại vì quân Pháp có ưu thế vũ khí, và kinh thành Huế rơi vào tay Pháp ngay trong ngày.",
+    "Tôn Thất Thuyết đã đưa vua Hàm Nghi cùng đoàn tùy tùng rời kinh thành, chạy ra vùng rừng núi Quảng Trị.",
+    "Chính vì cuộc phản công ở kinh thành Huế thất bại mà vua Hàm Nghi phải xuất bôn, và tại Quảng Trị ngày 13/7/1885 ông đã ban chiếu Cần Vương kêu gọi cả nước giúp vua cứu nước.",
+    "Sự kiện 5/7/1885 là mốc mở đầu trực tiếp cho phong trào Cần Vương kéo dài suốt hơn mười năm sau đó."
+   ],
+   "traps": [
+    "SAI: chiếu Cần Vương được ban ngay tại kinh thành Huế. ĐÚNG: chiếu Cần Vương do vua Hàm Nghi ban ngày 13/7/1885 tại Tân Sở, Quảng Trị, sau khi rời Huế.",
+    "Nhân quả đúng chiều: cuộc phản công thất bại ngày 5/7/1885 dẫn tới việc ban chiếu Cần Vương ngày 13/7/1885, chứ không phải ngược lại.",
+    "SAI: người lãnh đạo cuộc phản công là vua Hàm Nghi. ĐÚNG: người chủ trương và chỉ huy là Tôn Thất Thuyết, đứng đầu phái chủ chiến."
+   ],
+   "topic_title": "Phong trào yêu nước chống Pháp của nhân dân Việt Nam trong những năm cuối thế kỉ XIX",
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 21
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Phong_trào_Cần_Vương"
+   ]
+  },
+  {
+   "name": "Phong trào Cần Vương (1885 – 1896)",
+   "kind": "movement",
+   "year": 1885,
+   "date_start": "1885-07-13",
+   "date_end": "1896",
+   "place": "Trung Kì và Bắc Kì",
+   "actors": [
+    "vua Hàm Nghi",
+    "Tôn Thất Thuyết",
+    "Phan Đình Phùng",
+    "Nguyễn Thiện Thuật",
+    "Đinh Công Tráng"
+   ],
+   "aliases": [
+    "Cần Vương",
+    "chiếu Cần Vương",
+    "phong trào Cần Vương cuối thế kỉ XIX",
+    "phò vua cứu nước"
+   ],
+   "summary": "Phong trào yêu nước chống Pháp theo ngọn cờ 'giúp vua cứu nước' diễn ra từ năm 1885 đến năm 1896, khởi đầu bằng chiếu Cần Vương của vua Hàm Nghi.",
+   "facts": [
+    "Phong trào Cần Vương diễn ra trong khoảng thời gian từ năm 1885 đến năm 1896.",
+    "Ngày 13/7/1885, tại Tân Sở (Quảng Trị), vua Hàm Nghi ban chiếu Cần Vương kêu gọi văn thân, sĩ phu và nhân dân cả nước đứng lên giúp vua đánh Pháp.",
+    "Chính vì cuộc phản công của phái chủ chiến ở kinh thành Huế ngày 5/7/1885 thất bại mà vua Hàm Nghi phải rời kinh đô và ban chiếu Cần Vương.",
+    "Các cuộc khởi nghĩa tiêu biểu của phong trào gồm khởi nghĩa Bãi Sậy (1883 – 1892) do Nguyễn Thiện Thuật lãnh đạo, khởi nghĩa Ba Đình (1886 – 1887) do Đinh Công Tráng lãnh đạo và khởi nghĩa Hương Khê (1885 – 1896) do Phan Đình Phùng lãnh đạo.",
+    "Phong trào Cần Vương thất bại vì các cuộc khởi nghĩa nổ ra lẻ tẻ, thiếu một bộ chỉ huy thống nhất, vũ khí thô sơ và hệ tư tưởng phong kiến đã lỗi thời.",
+    "Khởi nghĩa Hương Khê tan rã năm 1896 cũng là mốc chấm dứt phong trào Cần Vương."
+   ],
+   "traps": [
+    "SAI: khởi nghĩa Yên Thế thuộc phong trào Cần Vương. ĐÚNG: Yên Thế (1884 – 1913) là phong trào nông dân tự phát, nổ ra trước chiếu Cần Vương và kéo dài rất lâu sau khi Cần Vương chấm dứt — KHÔNG thuộc Cần Vương.",
+    "SAI: phong trào Cần Vương kéo dài đến năm 1913 hoặc chỉ đến năm 1888. ĐÚNG: khung thời gian chuẩn là 1885 – 1896.",
+    "SAI: chiếu Cần Vương ban năm 1884 hay 1886. ĐÚNG: ban ngày 13/7/1885 tại Tân Sở, Quảng Trị."
+   ],
+   "topic_title": "Phong trào yêu nước chống Pháp của nhân dân Việt Nam trong những năm cuối thế kỉ XIX",
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 21
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Phong_trào_Cần_Vương",
+    "https://vi.wikipedia.org/wiki/Khởi_nghĩa_Yên_Thế"
+   ]
+  },
+  {
+   "name": "Khởi nghĩa Hương Khê (1885 – 1896)",
+   "kind": "campaign",
+   "year": 1885,
+   "date_start": "1885",
+   "date_end": "1896",
+   "place": "Thanh Hóa, Nghệ An, Hà Tĩnh, Quảng Bình",
+   "actors": [
+    "Phan Đình Phùng",
+    "Cao Thắng"
+   ],
+   "aliases": [
+    "Phan Đình Phùng",
+    "khởi nghĩa Phan Đình Phùng",
+    "Hương Khê",
+    "Cao Thắng",
+    "Vụ Quang"
+   ],
+   "summary": "Cuộc khởi nghĩa kéo dài 11 năm ở bốn tỉnh Bắc Trung Bộ do Phan Đình Phùng và Cao Thắng lãnh đạo, được coi là đỉnh cao của phong trào Cần Vương.",
+   "facts": [
+    "Khởi nghĩa Hương Khê kéo dài 11 năm, từ năm 1885 đến năm 1896, do Phan Đình Phùng (1847 – 1895) lãnh đạo cùng người trợ thủ đắc lực là Cao Thắng (1864 – 1893).",
+    "Địa bàn hoạt động của nghĩa quân trải rộng trên bốn tỉnh Thanh Hóa, Nghệ An, Hà Tĩnh và Quảng Bình, với căn cứ chính ở hai huyện Hương Sơn và Hương Khê.",
+    "Nghĩa quân được tổ chức chặt chẽ thành 15 quân thứ, mỗi quân thứ có từ 100 đến 500 người.",
+    "Cao Thắng đã chỉ đạo chế tạo được khoảng 500 khẩu súng trường theo mẫu súng Pháp năm 1874 — điều hiếm có trong các cuộc khởi nghĩa cùng thời.",
+    "Từ năm 1889 đến năm 1892, nghĩa quân đánh 28 trận lớn nhỏ, gây cho quân Pháp nhiều tổn thất.",
+    "Phan Đình Phùng hy sinh vì vết thương ngày 28/12/1895, và đến đầu năm 1896 cuộc khởi nghĩa tan rã.",
+    "Chính vì có tổ chức chặt chẽ, địa bàn rộng, thời gian dài và tự chế tạo được vũ khí mà khởi nghĩa Hương Khê được đánh giá là cuộc khởi nghĩa tiêu biểu nhất, đỉnh cao của phong trào Cần Vương."
+   ],
+   "traps": [
+    "SAI: Cao Thắng là người lãnh đạo cao nhất. ĐÚNG: lãnh tụ là Phan Đình Phùng, Cao Thắng là tướng giỏi phụ trách chế tạo vũ khí và hy sinh sớm năm 1893.",
+    "SAI: khởi nghĩa Hương Khê là cuộc khởi nghĩa nông dân tự phát. ĐÚNG: đây là cuộc khởi nghĩa trong phong trào Cần Vương do văn thân sĩ phu lãnh đạo; cuộc khởi nghĩa nông dân tự phát tiêu biểu là Yên Thế.",
+    "SAI: khởi nghĩa Hương Khê kết thúc năm 1895. ĐÚNG: Phan Đình Phùng mất cuối năm 1895 nhưng khởi nghĩa kéo dài đến năm 1896."
+   ],
+   "topic_title": "Phong trào yêu nước chống Pháp của nhân dân Việt Nam trong những năm cuối thế kỉ XIX",
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 21
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Khởi_nghĩa_Hương_Khê",
+    "https://vi.wikipedia.org/wiki/Phong_trào_Cần_Vương"
+   ]
+  },
+  {
+   "name": "Khởi nghĩa Yên Thế (1884 – 1913)",
+   "kind": "campaign",
+   "year": 1884,
+   "date_start": "1884",
+   "date_end": "1913-02-10",
+   "place": "Yên Thế, Bắc Giang và vùng phụ cận",
+   "actors": [
+    "Đề Nắm (Lương Văn Nắm)",
+    "Hoàng Hoa Thám (Đề Thám)",
+    "nông dân Yên Thế"
+   ],
+   "aliases": [
+    "Hoàng Hoa Thám",
+    "Đề Thám",
+    "Hùm thiêng Yên Thế",
+    "khởi nghĩa nông dân Yên Thế",
+    "Đề Nắm"
+   ],
+   "summary": "Cuộc khởi nghĩa nông dân tự phát kéo dài gần 30 năm ở vùng Yên Thế, do Đề Nắm rồi Hoàng Hoa Thám lãnh đạo — phong trào vũ trang dài nhất chống Pháp cuối thế kỉ XIX đầu thế kỉ XX.",
+   "facts": [
+    "Khởi nghĩa Yên Thế diễn ra từ năm 1884 đến năm 1913, kéo dài gần 30 năm, ở vùng Yên Thế Thượng rồi lan sang Thái Nguyên, Bắc Ninh, Bắc Giang.",
+    "Cuộc khởi nghĩa bắt nguồn từ nhu cầu tự vệ của những người nông dân phiêu tán muốn giữ đất, giữ làng, nên mang tính tự phát của nông dân chứ không do văn thân sĩ phu phát động.",
+    "Giai đoạn đầu 1884 – 1892 do nhiều thủ lĩnh chỉ huy riêng lẻ, đứng đầu là Đề Nắm (Lương Văn Nắm); ông bị sát hại tháng 4/1892.",
+    "Từ năm 1892, Hoàng Hoa Thám tức Đề Thám trở thành thủ lĩnh tối cao và lãnh đạo phong trào cho đến năm 1913.",
+    "Nghĩa quân hai lần giảng hòa với Pháp, vào năm 1894 và năm 1897, để tranh thủ thời gian củng cố lực lượng ở căn cứ Phồn Xương.",
+    "Trong giai đoạn 1909 – 1913, Pháp huy động khoảng 15.000 quân mở cuộc tấn công quy mô lớn; ngày 10/2/1913 Hoàng Hoa Thám bị sát hại, phong trào tan rã.",
+    "Chính vì Yên Thế nổ ra từ năm 1884 — trước chiếu Cần Vương — và còn kéo dài tới năm 1913, tức 17 năm sau khi Cần Vương chấm dứt, nên đây không phải là một cuộc khởi nghĩa trong phong trào Cần Vương."
+   ],
+   "traps": [
+    "SAI: khởi nghĩa Yên Thế nằm trong phong trào Cần Vương. ĐÚNG: Yên Thế (1884 – 1913) là phong trào nông dân tự phát, không đi theo ngọn cờ 'giúp vua'; phong trào Cần Vương chỉ kéo dài 1885 – 1896.",
+    "SAI: người lãnh đạo duy nhất là Hoàng Hoa Thám. ĐÚNG: giai đoạn đầu 1884 – 1892 do Đề Nắm đứng đầu, Đề Thám lãnh đạo từ năm 1892.",
+    "SAI: khởi nghĩa Yên Thế kết thúc năm 1896 hoặc 1908. ĐÚNG: kết thúc năm 1913, khi Hoàng Hoa Thám bị sát hại ngày 10/2/1913."
+   ],
+   "topic_title": "Phong trào yêu nước chống Pháp của nhân dân Việt Nam trong những năm cuối thế kỉ XIX",
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 21
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Khởi_nghĩa_Yên_Thế",
+    "https://vi.wikipedia.org/wiki/Phong_trào_Cần_Vương"
+   ]
+  },
+  {
+   "name": "Cuộc khai thác thuộc địa lần thứ nhất của thực dân Pháp (1897 – 1914)",
+   "kind": "event",
+   "year": 1897,
+   "date_start": "1897",
+   "date_end": "1914",
+   "place": "Đông Dương (Việt Nam, Lào, Campuchia)",
+   "actors": [
+    "Paul Doumer (Pôn Đume)",
+    "chính quyền thực dân Pháp"
+   ],
+   "aliases": [
+    "khai thác thuộc địa lần thứ nhất",
+    "chương trình khai thác lần thứ nhất",
+    "Pôn Đume",
+    "Paul Doumer",
+    "Toàn quyền Đông Dương Đume"
+   ],
+   "summary": "Chương trình khai thác thuộc địa do Toàn quyền Pôn Đume khởi xướng từ năm 1897, biến Việt Nam thành thị trường và nơi vơ vét tài nguyên cho tư bản Pháp.",
+   "facts": [
+    "Cuộc khai thác thuộc địa lần thứ nhất được tiến hành từ năm 1897 đến năm 1914, do Toàn quyền Đông Dương Pôn Đume khởi xướng.",
+    "Pôn Đume giữ chức Toàn quyền Đông Dương trong các năm 1897 – 1902, sau này về Pháp và trở thành Tổng thống Pháp năm 1931.",
+    "Pháp đẩy mạnh xây dựng hạ tầng phục vụ khai thác: hệ thống đường sắt xuyên Đông Dương, mở rộng cảng Hải Phòng, xây nhà máy điện, và xây cầu Long Biên bắc qua sông Hồng ở Hà Nội (khi đó mang tên cầu Đume).",
+    "Chính quyền thuộc địa nắm độc quyền ba mặt hàng muối, rượu và thuốc phiện; riêng lợi nhuận thuốc phiện có lúc chiếm tới 25% ngân sách thuộc địa.",
+    "Chỉ vài tuần sau khi nhậm chức năm 1897, Đume đã đặt ra hàng loạt thứ thuế đánh vào người Việt, từ thuế thân, thuế ruộng đến thuế thuốc lá, trầu, gỗ, rơm.",
+    "Nguồn thu của chính quyền thuộc địa tăng nhanh: khoảng 20 triệu đồng Đông Dương năm 1899, lên 33 triệu đồng năm 1902 và 42 triệu đồng năm 1911, trong khi gánh nặng thuế đè lên người Việt nặng hơn hẳn người Pháp.",
+    "Chính vì Pháp đầu tư khai thác mỏ, lập đồn điền, mở nhà máy mà cơ cấu kinh tế – xã hội Việt Nam biến đổi, làm xuất hiện những giai cấp và tầng lớp mới."
+   ],
+   "traps": [
+    "SAI: cuộc khai thác thuộc địa lần thứ nhất nhằm phát triển kinh tế Việt Nam. ĐÚNG: mục đích là vơ vét tài nguyên và bóc lột nhân công để làm giàu cho tư bản Pháp.",
+    "SAI: khai thác lần thứ nhất diễn ra sau Chiến tranh thế giới thứ nhất. ĐÚNG: lần thứ nhất là 1897 – 1914; cuộc khai thác lần thứ hai mới bắt đầu sau năm 1919.",
+    "Cầu Long Biên thời thuộc Pháp mang tên cầu Đume, đặt theo tên Toàn quyền Pôn Đume."
+   ],
+   "topic_title": "Xã hội Việt Nam trong cuộc khai thác lần thứ nhất của thực dân Pháp",
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 22
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Paul_Doumer"
+   ],
+   "fixed": [
+    "Số liệu ngân sách Đông Dương: sửa 'khoảng 20 – 33 triệu năm 1902' -> '20 triệu (1899), 33 triệu (1902), 42 triệu (1911)'"
+   ]
+  },
+  {
+   "name": "Những chuyển biến của xã hội Việt Nam đầu thế kỉ XX",
+   "kind": "concept",
+   "year": null,
+   "date_start": "1897",
+   "date_end": "1914",
+   "place": "Việt Nam",
+   "actors": [
+    "công nhân",
+    "tư sản",
+    "tiểu tư sản thành thị",
+    "nông dân",
+    "địa chủ phong kiến"
+   ],
+   "aliases": [
+    "giai cấp mới ở Việt Nam đầu thế kỉ XX",
+    "chuyển biến xã hội Việt Nam 1897-1914",
+    "sự phân hóa giai cấp thời thuộc địa"
+   ],
+   "summary": "Dưới tác động của cuộc khai thác thuộc địa lần thứ nhất, xã hội Việt Nam phân hóa sâu sắc: giai cấp cũ biến đổi, đồng thời xuất hiện các lực lượng xã hội mới là công nhân, tư sản và tiểu tư sản.",
+   "facts": [
+    "Cuộc khai thác thuộc địa lần thứ nhất (1897 – 1914) đã làm xã hội Việt Nam phân hóa sâu sắc so với thời phong kiến độc lập.",
+    "Giai cấp địa chủ phong kiến phân hóa: một bộ phận làm tay sai cho Pháp, còn nhiều địa chủ vừa và nhỏ vẫn giữ tinh thần yêu nước.",
+    "Nông dân chiếm đại đa số dân cư nhưng bị bần cùng hóa vì mất ruộng, sưu cao thuế nặng; nhiều người phải ra thành thị hoặc vào đồn điền, hầm mỏ làm thuê.",
+    "Chính vì Pháp mở mang hầm mỏ, đồn điền, nhà máy và hệ thống giao thông mà đội ngũ công nhân Việt Nam ra đời và ngày càng đông đảo vào đầu thế kỉ XX.",
+    "Tầng lớp tư sản Việt Nam xuất hiện từ những nhà thầu khoán, chủ xí nghiệp, chủ hãng buôn, nhưng còn nhỏ bé, bị tư bản Pháp chèn ép.",
+    "Tầng lớp tiểu tư sản thành thị gồm tiểu thương, tiểu chủ, viên chức, học sinh, sinh viên cũng hình thành ở các đô thị mới.",
+    "Chính sự xuất hiện của các lực lượng xã hội mới đã tạo điều kiện để phong trào yêu nước Việt Nam đầu thế kỉ XX chuyển sang khuynh hướng dân chủ tư sản."
+   ],
+   "traps": [
+    "SAI: giai cấp công nhân Việt Nam ra đời sau Chiến tranh thế giới thứ nhất. ĐÚNG: công nhân Việt Nam hình thành ngay trong cuộc khai thác thuộc địa lần thứ nhất (1897 – 1914), sau đó tăng nhanh trong cuộc khai thác lần thứ hai.",
+    "SAI: tư sản Việt Nam đầu thế kỉ XX đã trở thành một giai cấp mạnh. ĐÚNG: lúc này mới chỉ là tầng lớp nhỏ bé, thế lực kinh tế yếu, bị tư bản Pháp chèn ép.",
+    "Nhân quả đúng chiều: cuộc khai thác thuộc địa là nguyên nhân, sự phân hóa giai cấp là hệ quả — không phải ngược lại."
+   ],
+   "topic_title": "Xã hội Việt Nam trong cuộc khai thác lần thứ nhất của thực dân Pháp",
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 22
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Paul_Doumer"
+   ]
+  },
+  {
+   "name": "Phan Bội Châu và phong trào Đông du (1905 – 1909)",
+   "kind": "movement",
+   "year": 1905,
+   "date_start": "1904",
+   "date_end": "1909-03",
+   "place": "Việt Nam và Nhật Bản",
+   "actors": [
+    "Phan Bội Châu",
+    "Cường Để",
+    "Duy tân hội"
+   ],
+   "aliases": [
+    "Phan Bội Châu",
+    "phong trào Đông Du",
+    "Duy tân hội",
+    "Việt Nam Quang phục hội",
+    "Ông già Bến Ngự",
+    "Sào Nam"
+   ],
+   "summary": "Phan Bội Châu chủ trương bạo động vũ trang giành độc lập, lập Duy tân hội năm 1904 và tổ chức phong trào Đông du đưa thanh niên sang Nhật Bản học tập.",
+   "facts": [
+    "Phan Bội Châu sinh năm 1867 và mất ngày 29/10/1940, là lãnh tụ tiêu biểu của khuynh hướng bạo động trong phong trào yêu nước đầu thế kỉ XX.",
+    "Năm 1904, Phan Bội Châu cùng các đồng chí thành lập Duy tân hội ở Quảng Nam, chủ trương đánh Pháp bằng vũ trang và cầu viện bên ngoài.",
+    "Từ tháng 10/1905, Duy tân hội phát động phong trào Đông du, đưa thanh niên Việt Nam sang Nhật Bản học tập để chuẩn bị lực lượng cứu nước.",
+    "Chính vì Pháp và Nhật Bản ký thỏa thuận với nhau mà đến tháng 3/1909 nhà cầm quyền Nhật trục xuất du học sinh Việt Nam, khiến phong trào Đông du tan rã.",
+    "Tháng 6/1912, tại Quảng Đông (Trung Quốc), Phan Bội Châu lập Việt Nam Quang phục hội, chuyển mục tiêu từ quân chủ lập hiến sang thành lập nước cộng hòa dân quốc.",
+    "Ngày 30/6/1925, Phan Bội Châu bị thực dân Pháp bắt ở Thượng Hải, bị kết án rồi bị an trí tại Huế, nơi ông sống với tên gọi 'Ông già Bến Ngự' cho đến khi mất năm 1940."
+   ],
+   "traps": [
+    "SAI: câu 'Bao giờ người Tây nhổ hết cỏ nước Nam thì mới hết người Nam đánh Tây' là của Phan Bội Châu. ĐÚNG: đó là câu nói của Nguyễn Trung Trực năm 1868.",
+    "SAI: Phan Bội Châu chủ trương cải cách ôn hòa, dựa vào Pháp. ĐÚNG: Phan Bội Châu chủ trương BẠO ĐỘNG vũ trang; người chủ trương cải cách, phản đối bạo động là Phan Châu Trinh.",
+    "SAI: phong trào Đông du đưa học sinh sang Trung Quốc. ĐÚNG: đưa sang Nhật Bản, từ năm 1905 đến khi bị trục xuất tháng 3/1909."
+   ],
+   "topic_title": "Phong trào yêu nước và cách mạng ở Việt Nam từ đầu thế kỉ XX đến Chiến tranh thế giới thứ nhất (1914)",
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 23
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Phan_Bội_Châu"
+   ]
+  },
+  {
+   "name": "Phan Châu Trinh và cuộc vận động Duy tân ở Trung Kì (1906 – 1908)",
+   "kind": "movement",
+   "year": 1906,
+   "date_start": "1906",
+   "date_end": "1908",
+   "place": "Trung Kì (Quảng Nam và các tỉnh lân cận)",
+   "actors": [
+    "Phan Châu Trinh",
+    "Huỳnh Thúc Kháng",
+    "Trần Quý Cáp"
+   ],
+   "aliases": [
+    "Phan Chu Trinh",
+    "Phan Châu Trinh",
+    "phong trào Duy tân",
+    "cuộc vận động Duy tân Trung Kì",
+    "Tây Hồ"
+   ],
+   "summary": "Phan Châu Trinh chủ trương cải cách ôn hòa theo phương châm 'khai dân trí, chấn dân khí, hậu dân sinh', lãnh đạo cuộc vận động Duy tân ở Trung Kì đầu thế kỉ XX.",
+   "facts": [
+    "Phan Châu Trinh sinh ngày 9/9/1872 và mất ngày 24/3/1926, là lãnh tụ tiêu biểu của khuynh hướng cải cách trong phong trào yêu nước đầu thế kỉ XX.",
+    "Chủ trương của ông gói trong ba mệnh đề: 'khai dân trí, chấn dân khí, hậu dân sinh' — mở mang dân trí, chấn hưng ý chí và làm cho đời sống nhân dân no đủ.",
+    "Phan Châu Trinh lãnh đạo cuộc vận động Duy tân ở Trung Kì, cổ vũ mở trường dạy chữ Quốc ngữ, lập hội buôn, phát triển nghề nghiệp, bài trừ hủ tục.",
+    "Khác với Phan Bội Châu, ông phản đối bạo động và chủ trương dựa vào Pháp để tiến hành cải cách, cho rằng phải nâng cao dân trí và kinh tế trước rồi mới tính chuyện độc lập.",
+    "Chính vì tư tưởng Duy tân lan rộng mà phong trào chống sưu thuế bùng nổ ở Trung Kì năm 1908; thực dân Pháp quy trách nhiệm cho Phan Châu Trinh và đày ông ra Côn Đảo.",
+    "Đám tang Phan Châu Trinh năm 1926 thu hút khoảng 60.000 người thuộc mọi tầng lớp, trở thành một cuộc vận động yêu nước rộng lớn."
+   ],
+   "traps": [
+    "SAI: Phan Châu Trinh chủ trương bạo động chống Pháp. ĐÚNG: ông phản đối bạo động, chủ trương cải cách ôn hòa; người chủ trương bạo động là Phan Bội Châu.",
+    "SAI: khẩu hiệu của ông là 'khai dân trí, chấn dân khí, hậu dân sinh' của Phan Bội Châu. ĐÚNG: đó là chủ trương của PHAN CHÂU TRINH.",
+    "Đừng nhầm Phan Châu Trinh (1872 – 1926) với Phan Bội Châu (1867 – 1940): hai người cùng thời, cùng yêu nước nhưng khác hẳn đường lối."
+   ],
+   "topic_title": "Phong trào yêu nước và cách mạng ở Việt Nam từ đầu thế kỉ XX đến Chiến tranh thế giới thứ nhất (1914)",
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 23
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Phan_Châu_Trinh"
+   ]
+  },
+  {
+   "name": "Đông Kinh nghĩa thục (3/1907)",
+   "kind": "org",
+   "year": 1907,
+   "date_start": "1907-03",
+   "date_end": "1907-11",
+   "place": "Số 4 phố Hàng Đào, Hà Nội",
+   "actors": [
+    "Lương Văn Can",
+    "Nguyễn Quyền",
+    "Phan Bội Châu",
+    "Phan Châu Trinh"
+   ],
+   "aliases": [
+    "Đông Kinh Nghĩa Thục",
+    "trường Đông Kinh nghĩa thục",
+    "Lương Văn Can",
+    "Nguyễn Quyền"
+   ],
+   "summary": "Trường học yêu nước mở tại Hà Nội tháng 3/1907, dạy học miễn phí theo lối mới nhằm nâng cao dân trí, bị thực dân Pháp đóng cửa chỉ sau vài tháng.",
+   "facts": [
+    "Đông Kinh nghĩa thục được thành lập vào tháng 3/1907 tại số 4 phố Hàng Đào, Hà Nội.",
+    "Lương Văn Can làm Thục trưởng (hiệu trưởng), Nguyễn Quyền làm Giám học, cùng sự tham gia và ủng hộ của Phan Bội Châu, Phan Châu Trinh và nhiều sĩ phu tiến bộ.",
+    "Nhà trường dạy lịch sử, địa lí nước nhà, toán, vẽ và các kiến thức khoa học, đồng thời truyền bá tư tưởng cải cách qua sách của Khang Hữu Vi, Lương Khải Siêu.",
+    "Trường cổ động học chữ Quốc ngữ, bài trừ hủ tục, hô hào dùng hàng nội hóa, cắt tóc ngắn, mặc áo ngắn theo lối mới.",
+    "Chính vì lo sợ nhà trường thổi bùng tinh thần chống Pháp mà đến tháng 11/1907 chính quyền thực dân buộc Đông Kinh nghĩa thục phải giải tán.",
+    "Sau các phong trào chống thuế và vụ đầu độc binh lính Pháp ở Hà Nội năm 1908, thực dân Pháp càng đàn áp mạnh những người từng tham gia Đông Kinh nghĩa thục."
+   ],
+   "traps": [
+    "SAI: Đông Kinh nghĩa thục lập ở Huế hoặc Nam Kì. ĐÚNG: lập ở Hà Nội, phố Hàng Đào, tháng 3/1907.",
+    "SAI: 'Đông Kinh' ở đây là Tokyo của Nhật Bản. ĐÚNG: Đông Kinh là tên gọi cũ của Thăng Long – Hà Nội, còn 'nghĩa thục' nghĩa là trường dạy học không lấy tiền.",
+    "SAI: trường hoạt động nhiều năm. ĐÚNG: chỉ tồn tại khoảng 9 tháng trong năm 1907 thì bị Pháp đóng cửa."
+   ],
+   "topic_title": "Phong trào yêu nước và cách mạng ở Việt Nam từ đầu thế kỉ XX đến Chiến tranh thế giới thứ nhất (1914)",
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 23
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Đông_Kinh_Nghĩa_Thục"
+   ]
+  },
+  {
+   "name": "Phong trào chống thuế ở Trung Kì (1908)",
+   "kind": "movement",
+   "year": 1908,
+   "date_start": "1908",
+   "date_end": "1908",
+   "place": "Quảng Nam và các tỉnh Trung Kì",
+   "actors": [
+    "nông dân Trung Kì",
+    "Phan Châu Trinh",
+    "Huỳnh Thúc Kháng",
+    "Trần Quý Cáp"
+   ],
+   "aliases": [
+    "phong trào chống sưu thuế Trung Kì",
+    "phong trào kháng thuế 1908",
+    "xin xâu 1908",
+    "chống thuế Quảng Nam 1908"
+   ],
+   "summary": "Cuộc đấu tranh của nông dân Trung Kì năm 1908 đòi giảm sưu thuế, khởi phát từ Quảng Nam rồi lan rộng, bị Pháp đàn áp và lấy cớ để bắt các sĩ phu Duy tân.",
+   "facts": [
+    "Phong trào chống sưu thuế bùng nổ năm 1908, khởi đầu ở tỉnh Quảng Nam rồi nhanh chóng lan ra nhiều tỉnh Trung Kì.",
+    "Nông dân kéo về các huyện lị, tỉnh lị đòi giảm sưu, giảm thuế — những khoản đóng góp trở nên quá nặng sau khi Pháp đẩy mạnh khai thác thuộc địa.",
+    "Phong trào nổ ra phần lớn mang tính tự phát, nhưng chịu ảnh hưởng rõ rệt của tư tưởng Duy tân đang lan rộng ở Trung Kì.",
+    "Chính vì cho rằng các sĩ phu Duy tân đứng sau phong trào mà thực dân Pháp đã bắt và đày Phan Châu Trinh ra Côn Đảo, đồng thời đàn áp hàng loạt người yêu nước.",
+    "Phong trào chống thuế năm 1908 cho thấy mâu thuẫn giữa nông dân Việt Nam với chính quyền thực dân đã trở nên gay gắt ngay trong cuộc khai thác thuộc địa lần thứ nhất."
+   ],
+   "traps": [
+    "SAI: phong trào chống thuế 1908 do Phan Châu Trinh trực tiếp tổ chức. ĐÚNG: phong trào phần lớn tự phát; Pháp quy tội cho ông và đày ra Côn Đảo, nhưng ông không phải người phát động.",
+    "SAI: phong trào nổ ra ở Bắc Kì. ĐÚNG: bùng nổ ở Trung Kì, mở đầu tại Quảng Nam năm 1908.",
+    "Đừng nhầm phong trào chống thuế Trung Kì năm 1908 với vụ đầu độc binh lính Pháp ở Hà Nội cũng năm 1908 — hai sự kiện khác nhau."
+   ],
+   "topic_title": "Phong trào yêu nước và cách mạng ở Việt Nam từ đầu thế kỉ XX đến Chiến tranh thế giới thứ nhất (1914)",
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 23
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Phan_Châu_Trinh",
+    "https://vi.wikipedia.org/wiki/Đông_Kinh_Nghĩa_Thục"
+   ]
+  },
+  {
+   "name": "Hồ Quý Ly",
+   "kind": "person",
+   "year": null,
+   "date_start": "1336",
+   "date_end": "1407",
+   "place": "Đại Việt – Đại Ngu",
+   "actors": [
+    "Hồ Quý Ly",
+    "Hồ Hán Thương",
+    "nhà Trần"
+   ],
+   "aliases": [
+    "Hồ Quí Ly",
+    "Lê Quý Ly",
+    "vua nhà Hồ",
+    "Hồ Quý Ly cải cách"
+   ],
+   "summary": "Nhà chính trị lớn cuối thế kỉ XIV, người lật đổ nhà Trần lập ra triều Hồ năm 1400 và tiến hành hàng loạt cải cách táo bạo nhưng cuối cùng thất bại trước quân Minh.",
+   "facts": [
+    "Hồ Quý Ly sinh năm 1336 và mất năm 1407, xuất thân là một quyền thần nắm thực quyền trong triều đình nhà Trần suy yếu.",
+    "Năm 1397, ông cho dời đô từ Thăng Long về Tây Đô, tức thành An Tôn ở Thanh Hóa — nay là Thành nhà Hồ.",
+    "Năm 1400, Hồ Quý Ly phế vua Trần, lên ngôi và lập ra triều Hồ, đặt quốc hiệu nước ta là Đại Ngu.",
+    "Ông chỉ làm vua một năm rồi nhường ngôi cho con là Hồ Hán Thương vào năm 1401, còn mình lui về làm Thái thượng hoàng nhưng vẫn nắm quyền điều hành đất nước.",
+    "Giữa năm 1407, sau khi triều Hồ thất bại trước quân Minh, Hồ Quý Ly cùng con bị bắt, chấm dứt 7 năm tồn tại của nhà Hồ."
+   ],
+   "traps": [
+    "SAI: Hồ Quý Ly lập nhà Hồ năm 1397. ĐÚNG: năm 1397 ông dời đô về Tây Đô, đến năm 1400 mới lên ngôi lập nhà Hồ.",
+    "SAI: quốc hiệu thời nhà Hồ là Đại Việt. ĐÚNG: quốc hiệu là ĐẠI NGU.",
+    "SAI: Hồ Quý Ly làm vua suốt triều Hồ. ĐÚNG: ông làm vua năm 1400 – 1401 rồi nhường ngôi cho Hồ Hán Thương."
+   ],
+   "topic_title": "Cuộc cải cách của Hồ Quý Ly và triều Hồ",
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 9
+    },
+    {
+     "book": "CTST",
+     "bai": 9
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Hồ_Quý_Ly",
+    "https://vi.wikipedia.org/wiki/Nhà_Hồ"
+   ]
+  },
+  {
+   "name": "Cuộc cải cách của Hồ Quý Ly (cuối thế kỉ XIV – đầu thế kỉ XV)",
+   "kind": "concept",
+   "year": null,
+   "date_start": "1396",
+   "date_end": "1407",
+   "place": "Đại Việt – Đại Ngu",
+   "actors": [
+    "Hồ Quý Ly"
+   ],
+   "aliases": [
+    "cải cách Hồ Quý Ly",
+    "hạn điền hạn nô",
+    "tiền giấy Thông bảo hội sao",
+    "cải cách cuối thế kỉ XIV",
+    "chính sách hạn nô"
+   ],
+   "summary": "Loạt cải cách toàn diện về tiền tệ, ruộng đất, nô tì, thi cử và quân sự do Hồ Quý Ly tiến hành từ cuối thời Trần sang thời Hồ nhằm cứu vãn khủng hoảng đất nước.",
+   "facts": [
+    "Năm 1396, Hồ Quý Ly cho phát hành tiền giấy mang tên 'Thông bảo hội sao' — đồng tiền giấy đầu tiên trong lịch sử Việt Nam, thay cho tiền đồng.",
+    "Chính sách 'hạn điền' quy định mức ruộng tối đa mỗi người được sở hữu, phần vượt quá bị sung công, nhằm hạn chế thế lực của tầng lớp quý tộc lớn.",
+    "Chính sách 'hạn nô' quy định số nô tì được nuôi theo phẩm hàm, số dư bị nhà nước sung công, làm suy giảm nền tảng kinh tế của quý tộc nhà Trần.",
+    "Từ năm 1396, Hồ Quý Ly sửa đổi chế độ thi cử — đặt kì thi Hương ở địa phương và thi Hội ở kinh thành; đến năm 1404 quy định thêm kì thi viết chữ và làm toán. Ông cũng đề cao chữ Nôm, cho dịch sách chữ Hán sang chữ Nôm để phổ biến rộng rãi hơn.",
+    "Về quân sự, ông chấn chỉnh quân đội, làm sổ hộ tịch để tăng quân số, chế tạo vũ khí và xây thành lũy kiên cố như Thành Tây Đô.",
+    "Chính vì các cải cách đụng chạm quyền lợi của quý tộc, lại triển khai gấp gáp trong lúc dân bị huy động xây thành và đánh Chămpa liên miên, mà nhà Hồ không được lòng dân — đúng như lời Hồ Nguyên Trừng: 'Thần không sợ đánh, chỉ sợ lòng dân không theo'."
+   ],
+   "traps": [
+    "SAI: tiền giấy đầu tiên của Việt Nam ra đời thời nhà Nguyễn hay thời Pháp thuộc. ĐÚNG: tiền giấy 'Thông bảo hội sao' do Hồ Quý Ly phát hành năm 1396.",
+    "SAI: 'hạn điền' là chia đều ruộng cho dân. ĐÚNG: hạn điền là hạn chế mức ruộng tư tối đa, phần vượt bị sung công.",
+    "Trạng nguyên trẻ nhất trong lịch sử khoa cử Việt Nam là NGUYỄN HIỀN, đỗ năm 1247 khi mới 13 tuổi dưới triều vua Trần Thái Tông — không có nhân vật nào tên 'Nguyễn Minh Sát'."
+   ],
+   "topic_title": "Cuộc cải cách của Hồ Quý Ly và triều Hồ",
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 9
+    },
+    {
+     "book": "CTST",
+     "bai": 9
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Hồ_Quý_Ly",
+    "https://vi.wikipedia.org/wiki/Nhà_Hồ",
+    "https://vi.wikipedia.org/wiki/Nguyễn_Hiền"
+   ],
+   "fixed": [
+    "Cải cách thi cử Hồ Quý Ly: sửa 'năm 1402, phép thi bốn kì' -> 'từ năm 1396 (thi Hương/thi Hội), năm 1404 thêm kì thi viết chữ và làm toán' theo SGK LS11 bài 9"
+   ]
+  },
+  {
+   "name": "Triều Hồ và cuộc kháng chiến chống quân Minh (1400 – 1407)",
+   "kind": "dynasty",
+   "year": 1400,
+   "date_start": "1400",
+   "date_end": "1407",
+   "place": "Đại Ngu (Tây Đô, Thanh Hóa; thành Đa Bang)",
+   "actors": [
+    "Hồ Quý Ly",
+    "Hồ Hán Thương",
+    "Hồ Nguyên Trừng",
+    "Trương Phụ",
+    "nhà Minh"
+   ],
+   "aliases": [
+    "nhà Hồ",
+    "triều Hồ",
+    "Đại Ngu",
+    "kháng chiến chống quân Minh 1406-1407",
+    "thành Tây Đô",
+    "Thành nhà Hồ"
+   ],
+   "summary": "Triều đại chỉ tồn tại 7 năm (1400 – 1407) với quốc hiệu Đại Ngu, kinh đô Tây Đô, và thất bại nhanh chóng trước cuộc xâm lược của nhà Minh vì không tập hợp được lòng dân.",
+   "facts": [
+    "Nhà Hồ được lập năm 1400 với quốc hiệu Đại Ngu, kinh đô đặt ở Tây Đô tức thành An Tôn thuộc Thanh Hóa, và chỉ tồn tại 7 năm.",
+    "Triều Hồ có hai vua: Hồ Quý Ly (1400 – 1401) và Hồ Hán Thương (1401 – 1407).",
+    "Cuối năm 1406, nhà Minh lấy cớ 'phù Trần diệt Hồ' đưa quân xâm lược Đại Ngu theo hai đường.",
+    "Tháng 1/1407, thành Đa Bang — cứ điểm then chốt của phòng tuyến nhà Hồ — thất thủ, kéo theo sự sụp đổ dây chuyền của toàn bộ tuyến phòng thủ.",
+    "Giữa năm 1407, Hồ Quý Ly và Hồ Hán Thương lần lượt bị quân Minh bắt, nhà Hồ sụp đổ và nước ta rơi vào ách đô hộ của nhà Minh.",
+    "Chính vì nhà Hồ chỉ dựa vào thành lũy và quân đội mà không tập hợp được lòng dân — do cải cách gấp gáp, bắt phu xây thành, chiến tranh liên miên với Chămpa — nên cuộc kháng chiến nhanh chóng thất bại."
+   ],
+   "traps": [
+    "SAI: nhà Hồ tồn tại vài chục năm. ĐÚNG: chỉ 7 năm, từ 1400 đến 1407.",
+    "SAI: nhà Hồ thất bại vì thiếu vũ khí và thành lũy. ĐÚNG: nhà Hồ có thành lũy kiên cố và cả súng thần cơ do Hồ Nguyên Trừng chế tạo, nguyên nhân thất bại chính là không được lòng dân, không phát động được chiến tranh nhân dân.",
+    "SAI: quân Minh xâm lược năm 1400. ĐÚNG: nhà Minh đưa quân sang cuối năm 1406, nhà Hồ sụp đổ giữa năm 1407."
+   ],
+   "topic_title": "Cuộc cải cách của Hồ Quý Ly và triều Hồ",
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 9
+    },
+    {
+     "book": "CTST",
+     "bai": 9
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Nhà_Hồ",
+    "https://vi.wikipedia.org/wiki/Hồ_Quý_Ly"
+   ]
+  },
+  {
+   "name": "Liên bang Cộng hòa xã hội chủ nghĩa Xô viết ra đời (30/12/1922)",
+   "kind": "org",
+   "year": 1922,
+   "date_start": "1922-12-30",
+   "date_end": "1991-12-26",
+   "place": "Liên Xô",
+   "actors": [
+    "V. I. Lênin",
+    "Nga",
+    "Ukraina",
+    "Belarus",
+    "Ngoại Kavkaz"
+   ],
+   "aliases": [
+    "Liên Xô",
+    "Liên bang Xô viết",
+    "USSR",
+    "CCCP",
+    "Liên bang Cộng hoà xã hội chủ nghĩa Xô viết",
+    "Liên Xô thành lập"
+   ],
+   "summary": "Ngày 30/12/1922, bốn nước cộng hòa Xô viết hợp nhất thành Liên Xô — nhà nước liên bang xã hội chủ nghĩa đầu tiên trên thế giới, tồn tại đến cuối năm 1991.",
+   "facts": [
+    "Liên bang Cộng hòa xã hội chủ nghĩa Xô viết, gọi tắt là Liên Xô, được thành lập ngày 30/12/1922.",
+    "Bốn nước cộng hòa Xô viết đầu tiên hợp thành Liên Xô là Nga, Ukraina, Belarus và Ngoại Kavkaz.",
+    "Người sáng lập và lãnh đạo đầu tiên của Liên Xô là V. I. Lênin, giữ vai trò này trong hai năm 1922 – 1924.",
+    "Chính vì thắng lợi của Cách mạng tháng Mười năm 1917 và chiến thắng của Hồng quân trong Nội chiến Nga 1918 – 1922 mà các nước cộng hòa Xô viết mới có thể liên kết lại thành một liên bang thống nhất năm 1922.",
+    "Trong những năm 1921 – 1941, Liên Xô tiến hành công cuộc xây dựng chủ nghĩa xã hội, từ Chính sách kinh tế mới (NEP) đến các kế hoạch 5 năm công nghiệp hóa.",
+    "Liên Xô tồn tại gần 70 năm và chính thức giải thể ngày 26/12/1991."
+   ],
+   "traps": [
+    "SAI: Liên Xô thành lập ngay sau Cách mạng tháng Mười năm 1917. ĐÚNG: Liên Xô ra đời ngày 30/12/1922, tức 5 năm sau cách mạng.",
+    "SAI: gọi quân đội Liên Xô là 'quân đội đỏ'. ĐÚNG: tên chuẩn là HỒNG QUÂN (Hồng quân Công Nông), thành lập năm 1918, đổi tên thành Quân đội Xô viết năm 1946.",
+    "SAI: Liên Xô ban đầu gồm 15 nước cộng hòa. ĐÚNG: khi mới thành lập năm 1922 chỉ có 4 nước cộng hòa; con số 15 là về sau."
+   ],
+   "topic_title": "Liên bang Cộng hoà xã hội chủ nghĩa Xô viết ra đời và sự phát triển của chủ nghĩa xã hội sau Chiến tranh thế giới thứ hai",
+   "lessons": [
+    {
+     "book": "CTST",
+     "bai": 3
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Liên_Xô",
+    "https://vi.wikipedia.org/wiki/Hồng_quân"
+   ]
+  },
+  {
+   "name": "Sự phát triển của chủ nghĩa xã hội sau Chiến tranh thế giới thứ hai",
+   "kind": "period",
+   "year": null,
+   "date_start": "1945",
+   "date_end": "1991",
+   "place": "Đông Âu, châu Á, Mỹ Latinh",
+   "actors": [
+    "Liên Xô",
+    "các nước Đông Âu",
+    "Trung Quốc",
+    "Cuba",
+    "Việt Nam"
+   ],
+   "aliases": [
+    "hệ thống xã hội chủ nghĩa thế giới",
+    "CNXH sau chiến tranh thế giới thứ hai",
+    "mở rộng chủ nghĩa xã hội 1945-1991",
+    "các nước dân chủ nhân dân Đông Âu"
+   ],
+   "summary": "Sau năm 1945, chủ nghĩa xã hội vượt ra khỏi phạm vi một nước, hình thành hệ thống thế giới trải từ Đông Âu sang châu Á và tới Mỹ Latinh.",
+   "facts": [
+    "Sau khi Chiến tranh thế giới thứ hai kết thúc ngày 2/9/1945, hàng loạt nhà nước dân chủ nhân dân ra đời ở Đông Âu và đi theo con đường xã hội chủ nghĩa.",
+    "Ngày 1/10/1949, nước Cộng hòa Nhân dân Trung Hoa được thành lập sau khi Đảng Cộng sản Trung Quốc đánh bại Quốc dân đảng trong nội chiến, đưa chủ nghĩa xã hội lan sang nước đông dân nhất thế giới.",
+    "Ở Mỹ Latinh, cách mạng Cuba do Phiđen Cátxtơrô lãnh đạo thắng lợi ngày 1/1/1959 khi chế độ độc tài Batixta sụp đổ, và Cuba đi theo con đường xã hội chủ nghĩa từ đó.",
+    "Chính vì Liên Xô đóng vai trò quyết định trong việc tiêu diệt chủ nghĩa phát xít và giúp đỡ các nước sau chiến tranh mà chủ nghĩa xã hội mới vượt khỏi phạm vi một nước để trở thành một hệ thống thế giới.",
+    "Đảng Cộng sản Cuba chính thức được thành lập vào tháng 10/1965, trên cơ sở Phong trào 26 tháng 7 của Phiđen Cátxtơrô.",
+    "Hệ thống xã hội chủ nghĩa thế giới tồn tại và phát triển cho tới cuối những năm 1980, khi khủng hoảng nổ ra ở Liên Xô và Đông Âu."
+   ],
+   "traps": [
+    "SAI: xếp việc Liên Xô tham gia Chiến tranh thế giới thứ hai vào giai đoạn xây dựng chủ nghĩa xã hội 1921 – 1941. ĐÚNG: Liên Xô xây dựng chủ nghĩa xã hội trong các năm 1921 – 1941; Liên Xô tham chiến trong giai đoạn 1941 – 1945, kể từ khi Đức tấn công ngày 22/6/1941.",
+    "SAI: nước Cộng hòa Nhân dân Trung Hoa thành lập năm 1945 hoặc 1950. ĐÚNG: ngày 1/10/1949.",
+    "SAI: cách mạng Cuba thắng lợi năm 1961. ĐÚNG: chế độ Batixta sụp đổ ngày 1/1/1959."
+   ],
+   "topic_title": "Liên bang Cộng hoà xã hội chủ nghĩa Xô viết ra đời và sự phát triển của chủ nghĩa xã hội sau Chiến tranh thế giới thứ hai",
+   "lessons": [
+    {
+     "book": "CTST",
+     "bai": 3
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Cộng_hòa_Nhân_dân_Trung_Hoa",
+    "https://vi.wikipedia.org/wiki/Cách_mạng_Cuba",
+    "https://vi.wikipedia.org/wiki/Chiến_tranh_thế_giới_thứ_hai"
+   ]
+  },
+  {
+   "name": "Liên Xô tan rã và chủ nghĩa xã hội sụp đổ ở Đông Âu (1989 – 1991)",
+   "kind": "event",
+   "year": 1991,
+   "date_start": "1991-12-08",
+   "date_end": "1991-12-26",
+   "place": "Liên Xô và Đông Âu",
+   "actors": [
+    "M. Goócbachốp",
+    "B. Enxin",
+    "Cộng đồng các quốc gia độc lập (SNG)"
+   ],
+   "aliases": [
+    "Liên Xô tan rã",
+    "Liên Xô sụp đổ",
+    "Hiệp định Belovezh",
+    "Goócbachốp từ chức",
+    "chế độ xã hội chủ nghĩa Đông Âu sụp đổ",
+    "SNG",
+    "CIS"
+   ],
+   "summary": "Cuối năm 1991, sau khủng hoảng kéo dài và công cuộc cải tổ thất bại, Liên Xô chính thức tan rã, kéo theo sự sụp đổ của hệ thống xã hội chủ nghĩa ở châu Âu.",
+   "facts": [
+    "Ngày 8/12/1991, tại khu rừng Belovezh thuộc Belarus, lãnh đạo ba nước Nga, Ukraina và Belarus ký hiệp định tuyên bố Liên Xô chấm dứt tồn tại và lập ra Cộng đồng các quốc gia độc lập (SNG).",
+    "Ngày 12/12/1991, Xô viết tối cao NƯỚC NGA (Cộng hòa Xô viết Liên bang Nga) phê chuẩn hiệp định Belovezh và bãi bỏ Hiệp ước thành lập Liên bang Xô viết ký năm 1922 (Belarus và Ukraina đã phê chuẩn từ ngày 10/12/1991).",
+    "Ngày 25/12/1991, Tổng thống M. Goócbachốp tuyên bố từ chức, lá cờ búa liềm trên nóc Điện Kremli được hạ xuống và thay bằng quốc kỳ ba màu của nước Nga.",
+    "Liên Xô chính thức giải thể ngày 26/12/1991, sau gần 70 năm tồn tại kể từ ngày thành lập 30/12/1922.",
+    "Chính vì công cuộc cải tổ từ giữa những năm 1980 mắc nhiều sai lầm, kinh tế trì trệ và mâu thuẫn dân tộc gay gắt mà Liên Xô đi tới tan rã, chứ không phải do một cuộc chiến tranh từ bên ngoài.",
+    "Sự tan rã của Liên Xô cùng với việc chế độ xã hội chủ nghĩa ở các nước Đông Âu sụp đổ trong hai năm 1989 – 1991 đã chấm dứt sự tồn tại của hệ thống xã hội chủ nghĩa thế giới.",
+    "Ngày 26/12/1991, Hội đồng các nước cộng hòa thuộc Xô viết tối cao Liên Xô ra tuyên bố số 142-H chính thức chấm dứt sự tồn tại của Liên Xô."
+   ],
+   "traps": [
+    "SAI: Liên Xô tan rã năm 1990 hoặc 1992. ĐÚNG: Goócbachốp từ chức ngày 25/12/1991 và Liên Xô chính thức chấm dứt tồn tại ngày 26/12/1991.",
+    "SAI: Liên Xô sụp đổ vì thua một cuộc chiến tranh. ĐÚNG: nguyên nhân là khủng hoảng kinh tế – xã hội kéo dài cùng những sai lầm trong công cuộc cải tổ.",
+    "SAI: chủ nghĩa xã hội chấm dứt trên toàn thế giới sau năm 1991. ĐÚNG: hệ thống xã hội chủ nghĩa thế giới tan rã, nhưng Trung Quốc, Việt Nam, Lào, Cuba và Triều Tiên vẫn kiên trì con đường xã hội chủ nghĩa.",
+    "SAI: chính Xô viết tối cao LIÊN XÔ đã phê chuẩn hiệp định Belovezh ngày 12/12/1991. ĐÚNG: đó là Xô viết tối cao NGA; cơ quan của Liên Xô chỉ ra tuyên bố giải thể ngày 26/12/1991."
+   ],
+   "topic_title": "Chủ nghĩa xã hội từ năm 1991 đến nay",
+   "lessons": [
+    {
+     "book": "CTST",
+     "bai": 4
+    }
+   ],
+   "sources": [
+    "https://nghiencuuquocte.org/2015/12/25/gorbachev-tu-chuc/",
+    "https://vi.wikipedia.org/wiki/Liên_Xô"
+   ],
+   "fixed": [
+    "Sửa chủ thể: ngày 12/12/1991 phê chuẩn hiệp định Belovezh là Xô viết tối cao NGA (RSFSR), không phải Xô viết tối cao Liên Xô"
+   ]
+  },
+  {
+   "name": "Công cuộc cải cách, đổi mới ở các nước xã hội chủ nghĩa từ năm 1991 đến nay",
+   "kind": "concept",
+   "year": null,
+   "date_start": "1978",
+   "date_end": "nay",
+   "place": "Trung Quốc, Việt Nam, Lào, Cuba",
+   "actors": [
+    "Đặng Tiểu Bình",
+    "Đảng Cộng sản Trung Quốc",
+    "Đảng Cộng sản Việt Nam"
+   ],
+   "aliases": [
+    "chủ nghĩa xã hội từ 1991 đến nay",
+    "cải cách mở cửa Trung Quốc",
+    "Đổi mới ở Việt Nam",
+    "kinh tế thị trường định hướng xã hội chủ nghĩa",
+    "Đặng Tiểu Bình"
+   ],
+   "summary": "Sau khi Liên Xô tan rã, các nước xã hội chủ nghĩa còn lại kiên trì con đường đã chọn và tiến hành cải cách, đổi mới, đạt nhiều thành tựu lớn về kinh tế – xã hội.",
+   "facts": [
+    "Sau năm 1991, các nước Trung Quốc, Việt Nam, Lào, Cuba và Triều Tiên tiếp tục kiên trì con đường xã hội chủ nghĩa và đẩy mạnh cải cách, đổi mới.",
+    "Trung Quốc bắt đầu công cuộc cải cách mở cửa từ Hội nghị Trung ương ngày 18/12/1978 do Đặng Tiểu Bình khởi xướng, với các nội dung như phi tập thể hóa nông nghiệp, mở cửa thu hút đầu tư nước ngoài và bãi bỏ kiểm soát giá cả.",
+    "Nhờ cải cách mở cửa, kinh tế Trung Quốc tăng trưởng khoảng 9,5% mỗi năm trong giai đoạn 1978 – 2013, trở thành một trong những nền kinh tế lớn nhất thế giới.",
+    "Việt Nam bắt đầu công cuộc Đổi mới từ Đại hội lần thứ VI của Đảng Cộng sản Việt Nam vào tháng 12/1986, chuyển từ nền kinh tế kế hoạch hóa tập trung sang kinh tế thị trường định hướng xã hội chủ nghĩa.",
+    "Nhờ Đổi mới, quy mô nền kinh tế Việt Nam tăng từ mức rất thấp giữa thập niên 1980 (thu nhập bình quân đầu người dưới 100 USD, lạm phát năm 1986 lên tới 774%) lên hơn 400 tỉ USD vào đầu thập niên 2020; tỉ lệ nghèo giảm từ hơn 70% khi bắt đầu Đổi mới xuống dưới 3%, và Việt Nam trở thành nước xuất khẩu gạo hàng đầu thế giới.",
+    "Chính vì rút kinh nghiệm từ sự sụp đổ của mô hình cũ ở Liên Xô và Đông Âu mà Trung Quốc và Việt Nam chọn cách vừa đổi mới kinh tế vừa giữ vững vai trò lãnh đạo của Đảng Cộng sản và định hướng xã hội chủ nghĩa."
+   ],
+   "traps": [
+    "SAI: Việt Nam bắt đầu Đổi mới năm 1991 hoặc 1975. ĐÚNG: từ Đại hội VI tháng 12/1986.",
+    "SAI: cải cách mở cửa của Trung Quốc bắt đầu sau khi Liên Xô tan rã. ĐÚNG: Trung Quốc cải cách mở cửa từ năm 1978, tức 13 năm trước khi Liên Xô tan rã.",
+    "SAI: kinh tế thị trường định hướng xã hội chủ nghĩa nghĩa là từ bỏ chủ nghĩa xã hội. ĐÚNG: đây là mô hình vừa vận hành theo cơ chế thị trường vừa giữ vai trò quản lý của Nhà nước và định hướng xã hội chủ nghĩa."
+   ],
+   "topic_title": "Chủ nghĩa xã hội từ năm 1991 đến nay",
+   "lessons": [
+    {
+     "book": "CTST",
+     "bai": 4
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Cải_cách_kinh_tế_Trung_Quốc",
+    "https://vi.wikipedia.org/wiki/Đổi_Mới"
+   ],
+   "fixed": [
+    "Số liệu Đổi mới: bỏ con số 'GDP 4,5 tỉ USD năm 1986' và 'hộ nghèo trên 75%' không kiểm chứng được -> thay bằng số liệu có nguồn (thu nhập đầu người <100 USD, lạm phát 774% năm 1986; nghèo >70% -> dưới 3%; quy mô kinh tế >400 tỉ USD)"
+   ]
+  },
+  {
+   "name": "Trần Phú — Tổng Bí thư đầu tiên của Đảng (10/1930)",
+   "kind": "person",
+   "year": 1930,
+   "date_start": "1904-05-01",
+   "date_end": "1931-09-06",
+   "place": "Hương Cảng (Trung Quốc) và Sài Gòn",
+   "actors": [
+    "Trần Phú",
+    "Ban Chấp hành Trung ương Đảng Cộng sản Đông Dương",
+    "Nguyễn Ái Quốc"
+   ],
+   "aliases": [
+    "Trần Phú",
+    "Tổng Bí thư đầu tiên của Đảng",
+    "Tổng Bí thư đầu tiên Đảng Cộng sản Việt Nam",
+    "Luận cương chính trị tháng 10/1930",
+    "Hội nghị Ban Chấp hành Trung ương lần thứ nhất 10/1930",
+    "Hãy giữ vững chí khí chiến đấu"
+   ],
+   "summary": "Trần Phú (1904 – 1931) được bầu làm Tổng Bí thư ĐẦU TIÊN của Đảng tại Hội nghị Ban Chấp hành Trung ương lần thứ nhất họp tháng 10/1930 ở Hương Cảng, đồng thời là người soạn thảo Luận cương chính trị.",
+   "facts": [
+    "Trần Phú sinh ngày 1/5/1904 tại thành An Thổ, huyện Tuy An, tỉnh Phú Yên; quê gốc ở làng Tùng Ảnh, huyện Đức Thọ (nay thuộc tỉnh Hà Tĩnh).",
+    "Tháng 10/1930, Hội nghị Ban Chấp hành Trung ương lần thứ nhất họp ở Hương Cảng (Trung Quốc) đã đổi tên Đảng thành Đảng Cộng sản Đông Dương, thông qua Luận cương chính trị do Trần Phú soạn thảo và bầu ông làm TỔNG BÍ THƯ ĐẦU TIÊN của Đảng khi ông mới 26 tuổi.",
+    "Chính vì Nguyễn Ái Quốc chủ trì Hội nghị hợp nhất ngày 3/2/1930 thành lập Đảng Cộng sản Việt Nam nhưng hội nghị đó chỉ lập Ban Chấp hành Trung ương lâm thời và KHÔNG bầu chức Tổng Bí thư, nên người giữ chức Tổng Bí thư đầu tiên là Trần Phú từ tháng 10/1930, chứ không phải Nguyễn Ái Quốc.",
+    "Ngày 18/4/1931, Trần Phú bị thực dân Pháp bắt tại Sài Gòn; ông hy sinh ngày 6/9/1931 tại Nhà thương Chợ Quán khi mới 27 tuổi.",
+    "Trước khi mất, ông nhắn lại đồng chí câu nói bất hủ: 'Hãy giữ vững chí khí chiến đấu'."
+   ],
+   "traps": [
+    "SAI: Tổng Bí thư đầu tiên của Đảng là Nguyễn Ái Quốc (Hồ Chí Minh). ĐÚNG: Tổng Bí thư ĐẦU TIÊN là TRẦN PHÚ, được bầu tháng 10/1930; Nguyễn Ái Quốc là người sáng lập Đảng (3/2/1930) nhưng không giữ chức Tổng Bí thư khi đó.",
+    "SAI: Trần Phú được bầu Tổng Bí thư ngay tại Hội nghị thành lập Đảng ngày 3/2/1930. ĐÚNG: tại Hội nghị Ban Chấp hành Trung ương lần thứ nhất, tháng 10/1930, ở Hương Cảng.",
+    "SAI: văn kiện Trần Phú soạn thảo là Cương lĩnh chính trị đầu tiên. ĐÚNG: Cương lĩnh chính trị đầu tiên (2/1930) do Nguyễn Ái Quốc soạn; Trần Phú soạn LUẬN CƯƠNG chính trị tháng 10/1930."
+   ],
+   "topic_title": "Ôn tập lịch sử thế giới hiện đại (Phần từ năm 1917 đến năm 1945)",
+   "lessons": [],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Tr%E1%BA%A7n_Ph%C3%BA",
+    "https://special.nhandan.vn/nhung-cong-hien-cua-Tong-Bi-thu-Tran-Phu-voi-cach-mang-Vietnam/index.html",
+    "https://tapchilichsudang.vn/dong-chi-tran-phu-voi-luan-cuong-chanh-tri-cua-dang-cong-san-dong-duong-thang-10-1930.html"
+   ],
+   "fixed": [
+    "Thẻ MỚI bổ sung để phủ bẫy: Tổng Bí thư đầu tiên của Đảng = Trần Phú (10/1930), không phải Nguyễn Ái Quốc"
+   ]
+  }
+ ]
+}

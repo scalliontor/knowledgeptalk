@@ -1,0 +1,1961 @@
+{
+ "grade": 9,
+ "chunk": 3,
+ "cards": [
+  {
+   "name": "Trận Vạn Tường",
+   "kind": "battle",
+   "year": 1965,
+   "date_start": "1965-08-18",
+   "date_end": "1965-08-18",
+   "place": "Thôn Vạn Tường, xã Bình Hải, huyện Bình Sơn, tỉnh Quảng Ngãi",
+   "actors": [
+    "Quân giải phóng miền Nam Việt Nam (Trung đoàn 1 Ba Gia, Quân khu 5)",
+    "Lính thủy đánh bộ Mỹ"
+   ],
+   "aliases": [
+    "Vạn Tường",
+    "chiến thắng Vạn Tường",
+    "trận đánh Vạn Tường",
+    "Van Tuong",
+    "Operation Starlite",
+    "Chiến dịch Ánh sao"
+   ],
+   "summary": "Trận đánh lớn đầu tiên giữa Quân giải phóng miền Nam và quân viễn chinh Mỹ, ngày 18/8/1965 ở Quảng Ngãi, mở đầu cao trào diệt Mỹ trong chiến lược Chiến tranh cục bộ.",
+   "facts": [
+    "Trận Vạn Tường nổ ra ngày 18/8/1965 tại thôn Vạn Tường, huyện Bình Sơn, tỉnh Quảng Ngãi, chỉ vài tháng sau khi quân viễn chinh Mỹ ồ ạt đổ bộ vào miền Nam Việt Nam.",
+    "Trong trận này Mỹ huy động khoảng 9.000 quân cùng 105 xe tăng và xe bọc thép, 100 máy bay lên thẳng và 70 máy bay phản lực, 6 tàu chiến yểm trợ, mở cuộc hành quân quy mô lớn (phía Mỹ gọi là Operation Starlite) hòng quét sạch lực lượng cách mạng ở vùng ven biển Quảng Ngãi.",
+    "Lực lượng giải phóng tại chỗ chỉ khoảng 2.000 người nhưng dựa vào công sự, địa đạo và cách đánh du kích để bám trụ chống trả suốt ngày 18/8/1965 rồi rút ra an toàn.",
+    "Vì Vạn Tường chứng minh quân dân miền Nam có thể đánh thắng quân viễn chinh Mỹ ngay khi chúng đông và mạnh hơn nhiều, nên sau trận này dấy lên cao trào 'tìm Mỹ mà đánh, lùng ngụy mà diệt' khắp miền Nam.",
+    "Trận Vạn Tường năm 1965 được ví như 'Ấp Bắc đối với quân Mỹ', mở đầu cho việc đánh bại chiến lược Chiến tranh cục bộ (1965-1968) của Mỹ."
+   ],
+   "traps": [
+    "Trận Vạn Tường 18/8/1965 thuộc chiến lược 'Chiến tranh cục bộ', KHÔNG phải 'Chiến tranh đặc biệt' (1961-1965).",
+    "Vạn Tường thuộc tỉnh Quảng Ngãi, không phải Quảng Nam hay Bình Định.",
+    "Đây là trận đối đầu lớn đầu tiên với quân viễn chinh MỸ; trận Ấp Bắc (2/1/1963) mới là trận đánh bại quân đội Sài Gòn thời Chiến tranh đặc biệt."
+   ],
+   "topic_title": "Cả nước trực tiếp chiến đấu chống Mĩ, cứu nước (1965 - 1973)",
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 29
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Tr%E1%BA%ADn_V%E1%BA%A1n_T%C6%B0%E1%BB%9Dng"
+   ],
+   "fixed": [
+    "chuẩn hoá số liệu lực lượng Mỹ: 'hơn 100 xe tăng và xe bọc thép, có máy bay, tàu chiến' -> đúng '105 xe tăng và xe bọc thép, 100 máy bay lên thẳng và 70 máy bay phản lực, 6 tàu chiến'"
+   ]
+  },
+  {
+   "name": "Cuộc Tổng tiến công và nổi dậy Xuân Mậu Thân 1968",
+   "kind": "campaign",
+   "year": 1968,
+   "date_start": "1968-01-30",
+   "date_end": "1968-09-30",
+   "place": "Toàn miền Nam Việt Nam, trọng điểm là Sài Gòn - Gia Định, Huế, Đà Nẵng",
+   "actors": [
+    "Quân giải phóng miền Nam Việt Nam",
+    "Quân đội nhân dân Việt Nam",
+    "Quân Mỹ và quân đội Sài Gòn"
+   ],
+   "aliases": [
+    "Tết Mậu Thân 1968",
+    "Sự kiện Tết Mậu Thân",
+    "Mậu Thân 1968",
+    "Tổng tiến công Mậu Thân",
+    "Tet Offensive"
+   ],
+   "summary": "Đòn tiến công bất ngờ đồng loạt vào các đô thị miền Nam đêm giao thừa Tết Mậu Thân 1968, làm lung lay ý chí xâm lược của Mỹ và buộc Mỹ ngồi vào bàn đàm phán Paris.",
+   "facts": [
+    "Cuộc Tổng tiến công và nổi dậy Xuân Mậu Thân mở màn đồng loạt vào đêm 30 rạng sáng 31/1/1968 ở Sài Gòn và hầu khắp miền Nam (tức đêm mồng 1 Tết theo lịch dùng ở miền Nam khi đó); riêng chiến trường Khu 5 và Tây Nguyên nổ súng sớm hơn một ngày, đêm 29 rạng 30/1/1968 — đúng giao thừa theo lịch miền Bắc. Quân Mỹ và quân đội Sài Gòn hoàn toàn bị bất ngờ.",
+    "Cuộc tổng tiến công diễn ra thành ba đợt trong năm 1968: đợt một từ 30/1 đến 28/3, đợt hai từ 5/5 đến 15/6 và đợt ba từ 17/8 đến 30/9.",
+    "Quân giải phóng đánh vào hầu hết các thành phố, thị xã miền Nam, trọng điểm là Sài Gòn - Gia Định, Huế và Đà Nẵng; ở Sài Gòn ta đánh cả vào Tòa Đại sứ Mỹ, còn ở Huế ta làm chủ thành phố suốt gần một tháng.",
+    "Về mặt quân sự hai bên đều tổn thất nặng và lực lượng ta phải rút khỏi các đô thị, nhưng về chiến lược đây là đòn bất ngờ có ý nghĩa bước ngoặt của cuộc kháng chiến chống Mỹ.",
+    "Chính vì cú sốc Mậu Thân 1968 mà Mỹ phải tuyên bố 'phi Mỹ hóa' chiến tranh, ngừng ném bom miền Bắc và chấp nhận ngồi vào bàn đàm phán với ta ở Paris từ tháng 5/1968 — quan hệ nhân quả là Mậu Thân dẫn tới đàm phán Paris, chứ không phải ngược lại."
+   ],
+   "traps": [
+    "Mậu Thân 1968 nổ ra dịp Tết Nguyên đán Mậu Thân (đêm 29 rạng 30/1 ở Khu 5 - Tây Nguyên, đêm 30 rạng 31/1/1968 ở Sài Gòn và các nơi còn lại), KHÔNG phải đêm giao thừa dương lịch 31/12.",
+    "Chính Mậu Thân 1968 buộc Mỹ chấp nhận đàm phán Paris (khai mạc tháng 5/1968), chứ không phải đàm phán Paris có trước rồi mới có Mậu Thân.",
+    "Mậu Thân 1968 làm phá sản chiến lược 'Chiến tranh cục bộ', chưa phải là chiến dịch kết thúc chiến tranh; miền Nam được giải phóng mãi tới 30/4/1975."
+   ],
+   "topic_title": "Cả nước trực tiếp chiến đấu chống Mĩ, cứu nước (1965 - 1973)",
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 29
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/S%E1%BB%B1_ki%E1%BB%87n_T%E1%BA%BFt_M%E1%BA%ADu_Th%C3%A2n",
+    "https://vi.wikipedia.org/wiki/Hi%E1%BB%87p_%C4%91%E1%BB%8Bnh_Paris_1973"
+   ],
+   "fixed": [
+    "mốc mở màn: 'đêm 30 rạng 31/1/1968 đúng dịp giao thừa' -> đúng là đêm mồng 1 Tết theo lịch miền Nam; giao thừa (đêm 29 rạng 30/1) là lúc Khu 5 - Tây Nguyên nổ súng sớm hơn một ngày do lệch lịch"
+   ]
+  },
+  {
+   "name": "Chiến lược \"Việt Nam hóa chiến tranh\"",
+   "kind": "concept",
+   "year": 1969,
+   "date_start": "1969-06-08",
+   "date_end": "1973-01-27",
+   "place": "Miền Nam Việt Nam và toàn Đông Dương",
+   "actors": [
+    "Tổng thống Mỹ Richard Nixon",
+    "Quân đội Sài Gòn (Việt Nam Cộng hòa)"
+   ],
+   "aliases": [
+    "Việt Nam hóa chiến tranh",
+    "Đông Dương hóa chiến tranh",
+    "Vietnamization",
+    "chiến lược Nichxơn",
+    "dùng người Việt đánh người Việt"
+   ],
+   "summary": "Chiến lược chiến tranh của Mỹ dưới thời Tổng thống Nixon từ năm 1969: rút dần quân Mỹ, đẩy quân đội Sài Gòn ra chiến đấu thay nhưng vẫn do cố vấn và hỏa lực Mỹ chi phối.",
+   "facts": [
+    "Chiến lược 'Việt Nam hóa chiến tranh' được Tổng thống Mỹ Richard Nixon chính thức áp dụng từ giữa năm 1969, sau khi chiến lược Chiến tranh cục bộ thất bại vì đòn Mậu Thân 1968.",
+    "Công thức của chiến lược này là tăng cường quân đội Sài Gòn để thay dần quân viễn chinh Mỹ rút về nước, tức là 'dùng người Việt Nam đánh người Việt Nam'.",
+    "Dù quân Mỹ rút dần, các cuộc hành quân vẫn do cố vấn Mỹ chỉ huy và dựa vào hỏa lực pháo binh, không quân Mỹ, nên bản chất vẫn là chiến tranh xâm lược thực dân mới của Mỹ.",
+    "Mỹ mở rộng chiến lược này ra toàn Đông Dương, gọi là 'Đông Dương hóa chiến tranh', với cuộc hành quân sang Campuchia năm 1970 và sang Đường 9 - Nam Lào năm 1971.",
+    "Vì chiến lược Việt Nam hóa chiến tranh bị đánh bại trên chiến trường, đỉnh cao là cuộc Tiến công chiến lược năm 1972 và trận 'Điện Biên Phủ trên không' tháng 12/1972, nên Mỹ buộc phải ký Hiệp định Paris ngày 27/1/1973."
+   ],
+   "traps": [
+    "'Việt Nam hóa chiến tranh' bắt đầu năm 1969 dưới thời Tổng thống Nixon, không phải thời Tổng thống Johnson (người gắn với Chiến tranh cục bộ 1965-1968).",
+    "'Việt Nam hóa chiến tranh' không có nghĩa Mỹ rút hết khỏi cuộc chiến: Mỹ vẫn giữ cố vấn, viện trợ và yểm trợ hỏa lực, không quân cho quân đội Sài Gòn.",
+    "Lực lượng chiến đấu chủ yếu trong giai đoạn 1969-1973 là quân đội Sài Gòn, không phải quân viễn chinh Mỹ như giai đoạn 1965-1968."
+   ],
+   "topic_title": "Cả nước trực tiếp chiến đấu chống Mĩ, cứu nước (1965 - 1973)",
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 29
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Vi%E1%BB%87t_Nam_h%C3%B3a_chi%E1%BA%BFn_tranh",
+    "https://loigiaihay.com/chien-dau-chong-chien-luoc-viet-nam-hoa-chien-tranh-c87a8285.html"
+   ]
+  },
+  {
+   "name": "Chiến dịch \"Điện Biên Phủ trên không\" (12/1972)",
+   "kind": "campaign",
+   "year": 1972,
+   "date_start": "1972-12-18",
+   "date_end": "1972-12-29",
+   "place": "Hà Nội, Hải Phòng và một số tỉnh miền Bắc Việt Nam",
+   "actors": [
+    "Bộ đội Phòng không - Không quân Việt Nam",
+    "Không lực Hoa Kỳ (máy bay B-52)"
+   ],
+   "aliases": [
+    "Điện Biên Phủ trên không",
+    "Hà Nội - Điện Biên Phủ trên không",
+    "12 ngày đêm cuối năm 1972",
+    "Chiến dịch Linebacker II",
+    "Linebacker 2",
+    "trận Điện Biên Phủ trên không 1972"
+   ],
+   "summary": "Cuộc tập kích chiến lược bằng máy bay B-52 của Mỹ vào Hà Nội, Hải Phòng suốt 12 ngày đêm cuối tháng 12/1972 bị quân dân miền Bắc đánh bại, buộc Mỹ trở lại ký Hiệp định Paris.",
+   "facts": [
+    "Chiến dịch mà nhân dân ta gọi là 'Điện Biên Phủ trên không' diễn ra trong 12 ngày đêm, từ ngày 18/12 đến hết ngày 29/12/1972; phía Mỹ đặt tên cho cuộc tập kích này là Linebacker II.",
+    "Mỹ dùng máy bay ném bom chiến lược B-52 cùng nhiều loại máy bay chiến thuật đánh phá dữ dội Hà Nội, Hải Phòng và các tỉnh như Thái Nguyên, Lạng Sơn, Bắc Giang, hòng đưa miền Bắc 'trở về thời kỳ đồ đá'.",
+    "Quân dân miền Bắc bắn rơi 81 máy bay trong 12 ngày đêm, trong đó có 34 máy bay B-52 và 5 máy bay F-111 — B-52 là loại 'pháo đài bay' mà Mỹ coi là bất khả xâm phạm.",
+    "Vì cuộc tập kích bằng B-52 tháng 12/1972 thất bại nặng nề, Mỹ phải tuyên bố ngừng ném bom miền Bắc từ ngày 30/12/1972 và trở lại bàn đàm phán, dẫn tới việc ký Hiệp định Paris ngày 27/1/1973.",
+    "Chiến thắng 'Điện Biên Phủ trên không' cuối năm 1972 được coi là trận quyết định buộc Mỹ phải chấp nhận rút quân, giống như vai trò của chiến dịch Điện Biên Phủ năm 1954 đối với thực dân Pháp."
+   ],
+   "traps": [
+    "'Điện Biên Phủ trên không' diễn ra tháng 12 NĂM 1972 (18-29/12/1972), KHÔNG phải năm 1973; năm 1973 là năm ký Hiệp định Paris (27/1/1973).",
+    "'Điện Biên Phủ trên không' là trận đánh trên bầu trời Hà Nội - Hải Phòng chống máy bay B-52 của Mỹ, hoàn toàn khác Chiến dịch Điện Biên Phủ năm 1954 đánh Pháp ở lòng chảo Điện Biên (Tây Bắc).",
+    "Trận đánh xảy ra TRƯỚC và là nguyên nhân buộc Mỹ ký Hiệp định Paris, chứ không phải xảy ra sau khi đã ký hiệp định."
+   ],
+   "topic_title": "Cả nước trực tiếp chiến đấu chống Mĩ, cứu nước (1965 - 1973)",
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 29
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_d%E1%BB%8Bch_%C4%90i%E1%BB%87n_Bi%C3%AAn_Ph%E1%BB%A7_tr%C3%AAn_kh%C3%B4ng"
+   ],
+   "fixed": [
+    "bổ sung số liệu thiếu: 81 máy bay gồm 34 B-52 VÀ 5 F-111 (theo SGK)"
+   ]
+  },
+  {
+   "name": "Hiệp định Paris về chấm dứt chiến tranh, lập lại hòa bình ở Việt Nam (1973)",
+   "kind": "treaty",
+   "year": 1973,
+   "date_start": "1973-01-27",
+   "date_end": "1973-01-27",
+   "place": "Paris, Cộng hòa Pháp",
+   "actors": [
+    "Việt Nam Dân chủ Cộng hòa (Nguyễn Duy Trinh)",
+    "Chính phủ Cách mạng lâm thời Cộng hòa miền Nam Việt Nam (Nguyễn Thị Bình)",
+    "Hoa Kỳ (William P. Rogers)",
+    "Việt Nam Cộng hòa (Trần Văn Lắm)"
+   ],
+   "aliases": [
+    "Hiệp định Paris 1973",
+    "Hiệp định Pa-ri",
+    "Paris Peace Accords",
+    "Hiệp định Pari về Việt Nam",
+    "hiệp định chấm dứt chiến tranh lập lại hòa bình ở Việt Nam"
+   ],
+   "summary": "Hiệp định ký ngày 27/1/1973 tại Paris giữa bốn bên, buộc Mỹ rút hết quân khỏi miền Nam Việt Nam và tôn trọng các quyền dân tộc cơ bản của nhân dân Việt Nam.",
+   "facts": [
+    "Hiệp định Paris được ký chính thức ngày 27/1/1973 tại thủ đô Paris của nước Pháp, sau gần 5 năm đàm phán kéo dài từ tháng 5/1968.",
+    "Hiệp định có bốn bên tham gia ký kết: Việt Nam Dân chủ Cộng hòa, Chính phủ Cách mạng lâm thời Cộng hòa miền Nam Việt Nam, Hoa Kỳ và Việt Nam Cộng hòa; bà Nguyễn Thị Bình là người ký thay mặt Chính phủ Cách mạng lâm thời.",
+    "Theo hiệp định, Hoa Kỳ và các nước đồng minh cam kết tôn trọng độc lập, chủ quyền, thống nhất và toàn vẹn lãnh thổ của Việt Nam, chấm dứt mọi hoạt động quân sự chống miền Bắc.",
+    "Hiệp định quy định ngừng bắn tại chỗ ở miền Nam và Mỹ phải rút hết quân viễn chinh cùng quân đồng minh trong vòng 60 ngày; ngày 29/3/1973 những đơn vị lính Mỹ cuối cùng rời khỏi miền Nam Việt Nam.",
+    "Vì Hiệp định Paris buộc Mỹ rút quân mà lực lượng cách mạng vẫn ở lại miền Nam, nên hiệp định tạo ra so sánh lực lượng có lợi để ta tiến lên giải phóng hoàn toàn miền Nam vào mùa Xuân năm 1975."
+   ],
+   "traps": [
+    "Hiệp định Paris được ký ngày 27/1/1973 tại PARIS (Pháp), không phải ở Genève hay Hà Nội.",
+    "Hiệp định Paris có BỐN bên ký; Hiệp định Genève 1954 mới là hiệp định về Đông Dương ký ở Thụy Sĩ năm 1954.",
+    "Ký Hiệp định Paris (1973) chưa phải là ngày giải phóng miền Nam; miền Nam được hoàn toàn giải phóng ngày 30/4/1975."
+   ],
+   "topic_title": "Hoàn thành giải phóng miền Nam, thống nhất đất nước (1973 - 1975)",
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 30
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Hi%E1%BB%87p_%C4%91%E1%BB%8Bnh_Paris_1973"
+   ]
+  },
+  {
+   "name": "Chiến dịch Tây Nguyên (1975)",
+   "kind": "campaign",
+   "year": 1975,
+   "date_start": "1975-03-04",
+   "date_end": "1975-03-24",
+   "place": "Tây Nguyên, trọng điểm là thị xã Buôn Ma Thuột (Đắk Lắk)",
+   "actors": [
+    "Quân đội nhân dân Việt Nam (Tư lệnh Hoàng Minh Thảo)",
+    "Quân đoàn 2 quân đội Sài Gòn (Phạm Văn Phú)"
+   ],
+   "aliases": [
+    "chiến dịch Tây Nguyên",
+    "trận Buôn Ma Thuột",
+    "chiến dịch 275",
+    "giải phóng Buôn Ma Thuột",
+    "Buôn Mê Thuột"
+   ],
+   "summary": "Chiến dịch mở màn cuộc Tổng tiến công và nổi dậy Xuân 1975, đánh vào Buôn Ma Thuột ngày 10/3/1975 khiến toàn bộ phòng tuyến Tây Nguyên của địch sụp đổ.",
+   "facts": [
+    "Chiến dịch Tây Nguyên diễn ra từ ngày 4/3 đến ngày 24/3/1975, là chiến dịch mở màn cuộc Tổng tiến công và nổi dậy mùa Xuân năm 1975.",
+    "Ta chọn Buôn Ma Thuột làm trận then chốt mở màn vì đây là nơi địch sơ hở, đồng thời nghi binh mạnh ở Plei-cu và Kon Tum để địch dồn quân lên phía bắc Tây Nguyên.",
+    "Trận đánh Buôn Ma Thuột diễn ra ngày 10 và 11/3/1975, quân ta nhanh chóng làm chủ thị xã, khiến hệ thống phòng thủ Tây Nguyên của quân đội Sài Gòn bị chia cắt.",
+    "Vì mất Buôn Ma Thuột và phản kích thất bại, ngày 14/3/1975 Nguyễn Văn Thiệu ra lệnh rút toàn bộ Quân đoàn II khỏi Tây Nguyên về giữ vùng duyên hải miền Trung; cuộc rút quân bắt đầu từ ngày 16/3 theo đường số 7 và nhanh chóng biến thành cuộc tháo chạy hỗn loạn, bị ta truy kích tiêu diệt.",
+    "Đến ngày 24/3/1975 Tây Nguyên rộng lớn được giải phóng, chiến dịch này đã chuyển cuộc kháng chiến chống Mỹ từ tiến công chiến lược ở Tây Nguyên thành tổng tiến công chiến lược trên toàn miền Nam."
+   ],
+   "traps": [
+    "Trận then chốt mở màn Tổng tiến công 1975 là BUÔN MA THUỘT (10/3/1975), không phải Plei-cu hay Kon Tum — Plei-cu, Kon Tum chỉ là hướng nghi binh.",
+    "Chiến dịch Tây Nguyên là chiến dịch MỞ ĐẦU (tháng 3/1975), còn Chiến dịch Hồ Chí Minh mới là chiến dịch kết thúc (tháng 4/1975).",
+    "Buôn Ma Thuột thuộc tỉnh Đắk Lắk (Tây Nguyên), không thuộc vùng duyên hải miền Trung."
+   ],
+   "topic_title": "Hoàn thành giải phóng miền Nam, thống nhất đất nước (1973 - 1975)",
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 30
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_d%E1%BB%8Bch_T%C3%A2y_Nguy%C3%AAn"
+   ],
+   "fixed": [
+    "chiều nhân-quả + mốc: 'ngày 14/3 địch buộc phải rút theo đường số 7' -> đúng là 14/3 Nguyễn Văn Thiệu RA LỆNH rút, cuộc rút chạy trên đường số 7 bắt đầu từ 16/3/1975"
+   ]
+  },
+  {
+   "name": "Chiến dịch Huế - Đà Nẵng (1975)",
+   "kind": "campaign",
+   "year": 1975,
+   "date_start": "1975-03-21",
+   "date_end": "1975-03-29",
+   "place": "Thừa Thiên Huế và Đà Nẵng",
+   "actors": [
+    "Quân đội nhân dân Việt Nam (Tư lệnh Lê Trọng Tấn, Chính ủy Chu Huy Mân)",
+    "Quân đoàn 1 quân đội Sài Gòn"
+   ],
+   "aliases": [
+    "chiến dịch Huế - Đà Nẵng",
+    "giải phóng Huế 1975",
+    "giải phóng Đà Nẵng 1975",
+    "chiến dịch Trị - Thiên - Huế"
+   ],
+   "summary": "Chiến dịch thứ hai của Tổng tiến công Xuân 1975, giải phóng Huế ngày 26/3 và Đà Nẵng ngày 29/3/1975, xóa sổ tuyến phòng thủ của địch ở miền Trung.",
+   "facts": [
+    "Chiến dịch Huế - Đà Nẵng diễn ra từ ngày 21/3 đến ngày 29/3/1975, tiếp ngay sau thắng lợi của chiến dịch Tây Nguyên.",
+    "Ngày 26/3/1975, quân ta tiêu diệt Sư đoàn 1 của địch và giải phóng thành phố Huế cùng toàn tỉnh Thừa Thiên.",
+    "Đến chiều 29/3/1975, quân ta làm chủ bán đảo Sơn Trà và toàn bộ căn cứ liên hợp Đà Nẵng, thành phố Đà Nẵng được hoàn toàn giải phóng.",
+    "Chiến dịch do tướng Lê Trọng Tấn làm Tư lệnh và tướng Chu Huy Mân làm Chính ủy, đánh vào căn cứ quân sự liên hợp lớn nhất của Mỹ - ngụy ở miền Trung.",
+    "Vì mất Huế và Đà Nẵng chỉ trong hơn một tuần, toàn bộ tuyến phòng thủ chiến lược miền Trung của quân đội Sài Gòn tan rã, mở đường cho ta tiến thẳng vào Sài Gòn trong Chiến dịch Hồ Chí Minh."
+   ],
+   "traps": [
+    "Huế được giải phóng ngày 26/3/1975 còn Đà Nẵng ngày 29/3/1975 — hai mốc khác nhau trong cùng một chiến dịch.",
+    "Chiến dịch Huế - Đà Nẵng là chiến dịch THỨ HAI của Tổng tiến công Xuân 1975, sau chiến dịch Tây Nguyên và trước Chiến dịch Hồ Chí Minh."
+   ],
+   "topic_title": "Hoàn thành giải phóng miền Nam, thống nhất đất nước (1973 - 1975)",
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 30
+    }
+   ],
+   "sources": [
+    "http://baotanglichsu.vn/vi/Articles/3097/13899/chien-dich-hue-dja-nang-21-3-djen-29-3-1975.html",
+    "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_d%E1%BB%8Bch_Hu%E1%BA%BF_%E2%80%93_%C4%90%C3%A0_N%E1%BA%B5ng"
+   ]
+  },
+  {
+   "name": "Chiến dịch Hồ Chí Minh (1975)",
+   "kind": "campaign",
+   "year": 1975,
+   "date_start": "1975-04-26",
+   "date_end": "1975-04-30",
+   "place": "Sài Gòn - Gia Định",
+   "actors": [
+    "Tư lệnh Văn Tiến Dũng",
+    "Chính ủy Phạm Hùng",
+    "Đại tướng Võ Nguyên Giáp",
+    "Tổng thống Việt Nam Cộng hòa Dương Văn Minh"
+   ],
+   "aliases": [
+    "chiến dịch Hồ Chí Minh",
+    "chiến dịch giải phóng Sài Gòn",
+    "chiến dịch giải phóng Sài Gòn - Gia Định",
+    "30/4/1975",
+    "ngày giải phóng miền Nam"
+   ],
+   "summary": "Chiến dịch quyết chiến chiến lược cuối cùng từ 26 đến 30/4/1975, đánh vào Sài Gòn, kết thúc thắng lợi cuộc kháng chiến chống Mỹ cứu nước.",
+   "facts": [
+    "Chiến dịch Hồ Chí Minh diễn ra từ ngày 26/4 đến ngày 30/4/1975, là chiến dịch quyết chiến chiến lược cuối cùng của cuộc kháng chiến chống Mỹ, cứu nước; Đại tướng Văn Tiến Dũng làm Tư lệnh, đồng chí Phạm Hùng làm Chính ủy chiến dịch.",
+    "Bộ Chính trị quyết định lấy tên Bác Hồ đặt cho chiến dịch giải phóng Sài Gòn - Gia Định, với tinh thần chỉ đạo nổi tiếng của Đại tướng Võ Nguyên Giáp: 'Thần tốc, thần tốc hơn nữa; táo bạo, táo bạo hơn nữa'.",
+    "Năm cánh quân của ta từ năm hướng đồng loạt tiến vào Sài Gòn, nhằm vào năm mục tiêu then chốt: Bộ Tổng tham mưu, Biệt khu Thủ đô, Tổng nha Cảnh sát, sân bay Tân Sơn Nhất và Dinh Độc Lập.",
+    "Trưa 30/4/1975, xe tăng quân giải phóng húc đổ cổng Dinh Độc Lập, Tổng thống Dương Văn Minh của chính quyền Sài Gòn phải tuyên bố đầu hàng không điều kiện.",
+    "Vì Chiến dịch Hồ Chí Minh toàn thắng ngày 30/4/1975, miền Nam được hoàn toàn giải phóng, chấm dứt 21 năm chia cắt đất nước kể từ Hiệp định Genève 1954."
+   ],
+   "traps": [
+    "Chiến dịch mang tên Hồ Chí Minh do Văn Tiến Dũng làm Tư lệnh; Đại tướng Võ Nguyên Giáp chỉ đạo chung từ Bộ Tổng tư lệnh chứ không trực tiếp cầm quân ở mặt trận Sài Gòn.",
+    "Người tuyên bố đầu hàng ngày 30/4/1975 là Dương Văn Minh, không phải Nguyễn Văn Thiệu (Thiệu đã từ chức ngày 21/4/1975).",
+    "Ngày 30/4/1975 là ngày giải phóng miền Nam; đất nước thống nhất về mặt nhà nước phải đến kỳ họp Quốc hội khóa VI năm 1976 mới hoàn thành."
+   ],
+   "topic_title": "Hoàn thành giải phóng miền Nam, thống nhất đất nước (1973 - 1975)",
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 30
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_d%E1%BB%8Bch_H%E1%BB%93_Ch%C3%AD_Minh"
+   ],
+   "fixed": [
+    "bổ sung Chính ủy chiến dịch là Phạm Hùng (trước đây chỉ nêu Tư lệnh Văn Tiến Dũng)"
+   ]
+  },
+  {
+   "name": "Kỳ họp thứ nhất Quốc hội khóa VI (1976)",
+   "kind": "event",
+   "year": 1976,
+   "date_start": "1976-06-24",
+   "date_end": "1976-07-03",
+   "place": "Hội trường Ba Đình, Hà Nội",
+   "actors": [
+    "Quốc hội nước Việt Nam thống nhất",
+    "Chủ tịch nước Tôn Đức Thắng",
+    "Chủ tịch Quốc hội Trường Chinh",
+    "Thủ tướng Phạm Văn Đồng"
+   ],
+   "aliases": [
+    "Quốc hội khóa VI",
+    "kỳ họp thứ nhất Quốc hội khóa VI",
+    "thống nhất đất nước về mặt nhà nước",
+    "đổi tên nước Cộng hòa xã hội chủ nghĩa Việt Nam",
+    "tổng tuyển cử 25/4/1976"
+   ],
+   "summary": "Kỳ họp cuối tháng 6 đầu tháng 7/1976 của Quốc hội chung cả nước, quyết định tên nước Cộng hòa xã hội chủ nghĩa Việt Nam, hoàn thành thống nhất đất nước về mặt nhà nước.",
+   "facts": [
+    "Ngày 25/4/1976, hơn 23 triệu cử tri cả nước đi bầu Quốc hội chung của nước Việt Nam thống nhất, bầu ra 492 đại biểu Quốc hội khóa VI.",
+    "Kỳ họp thứ nhất của Quốc hội khóa VI diễn ra từ ngày 24/6 đến ngày 3/7/1976 tại Hội trường Ba Đình, Hà Nội.",
+    "Ngày 2/7/1976, Quốc hội quyết nghị lấy tên nước là Cộng hòa xã hội chủ nghĩa Việt Nam, quy định Quốc kỳ là cờ đỏ sao vàng, Quốc ca là bài Tiến quân ca và thủ đô là Hà Nội.",
+    "Cũng tại kỳ họp này, Quốc hội quyết định đổi tên thành phố Sài Gòn - Gia Định thành Thành phố Hồ Chí Minh.",
+    "Quốc hội bầu ông Tôn Đức Thắng làm Chủ tịch nước, ông Trường Chinh làm Chủ tịch Quốc hội và ông Phạm Văn Đồng làm Thủ tướng Chính phủ.",
+    "Vì hai miền đã được giải phóng và có chung một Quốc hội, một Chính phủ từ giữa năm 1976 nên công cuộc thống nhất đất nước về mặt nhà nước được hoàn thành, tạo điều kiện cả nước cùng đi lên chủ nghĩa xã hội."
+   ],
+   "traps": [
+    "Tổng tuyển cử bầu Quốc hội chung cả nước là ngày 25/4/1976, khác với cuộc Tổng tuyển cử đầu tiên ngày 6/1/1946 bầu Quốc hội khóa I.",
+    "Tên nước đổi thành Cộng hòa xã hội chủ nghĩa Việt Nam ngày 2/7/1976, không phải ngay sau ngày 30/4/1975.",
+    "Đất nước thống nhất về mặt LÃNH THỔ từ 30/4/1975, nhưng thống nhất về mặt NHÀ NƯỚC phải đến kỳ họp Quốc hội khóa VI năm 1976."
+   ],
+   "topic_title": "Xây dựng đất nước, đấu tranh bảo vệ Tổ quốc (1976 - 1985)",
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 32
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Qu%E1%BB%91c_h%E1%BB%99i_Vi%E1%BB%87t_Nam_kh%C3%B3a_VI",
+    "https://www.qdnd.vn/tu-lieu-ho-so/ngay-nay-nam-xua/ngay-2-7-1976-quoc-hoi-quyet-nghi-lay-ten-nuoc-la-cong-hoa-xa-hoi-chu-nghia-viet-nam-698149"
+   ]
+  },
+  {
+   "name": "Chiến tranh bảo vệ biên giới Tây Nam (1975 - 1979)",
+   "kind": "event",
+   "year": 1978,
+   "date_start": "1975-05-03",
+   "date_end": "1979-01-07",
+   "place": "Biên giới Tây Nam Việt Nam (An Giang, Kiên Giang, Tây Ninh) và Campuchia",
+   "actors": [
+    "Quân đội nhân dân Việt Nam",
+    "Tập đoàn Pol Pot - Khmer Đỏ",
+    "Mặt trận Đoàn kết dân tộc cứu nước Campuchia"
+   ],
+   "aliases": [
+    "chiến tranh biên giới Tây Nam",
+    "chiến tranh biên giới Việt Nam - Campuchia",
+    "chống Pôn Pốt",
+    "Khmer Đỏ",
+    "Pol Pot",
+    "thảm sát Ba Chúc",
+    "chiến tranh biên giới Tây Nam 1975-1979",
+    "biên giới Tây Nam 1978 1979"
+   ],
+   "summary": "Cuộc chiến tranh bảo vệ biên giới Tây Nam chống tập đoàn Pol Pot xâm lấn, kết thúc bằng việc quân tình nguyện Việt Nam cùng lực lượng cách mạng Campuchia giải phóng Phnôm Pênh ngày 7/1/1979.",
+   "facts": [
+    "Ngay sau ngày đất nước thống nhất, từ tháng 5/1975 tập đoàn Pol Pot - Khmer Đỏ đã cho quân đánh chiếm đảo Phú Quốc (3/5/1975), đảo Thổ Chu (10/5/1975) rồi liên tiếp xâm lấn biên giới Tây Nam nước ta, giết hại dân thường và tàn phá làng mạc.",
+    "Vụ thảm sát tàn bạo nhất là ở thị trấn Ba Chúc, huyện Tri Tôn, tỉnh An Giang: trong 12 ngày chiếm đóng từ 18 đến 30/4/1978, quân Pol Pot đã sát hại 3.157 thường dân Việt Nam.",
+    "Vì mọi nỗ lực đàm phán hòa bình đều bị Pol Pot khước từ và các cuộc lấn chiếm ngày càng đẫm máu, cuối tháng 12/1978 quân dân Việt Nam mở cuộc phản công lớn đánh đuổi quân xâm lược ra khỏi bờ cõi.",
+    "Theo lời kêu gọi của Mặt trận Đoàn kết dân tộc cứu nước Campuchia, quân tình nguyện Việt Nam đã phối hợp với lực lượng cách mạng Campuchia tiến vào giải phóng thủ đô Phnôm Pênh ngày 7/1/1979.",
+    "Thắng lợi ngày 7/1/1979 đã chấm dứt chế độ diệt chủng Pol Pot, giúp nhân dân Campuchia hồi sinh, đồng thời bảo vệ vững chắc chủ quyền biên giới Tây Nam của Việt Nam."
+   ],
+   "traps": [
+    "Việt Nam là bên BỊ tấn công trước: quân Pol Pot xâm lấn biên giới Tây Nam từ năm 1975-1978, sau đó ta mới phản công.",
+    "Phnôm Pênh được giải phóng ngày 7/1/1979, không cùng thời điểm với chiến tranh biên giới phía Bắc (17/2/1979).",
+    "Vụ thảm sát Ba Chúc (18 - 30/4/1978, 3.157 người chết) xảy ra ở huyện Tri Tôn, tỉnh An Giang của Việt Nam, do quân Khmer Đỏ gây ra."
+   ],
+   "topic_title": "Xây dựng đất nước, đấu tranh bảo vệ Tổ quốc (1976 - 1985)",
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 32
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_tranh_bi%C3%AAn_gi%E1%BB%9Bi_T%C3%A2y_Nam",
+    "https://vi.wikipedia.org/wiki/Th%E1%BA%A3m_s%C3%A1t_Ba_Ch%C3%BAc"
+   ],
+   "fixed": [
+    "thêm định ngữ năm vào name (1975 - 1979) tránh lẫn với chiến tranh biên giới phía Bắc 1979; Ba Chúc: 'tháng 4/1978, hơn 3.100 người' -> chính xác 18-30/4/1978, 3.157 người, huyện Tri Tôn (An Giang); mốc mở đầu 1/5/1975 -> Phú Quốc 3/5/1975, Thổ Chu 10/5/1975"
+   ]
+  },
+  {
+   "name": "Chiến tranh bảo vệ biên giới phía Bắc năm 1979",
+   "kind": "event",
+   "year": 1979,
+   "date_start": "1979-02-17",
+   "date_end": "1979-03-18",
+   "place": "Sáu tỉnh biên giới phía Bắc Việt Nam: Lai Châu, Lào Cai, Hà Giang, Cao Bằng, Lạng Sơn, Quảng Ninh",
+   "actors": [
+    "Quân và dân sáu tỉnh biên giới phía Bắc",
+    "Quân đội Trung Quốc"
+   ],
+   "aliases": [
+    "chiến tranh biên giới phía Bắc",
+    "chiến tranh biên giới Việt - Trung 1979",
+    "cuộc chiến bảo vệ biên giới phía Bắc 1979",
+    "17/2/1979"
+   ],
+   "summary": "Cuộc chiến đấu bảo vệ biên giới phía Bắc từ ngày 17/2/1979, khi quân Trung Quốc tấn công sáu tỉnh biên giới nước ta và phải rút quân sau hơn một tháng.",
+   "facts": [
+    "Rạng sáng ngày 17/2/1979, quân đội Trung Quốc mở cuộc tấn công quy mô lớn trên toàn tuyến biên giới phía Bắc Việt Nam.",
+    "Cuộc tấn công nhằm vào sáu tỉnh biên giới của nước ta là Lai Châu, Lào Cai, Hà Giang, Cao Bằng, Lạng Sơn và Quảng Ninh, với hơn nửa triệu quân cùng hàng trăm xe tăng.",
+    "Quân và dân các tỉnh biên giới, chủ yếu là bộ đội địa phương và dân quân tự vệ, đã kiên cường chiến đấu, gây thiệt hại nặng cho đối phương ở Lạng Sơn, Cao Bằng, Lào Cai.",
+    "Trước sự chống trả quyết liệt của quân dân ta và sự phản đối của dư luận thế giới, phía Trung Quốc tuyên bố rút quân và đến ngày 18/3/1979 đã rút khỏi lãnh thổ Việt Nam.",
+    "Vì Việt Nam đưa quân tình nguyện sang giúp nhân dân Campuchia lật đổ chế độ diệt chủng Pol Pot — vốn là đồng minh của Trung Quốc — nên phía Trung Quốc lấy cớ đó để phát động cuộc tấn công tháng 2/1979."
+   ],
+   "traps": [
+    "Chiến tranh biên giới phía Bắc bắt đầu ngày 17/2/1979 và kết thúc khi đối phương rút quân ngày 18/3/1979, tức chỉ khoảng một tháng.",
+    "Đây là cuộc chiến bảo vệ biên giới phía BẮC năm 1979, khác với chiến tranh biên giới TÂY NAM chống Pol Pot (1975-1979).",
+    "Việt Nam ở thế phòng thủ, chống lại cuộc tấn công từ bên ngoài vào lãnh thổ mình."
+   ],
+   "topic_title": "Xây dựng đất nước, đấu tranh bảo vệ Tổ quốc (1976 - 1985)",
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 32
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_tranh_bi%C3%AAn_gi%E1%BB%9Bi_Vi%E1%BB%87t%E2%80%93Trung_1979"
+   ]
+  },
+  {
+   "name": "Đại hội đại biểu toàn quốc lần thứ VI của Đảng (12/1986)",
+   "kind": "event",
+   "year": 1986,
+   "date_start": "1986-12-15",
+   "date_end": "1986-12-18",
+   "place": "Hội trường Ba Đình, Hà Nội",
+   "actors": [
+    "Đảng Cộng sản Việt Nam",
+    "Tổng Bí thư Nguyễn Văn Linh",
+    "Trường Chinh"
+   ],
+   "aliases": [
+    "Đại hội VI",
+    "Đại hội Đảng lần thứ VI",
+    "Đại hội đổi mới",
+    "Đại hội VI năm 1986",
+    "đại hội khởi xướng đổi mới"
+   ],
+   "summary": "Đại hội họp tháng 12/1986 tại Hà Nội, đề ra đường lối Đổi mới toàn diện đất nước và bầu ông Nguyễn Văn Linh làm Tổng Bí thư.",
+   "facts": [
+    "Đại hội đại biểu toàn quốc lần thứ VI của Đảng Cộng sản Việt Nam họp từ ngày 15 đến ngày 18/12/1986 tại Hội trường Ba Đình, Hà Nội.",
+    "Đại hội VI đã bầu ông Nguyễn Văn Linh làm Tổng Bí thư, thay ông Trường Chinh.",
+    "Đại hội thẳng thắn nhìn nhận những sai lầm, khuyết điểm trong lãnh đạo kinh tế - xã hội trước đó và đề ra đường lối Đổi mới toàn diện đất nước.",
+    "Đại hội xác định trước mắt phải tập trung sức thực hiện ba chương trình kinh tế lớn: lương thực - thực phẩm, hàng tiêu dùng và hàng xuất khẩu.",
+    "Vì đất nước lâm vào khủng hoảng kinh tế - xã hội kéo dài sau các kế hoạch 5 năm 1976-1985 nên Đảng buộc phải đổi mới; đường lối Đổi mới khởi xướng từ Đại hội VI (12/1986) chính là bước ngoặt đưa Việt Nam thoát khỏi khủng hoảng."
+   ],
+   "traps": [
+    "Đường lối Đổi mới được đề ra tại Đại hội VI tháng 12/1986, không phải Đại hội V (1982) hay Đại hội VII (1991).",
+    "Tổng Bí thư được bầu tại Đại hội VI là Nguyễn Văn Linh, không phải Trường Chinh (Trường Chinh là người tiền nhiệm) hay Đỗ Mười (được bầu tại Đại hội VII năm 1991).",
+    "Đổi mới không có nghĩa là thay đổi mục tiêu chủ nghĩa xã hội, mà là thay đổi cách làm để đạt mục tiêu đó."
+   ],
+   "topic_title": "Việt Nam trên đường đổi mới đi lên chủ nghĩa xã hội (từ năm 1986 đến năm 2000)",
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 33
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_h%E1%BB%99i_%C4%90%E1%BA%A3ng_C%E1%BB%99ng_s%E1%BA%A3n_Vi%E1%BB%87t_Nam_VI"
+   ]
+  },
+  {
+   "name": "Đường lối Đổi mới của Việt Nam (khởi xướng năm 1986)",
+   "kind": "concept",
+   "year": 1986,
+   "date_start": "1986-12-18",
+   "date_end": null,
+   "place": "Việt Nam",
+   "actors": [
+    "Đảng Cộng sản Việt Nam"
+   ],
+   "aliases": [
+    "Đổi mới",
+    "công cuộc Đổi mới",
+    "đường lối đổi mới",
+    "Doi Moi",
+    "đổi mới kinh tế 1986",
+    "đường lối Đổi mới 1986",
+    "Đổi mới từ Đại hội VI 1986"
+   ],
+   "summary": "Đường lối đổi mới toàn diện do Đảng khởi xướng từ tháng 12/1986: chuyển từ kinh tế tập trung quan liêu bao cấp sang kinh tế hàng hóa nhiều thành phần theo định hướng xã hội chủ nghĩa.",
+   "facts": [
+    "Đường lối Đổi mới được Đảng Cộng sản Việt Nam đề ra tại Đại hội VI tháng 12/1986 và tiếp tục được bổ sung, hoàn thiện qua các đại hội sau đó.",
+    "Đổi mới là đổi mới toàn diện và đồng bộ về kinh tế, chính trị, văn hóa, xã hội, nhưng trọng tâm trước hết là đổi mới về kinh tế.",
+    "Nội dung cốt lõi của đổi mới kinh tế là xóa bỏ cơ chế quản lý tập trung quan liêu bao cấp, xây dựng nền kinh tế hàng hóa nhiều thành phần vận hành theo cơ chế thị trường có sự quản lý của Nhà nước.",
+    "Về đối ngoại, đường lối Đổi mới chủ trương mở rộng quan hệ kinh tế đối ngoại, đa phương hóa và đa dạng hóa quan hệ quốc tế, thu hút vốn và kỹ thuật từ bên ngoài.",
+    "Vì cơ chế bao cấp cũ kìm hãm sản xuất và khiến đất nước khủng hoảng kéo dài, nên khi chuyển sang cơ chế mới từ năm 1986, sản xuất bung ra và đời sống nhân dân dần được cải thiện."
+   ],
+   "traps": [
+    "Đổi mới không phải là thay đổi mục tiêu chủ nghĩa xã hội mà là thay đổi quan niệm, cách thức và bước đi để thực hiện mục tiêu đó.",
+    "Đổi mới lấy đổi mới KINH TẾ làm trọng tâm, chứ không phải chỉ đổi mới chính trị.",
+    "Ba chương trình kinh tế lớn của thời kỳ đầu Đổi mới là lương thực - thực phẩm, hàng tiêu dùng và hàng xuất khẩu."
+   ],
+   "topic_title": "Việt Nam trên đường đổi mới đi lên chủ nghĩa xã hội (từ năm 1986 đến năm 2000)",
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 33
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A1i_h%E1%BB%99i_%C4%90%E1%BA%A3ng_C%E1%BB%99ng_s%E1%BA%A3n_Vi%E1%BB%87t_Nam_VI",
+    "https://trungtamwto.vn/chuyen-de/21240-27-nam-viet-nam-gia-nhap-asean-2871995-2872022-khang-dinh-vai-tro-nang-tam-vi-the"
+   ],
+   "fixed": [
+    "tên thẻ dễ lẫn với thẻ 'Công cuộc Đổi mới ở Việt Nam từ năm 1991 đến nay' -> thêm định ngữ năm 1986 vào name và alias"
+   ]
+  },
+  {
+   "name": "Thành tựu bước đầu của công cuộc Đổi mới (1986 - 1990)",
+   "kind": "period",
+   "year": 1990,
+   "date_start": "1986-01-01",
+   "date_end": "1990-12-31",
+   "place": "Việt Nam",
+   "actors": [
+    "Nhân dân Việt Nam",
+    "Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam"
+   ],
+   "aliases": [
+    "kế hoạch 5 năm 1986-1990",
+    "thành tựu đổi mới 1986-1990",
+    "Việt Nam xuất khẩu gạo năm 1989",
+    "ba chương trình kinh tế lớn"
+   ],
+   "summary": "Kết quả bước đầu của kế hoạch 5 năm 1986-1990: từ nước thiếu ăn phải nhập lương thực, Việt Nam vươn lên tự túc và xuất khẩu gạo từ năm 1989.",
+   "facts": [
+    "Trong kế hoạch 5 năm 1986-1990, cả nước tập trung thực hiện ba chương trình kinh tế lớn là lương thực - thực phẩm, hàng tiêu dùng và hàng xuất khẩu.",
+    "Trước Đổi mới, Việt Nam thiếu lương thực và phải nhập khẩu gạo (riêng năm 1988 còn phải nhập hơn 45 vạn tấn gạo); đến năm 1989, nước ta lần đầu tiên xuất khẩu gạo, khoảng 1,5 triệu tấn theo SGK (số liệu hải quan/Hiệp hội Lương thực ghi khoảng 1,4 triệu tấn).",
+    "Sản lượng lương thực quy thóc tăng nhanh: năm 1988 đạt 19,5 triệu tấn, năm 1989 đạt 21,4 triệu tấn và năm 1990 đạt khoảng 21,5 triệu tấn.",
+    "Nhờ cơ chế mới, hàng tiêu dùng trên thị trường trở nên phong phú hơn, tình trạng khan hiếm và xếp hàng mua theo tem phiếu dần chấm dứt.",
+    "Chính vì cơ chế khoán trong nông nghiệp và cơ chế thị trường được áp dụng từ sau năm 1986 mà sản xuất bung ra, đưa nước ta từ chỗ thiếu đói trở thành nước xuất khẩu gạo chỉ sau vài năm."
+   ],
+   "traps": [
+    "Năm 1989 mới là năm Việt Nam bắt đầu xuất khẩu gạo, không phải ngay năm 1986.",
+    "Ba chương trình kinh tế lớn gồm lương thực - thực phẩm, hàng tiêu dùng và hàng xuất khẩu — không bao gồm công nghiệp nặng."
+   ],
+   "topic_title": "Việt Nam trên đường đổi mới đi lên chủ nghĩa xã hội (từ năm 1986 đến năm 2000)",
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 33
+    }
+   ],
+   "sources": [
+    "https://vietfood.org.vn/xuat-khau-gao-viet-nam-giai-doan-1989-2017/",
+    "https://special.nhandan.vn/hanh-trinh-hat-gao-Viet-Nam/index.html"
+   ],
+   "fixed": [
+    "số liệu lương thực: 'sản lượng lúa gạo từ ~17 triệu tấn (1986) lên ~21,5 triệu tấn (1990)' lẫn lộn lúa với lương thực quy thóc -> sửa theo mốc SGK 19,5 triệu tấn (1988) và 21,4 triệu tấn (1989); ghi rõ mức xuất khẩu gạo 1989 SGK 1,5 triệu tấn / thống kê ~1,4 triệu tấn"
+   ]
+  },
+  {
+   "name": "Nguyễn Ái Quốc",
+   "kind": "person",
+   "year": null,
+   "date_start": "1890-05-19",
+   "date_end": "1969-09-02",
+   "place": "Nghệ An - Pháp - Liên Xô - Trung Quốc",
+   "actors": [
+    "Nguyễn Tất Thành",
+    "Hồ Chí Minh"
+   ],
+   "aliases": [
+    "Nguyễn Ái Quốc",
+    "Nguyễn Tất Thành",
+    "Hồ Chí Minh",
+    "Bác Hồ",
+    "Văn Ba",
+    "anh Ba",
+    "Nguyen Ai Quoc",
+    "Ho Chi Minh"
+   ],
+   "summary": "Người thanh niên yêu nước ra đi tìm đường cứu nước năm 1911, tìm thấy con đường cách mạng vô sản năm 1920 và sáng lập Đảng Cộng sản Việt Nam năm 1930.",
+   "facts": [
+    "Ngày 5/6/1911, người thanh niên Nguyễn Tất Thành lấy tên Văn Ba, xuống làm phụ bếp trên tàu Amiral Latouche Tréville rời bến cảng Nhà Rồng, bắt đầu hành trình tìm đường cứu nước.",
+    "Ngày 18/6/1919, với tên Nguyễn Ái Quốc, Người gửi tới Hội nghị Vécxai (Versailles) bản Yêu sách của nhân dân An Nam gồm tám điểm, đòi các quyền tự do, dân chủ cho nhân dân Việt Nam.",
+    "Tháng 7/1920, Nguyễn Ái Quốc đọc Sơ thảo lần thứ nhất những luận cương về vấn đề dân tộc và vấn đề thuộc địa của Lênin và tìm thấy con đường giải phóng dân tộc theo cách mạng vô sản.",
+    "Tháng 12/1920, tại Đại hội của Đảng Xã hội Pháp họp ở thành phố Tua (Tours), Nguyễn Ái Quốc bỏ phiếu tán thành gia nhập Quốc tế thứ ba và tham gia sáng lập Đảng Cộng sản Pháp, trở thành người cộng sản Việt Nam đầu tiên.",
+    "Trong những năm ở Pháp, Nguyễn Ái Quốc viết bài cho báo Nhân đạo (L'Humanité) của Đảng Cộng sản Pháp và làm chủ nhiệm kiêm chủ bút tờ báo Người cùng khổ (Le Paria) do Người cùng các nhà cách mạng thuộc địa lập ra năm 1922.",
+    "Vì đã tìm thấy con đường cứu nước đúng đắn từ năm 1920 và dày công chuẩn bị về tư tưởng, chính trị, tổ chức suốt những năm 1921-1929, nên đầu năm 1930 Nguyễn Ái Quốc đã chủ trì hợp nhất các tổ chức cộng sản, sáng lập Đảng Cộng sản Việt Nam."
+   ],
+   "traps": [
+    "Nguyễn Ái Quốc chỉ VIẾT BÀI cộng tác cho báo Nhân đạo (L'Humanité) của Đảng Cộng sản Pháp; Người KHÔNG sáng lập và không làm chủ bút tờ báo này. Tờ báo Người chủ trì là Le Paria (Người cùng khổ).",
+    "Người ra đi tìm đường cứu nước ngày 5/6/1911 từ bến cảng Nhà Rồng (Sài Gòn), không phải từ Hải Phòng hay Nghệ An.",
+    "Nguyễn Ái Quốc KHÔNG phải Tổng Bí thư đầu tiên của Đảng; Tổng Bí thư đầu tiên là Trần Phú (tháng 10/1930)."
+   ],
+   "topic_title": "Hoạt động của Nguyễn Ái Quốc và sự thành lập Đảng Cộng sản Việt Nam",
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 6
+    },
+    {
+     "book": "CTST",
+     "bai": 6
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Ho%E1%BA%A1t_%C4%91%E1%BB%99ng_c%E1%BB%A7a_H%E1%BB%93_Ch%C3%AD_Minh_trong_giai_%C4%91o%E1%BA%A1n_1911%E2%80%931941",
+    "http://baotanglichsu.vn/vi/Articles/3097/14528/cach-djay-94-nam-18-6-1919-18-6-2013-nguyen-ai-quoc-gui-toi-hoi-nghi-vecxay-versailles-ban-yeu-sach-cua-nhan-dan-viet-nam.html"
+   ]
+  },
+  {
+   "name": "Hội Việt Nam Cách mạng Thanh niên",
+   "kind": "org",
+   "year": 1925,
+   "date_start": "1925-06-01",
+   "date_end": "1929-08-04",
+   "place": "Quảng Châu, Trung Quốc",
+   "actors": [
+    "Nguyễn Ái Quốc",
+    "Cộng sản đoàn"
+   ],
+   "aliases": [
+    "Hội Việt Nam Cách mạng Thanh niên",
+    "Việt Nam Thanh niên Cách mạng đồng chí Hội",
+    "Hội Thanh niên",
+    "Thanh niên Cách mạng đồng chí Hội",
+    "báo Thanh niên",
+    "Việt Nam Cách mạng Thanh niên"
+   ],
+   "summary": "Tổ chức cách mạng do Nguyễn Ái Quốc sáng lập tháng 6/1925 tại Quảng Châu, truyền bá chủ nghĩa Mác - Lênin về nước và chuẩn bị cho sự ra đời của Đảng Cộng sản Việt Nam.",
+   "facts": [
+    "Hội Việt Nam Cách mạng Thanh niên được Nguyễn Ái Quốc thành lập vào tháng 6 năm 1925 tại Quảng Châu (Trung Quốc), trên cơ sở nòng cốt là nhóm Cộng sản đoàn.",
+    "Hội mở các lớp huấn luyện chính trị do Nguyễn Ái Quốc trực tiếp giảng dạy để đào tạo cán bộ rồi đưa về nước hoạt động.",
+    "Cơ quan ngôn luận của Hội là báo Thanh niên, số đầu ra ngày 21/6/1925; các bài giảng của Nguyễn Ái Quốc sau đó được tập hợp in thành cuốn Đường Kách mệnh (1927).",
+    "Từ năm 1928, Hội chủ trương 'vô sản hóa', đưa hội viên vào các nhà máy, hầm mỏ, đồn điền để vừa lao động vừa tuyên truyền cách mạng trong công nhân.",
+    "Vì phong trào phát triển mạnh và yêu cầu phải có chính đảng của giai cấp vô sản, năm 1929 Hội phân hóa rồi giải thể (ngày 4/8/1929): hội viên Bắc Kỳ lập Đông Dương Cộng sản đảng (6/1929), số còn lại lập An Nam Cộng sản đảng (8/1929); riêng Đông Dương Cộng sản liên đoàn (9/1929) ra đời từ Tân Việt Cách mạng đảng chứ không phải từ Hội. Ba tổ chức này là tiền đề cho việc hợp nhất thành Đảng Cộng sản Việt Nam đầu năm 1930."
+   ],
+   "traps": [
+    "Hội Việt Nam Cách mạng Thanh niên thành lập THÁNG 6 NĂM 1925, KHÔNG phải năm 1920 hay 1927.",
+    "Hội thành lập ở Quảng Châu (Trung Quốc), không phải trong nước.",
+    "Hội Việt Nam Cách mạng Thanh niên là tổ chức tiền thân, chưa phải là Đảng Cộng sản Việt Nam (Đảng ra đời ngày 3/2/1930).",
+    "Báo của Hội là báo Thanh niên, không phải báo Nhân đạo hay Người cùng khổ.",
+    "Đông Dương Cộng sản liên đoàn (9/1929) tách ra từ TÂN VIỆT CÁCH MẠNG ĐẢNG, không phải từ Hội Việt Nam Cách mạng Thanh niên; chỉ Đông Dương Cộng sản đảng và An Nam Cộng sản đảng mới ra đời từ Hội."
+   ],
+   "topic_title": "Hoạt động của Nguyễn Ái Quốc và sự thành lập Đảng Cộng sản Việt Nam",
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 6
+    },
+    {
+     "book": "CTST",
+     "bai": 6
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/H%E1%BB%99i_Vi%E1%BB%87t_Nam_C%C3%A1ch_m%E1%BA%A1ng_Thanh_ni%C3%AAn"
+   ],
+   "fixed": [
+    "chiều nhân-quả: 'hội viên chuyển sang BA tổ chức cộng sản' -> sai; Hội chỉ sinh ra 2 tổ chức (ĐDCS đảng, An Nam CS đảng), Đông Dương Cộng sản liên đoàn ra đời từ Tân Việt Cách mạng đảng"
+   ]
+  },
+  {
+   "name": "Hội nghị thành lập Đảng Cộng sản Việt Nam (3/2/1930)",
+   "kind": "event",
+   "year": 1930,
+   "date_start": "1930-01-06",
+   "date_end": "1930-02-07",
+   "place": "Cửu Long, Hương Cảng (Hồng Kông), Trung Quốc",
+   "actors": [
+    "Nguyễn Ái Quốc",
+    "Đông Dương Cộng sản đảng",
+    "An Nam Cộng sản đảng",
+    "Đông Dương Cộng sản liên đoàn"
+   ],
+   "aliases": [
+    "Hội nghị hợp nhất các tổ chức cộng sản",
+    "thành lập Đảng Cộng sản Việt Nam",
+    "3/2/1930",
+    "ngày thành lập Đảng",
+    "Hội nghị Cửu Long",
+    "Hương Cảng"
+   ],
+   "summary": "Hội nghị do Nguyễn Ái Quốc chủ trì đầu năm 1930 ở Hương Cảng, hợp nhất ba tổ chức cộng sản thành Đảng Cộng sản Việt Nam, lấy ngày 3/2/1930 làm ngày thành lập Đảng.",
+   "facts": [
+    "Trong năm 1929, ở Việt Nam lần lượt ra đời ba tổ chức cộng sản là Đông Dương Cộng sản đảng (6/1929), An Nam Cộng sản đảng (8/1929) và Đông Dương Cộng sản liên đoàn (9/1929), hoạt động riêng rẽ và công kích lẫn nhau.",
+    "Vì ba tổ chức cộng sản hoạt động phân tán làm suy yếu phong trào, Nguyễn Ái Quốc với tư cách phái viên của Quốc tế Cộng sản đã chủ động triệu tập hội nghị hợp nhất.",
+    "Hội nghị hợp nhất họp từ ngày 6/1/1930 đến ngày 7/2/1930 tại bán đảo Cửu Long, Hương Cảng (Hồng Kông, Trung Quốc), do Nguyễn Ái Quốc chủ trì.",
+    "Hội nghị nhất trí hợp nhất các tổ chức cộng sản thành một đảng duy nhất lấy tên là Đảng Cộng sản Việt Nam và thông qua Chính cương vắn tắt, Sách lược vắn tắt do Nguyễn Ái Quốc soạn thảo — đó là Cương lĩnh chính trị đầu tiên của Đảng.",
+    "Sau này Đảng ta lấy ngày 3/2/1930 làm ngày kỷ niệm thành lập Đảng Cộng sản Việt Nam.",
+    "Đến tháng 10/1930, Hội nghị Ban Chấp hành Trung ương lần thứ nhất họp ở Hương Cảng đã đổi tên Đảng thành Đảng Cộng sản Đông Dương và bầu Trần Phú làm Tổng Bí thư đầu tiên."
+   ],
+   "traps": [
+    "Hội nghị thành lập Đảng họp ở Cửu Long - Hương Cảng (Trung Quốc), KHÔNG phải ở trong nước.",
+    "Người chủ trì hội nghị là Nguyễn Ái Quốc, nhưng Người KHÔNG giữ chức Tổng Bí thư; Tổng Bí thư đầu tiên là Trần Phú (10/1930).",
+    "Ba tổ chức cộng sản năm 1929 hợp nhất thành Đảng Cộng sản Việt Nam; tên Đảng Cộng sản Đông Dương chỉ có từ tháng 10/1930."
+   ],
+   "topic_title": "Hoạt động của Nguyễn Ái Quốc và sự thành lập Đảng Cộng sản Việt Nam",
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 6
+    },
+    {
+     "book": "CTST",
+     "bai": 6
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A3ng_C%E1%BB%99ng_s%E1%BA%A3n_Vi%E1%BB%87t_Nam"
+   ],
+   "fixed": [
+    "date_end 8/2/1930 -> 7/2/1930 (mốc chuẩn trong tài liệu Đảng: hội nghị họp từ 6/1 đến 7/2/1930)"
+   ]
+  },
+  {
+   "name": "Trần Phú",
+   "kind": "person",
+   "year": null,
+   "date_start": "1904-05-01",
+   "date_end": "1931-09-06",
+   "place": "Hà Tĩnh - Sài Gòn",
+   "actors": [
+    "Trần Phú",
+    "Đảng Cộng sản Đông Dương"
+   ],
+   "aliases": [
+    "Trần Phú",
+    "đồng chí Trần Phú",
+    "Tổng Bí thư Trần Phú",
+    "Luận cương chính trị 1930",
+    "Tran Phu"
+   ],
+   "summary": "Tổng Bí thư đầu tiên của Đảng, được bầu tháng 10/1930, tác giả bản Luận cương chính trị, hy sinh năm 1931 khi mới 27 tuổi.",
+   "facts": [
+    "Trần Phú sinh năm 1904, quê ở Hà Tĩnh, được Nguyễn Ái Quốc đưa sang học Trường Đại học Phương Đông ở Liên Xô trước khi về nước hoạt động.",
+    "Tại Hội nghị Ban Chấp hành Trung ương lần thứ nhất họp tháng 10/1930 ở Hương Cảng, Trần Phú được bầu làm Tổng Bí thư đầu tiên của Đảng, khi đó Đảng đổi tên thành Đảng Cộng sản Đông Dương.",
+    "Trần Phú là người soạn thảo bản Luận cương chính trị tháng 10/1930, xác định đường lối cách mạng tư sản dân quyền rồi tiến thẳng lên chủ nghĩa xã hội, bỏ qua giai đoạn tư bản chủ nghĩa.",
+    "Tháng 4/1931 Trần Phú bị thực dân Pháp bắt ở Sài Gòn, bị tra tấn dã man và hy sinh ngày 6/9/1931 khi mới 27 tuổi, để lại lời nhắn nổi tiếng 'Hãy giữ vững chí khí chiến đấu'.",
+    "Vì Trần Phú được bầu tại Hội nghị Trung ương tháng 10/1930 nên ông — chứ không phải Nguyễn Ái Quốc — là Tổng Bí thư đầu tiên trong lịch sử Đảng Cộng sản Việt Nam."
+   ],
+   "traps": [
+    "Tổng Bí thư ĐẦU TIÊN của Đảng là TRẦN PHÚ (bầu tháng 10/1930), KHÔNG phải Nguyễn Ái Quốc - Hồ Chí Minh.",
+    "Nguyễn Ái Quốc là người sáng lập và chủ trì hội nghị thành lập Đảng, nhưng chức danh Tổng Bí thư đầu tiên thuộc về Trần Phú.",
+    "Luận cương chính trị (10/1930) do Trần Phú soạn, khác với Chính cương vắn tắt, Sách lược vắn tắt (2/1930) do Nguyễn Ái Quốc soạn."
+   ],
+   "topic_title": "Hoạt động của Nguyễn Ái Quốc và sự thành lập Đảng Cộng sản Việt Nam",
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 6
+    },
+    {
+     "book": "CTST",
+     "bai": 6
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A3ng_C%E1%BB%99ng_s%E1%BA%A3n_Vi%E1%BB%87t_Nam"
+   ]
+  },
+  {
+   "name": "Nhật đảo chính Pháp và cao trào kháng Nhật cứu nước (1945)",
+   "kind": "event",
+   "year": 1945,
+   "date_start": "1945-03-09",
+   "date_end": "1945-08-14",
+   "place": "Đông Dương (Việt Nam, Lào, Campuchia)",
+   "actors": [
+    "Phát xít Nhật",
+    "Thực dân Pháp",
+    "Đảng Cộng sản Đông Dương",
+    "Mặt trận Việt Minh"
+   ],
+   "aliases": [
+    "Nhật đảo chính Pháp",
+    "đảo chính 9/3/1945",
+    "Nhật - Pháp bắn nhau và hành động của chúng ta",
+    "cao trào kháng Nhật cứu nước",
+    "tiền khởi nghĩa"
+   ],
+   "summary": "Đêm 9/3/1945 Nhật đảo chính hất cẳng Pháp ở Đông Dương; Đảng lập tức phát động cao trào kháng Nhật cứu nước làm tiền đề trực tiếp cho Cách mạng tháng Tám.",
+   "facts": [
+    "Đêm 9/3/1945, phát xít Nhật làm cuộc đảo chính lật đổ thực dân Pháp để độc chiếm Đông Dương, quân Pháp nhanh chóng đầu hàng.",
+    "Ngày 12/3/1945, Ban Thường vụ Trung ương Đảng ra chỉ thị 'Nhật - Pháp bắn nhau và hành động của chúng ta', xác định kẻ thù chính lúc này là phát xít Nhật.",
+    "Chính vì Nhật đảo chính Pháp ngày 9/3/1945 mà Đảng phát động cao trào kháng Nhật cứu nước sôi sục khắp cả nước trong các tháng 3 đến 8/1945, coi đó là thời kỳ tiền khởi nghĩa.",
+    "Trong cao trào này, ở Bắc Kỳ và Bắc Trung Kỳ Đảng ra khẩu hiệu 'Phá kho thóc, giải quyết nạn đói' vì nạn đói khủng khiếp đầu năm 1945 đã cướp đi sinh mạng khoảng hai triệu đồng bào.",
+    "Cao trào kháng Nhật cứu nước từ tháng 3/1945 đã tập dượt quần chúng, xây dựng lực lượng và tạo thế sẵn sàng để khi thời cơ đến, Tổng khởi nghĩa tháng Tám nổ ra và thắng lợi nhanh chóng."
+   ],
+   "traps": [
+    "Cao trào kháng Nhật cứu nước bùng nổ SAU và LÀ HỆ QUẢ của việc Nhật đảo chính Pháp ngày 9/3/1945 — KHÔNG phải chờ đến khi Nhật đầu hàng Đồng minh (15/8/1945) mới bùng nổ.",
+    "Ngày 9/3/1945 là Nhật đảo chính Pháp, khác với ngày Nhật đầu hàng Đồng minh (15/8/1945) và khác với ngày Nhật kéo vào Đông Dương (tháng 9/1940).",
+    "Sau đảo chính 9/3/1945, kẻ thù chính của nhân dân Đông Dương là phát xít Nhật, không còn là thực dân Pháp."
+   ],
+   "topic_title": "Cách mạng tháng Tám năm 1945",
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 8
+    },
+    {
+     "book": "CTST",
+     "bai": 8
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/C%C3%A1ch_m%E1%BA%A1ng_Th%C3%A1ng_T%C3%A1m"
+   ]
+  },
+  {
+   "name": "Mặt trận Việt Minh",
+   "kind": "org",
+   "year": 1941,
+   "date_start": "1941-05-19",
+   "date_end": "1951-03-03",
+   "place": "Pác Bó, Cao Bằng",
+   "actors": [
+    "Nguyễn Ái Quốc",
+    "Đảng Cộng sản Đông Dương"
+   ],
+   "aliases": [
+    "Việt Minh",
+    "Mặt trận Việt Minh",
+    "Việt Nam Độc lập Đồng minh",
+    "Việt Nam Độc lập Đồng minh Hội",
+    "Viet Minh"
+   ],
+   "summary": "Mặt trận đoàn kết dân tộc do Nguyễn Ái Quốc sáng lập ngày 19/5/1941 tại Cao Bằng, tập hợp toàn dân giành độc lập và lãnh đạo Cách mạng tháng Tám 1945.",
+   "facts": [
+    "Mặt trận Việt Nam Độc lập Đồng minh, gọi tắt là Việt Minh, được thành lập ngày 19/5/1941 theo quyết định của Hội nghị Trung ương lần thứ tám do Nguyễn Ái Quốc chủ trì tại Pác Bó, Cao Bằng.",
+    "Việt Minh chủ trương tạm gác khẩu hiệu cách mạng ruộng đất để tập hợp mọi tầng lớp nhân dân vào các hội Cứu quốc, đặt nhiệm vụ giải phóng dân tộc lên hàng đầu.",
+    "Ngày 22/12/1944, Đội Việt Nam Tuyên truyền Giải phóng quân — tiền thân của Quân đội nhân dân Việt Nam — được thành lập theo chỉ thị của Hồ Chí Minh.",
+    "Mặt trận Việt Minh là lực lượng trực tiếp tổ chức và lãnh đạo quần chúng nổi dậy giành chính quyền trong Cách mạng tháng Tám năm 1945.",
+    "Vì Chiến tranh thế giới thứ hai lan tới Đông Dương và Nhật đã nhảy vào nước ta từ tháng 9/1940 khiến nhân dân ta chịu cảnh 'một cổ hai tròng' Pháp - Nhật, nên năm 1941 Đảng chuyển hướng chiến lược, đặt giải phóng dân tộc lên trên hết và lập Mặt trận Việt Minh."
+   ],
+   "traps": [
+    "Mặt trận Việt Minh thành lập ngày 19/5/1941, nên KHÔNG hề tồn tại trong phong trào dân chủ 1936-1939; mặt trận của giai đoạn 1936-1939 là Mặt trận Dân chủ Đông Dương.",
+    "Quân Nhật bắt đầu kéo vào Đông Dương tháng 9/1940, tức thuộc giai đoạn 1939-1945, KHÔNG thuộc giai đoạn 1936-1939.",
+    "Việt Minh là tên gọi tắt của Việt Nam Độc lập Đồng minh, là một mặt trận, không phải là tên của Đảng hay của quân đội."
+   ],
+   "topic_title": "Cách mạng tháng Tám năm 1945",
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 8
+    },
+    {
+     "book": "CTST",
+     "bai": 8
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/C%C3%A1ch_m%E1%BA%A1ng_Th%C3%A1ng_T%C3%A1m"
+   ]
+  },
+  {
+   "name": "Cách mạng tháng Tám năm 1945",
+   "kind": "event",
+   "year": 1945,
+   "date_start": "1945-08-14",
+   "date_end": "1945-08-30",
+   "place": "Cả nước, tiêu biểu là Hà Nội, Huế, Sài Gòn",
+   "actors": [
+    "Mặt trận Việt Minh",
+    "Đảng Cộng sản Đông Dương",
+    "Hồ Chí Minh",
+    "Vua Bảo Đại"
+   ],
+   "aliases": [
+    "Cách mạng tháng Tám",
+    "Tổng khởi nghĩa tháng Tám 1945",
+    "Cách mạng Tháng Tám năm 1945",
+    "khởi nghĩa giành chính quyền 1945",
+    "19/8/1945"
+   ],
+   "summary": "Cuộc tổng khởi nghĩa giành chính quyền trong cả nước tháng 8/1945, lật đổ ách thống trị của phát xít Nhật và chế độ phong kiến, lập nên nước Việt Nam Dân chủ Cộng hòa.",
+   "facts": [
+    "Ngày 15/8/1945 phát xít Nhật tuyên bố đầu hàng Đồng minh không điều kiện, quân Nhật ở Đông Dương hoang mang rệu rã — thời cơ 'ngàn năm có một' đã đến với cách mạng Việt Nam.",
+    "Ngày 13/8/1945, Trung ương Đảng và Tổng bộ Việt Minh thành lập Ủy ban Khởi nghĩa toàn quốc và ban bố Quân lệnh số 1, chính thức phát lệnh Tổng khởi nghĩa; từ ngày 14 đến 15/8/1945, Hội nghị toàn quốc của Đảng họp ở Tân Trào (Tuyên Quang) thông qua kế hoạch lãnh đạo toàn dân Tổng khởi nghĩa; tiếp đó Đại hội Quốc dân Tân Trào họp trong hai ngày 16 và 17/8/1945 tán thành lệnh Tổng khởi nghĩa.",
+    "Ngày 19/8/1945, hàng chục vạn nhân dân Hà Nội mít tinh rồi chuyển thành biểu tình vũ trang, chiếm Phủ Khâm sai và các công sở, giành chính quyền ở thủ đô.",
+    "Khởi nghĩa thắng lợi ở Huế ngày 23/8/1945 và ở Sài Gòn ngày 25/8/1945; chỉ trong khoảng 15 ngày, chính quyền trong cả nước về tay nhân dân.",
+    "Ngày 30/8/1945, vua Bảo Đại thoái vị và trao lại ấn kiếm, chấm dứt chế độ phong kiến kéo dài hàng nghìn năm ở Việt Nam.",
+    "Vì Nhật đầu hàng Đồng minh giữa tháng 8/1945 tạo ra khoảng trống quyền lực, còn lực lượng cách mạng đã được chuẩn bị chu đáo từ trước qua cao trào kháng Nhật, nên Tổng khởi nghĩa nổ ra và thắng lợi nhanh chóng, ít đổ máu."
+   ],
+   "traps": [
+    "Khởi nghĩa giành chính quyền ở Hà Nội là ngày 19/8/1945, ở Huế ngày 23/8/1945, ở Sài Gòn ngày 25/8/1945 — ba mốc khác nhau, dễ nhầm lẫn.",
+    "Nhật đầu hàng Đồng minh ngày 15/8/1945, khác với ngày Nhật đảo chính Pháp 9/3/1945.",
+    "Cách mạng tháng Tám giành chính quyền từ tay phát xít NHẬT và chính phủ tay sai, vì Pháp đã bị Nhật hất cẳng từ 9/3/1945."
+   ],
+   "topic_title": "Cách mạng tháng Tám năm 1945",
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 8
+    },
+    {
+     "book": "CTST",
+     "bai": 8
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/C%C3%A1ch_m%E1%BA%A1ng_Th%C3%A1ng_T%C3%A1m"
+   ],
+   "fixed": [
+    "mốc Tân Trào: 'Hội nghị toàn quốc của Đảng họp 13-15/8' -> đúng là 14-15/8/1945; ngày 13/8 là ngày lập Ủy ban Khởi nghĩa toàn quốc và ban bố Quân lệnh số 1"
+   ]
+  },
+  {
+   "name": "Tuyên ngôn Độc lập ngày 2/9/1945",
+   "kind": "event",
+   "year": 1945,
+   "date_start": "1945-09-02",
+   "date_end": "1945-09-02",
+   "place": "Quảng trường Ba Đình, Hà Nội",
+   "actors": [
+    "Hồ Chí Minh",
+    "Chính phủ lâm thời nước Việt Nam Dân chủ Cộng hòa"
+   ],
+   "aliases": [
+    "Tuyên ngôn Độc lập",
+    "2/9/1945",
+    "Quốc khánh 2/9",
+    "khai sinh nước Việt Nam Dân chủ Cộng hòa",
+    "Ba Đình 1945"
+   ],
+   "summary": "Ngày 2/9/1945 tại Quảng trường Ba Đình, Chủ tịch Hồ Chí Minh đọc Tuyên ngôn Độc lập, khai sinh nước Việt Nam Dân chủ Cộng hòa.",
+   "facts": [
+    "Ngày 2/9/1945, tại Quảng trường Ba Đình (Hà Nội), Chủ tịch Hồ Chí Minh thay mặt Chính phủ lâm thời đọc bản Tuyên ngôn Độc lập trước hàng chục vạn đồng bào.",
+    "Bản Tuyên ngôn mở đầu bằng cách trích dẫn Tuyên ngôn Độc lập năm 1776 của nước Mỹ và Tuyên ngôn Nhân quyền và Dân quyền của Cách mạng Pháp (bản Tuyên ngôn Độc lập ghi là năm 1791, tức năm bản Hiến pháp Pháp lấy Tuyên ngôn 1789 làm lời nói đầu) để khẳng định quyền bình đẳng của mọi dân tộc.",
+    "Tuyên ngôn tuyên bố nước Việt Nam có quyền hưởng tự do, độc lập và toàn thể dân tộc quyết đem tất cả tinh thần, lực lượng, tính mạng và của cải để giữ vững quyền tự do, độc lập ấy.",
+    "Sự kiện ngày 2/9/1945 khai sinh nước Việt Nam Dân chủ Cộng hòa — nhà nước công nông đầu tiên ở Đông Nam Á — và từ đó ngày 2/9 trở thành ngày Quốc khánh của Việt Nam.",
+    "Vì Tổng khởi nghĩa tháng Tám đã giành được chính quyền trong cả nước và vua Bảo Đại thoái vị ngày 30/8/1945, nên chỉ ba ngày sau Chính phủ lâm thời đã có thể tuyên bố với thế giới nền độc lập của Việt Nam."
+   ],
+   "traps": [
+    "Ngày 2/9/1945 là ngày đọc Tuyên ngôn Độc lập, khai sinh nước Việt Nam Dân chủ Cộng hòa; ngày 19/8/1945 mới là ngày khởi nghĩa giành chính quyền ở Hà Nội.",
+    "Tuyên ngôn được đọc tại Quảng trường Ba Đình, Hà Nội, không phải ở Tân Trào hay Huế.",
+    "Nhà nước ra đời năm 1945 mang tên Việt Nam Dân chủ Cộng hòa; tên Cộng hòa xã hội chủ nghĩa Việt Nam chỉ có từ ngày 2/7/1976.",
+    "Bản Tuyên ngôn Độc lập 2/9/1945 dẫn 'Tuyên ngôn Nhân quyền và Dân quyền của Cách mạng Pháp năm 1791' — giữ đúng theo nguyên văn của Bác; bản Tuyên ngôn Nhân quyền và Dân quyền của Pháp vốn được công bố năm 1789 và được đưa vào Hiến pháp 1791."
+   ],
+   "topic_title": "Cách mạng tháng Tám năm 1945",
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 8
+    },
+    {
+     "book": "CTST",
+     "bai": 8
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/C%C3%A1ch_m%E1%BA%A1ng_Th%C3%A1ng_T%C3%A1m"
+   ],
+   "fixed": [
+    "làm rõ mốc '1791' của Tuyên ngôn Nhân quyền và Dân quyền Pháp (nguyên văn Tuyên ngôn Độc lập ghi 1791, bản gốc của Pháp là 1789) để tránh bị coi là sai"
+   ]
+  },
+  {
+   "name": "Toàn quốc kháng chiến (19/12/1946)",
+   "kind": "event",
+   "year": 1946,
+   "date_start": "1946-12-19",
+   "date_end": "1947-02-17",
+   "place": "Hà Nội và các đô thị phía Bắc vĩ tuyến 16",
+   "actors": [
+    "Chủ tịch Hồ Chí Minh",
+    "Trung đoàn Thủ Đô",
+    "Quân đội Pháp"
+   ],
+   "aliases": [
+    "Toàn quốc kháng chiến",
+    "Lời kêu gọi toàn quốc kháng chiến",
+    "19/12/1946",
+    "ngày toàn quốc kháng chiến",
+    "60 ngày đêm Hà Nội"
+   ],
+   "summary": "Đêm 19/12/1946, Chủ tịch Hồ Chí Minh ra Lời kêu gọi toàn quốc kháng chiến, mở đầu cuộc kháng chiến chống thực dân Pháp trên cả nước.",
+   "facts": [
+    "Đêm 19/12/1946, Chủ tịch Hồ Chí Minh thay mặt Trung ương Đảng và Chính phủ ra Lời kêu gọi toàn quốc kháng chiến, mở đầu cuộc kháng chiến chống thực dân Pháp trên phạm vi cả nước.",
+    "Lời kêu gọi mở đầu bằng ý 'Chúng ta muốn hòa bình, chúng ta phải nhân nhượng, nhưng chúng ta càng nhân nhượng, thực dân Pháp càng lấn tới vì chúng quyết tâm cướp nước ta lần nữa'.",
+    "Sáng 20/12/1946, Lời kêu gọi toàn quốc kháng chiến được phát trên Đài Tiếng nói Việt Nam, truyền đi khắp nước.",
+    "Tại Hà Nội, quân dân thủ đô mà nòng cốt là Trung đoàn Thủ Đô đã chiến đấu giam chân địch suốt 60 ngày đêm, đến ngày 17/2/1947 mới rút an toàn ra căn cứ.",
+    "Vì phía Pháp liên tiếp bội ước Hiệp định Sơ bộ 6/3/1946 và Tạm ước 14/9/1946, gây hấn ở Hải Phòng, Lạng Sơn rồi gửi tối hậu thư đòi tước vũ khí tự vệ Hà Nội, nên ta buộc phải cầm súng kháng chiến từ ngày 19/12/1946."
+   ],
+   "traps": [
+    "Ngày toàn quốc kháng chiến là 19/12/1946; còn ngày Nam Bộ kháng chiến (chỉ riêng Nam Bộ) là 23/9/1945, sớm hơn hơn một năm.",
+    "Lời kêu gọi toàn quốc kháng chiến do Chủ tịch Hồ Chí Minh viết, được phát trên đài phát thanh sáng 20/12/1946.",
+    "Kháng chiến bùng nổ vì Pháp bội ước và khiêu khích, sau khi ta đã nhân nhượng bằng Hiệp định Sơ bộ và Tạm ước."
+   ],
+   "topic_title": "Việt Nam kháng chiến chống thực dân Pháp xâm lược giai đoạn 1946 – 1950",
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 14
+    },
+    {
+     "book": "CTST",
+     "bai": 15
+    }
+   ],
+   "sources": [
+    "https://www.qdnd.vn/chinh-tri/cac-van-de/loi-keu-goi-toan-quoc-khang-chien-cua-chu-tich-ho-chi-minh-ngay-19-12-1946-493196",
+    "https://hochiminh.vn/tu-tuong-dao-duc-ho-chi-minh/nghien-cuu-tu-tuong-dao-duc-ho-chi-minh/loi-keu-goi-toan-quoc-khang-chien-cua-chu-tich-ho-chi-minh-y-chi-bao-ve-doc-lap-tu-do-cua-dan-toc-5994"
+   ]
+  },
+  {
+   "name": "Chiến dịch Việt Bắc thu - đông 1947",
+   "kind": "campaign",
+   "year": 1947,
+   "date_start": "1947-10-07",
+   "date_end": "1947-12-22",
+   "place": "Căn cứ địa Việt Bắc (Bắc Kạn, Thái Nguyên, Tuyên Quang, Cao Bằng)",
+   "actors": [
+    "Quân đội nhân dân Việt Nam",
+    "Quân viễn chinh Pháp"
+   ],
+   "aliases": [
+    "chiến dịch Việt Bắc 1947",
+    "Việt Bắc thu đông 1947",
+    "chiến thắng Việt Bắc",
+    "Đoan Hùng",
+    "đèo Bông Lau",
+    "Khe Lau"
+   ],
+   "summary": "Chiến dịch phản công lớn đầu tiên của ta, đánh bại cuộc tấn công của Pháp lên căn cứ địa Việt Bắc và làm phá sản chiến lược 'đánh nhanh thắng nhanh'.",
+   "facts": [
+    "Chiến dịch Việt Bắc thu - đông diễn ra từ ngày 7/10 đến ngày 22/12/1947, khi Pháp huy động hơn một vạn quân tinh nhuệ cùng máy bay, tàu chiến tấn công lên căn cứ địa Việt Bắc.",
+    "Mục tiêu của Pháp là tiêu diệt cơ quan đầu não kháng chiến và bộ đội chủ lực của ta để nhanh chóng kết thúc chiến tranh.",
+    "Quân ta chặn đánh địch trên cả ba hướng, lập những chiến công vang dội ở Đoan Hùng, Khe Lau trên sông Lô và ở đèo Bông Lau trên Đường số 4.",
+    "Sau hơn hai tháng, ta loại khỏi vòng chiến đấu hơn 7.200 quân địch, bắn rơi và phá hỏng 18 máy bay, bắn chìm 16 tàu chiến, buộc đại bộ phận quân Pháp phải rút khỏi Việt Bắc.",
+    "Vì Pháp không tiêu diệt được cơ quan đầu não và bộ đội chủ lực của ta, chiến lược 'đánh nhanh thắng nhanh' của chúng bị phá sản và buộc phải chuyển sang đánh lâu dài với ta."
+   ],
+   "traps": [
+    "Chiến dịch Việt Bắc 1947 làm PHÁ SẢN chiến lược 'đánh nhanh thắng nhanh' của Pháp, nhưng ta CHƯA giành được quyền chủ động trên chiến trường chính; quyền chủ động ở chiến trường chính Bắc Bộ chỉ có được sau chiến dịch Biên giới thu - đông 1950.",
+    "Việt Bắc 1947 là chiến dịch PHẢN CÔNG (Pháp tấn công trước, ta phản công), còn Biên giới 1950 là chiến dịch ta chủ động TIẾN CÔNG.",
+    "Chiến dịch diễn ra cuối năm 1947 ở căn cứ địa Việt Bắc, không phải ở vùng biên giới Việt - Trung như chiến dịch năm 1950."
+   ],
+   "topic_title": "Việt Nam kháng chiến chống thực dân Pháp xâm lược giai đoạn 1946 – 1950",
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 14
+    },
+    {
+     "book": "CTST",
+     "bai": 15
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_d%E1%BB%8Bch_Vi%E1%BB%87t_B%E1%BA%AFc",
+    "https://special.nhandan.vn/chien-dich-viet-bac-thu-dong/index.html",
+    "https://baotanglichsu.vn/vi/Articles/2002/68071/chien-thang-viet-bac-thu-djong-nam-1947-chien-luoc-djanh-nhanh-thang-nhanh-cua-thuc-dan-phap-bi-that-bai.html"
+   ]
+  },
+  {
+   "name": "Chiến dịch Biên giới thu - đông 1950",
+   "kind": "campaign",
+   "year": 1950,
+   "date_start": "1950-09-16",
+   "date_end": "1950-10-14",
+   "place": "Vùng biên giới Việt - Trung: Cao Bằng, Đông Khê, Thất Khê, Lạng Sơn",
+   "actors": [
+    "Chủ tịch Hồ Chí Minh",
+    "Bộ chỉ huy chiến dịch",
+    "Binh đoàn Lơ Pa-giơ và Sác-tông của Pháp"
+   ],
+   "aliases": [
+    "chiến dịch Biên giới 1950",
+    "Biên giới thu đông 1950",
+    "chiến dịch Lê Hồng Phong II",
+    "trận Đông Khê",
+    "chiến dịch biên giới Việt - Trung 1950"
+   ],
+   "summary": "Chiến dịch tiến công lớn đầu tiên do ta chủ động mở, mở màn bằng trận Đông Khê, khai thông biên giới Việt - Trung và giành quyền chủ động trên chiến trường chính Bắc Bộ.",
+   "facts": [
+    "Chiến dịch Biên giới thu - đông diễn ra từ ngày 16/9 đến ngày 14/10/1950 ở vùng biên giới Việt - Trung, là chiến dịch tiến công lớn đầu tiên do ta chủ động mở.",
+    "Mục tiêu của chiến dịch là tiêu diệt sinh lực địch, khai thông biên giới để nối liên lạc với các nước xã hội chủ nghĩa và mở rộng, củng cố căn cứ địa Việt Bắc.",
+    "Trận mở màn đánh vào cứ điểm Đông Khê từ ngày 16 đến 18/9/1950, khiến hệ thống phòng thủ của Pháp trên Đường số 4 bị cắt làm đôi và Cao Bằng bị cô lập.",
+    "Chủ tịch Hồ Chí Minh đã trực tiếp ra mặt trận theo dõi chiến dịch và căn dặn 'Chiến dịch này hết sức quan trọng, chỉ được thắng không được thua'.",
+    "Sau gần một tháng, ta tiêu diệt hai binh đoàn Lơ Pa-giơ và Sác-tông, giải phóng dải biên giới dài từ Cao Bằng đến Đình Lập.",
+    "Vì thắng lợi ở Biên giới năm 1950 đã khai thông đường liên lạc quốc tế và đẩy Pháp vào thế phòng ngự, quân ta từ đây giành được thế chủ động trên chiến trường chính Bắc Bộ."
+   ],
+   "traps": [
+    "Quyền chủ động trên chiến trường chính Bắc Bộ chỉ giành được sau chiến dịch BIÊN GIỚI 1950, không phải sau chiến dịch Việt Bắc 1947.",
+    "Trận mở màn chiến dịch Biên giới 1950 là Đông Khê, không phải Cao Bằng hay Thất Khê.",
+    "Chiến dịch Biên giới 1950 do ta CHỦ ĐỘNG mở, khác với chiến dịch Việt Bắc 1947 là chiến dịch phản công."
+   ],
+   "topic_title": "Việt Nam kháng chiến chống thực dân Pháp xâm lược giai đoạn 1946 – 1950",
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 14
+    },
+    {
+     "book": "CTST",
+     "bai": 15
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_d%E1%BB%8Bch_Bi%C3%AAn_gi%E1%BB%9Bi_thu_%C4%91%C3%B4ng_1950"
+   ]
+  },
+  {
+   "name": "Phong trào Đồng khởi (1959 - 1960)",
+   "kind": "movement",
+   "year": 1960,
+   "date_start": "1959-01-01",
+   "date_end": "1960-12-20",
+   "place": "Miền Nam Việt Nam, tiêu biểu là huyện Mỏ Cày, tỉnh Bến Tre",
+   "actors": [
+    "Nhân dân miền Nam",
+    "Nguyễn Thị Định",
+    "Chính quyền Ngô Đình Diệm"
+   ],
+   "aliases": [
+    "Đồng khởi",
+    "phong trào Đồng khởi",
+    "Đồng khởi Bến Tre",
+    "Nghị quyết 15",
+    "đồng khởi 17/1/1960",
+    "Bến Tre đồng khởi"
+   ],
+   "summary": "Phong trào nhân dân miền Nam nổi dậy phá thế kìm kẹp của Mỹ - Diệm, bùng nổ ở Bến Tre ngày 17/1/1960 và dẫn tới sự ra đời Mặt trận Dân tộc giải phóng miền Nam Việt Nam.",
+   "facts": [
+    "Tháng 1/1959, Hội nghị Trung ương lần thứ 15 của Đảng ra nghị quyết cho phép nhân dân miền Nam sử dụng bạo lực cách mạng, kết hợp đấu tranh chính trị với đấu tranh vũ trang để đánh đổ chính quyền Mỹ - Diệm.",
+    "Ngày 17/1/1960, phong trào Đồng khởi bùng nổ ở ba xã Định Thủy, Phước Hiệp, Bình Khánh thuộc huyện Mỏ Cày, tỉnh Bến Tre, rồi lan nhanh ra toàn tỉnh.",
+    "Bà Nguyễn Thị Định là một trong những người lãnh đạo cuộc Đồng khởi ở Bến Tre, nơi nổi tiếng với 'Đội quân tóc dài'.",
+    "Từ Bến Tre, phong trào Đồng khởi lan rộng khắp Nam Bộ, Tây Nguyên và Trung Trung Bộ, làm tan rã từng mảng lớn bộ máy cai trị của địch ở nông thôn.",
+    "Vì chính quyền Ngô Đình Diệm thi hành Luật 10/59 lê máy chém đi khắp miền Nam đàn áp đẫm máu những người yêu nước, nên nhân dân miền Nam buộc phải vùng dậy Đồng khởi.",
+    "Thắng lợi của phong trào Đồng khởi dẫn tới sự ra đời của Mặt trận Dân tộc giải phóng miền Nam Việt Nam ngày 20/12/1960, đánh dấu bước chuyển của cách mạng miền Nam từ giữ gìn lực lượng sang thế tiến công."
+   ],
+   "traps": [
+    "Đồng khởi bùng nổ ngày 17/1/1960 tại huyện Mỏ Cày, tỉnh BẾN TRE, không phải ở Sài Gòn hay Tây Ninh.",
+    "Nghị quyết 15 ra đời tháng 1/1959, TRƯỚC phong trào Đồng khởi và là nguyên nhân trực tiếp của phong trào — không phải ngược lại.",
+    "Mặt trận Dân tộc giải phóng miền Nam Việt Nam thành lập ngày 20/12/1960, tức là KẾT QUẢ của Đồng khởi, không phải tổ chức đã có sẵn từ trước."
+   ],
+   "topic_title": "Việt Nam từ năm 1954 đến năm 1965",
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 16
+    },
+    {
+     "book": "KNTT",
+     "bai": 17
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Phong_tr%C3%A0o_%C4%90%E1%BB%93ng_kh%E1%BB%9Fi"
+   ],
+   "fixed": [
+    "topic_title sai giai đoạn: 'Việt Nam kháng chiến chống thực dân Pháp xâm lược giai đoạn 1946 – 1950' -> đúng là 'Việt Nam từ năm 1954 đến năm 1965' (khớp bài 16 KNTT)"
+   ]
+  },
+  {
+   "name": "Trật tự thế giới mới từ năm 1991 đến nay",
+   "kind": "concept",
+   "year": 1991,
+   "date_start": "1991-12-25",
+   "date_end": null,
+   "place": "Toàn thế giới",
+   "actors": [
+    "Liên Xô",
+    "Hoa Kỳ",
+    "Liên bang Nga",
+    "Trung Quốc",
+    "Liên minh châu Âu"
+   ],
+   "aliases": [
+    "trật tự thế giới sau Chiến tranh lạnh",
+    "trật tự đa cực",
+    "thế giới đơn cực",
+    "trật tự hai cực Ianta sụp đổ",
+    "world order after 1991"
+   ],
+   "summary": "Sau khi Liên Xô tan rã cuối năm 1991, trật tự hai cực Ianta sụp đổ; thế giới trải qua thời kỳ Mỹ nổi lên như siêu cường duy nhất rồi chuyển dần sang xu thế đa cực.",
+   "facts": [
+    "Ngày 25/12/1991, Tổng thống Goóc-ba-chốp từ chức, lá cờ Liên Xô hạ xuống trên nóc điện Krem-li; ngày 26/12/1991 Xô viết Tối cao Liên Xô ra tuyên bố chính thức chấm dứt sự tồn tại của Liên Xô — một trong hai siêu cường.",
+    "Vì Liên Xô tan rã cuối năm 1991 nên trật tự thế giới hai cực I-an-ta hình thành sau Chiến tranh thế giới thứ hai cũng sụp đổ theo, khép lại thời kỳ Chiến tranh lạnh.",
+    "Trong khoảng một thập niên sau năm 1991, Hoa Kỳ trở thành siêu cường duy nhất và tìm cách thiết lập một trật tự thế giới đơn cực do Mỹ chi phối.",
+    "Tuy nhiên, sự vươn lên của các trung tâm quyền lực khác như Trung Quốc, Liên bang Nga, Liên minh châu Âu, Nhật Bản, Ấn Độ đã khiến thế giới chuyển dần sang xu thế đa cực.",
+    "Sau năm 1991, xu thế chung của thế giới là hòa bình, hợp tác và phát triển kinh tế, nhưng vẫn tồn tại nhiều xung đột khu vực, khủng bố và tranh chấp lãnh thổ."
+   ],
+   "traps": [
+    "Liên Xô tan rã ngày 25/12/1991; Chiến tranh lạnh được tuyên bố chấm dứt sớm hơn, tại cuộc gặp Man-ta tháng 12/1989.",
+    "Trật tự hai cực I-an-ta sụp đổ vì Liên Xô tan rã, chứ không phải vì Mỹ suy yếu.",
+    "Thế giới sau 1991 không lập tức trở thành đa cực: có một thời kỳ Mỹ là siêu cường duy nhất trước khi xu thế đa cực định hình."
+   ],
+   "topic_title": "Trật tự thế giới mới từ năm 1991 đến nay. Liên bang Nga và nước Mỹ từ năm 1991 đến nay",
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 19
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Li%C3%AAn_X%C3%B4_tan_r%C3%A3",
+    "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_tranh_L%E1%BA%A1nh",
+    "https://geopol.uk/historical/fall-of-soviet-union/"
+   ],
+   "fixed": [
+    "mốc tan rã Liên Xô: nêu rõ 25/12/1991 (Goóc-ba-chốp từ chức, hạ cờ) và 26/12/1991 (tuyên bố chính thức giải thể); thay nguồn phụ bằng vi.wikipedia"
+   ]
+  },
+  {
+   "name": "Liên bang Nga từ năm 1991 đến nay",
+   "kind": "place",
+   "year": 1991,
+   "date_start": "1991-12-25",
+   "date_end": null,
+   "place": "Liên bang Nga",
+   "actors": [
+    "Bô-rít En-xin",
+    "Vla-đi-mia Pu-tin"
+   ],
+   "aliases": [
+    "Liên bang Nga",
+    "nước Nga sau 1991",
+    "Russia",
+    "Nga hậu Xô viết",
+    "quốc gia kế tục Liên Xô"
+   ],
+   "summary": "Liên bang Nga là quốc gia kế tục Liên Xô sau năm 1991, trải qua khủng hoảng những năm 1990 rồi phục hồi vị thế cường quốc từ đầu thế kỷ XXI.",
+   "facts": [
+    "Sau khi Liên Xô tan rã cuối năm 1991, Liên bang Nga được công nhận là 'quốc gia kế tục', kế thừa địa vị pháp lý của Liên Xô tại Hội đồng Bảo an Liên hợp quốc và các cơ quan ngoại giao của Liên Xô ở nước ngoài.",
+    "Là ủy viên thường trực Hội đồng Bảo an, Liên bang Nga có quyền phủ quyết đối với các vấn đề quan trọng của tổ chức này.",
+    "Trong thập niên 1990 dưới thời Tổng thống Bô-rít En-xin, nước Nga lâm vào khủng hoảng kinh tế - chính trị nghiêm trọng và xung đột sắc tộc ở vùng Cáp-ca-dơ.",
+    "Từ năm 2000, dưới thời Tổng thống Vla-đi-mia Pu-tin, kinh tế Nga dần phục hồi nhờ xuất khẩu dầu mỏ, khí đốt và vị thế quốc tế của Nga được nâng lên.",
+    "Vì kế thừa tiềm lực quân sự, kho vũ khí hạt nhân và ghế thường trực Hội đồng Bảo an của Liên Xô, Liên bang Nga vẫn giữ vai trò một cực quan trọng trong trật tự thế giới đa cực hiện nay."
+   ],
+   "traps": [
+    "Liên bang Nga kế thừa ĐỊA VỊ PHÁP LÝ của Liên Xô tại Hội đồng Bảo an, chứ không phải kế thừa toàn bộ lãnh thổ hay mọi quyền lợi của Liên Xô (15 nước cộng hòa đều tách ra độc lập).",
+    "Liên bang Nga chỉ là một trong 15 nước cộng hòa thuộc Liên Xô cũ, không đồng nhất với Liên Xô."
+   ],
+   "topic_title": "Trật tự thế giới mới từ năm 1991 đến nay. Liên bang Nga và nước Mỹ từ năm 1991 đến nay",
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 19
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Li%C3%AAn_bang_Nga",
+    "https://vi.wikipedia.org/wiki/Li%C3%AAn_X%C3%B4_tan_r%C3%A3",
+    "https://geopol.uk/historical/fall-of-soviet-union/"
+   ],
+   "fixed": [
+    "thẻ chỉ dựa loigiaihay + blog -> thay bằng nguồn độc lập vi.wikipedia (quốc gia kế tục, ghế Hội đồng Bảo an)"
+   ]
+  },
+  {
+   "name": "Nước Mỹ từ năm 1991 đến nay",
+   "kind": "place",
+   "year": 1991,
+   "date_start": "1991-12-26",
+   "date_end": null,
+   "place": "Hoa Kỳ",
+   "actors": [
+    "Bin Clin-tơn",
+    "Gioóc-giơ W. Bu-sơ"
+   ],
+   "aliases": [
+    "Hoa Kỳ sau Chiến tranh lạnh",
+    "nước Mỹ sau 1991",
+    "siêu cường duy nhất",
+    "United States after 1991",
+    "sự kiện 11/9/2001"
+   ],
+   "summary": "Sau khi Liên Xô tan rã, Mỹ trở thành siêu cường duy nhất và theo đuổi tham vọng thiết lập trật tự đơn cực, nhưng gặp nhiều thách thức từ khủng bố và các trung tâm quyền lực mới.",
+   "facts": [
+    "Sau khi Liên Xô tan rã cuối năm 1991, Hoa Kỳ trở thành siêu cường duy nhất trên thế giới cả về kinh tế, quân sự lẫn khoa học - công nghệ.",
+    "Trong thập niên 1990, kinh tế Mỹ tăng trưởng cao và Mỹ ra sức thiết lập một trật tự thế giới đơn cực do mình chi phối.",
+    "Vụ tấn công khủng bố ngày 11/9/2001 nhằm vào nước Mỹ cho thấy siêu cường số một cũng dễ bị tổn thương, và từ đó Mỹ phát động cuộc chiến chống khủng bố ở Áp-ga-ni-xtan và I-rắc.",
+    "Vì các trung tâm quyền lực mới như Trung Quốc, Liên minh châu Âu, Nga, Ấn Độ ngày càng lớn mạnh nên tham vọng đơn cực của Mỹ ngày càng khó thực hiện và thế giới chuyển sang xu thế đa cực.",
+    "Dù vậy, đến nay Hoa Kỳ vẫn là nền kinh tế lớn nhất thế giới và có ảnh hưởng sâu rộng tới quan hệ quốc tế."
+   ],
+   "traps": [
+    "Sự kiện khủng bố nhằm vào nước Mỹ diễn ra ngày 11/9/2001, sau khi Chiến tranh lạnh đã kết thúc.",
+    "Mỹ trở thành siêu cường DUY NHẤT sau năm 1991, nhưng điều đó không có nghĩa thế giới mãi đơn cực — xu thế đa cực dần hình thành từ đầu thế kỷ XXI."
+   ],
+   "topic_title": "Trật tự thế giới mới từ năm 1991 đến nay. Liên bang Nga và nước Mỹ từ năm 1991 đến nay",
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 19
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Hoa_K%E1%BB%B3",
+    "https://vi.wikipedia.org/wiki/S%E1%BB%B1_ki%E1%BB%87n_11_th%C3%A1ng_9",
+    "https://polsci.institute/international-relations/uni-polarity-post-cold-war-us-dominance/"
+   ],
+   "fixed": [
+    "bổ sung nguồn độc lập vi.wikipedia (siêu cường sau 1991, sự kiện 11/9/2001) thay cho nguồn blog đơn lẻ"
+   ]
+  },
+  {
+   "name": "Nam Bộ kháng chiến (23/9/1945)",
+   "kind": "event",
+   "year": 1945,
+   "date_start": "1945-09-23",
+   "date_end": "1945-09-23",
+   "place": "Sài Gòn - Gia Định và Nam Bộ",
+   "actors": [
+    "Xứ ủy và Ủy ban Kháng chiến Nam Bộ",
+    "Quân Pháp",
+    "Quân Anh"
+   ],
+   "aliases": [
+    "Nam Bộ kháng chiến",
+    "ngày Nam Bộ kháng chiến",
+    "23/9/1945",
+    "kháng chiến Nam Bộ",
+    "Mùa thu rồi ngày hăm ba"
+   ],
+   "summary": "Ngày 23/9/1945, thực dân Pháp nổ súng đánh chiếm Sài Gòn, mở đầu cuộc xâm lược Việt Nam lần thứ hai; nhân dân Nam Bộ lập tức đứng lên kháng chiến.",
+   "facts": [
+    "Rạng sáng ngày 23/9/1945, được quân Anh giúp sức, thực dân Pháp nổ súng đánh chiếm trụ sở Ủy ban nhân dân Nam Bộ và nhiều cơ quan ở Sài Gòn, mở đầu cuộc xâm lược nước ta lần thứ hai.",
+    "Ngay sáng 23/9/1945, Xứ ủy và Ủy ban Kháng chiến Nam Bộ họp khẩn cấp tại Sài Gòn, ra lời kêu gọi nhân dân đứng lên kháng chiến chống thực dân Pháp.",
+    "Chiều 23/9/1945, Sài Gòn tổng bãi công, bãi thị: chợ không họp, cửa hiệu đóng cửa, xe cộ ngừng chạy, quân dân dựng chướng ngại vật khắp đường phố để bao vây quân Pháp.",
+    "Sự kiện xảy ra chỉ ba tuần sau ngày Chủ tịch Hồ Chí Minh đọc Tuyên ngôn Độc lập 2/9/1945, khi chính quyền cách mạng còn hết sức non trẻ.",
+    "Từ mốc 23/9/1945, nhân dân cả nước hướng về Nam Bộ, tổ chức các đoàn quân 'Nam tiến' vào chi viện, và Nam Bộ được tặng danh hiệu 'Thành đồng Tổ quốc'."
+   ],
+   "traps": [
+    "Ngày Nam Bộ kháng chiến là 23/9/1945, KHÔNG phải 5/10/1945 hay ngày nào khác.",
+    "Nam Bộ kháng chiến (23/9/1945) diễn ra trước Toàn quốc kháng chiến (19/12/1946) hơn một năm.",
+    "Pháp quay lại xâm lược Nam Bộ dưới sự tiếp tay của quân ANH vào giải giáp quân Nhật ở phía nam vĩ tuyến 16, còn ở miền Bắc là quân Trung Hoa Dân quốc."
+   ],
+   "topic_title": "Xây dựng và bảo vệ chính quyền nước Việt Nam Dân chủ Cộng hoà (từ tháng 9 – 1945 đến tháng 12 – 1946)",
+   "lessons": [
+    {
+     "book": "CTST",
+     "bai": 14
+    }
+   ],
+   "sources": [
+    "https://hcmc-museum.edu.vn/78-nam-ngay-nam-bo-khang-chien-khi-the-hao-hung-con-vang-mai/",
+    "https://baolaocai.vn/ngay-nam-bo-khang-chien-moc-son-lich-su-ve-vang-cua-dan-toc-post416349.html"
+   ]
+  },
+  {
+   "name": "Tổng tuyển cử bầu Quốc hội khóa I (6/1/1946)",
+   "kind": "event",
+   "year": 1946,
+   "date_start": "1946-01-06",
+   "date_end": "1946-01-06",
+   "place": "Cả nước Việt Nam",
+   "actors": [
+    "Chính phủ lâm thời nước Việt Nam Dân chủ Cộng hòa",
+    "Cử tri cả nước"
+   ],
+   "aliases": [
+    "Tổng tuyển cử đầu tiên",
+    "bầu cử Quốc hội khóa I",
+    "6/1/1946",
+    "Quốc hội khóa I",
+    "Hiến pháp 1946"
+   ],
+   "summary": "Cuộc Tổng tuyển cử đầu tiên trong lịch sử dân tộc, ngày 6/1/1946, bầu ra Quốc hội khóa I và tạo cơ sở pháp lý vững chắc cho nhà nước Việt Nam Dân chủ Cộng hòa.",
+   "facts": [
+    "Ngày 6/1/1946, lần đầu tiên trong lịch sử dân tộc, nhân dân cả nước đi bỏ phiếu bầu Quốc hội theo nguyên tắc phổ thông, bình đẳng, trực tiếp và bỏ phiếu kín.",
+    "Cuộc bầu cử diễn ra cả ở những vùng Nam Bộ, Nam Trung Bộ và Tây Nguyên đang có chiến sự, với tỉ lệ cử tri đi bầu đạt khoảng 89%.",
+    "Cuộc Tổng tuyển cử bầu ra 333 đại biểu Quốc hội khóa I, đại diện cho mọi tầng lớp nhân dân trong cả nước.",
+    "Quốc hội khóa I sau đó đã thông qua bản Hiến pháp năm 1946 — bản hiến pháp đầu tiên trong lịch sử lập hiến Việt Nam.",
+    "Vì chính quyền cách mạng vừa ra đời còn bị các thế lực thù địch tìm cách phủ nhận, nên thắng lợi của cuộc Tổng tuyển cử ngày 6/1/1946 đã khẳng định tính hợp pháp của nhà nước Việt Nam Dân chủ Cộng hòa trước nhân dân và thế giới."
+   ],
+   "traps": [
+    "Tổng tuyển cử đầu tiên bầu Quốc hội khóa I là ngày 6/1/1946, khác với tổng tuyển cử bầu Quốc hội khóa VI của nước Việt Nam thống nhất ngày 25/4/1976.",
+    "Quốc hội khóa I bầu được 333 đại biểu, và bản Hiến pháp do Quốc hội này thông qua là Hiến pháp năm 1946."
+   ],
+   "topic_title": "Xây dựng và bảo vệ chính quyền nước Việt Nam Dân chủ Cộng hoà (từ tháng 9 – 1945 đến tháng 12 – 1946)",
+   "lessons": [
+    {
+     "book": "CTST",
+     "bai": 14
+    }
+   ],
+   "sources": [
+    "https://tapchiqptd.vn/vi/an-pham-tap-chi-in/thang-loi-cua-tong-tuyen-cu-bau-quoc-hoi-khoa-i-611946-toan-bo-quyen-luc-thuoc-ve-nhan-dan/2421.html",
+    "https://quochoi.vn/tintuc/Pages/tin-hoat-dong-cua-quoc-hoi.aspx?ItemID=72135"
+   ]
+  },
+  {
+   "name": "Hiệp định Sơ bộ Việt - Pháp (6/3/1946)",
+   "kind": "treaty",
+   "year": 1946,
+   "date_start": "1946-03-06",
+   "date_end": "1946-03-06",
+   "place": "Số 38 phố Lý Thái Tổ, Hà Nội",
+   "actors": [
+    "Hồ Chí Minh",
+    "Vũ Hồng Khanh",
+    "Jean Sainteny"
+   ],
+   "aliases": [
+    "Hiệp định Sơ bộ 6/3/1946",
+    "Hiệp định Sơ bộ",
+    "hiệp định sơ bộ Việt - Pháp",
+    "6/3/1946",
+    "Sainteny"
+   ],
+   "summary": "Hiệp định ký ngày 6/3/1946 tại Hà Nội, theo đó Pháp công nhận Việt Nam là quốc gia tự do, còn ta đồng ý cho 15.000 quân Pháp ra Bắc thay quân Trung Hoa Dân quốc.",
+   "facts": [
+    "Hiệp định Sơ bộ được ký ngày 6/3/1946 tại số 38 phố Lý Thái Tổ, Hà Nội, giữa Chủ tịch Hồ Chí Minh và Vũ Hồng Khanh với đại diện Pháp là Xanh-tơ-ni (Jean Sainteny).",
+    "Theo hiệp định, Chính phủ Pháp công nhận nước Việt Nam Dân chủ Cộng hòa là một quốc gia tự do, có chính phủ, nghị viện, quân đội và tài chính riêng, nằm trong Liên bang Đông Dương và khối Liên hiệp Pháp.",
+    "Ta đồng ý cho 15.000 quân Pháp ra miền Bắc thay quân Trung Hoa Dân quốc làm nhiệm vụ giải giáp quân Nhật và số quân này sẽ rút dần trong thời hạn 5 năm.",
+    "Hai bên ngừng mọi xung đột và giữ nguyên vị trí quân đội để tiếp tục đàm phán; vấn đề thống nhất ba kỳ sẽ do trưng cầu dân ý quyết định.",
+    "Vì cùng lúc phải đối phó với 20 vạn quân Trung Hoa Dân quốc ở miền Bắc và quân Pháp ở miền Nam, ta đã chủ động ký Hiệp định Sơ bộ để đẩy nhanh quân Trung Hoa Dân quốc về nước, tránh cùng lúc đánh nhiều kẻ thù và có thêm thời gian chuẩn bị lực lượng."
+   ],
+   "traps": [
+    "Hiệp định Sơ bộ được ký ngày 6/3/1946 tại HÀ NỘI; còn Tạm ước ký ngày 14/9/1946 tại PARIS — hai văn kiện khác nhau về cả thời gian lẫn nơi ký.",
+    "Pháp chỉ công nhận Việt Nam là 'quốc gia TỰ DO' nằm trong Liên bang Đông Dương và khối Liên hiệp Pháp, chứ CHƯA công nhận là quốc gia độc lập.",
+    "Ký Hiệp định Sơ bộ là sách lược hòa hoãn để đuổi quân Trung Hoa Dân quốc, không phải là sự đầu hàng hay từ bỏ mục tiêu độc lập."
+   ],
+   "topic_title": "Xây dựng và bảo vệ chính quyền nước Việt Nam Dân chủ Cộng hoà (từ tháng 9 – 1945 đến tháng 12 – 1946)",
+   "lessons": [
+    {
+     "book": "CTST",
+     "bai": 14
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Hi%E1%BB%87p_%C4%91%E1%BB%8Bnh_S%C6%A1_b%E1%BB%99_(1946)"
+   ]
+  },
+  {
+   "name": "Tạm ước Việt - Pháp (14/9/1946)",
+   "kind": "treaty",
+   "year": 1946,
+   "date_start": "1946-09-14",
+   "date_end": "1946-09-14",
+   "place": "Paris, Cộng hòa Pháp",
+   "actors": [
+    "Hồ Chí Minh",
+    "Bộ trưởng Pháp quốc hải ngoại Marius Moutet"
+   ],
+   "aliases": [
+    "Tạm ước 14/9/1946",
+    "Tạm ước Việt - Pháp",
+    "modus vivendi 1946",
+    "Tạm ước 14-9",
+    "Mu-tê",
+    "Marius Moutet"
+   ],
+   "summary": "Bản tạm ước Chủ tịch Hồ Chí Minh ký với Bộ trưởng Mu-tê tại Paris ngày 14/9/1946, nhân nhượng thêm cho Pháp một số quyền lợi để kéo dài thời gian hòa hoãn.",
+   "facts": [
+    "Tạm ước Việt - Pháp được Chủ tịch Hồ Chí Minh ký với Bộ trưởng Pháp quốc hải ngoại Ma-ri-uýt Mu-tê (Marius Moutet) ngày 14/9/1946, tại thủ đô PARIS của nước Pháp.",
+    "Bản tạm ước gồm 11 điều, được ký lúc khoảng 1 giờ sáng ngày 15/9/1946 tại tư dinh của Bộ trưởng Mu-tê ở Paris nhưng mang ngày 14/9/1946, sau khi Hội nghị Phông-ten-nơ-blô thất bại.",
+    "Ta nhân nhượng thêm cho Pháp một số quyền lợi về kinh tế, văn hóa ở Việt Nam; hai bên cam kết bảo đảm quyền tự do dân chủ cho công dân của nhau và sẽ tiếp tục đàm phán chậm nhất vào đầu năm 1947.",
+    "Vì Hội nghị Phông-ten-nơ-blô (từ tháng 7 đến tháng 9/1946) bế tắc về vấn đề độc lập và thống nhất ba kỳ, Chủ tịch Hồ Chí Minh đã ở lại Paris ký Tạm ước 14/9/1946 để cứu vãn đàm phán và tránh chiến tranh nổ ra ngay lúc ta còn yếu.",
+    "Tạm ước 14/9/1946 đã kéo dài thêm quãng thời gian hòa bình quý báu cho ta chuẩn bị lực lượng, cho tới khi cuộc kháng chiến toàn quốc bùng nổ ngày 19/12/1946."
+   ],
+   "traps": [
+    "Tạm ước 14/9/1946 được ký tại PARIS (nước Pháp), KHÔNG phải tại Hà Nội. Hiệp định ký ở Hà Nội là Hiệp định Sơ bộ ngày 6/3/1946.",
+    "Người ký Tạm ước phía Việt Nam là Chủ tịch Hồ Chí Minh, phía Pháp là Bộ trưởng Mu-tê (không phải Xanh-tơ-ni như ở Hiệp định Sơ bộ).",
+    "Tạm ước 14/9/1946 là văn kiện nhân nhượng cuối cùng, ký SAU Hiệp định Sơ bộ 6/3/1946 và TRƯỚC ngày Toàn quốc kháng chiến 19/12/1946."
+   ],
+   "topic_title": "Xây dựng và bảo vệ chính quyền nước Việt Nam Dân chủ Cộng hoà (từ tháng 9 – 1945 đến tháng 12 – 1946)",
+   "lessons": [
+    {
+     "book": "CTST",
+     "bai": 14
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/T%E1%BA%A1m_%C6%B0%E1%BB%9Bc_Vi%E1%BB%87t_%E2%80%93_Ph%C3%A1p",
+    "https://baoquocte.vn/tam-uoc-1491946-giai-phap-chinh-tri-ngoai-giao-tai-tinh-ky-cuoi-115375.html",
+    "https://baotanglichsu.vn/vi/Articles/3097/15067/67-nam-ky-ket-tam-uoc-viet-phap-14-9-1946-14-9-2013.html"
+   ],
+   "fixed": [
+    "làm rõ: bản Tạm ước được ký rạng sáng 15/9/1946 tại tư dinh Mu-tê (Paris) nhưng đề ngày 14/9/1946"
+   ]
+  },
+  {
+   "name": "Kế hoạch Nava",
+   "kind": "concept",
+   "year": 1953,
+   "date_start": "1953-05-07",
+   "date_end": "1954-05-07",
+   "place": "Đông Dương",
+   "actors": [
+    "Tướng Hăng-ri Na-va",
+    "Chính phủ Pháp",
+    "Hoa Kỳ"
+   ],
+   "aliases": [
+    "kế hoạch Nava",
+    "kế hoạch Na-va",
+    "kế hoạch Navarre",
+    "Henri Navarre",
+    "kế hoạch quân sự Nava 1953"
+   ],
+   "summary": "Kế hoạch quân sự của tướng Nava năm 1953 nhằm kết thúc chiến tranh Đông Dương 'trong danh dự' sau 18 tháng, nhưng đã bị đánh bại hoàn toàn năm 1954.",
+   "facts": [
+    "Kế hoạch Nava do tướng Hăng-ri Na-va, Tổng chỉ huy quân đội viễn chinh Pháp ở Đông Dương, vạch ra từ giữa năm 1953 với sự giúp sức của Mỹ.",
+    "Mục tiêu của kế hoạch là trong vòng 18 tháng sẽ giành thắng lợi quyết định để 'kết thúc chiến tranh trong danh dự' cho nước Pháp.",
+    "Kế hoạch chia làm hai bước: bước một giữ thế phòng ngự ở miền Bắc và tiến công bình định miền Trung, miền Nam Đông Dương; bước hai chuyển lực lượng ra Bắc để quyết chiến với chủ lực ta.",
+    "Điểm yếu cơ bản của kế hoạch Nava là mâu thuẫn giữa tập trung lực lượng để đánh và phân tán lực lượng để giữ đất.",
+    "Chính vì ta chủ động mở các cuộc tiến công trong Đông - Xuân 1953-1954 buộc Pháp phải xé lẻ khối quân cơ động ra nhiều nơi, nên kế hoạch Nava bước đầu bị phá sản và cuối cùng sụp đổ hoàn toàn sau thất bại Điện Biên Phủ ngày 7/5/1954."
+   ],
+   "traps": [
+    "Kế hoạch Nava là kế hoạch của PHÁP (có Mỹ hậu thuẫn) đề ra năm 1953, không phải kế hoạch quân sự của ta.",
+    "Kế hoạch Nava khác với kế hoạch Đờ Lát đơ Tát-xi-nhi (1950) và kế hoạch Rơ-ve (1949).",
+    "Kế hoạch Nava bị phá sản do cuộc Tiến công chiến lược Đông - Xuân 1953-1954 và đòn kết liễu là Chiến dịch Điện Biên Phủ."
+   ],
+   "topic_title": "Cuộc kháng chiến chống thực dân Pháp kết thúc thắng lợi (1951 – 1954)",
+   "lessons": [
+    {
+     "book": "CTST",
+     "bai": 16
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_c%E1%BB%A5c_%C4%90%C3%B4ng_Xu%C3%A2n_1953%E2%80%931954"
+   ]
+  },
+  {
+   "name": "Cuộc Tiến công chiến lược Đông - Xuân 1953 - 1954",
+   "kind": "campaign",
+   "year": 1954,
+   "date_start": "1953-12-01",
+   "date_end": "1954-03-01",
+   "place": "Lai Châu (Tây Bắc), Trung Lào, Hạ Lào, Bắc Tây Nguyên, Thượng Lào",
+   "actors": [
+    "Quân đội nhân dân Việt Nam",
+    "Lực lượng kháng chiến Lào và Cam-pu-chia",
+    "Quân viễn chinh Pháp"
+   ],
+   "aliases": [
+    "Đông Xuân 1953-1954",
+    "chiến cục Đông Xuân 1953-1954",
+    "tiến công chiến lược Đông - Xuân 1953-1954",
+    "đông xuân 53-54"
+   ],
+   "summary": "Chuỗi các cuộc tiến công của ta trên khắp chiến trường Đông Dương trong đông xuân 1953-1954, buộc Pháp phân tán khối quân cơ động và tạo tiền đề cho chiến dịch Điện Biên Phủ.",
+   "facts": [
+    "Trong đông xuân 1953-1954, quân ta phối hợp với lực lượng kháng chiến Lào và Cam-pu-chia mở hàng loạt cuộc tiến công vào những hướng địch sơ hở nhưng hiểm yếu trên toàn Đông Dương.",
+    "Ta tiến công giải phóng Lai Châu ở Tây Bắc, phối hợp mở chiến dịch ở Trung Lào, Hạ Lào - Đông Bắc Cam-pu-chia, Bắc Tây Nguyên và Thượng Lào.",
+    "Vì bị ta tiến công ở nhiều hướng cùng lúc, Pháp buộc phải xé lẻ khối quân cơ động chiến lược tập trung ở đồng bằng Bắc Bộ để đối phó, hình thành 5 nơi tập trung quân: Đồng bằng Bắc Bộ, Điện Biên Phủ, Xê-nô, Luông Pha-bang - Mường Sài và Plây Cu.",
+    "Việc địch phải phân tán lực lượng đã khoét sâu mâu thuẫn cơ bản của kế hoạch Nava giữa tập trung và phân tán, làm kế hoạch này bước đầu bị phá sản.",
+    "Chính vì cuộc Tiến công chiến lược Đông - Xuân 1953-1954 kéo giãn và ghim chân quân Pháp ở khắp nơi mà Điện Biên Phủ trở thành nơi Pháp phải dồn quân phòng thủ, tạo tiền đề trực tiếp để ta mở chiến dịch Điện Biên Phủ đầu năm 1954."
+   ],
+   "traps": [
+    "Cuộc Tiến công chiến lược Đông - Xuân 1953-1954 diễn ra TRƯỚC và là bước chuẩn bị (bước đệm) cho Chiến dịch Điện Biên Phủ (13/3 - 7/5/1954), không phải diễn ra sau.",
+    "Đông - Xuân 1953-1954 là chuỗi nhiều chiến dịch trên toàn Đông Dương, không phải một trận đánh đơn lẻ.",
+    "Đây là các cuộc tiến công do TA chủ động mở nhằm phá kế hoạch Nava của Pháp."
+   ],
+   "topic_title": "Cuộc kháng chiến chống thực dân Pháp kết thúc thắng lợi (1951 – 1954)",
+   "lessons": [
+    {
+     "book": "CTST",
+     "bai": 16
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_c%E1%BB%A5c_%C4%90%C3%B4ng_Xu%C3%A2n_1953%E2%80%931954",
+    "https://baolamdong.vn/ho-so-tu-lieu/202404/lung-lay-dien-bien-chan-dong-dia-cau-phuong-cham-chi-dao-chien-luoc-cua-dang-trong-dong-xuan-1953-1954-va-chien-dich-dien-bien-phu-f6203b3/"
+   ]
+  },
+  {
+   "name": "Chiến dịch Điện Biên Phủ (1954)",
+   "kind": "campaign",
+   "year": 1954,
+   "date_start": "1954-03-13",
+   "date_end": "1954-05-07",
+   "place": "Lòng chảo Điện Biên Phủ, tỉnh Lai Châu (nay là tỉnh Điện Biên), Tây Bắc Việt Nam",
+   "actors": [
+    "Đại tướng Võ Nguyên Giáp",
+    "Tướng Đờ Cát-xtơ-ri (De Castries)",
+    "Quân đội nhân dân Việt Nam"
+   ],
+   "aliases": [
+    "Điện Biên Phủ",
+    "chiến dịch Điện Biên Phủ 1954",
+    "trận Điện Biên Phủ",
+    "56 ngày đêm Điện Biên Phủ",
+    "đồi A1",
+    "Him Lam",
+    "Dien Bien Phu"
+   ],
+   "summary": "Chiến dịch quyết chiến chiến lược từ 13/3 đến 7/5/1954, tiêu diệt tập đoàn cứ điểm mạnh nhất của Pháp ở Đông Dương và kết thúc cuộc kháng chiến chống Pháp.",
+   "facts": [
+    "Chiến dịch Điện Biên Phủ diễn ra từ ngày 13/3 đến ngày 7/5/1954, kéo dài 56 ngày đêm ở lòng chảo Điện Biên thuộc vùng Tây Bắc nước ta.",
+    "Đại tướng Võ Nguyên Giáp làm Tư lệnh kiêm Bí thư Đảng ủy chiến dịch; phía Pháp do tướng Đờ Cát-xtơ-ri chỉ huy tập đoàn cứ điểm mạnh nhất Đông Dương với khoảng 16.000 quân.",
+    "Trước giờ nổ súng, Đại tướng Võ Nguyên Giáp đã quyết định thay đổi phương châm từ 'đánh nhanh, thắng nhanh' sang 'đánh chắc, tiến chắc', kéo pháo ra để chuẩn bị lại — đó là quyết định khó khăn nhất nhưng đúng đắn nhất của chiến dịch.",
+    "Chiến dịch diễn ra qua ba đợt: đợt một từ 13 đến 17/3 tiêu diệt Him Lam và Độc Lập; đợt hai từ 30/3 đến cuối tháng 4 đánh chiếm các cao điểm phía đông trong đó có đồi A1 ác liệt nhất; đợt ba từ 1/5 tổng công kích.",
+    "Chiều 7/5/1954, quân ta đánh vào sở chỉ huy, bắt sống tướng Đờ Cát-xtơ-ri cùng toàn bộ ban tham mưu, lá cờ 'Quyết chiến quyết thắng' tung bay trên nóc hầm chỉ huy.",
+    "Vì tập đoàn cứ điểm Điện Biên Phủ bị tiêu diệt hoàn toàn ngày 7/5/1954, thực dân Pháp mất chỗ dựa quân sự cuối cùng và ngay hôm sau, ngày 8/5/1954, Hội nghị Giơ-ne-vơ bắt đầu bàn về việc lập lại hòa bình ở Đông Dương."
+   ],
+   "traps": [
+    "Chiến dịch Điện Biên Phủ diễn ra từ 13/3 đến 7/5/1954 và là trận đánh với thực dân PHÁP; hoàn toàn khác 'Điện Biên Phủ trên không' tháng 12/1972 đánh máy bay B-52 của MỸ trên bầu trời Hà Nội.",
+    "Phương châm tác chiến cuối cùng là 'đánh chắc, tiến chắc', không phải 'đánh nhanh, thắng nhanh' như dự kiến ban đầu.",
+    "Tướng Pháp bị bắt sống ở Điện Biên Phủ là Đờ Cát-xtơ-ri (De Castries), không phải Na-va (Nava là Tổng chỉ huy ở Đông Dương)."
+   ],
+   "topic_title": "Cuộc kháng chiến chống thực dân Pháp kết thúc thắng lợi (1951 – 1954)",
+   "lessons": [
+    {
+     "book": "CTST",
+     "bai": 16
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_d%E1%BB%8Bch_%C4%90i%E1%BB%87n_Bi%C3%AAn_Ph%E1%BB%A7",
+    "https://vi.wikipedia.org/wiki/Hi%E1%BB%87p_%C4%91%E1%BB%8Bnh_Gen%C3%A8ve_1954"
+   ]
+  },
+  {
+   "name": "Hiệp định Genève về Đông Dương (1954)",
+   "kind": "treaty",
+   "year": 1954,
+   "date_start": "1954-07-21",
+   "date_end": "1954-07-21",
+   "place": "Genève, Thụy Sĩ",
+   "actors": [
+    "Việt Nam Dân chủ Cộng hòa",
+    "Pháp",
+    "Liên Xô",
+    "Trung Quốc",
+    "Anh",
+    "Hoa Kỳ"
+   ],
+   "aliases": [
+    "Hiệp định Genève 1954",
+    "Hiệp định Giơ-ne-vơ",
+    "hội nghị Giơnevơ",
+    "Geneva Accords",
+    "hiệp định đình chiến Đông Dương",
+    "vĩ tuyến 17"
+   ],
+   "summary": "Hiệp định ký tại Genève tháng 7/1954, chấm dứt chiến tranh Đông Dương, lấy vĩ tuyến 17 làm giới tuyến quân sự tạm thời và dự kiến tổng tuyển cử thống nhất vào tháng 7/1956.",
+   "facts": [
+    "Hội nghị Giơ-ne-vơ bắt đầu bàn về vấn đề lập lại hòa bình ở Đông Dương từ ngày 8/5/1954, tức chỉ một ngày sau chiến thắng Điện Biên Phủ.",
+    "Hiệp định Giơ-ne-vơ được ký kết ngày 21/7/1954 tại thành phố Giơ-ne-vơ (Thụy Sĩ), chấm dứt cuộc chiến tranh xâm lược của thực dân Pháp ở ba nước Đông Dương.",
+    "Hiệp định đình chỉ chiến sự ở Việt Nam được ký kết ngày 21/7/1954 (văn bản đề ngày 20/7/1954); Hoa Kỳ tuy dự hội nghị nhưng KHÔNG ký vào Tuyên bố cuối cùng mà chỉ ra tuyên bố riêng, cam kết không dùng vũ lực phá hoại hiệp định.",
+    "Các nước tham dự cam kết tôn trọng độc lập, chủ quyền, thống nhất và toàn vẹn lãnh thổ của Việt Nam, Lào, Cam-pu-chia và không can thiệp vào công việc nội bộ của ba nước.",
+    "Hiệp định quy định lấy vĩ tuyến 17 (dọc sông Bến Hải, tỉnh Quảng Trị) làm giới tuyến quân sự TẠM THỜI để hai bên tập kết quân đội, và nêu rõ giới tuyến này không được coi là ranh giới chính trị hay lãnh thổ.",
+    "Theo hiệp định, Việt Nam sẽ tiến tới thống nhất bằng cuộc tổng tuyển cử tự do trong cả nước, dự kiến tổ chức vào tháng 7/1956.",
+    "Vì Mỹ nhảy vào dựng lên chính quyền tay sai ở miền Nam và phá hoại việc thi hành hiệp định, cuộc tổng tuyển cử năm 1956 đã không diễn ra, đất nước bị chia cắt kéo dài suốt 21 năm."
+   ],
+   "traps": [
+    "Hiệp định Genève ký ngày 21/7/1954 tại Thụy Sĩ, khác hoàn toàn với Hiệp định Paris ký ngày 27/1/1973 tại Pháp.",
+    "Vĩ tuyến 17 chỉ là giới tuyến QUÂN SỰ TẠM THỜI, KHÔNG phải biên giới quốc gia hay ranh giới chính trị.",
+    "Tổng tuyển cử thống nhất được dự kiến vào tháng 7/1956 nhưng đã không diễn ra do Mỹ và chính quyền Sài Gòn phá hoại.",
+    "Hoa Kỳ tham dự Hội nghị Giơ-ne-vơ nhưng KHÔNG ký vào Tuyên bố cuối cùng — đây là kẽ hở để Mỹ sau đó nhảy vào miền Nam Việt Nam."
+   ],
+   "topic_title": "Cuộc kháng chiến chống thực dân Pháp kết thúc thắng lợi (1951 – 1954)",
+   "lessons": [
+    {
+     "book": "CTST",
+     "bai": 16
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Hi%E1%BB%87p_%C4%91%E1%BB%8Bnh_Gen%C3%A8ve_1954"
+   ],
+   "fixed": [
+    "bổ sung dữ kiện then chốt: Hoa Kỳ không ký Tuyên bố cuối cùng của Hội nghị Giơ-ne-vơ (thẻ cũ liệt kê Hoa Kỳ trong actors dễ gây hiểu nhầm là bên ký)"
+   ]
+  },
+  {
+   "name": "Công cuộc Đổi mới ở Việt Nam từ năm 1991 đến nay",
+   "kind": "period",
+   "year": 1991,
+   "date_start": "1991-06-24",
+   "date_end": null,
+   "place": "Việt Nam",
+   "actors": [
+    "Đảng Cộng sản Việt Nam",
+    "Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam"
+   ],
+   "aliases": [
+    "Đổi mới từ 1991",
+    "công cuộc Đổi mới giai đoạn 1991 đến nay",
+    "đẩy mạnh công nghiệp hóa hiện đại hóa",
+    "hội nhập quốc tế của Việt Nam"
+   ],
+   "summary": "Giai đoạn Đổi mới được đẩy mạnh từ Đại hội VII (1991), gắn với công nghiệp hóa - hiện đại hóa và hội nhập quốc tế sâu rộng.",
+   "facts": [
+    "Đại hội VII của Đảng, họp tháng 6/1991, đã thông qua Cương lĩnh xây dựng đất nước trong thời kỳ quá độ lên chủ nghĩa xã hội, tiếp tục và đẩy mạnh đường lối Đổi mới.",
+    "Từ năm 1996, Việt Nam bước vào thời kỳ đẩy mạnh công nghiệp hóa, hiện đại hóa đất nước, phát triển kinh tế thị trường định hướng xã hội chủ nghĩa.",
+    "Về đối ngoại, Việt Nam thực hiện đường lối độc lập, tự chủ, đa phương hóa, đa dạng hóa quan hệ, sẵn sàng là bạn và đối tác tin cậy của các nước.",
+    "Nhờ Đổi mới, Việt Nam thoát khỏi khủng hoảng kinh tế - xã hội, ra khỏi nhóm nước có thu nhập thấp và trở thành một trong những nước xuất khẩu gạo, cà phê, thủy sản, dệt may hàng đầu thế giới.",
+    "Vì kiên trì đường lối Đổi mới và mở cửa hội nhập từ đầu thập niên 1990, vị thế quốc tế của Việt Nam ngày càng được nâng cao, thể hiện qua việc gia nhập ASEAN (1995), APEC (1998), WTO (2007) và nhiều lần được bầu làm Ủy viên không thường trực Hội đồng Bảo an Liên hợp quốc."
+   ],
+   "traps": [
+    "Đổi mới bắt đầu từ Đại hội VI (12/1986); giai đoạn từ 1991 là giai đoạn TIẾP TỤC và ĐẨY MẠNH Đổi mới, không phải khởi đầu.",
+    "Kinh tế Việt Nam sau Đổi mới là kinh tế thị trường ĐỊNH HƯỚNG XÃ HỘI CHỦ NGHĨA, có sự quản lý của Nhà nước."
+   ],
+   "topic_title": "Công cuộc Đổi mới từ năm 1991 đến nay",
+   "lessons": [
+    {
+     "book": "CTST",
+     "bai": 23
+    }
+   ],
+   "sources": [
+    "https://trungtamwto.vn/chuyen-de/21240-27-nam-viet-nam-gia-nhap-asean-2871995-2872022-khang-dinh-vai-tro-nang-tam-vi-the",
+    "https://tapchinganhang.gov.vn/viet-nam-sau-gan-30-nam-hoi-nhap-kinh-te-quoc-te-393.html"
+   ]
+  },
+  {
+   "name": "Việt Nam gia nhập ASEAN (28/7/1995)",
+   "kind": "event",
+   "year": 1995,
+   "date_start": "1995-07-28",
+   "date_end": "1995-07-28",
+   "place": "Ban-đa Xê-ri Bê-ga-oan, Bru-nây",
+   "actors": [
+    "Việt Nam",
+    "Hiệp hội các quốc gia Đông Nam Á (ASEAN)"
+   ],
+   "aliases": [
+    "gia nhập ASEAN",
+    "Việt Nam là thành viên thứ 7 của ASEAN",
+    "28/7/1995",
+    "ASEAN 1995",
+    "Hiệp hội các quốc gia Đông Nam Á"
+   ],
+   "summary": "Ngày 28/7/1995, Việt Nam chính thức trở thành thành viên thứ bảy của ASEAN, mở ra thời kỳ hội nhập khu vực.",
+   "facts": [
+    "Ngày 28/7/1995, Việt Nam chính thức trở thành thành viên thứ bảy của Hiệp hội các quốc gia Đông Nam Á (ASEAN).",
+    "Việc gia nhập ASEAN đánh dấu bước đột phá trong đường lối đối ngoại đa phương hóa, đa dạng hóa mà Đảng đề ra từ khi Đổi mới.",
+    "Từ khi tham gia ASEAN, Việt Nam đã nhiều lần đảm nhiệm vai trò Chủ tịch ASEAN và đăng cai các hội nghị cấp cao của khối.",
+    "Vì Việt Nam kiên trì đường lối Đổi mới và mở cửa, phá được thế bao vây cấm vận, nên năm 1995 nước ta vừa gia nhập ASEAN vừa bình thường hóa quan hệ với Hoa Kỳ — năm bản lề của hội nhập quốc tế.",
+    "Gia nhập ASEAN giúp Việt Nam mở rộng thị trường, thu hút đầu tư và tăng cường vị thế trong khu vực Đông Nam Á."
+   ],
+   "traps": [
+    "Việt Nam gia nhập ASEAN ngày 28/7/1995 và là thành viên THỨ BẢY, không phải thành viên sáng lập (ASEAN thành lập năm 1967 với 5 nước).",
+    "Gia nhập ASEAN (28/7/1995) khác với gia nhập WTO (năm 2007) và APEC (năm 1998)."
+   ],
+   "topic_title": "Công cuộc Đổi mới từ năm 1991 đến nay",
+   "lessons": [
+    {
+     "book": "CTST",
+     "bai": 23
+    }
+   ],
+   "sources": [
+    "https://trungtamwto.vn/chuyen-de/21240-27-nam-viet-nam-gia-nhap-asean-2871995-2872022-khang-dinh-vai-tro-nang-tam-vi-the",
+    "https://hanoimoi.vn/ba-thap-ky-tham-gia-va-lam-thay-doi-asean-710712.html"
+   ]
+  },
+  {
+   "name": "Bình thường hóa quan hệ Việt Nam - Hoa Kỳ (11/7/1995)",
+   "kind": "event",
+   "year": 1995,
+   "date_start": "1995-07-11",
+   "date_end": "1995-07-11",
+   "place": "Washington D.C., Hoa Kỳ và Hà Nội, Việt Nam",
+   "actors": [
+    "Tổng thống Hoa Kỳ Bin Clin-tơn",
+    "Chính phủ Việt Nam"
+   ],
+   "aliases": [
+    "bình thường hóa quan hệ Việt - Mỹ",
+    "11/7/1995",
+    "quan hệ Việt Nam Hoa Kỳ 1995",
+    "Bill Clinton bình thường hóa"
+   ],
+   "summary": "Ngày 11/7/1995, Tổng thống Mỹ Bin Clin-tơn tuyên bố bình thường hóa quan hệ ngoại giao với Việt Nam, khép lại thời kỳ cấm vận kéo dài.",
+   "facts": [
+    "Ngày 11/7/1995 (giờ Washington, tức rạng sáng 12/7/1995 giờ Hà Nội), Tổng thống Hoa Kỳ Bin Clin-tơn tuyên bố bình thường hóa quan hệ ngoại giao với Việt Nam; Thủ tướng Võ Văn Kiệt ra tuyên bố tương ứng của phía Việt Nam ngày 12/7/1995.",
+    "Sự kiện này diễn ra sau khi Mỹ tuyên bố dỡ bỏ lệnh cấm vận kinh tế đối với Việt Nam ngày 3/2/1994.",
+    "Từ mức kim ngạch thương mại chỉ khoảng 450 triệu USD năm 1995, trao đổi hàng hóa hai chiều Việt Nam - Hoa Kỳ đã tăng hàng trăm lần trong ba thập niên tiếp theo.",
+    "Vì Việt Nam thực hiện đường lối đối ngoại rộng mở, khép lại quá khứ và hướng tới tương lai từ khi Đổi mới, nên quan hệ với cựu thù Hoa Kỳ đã chuyển từ đối đầu sang hợp tác từ giữa thập niên 1990.",
+    "Năm 1995 là năm bản lề của ngoại giao Việt Nam vì chỉ trong tháng 7 đã có hai sự kiện lớn: bình thường hóa quan hệ với Hoa Kỳ (11/7) và gia nhập ASEAN (28/7)."
+   ],
+   "traps": [
+    "Bình thường hóa quan hệ Việt - Mỹ là ngày 11/7/1995, còn gia nhập ASEAN là ngày 28/7/1995 — hai sự kiện khác nhau trong cùng tháng 7/1995.",
+    "Mỹ dỡ bỏ cấm vận kinh tế với Việt Nam từ năm 1994, TRƯỚC khi bình thường hóa quan hệ ngoại giao năm 1995."
+   ],
+   "topic_title": "Công cuộc Đổi mới từ năm 1991 đến nay",
+   "lessons": [
+    {
+     "book": "CTST",
+     "bai": 23
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Quan_h%E1%BB%87_Hoa_K%E1%BB%B3_%E2%80%93_Vi%E1%BB%87t_Nam",
+    "https://trungtamwto.vn/chuyen-de/21240-27-nam-viet-nam-gia-nhap-asean-2871995-2872022-khang-dinh-vai-tro-nang-tam-vi-the"
+   ],
+   "fixed": [
+    "bổ sung mốc chính xác: 11/7/1995 giờ Mỹ = 12/7/1995 giờ Việt Nam (tuyên bố của Thủ tướng Võ Văn Kiệt) và ngày dỡ cấm vận 3/2/1994; bỏ nguồn luyện thi dolthpt.vn"
+   ]
+  },
+  {
+   "name": "Việt Nam gia nhập Tổ chức Thương mại Thế giới (WTO)",
+   "kind": "event",
+   "year": 2007,
+   "date_start": "2007-01-11",
+   "date_end": "2007-01-11",
+   "place": "Giơ-ne-vơ, Thụy Sĩ",
+   "actors": [
+    "Việt Nam",
+    "Tổ chức Thương mại Thế giới (WTO)"
+   ],
+   "aliases": [
+    "gia nhập WTO",
+    "WTO 2007",
+    "thành viên thứ 150 của WTO",
+    "Tổ chức Thương mại Thế giới"
+   ],
+   "summary": "Ngày 11/1/2007, Việt Nam chính thức trở thành thành viên của Tổ chức Thương mại Thế giới, đánh dấu bước hội nhập kinh tế quốc tế sâu rộng.",
+   "facts": [
+    "Ngày 11/1/2007, tại Giơ-ne-vơ (Thụy Sĩ), Việt Nam chính thức trở thành thành viên thứ 150 của Tổ chức Thương mại Thế giới (WTO) sau hơn 11 năm đàm phán gia nhập.",
+    "Gia nhập WTO giúp hàng hóa Việt Nam tiếp cận thị trường của hầu hết các nền kinh tế trên thế giới với mức thuế ưu đãi và các quy tắc thương mại chung.",
+    "Sau khi vào WTO, Việt Nam tiếp tục ký kết nhiều hiệp định thương mại tự do thế hệ mới, đẩy mạnh xuất khẩu và thu hút vốn đầu tư nước ngoài.",
+    "Vì Việt Nam kiên trì Đổi mới, cải cách thể chế kinh tế và hội nhập từng bước qua ASEAN (1995), APEC (1998), nên đến năm 2007 nước ta đủ điều kiện gia nhập sân chơi thương mại toàn cầu WTO.",
+    "Việc gia nhập WTO vừa mở ra cơ hội lớn về thị trường, vừa đặt nền kinh tế Việt Nam trước sức ép cạnh tranh gay gắt hơn."
+   ],
+   "traps": [
+    "Việt Nam gia nhập WTO năm 2007, không phải năm 1995 (năm gia nhập ASEAN) hay 1998 (năm gia nhập APEC).",
+    "WTO là tổ chức thương mại toàn cầu, khác với ASEAN là tổ chức khu vực Đông Nam Á."
+   ],
+   "topic_title": "Công cuộc Đổi mới từ năm 1991 đến nay",
+   "lessons": [
+    {
+     "book": "CTST",
+     "bai": 23
+    }
+   ],
+   "sources": [
+    "https://baochinhphu.vn/viet-nam-chinh-thuc-tro-thanh-thanh-vien-day-du-cua-to-chuc-thuong-mai-the-gioi-wto-1027980.htm",
+    "https://trungtamwto.vn/an-pham/27349-mot-viet-nam-sau-30-nam-hoi-nhap",
+    "https://tapchinganhang.gov.vn/viet-nam-sau-gan-30-nam-hoi-nhap-kinh-te-quoc-te-393.html"
+   ],
+   "fixed": [
+    "bổ sung 'thành viên thứ 150' và nơi kết nạp (Giơ-ne-vơ) vào fact; thêm nguồn baochinhphu.vn"
+   ]
+  },
+  {
+   "name": "Phong trào cách mạng 1930 - 1931 và Xô viết Nghệ - Tĩnh",
+   "kind": "movement",
+   "year": 1930,
+   "date_start": "1930-02-03",
+   "date_end": "1931-12-31",
+   "place": "Cả nước, đỉnh cao là hai tỉnh Nghệ An và Hà Tĩnh",
+   "actors": [
+    "Đảng Cộng sản Việt Nam (từ 10/1930 là Đảng Cộng sản Đông Dương)",
+    "Công nhân và nông dân Nghệ An - Hà Tĩnh",
+    "Thực dân Pháp và chính quyền phong kiến tay sai"
+   ],
+   "aliases": [
+    "Xô viết Nghệ - Tĩnh",
+    "Xô viết Nghệ Tĩnh",
+    "Xô viết Nghệ Tĩnh 1930-1931",
+    "phong trào cách mạng 1930 - 1931",
+    "cao trào 1930-1931",
+    "biểu tình Hưng Nguyên 12/9/1930",
+    "ngày Xô viết Nghệ Tĩnh 12/9"
+   ],
+   "summary": "Cao trào cách mạng đầu tiên do Đảng lãnh đạo, diễn ra trong hai năm 1930 - 1931, đỉnh cao là các Xô viết ở Nghệ An và Hà Tĩnh — hình thức chính quyền cách mạng sơ khai đầu tiên ở Việt Nam.",
+   "facts": [
+    "Phong trào cách mạng 1930 - 1931 nổ ra ngay sau khi Đảng Cộng sản Việt Nam ra đời (3/2/1930), trong bối cảnh khủng hoảng kinh tế thế giới 1929 - 1933 và thực dân Pháp khủng bố trắng sau khởi nghĩa Yên Bái.",
+    "Ngày 1/5/1930, công nhân khu công nghiệp Vinh - Bến Thủy cùng nông dân các vùng lân cận biểu tình, lần đầu tiên giai cấp công nhân Việt Nam kỷ niệm ngày Quốc tế Lao động và tỏ rõ tình đoàn kết quốc tế.",
+    "Ngày 12/9/1930, khoảng 8.000 nông dân huyện Hưng Nguyên (Nghệ An) biểu tình kéo về thị xã Vinh, đoàn người lên tới hàng vạn; thực dân Pháp cho máy bay ném bom làm 217 người chết và 125 người bị thương — ngày 12/9 sau này trở thành ngày kỷ niệm Xô viết Nghệ - Tĩnh.",
+    "Chính vì bộ máy chính quyền của địch ở nhiều huyện tan rã trước sức đấu tranh của quần chúng nên từ tháng 9/1930 các Ban Chấp hành Nông hội xã đã đứng ra quản lý làng xã theo kiểu Xô viết ở Thanh Chương, Nam Đàn, Anh Sơn, Nghi Lộc, Hưng Nguyên, Diễn Châu (Nghệ An) và từ khoảng cuối năm 1930 ở Can Lộc, Nghi Xuân, Hương Khê (Hà Tĩnh).",
+    "Các Xô viết thực hiện quyền làm chủ của nhân dân: chia lại ruộng đất công, xóa nợ, bãi bỏ thuế vô lý, lập đội Tự vệ đỏ và tòa án nhân dân, mở lớp dạy chữ Quốc ngữ, bài trừ mê tín hủ tục.",
+    "Vì thực dân Pháp tiến hành khủng bố cực kỳ tàn bạo từ cuối năm 1930, các Xô viết chỉ tồn tại được khoảng bốn đến năm tháng rồi tan rã; đến giữa năm 1931 phong trào cả nước lắng xuống, nhưng đây là cuộc tập dượt đầu tiên của Đảng và quần chúng cho Cách mạng tháng Tám năm 1945."
+   ],
+   "traps": [
+    "Xô viết Nghệ - Tĩnh diễn ra trong hai năm 1930 - 1931 (đỉnh cao là cuối 1930 - đầu 1931), KHÔNG phải năm 1935 hay giai đoạn 1936 - 1939.",
+    "Xô viết Nghệ - Tĩnh là ĐỈNH CAO của phong trào cách mạng 1930 - 1931, chỉ diễn ra ở Nghệ An và Hà Tĩnh, không phải trên cả nước.",
+    "Xô viết là hình thức chính quyền cách mạng sơ khai do Ban Chấp hành Nông hội xã quản lý, chưa phải là nhà nước độc lập; nhà nước Việt Nam Dân chủ Cộng hòa mãi tới 2/9/1945 mới ra đời.",
+    "Cuộc biểu tình lớn ngày 12/9/1930 diễn ra ở huyện Hưng Nguyên (Nghệ An), bị Pháp ném bom làm 217 người chết — đây là ngày được lấy làm ngày kỷ niệm Xô viết Nghệ - Tĩnh."
+   ],
+   "topic_title": "Phong trào cách mạng Việt Nam thời kì 1930 - 1939",
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 7
+    },
+    {
+     "book": "CTST",
+     "bai": 7
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/X%C3%B4_Vi%E1%BA%BFt_Ngh%E1%BB%87_T%C4%A9nh",
+    "https://nghean.dcs.vn/vi-vn/tin/phong-trao-xo-viet-nghe-tinh-1930%E2%80%931931-%E2%80%93-ban-anh-hung-ca-cua-lien-minh-cong-nong-duoi-ngon-co-dang/73410-598375-82659",
+    "https://baoquankhu4.com.vn/dat-va-nguoi-quan-khu-4/ky-niem-93-nam-ngay-xo-viet-nghe-tinh-12-9-1930-12-9-2023-.html"
+   ]
+  }
+ ]
+}

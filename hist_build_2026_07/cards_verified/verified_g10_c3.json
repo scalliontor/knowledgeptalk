@@ -1,0 +1,404 @@
+{
+ "grade": 10,
+ "chunk": 3,
+ "cards": [
+  {
+   "name": "Các Mác",
+   "kind": "person",
+   "aliases": [
+    "Karl Marx",
+    "C. Mác",
+    "Mác",
+    "Các-Mác",
+    "Cac Mac",
+    "Kark Marx",
+    "Mac"
+   ],
+   "year": null,
+   "date_start": "1818-05-05",
+   "date_end": "1883-03-14",
+   "place": "Tơ-ri-ơ (Trier), Đức; mất tại Luân Đôn, Anh",
+   "actors": [
+    "Các Mác",
+    "Phri-đrích Ăng-ghen"
+   ],
+   "summary": "Nhà tư tưởng người Đức, cùng Ăng-ghen sáng lập chủ nghĩa xã hội khoa học giữa thế kỉ XIX.",
+   "facts": [
+    "Các Mác sinh ngày 5/5/1818 tại thành phố Tơ-ri-ơ của nước Đức và qua đời ngày 14/3/1883 ở Luân Đôn, nước Anh.",
+    "Năm 1842, Các Mác và Ăng-ghen gặp nhau lần đầu tại Cô-lô-nhơ, nhưng cuộc gặp đó chỉ thoáng qua; phải đến cuối tháng 8/1844, khi Ăng-ghen sang Pa-ri thăm Mác, tình bạn và sự hợp tác suốt đời của hai ông mới thật sự bắt đầu.",
+    "Năm 1848, Các Mác cùng Ăng-ghen viết chung Tuyên ngôn của Đảng Cộng sản, văn kiện đánh dấu chủ nghĩa xã hội khoa học chính thức ra đời.",
+    "Năm 1867, Các Mác xuất bản tập I bộ Tư bản, công trình phân tích quy luật vận động của nền kinh tế tư bản chủ nghĩa.",
+    "Năm 1864, Các Mác tham gia sáng lập Quốc tế thứ nhất ở Luân Đôn và được giao soạn thảo tuyên ngôn cùng điều lệ của tổ chức này.",
+    "Chính vì phong trào công nhân châu Âu nửa đầu thế kỉ XIX đấu tranh sôi nổi nhưng thiếu lí luận dẫn đường nên Mác và Ăng-ghen mới xây dựng chủ nghĩa xã hội khoa học để soi sáng con đường đấu tranh đó."
+   ],
+   "traps": [
+    "Nhiều bạn tưởng Tuyên ngôn của Đảng Cộng sản do một mình Các Mác viết; thực ra đó là tác phẩm chung của Các Mác và Ăng-ghen, công bố năm 1848.",
+    "Bộ Tư bản không hoàn thành trọn vẹn lúc Mác còn sống: tập I ra năm 1867, còn tập II và tập III do Ăng-ghen chỉnh lí, xuất bản sau khi Mác mất năm 1883.",
+    "Đừng nhầm Các Mác với Lê-nin: Mác (1818-1883) đặt nền móng lí luận, còn Lê-nin (1870-1924) là người phát triển và vận dụng lí luận đó vào cách mạng Nga.",
+    "Mác và Ăng-ghen gặp nhau lần đầu năm 1842 ở Cô-lô-nhơ, nhưng mốc mở đầu tình bạn vĩ đại là cuộc gặp ở Pa-ri năm 1844 — đừng lấy năm 1842 làm mốc bắt đầu hợp tác."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 37
+    }
+   ],
+   "topic_title": "Mác và Ăng-ghen. Sự ra đời của chủ nghĩa xã hội khoa học",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Karl_Marx",
+    "https://vi.wikipedia.org/wiki/Friedrich_Engels",
+    "https://vi.wikipedia.org/wiki/Qu%E1%BB%91c_t%E1%BA%BF_th%E1%BB%A9_nh%E1%BA%A5t"
+   ],
+   "fixed": [
+    "Sửa chiều nhân-quả/thời gian: lần gặp 1842 ở Cô-lô-nhơ KHÔNG mở đầu tình bạn suốt đời; tình bạn và hợp tác bắt đầu từ cuộc gặp ở Pa-ri cuối tháng 8/1844",
+    "Bổ sung trap phân biệt mốc 1842 với mốc 1844"
+   ]
+  },
+  {
+   "name": "Phri-đrích Ăng-ghen",
+   "kind": "person",
+   "aliases": [
+    "Friedrich Engels",
+    "Ăng-ghen",
+    "Ph. Ăng-ghen",
+    "Angghen",
+    "Engels",
+    "Phriđrich Ăngghen"
+   ],
+   "year": null,
+   "date_start": "1820-11-28",
+   "date_end": "1895-08-05",
+   "place": "Bác-men (Barmen), Đức; mất tại Luân Đôn, Anh",
+   "actors": [
+    "Phri-đrích Ăng-ghen",
+    "Các Mác"
+   ],
+   "summary": "Người bạn, người cộng sự suốt đời của Các Mác và là đồng sáng lập chủ nghĩa xã hội khoa học.",
+   "facts": [
+    "Phri-đrích Ăng-ghen sinh ngày 28/11/1820 ở Bác-men thuộc nước Đức và mất ngày 5/8/1895 tại Luân Đôn, nước Anh.",
+    "Ăng-ghen viết tác phẩm Tình cảnh giai cấp công nhân Anh trong các năm 1844 - 1845 và cho xuất bản năm 1845, mô tả đời sống cực khổ của thợ thuyền trong thời kì công nghiệp hóa.",
+    "Cuối tháng 8/1844, Ăng-ghen từ Anh sang Pa-ri gặp Mác; từ đó hai ông bắt đầu tình bạn và sự hợp tác kéo dài gần 40 năm.",
+    "Năm 1848, Ăng-ghen cùng Các Mác công bố Tuyên ngôn của Đảng Cộng sản, tác phẩm mở đầu cho chủ nghĩa xã hội khoa học.",
+    "Sau khi Các Mác mất năm 1883, Ăng-ghen dành nhiều năm biên tập và cho xuất bản tập II và tập III bộ Tư bản mà Mác còn để dở dang.",
+    "Năm 1884, Ăng-ghen viết Nguồn gốc của gia đình, của chế độ tư hữu và của nhà nước, một tác phẩm lí luận quan trọng của ông.",
+    "Sau năm 1883, Ăng-ghen tiếp tục dẫn dắt phong trào công nhân quốc tế và có vai trò quan trọng trong việc chuẩn bị, định hướng cho Quốc tế thứ hai được thành lập năm 1889."
+   ],
+   "traps": [
+    "Có bạn nghĩ Ăng-ghen chỉ là người giúp việc cho Mác; thực ra ông là đồng tác giả Tuyên ngôn của Đảng Cộng sản 1848 và là người hoàn thiện bộ Tư bản sau khi Mác qua đời.",
+    "Ăng-ghen mất năm 1895, tức là ông còn sống khi Quốc tế thứ hai ra đời năm 1889 nhưng không còn sống để chứng kiến tổ chức này tan rã năm 1914.",
+    "Ăng-ghen KHÔNG phải người trực tiếp đứng ra thành lập Quốc tế thứ hai; ông góp phần chuẩn bị và định hướng, còn tổ chức do đại hội các đảng xã hội chủ nghĩa họp ở Pa-ri ngày 14/7/1889 lập ra."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 37
+    }
+   ],
+   "topic_title": "Mác và Ăng-ghen. Sự ra đời của chủ nghĩa xã hội khoa học",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Friedrich_Engels",
+    "https://vi.wikipedia.org/wiki/Qu%E1%BB%91c_t%E1%BA%BF_th%E1%BB%A9_hai"
+   ],
+   "fixed": [
+    "Tình cảnh giai cấp công nhân Anh: sửa 'viết năm 1844' thành 'viết 1844-1845, xuất bản 1845'",
+    "Hạ mức khẳng định nhân-quả: 'Nhờ Ăng-ghen mà Quốc tế thứ hai mới được thành lập' -> 'có vai trò quan trọng trong việc chuẩn bị, định hướng'",
+    "Bổ sung mốc gặp Mác ở Pa-ri tháng 8/1844"
+   ]
+  },
+  {
+   "name": "Tuyên ngôn của Đảng Cộng sản (1848)",
+   "kind": "artifact",
+   "aliases": [
+    "Tuyên ngôn Đảng Cộng sản",
+    "Tuyên ngôn cộng sản",
+    "Communist Manifesto",
+    "Manifest der Kommunistischen Partei",
+    "Tuyên ngôn của những người cộng sản"
+   ],
+   "year": 1848,
+   "date_start": "1848-02",
+   "date_end": "1848",
+   "place": "Soạn thảo ở Brúc-xen (Bỉ), xuất bản lần đầu tại Luân Đôn, Anh",
+   "actors": [
+    "Các Mác",
+    "Phri-đrích Ăng-ghen"
+   ],
+   "summary": "Văn kiện do Mác và Ăng-ghen soạn năm 1848, đánh dấu sự ra đời của chủ nghĩa xã hội khoa học.",
+   "facts": [
+    "Tuyên ngôn của Đảng Cộng sản do Các Mác và Phri-đrích Ăng-ghen viết chung cuối năm 1847 - đầu năm 1848 và được xuất bản lần đầu ở Luân Đôn vào tháng 2/1848.",
+    "Việc Tuyên ngôn của Đảng Cộng sản ra đời năm 1848 được coi là mốc đánh dấu chủ nghĩa xã hội khoa học chính thức hình thành.",
+    "Tuyên ngôn nêu quan điểm cho rằng giai cấp công nhân là lực lượng có sứ mệnh lãnh đạo cuộc đấu tranh xóa bỏ chế độ tư bản chủ nghĩa.",
+    "Vì phong trào công nhân trước năm 1848 đấu tranh tự phát và thiếu cương lĩnh nên Tuyên ngôn ra đời đã cung cấp cho họ một cương lĩnh hành động có hệ thống.",
+    "Tuyên ngôn của Đảng Cộng sản kết thúc bằng lời kêu gọi 'Vô sản tất cả các nước, đoàn kết lại!'."
+   ],
+   "traps": [
+    "Đừng nhầm Tuyên ngôn của Đảng Cộng sản (1848) với bộ Tư bản (tập I ra năm 1867): một bên là cương lĩnh chính trị, một bên là công trình nghiên cứu kinh tế.",
+    "Tuyên ngôn ra đời năm 1848, tức là trước khi Quốc tế thứ nhất được thành lập năm 1864, chứ không phải do Quốc tế thứ nhất soạn ra.",
+    "Tuyên ngôn được Mác và Ăng-ghen soạn khi đang ở Brúc-xen (Bỉ) nhưng in lần đầu tại Luân Đôn tháng 2/1848 — hai địa điểm này hay bị lẫn."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 37
+    }
+   ],
+   "topic_title": "Mác và Ăng-ghen. Sự ra đời của chủ nghĩa xã hội khoa học",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Tuy%C3%AAn_ng%C3%B4n_c%E1%BB%A7a_%C4%90%E1%BA%A3ng_C%E1%BB%99ng_s%E1%BA%A3n",
+    "https://vi.wikipedia.org/wiki/Karl_Marx",
+    "https://vi.wikipedia.org/wiki/Friedrich_Engels"
+   ],
+   "fixed": [
+    "Sửa place: soạn ở Brúc-xen, chỉ XUẤT BẢN lần đầu ở Luân Đôn (thẻ cũ ghi place = Luân Đôn)",
+    "Chốt mốc tháng 2/1848 cho lần xuất bản đầu tiên",
+    "Nêu đúng nguyên văn lời kết 'Vô sản tất cả các nước, đoàn kết lại!'"
+   ]
+  },
+  {
+   "name": "Quốc tế thứ nhất",
+   "kind": "org",
+   "aliases": [
+    "Đệ Nhất Quốc tế",
+    "Hội Liên hiệp Lao động Quốc tế",
+    "International Workingmen's Association",
+    "Quốc tế I",
+    "Đệ nhất quốc tế"
+   ],
+   "year": 1864,
+   "date_start": "1864-09-28",
+   "date_end": "1876",
+   "place": "Luân Đôn, Anh (thành lập tại hội trường St. Martin)",
+   "actors": [
+    "Các Mác",
+    "Ba-cu-nin"
+   ],
+   "summary": "Tổ chức quốc tế đầu tiên của giai cấp công nhân, thành lập năm 1864 với vai trò linh hồn của Các Mác.",
+   "facts": [
+    "Quốc tế thứ nhất được thành lập ngày 28/9/1864 tại hội trường Xanh Mác-tin ở thành phố Luân Đôn, nước Anh.",
+    "Tên gọi chính thức của Quốc tế thứ nhất là Hội Liên hiệp Lao động Quốc tế, tập hợp các tổ chức công nhân ở nhiều nước châu Âu và châu Mỹ.",
+    "Các Mác tham gia sáng lập, được bầu vào Ban lãnh đạo (Tổng Hội đồng) và là người soạn thảo Tuyên ngôn thành lập cùng Điều lệ của tổ chức; ông được coi là linh hồn của Quốc tế thứ nhất.",
+    "Quốc tế thứ nhất truyền bá học thuyết Mác vào phong trào công nhân và ủng hộ các cuộc đấu tranh của thợ thuyền ở nhiều nước.",
+    "Do mâu thuẫn không thể dung hòa giữa phái theo chủ nghĩa Mác và phái vô chính phủ của Ba-cu-nin nên Quốc tế thứ nhất tuyên bố giải tán năm 1876 tại Phi-la-đen-phi-a, nước Mĩ.",
+    "Gần 30 ủy viên Hội đồng Công xã Pa-ri năm 1871 là hội viên Quốc tế thứ nhất, cho thấy ảnh hưởng của tổ chức này tới phong trào công nhân Pháp."
+   ],
+   "traps": [
+    "Quốc tế thứ nhất thành lập năm 1864 ở Luân Đôn, không phải ở Pa-ri; Pa-ri năm 1889 mới là nơi ra đời Quốc tế thứ hai.",
+    "Người lãnh đạo, là linh hồn của Quốc tế thứ nhất là Các Mác, không phải Lê-nin (Lê-nin sinh năm 1870, sau khi tổ chức này ra đời 6 năm).",
+    "Quốc tế thứ nhất giải tán năm 1876 vì chia rẽ nội bộ, không phải vì Chiến tranh thế giới thứ nhất — đó là nguyên nhân làm tan rã Quốc tế thứ hai năm 1914.",
+    "Quốc tế thứ nhất do đại biểu công nhân Anh, Pháp và nhiều nước khởi xướng lập ra; Mác tham gia sáng lập và soạn thảo văn kiện chứ không phải một mình ông đứng ra lập tổ chức."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 38
+    }
+   ],
+   "topic_title": "Quốc tế thứ nhất và Công xã Pa-ri 1871",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Qu%E1%BB%91c_t%E1%BA%BF_th%E1%BB%A9_nh%E1%BA%A5t",
+    "https://vi.wikipedia.org/wiki/C%C3%B4ng_x%C3%A3_Paris"
+   ],
+   "fixed": [
+    "Sửa 'Các Mác là người sáng lập' -> 'tham gia sáng lập, được bầu vào Tổng Hội đồng, soạn thảo Tuyên ngôn và Điều lệ, là linh hồn của tổ chức'",
+    "Chỉnh 'khoảng 30' -> 'gần 30' ủy viên Hội đồng Công xã là hội viên Quốc tế thứ nhất (theo tài liệu Đảng Cộng sản)"
+   ]
+  },
+  {
+   "name": "Công xã Pa-ri (1871)",
+   "kind": "event",
+   "aliases": [
+    "Công xã Paris",
+    "Paris Commune",
+    "Công xã Pari",
+    "Cong xa Pari",
+    "Công xã Pa ri 1871"
+   ],
+   "year": 1871,
+   "date_start": "1871-03-18",
+   "date_end": "1871-05-28",
+   "place": "Pa-ri, Pháp",
+   "actors": [
+    "Chi-e (Adolphe Thiers)",
+    "Na-pô-lê-ông III",
+    "Quốc dân quân Pa-ri"
+   ],
+   "summary": "Chính quyền cách mạng của nhân dân lao động Pa-ri tồn tại 72 ngày năm 1871, được coi là nhà nước kiểu mới đầu tiên.",
+   "facts": [
+    "Công xã Pa-ri tồn tại từ ngày 18/3/1871 đến ngày 28/5/1871, tức khoảng 72 ngày.",
+    "Công xã Pa-ri bùng nổ trong bối cảnh nước Pháp thất bại trong Chiến tranh Pháp - Phổ và hoàng đế Na-pô-lê-ông III đầu hàng ở Xơ-đăng ngày 2/9/1870.",
+    "Chính vì chính phủ Chi-e ở Véc-xai định tước vũ khí của Quốc dân quân vào rạng sáng 18/3/1871 mà nhân dân Pa-ri đã nổi dậy, làm bùng nổ Công xã.",
+    "Ngày 26/3/1871, nhân dân Pa-ri bầu Hội đồng Công xã gồm 86 đại biểu theo nguyên tắc phổ thông đầu phiếu; ngày 28/3/1871, Hội đồng Công xã (85 đại biểu) long trọng ra mắt nhân dân.",
+    "Trong Hội đồng Công xã có nhiều công nhân cùng trí thức, nhà báo, thầy thuốc, giáo viên, trong đó gần 30 người là hội viên Quốc tế thứ nhất.",
+    "Từ ngày 21 đến 28/5/1871, quân Véc-xai đàn áp đẫm máu Công xã trong sự kiện mà lịch sử gọi là Tuần lễ đẫm máu.",
+    "Công xã Pa-ri được xem là hình ảnh của một nhà nước kiểu mới do người lao động làm chủ, để lại nhiều bài học cho phong trào công nhân thế giới."
+   ],
+   "traps": [
+    "Công xã Pa-ri diễn ra năm 1871, đừng nhầm với Cách mạng tư sản Pháp năm 1789 hay Cách mạng tháng Hai ở Nga năm 1917.",
+    "Công xã Pa-ri bị đàn áp bởi chính phủ tư sản Pháp của Chi-e đóng ở Véc-xai, chứ không phải bị quân Phổ trực tiếp tiêu diệt.",
+    "Hội đồng Công xã được bầu ngày 26/3/1871 (86 đại biểu) và ra mắt nhân dân ngày 28/3/1871 (85 đại biểu), còn ngày 18/3/1871 là ngày khởi nghĩa thắng lợi — ba mốc này thường bị lẫn."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 38
+    }
+   ],
+   "topic_title": "Quốc tế thứ nhất và Công xã Pa-ri 1871",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/C%C3%B4ng_x%C3%A3_Paris",
+    "https://tulieuvankien.dangcongsan.vn/ho-so-su-kien-nhan-chung/su-kien-va-nhan-chung/cong-xa-pari-1870-3313",
+    "https://vi.wikipedia.org/wiki/Qu%E1%BB%91c_t%E1%BA%BF_th%E1%BB%A9_nh%E1%BA%A5t"
+   ],
+   "fixed": [
+    "Sửa số đại biểu Hội đồng Công xã: bầu ngày 26/3/1871 gồm 86 đại biểu, ngày 28/3/1871 Hội đồng (85 đại biểu) ra mắt — thẻ cũ gộp thành '85 đại biểu trúng cử công bố 28/3'",
+    "Chốt mốc Na-pô-lê-ông III đầu hàng ở Xơ-đăng ngày 2/9/1870",
+    "Thêm nguồn tulieuvankien.dangcongsan.vn"
+   ]
+  },
+  {
+   "name": "Quốc tế thứ hai",
+   "kind": "org",
+   "aliases": [
+    "Đệ Nhị Quốc tế",
+    "Quốc tế II",
+    "Second International",
+    "Đệ nhị quốc tế",
+    "Quoc te thu hai"
+   ],
+   "year": 1889,
+   "date_start": "1889-07-14",
+   "date_end": "1914-08-04",
+   "place": "Pa-ri, Pháp",
+   "actors": [
+    "Phri-đrích Ăng-ghen"
+   ],
+   "summary": "Tổ chức quốc tế của phong trào công nhân thành lập năm 1889 ở Pa-ri, tan rã khi Chiến tranh thế giới thứ nhất bùng nổ.",
+   "facts": [
+    "Quốc tế thứ hai được thành lập ngày 14/7/1889 tại Pa-ri, với gần 400 đại biểu đến từ 22 nước.",
+    "Ngày khai mạc 14/7/1889 được chọn đúng dịp kỉ niệm 100 năm ngày phá ngục Ba-xti mở đầu Cách mạng tư sản Pháp.",
+    "Ăng-ghen là người có vai trò dẫn dắt Quốc tế thứ hai trong những năm đầu, cho tới khi ông qua đời năm 1895.",
+    "Quốc tế thứ hai chủ trương thành lập chính đảng của giai cấp công nhân ở từng nước, đẩy mạnh đấu tranh chính trị và đòi ngày làm việc 8 giờ.",
+    "Đại hội thành lập Quốc tế thứ hai năm 1889 quyết định lấy ngày 1/5 hằng năm làm ngày biểu dương lực lượng của người lao động, bắt đầu từ ngày 1/5/1890.",
+    "Vì phần lớn lãnh đạo các đảng xã hội dân chủ ủng hộ chính phủ nước mình tham chiến khi Chiến tranh thế giới thứ nhất nổ ra nên Quốc tế thứ hai thực tế tan rã từ ngày 4/8/1914."
+   ],
+   "traps": [
+    "Ngày Quốc tế Lao động 1/5 do Quốc tế thứ hai quyết định năm 1889, không phải do Quốc tế thứ nhất (1864-1876).",
+    "Quốc tế thứ hai ra đời năm 1889 tại Pa-ri, còn Quốc tế thứ nhất ra đời năm 1864 tại Luân Đôn — hai địa điểm và hai mốc năm khác nhau.",
+    "Quốc tế thứ hai tan rã năm 1914 do Chiến tranh thế giới thứ nhất, chứ không phải do mâu thuẫn với phái vô chính phủ như Quốc tế thứ nhất."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 39
+    }
+   ],
+   "topic_title": "Quốc tế thứ hai",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Qu%E1%BB%91c_t%E1%BA%BF_th%E1%BB%A9_hai",
+    "https://vi.wikipedia.org/wiki/Friedrich_Engels"
+   ],
+   "fixed": [
+    "Chỉnh 'khoảng 400 đại biểu' -> 'gần 400 đại biểu của 22 nước' cho khớp SGK",
+    "Bổ sung: nghị quyết 1889 lấy ngày 1/5 làm ngày biểu dương lực lượng, THỰC HIỆN từ 1/5/1890 (không phải kỉ niệm ngay trong 1889)",
+    "Bổ sung ý nghĩa ngày khai mạc 14/7/1889 (100 năm phá ngục Ba-xti)"
+   ]
+  },
+  {
+   "name": "Ngày Quốc tế Lao động 1/5",
+   "kind": "concept",
+   "aliases": [
+    "Ngày 1-5",
+    "Mồng 1 tháng 5",
+    "Quốc tế Lao động",
+    "May Day",
+    "ngày quốc tế lao động mùng 1/5"
+   ],
+   "year": 1889,
+   "date_start": "1889-07",
+   "date_end": null,
+   "place": "Pa-ri, Pháp (nơi ra quyết định)",
+   "actors": [
+    "Quốc tế thứ hai"
+   ],
+   "summary": "Ngày kỉ niệm quốc tế của người lao động, do Đại hội thành lập Quốc tế thứ hai chọn năm 1889.",
+   "facts": [
+    "Ngày Quốc tế Lao động 1/5 được Đại hội thành lập Quốc tế thứ hai họp ở Pa-ri tháng 7/1889 quyết định chọn làm ngày đấu tranh chung của người lao động toàn thế giới.",
+    "Nguồn gốc của ngày 1/5 là cuộc tổng bãi công của công nhân thành phố Si-ca-gô (Mĩ) ngày 1/5/1886 đòi ngày làm việc 8 giờ, bị đàn áp đẫm máu.",
+    "Ngày 1/5 gắn với yêu sách trung tâm của phong trào công nhân cuối thế kỉ XIX là đòi ngày làm việc chỉ 8 giờ.",
+    "Chính vì công nhân nhiều nước cùng lúc đòi giảm giờ làm và tăng lương mà Quốc tế thứ hai mới chọn một ngày chung để họ biểu dương lực lượng và đoàn kết với nhau.",
+    "Từ ngày 1/5/1890 trở đi, ngày 1/5 được người lao động ở nhiều nước châu Âu và châu Mỹ kỉ niệm bằng mít tinh, tuần hành và bãi công."
+   ],
+   "traps": [
+    "Ngày Quốc tế Lao động 1/5 do Quốc tế thứ hai chọn năm 1889, không phải do Công xã Pa-ri năm 1871 hay Quốc tế thứ nhất năm 1864.",
+    "Sự kiện gốc là cuộc bãi công ở Si-ca-gô ngày 1/5/1886, còn nghị quyết chọn ngày kỉ niệm là năm 1889 và lần kỉ niệm đầu tiên là 1/5/1890 — ba mốc này hay bị gộp làm một."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 39
+    }
+   ],
+   "topic_title": "Quốc tế thứ hai",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Qu%E1%BB%91c_t%E1%BA%BF_th%E1%BB%A9_hai",
+    "https://vi.wikipedia.org/wiki/Ng%C3%A0y_Qu%E1%BB%91c_t%E1%BA%BF_Lao_%C4%91%E1%BB%99ng"
+   ],
+   "fixed": [
+    "Bổ sung nguồn gốc: tổng bãi công Si-ca-gô 1/5/1886 (thiếu hoàn toàn trong thẻ gốc)",
+    "Sửa 'từ năm 1890 trở đi' thành mốc chính xác 1/5/1890 là lần kỉ niệm đầu tiên, thêm trap phân biệt 1886/1889/1890"
+   ]
+  },
+  {
+   "name": "V.I. Lê-nin",
+   "kind": "person",
+   "aliases": [
+    "Vladimir Ilyich Lenin",
+    "Lênin",
+    "Lê nin",
+    "Vla-đi-mia I-lích Lê-nin",
+    "V. I. Lenin",
+    "Vladimir Ilyich Ulyanov",
+    "U-li-a-nốp",
+    "Lenin"
+   ],
+   "year": null,
+   "date_start": "1870-04-22",
+   "date_end": "1924-01-21",
+   "place": "Sim-biếc (nay là U-li-a-nốp-xcơ), Nga; mất tại Goóc-ki gần Mát-xcơ-va",
+   "actors": [
+    "V.I. Lê-nin"
+   ],
+   "summary": "Lãnh tụ phong trào công nhân Nga đầu thế kỉ XX, người sáng lập Đảng Bôn-sê-vích và lãnh đạo Cách mạng tháng Mười 1917.",
+   "facts": [
+    "V.I. Lê-nin sinh ngày 22/4/1870 ở thành phố Sim-biếc trên sông Vôn-ga và mất ngày 21/1/1924 tại Goóc-ki gần Mát-xcơ-va.",
+    "Tên thật của Lê-nin là Vla-đi-mia I-lích U-li-a-nốp; bút danh Lê-nin bắt đầu được ông dùng từ tháng 12/1901.",
+    "Cuối năm 1900, Lê-nin cùng các đồng chí xuất bản báo Tia lửa (I-xcơ-ra) để truyền bá chủ nghĩa Mác trong công nhân Nga.",
+    "Năm 1902, Lê-nin viết tác phẩm Làm gì?, trong đó nêu tư tưởng về một chính đảng cách mạng kiểu mới của giai cấp công nhân.",
+    "Tháng 11/1905, Lê-nin bí mật trở về Pê-téc-bua để trực tiếp lãnh đạo phong trào cách mạng đang dâng cao ở Nga.",
+    "Chính vì Lê-nin đã dày công xây dựng một chính đảng kiểu mới từ đầu thế kỉ XX mà giai cấp công nhân Nga mới có tổ chức lãnh đạo để làm nên Cách mạng tháng Mười năm 1917.",
+    "Sau Cách mạng tháng Mười, Lê-nin đứng đầu chính quyền Xô viết đầu tiên từ tháng 11/1917 cho đến khi ông qua đời năm 1924."
+   ],
+   "traps": [
+    "Lê-nin không phải người sáng lập chủ nghĩa xã hội khoa học; công lao đó thuộc về Mác và Ăng-ghen năm 1848, còn Lê-nin là người kế thừa và phát triển.",
+    "Tên thật của Lê-nin là U-li-a-nốp, còn Lê-nin chỉ là bút danh dùng từ năm 1901 — đừng nhầm đó là họ khai sinh.",
+    "Lê-nin sinh năm 1870, tức là sau khi Quốc tế thứ nhất ra đời năm 1864, nên ông không thể là người sáng lập tổ chức đó.",
+    "Thành phố quê hương Lê-nin là Sim-biếc, sau đổi tên thành U-li-a-nốp-xcơ (Ulyanovsk) — đừng nhầm tên thành phố với họ U-li-a-nốp của ông."
+   ],
+   "lessons": [
+    {
+     "book": "NXBDG",
+     "bai": 40
+    }
+   ],
+   "topic_title": "Lê-nin và phong trào công nhân Nga đầu thế kỉ XX",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Vladimir_Ilyich_Lenin",
+    "https://dcs.bacgiang.gov.vn/detail/-/asset_publisher/M0UUAFstbTMq/content/v-i-lenin-mot-nhan-cach-lon-vi-lanh-tu-thien-tai-tinh-than-cach-mang-triet-e"
+   ],
+   "fixed": [
+    "Sửa tên thành phố quê hương: Sim-biếc nay là U-li-a-nốp-XCƠ (Ulyanovsk), thẻ cũ ghi 'nay là U-li-a-nốp' (trùng với họ của ông)",
+    "Chỉnh 'khoảng năm 1900' -> 'cuối năm 1900' (số đầu báo Tia lửa ra tháng 12/1900)"
+   ]
+  }
+ ]
+}

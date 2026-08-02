@@ -1,0 +1,2241 @@
+{
+ "grade": 11,
+ "chunk": 0,
+ "cards": [
+  {
+   "name": "Cách mạng tư sản Anh",
+   "kind": "event",
+   "aliases": [
+    "Cách mạng tư sản Anh thế kỉ XVII",
+    "Nội chiến Anh",
+    "English Civil War",
+    "Cách mạng Vinh quang",
+    "Glorious Revolution",
+    "cách mạng Anh 1642"
+   ],
+   "year": 1642,
+   "date_start": "1642-08-22",
+   "date_end": "1688",
+   "place": "Anh",
+   "actors": [
+    "Vua Sác-lơ I (Charles I)",
+    "Ô-li-vơ Crôm-oen (Oliver Cromwell)",
+    "Quốc hội Anh",
+    "Vin-hem Ô-ran-giơ (William of Orange)"
+   ],
+   "summary": "Cuộc cách mạng tư sản nổ ra dưới hình thức nội chiến giữa Quốc hội và nhà vua ở Anh (1642-1688), lật đổ chế độ quân chủ chuyên chế và cuối cùng lập ra chế độ quân chủ lập hiến.",
+   "facts": [
+    "Nội chiến Anh bùng nổ ngày 22/8/1642 giữa quân đội Quốc hội và quân đội của vua Sác-lơ I.",
+    "Vì tầng lớp tư sản và quý tộc mới muốn làm ăn tự do nhưng bị chế độ quân chủ chuyên chế của Sác-lơ I ngăn cản, mâu thuẫn đó đã dẫn tới nội chiến năm 1642 — tức là xung đột kinh tế - chính trị là nguyên nhân, nội chiến là hậu quả.",
+    "Ô-li-vơ Crôm-oen tổ chức lại quân đội Quốc hội và giành thắng lợi quyết định ở trận Nây-dơ-bi (Naseby) tháng 6/1645.",
+    "Vua Sác-lơ I bị kết tội và bị xử tử ngày 30/1/1649, sau đó nước Anh trở thành nước cộng hòa do Crôm-oen đứng đầu.",
+    "Năm 1660 chế độ quân chủ được khôi phục với vua Sác-lơ II, nhưng đến năm 1688 cuộc Cách mạng Vinh quang đã đưa nước Anh sang chế độ quân chủ lập hiến, vua trị vì cùng Quốc hội.",
+    "Kết quả lớn nhất của cách mạng tư sản Anh là mở đường cho chủ nghĩa tư bản phát triển ở Anh, chứ không phải xóa bỏ vĩnh viễn ngôi vua."
+   ],
+   "traps": [
+    "Sai: cách mạng tư sản Anh lập ra nước cộng hòa lâu dài. Đúng: nền cộng hòa chỉ tồn tại ngắn, đến năm 1688 nước Anh theo chế độ quân chủ lập hiến.",
+    "Sai: vua Sác-lơ I bị xử tử năm 1648. Đúng: ngày 30/1/1649.",
+    "Sai: gọi Crôm-oen là vua nước Anh. Đúng: ông giữ chức Bảo hộ công (Lord Protector), không xưng vua."
+   ],
+   "lessons": [
+    {
+     "book": "cánh diều",
+     "bai": 1
+    },
+    {
+     "book": "KNTT",
+     "bai": 1
+    },
+    {
+     "book": "CTST",
+     "bai": 1
+    }
+   ],
+   "topic_title": "Một số vấn đề chung về cách mạng tư sản",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Nội_chiến_Anh"
+   ]
+  },
+  {
+   "name": "Chiến tranh giành độc lập của 13 thuộc địa Anh ở Bắc Mỹ",
+   "kind": "event",
+   "aliases": [
+    "Cách mạng Mỹ",
+    "American Revolution",
+    "chiến tranh giành độc lập Bắc Mỹ",
+    "cách mạng tư sản Bắc Mỹ",
+    "13 thuộc địa"
+   ],
+   "year": 1775,
+   "date_start": "1775",
+   "date_end": "1783-09-03",
+   "place": "Bắc Mỹ",
+   "actors": [
+    "Gioóc-giơ Oa-sinh-tơn (George Washington)",
+    "Tô-mát Giép-phơn-xơn (Thomas Jefferson)",
+    "Xa-mu-en A-đam (Samuel Adams)",
+    "Vương quốc Anh"
+   ],
+   "summary": "Cuộc chiến 1775-1783 của 13 thuộc địa Anh ở Bắc Mỹ, vừa giành độc lập dân tộc vừa mang tính chất một cuộc cách mạng tư sản, khai sinh Hợp chúng quốc Hoa Kỳ.",
+   "facts": [
+    "Sự kiện \"chè Bô-xtơn\" tháng 12/1773, khi nhóm người do Xa-mu-en A-đam dẫn đầu ném hàng chè của Công ty Đông Ấn Anh xuống biển, đã châm ngòi cho xung đột giữa thuộc địa và chính quốc.",
+    "Chiến tranh giành độc lập của 13 thuộc địa Anh ở Bắc Mỹ diễn ra từ năm 1775 đến năm 1783.",
+    "Ngày 4/7/1776, Tuyên ngôn Độc lập được thông qua tại Hội nghị lục địa lần thứ hai, tuyên bố 13 thuộc địa tách khỏi nước Anh; Tô-mát Giép-phơn-xơn là người chấp bút chính.",
+    "Gioóc-giơ Oa-sinh-tơn là Tổng chỉ huy Quân đội lục địa của 13 thuộc địa.",
+    "Chiến thắng lớn của liên quân Mỹ - Pháp ở Y-oóc-tao (Yorktown) mùa thu năm 1781 đã buộc nước Anh phải đàm phán, dẫn tới Hiệp ước Pa-ri ngày 3/9/1783 công nhận nền độc lập của Hoa Kỳ.",
+    "Năm 1787, Hiến pháp Hoa Kỳ được thông qua, xác lập nhà nước cộng hòa liên bang theo thể chế tư sản."
+   ],
+   "traps": [
+    "Sai: ngày 4/7/1776 là ngày nước Mỹ chiến thắng và kết thúc chiến tranh. Đúng: đó là ngày thông qua Tuyên ngôn Độc lập, chiến tranh còn kéo dài đến năm 1783.",
+    "Sai: Hiến pháp Mỹ ra đời cùng năm với Tuyên ngôn Độc lập. Đúng: Tuyên ngôn năm 1776, Hiến pháp năm 1787.",
+    "Sai: Oa-sinh-tơn viết Tuyên ngôn Độc lập. Đúng: người soạn thảo chính là Tô-mát Giép-phơn-xơn."
+   ],
+   "lessons": [
+    {
+     "book": "cánh diều",
+     "bai": 1
+    },
+    {
+     "book": "KNTT",
+     "bai": 1
+    },
+    {
+     "book": "CTST",
+     "bai": 1
+    }
+   ],
+   "topic_title": "Một số vấn đề chung về cách mạng tư sản",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Cách_mạng_Mỹ"
+   ]
+  },
+  {
+   "name": "Cách mạng tư sản Pháp 1789",
+   "kind": "event",
+   "aliases": [
+    "Đại cách mạng Pháp",
+    "Cách mạng Pháp 1789",
+    "French Revolution",
+    "cách mạng tư sản Pháp cuối thế kỉ XVIII"
+   ],
+   "year": 1789,
+   "date_start": "1789-07-14",
+   "date_end": "1799",
+   "place": "Pháp",
+   "actors": [
+    "Vua Lu-i XVI (Louis XVI)",
+    "Rô-be-spie (Robespierre)",
+    "Na-pô-lê-ông Bô-na-pác (Napoléon Bonaparte)",
+    "Đẳng cấp thứ ba"
+   ],
+   "summary": "Cuộc cách mạng tư sản triệt để nhất ở châu Âu, bùng nổ ngày 14/7/1789 với sự kiện phá ngục Ba-xti và kết thúc năm 1799, xóa bỏ chế độ phong kiến và nêu cao khẩu hiệu Tự do - Bình đẳng - Bác ái.",
+   "facts": [
+    "Cách mạng tư sản Pháp bùng nổ ngày 14/7/1789, khi quần chúng Pa-ri tấn công và chiếm ngục Ba-xti — biểu tượng của chế độ quân chủ chuyên chế.",
+    "Ngày 26/8/1789, Quốc hội lập hiến thông qua Tuyên ngôn Nhân quyền và Dân quyền, khẳng định quyền tự do và bình đẳng của con người.",
+    "Tháng 9/1792, nền Cộng hòa thứ nhất của Pháp được thành lập; đầu năm 1793 vua Lu-i XVI bị đưa lên máy chém.",
+    "Trong hai năm 1793-1794, phái Gia-cô-banh do Rô-be-spie đứng đầu nắm quyền và đưa cách mạng lên đỉnh cao.",
+    "Cách mạng Pháp xóa bỏ chế độ phong kiến, mở đường cho chủ nghĩa tư bản phát triển và cổ vũ mạnh mẽ phong trào cách mạng ở châu Âu.",
+    "Năm 1799, Na-pô-lê-ông Bô-na-pác làm đảo chính và trở thành Tổng tài thứ nhất, đánh dấu cách mạng tư sản Pháp kết thúc."
+   ],
+   "traps": [
+    "Sai: cách mạng Pháp nổ ra năm 1798 hoặc 1798-1799. Đúng: 1789-1799, mở đầu ngày 14/7/1789.",
+    "Sai: Tuyên ngôn Nhân quyền và Dân quyền ra đời cùng ngày phá ngục Ba-xti. Đúng: phá ngục Ba-xti 14/7/1789, Tuyên ngôn 26/8/1789.",
+    "Sai: Na-pô-lê-ông là người lãnh đạo cách mạng từ đầu. Đúng: ông lên nắm quyền năm 1799, khi cách mạng kết thúc."
+   ],
+   "lessons": [
+    {
+     "book": "cánh diều",
+     "bai": 1
+    },
+    {
+     "book": "KNTT",
+     "bai": 1
+    },
+    {
+     "book": "CTST",
+     "bai": 1
+    }
+   ],
+   "topic_title": "Một số vấn đề chung về cách mạng tư sản",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Cách_mạng_Pháp"
+   ]
+  },
+  {
+   "name": "Cách mạng tư sản (khái niệm chung)",
+   "kind": "concept",
+   "aliases": [
+    "cách mạng tư sản là gì",
+    "tiền đề cách mạng tư sản",
+    "mục tiêu nhiệm vụ cách mạng tư sản",
+    "bourgeois revolution"
+   ],
+   "year": null,
+   "date_start": null,
+   "date_end": null,
+   "place": null,
+   "actors": [
+    "Giai cấp tư sản",
+    "Quý tộc mới",
+    "Quần chúng nhân dân"
+   ],
+   "summary": "Cách mạng tư sản là cuộc cách mạng do giai cấp tư sản (có khi cùng quý tộc tư sản hóa) lãnh đạo nhằm lật đổ chế độ phong kiến hoặc ách thống trị thực dân, mở đường cho chủ nghĩa tư bản phát triển; tiêu biểu là cách mạng Anh, Bắc Mỹ và Pháp.",
+   "facts": [
+    "Cách mạng tư sản diễn ra khi kinh tế tư bản chủ nghĩa đã phát triển nhưng bị chế độ phong kiến hoặc ách cai trị thực dân kìm hãm, nên mâu thuẫn kinh tế là nguyên nhân sâu xa còn cách mạng là hệ quả.",
+    "Ba cuộc cách mạng tư sản tiêu biểu được học ở lớp 11 là cách mạng tư sản Anh (1642-1688), chiến tranh giành độc lập của 13 thuộc địa Anh ở Bắc Mỹ (1775-1783) và cách mạng tư sản Pháp (1789-1799).",
+    "Lãnh đạo cách mạng tư sản là giai cấp tư sản, ở Anh còn có thêm tầng lớp quý tộc mới, còn động lực chủ yếu là quần chúng nhân dân.",
+    "Mục tiêu chung của cách mạng tư sản là xóa bỏ những trói buộc phong kiến, giành chính quyền cho giai cấp tư sản và mở đường cho kinh tế tư bản chủ nghĩa phát triển.",
+    "Cách mạng tư sản có thể diễn ra dưới nhiều hình thức: nội chiến ở Anh năm 1642, chiến tranh giải phóng dân tộc ở Bắc Mỹ năm 1775 và khởi nghĩa của quần chúng ở Pháp năm 1789.",
+    "Sản phẩm chính trị của các cuộc cách mạng tư sản là những văn kiện như Tuyên ngôn Độc lập của Mỹ (1776) và Tuyên ngôn Nhân quyền và Dân quyền của Pháp (1789)."
+   ],
+   "traps": [
+    "Sai: cách mạng tư sản do giai cấp công nhân lãnh đạo. Đúng: do giai cấp tư sản (và quý tộc mới) lãnh đạo; cách mạng do giai cấp công nhân lãnh đạo là cách mạng vô sản, ví dụ Cách mạng tháng Mười Nga 1917.",
+    "Sai: cách mạng tư sản luôn nổ ra dưới hình thức nội chiến. Đúng: hình thức rất đa dạng — nội chiến, chiến tranh giải phóng dân tộc, hoặc khởi nghĩa của quần chúng."
+   ],
+   "lessons": [
+    {
+     "book": "cánh diều",
+     "bai": 1
+    },
+    {
+     "book": "KNTT",
+     "bai": 1
+    },
+    {
+     "book": "CTST",
+     "bai": 1
+    }
+   ],
+   "topic_title": "Một số vấn đề chung về cách mạng tư sản",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Nội_chiến_Anh",
+    "https://vi.wikipedia.org/wiki/Cách_mạng_Mỹ",
+    "https://vi.wikipedia.org/wiki/Cách_mạng_Pháp"
+   ]
+  },
+  {
+   "name": "Duy tân Minh Trị",
+   "kind": "movement",
+   "aliases": [
+    "Cải cách Minh Trị",
+    "Minh Trị Duy tân",
+    "Meiji Restoration",
+    "Minh Trị Thiên hoàng",
+    "cuộc Duy tân 1868"
+   ],
+   "year": 1868,
+   "date_start": "1868-01-03",
+   "date_end": "1912",
+   "place": "Nhật Bản",
+   "actors": [
+    "Thiên hoàng Minh Trị (Mút-xu-hi-tô)",
+    "Mạc phủ Tô-ku-ga-oa",
+    "Tầng lớp võ sĩ Samurai"
+   ],
+   "summary": "Cuộc cải cách toàn diện do Thiên hoàng Minh Trị tiến hành từ đầu năm 1868, đưa Nhật Bản từ nước phong kiến trở thành nước tư bản chủ nghĩa và thoát khỏi số phận thuộc địa.",
+   "facts": [
+    "Duy tân Minh Trị bắt đầu ngày 3/1/1868, khi Thiên hoàng Minh Trị lật đổ Mạc phủ Tô-ku-ga-oa và khôi phục quyền lực của Thiên hoàng.",
+    "Về chính trị, cuộc cải cách xóa bỏ chế độ Mạc phủ, thủ tiêu quyền lực của các đại danh và xây dựng chính quyền trung ương tập quyền; năm 1871 Nhật Bản bãi bỏ chế độ phiên (han).",
+    "Về kinh tế, Nhật Bản thống nhất tiền tệ bằng đồng Yên, cho tự do buôn bán, xây dựng đường sắt và phát triển kinh tế tư bản chủ nghĩa.",
+    "Về giáo dục, Nhật Bản thi hành giáo dục bắt buộc, chuyển chương trình học từ kinh sách sang khoa học - kỹ thuật, lập trường đại học theo mô hình phương Tây và mời chuyên gia nước ngoài giảng dạy.",
+    "Về quân sự, quân đội Nhật được tổ chức lại theo kiểu phương Tây (lục quân theo Phổ, hải quân theo Anh), áp dụng chế độ nghĩa vụ quân sự và tự sản xuất vũ khí hiện đại.",
+    "Nhờ Duy tân Minh Trị, Nhật Bản không bị biến thành thuộc địa mà trở thành cường quốc tư bản, đến năm 1905 còn đánh bại nước Nga."
+   ],
+   "traps": [
+    "Sai: Duy tân Minh Trị bắt đầu năm 1866 hoặc 1871. Đúng: bắt đầu đầu năm 1868 (3/1/1868); năm 1871 mới là mốc bãi bỏ chế độ phiên.",
+    "Sai: Duy tân Minh Trị là một cuộc cách mạng vô sản. Đúng: đây là cuộc cải cách mang tính chất cách mạng tư sản, do Thiên hoàng và tầng lớp quý tộc tư sản hóa tiến hành từ trên xuống."
+   ],
+   "lessons": [
+    {
+     "book": "cánh diều",
+     "bai": 2
+    },
+    {
+     "book": "KNTT",
+     "bai": 2
+    },
+    {
+     "book": "CTST",
+     "bai": 2
+    }
+   ],
+   "topic_title": "Sự xác lập và phát triển của chủ nghĩa tư bản",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Duy_tân_Minh_Trị"
+   ]
+  },
+  {
+   "name": "Cách mạng Tân Hợi",
+   "kind": "event",
+   "aliases": [
+    "Cách mạng Tân Hợi 1911",
+    "khởi nghĩa Vũ Xương",
+    "Xinhai Revolution",
+    "cách mạng Trung Quốc 1911",
+    "Tôn Trung Sơn cách mạng"
+   ],
+   "year": 1911,
+   "date_start": "1911-10-10",
+   "date_end": "1912-02-12",
+   "place": "Trung Quốc",
+   "actors": [
+    "Tôn Trung Sơn (Tôn Dật Tiên)",
+    "Trung Quốc Đồng minh hội",
+    "Vua Phổ Nghi",
+    "Nhà Thanh"
+   ],
+   "summary": "Cuộc cách mạng tư sản nổ ra ở Trung Quốc từ khởi nghĩa Vũ Xương ngày 10/10/1911, lật đổ nhà Thanh và chấm dứt chế độ quân chủ chuyên chế tồn tại hàng nghìn năm.",
+   "facts": [
+    "Cách mạng Tân Hợi diễn ra từ ngày 10/10/1911 đến ngày 12/2/1912 ở Trung Quốc.",
+    "Khởi nghĩa Vũ Xương nổ ra tối ngày 10/10/1911 và trở thành bước ngoặt làm bùng nổ cách mạng trên cả nước.",
+    "Tôn Trung Sơn là lãnh tụ của Trung Quốc Đồng minh hội - tổ chức được thành lập tháng 8/1905 tại Tô-ki-ô (Nhật Bản) trên cơ sở hợp nhất Hưng Trung hội với một số tổ chức cách mạng khác; cương lĩnh của hội là \"đánh đuổi giặc Thát, khôi phục Trung Hoa, lập chính phủ hợp quần\", về sau được khái quát thành chủ nghĩa Tam dân.",
+    "Ngày 1/1/1912, Trung Hoa Dân quốc được thành lập ở Nam Kinh, Tôn Trung Sơn làm Đại Tổng thống lâm thời.",
+    "Vua Phổ Nghi — hoàng đế cuối cùng của nhà Thanh — thoái vị ngày 12/2/1912, chấm dứt chế độ quân chủ chuyên chế hàng nghìn năm ở Trung Quốc.",
+    "Vì khởi nghĩa Vũ Xương ngày 10/10/1911 lan nhanh ra nhiều tỉnh nên nhà Thanh mất chỗ dựa và buộc phải để Phổ Nghi thoái vị — khởi nghĩa là nguyên nhân, sự sụp đổ của nhà Thanh là kết quả."
+   ],
+   "traps": [
+    "Sai: Cách mạng Tân Hợi lật đổ chế độ phong kiến hoàn toàn và giải quyết vấn đề ruộng đất. Đúng: cách mạng chỉ lật đổ chế độ quân chủ chuyên chế, không xóa bỏ giai cấp địa chủ phong kiến, không chia ruộng đất cho dân cày.",
+    "Sai: Tôn Trung Sơn trực tiếp chỉ huy khởi nghĩa Vũ Xương. Đúng: lúc đó ông đang ở nước ngoài (Mỹ), chỉ về nước sau khi cách mạng thắng lợi.",
+    "Sai: Trung Quốc Đồng minh hội thành lập năm 1904. Đúng: thành lập tháng 8/1905 tại Tô-ki-ô, Nhật Bản."
+   ],
+   "lessons": [
+    {
+     "book": "cánh diều",
+     "bai": 2
+    },
+    {
+     "book": "KNTT",
+     "bai": 2
+    },
+    {
+     "book": "CTST",
+     "bai": 2
+    }
+   ],
+   "topic_title": "Sự xác lập và phát triển của chủ nghĩa tư bản",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Cách_mạng_Tân_Hợi",
+    "https://vi.wikipedia.org/wiki/Trung_Quốc_Đồng_minh_Hội"
+   ],
+   "fixed": [
+    "Trung Quốc Đồng minh hội: sửa mốc thành lập/cương lĩnh từ 1904 -> tháng 8/1905 (Tô-ki-ô), thêm bẫy + nguồn"
+   ]
+  },
+  {
+   "name": "Chủ nghĩa tư bản độc quyền (chủ nghĩa đế quốc)",
+   "kind": "concept",
+   "aliases": [
+    "chủ nghĩa đế quốc",
+    "chủ nghĩa tư bản hiện đại",
+    "tư bản độc quyền",
+    "imperialism",
+    "giai đoạn đế quốc chủ nghĩa"
+   ],
+   "year": null,
+   "date_start": "1870",
+   "date_end": "1914",
+   "place": "Châu Âu và Bắc Mỹ",
+   "actors": [
+    "Anh",
+    "Pháp",
+    "Đức",
+    "Hoa Kỳ",
+    "Các tổ chức độc quyền"
+   ],
+   "summary": "Từ cuối thế kỉ XIX đầu thế kỉ XX, chủ nghĩa tư bản tự do cạnh tranh chuyển sang giai đoạn độc quyền, hình thành các tổ chức độc quyền và cuộc chạy đua giành thuộc địa dẫn tới chiến tranh thế giới.",
+   "facts": [
+    "Vào cuối thế kỉ XIX và đầu thế kỉ XX, chủ nghĩa tư bản ở châu Âu và Bắc Mỹ chuyển từ giai đoạn tự do cạnh tranh sang giai đoạn độc quyền, còn gọi là chủ nghĩa đế quốc.",
+    "Đặc điểm nổi bật của giai đoạn này là sự ra đời các tổ chức độc quyền lớn, sự hợp nhất giữa tư bản ngân hàng với tư bản công nghiệp và việc xuất khẩu tư bản ra nước ngoài.",
+    "Các nước tư bản phương Tây mở rộng nhập khẩu nguyên liệu từ thuộc địa như thuốc nhuộm, bông vải, dầu thực vật và quặng kim loại để phục vụ nền công nghiệp trong nước.",
+    "Ưu thế về vũ khí, đặc biệt là súng máy, giúp quân đội các nước tư bản phương Tây áp đảo lực lượng bản địa và chiếm hầu hết châu Á, châu Phi trong thế kỉ XIX.",
+    "Đến năm 1913, châu Phi gần như bị chia hết cho các cường quốc thực dân, thể hiện đỉnh cao của cuộc tranh giành thuộc địa.",
+    "Vì thế giới đã bị chia xong mà các nước đế quốc vẫn muốn giành thêm thuộc địa nên mâu thuẫn giữa họ ngày càng gay gắt, dẫn tới Chiến tranh thế giới thứ nhất — tranh giành thuộc địa là nguyên nhân, chiến tranh là hậu quả."
+   ],
+   "traps": [
+    "Sai: chủ nghĩa tư bản độc quyền xuất hiện ngay từ khi cách mạng tư sản thắng lợi. Đúng: chủ nghĩa tư bản trải qua giai đoạn tự do cạnh tranh trước, đến cuối thế kỉ XIX - đầu thế kỉ XX mới chuyển sang giai đoạn độc quyền.",
+    "Sai: coi \"chủ nghĩa đế quốc\" chỉ là chính sách xâm lược. Đúng: đó là giai đoạn phát triển cao của chủ nghĩa tư bản, gắn với độc quyền kinh tế và xuất khẩu tư bản."
+   ],
+   "lessons": [
+    {
+     "book": "cánh diều",
+     "bai": 2
+    },
+    {
+     "book": "KNTT",
+     "bai": 2
+    },
+    {
+     "book": "CTST",
+     "bai": 2
+    }
+   ],
+   "topic_title": "Sự xác lập và phát triển của chủ nghĩa tư bản",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Chủ_nghĩa_đế_quốc"
+   ]
+  },
+  {
+   "name": "Đại khủng hoảng kinh tế thế giới 1929-1933",
+   "kind": "event",
+   "aliases": [
+    "khủng hoảng kinh tế 1929-1933",
+    "Đại suy thoái",
+    "Great Depression",
+    "cuộc khủng hoảng thừa",
+    "khủng hoảng kinh tế thế giới 1929"
+   ],
+   "year": 1929,
+   "date_start": "1929-10-24",
+   "date_end": "1933",
+   "place": "Hoa Kỳ và thế giới tư bản",
+   "actors": [
+    "Hoa Kỳ",
+    "Tổng thống Ru-dơ-ven (Roosevelt)",
+    "A-đôn-phơ Hít-le (Adolf Hitler)"
+   ],
+   "summary": "Cuộc khủng hoảng kinh tế lớn nhất trong lịch sử chủ nghĩa tư bản, bùng nổ ở Mỹ tháng 10/1929 rồi lan ra toàn thế giới, kéo dài tới năm 1933 và tạo điều kiện cho chủ nghĩa phát xít lên nắm quyền.",
+   "facts": [
+    "Đại khủng hoảng kinh tế thế giới bắt đầu năm 1929 và kéo dài tới năm 1933, mở đầu bằng sự sụp đổ của thị trường chứng khoán Phố Uôn (Wall Street) ở Mỹ ngày 24/10/1929, tiếp đó là \"ngày thứ Ba đen tối\" 29/10/1929.",
+    "Cuộc khủng hoảng nổ ra đầu tiên ở Hoa Kỳ — nền kinh tế lớn nhất thế giới khi đó — rồi lan ra toàn bộ thế giới tư bản.",
+    "Trong những năm 1929-1932, tổng sản phẩm toàn cầu giảm khoảng 15%, riêng nước Mỹ giảm tới 30%, còn mậu dịch quốc tế giảm hơn một nửa.",
+    "Tỉ lệ thất nghiệp ở Mỹ lên tới khoảng 25% vào năm 1933, có nước lên tới một phần ba lực lượng lao động, và giá nông sản sụt khoảng 60%.",
+    "Để thoát khỏi khủng hoảng, Tổng thống Ru-dơ-ven thực hiện Chính sách mới (New Deal) từ năm 1933 với các chương trình cứu trợ và tạo việc làm.",
+    "Vì khủng hoảng làm hàng triệu người mất việc và bất mãn nên các lực lượng phát xít lợi dụng để lên nắm quyền: ở Đức, Đảng Quốc xã trở thành đảng lớn nhất trong Quốc hội sau bầu cử tháng 7/1932, rồi ngày 30/1/1933 Tổng thống Hin-đen-bua bổ nhiệm Hít-le làm Thủ tướng — khủng hoảng là nguyên nhân, chủ nghĩa phát xít lên cầm quyền và Chiến tranh thế giới thứ hai là hậu quả."
+   ],
+   "traps": [
+    "Sai: Đại khủng hoảng kinh tế thế giới bắt đầu năm 1928. Đúng: bắt đầu năm 1929 (1929-1933), mở đầu bằng sụp đổ thị trường chứng khoán Phố Uôn tháng 10/1929.",
+    "Sai: khủng hoảng nổ ra đầu tiên ở Đức hoặc Anh. Đúng: nổ ra đầu tiên ở Hoa Kỳ rồi lan ra thế giới.",
+    "Sai: Chính sách mới của Ru-dơ-ven được thực hiện ngay năm 1929. Đúng: từ năm 1933.",
+    "Sai: Hít-le lên nắm quyền nhờ thắng một cuộc bầu cử tổng thống năm 1933. Đúng: ông được Tổng thống Hin-đen-bua bổ nhiệm làm Thủ tướng ngày 30/1/1933; Đảng Quốc xã chỉ chiếm đa số tương đối trong Quốc hội từ bầu cử tháng 7/1932."
+   ],
+   "lessons": [
+    {
+     "book": "cánh diều",
+     "bai": 2
+    },
+    {
+     "book": "KNTT",
+     "bai": 2
+    },
+    {
+     "book": "CTST",
+     "bai": 2
+    }
+   ],
+   "topic_title": "Sự xác lập và phát triển của chủ nghĩa tư bản",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Đại_khủng_hoảng",
+    "https://nghiencuuquocte.org/2017/01/30/adolf-hitler-tro-thanh-thu-tuong-duc/"
+   ],
+   "fixed": [
+    "Hít-le lên cầm quyền: sai 'thắng cử năm 1933' -> đúng được Hin-đen-bua bổ nhiệm Thủ tướng 30/1/1933 (Quốc xã thắng lớn ở bầu cử 7/1932)"
+   ]
+  },
+  {
+   "name": "Cách mạng tháng Mười Nga 1917",
+   "kind": "event",
+   "aliases": [
+    "Cách mạng Tháng Mười",
+    "Cách mạng xã hội chủ nghĩa tháng Mười Nga",
+    "October Revolution",
+    "khởi nghĩa Pê-tơ-rô-grát",
+    "cách mạng vô sản Nga"
+   ],
+   "year": 1917,
+   "date_start": "1917-11-07",
+   "date_end": "1917-11-08",
+   "place": "Pê-tơ-rô-grát, nước Nga",
+   "actors": [
+    "V.I. Lê-nin",
+    "Tơ-rốt-xki (Trotsky)",
+    "Ke-ren-xki (Kerensky)",
+    "Đảng Bôn-sê-vích",
+    "Cận vệ đỏ"
+   ],
+   "summary": "Cuộc cách mạng vô sản do Lê-nin và Đảng Bôn-sê-vích lãnh đạo, nổ ra ở Pê-tơ-rô-grát ngày 25-26/10/1917 theo lịch Nga cũ (tức 7-8/11/1917 dương lịch), lật đổ Chính phủ lâm thời tư sản và lập chính quyền Xô viết.",
+   "facts": [
+    "Cách mạng tháng Mười Nga nổ ra ngày 25-26/10/1917 theo lịch Nga cũ, tức ngày 7-8/11/1917 theo lịch dương đang dùng ngày nay.",
+    "Cuộc khởi nghĩa diễn ra ở thủ đô Pê-tơ-rô-grát của nước Nga, do V.I. Lê-nin và Đảng Bôn-sê-vích lãnh đạo, chống lại Chính phủ lâm thời tư sản của Ke-ren-xki.",
+    "Vì Chính phủ lâm thời cho đóng cửa nhà in của Đảng Bôn-sê-vích sáng 24/10/1917 (lịch cũ) nên Ủy ban Quân sự Cách mạng lập tức phát động khởi nghĩa — hành động đàn áp là nguyên nhân trực tiếp, khởi nghĩa vũ trang là hậu quả.",
+    "Lực lượng khởi nghĩa gồm khoảng 20.000 đến 30.000 chiến sĩ Cận vệ đỏ cùng khoảng 10.000 thủy thủ cách mạng, lần lượt chiếm các cây cầu, nhà ga, trung tâm bưu điện rồi đánh chiếm Cung điện Mùa Đông.",
+    "Sau thắng lợi, Đại hội Xô viết toàn Nga lần thứ hai tuyên bố là cơ quan quyền lực tối cao và thành lập Chính phủ Xô viết do Lê-nin đứng đầu.",
+    "Lực lượng vũ trang của chính quyền Xô viết mang tên Hồng quân Công nông, được thành lập đầu năm 1918 (sắc lệnh ngày 28/1/1918, ngày truyền thống 23/2/1918), giữ vai trò quyết định trong Nội chiến Nga 1918-1922.",
+    "Cách mạng tháng Mười Nga mở ra thời kì nhà nước xã hội chủ nghĩa đầu tiên trên thế giới và cổ vũ mạnh mẽ phong trào cách mạng ở nhiều nước, trong đó có Việt Nam."
+   ],
+   "traps": [
+    "Sai: gọi lực lượng vũ trang cách mạng Nga là \"quân đội đỏ\". Đúng: tên gọi chuẩn trong tiếng Việt là HỒNG QUÂN (Hồng quân Công nông, sau là Quân đội Xô viết từ năm 1946).",
+    "Sai: Hồng quân là lực lượng đánh chiếm Cung điện Mùa Đông tháng 10/1917. Đúng: lúc đó lực lượng chủ lực là Cận vệ đỏ và thủy thủ cách mạng; Hồng quân mới được thành lập đầu năm 1918.",
+    "Sai: Cách mạng tháng Mười nổ ra vào tháng 10 dương lịch. Đúng: ngày 25-26/10 là theo lịch Nga cũ, tương ứng 7-8/11/1917 dương lịch.",
+    "Sai: Cách mạng tháng Mười lật đổ Nga hoàng. Đúng: Nga hoàng bị lật đổ trong Cách mạng tháng Hai 1917; tháng Mười lật đổ Chính phủ lâm thời tư sản."
+   ],
+   "lessons": [
+    {
+     "book": "cánh diều",
+     "bai": 3
+    },
+    {
+     "book": "KNTT",
+     "bai": 3
+    }
+   ],
+   "topic_title": "Sự hình thành Liên bang Cộng hoà xã hội chủ nghĩa Xô viết",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Cách_mạng_Tháng_Mười",
+    "https://vi.wikipedia.org/wiki/Hồng_quân"
+   ]
+  },
+  {
+   "name": "Liên bang Cộng hòa xã hội chủ nghĩa Xô viết",
+   "kind": "org",
+   "aliases": [
+    "Liên Xô",
+    "Liên bang Xô viết",
+    "USSR",
+    "CCCP",
+    "Liên bang Cộng hoà xã hội chủ nghĩa Xô viết"
+   ],
+   "year": 1922,
+   "date_start": "1922-12-30",
+   "date_end": "1991-12-26",
+   "place": "Mát-xcơ-va",
+   "actors": [
+    "V.I. Lê-nin",
+    "Nga",
+    "U-crai-na",
+    "Bê-lô-rút-xi-a",
+    "Ngoại Cáp-ca-dơ",
+    "Goóc-ba-chốp"
+   ],
+   "summary": "Nhà nước liên bang xã hội chủ nghĩa được thành lập ngày 30/12/1922 từ 4 nước cộng hòa Xô viết, phát triển thành 15 nước cộng hòa và tồn tại đến cuối năm 1991.",
+   "facts": [
+    "Liên bang Cộng hòa xã hội chủ nghĩa Xô viết (gọi tắt là Liên Xô) chính thức được thành lập ngày 30/12/1922 trên cơ sở hiệp ước liên bang.",
+    "Bốn nước cộng hòa đầu tiên gia nhập Liên Xô năm 1922 là Nga, U-crai-na, Bê-lô-rút-xi-a và Ngoại Cáp-ca-dơ.",
+    "V.I. Lê-nin là người đứng đầu nhà nước Liên Xô những năm đầu, từ năm 1922 đến khi ông qua đời năm 1924.",
+    "Về sau Liên Xô mở rộng thành 15 nước cộng hòa và tồn tại cho tới cuối năm 1991.",
+    "Ngày 25/12/1991 Tổng thống Goóc-ba-chốp từ chức và ngày 26/12/1991 Liên Xô chính thức chấm dứt tồn tại.",
+    "Vì các nước cộng hòa Xô viết cần liên kết để cùng chống thù trong giặc ngoài và khôi phục kinh tế sau Nội chiến nên hiệp ước liên bang đã được kí năm 1922 — nhu cầu hợp tác là nguyên nhân, sự ra đời của Liên Xô là kết quả."
+   ],
+   "traps": [
+    "Sai: Liên Xô được thành lập ngay sau Cách mạng tháng Mười năm 1917. Đúng: nhà nước Xô viết ra đời năm 1917 nhưng Liên bang Xô viết chỉ được thành lập ngày 30/12/1922.",
+    "Sai: Liên Xô có 15 nước cộng hòa ngay từ khi thành lập. Đúng: ban đầu chỉ có 4 nước cộng hòa, về sau mới lên 15.",
+    "Sai: Xta-lin là người đứng đầu Liên Xô khi thành lập. Đúng: người đứng đầu đầu tiên là Lê-nin (1922-1924)."
+   ],
+   "lessons": [
+    {
+     "book": "cánh diều",
+     "bai": 3
+    },
+    {
+     "book": "KNTT",
+     "bai": 3
+    }
+   ],
+   "topic_title": "Sự hình thành Liên bang Cộng hoà xã hội chủ nghĩa Xô viết",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Liên_Xô"
+   ]
+  },
+  {
+   "name": "Liên Xô xây dựng chủ nghĩa xã hội (1921-1941)",
+   "kind": "period",
+   "aliases": [
+    "công cuộc xây dựng chủ nghĩa xã hội ở Liên Xô",
+    "Chính sách kinh tế mới",
+    "NEP",
+    "công nghiệp hóa xã hội chủ nghĩa",
+    "kế hoạch 5 năm Liên Xô"
+   ],
+   "year": 1921,
+   "date_start": "1921",
+   "date_end": "1941",
+   "place": "Liên Xô",
+   "actors": [
+    "V.I. Lê-nin",
+    "Xta-lin",
+    "Nhân dân Liên Xô"
+   ],
+   "summary": "Giai đoạn 1921-1941, Liên Xô thực hiện Chính sách kinh tế mới rồi các kế hoạch 5 năm, đưa một nước nông nghiệp lạc hậu trở thành cường quốc công nghiệp trước khi bị phát xít Đức tấn công năm 1941.",
+   "facts": [
+    "Công cuộc xây dựng chủ nghĩa xã hội ở Liên Xô được tính từ năm 1921, khi Chính sách kinh tế mới (NEP) do Lê-nin đề xướng bắt đầu, kéo dài đến năm 1941.",
+    "Chính sách kinh tế mới thay chế độ trưng thu lương thực thừa bằng thuế lương thực, cho phép tự do buôn bán và khôi phục kinh tế nhiều thành phần, nhờ đó nền kinh tế Liên Xô hồi phục nhanh sau Nội chiến.",
+    "Từ cuối những năm 1920, Liên Xô chuyển sang thực hiện các kế hoạch 5 năm, ưu tiên công nghiệp nặng và tập thể hóa nông nghiệp.",
+    "Đến trước năm 1941, Liên Xô đã trở thành một cường quốc công nghiệp, đứng đầu châu Âu về sản lượng công nghiệp.",
+    "Giai đoạn Liên Xô tham gia Chiến tranh thế giới thứ hai là 1941-1945, bắt đầu khi phát xít Đức tấn công Liên Xô năm 1941, và đây là giai đoạn chiến tranh vệ quốc chứ không thuộc thời kì xây dựng chủ nghĩa xã hội 1921-1941.",
+    "Trong Chiến tranh thế giới thứ hai, Liên Xô chịu tổn thất khoảng 27 triệu người — cái giá của chiến thắng trước chủ nghĩa phát xít."
+   ],
+   "traps": [
+    "Sai: Liên Xô tham gia Chiến tranh thế giới thứ hai nằm trong giai đoạn xây dựng chủ nghĩa xã hội 1921-1941. Đúng: Liên Xô tham gia chiến tranh giai đoạn 1941-1945, tách khỏi thời kì xây dựng chủ nghĩa xã hội 1921-1941.",
+    "Sai: Chính sách kinh tế mới do Xta-lin đề ra. Đúng: do Lê-nin đề xướng năm 1921.",
+    "Sai: Liên Xô tham chiến ngay từ năm 1939 khi Chiến tranh thế giới thứ hai bùng nổ. Đúng: Liên Xô bước vào cuộc chiến từ năm 1941 khi bị phát xít Đức tấn công."
+   ],
+   "lessons": [
+    {
+     "book": "cánh diều",
+     "bai": 3
+    },
+    {
+     "book": "KNTT",
+     "bai": 3
+    }
+   ],
+   "topic_title": "Sự hình thành Liên bang Cộng hoà xã hội chủ nghĩa Xô viết",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Liên_Xô",
+    "https://vi.wikipedia.org/wiki/Hồng_quân"
+   ]
+  },
+  {
+   "name": "Sự hình thành hệ thống xã hội chủ nghĩa thế giới sau năm 1945",
+   "kind": "period",
+   "aliases": [
+    "hệ thống xã hội chủ nghĩa",
+    "chủ nghĩa xã hội ở Đông Âu",
+    "các nước dân chủ nhân dân Đông Âu",
+    "SEV",
+    "Hội đồng tương trợ kinh tế"
+   ],
+   "year": 1945,
+   "date_start": "1944",
+   "date_end": "1991",
+   "place": "Đông Âu, châu Á, Mỹ Latinh",
+   "actors": [
+    "Liên Xô",
+    "Các nước Đông Âu",
+    "Trung Quốc",
+    "Việt Nam",
+    "Cu-ba"
+   ],
+   "summary": "Từ sau Chiến tranh thế giới thứ hai, chủ nghĩa xã hội vượt khỏi phạm vi một nước, lan sang Đông Âu, châu Á và Mỹ Latinh, hình thành hệ thống xã hội chủ nghĩa thế giới.",
+   "facts": [
+    "Trước năm 1945, Liên Xô là nước duy nhất trên thế giới đi theo con đường xã hội chủ nghĩa.",
+    "Trong hai năm 1944-1945, nhờ sự giúp đỡ của Hồng quân Liên Xô, nhân dân các nước Đông Âu nổi dậy giành chính quyền và lập nên các nhà nước dân chủ nhân dân.",
+    "Từ năm 1945 đến năm 1949, các nước Đông Âu hoàn thành nhiệm vụ của cách mạng dân chủ nhân dân: cải cách ruộng đất, quốc hữu hóa xí nghiệp của tư bản và thực hiện các quyền tự do dân chủ.",
+    "Từ năm 1950 đến giữa những năm 70 của thế kỉ XX, các nước Đông Âu bước vào xây dựng chủ nghĩa xã hội với công nghiệp hóa, điện khí hóa và phát triển nông nghiệp.",
+    "Vì thắng lợi của Liên Xô và phong trào giải phóng dân tộc sau Chiến tranh thế giới thứ hai nên chủ nghĩa xã hội lan rộng sang Đông Âu, châu Á (Trung Quốc, Việt Nam) và Mỹ Latinh (Cu-ba), hình thành hệ thống xã hội chủ nghĩa thế giới đối trọng với hệ thống tư bản chủ nghĩa.",
+    "Các nước xã hội chủ nghĩa hợp tác kinh tế với nhau thông qua Hội đồng tương trợ kinh tế (SEV) thành lập ngày 8/1/1949 với 7 nước sáng lập là Liên Xô, An-ba-ni, Ba Lan, Bun-ga-ri, Hung-ga-ri, Tiệp Khắc và Ru-ma-ni; năm 1950 kết nạp thêm Cộng hòa Dân chủ Đức, và SEV giải thể năm 1991."
+   ],
+   "traps": [
+    "Sai: các nước Đông Âu đi theo chủ nghĩa xã hội ngay trong Chiến tranh thế giới thứ hai. Đúng: chính quyền dân chủ nhân dân ra đời trong các năm 1944-1945, giai đoạn xây dựng chủ nghĩa xã hội bắt đầu từ khoảng năm 1950.",
+    "Sai: hệ thống xã hội chủ nghĩa hình thành ngay sau Cách mạng tháng Mười 1917. Đúng: trước năm 1945 chỉ có Liên Xô, hệ thống thế giới hình thành sau Chiến tranh thế giới thứ hai."
+   ],
+   "lessons": [
+    {
+     "book": "cánh diều",
+     "bai": 4
+    },
+    {
+     "book": "KNTT",
+     "bai": 4
+    }
+   ],
+   "topic_title": "Sự phát triển của chủ nghĩa xã hội từ sau Chiến tranh thế giới thứ hai đến nay",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Hội_đồng_Tương_trợ_Kinh_tế",
+    "https://vi.wikipedia.org/wiki/Đông_Âu",
+    "https://loigiaihay.com/bai-4-su-phat-trien-cua-chu-nghia-xa-hoi-tu-sau-chien-tranh-the-gioi-thu-hai-den-nay-sgk-lich-su-11-ket-noi-tri-thuc-a136766.html"
+   ],
+   "fixed": [
+    "Thẻ chỉ dựa loigiaihay -> bổ sung nguồn độc lập; SEV: ghi rõ ngày 8/1/1949, 7 nước sáng lập, giải thể 1991"
+   ]
+  },
+  {
+   "name": "Nước Cộng hòa Nhân dân Trung Hoa ra đời",
+   "kind": "event",
+   "aliases": [
+    "CHND Trung Hoa thành lập",
+    "Trung Quốc 1/10/1949",
+    "quốc khánh Trung Quốc",
+    "People's Republic of China founding"
+   ],
+   "year": 1949,
+   "date_start": "1949-10-01",
+   "date_end": "1949-10-01",
+   "place": "Quảng trường Thiên An Môn, Bắc Kinh",
+   "actors": [
+    "Mao Trạch Đông",
+    "Đảng Cộng sản Trung Quốc",
+    "Quốc dân đảng",
+    "Tưởng Giới Thạch"
+   ],
+   "summary": "Ngày 1/10/1949, sau khi thắng lợi trong nội chiến, Mao Trạch Đông tuyên bố thành lập nước Cộng hòa Nhân dân Trung Hoa tại quảng trường Thiên An Môn, đưa chủ nghĩa xã hội lan sang một nước lớn ở châu Á.",
+   "facts": [
+    "Nước Cộng hòa Nhân dân Trung Hoa được thành lập ngày 1/10/1949.",
+    "Vì Đảng Cộng sản Trung Quốc đánh bại Quốc dân đảng trong cuộc nội chiến nên chính quyền cách mạng mới được lập ra ngày 1/10/1949 — thắng lợi nội chiến là nguyên nhân, sự ra đời của nước Cộng hòa Nhân dân Trung Hoa là kết quả.",
+    "Chiều ngày 1/10/1949, tại cuộc mít tinh của hơn 30 vạn người dân trên quảng trường Thiên An Môn ở Bắc Kinh, Chủ tịch Mao Trạch Đông trịnh trọng tuyên bố trước thế giới về sự ra đời của nước Cộng hòa Nhân dân Trung Hoa.",
+    "Sau khi thất bại, Quốc dân đảng đưa chính quyền Trung Hoa Dân quốc rút ra đảo Đài Loan.",
+    "Sự ra đời của nước Cộng hòa Nhân dân Trung Hoa năm 1949 làm cho chủ nghĩa xã hội được nối liền từ châu Âu sang châu Á."
+   ],
+   "traps": [
+    "Sai: nước Cộng hòa Nhân dân Trung Hoa ra đời năm 1945 hoặc 1950. Đúng: ngày 1/10/1949.",
+    "Sai: nhầm nước Cộng hòa Nhân dân Trung Hoa (1949) với Trung Hoa Dân quốc (1912 do Tôn Trung Sơn lập sau Cách mạng Tân Hợi). Đây là hai nhà nước khác nhau."
+   ],
+   "lessons": [
+    {
+     "book": "cánh diều",
+     "bai": 4
+    },
+    {
+     "book": "KNTT",
+     "bai": 4
+    }
+   ],
+   "topic_title": "Sự phát triển của chủ nghĩa xã hội từ sau Chiến tranh thế giới thứ hai đến nay",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Cộng_hòa_Nhân_dân_Trung_Hoa",
+    "https://nghiencuuquocte.org/2015/10/01/mao-tuyen-bo-thanh-lap-chnd-trung-hoa/"
+   ]
+  },
+  {
+   "name": "Công cuộc cải cách mở cửa của Trung Quốc",
+   "kind": "movement",
+   "aliases": [
+    "cải cách mở cửa",
+    "cải cách kinh tế Trung Quốc",
+    "Đặng Tiểu Bình cải cách",
+    "đổi mới ở Trung Quốc",
+    "reform and opening up"
+   ],
+   "year": 1978,
+   "date_start": "1978-12-18",
+   "date_end": null,
+   "place": "Trung Quốc",
+   "actors": [
+    "Đặng Tiểu Bình",
+    "Đảng Cộng sản Trung Quốc"
+   ],
+   "summary": "Từ tháng 12/1978, Trung Quốc tiến hành cải cách mở cửa do Đặng Tiểu Bình khởi xướng, chuyển sang kinh tế thị trường xã hội chủ nghĩa và đạt tốc độ tăng trưởng cao suốt nhiều thập niên.",
+   "facts": [
+    "Công cuộc cải cách mở cửa của Trung Quốc bắt đầu từ năm 1978, được Hội nghị Trung ương 3 khóa XI của Đảng Cộng sản Trung Quốc (họp từ ngày 18 đến ngày 22/12/1978) thông qua.",
+    "Đặng Tiểu Bình cùng những người theo đường lối cải cách trong Đảng Cộng sản Trung Quốc là người khởi xướng đường lối này.",
+    "Nội dung chính của cải cách gồm phi tập thể hóa nông nghiệp, mở cửa đón đầu tư nước ngoài, cho phép kinh tế tư nhân hoạt động và từng bước bỏ kiểm soát giá cả.",
+    "Từ năm 1978 đến năm 2013, kinh tế Trung Quốc tăng trưởng khoảng 9,5% mỗi năm — một tốc độ hiếm có trong lịch sử thế giới.",
+    "Đến năm 2005, khu vực kinh tế tư nhân đã chiếm khoảng 70% tổng sản phẩm quốc nội của Trung Quốc.",
+    "Vì mô hình kinh tế kế hoạch hóa tập trung bộc lộ nhiều hạn chế nên Trung Quốc quyết định cải cách mở cửa từ năm 1978 — sự trì trệ của mô hình cũ là nguyên nhân, thành tựu tăng trưởng cao là kết quả."
+   ],
+   "traps": [
+    "Sai: cải cách mở cửa của Trung Quốc bắt đầu năm 1976 hoặc 1986. Đúng: năm 1978.",
+    "Sai: nhầm cải cách mở cửa của Trung Quốc (1978) với công cuộc Đổi mới của Việt Nam (1986). Hai công cuộc khác nước, khác mốc thời gian."
+   ],
+   "lessons": [
+    {
+     "book": "cánh diều",
+     "bai": 4
+    },
+    {
+     "book": "KNTT",
+     "bai": 4
+    }
+   ],
+   "topic_title": "Sự phát triển của chủ nghĩa xã hội từ sau Chiến tranh thế giới thứ hai đến nay",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Cải_cách_kinh_tế_Trung_Quốc"
+   ],
+   "fixed": [
+    "Ghi rõ hội nghị phê chuẩn cải cách mở cửa là Hội nghị Trung ương 3 khóa XI, họp 18-22/12/1978 (không phải một hội nghị chỉ trong ngày 18/12)"
+   ]
+  },
+  {
+   "name": "Sự sụp đổ của chế độ xã hội chủ nghĩa ở Liên Xô và Đông Âu",
+   "kind": "event",
+   "aliases": [
+    "Liên Xô tan rã",
+    "Liên Xô sụp đổ 1991",
+    "khủng hoảng Đông Âu 1989",
+    "giải thể Liên Xô",
+    "sự tan rã của Liên bang Xô viết"
+   ],
+   "year": 1991,
+   "date_start": "1989",
+   "date_end": "1991-12-26",
+   "place": "Liên Xô và Đông Âu",
+   "actors": [
+    "Goóc-ba-chốp (Gorbachev)",
+    "15 nước cộng hòa Xô viết",
+    "Các nước Đông Âu"
+   ],
+   "summary": "Cuối những năm 1989-1991, chế độ xã hội chủ nghĩa ở Đông Âu sụp đổ và Liên Xô tan rã, chấm dứt tồn tại ngày 26/12/1991, khiến hệ thống xã hội chủ nghĩa thế giới không còn.",
+   "facts": [
+    "Cuối những năm 80 của thế kỉ XX, các nước xã hội chủ nghĩa ở Đông Âu lâm vào khủng hoảng và chế độ xã hội chủ nghĩa ở đây lần lượt sụp đổ trong các năm 1989-1991.",
+    "Ngày 25/12/1991, Tổng thống Goóc-ba-chốp từ chức và thừa nhận Liên Xô giải thể; ngày 26/12/1991 Liên Xô chính thức chấm dứt tồn tại.",
+    "Khi tan rã, Liên Xô gồm 15 nước cộng hòa, tất cả đều trở thành các quốc gia độc lập.",
+    "Vì công cuộc cải tổ mắc nhiều sai lầm cộng với khủng hoảng kinh tế - xã hội kéo dài nên Liên Xô đi tới tan rã cuối năm 1991 — sai lầm trong cải tổ là nguyên nhân, sự sụp đổ là hậu quả.",
+    "Sự sụp đổ của Liên Xô và Đông Âu là tổn thất nặng nề của phong trào xã hội chủ nghĩa thế giới, nhưng chủ nghĩa xã hội vẫn tiếp tục ở Trung Quốc, Việt Nam, Lào, Cu-ba."
+   ],
+   "traps": [
+    "Sai: Liên Xô tan rã năm 1990 hoặc 1992. Đúng: Goóc-ba-chốp từ chức ngày 25/12/1991 và Liên Xô chính thức chấm dứt tồn tại ngày 26/12/1991.",
+    "Sai: chủ nghĩa xã hội chấm dứt hoàn toàn sau năm 1991. Đúng: Trung Quốc, Việt Nam, Lào, Cu-ba vẫn kiên trì con đường xã hội chủ nghĩa."
+   ],
+   "lessons": [
+    {
+     "book": "cánh diều",
+     "bai": 4
+    },
+    {
+     "book": "KNTT",
+     "bai": 4
+    }
+   ],
+   "topic_title": "Sự phát triển của chủ nghĩa xã hội từ sau Chiến tranh thế giới thứ hai đến nay",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Liên_Xô"
+   ]
+  },
+  {
+   "name": "Quá trình thực dân phương Tây xâm lược Đông Nam Á",
+   "kind": "period",
+   "aliases": [
+    "thực dân phương Tây xâm lược Đông Nam Á",
+    "chủ nghĩa thực dân ở Đông Nam Á",
+    "xâm lược và cai trị Đông Nam Á",
+    "colonialism in Southeast Asia"
+   ],
+   "year": null,
+   "date_start": "1511",
+   "date_end": "1898",
+   "place": "Đông Nam Á",
+   "actors": [
+    "Bồ Đào Nha",
+    "Tây Ban Nha",
+    "Hà Lan",
+    "Anh",
+    "Pháp",
+    "Hoa Kỳ"
+   ],
+   "summary": "Từ thế kỉ XVI đến cuối thế kỉ XIX, các nước thực dân phương Tây lần lượt xâm chiếm hầu hết Đông Nam Á, chỉ riêng Xiêm giữ được độc lập về hình thức.",
+   "facts": [
+    "Từ thế kỉ XVI, các nước thực dân phương Tây bắt đầu xâm nhập Đông Nam Á, mở đầu là Bồ Đào Nha và Tây Ban Nha, sau đó là Hà Lan, Anh, Pháp.",
+    "Hà Lan lập Công ty Đông Ấn từ năm 1602 rồi biến quần đảo Inđônêxia thành thuộc địa Đông Ấn Hà Lan, cai trị hơn ba thế kỉ cho đến khi Nhật Bản chiếm đóng trong Chiến tranh thế giới thứ hai.",
+    "Tây Ban Nha cai trị Phi-líp-pin suốt hơn ba thế kỉ, đến năm 1898 thì phải nhượng quần đảo này cho Hoa Kỳ.",
+    "Đến cuối thế kỉ XIX, hầu hết các nước Đông Nam Á đều trở thành thuộc địa hoặc nửa thuộc địa của thực dân phương Tây; riêng Xiêm giữ được nền độc lập tương đối.",
+    "Vì các nước tư bản phương Tây cần thị trường, nguyên liệu và nhân công rẻ khi bước vào giai đoạn công nghiệp hóa nên họ đẩy mạnh xâm chiếm Đông Nam Á — nhu cầu kinh tế là nguyên nhân, việc Đông Nam Á biến thành thuộc địa là hậu quả.",
+    "Chính sách cai trị của thực dân làm kinh tế Đông Nam Á lệ thuộc, xã hội phân hóa sâu sắc và làm nảy sinh phong trào đấu tranh giành độc lập ở khắp khu vực."
+   ],
+   "traps": [
+    "Sai: mọi nước Đông Nam Á đều bị biến thành thuộc địa. Đúng: Xiêm (Thái Lan) là nước duy nhất giữ được độc lập, dù phải cắt một số vùng đất cho Anh và Pháp.",
+    "Sai: Phi-líp-pin là thuộc địa của Hà Lan. Đúng: Phi-líp-pin là thuộc địa Tây Ban Nha rồi thuộc Mỹ từ năm 1898; Inđônêxia mới là thuộc địa của Hà Lan."
+   ],
+   "lessons": [
+    {
+     "book": "cánh diều",
+     "bai": 5
+    },
+    {
+     "book": "KNTT",
+     "bai": 5
+    },
+    {
+     "book": "CTST",
+     "bai": 5
+    }
+   ],
+   "topic_title": "Quá trình xâm lược và cai trị của chủ nghĩa thực dân ở Đông Nam Á",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Indonesia",
+    "https://vi.wikipedia.org/wiki/Chiến_tranh_Tây_Ban_Nha–Mỹ",
+    "https://vi.wikipedia.org/wiki/Chulalongkorn"
+   ]
+  },
+  {
+   "name": "Phi-líp-pin từ thuộc địa Tây Ban Nha sang thuộc địa Mỹ (1898)",
+   "kind": "event",
+   "aliases": [
+    "Chiến tranh Tây Ban Nha - Mỹ",
+    "Hiệp ước Pa-ri 1898",
+    "Philippines thuộc Mỹ",
+    "cách mạng Phi-líp-pin 1896",
+    "Emilio Aguinaldo"
+   ],
+   "year": 1898,
+   "date_start": "1898-04",
+   "date_end": "1898-12-10",
+   "place": "Phi-líp-pin",
+   "actors": [
+    "Tây Ban Nha",
+    "Hoa Kỳ",
+    "Ê-mi-li-ô A-ghi-nan-đô (Emilio Aguinaldo)"
+   ],
+   "summary": "Sau chiến tranh Tây Ban Nha - Mỹ năm 1898, Tây Ban Nha nhượng Phi-líp-pin cho Hoa Kỳ, khiến nhân dân Phi-líp-pin vừa giành được độc lập đã lại rơi vào ách thống trị của một thực dân mới.",
+   "facts": [
+    "Chiến tranh Tây Ban Nha - Mỹ diễn ra từ tháng 4 đến tháng 8 năm 1898.",
+    "Cách mạng Phi-líp-pin bùng nổ năm 1896 chống ách thống trị Tây Ban Nha, về sau do Ê-mi-li-ô A-ghi-nan-đô lãnh đạo.",
+    "Ngày 12/6/1898, A-ghi-nan-đô tuyên bố nền độc lập của Phi-líp-pin.",
+    "Theo Hiệp ước Pa-ri kí ngày 10/12/1898, Tây Ban Nha nhượng quần đảo Phi-líp-pin cho Hoa Kỳ với giá 20 triệu đô la.",
+    "Vì Mỹ thắng Tây Ban Nha năm 1898 và mua lại quần đảo nên nền độc lập vừa tuyên bố của Phi-líp-pin không được thừa nhận, nhân dân Phi-líp-pin phải tiếp tục kháng chiến chống một kẻ thù mới là thực dân Mỹ."
+   ],
+   "traps": [
+    "Sai: Phi-líp-pin giành được độc lập thật sự năm 1898. Đúng: tuyên bố độc lập ngày 12/6/1898 nhưng ngay sau đó bị Mỹ thống trị; độc lập chỉ được công nhận năm 1946.",
+    "Sai: Mỹ giúp Phi-líp-pin giành độc lập. Đúng: Mỹ lợi dụng phong trào của nhân dân Phi-líp-pin để đánh Tây Ban Nha rồi biến quần đảo thành thuộc địa của mình."
+   ],
+   "lessons": [
+    {
+     "book": "cánh diều",
+     "bai": 5
+    },
+    {
+     "book": "KNTT",
+     "bai": 5
+    },
+    {
+     "book": "CTST",
+     "bai": 5
+    }
+   ],
+   "topic_title": "Quá trình xâm lược và cai trị của chủ nghĩa thực dân ở Đông Nam Á",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Chiến_tranh_Tây_Ban_Nha–Mỹ"
+   ]
+  },
+  {
+   "name": "Cải cách của vua Ra-ma V (Chu-la-long-con) ở Xiêm",
+   "kind": "movement",
+   "aliases": [
+    "Rama V",
+    "Chulalongkorn",
+    "Chu-la-long-con",
+    "cải cách ở Xiêm",
+    "Xiêm giữ được độc lập",
+    "Thái Lan cải cách"
+   ],
+   "year": 1868,
+   "date_start": "1868-10-01",
+   "date_end": "1910-10-23",
+   "place": "Xiêm (Thái Lan)",
+   "actors": [
+    "Vua Ra-ma V",
+    "Anh",
+    "Pháp"
+   ],
+   "summary": "Vua Ra-ma V trị vì Xiêm từ năm 1868 đến năm 1910, tiến hành hàng loạt cải cách theo hướng phương Tây và khéo léo ngoại giao, nhờ đó Xiêm là nước Đông Nam Á duy nhất giữ được độc lập.",
+   "facts": [
+    "Vua Ra-ma V (Chu-la-long-con) trị vì Xiêm từ ngày 1/10/1868 đến ngày 23/10/1910, tức hơn 42 năm.",
+    "Ông hiện đại hóa triều đình bằng cách lập chế độ Nội các và cải tổ hành chính địa phương, thay bộ máy phong kiến cũ bằng hệ thống tỉnh (changwat) và huyện (amphoe) còn dùng đến ngày nay.",
+    "Ông ân xá tù chính trị và từng bước xóa bỏ chế độ nô lệ ở Xiêm, vừa giải phóng sức lao động vừa làm suy yếu thế lực của các gia tộc quý tộc.",
+    "Ra-ma V cho xây đường sắt, dùng lịch phương Tây, phát hành tiền giấy, mở rộng tự do tôn giáo và là vị vua Xiêm đầu tiên đi thăm châu Âu, vào các năm 1897 và 1907.",
+    "Vì Xiêm chủ động cải cách theo hướng phương Tây, khéo léo cân bằng quan hệ giữa Anh và Pháp và chấp nhận cắt một số vùng đất (nay thuộc Lào, Cam-pu-chia và bắc Ma-lai-xi-a) nên giữ được nền độc lập — cải cách và ngoại giao mềm dẻo là nguyên nhân, việc không bị biến thành thuộc địa là kết quả."
+   ],
+   "traps": [
+    "Sai: Xiêm giữ được độc lập vì không bị thực dân phương Tây nhòm ngó. Đúng: Xiêm bị cả Anh và Pháp ép, phải cắt đất và cải cách mới giữ được độc lập.",
+    "Sai: Xiêm hoàn toàn không mất một tấc đất nào. Đúng: Ra-ma V đã phải nhượng cho Pháp và Anh nhiều vùng nay thuộc Lào, Cam-pu-chia và bắc Ma-lai-xi-a."
+   ],
+   "lessons": [
+    {
+     "book": "cánh diều",
+     "bai": 5
+    },
+    {
+     "book": "KNTT",
+     "bai": 5
+    },
+    {
+     "book": "CTST",
+     "bai": 5
+    }
+   ],
+   "topic_title": "Quá trình xâm lược và cai trị của chủ nghĩa thực dân ở Đông Nam Á",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Chulalongkorn"
+   ]
+  },
+  {
+   "name": "Inđônêxia tuyên bố độc lập (17/8/1945)",
+   "kind": "event",
+   "aliases": [
+    "Indonesia độc lập",
+    "Xu-các-nô",
+    "Sukarno",
+    "tuyên ngôn độc lập Inđônêxia",
+    "17 tháng 8 năm 1945"
+   ],
+   "year": 1945,
+   "date_start": "1945-08-17",
+   "date_end": "1949-12-27",
+   "place": "Gia-các-ta, Inđônêxia",
+   "actors": [
+    "Xu-các-nô (Sukarno)",
+    "Hát-ta (Hatta)",
+    "Hà Lan",
+    "Nhật Bản"
+   ],
+   "summary": "Ngày 17/8/1945, ngay sau khi Nhật Bản đầu hàng, Inđônêxia tuyên bố độc lập; Hà Lan phải công nhận nền độc lập đó ngày 27/12/1949 sau 4 năm kháng chiến.",
+   "facts": [
+    "Inđônêxia tuyên bố độc lập ngày 17/8/1945, trở thành một trong những nước Đông Nam Á tuyên bố độc lập sớm nhất.",
+    "Xu-các-nô được cử làm Tổng thống đầu tiên của nước Cộng hòa Inđônêxia sau khi độc lập được tuyên bố.",
+    "Trước đó Inđônêxia bị Hà Lan cai trị hơn ba thế kỉ, từ khi Công ty Đông Ấn Hà Lan được lập năm 1602 cho tới khi Nhật Bản chiếm đóng trong Chiến tranh thế giới thứ hai.",
+    "Vì phát xít Nhật đầu hàng Đồng minh giữa tháng 8/1945 tạo ra khoảng trống quyền lực nên nhân dân Inđônêxia chớp thời cơ tuyên bố độc lập ngày 17/8/1945 — Nhật đầu hàng là thời cơ, tuyên bố độc lập là kết quả.",
+    "Sau tuyên bố độc lập, Inđônêxia phải trải qua đấu tranh vũ trang và ngoại giao cho đến ngày 27/12/1949 Hà Lan mới chính thức công nhận nền độc lập của nước này."
+   ],
+   "traps": [
+    "Sai: Inđônêxia được Hà Lan trao trả độc lập trong hòa bình năm 1945. Đúng: Inđônêxia tự tuyên bố độc lập ngày 17/8/1945, phải đấu tranh đến ngày 27/12/1949 Hà Lan mới công nhận.",
+    "Sai: Inđônêxia từng là thuộc địa của Anh. Đúng: là thuộc địa của Hà Lan (Đông Ấn Hà Lan)."
+   ],
+   "lessons": [
+    {
+     "book": "cánh diều",
+     "bai": 6
+    },
+    {
+     "book": "KNTT",
+     "bai": 6
+    },
+    {
+     "book": "CTST",
+     "bai": 6
+    }
+   ],
+   "topic_title": "Hành trình đi đến độc lập dân tộc ở Đông Nam Á",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Indonesia"
+   ]
+  },
+  {
+   "name": "Làn sóng giành độc lập của các nước Đông Nam Á sau năm 1945",
+   "kind": "period",
+   "aliases": [
+    "các nước Đông Nam Á giành độc lập",
+    "niên biểu độc lập Đông Nam Á",
+    "phi thực dân hóa Đông Nam Á",
+    "độc lập dân tộc ở Đông Nam Á"
+   ],
+   "year": 1945,
+   "date_start": "1945",
+   "date_end": "2002-05-20",
+   "place": "Đông Nam Á",
+   "actors": [
+    "Việt Nam",
+    "Inđônêxia",
+    "Lào",
+    "Phi-líp-pin",
+    "Miến Điện",
+    "Ma-lai-xi-a",
+    "Đông Ti-mo"
+   ],
+   "summary": "Từ năm 1945 đến năm 2002, các quốc gia Đông Nam Á lần lượt tuyên bố hoặc được công nhận độc lập, hoàn tất quá trình xóa bỏ chủ nghĩa thực dân ở khu vực.",
+   "facts": [
+    "Ba nước Đông Nam Á tuyên bố độc lập ngay trong năm 1945 là Inđônêxia (17/8/1945), Việt Nam (2/9/1945) và Lào (12/10/1945).",
+    "Phi-líp-pin được Mỹ công nhận độc lập vào tháng 7/1946, còn Miến Điện (nay là Mi-an-ma) giành lại độc lập từ tay người Anh vào tháng 1/1948.",
+    "Hà Lan công nhận nền độc lập của Inđônêxia vào cuối năm 1949, sau nhiều năm nhân dân nước này vừa đấu tranh vũ trang vừa đấu tranh ngoại giao.",
+    "Ma-lai-xi-a tuyên bố độc lập vào tháng 8/1957 sau thời kì dài dưới ách thống trị của thực dân Anh.",
+    "Ở Cam-pu-chia, nhờ hoạt động ngoại giao của Quốc vương Nô-rô-đôm Xi-ha-núc, ngày 9/11/1953 Pháp kí hiệp ước trao trả độc lập, dù quân Pháp vẫn còn chiếm đóng.",
+    "Đông Ti-mo tách khỏi Inđônêxia và trở thành quốc gia độc lập ngày 20/5/2002, khép lại tiến trình giành độc lập ở Đông Nam Á.",
+    "Vì thắng lợi của phe Đồng minh và sự đầu hàng của phát xít Nhật năm 1945 tạo thời cơ nên phong trào giải phóng dân tộc ở Đông Nam Á bùng lên mạnh mẽ — Chiến tranh thế giới thứ hai kết thúc là thời cơ, làn sóng giành độc lập là kết quả."
+   ],
+   "traps": [
+    "Sai: tất cả các nước Đông Nam Á đều giành độc lập trong năm 1945. Đúng: chỉ Inđônêxia, Việt Nam và Lào tuyên bố độc lập năm 1945; các nước khác muộn hơn, muộn nhất là Đông Ti-mo năm 2002.",
+    "Sai: Việt Nam tuyên bố độc lập sớm nhất Đông Nam Á. Đúng: Inđônêxia tuyên bố ngày 17/8/1945, sớm hơn Việt Nam ngày 2/9/1945."
+   ],
+   "lessons": [
+    {
+     "book": "cánh diều",
+     "bai": 6
+    },
+    {
+     "book": "KNTT",
+     "bai": 6
+    },
+    {
+     "book": "CTST",
+     "bai": 6
+    }
+   ],
+   "topic_title": "Hành trình đi đến độc lập dân tộc ở Đông Nam Á",
+   "sources": [
+    "https://loigiaihay.com/lap-nien-bieu-ve-thoi-gian-tuyen-bo-doc-lap-cua-cac-quoc-gia-o-dong-nam-a-c87a6096.html",
+    "https://vi.wikipedia.org/wiki/Indonesia"
+   ]
+  },
+  {
+   "name": "Kháng chiến chống Tống năm 981",
+   "kind": "battle",
+   "aliases": [
+    "chiến tranh Tống - Việt 981",
+    "kháng chiến chống Tống lần thứ nhất",
+    "Lê Hoàn chống Tống",
+    "Lê Đại Hành phá Tống"
+   ],
+   "year": 981,
+   "date_start": "981-01",
+   "date_end": "981-04",
+   "place": "Đại Cồ Việt (vùng Bạch Đằng, Chi Lăng)",
+   "actors": [
+    "Lê Hoàn (Lê Đại Hành)",
+    "Hầu Nhân Bảo",
+    "Nhà Tống",
+    "Đinh Tiên Hoàng"
+   ],
+   "summary": "Năm 981, Lê Hoàn lãnh đạo quân dân Đại Cồ Việt đánh tan cuộc xâm lược của nhà Tống trên các hướng Bạch Đằng và Chi Lăng, giữ vững nền độc lập vừa giành lại.",
+   "facts": [
+    "Cuối năm 979, Đinh Tiên Hoàng và con là Đinh Liễn bị sát hại, triều đình Đại Cồ Việt rối loạn; Lê Hoàn được suy tôn lên ngôi, lập ra nhà Tiền Lê.",
+    "Vì nhà Tống biết Đại Cồ Việt đang rối ren sau cái chết của Đinh Tiên Hoàng nên đã đem quân sang xâm lược năm 981 — tình hình rối ren trong nước là nguyên nhân, cuộc xâm lược của nhà Tống là hậu quả.",
+    "Cuộc kháng chiến chống Tống lần thứ nhất diễn ra trong khoảng đầu năm đến tháng 4 năm 981, do Lê Hoàn (Lê Đại Hành) trực tiếp chỉ huy.",
+    "Quân Đại Cồ Việt chặn đánh quân Tống ở Chi Lăng và quyết chiến trên sông Bạch Đằng, tiêu diệt tướng chỉ huy quân Tống là Hầu Nhân Bảo.",
+    "Sau thất bại năm 981, đến năm 986 nhà Tống phải chính thức công nhận quyền cai trị của Lê Hoàn và thiết lập quan hệ bang giao với Đại Cồ Việt."
+   ],
+   "traps": [
+    "Sai: người lãnh đạo kháng chiến chống Tống năm 981 là Lý Thường Kiệt. Đúng: là Lê Hoàn; Lý Thường Kiệt chỉ huy cuộc kháng chiến chống Tống lần thứ hai (1075-1077).",
+    "Sai: trận Bạch Đằng năm 981 là trận Bạch Đằng của Ngô Quyền. Đúng: Ngô Quyền đánh quân Nam Hán trên sông Bạch Đằng năm 938; Lê Hoàn đánh quân Tống trên sông Bạch Đằng năm 981."
+   ],
+   "lessons": [
+    {
+     "book": "cánh diều",
+     "bai": 7
+    },
+    {
+     "book": "KNTT",
+     "bai": 7
+    },
+    {
+     "book": "CTST",
+     "bai": 7
+    }
+   ],
+   "topic_title": "Khái quát về chiến tranh bảo vệ Tổ quốc trong lịch sử Việt Nam",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Chiến_tranh_Tống-Việt,_981"
+   ]
+  },
+  {
+   "name": "Kháng chiến chống Tống 1075-1077",
+   "kind": "battle",
+   "aliases": [
+    "chiến tranh Tống - Việt lần thứ hai",
+    "kháng chiến chống Tống thời Lý",
+    "Lý Thường Kiệt chống Tống",
+    "phòng tuyến sông Như Nguyệt",
+    "tiên phát chế nhân"
+   ],
+   "year": 1075,
+   "date_start": "1075",
+   "date_end": "1077",
+   "place": "Đại Việt và vùng Ung Châu, Khâm Châu, Liêm Châu",
+   "actors": [
+    "Lý Thường Kiệt",
+    "Nhà Tống",
+    "Quách Quỳ"
+   ],
+   "summary": "Cuộc kháng chiến chống Tống lần thứ hai (1075-1077) do Lý Thường Kiệt chỉ huy, nổi bật với chủ trương đánh phủ đầu sang đất Tống và chiến thắng quyết định trên phòng tuyến sông Như Nguyệt.",
+   "facts": [
+    "Cuộc kháng chiến chống Tống lần thứ hai của Đại Việt diễn ra trong các năm 1075-1077 dưới triều Lý.",
+    "Thái úy Lý Thường Kiệt chủ trương \"tiên phát chế nhân\", tức đánh đòn phủ đầu để phá kho tàng và căn cứ chuẩn bị chiến tranh của nhà Tống trước khi chúng kịp tấn công Đại Việt.",
+    "Thực hiện chủ trương đó, hơn 10 vạn quân Đại Việt đã hạ Khâm Châu ngày 30/12/1075, Liêm Châu ngày 2/1/1076 và sau 42 ngày công phá thì chiếm thành Ung Châu ngày 1/3/1076.",
+    "Khi quân Tống kéo sang, Lý Thường Kiệt lập phòng tuyến dài khoảng 30 km dọc bờ nam sông Cầu (sông Như Nguyệt), lợi dụng bãi lầy, gò cao và chiến lũy để chặn giặc.",
+    "Bài thơ \"Nam quốc sơn hà\" vang lên bên phòng tuyến sông Như Nguyệt được coi là bản tuyên ngôn độc lập đầu tiên của nước ta, có tác dụng cổ vũ tinh thần quân sĩ.",
+    "Năm 1077, hai bên giảng hòa, quân Tống rút về nước, nền độc lập của Đại Việt được giữ vững."
+   ],
+   "traps": [
+    "Sai: Lý Thường Kiệt đem quân sang đánh Tống là hành động xâm lược. Đúng: đó là đòn tấn công tự vệ đánh vào nơi tập trung lương thảo, vũ khí mà nhà Tống chuẩn bị để xâm lược Đại Việt.",
+    "Sai: phòng tuyến Như Nguyệt nằm trên sông Hồng. Đúng: nằm dọc bờ nam sông Cầu (còn gọi là sông Như Nguyệt).",
+    "Sai: kháng chiến chống Tống lần hai diễn ra năm 981. Đúng: năm 981 là lần thứ nhất do Lê Hoàn chỉ huy; lần thứ hai là 1075-1077."
+   ],
+   "lessons": [
+    {
+     "book": "cánh diều",
+     "bai": 7
+    },
+    {
+     "book": "KNTT",
+     "bai": 7
+    },
+    {
+     "book": "CTST",
+     "bai": 7
+    }
+   ],
+   "topic_title": "Khái quát về chiến tranh bảo vệ Tổ quốc trong lịch sử Việt Nam",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Chiến_tranh_Tống–Việt_(1075–1077)"
+   ]
+  },
+  {
+   "name": "Ba lần kháng chiến chống quân Mông - Nguyên thời Trần",
+   "kind": "battle",
+   "aliases": [
+    "kháng chiến chống Mông - Nguyên",
+    "chiến tranh Nguyên Mông - Đại Việt",
+    "ba lần chống quân Nguyên",
+    "Bạch Đằng 1288",
+    "Hội nghị Diên Hồng"
+   ],
+   "year": 1258,
+   "date_start": "1258",
+   "date_end": "1288",
+   "place": "Đại Việt",
+   "actors": [
+    "Trần Thủ Độ",
+    "Trần Hưng Đạo (Trần Quốc Tuấn)",
+    "Trần Quốc Toản",
+    "Ô Mã Nhi",
+    "Thoát Hoan"
+   ],
+   "summary": "Trong thế kỉ XIII, quân dân Đại Việt dưới triều Trần ba lần đánh bại các cuộc xâm lược của quân Mông Cổ và nhà Nguyên vào các năm 1258, 1285 và 1287-1288.",
+   "facts": [
+    "Quân dân nhà Trần ba lần kháng chiến chống quân Mông - Nguyên: lần thứ nhất năm 1258, lần thứ hai năm 1285 và lần thứ ba năm 1287-1288.",
+    "Cuộc kháng chiến lần thứ nhất năm 1258 chỉ kéo dài khoảng nửa tháng, kết thúc bằng chiến thắng Đông Bộ Đầu.",
+    "Trong lần kháng chiến thứ hai năm 1285, quân Trần giành các chiến thắng lớn ở Chương Dương và Hàm Tử, đánh bật quân Nguyên khỏi Thăng Long.",
+    "Hội nghị Bình Than và Hội nghị Diên Hồng được nhà Trần tổ chức để bàn kế đánh giặc và hỏi ý các bô lão, thể hiện tinh thần đoàn kết toàn dân.",
+    "Các tướng lĩnh tiêu biểu của Đại Việt gồm Trần Thủ Độ trong lần thứ nhất, Trần Hưng Đạo trong hai lần sau, cùng người thiếu niên anh hùng Trần Quốc Toản.",
+    "Chiến thắng Bạch Đằng năm 1288, khi Trần Hưng Đạo dùng trận địa cọc nhấn chìm đoàn thuyền địch, đã kết thúc thắng lợi cuộc kháng chiến lần thứ ba.",
+    "Nhờ ba lần đánh bại quân Mông - Nguyên, Đại Việt bảo vệ được nền độc lập, tuy trên danh nghĩa vẫn giữ quan hệ triều cống để tránh chiến tranh mới."
+   ],
+   "traps": [
+    "Sai: ba lần kháng chiến chống Mông - Nguyên diễn ra vào các năm 1258, 1285, 1289. Đúng: lần thứ ba là 1287-1288, kết thúc bằng chiến thắng Bạch Đằng năm 1288.",
+    "Sai: Trần Hưng Đạo chỉ huy cả ba lần kháng chiến. Đúng: lần thứ nhất năm 1258 vai trò nổi bật thuộc về Trần Thủ Độ.",
+    "Sai: Hội nghị Diên Hồng là hội nghị của các tướng lĩnh. Đúng: đó là hội nghị nhà Trần mời các bô lão trong cả nước để hỏi ý kiến nên hòa hay nên đánh."
+   ],
+   "lessons": [
+    {
+     "book": "cánh diều",
+     "bai": 7
+    },
+    {
+     "book": "KNTT",
+     "bai": 7
+    },
+    {
+     "book": "CTST",
+     "bai": 7
+    }
+   ],
+   "topic_title": "Khái quát về chiến tranh bảo vệ Tổ quốc trong lịch sử Việt Nam",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Chiến_tranh_Nguyên_Mông–Đại_Việt"
+   ]
+  },
+  {
+   "name": "Kháng chiến chống Xiêm 1785 và chống Thanh 1789",
+   "kind": "battle",
+   "aliases": [
+    "Rạch Gầm - Xoài Mút",
+    "trận Ngọc Hồi - Đống Đa",
+    "Quang Trung đại phá quân Thanh",
+    "chống quân Xiêm 1785",
+    "chiến thắng Kỷ Dậu 1789"
+   ],
+   "year": 1785,
+   "date_start": "1785-01-19",
+   "date_end": "1789-01-30",
+   "place": "Sông Tiền (Rạch Gầm - Xoài Mút) và Thăng Long",
+   "actors": [
+    "Nguyễn Huệ - Quang Trung",
+    "Nguyễn Ánh",
+    "Tôn Sĩ Nghị",
+    "Sầm Nghi Đống",
+    "Rama I"
+   ],
+   "summary": "Cuối thế kỉ XVIII, quân Tây Sơn do Nguyễn Huệ chỉ huy đánh tan 5 vạn quân Xiêm ở Rạch Gầm - Xoài Mút (1785) và quét sạch quân Thanh trong chiến dịch Ngọc Hồi - Đống Đa Tết Kỷ Dậu 1789.",
+   "facts": [
+    "Vì Nguyễn Ánh thua Tây Sơn nên đã cầu viện vua Xiêm Rama I, và quân Xiêm kéo sang nước ta cuối năm 1784 — việc cầu viện ngoại bang là nguyên nhân, cuộc xâm lược của quân Xiêm là hậu quả.",
+    "Trận Rạch Gầm - Xoài Mút diễn ra trong đêm 18 rạng sáng ngày 19/1/1785 trên khúc sông Tiền gần Mỹ Tho, do Nguyễn Huệ tổng chỉ huy.",
+    "Theo sách giáo khoa, khoảng 5 vạn quân Xiêm (gồm thủy binh và bộ binh) đã tràn vào Gia Định; trong trận Rạch Gầm - Xoài Mút, gần như toàn bộ lực lượng thủy binh cùng khoảng 300 chiến thuyền bị quân Tây Sơn đánh tan chỉ trong một buổi, chỉ còn vài nghìn quân chạy thoát về nước.",
+    "Cuối năm 1788, nhà Thanh sai Tôn Sĩ Nghị đem khoảng 29 vạn quân sang xâm lược nước ta; ngày 22/12/1788 Nguyễn Huệ lên ngôi hoàng đế, lấy niên hiệu Quang Trung, rồi lập tức tiến quân ra Bắc.",
+    "Chiến dịch giải phóng Thăng Long diễn ra trong dịp Tết Kỷ Dậu: mồng 3 Tết quân Tây Sơn hạ đồn Hà Hồi, đêm mồng 4 rạng mồng 5 đô đốc Long đánh úp đồn Khương Thượng khiến tướng Thanh Sầm Nghi Đống phải tự sát.",
+    "Sáng mồng 5 Tết Kỷ Dậu, tức ngày 30/1/1789, quân Tây Sơn hạ đồn Ngọc Hồi và tiến vào Thăng Long, Tôn Sĩ Nghị hoảng sợ bỏ chạy về nước, quân Thanh chỉ còn vài nghìn người chạy thoát."
+   ],
+   "traps": [
+    "Sai: trận Ngọc Hồi - Đống Đa diễn ra năm 1788. Đúng: diễn ra mồng 5 Tết Kỷ Dậu, tức ngày 30/1/1789; Nguyễn Huệ lên ngôi hoàng đế cuối năm 1788.",
+    "Sai: Nguyễn Huệ lên ngôi hoàng đế sau khi đánh thắng quân Thanh. Đúng: ông lên ngôi ngày 22/12/1788, trước khi tiến quân ra Bắc.",
+    "Sai: trận Rạch Gầm - Xoài Mút đánh quân Thanh. Đúng: đánh quân Xiêm, năm 1785; trận đánh quân Thanh là Ngọc Hồi - Đống Đa năm 1789.",
+    "Sai: trận Rạch Gầm - Xoài Mút diễn ra ngày 20/1/1785. Đúng: đêm 18 rạng sáng ngày 19/1/1785."
+   ],
+   "lessons": [
+    {
+     "book": "cánh diều",
+     "bai": 7
+    },
+    {
+     "book": "KNTT",
+     "bai": 7
+    },
+    {
+     "book": "CTST",
+     "bai": 7
+    }
+   ],
+   "topic_title": "Khái quát về chiến tranh bảo vệ Tổ quốc trong lịch sử Việt Nam",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Trận_Rạch_Gầm_–_Xoài_Mút",
+    "https://vi.wikipedia.org/wiki/Trận_Ngọc_Hồi_–_Đống_Đa"
+   ],
+   "fixed": [
+    "Rạch Gầm - Xoài Mút: sai ngày 20/1/1785 -> đúng đêm 18 rạng sáng 19/1/1785",
+    "Quân Xiêm: mâu thuẫn nội thẻ (tóm tắt 5 vạn vs facts 2-2,5 vạn) -> thống nhất theo SGK là 5 vạn; bỏ con số '3.000 quân Thanh thoát' không có nguồn chắc"
+   ]
+  },
+  {
+   "name": "Khởi nghĩa Hai Bà Trưng (năm 40)",
+   "kind": "movement",
+   "aliases": [
+    "Hai Bà Trưng",
+    "Trưng Trắc",
+    "Trưng Nhị",
+    "khởi nghĩa năm 40",
+    "Trưng Vương",
+    "Mê Linh"
+   ],
+   "year": 40,
+   "date_start": "40",
+   "date_end": "43",
+   "place": "Hát Môn, Mê Linh (nay thuộc Hà Nội)",
+   "actors": [
+    "Trưng Trắc",
+    "Trưng Nhị",
+    "Tô Định",
+    "Mã Viện"
+   ],
+   "summary": "Năm 40, Hai Bà Trưng phất cờ khởi nghĩa ở Hát Môn, đánh đuổi Thái thú Tô Định, giành lại 65 thành và lập chính quyền tự chủ tồn tại 3 năm trước khi thất bại trước quân Mã Viện năm 43.",
+   "facts": [
+    "Khởi nghĩa Hai Bà Trưng bùng nổ năm 40, mở đầu bằng hội thề ở Hát Môn (nay thuộc huyện Phúc Thọ, Hà Nội).",
+    "Nguyên nhân sâu xa của khởi nghĩa là chính sách đồng hóa gắt gao và ách bóc lột hà khắc của Thái thú Tô Định đối với người Việt, chứ không chỉ là cái chết của Thi Sách.",
+    "Dưới sự lãnh đạo của Trưng Trắc và Trưng Nhị, nghĩa quân chiếm được 65 thành, buộc Tô Định phải bỏ chạy về nước.",
+    "Sau thắng lợi, Trưng Trắc lên ngôi vua (Trưng Vương), đóng đô ở Mê Linh và lập chính quyền độc lập tồn tại khoảng 3 năm.",
+    "Vì nhà Đông Hán quyết tâm tái lập ách đô hộ nên đã cử Mã Viện đem quân sang đàn áp trong hai năm 42-43, khiến cuộc khởi nghĩa thất bại và nước ta lại rơi vào Bắc thuộc.",
+    "Khởi nghĩa Hai Bà Trưng là cuộc khởi nghĩa lớn đầu tiên chống ách đô hộ phương Bắc, mở đầu truyền thống đấu tranh giành độc lập của dân tộc."
+   ],
+   "traps": [
+    "Sai: khởi nghĩa Hai Bà Trưng nổ ra năm 43 hoặc năm 248. Đúng: nổ ra năm 40; năm 42-43 là lúc bị Mã Viện đàn áp; năm 248 là khởi nghĩa Bà Triệu.",
+    "Sai: Hai Bà Trưng đóng đô ở Cổ Loa hoặc Luy Lâu. Đúng: đóng đô ở Mê Linh.",
+    "Sai: nguyên nhân duy nhất của khởi nghĩa là Tô Định giết Thi Sách. Đúng: đó chỉ là nguyên nhân trực tiếp, nguyên nhân sâu xa là chính sách đô hộ, đồng hóa và bóc lột hà khắc của nhà Hán."
+   ],
+   "lessons": [
+    {
+     "book": "cánh diều",
+     "bai": 8
+    },
+    {
+     "book": "KNTT",
+     "bai": 8
+    },
+    {
+     "book": "CTST",
+     "bai": 8
+    }
+   ],
+   "topic_title": "Một số cuộc khởi nghĩa và chiến tranh giải phóng trong lịch sử Việt Nam (từ thế kỉ III TCN đến cuối thế kỉ XIX)",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Khởi_nghĩa_Hai_Bà_Trưng"
+   ]
+  },
+  {
+   "name": "Khởi nghĩa Lam Sơn (1418-1427)",
+   "kind": "movement",
+   "aliases": [
+    "Lê Lợi khởi nghĩa",
+    "chiến tranh giải phóng chống Minh",
+    "Bình Định vương Lê Lợi",
+    "Bình Ngô đại cáo",
+    "Chi Lăng - Xương Giang"
+   ],
+   "year": 1418,
+   "date_start": "1418-02-07",
+   "date_end": "1427-12-10",
+   "place": "Lam Sơn (Thanh Hóa) và cả nước",
+   "actors": [
+    "Lê Lợi",
+    "Nguyễn Trãi",
+    "Liễu Thăng",
+    "Vương Thông",
+    "Nhà Minh"
+   ],
+   "summary": "Cuộc chiến tranh giải phóng dân tộc kéo dài gần 10 năm (1418-1427) do Lê Lợi và Nguyễn Trãi lãnh đạo, quét sạch quân Minh và mở ra triều Lê sơ năm 1428.",
+   "facts": [
+    "Ngày 7/2/1418, Lê Lợi dựng cờ khởi nghĩa ở Lam Sơn (Thanh Hóa) và tự xưng là Bình Định vương, mở đầu cuộc khởi nghĩa kéo dài gần 10 năm.",
+    "Chiến thắng Tốt Động - Chúc Động năm 1426 là bước ngoặt lớn, làm thay đổi hẳn tương quan lực lượng giữa nghĩa quân Lam Sơn và quân Minh.",
+    "Năm 1427, trong trận Chi Lăng - Xương Giang, đạo viện binh chủ lực của nhà Minh do Liễu Thăng chỉ huy bị nghĩa quân Lam Sơn tiêu diệt gần như hoàn toàn.",
+    "Vì viện binh bị tiêu diệt ở Chi Lăng - Xương Giang nên Vương Thông đang bị vây trong thành Đông Quan phải xin hòa và rút quân về nước qua Hội thề Đông Quan cuối năm 1427 — mất viện binh là nguyên nhân, quân Minh rút lui là kết quả.",
+    "Sau thắng lợi, Lê Lợi sai Nguyễn Trãi viết \"Bình Ngô đại cáo\" để tuyên cáo với toàn dân về nền độc lập được khôi phục.",
+    "Năm 1428, Lê Lợi lên ngôi hoàng đế, lập ra nhà Lê sơ (1428-1527), mở đầu thời Hậu Lê trong lịch sử Việt Nam."
+   ],
+   "traps": [
+    "Sai: khởi nghĩa Lam Sơn kết thúc năm 1428. Đúng: kết thúc cuối năm 1427 với Hội thề Đông Quan; năm 1428 là năm Lê Lợi lên ngôi lập nhà Lê sơ.",
+    "Sai: Nguyễn Trãi là người dựng cờ khởi nghĩa Lam Sơn. Đúng: người dựng cờ là Lê Lợi; Nguyễn Trãi là quân sư và là tác giả Bình Ngô đại cáo.",
+    "Sai: trận Chi Lăng năm 1427 là trận đánh quân Thanh. Đúng: đánh quân Minh, tiêu diệt đạo quân của Liễu Thăng."
+   ],
+   "lessons": [
+    {
+     "book": "cánh diều",
+     "bai": 8
+    },
+    {
+     "book": "KNTT",
+     "bai": 8
+    },
+    {
+     "book": "CTST",
+     "bai": 8
+    }
+   ],
+   "topic_title": "Một số cuộc khởi nghĩa và chiến tranh giải phóng trong lịch sử Việt Nam (từ thế kỉ III TCN đến cuối thế kỉ XIX)",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Khởi_nghĩa_Lam_Sơn"
+   ],
+   "fixed": [
+    "Sai 'triều Hậu Lê tồn tại gần 400 năm' -> đúng: Lê Lợi lập nhà Lê sơ (1428-1527), mở đầu thời Hậu Lê"
+   ]
+  },
+  {
+   "name": "Phong trào Tây Sơn (1771-1802)",
+   "kind": "movement",
+   "aliases": [
+    "khởi nghĩa Tây Sơn",
+    "nhà Tây Sơn",
+    "ba anh em Tây Sơn",
+    "Nguyễn Nhạc Nguyễn Huệ Nguyễn Lữ",
+    "Quang Trung"
+   ],
+   "year": 1771,
+   "date_start": "1771",
+   "date_end": "1802",
+   "place": "Ấp Tây Sơn (Bình Định) và cả nước",
+   "actors": [
+    "Nguyễn Nhạc",
+    "Nguyễn Huệ",
+    "Nguyễn Lữ",
+    "Nguyễn Ánh",
+    "Chúa Trịnh",
+    "Chúa Nguyễn"
+   ],
+   "summary": "Phong trào nông dân Tây Sơn khởi phát năm 1771 ở Bình Định do ba anh em Nguyễn Nhạc, Nguyễn Huệ, Nguyễn Lữ lãnh đạo, lật đổ chúa Nguyễn, chúa Trịnh, đánh tan quân Xiêm và quân Thanh, xóa bỏ tình trạng chia cắt đất nước.",
+   "facts": [
+    "Phong trào Tây Sơn bùng nổ năm 1771 tại ấp Tây Sơn thuộc vùng đất Bình Định, do ba anh em Nguyễn Nhạc, Nguyễn Lữ và Nguyễn Huệ lãnh đạo.",
+    "Năm 1777, quân Tây Sơn lật đổ chính quyền chúa Nguyễn ở Đàng Trong, bắt và xử tử Nguyễn Phúc Thuần cùng Nguyễn Phúc Dương.",
+    "Năm 1786, Nguyễn Huệ được cử làm tổng chỉ huy tiến quân ra Bắc, lật đổ chính quyền chúa Trịnh ở Đàng Ngoài với danh nghĩa \"phù Lê diệt Trịnh\".",
+    "Vì phong trào Tây Sơn lần lượt lật đổ chúa Nguyễn năm 1777 và chúa Trịnh năm 1786 nên tình trạng đất nước bị chia cắt hơn hai thế kỉ đã căn bản chấm dứt — các cuộc tiến công của Tây Sơn là nguyên nhân, việc xóa bỏ ranh giới Đàng Trong - Đàng Ngoài là kết quả.",
+    "Ngoài nhiệm vụ chống phong kiến trong nước, phong trào Tây Sơn còn đánh tan quân Xiêm năm 1785 và quân Thanh năm 1789, bảo vệ độc lập dân tộc.",
+    "Vua Quang Trung mất năm 1792 khi nhiều cải cách còn dang dở, đến năm 1802 Nguyễn Ánh đánh bại Nguyễn Quang Toản, triều Tây Sơn sụp đổ."
+   ],
+   "traps": [
+    "Sai: phong trào Tây Sơn bắt đầu năm 1789. Đúng: bắt đầu năm 1771; năm 1789 là năm đại phá quân Thanh.",
+    "Sai: Nguyễn Huệ là anh cả trong ba anh em Tây Sơn. Đúng: Nguyễn Nhạc là anh cả, Nguyễn Huệ là em.",
+    "Sai: nhà Tây Sơn sụp đổ ngay sau khi Quang Trung mất năm 1792. Đúng: triều Tây Sơn tồn tại đến năm 1802 mới bị Nguyễn Ánh lật đổ."
+   ],
+   "lessons": [
+    {
+     "book": "cánh diều",
+     "bai": 8
+    },
+    {
+     "book": "KNTT",
+     "bai": 8
+    },
+    {
+     "book": "CTST",
+     "bai": 8
+    }
+   ],
+   "topic_title": "Một số cuộc khởi nghĩa và chiến tranh giải phóng trong lịch sử Việt Nam (từ thế kỉ III TCN đến cuối thế kỉ XIX)",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Nhà_Tây_Sơn",
+    "https://vi.wikipedia.org/wiki/Trận_Rạch_Gầm_–_Xoài_Mút"
+   ]
+  },
+  {
+   "name": "Phong trào Cần Vương (1885-1896)",
+   "kind": "movement",
+   "aliases": [
+    "Cần Vương",
+    "chiếu Cần Vương",
+    "phong trào Cần Vương chống Pháp",
+    "khởi nghĩa Hương Khê",
+    "Hàm Nghi Tôn Thất Thuyết"
+   ],
+   "year": 1885,
+   "date_start": "1885-07-13",
+   "date_end": "1896",
+   "place": "Trung Kỳ và Bắc Kỳ",
+   "actors": [
+    "Vua Hàm Nghi",
+    "Tôn Thất Thuyết",
+    "Phan Đình Phùng",
+    "Nguyễn Thiện Thuật",
+    "Đinh Công Tráng",
+    "Tống Duy Tân"
+   ],
+   "summary": "Phong trào yêu nước theo ngọn cờ \"giúp vua cứu nước\" diễn ra từ năm 1885 đến năm 1896, khởi phát sau cuộc phản công kinh thành Huế và chiếu Cần Vương của vua Hàm Nghi.",
+   "facts": [
+    "Đêm 4 rạng sáng ngày 5/7/1885, phái chủ chiến do Tôn Thất Thuyết đứng đầu nổ súng phản công quân Pháp ở kinh thành Huế nhưng thất bại, phải đưa vua Hàm Nghi rời kinh thành.",
+    "Vì cuộc phản công ở kinh thành Huế thất bại nên vua Hàm Nghi phải ra Tân Sở và ban chiếu Cần Vương ngày 13/7/1885, kêu gọi văn thân sĩ phu và nhân dân giúp vua đánh Pháp — thất bại ở Huế là nguyên nhân trực tiếp, phong trào Cần Vương là hệ quả.",
+    "Chiếu Cần Vương thứ nhất được ban ngày 13/7/1885 tại Tân Sở (Quảng Trị), chiếu thứ hai ngày 20/9/1885 tại Ấu Sơn (Hà Tĩnh).",
+    "Phong trào Cần Vương diễn ra trong 11 năm, từ năm 1885 đến năm 1896.",
+    "Các cuộc khởi nghĩa tiêu biểu trong phong trào Cần Vương gồm Ba Đình (1886-1887) của Đinh Công Tráng, Bãi Sậy của Nguyễn Thiện Thuật, Hùng Lĩnh (1886-1892) của Tống Duy Tân và Hương Khê (1885-1896) của Phan Đình Phùng.",
+    "Phong trào Cần Vương chấm dứt vào cuối năm 1895 đầu năm 1896 khi khởi nghĩa Hương Khê — cuộc khởi nghĩa lớn nhất và kéo dài nhất — thất bại."
+   ],
+   "traps": [
+    "Sai: phong trào Cần Vương kéo dài đến năm 1913. Đúng: phong trào Cần Vương diễn ra 1885-1896; mốc 1913 là năm kết thúc khởi nghĩa Yên Thế.",
+    "Sai: khởi nghĩa Yên Thế thuộc phong trào Cần Vương. Đúng: khởi nghĩa Yên Thế (1884-1913) là phong trào nông dân tự phát do Đề Nắm rồi Hoàng Hoa Thám lãnh đạo, không nằm trong phong trào Cần Vương, thậm chí còn bùng nổ trước cả chiếu Cần Vương.",
+    "Sai: câu \"Bao giờ người Tây nhổ hết cỏ nước Nam thì mới hết người Nam đánh Tây\" là của Phan Bội Châu. Đúng: đó là lời của NGUYỄN TRUNG TRỰC (1838-1868), người đốt tàu Ét-pê-răng trên vàm Nhật Tảo ngày 10/12/1861 và bị Pháp xử tử ở Rạch Giá ngày 27/10/1868.",
+    "Sai: chiếu Cần Vương được ban ở Huế. Đúng: chiếu thứ nhất ban tại căn cứ Tân Sở (Quảng Trị) ngày 13/7/1885."
+   ],
+   "lessons": [
+    {
+     "book": "cánh diều",
+     "bai": 8
+    },
+    {
+     "book": "KNTT",
+     "bai": 8
+    },
+    {
+     "book": "CTST",
+     "bai": 8
+    }
+   ],
+   "topic_title": "Một số cuộc khởi nghĩa và chiến tranh giải phóng trong lịch sử Việt Nam (từ thế kỉ III TCN đến cuối thế kỉ XIX)",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Phong_trào_Cần_Vương",
+    "https://vi.wikipedia.org/wiki/Khởi_nghĩa_Yên_Thế",
+    "https://vi.wikipedia.org/wiki/Nguyễn_Trung_Trực"
+   ]
+  },
+  {
+   "name": "Khởi nghĩa Yên Thế (1884-1913)",
+   "kind": "movement",
+   "aliases": [
+    "Yên Thế",
+    "Hoàng Hoa Thám",
+    "Đề Thám",
+    "Hùm thiêng Yên Thế",
+    "Đề Nắm",
+    "khởi nghĩa nông dân Yên Thế"
+   ],
+   "year": 1884,
+   "date_start": "1884",
+   "date_end": "1913-02-10",
+   "place": "Yên Thế (Bắc Giang) và vùng lân cận",
+   "actors": [
+    "Đề Nắm",
+    "Hoàng Hoa Thám (Đề Thám)",
+    "Thực dân Pháp"
+   ],
+   "summary": "Cuộc khởi nghĩa nông dân lớn nhất và kéo dài nhất chống Pháp cuối thế kỉ XIX đầu thế kỉ XX, diễn ra ở Yên Thế từ năm 1884 đến năm 1913, không thuộc phong trào Cần Vương.",
+   "facts": [
+    "Khởi nghĩa Yên Thế diễn ra từ năm 1884 đến năm 1913, tức gần 30 năm, chủ yếu ở vùng Yên Thế Thượng rồi mở rộng sang Thái Nguyên, Bắc Ninh, Bắc Giang, Phúc Yên.",
+    "Giai đoạn đầu 1884-1892, phong trào gồm nhiều toán nghĩa quân riêng lẻ, người thủ lĩnh nổi bật là Đề Nắm, ông hi sinh năm 1892.",
+    "Từ năm 1892 đến năm 1913, Hoàng Hoa Thám (Đề Thám) trở thành thủ lĩnh tối cao của nghĩa quân Yên Thế.",
+    "Trong giai đoạn 1893-1897, Đề Thám hai lần giảng hòa với Pháp (năm 1894 và năm 1897) để có thời gian củng cố lực lượng.",
+    "Khởi nghĩa Yên Thế mang tính chất phong trào tự phát của nông dân bị mất ruộng đất, chống lại chính sách bình định của thực dân Pháp, chứ không phải phong trào hưởng ứng chiếu Cần Vương.",
+    "Ngày 10/2/1913, Đề Thám bị sát hại, cuộc khởi nghĩa Yên Thế kết thúc."
+   ],
+   "traps": [
+    "Sai: khởi nghĩa Yên Thế là một bộ phận của phong trào Cần Vương. Đúng: đây là phong trào nông dân tự phát, bùng nổ năm 1884 - trước khi có chiếu Cần Vương (13/7/1885) - và kéo dài tới năm 1913, sau khi Cần Vương đã chấm dứt năm 1896.",
+    "Sai: khởi nghĩa Yên Thế do Phan Đình Phùng lãnh đạo. Đúng: do Đề Nắm rồi Hoàng Hoa Thám lãnh đạo; Phan Đình Phùng lãnh đạo khởi nghĩa Hương Khê trong phong trào Cần Vương."
+   ],
+   "lessons": [
+    {
+     "book": "cánh diều",
+     "bai": 8
+    },
+    {
+     "book": "KNTT",
+     "bai": 8
+    },
+    {
+     "book": "CTST",
+     "bai": 8
+    }
+   ],
+   "topic_title": "Một số cuộc khởi nghĩa và chiến tranh giải phóng trong lịch sử Việt Nam (từ thế kỉ III TCN đến cuối thế kỉ XIX)",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Khởi_nghĩa_Yên_Thế"
+   ]
+  },
+  {
+   "name": "Cuộc cải cách của Hồ Quý Ly và triều Hồ",
+   "kind": "movement",
+   "aliases": [
+    "cải cách Hồ Quý Ly",
+    "tiền giấy Thông bảo hội sao",
+    "chính sách hạn điền",
+    "chính sách hạn nô",
+    "cải cách cuối thế kỉ XIV"
+   ],
+   "year": 1396,
+   "date_start": "1396",
+   "date_end": "1407",
+   "place": "Đại Ngu (Thăng Long, Tây Đô - Thanh Hóa)",
+   "actors": [
+    "Hồ Quý Ly",
+    "Hồ Hán Thương",
+    "Nhà Trần",
+    "Nhà Minh"
+   ],
+   "summary": "Cuộc cải cách toàn diện trên các mặt tài chính, ruộng đất, văn hóa - giáo dục và quân sự do Hồ Quý Ly tiến hành từ cuối thế kỉ XIV đến đầu thế kỉ XV, táo bạo nhưng không cứu được đất nước khỏi ách đô hộ của nhà Minh.",
+   "facts": [
+    "Năm 1396, Hồ Quý Ly cho phát hành tiền giấy \"Thông bảo hội sao\" thay tiền đồng — lần đầu tiên trong lịch sử nước ta dùng tiền giấy.",
+    "Khoảng năm 1397, Hồ Quý Ly cho xây thành Tây Đô ở An Tôn (Thanh Hóa), nay gọi là Thành nhà Hồ, và dời kinh đô từ Thăng Long về đó.",
+    "Chính sách hạn điền quy định giới hạn số ruộng tư mỗi người được sở hữu, còn chính sách hạn nô quy định số gia nô mỗi quý tộc được nuôi, nhằm hạn chế thế lực của tầng lớp quý tộc cũ.",
+    "Trong lĩnh vực giáo dục, Hồ Quý Ly cải cách chế độ thi cử và đề cao chữ Nôm, cho dịch sách chữ Hán ra chữ Nôm trong khoảng các năm 1397-1402.",
+    "Đầu năm 1400 (tháng 2 âm lịch năm Canh Thìn), Hồ Quý Ly phế truất vua Trần, lên ngôi và lập ra nhà Hồ, đặt quốc hiệu là Đại Ngu.",
+    "Vì các cải cách đụng chạm quyền lợi quý tộc Trần và chưa được lòng dân nên khi quân Minh xâm lược năm 1406-1407, nhà Hồ nhanh chóng thất bại — mất chỗ dựa trong nhân dân là nguyên nhân, sự sụp đổ của nhà Hồ chỉ sau khoảng nửa năm là hậu quả.",
+    "Thành Đa Bang thất thủ ngày 20/1/1407 và đến giữa năm 1407 Hồ Quý Ly bị bắt, nước ta rơi vào ách đô hộ của nhà Minh."
+   ],
+   "traps": [
+    "Sai: Hồ Quý Ly phát hành tiền giấy sau khi lên ngôi. Đúng: tiền giấy Thông bảo hội sao được phát hành năm 1396, trước khi ông lập nhà Hồ năm 1400.",
+    "Sai: nhà Hồ tồn tại nhiều chục năm. Đúng: nhà Hồ chỉ tồn tại 1400-1407, khoảng 7 năm.",
+    "Sai: kinh đô nhà Hồ đặt ở Thăng Long. Đúng: kinh đô là Tây Đô (Thành nhà Hồ) ở Thanh Hóa."
+   ],
+   "lessons": [
+    {
+     "book": "cánh diều",
+     "bai": 9
+    }
+   ],
+   "topic_title": "Cuộc cải cách của Hồ Quý Ly và triều Hồ (cuối thế kỉ XIV, đầu thế kỉ XV)",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Hồ_Quý_Ly"
+   ],
+   "fixed": [
+    "Bỏ ngày '22/3/1400' không kiểm chứng được -> đầu năm 1400 (tháng 2 âm lịch năm Canh Thìn), đúng mốc năm 1400 của SGK"
+   ]
+  },
+  {
+   "name": "Hồ Quý Ly",
+   "kind": "person",
+   "aliases": [
+    "Hồ Quý Ly",
+    "Lê Quý Ly",
+    "vua nhà Hồ",
+    "Hồ Quí Ly"
+   ],
+   "year": null,
+   "date_start": "1336",
+   "date_end": "1407-10-22",
+   "place": "Thanh Hóa",
+   "actors": [
+    "Hồ Quý Ly",
+    "Hồ Hán Thương",
+    "Nhà Minh"
+   ],
+   "summary": "Hồ Quý Ly (1336-1407) là nhà cải cách lớn cuối thời Trần, người lập ra triều Hồ năm 1400 với quốc hiệu Đại Ngu, nhưng để mất nước vào tay nhà Minh năm 1407.",
+   "facts": [
+    "Hồ Quý Ly sinh năm 1336 và mất ngày 22/10/1407 khi bị nhà Minh bắt đưa sang Trung Quốc.",
+    "Đầu năm 1400 (tháng 2 âm lịch năm Canh Thìn), Hồ Quý Ly lên ngôi hoàng đế, lập ra nhà Hồ và đặt quốc hiệu nước ta là Đại Ngu.",
+    "Ông chỉ ở ngôi chưa đầy một năm, đến năm 1401 thì nhường ngôi cho con là Hồ Hán Thương và lui về làm Thái thượng hoàng, nhưng vẫn nắm thực quyền đến năm 1407.",
+    "Trước khi lên ngôi, Hồ Quý Ly đã nắm quyền lớn trong triều Trần và tiến hành nhiều cải cách táo bạo về tiền tệ, ruộng đất, gia nô, thi cử và quân sự.",
+    "Vì quân Minh mượn cớ \"phù Trần diệt Hồ\" để xâm lược nước ta trong các năm 1406-1407 nên nhà Hồ sụp đổ và Hồ Quý Ly bị bắt vào giữa năm 1407."
+   ],
+   "traps": [
+    "Sai: Hồ Quý Ly ở ngôi vua suốt thời nhà Hồ. Đúng: ông chỉ làm vua khoảng 10 tháng (1400-1401) rồi nhường ngôi cho Hồ Hán Thương và làm Thái thượng hoàng.",
+    "Sai: quốc hiệu thời nhà Hồ là Đại Việt. Đúng: là Đại Ngu."
+   ],
+   "lessons": [
+    {
+     "book": "cánh diều",
+     "bai": 9
+    }
+   ],
+   "topic_title": "Cuộc cải cách của Hồ Quý Ly và triều Hồ (cuối thế kỉ XIV, đầu thế kỉ XV)",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Hồ_Quý_Ly"
+   ],
+   "fixed": [
+    "Bỏ hai ngày chính xác không kiểm chứng được (lên ngôi 22/3/1400, nhường ngôi 18/1/1401) -> giữ mốc năm 1400/1401 theo Wikipedia và SGK; ngày mất 22/10/1407 đã đối chiếu và giữ nguyên"
+   ]
+  },
+  {
+   "name": "Cuộc cải cách của Lê Thánh Tông",
+   "kind": "movement",
+   "aliases": [
+    "cải cách hành chính thời Lê Thánh Tông",
+    "13 đạo thừa tuyên",
+    "lục bộ thời Lê sơ",
+    "luật Hồng Đức",
+    "Quốc triều hình luật",
+    "bản đồ Hồng Đức"
+   ],
+   "year": 1466,
+   "date_start": "1460",
+   "date_end": "1497",
+   "place": "Đại Việt (Thăng Long)",
+   "actors": [
+    "Lê Thánh Tông",
+    "Lục bộ",
+    "Các đạo thừa tuyên"
+   ],
+   "summary": "Cuộc cải cách toàn diện của vua Lê Thánh Tông trong thế kỉ XV, tập trung quyền lực vào tay hoàng đế, chia lại cả nước thành 13 đạo thừa tuyên và ban hành bộ Quốc triều hình luật nổi tiếng.",
+   "facts": [
+    "Lê Thánh Tông trị vì từ ngày 26/6/1460 đến ngày 3/3/1497, với hai niên hiệu là Quang Thuận (1460-1469) và Hồng Đức (1470-1497).",
+    "Vì muốn tập trung mọi quyền hành vào tay hoàng đế nên Lê Thánh Tông bãi bỏ các chức quan trung gian có quyền lớn như Tướng quốc, Bình chương, đồng thời lập ra sáu bộ (Lục bộ) trực tiếp giúp việc cho vua — nhu cầu tập quyền là nguyên nhân, bộ máy Lục bộ là kết quả.",
+    "Năm 1466, Lê Thánh Tông chia cả nước thành 12 đạo thừa tuyên và phủ Trung Đô; đến năm 1471, sau khi mở mang bờ cõi về phía nam, ông lập thêm đạo thừa tuyên Quảng Nam, nâng tổng số lên 13 đạo thừa tuyên.",
+    "Ở mỗi đạo thừa tuyên, việc cai trị được giao cho ba ty là Đô ty coi quân sự, Thừa ty coi hành chính và Hiến ty coi việc xét xử, để các cơ quan kiểm soát lẫn nhau.",
+    "Bộ Quốc triều hình luật (thường gọi là luật Hồng Đức) được ban hành dưới thời Lê Thánh Tông, là bộ luật tiêu biểu nhất của nước ta thời phong kiến, có nhiều điều bảo vệ quyền lợi phụ nữ.",
+    "Bộ bản đồ Hồng Đức (Hồng Đức bản đồ sách) được hoàn thành năm 1490 - năm Hồng Đức thứ 21, ghi lại 13 đạo thừa tuyên với 52 phủ, 178 huyện và 50 châu của Đại Việt.",
+    "Lê Thánh Tông tổ chức 12 khoa thi lớn, lấy đỗ hơn 500 tiến sĩ và cho dựng bia tiến sĩ ở Văn Miếu để đề cao việc học."
+   ],
+   "traps": [
+    "Sai: Lê Thánh Tông chia nước thành 13 đạo thừa tuyên ngay từ năm 1466. Đúng: năm 1466 chia thành 12 đạo thừa tuyên, đến năm 1471 lập thêm đạo Quảng Nam mới đủ 13.",
+    "Sai: bộ luật Hồng Đức là của nhà Nguyễn. Đúng: luật Hồng Đức (Quốc triều hình luật) là của thời Lê sơ, gắn với Lê Thánh Tông; bộ luật của nhà Nguyễn là Hoàng Việt luật lệ (luật Gia Long).",
+    "Sai: Lê Thánh Tông giữ chức tể tướng trong bộ máy của mình. Đúng: ông bãi bỏ các chức quan trung gian quyền lớn để tự nắm quyền điều hành."
+   ],
+   "lessons": [
+    {
+     "book": "cánh diều",
+     "bai": 10
+    },
+    {
+     "book": "KNTT",
+     "bai": 10
+    },
+    {
+     "book": "CTST",
+     "bai": 10
+    }
+   ],
+   "topic_title": "Cuộc cải cách của Lê Thánh Tông (thế kỉ XV)",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Lê_Thánh_Tông",
+    "https://nguoikesu.com/nhan-vat/le-thanh-tong",
+    "https://vi.wikipedia.org/wiki/Bản_đồ_Hồng_Đức"
+   ],
+   "fixed": [
+    "Bản đồ Hồng Đức: bỏ ngày '5/4/1490' không khớp nguồn -> giữ mốc năm 1490 (năm Hồng Đức thứ 21), bổ sung 50 châu + nguồn"
+   ]
+  },
+  {
+   "name": "Lê Thánh Tông",
+   "kind": "person",
+   "aliases": [
+    "Lê Thánh Tông",
+    "Lê Tư Thành",
+    "vua Hồng Đức",
+    "Thánh Tông nhà Lê",
+    "Tao Đàn nguyên súy"
+   ],
+   "year": null,
+   "date_start": "1442-08-25",
+   "date_end": "1497-03-03",
+   "place": "Thăng Long",
+   "actors": [
+    "Lê Thánh Tông",
+    "Hội Tao đàn"
+   ],
+   "summary": "Lê Thánh Tông (1442-1497) là vị vua trị vì lâu nhất và tiêu biểu nhất của nhà Lê sơ, đưa Đại Việt bước vào thời kì cực thịnh nhờ cuộc cải cách toàn diện thế kỉ XV.",
+   "facts": [
+    "Lê Thánh Tông sinh ngày 25/8/1442 và mất ngày 3/3/1497, hưởng thọ 54 tuổi.",
+    "Ông ở ngôi 37 năm, từ ngày 26/6/1460 đến ngày 3/3/1497, với hai niên hiệu Quang Thuận và Hồng Đức.",
+    "Dưới thời ông, nhà nước tổ chức 12 khoa thi lớn, lấy đỗ hơn 500 người và dựng bia tiến sĩ ở Văn Miếu nhằm tôn vinh người tài.",
+    "Lê Thánh Tông là người sáng lập Hội Tao đàn — nhóm sáng tác thơ văn của triều đình, thể hiện sự hưng thịnh của văn hóa thời Hồng Đức.",
+    "Vì Lê Thánh Tông tiến hành cải cách toàn diện về hành chính, luật pháp, giáo dục và quân sự nên Đại Việt thế kỉ XV đạt tới giai đoạn phát triển rực rỡ nhất của chế độ phong kiến — cải cách là nguyên nhân, thời kì cực thịnh là kết quả."
+   ],
+   "traps": [
+    "Sai: trạng nguyên trẻ nhất trong lịch sử khoa bảng Việt Nam là \"Nguyễn Minh Sát\" (một cái tên không có thật). Đúng: đó là NGUYỄN HIỀN, người làng Dương A (nay thuộc Nam Định), đỗ trạng nguyên năm 1247 khi mới 13 tuổi, dưới triều vua Trần Thái Tông — tức thời Trần, không phải thời Lê Thánh Tông.",
+    "Sai: Lê Thánh Tông là người lập ra nhà Lê sơ. Đúng: người lập ra nhà Lê sơ là Lê Lợi (Lê Thái Tổ) năm 1428; Lê Thánh Tông lên ngôi năm 1460."
+   ],
+   "lessons": [
+    {
+     "book": "cánh diều",
+     "bai": 10
+    },
+    {
+     "book": "KNTT",
+     "bai": 10
+    },
+    {
+     "book": "CTST",
+     "bai": 10
+    }
+   ],
+   "topic_title": "Cuộc cải cách của Lê Thánh Tông (thế kỉ XV)",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Lê_Thánh_Tông",
+    "https://vi.wikipedia.org/wiki/Nguyễn_Hiền"
+   ]
+  },
+  {
+   "name": "Cuộc cải cách của Minh Mạng",
+   "kind": "movement",
+   "aliases": [
+    "cải cách hành chính Minh Mạng",
+    "cải cách Minh Mệnh",
+    "chia 30 tỉnh và phủ Thừa Thiên",
+    "bãi bỏ Bắc Thành Gia Định Thành",
+    "cải cách nửa đầu thế kỉ XIX"
+   ],
+   "year": 1831,
+   "date_start": "1831",
+   "date_end": "1832",
+   "place": "Đại Nam (Huế)",
+   "actors": [
+    "Vua Minh Mạng",
+    "Bố chánh sứ ty",
+    "Án sát sứ ty"
+   ],
+   "summary": "Trong hai năm 1831-1832, vua Minh Mạng tiến hành cải cách hành chính quy mô lớn, bãi bỏ Bắc Thành và Gia Định Thành, chia cả nước thành 30 tỉnh và phủ Thừa Thiên để xây dựng chế độ trung ương tập quyền.",
+   "facts": [
+    "Cuộc cải cách hành chính lớn của vua Minh Mạng được tiến hành trong hai năm 1831-1832.",
+    "Minh Mạng bãi bỏ Bắc Thành và Gia Định Thành cùng chức Tổng trấn, đổi các dinh, trấn cũ thành đơn vị tỉnh thống nhất trong cả nước.",
+    "Sau cải cách, cả nước được chia thành 30 tỉnh và phủ Thừa Thiên là nơi đặt kinh sư.",
+    "Việc chia tỉnh làm hai đợt: tháng 10/1831 chia vùng từ Quảng Trị trở ra Bắc thành 18 tỉnh, năm 1832 chia phần phía Nam thành 12 tỉnh.",
+    "Hệ thống hành chính được sắp xếp thành các cấp từ trên xuống gồm tỉnh, phủ, huyện hoặc châu, tổng và xã; cấp tỉnh có hai ty là Bố chánh sứ ty lo đinh điền, hộ tịch và Án sát sứ ty lo hình án.",
+    "Về bộ máy trung ương, Minh Mạng lập Nội các năm 1829 thay Văn thư phòng và lập Cơ mật viện năm 1834 làm cơ quan tư vấn tối cao của nhà vua về những việc quân sự - quốc gia trọng yếu.",
+    "Vì Minh Mạng muốn xóa bỏ tình trạng địa phương có quyền hành quá lớn và thiết lập chế độ trung ương tập quyền triệt để nên ông đã bãi bỏ hai Thành và chia tỉnh trong các năm 1831-1832 — nhu cầu tập quyền là nguyên nhân, hệ thống 30 tỉnh và phủ Thừa Thiên là kết quả."
+   ],
+   "traps": [
+    "Sai: cải cách hành chính của Minh Mạng diễn ra năm 1820 hoặc 1839. Đúng: diễn ra trong hai năm 1831-1832; năm 1820 là năm ông lên ngôi, năm 1839 là năm đổi quốc hiệu thành Đại Nam.",
+    "Sai: cả nước được chia thành 31 tỉnh hoặc 30 tỉnh không kể phủ Thừa Thiên. Đúng: theo cách ghi trong sách giáo khoa, cả nước gồm 30 tỉnh và phủ Thừa Thiên.",
+    "Sai: cải cách của Minh Mạng chỉ về hành chính. Đúng: ông còn cải tổ bộ máy trung ương với Nội các (1829), Cơ mật viện (1834) và chấn chỉnh quân đội, luật pháp.",
+    "Sai: Cơ mật viện được lập năm 1830. Đúng: theo sách giáo khoa Lịch sử 11, Nội các lập năm 1829 và Cơ mật viện lập năm 1834."
+   ],
+   "lessons": [
+    {
+     "book": "cánh diều",
+     "bai": 11
+    },
+    {
+     "book": "KNTT",
+     "bai": 11
+    },
+    {
+     "book": "CTST",
+     "bai": 11
+    }
+   ],
+   "topic_title": "Cuộc cải cách của Minh Mạng (nửa đầu thế kỉ XIX)",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Minh_Mạng",
+    "https://vietjack.com/lich-su-11-ct/cau-hoi-trang-74-lich-su-11.jsp"
+   ],
+   "fixed": [
+    "Cơ mật viện: sai năm 1830 -> đúng năm 1834 (theo SGK Lịch sử 11); sửa cả trong facts và traps",
+    "topic_title gán nhầm 'Cuộc cải cách của Lê Thánh Tông (thế kỉ XV)' -> 'Cuộc cải cách của Minh Mạng (nửa đầu thế kỉ XIX)'"
+   ]
+  },
+  {
+   "name": "Minh Mạng",
+   "kind": "person",
+   "aliases": [
+    "Minh Mệnh",
+    "vua Minh Mạng",
+    "Nguyễn Phúc Đảm",
+    "hoàng đế Minh Mạng",
+    "Đại Nam"
+   ],
+   "year": null,
+   "date_start": "1791-05-25",
+   "date_end": "1841-01-20",
+   "place": "Huế",
+   "actors": [
+    "Minh Mạng",
+    "Gia Long",
+    "Triều Nguyễn"
+   ],
+   "summary": "Minh Mạng (1791-1841) là vị vua thứ hai của triều Nguyễn, trị vì 1820-1841, nổi bật với cuộc cải cách hành chính 1831-1832 và việc đổi quốc hiệu nước ta thành Đại Nam năm 1839.",
+   "facts": [
+    "Minh Mạng sinh ngày 25/5/1791 và mất ngày 20/1/1841.",
+    "Ông ở ngôi từ ngày 14/2/1820 đến ngày 20/1/1841, tức khoảng 21 năm, là vị vua thứ hai của triều Nguyễn sau vua Gia Long.",
+    "Năm 1838, vua Minh Mạng đổi quốc hiệu nước ta từ Việt Nam thành Đại Nam (quốc hiệu Việt Nam do vua Gia Long đặt năm 1804).",
+    "Ông lập Nội các năm 1829 và Cơ mật viện năm 1834, đồng thời tiến hành cuộc cải cách hành chính lớn trong các năm 1831-1832.",
+    "Dưới thời Minh Mạng, năm 1835 triều đình cho dựng miếu, đặt bia đá, đóng cọc và trồng cây trên quần đảo Hoàng Sa, khẳng định việc quản lí hành chính của Việt Nam đối với quần đảo này."
+   ],
+   "traps": [
+    "Sai: vua trị vì ngắn nhất triều Nguyễn là Lê Hiến Tông. Đúng: đó là vua DỤC ĐỨC, chỉ ở ngôi 3 ngày từ 19/7 đến 23/7/1883 rồi bị Nguyễn Văn Tường và Tôn Thất Thuyết phế truất; Lê Hiến Tông là vua nhà Lê sơ, không thuộc triều Nguyễn.",
+    "Sai: Minh Mạng là vua đầu tiên của triều Nguyễn. Đúng: vua đầu tiên là Gia Long (1802-1820), Minh Mạng là vua thứ hai.",
+    "Sai: quốc hiệu Đại Nam có từ thời Gia Long. Đúng: Gia Long đặt quốc hiệu Việt Nam năm 1804, đến năm 1838 Minh Mạng mới đổi thành Đại Nam."
+   ],
+   "lessons": [
+    {
+     "book": "cánh diều",
+     "bai": 11
+    },
+    {
+     "book": "KNTT",
+     "bai": 11
+    },
+    {
+     "book": "CTST",
+     "bai": 11
+    }
+   ],
+   "topic_title": "Cuộc cải cách của Minh Mạng (nửa đầu thế kỉ XIX)",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Minh_Mạng",
+    "https://vi.wikipedia.org/wiki/Dục_Đức",
+    "https://vi.wikipedia.org/wiki/Quần_đảo_Hoàng_Sa",
+    "https://www.archives.org.vn/gioi-thieu-tai-lieu-nghiep-vu/dai-nam-the-hien-vai-tro-cuong-quoc-trong-khu-vuc.htm"
+   ],
+   "fixed": [
+    "Quốc hiệu Đại Nam: sai '15/2/1839' -> đúng năm 1838 theo SGK Lịch sử 11 và Cục Văn thư - Lưu trữ nhà nước",
+    "Cơ mật viện: sai năm 1830 -> đúng năm 1834",
+    "topic_title gán nhầm sang bài Lê Thánh Tông -> 'Cuộc cải cách của Minh Mạng (nửa đầu thế kỉ XIX)'"
+   ]
+  },
+  {
+   "name": "Biển Đông",
+   "kind": "place",
+   "aliases": [
+    "Biển Đông",
+    "South China Sea",
+    "biển Nam Trung Hoa",
+    "vùng biển Đông Nam Á"
+   ],
+   "year": null,
+   "date_start": null,
+   "date_end": null,
+   "place": "Tây Thái Bình Dương",
+   "actors": [
+    "Việt Nam",
+    "Trung Quốc",
+    "Phi-líp-pin",
+    "Ma-lai-xi-a",
+    "Bru-nây",
+    "Inđônêxia"
+   ],
+   "summary": "Biển Đông là biển rìa lớn của Thái Bình Dương, rộng khoảng 3,5 triệu km², nằm trên tuyến hàng hải nhộn nhịp bậc nhất thế giới và giàu tài nguyên dầu khí, hải sản.",
+   "facts": [
+    "Biển Đông có diện tích khoảng 3,5 triệu km², là một biển lớn thuộc Thái Bình Dương, trải dài từ khu vực Xin-ga-po đến eo biển Đài Loan.",
+    "Các quốc gia và vùng lãnh thổ tiếp giáp Biển Đông gồm Việt Nam, Trung Quốc, Ma Cao, Hồng Kông, Đài Loan, Phi-líp-pin, Ma-lai-xi-a, Bru-nây, Inđônêxia, Xin-ga-po, Thái Lan và Cam-pu-chia.",
+    "Biển Đông là tuyến đường hàng hải nhộn nhịp thứ hai thế giới; hơn 50% khối lượng hàng hóa vận tải bằng đường biển toàn cầu đi qua eo biển Ma-lắc-ca và các tuyến kề cận.",
+    "Trữ lượng tài nguyên ở Biển Đông rất lớn, ước tính khoảng 1,2 km³ dầu thô và 7.500 km³ khí tự nhiên, cùng nguồn hải sản phong phú.",
+    "Hai quần đảo lớn giữa Biển Đông là Hoàng Sa và Trường Sa, đều thuộc chủ quyền Việt Nam nhưng đang bị một số nước tranh chấp.",
+    "Vì Biển Đông vừa nằm trên tuyến hàng hải huyết mạch vừa giàu dầu khí nên khu vực này trở thành nơi tập trung lợi ích chiến lược của nhiều nước — vị trí và tài nguyên là nguyên nhân, tình trạng tranh chấp phức tạp là hệ quả."
+   ],
+   "traps": [
+    "Sai: Biển Đông là một đại dương. Đúng: đây là một biển rìa của Thái Bình Dương, diện tích khoảng 3,5 triệu km².",
+    "Sai: chỉ Việt Nam và Trung Quốc tiếp giáp Biển Đông. Đúng: có tới 9 quốc gia cùng một số vùng lãnh thổ tiếp giáp Biển Đông."
+   ],
+   "lessons": [
+    {
+     "book": "cánh diều",
+     "bai": 12
+    },
+    {
+     "book": "KNTT",
+     "bai": 12
+    },
+    {
+     "book": "CTST",
+     "bai": 12
+    }
+   ],
+   "topic_title": "Vị trí và tầm quan trọng của Biển Đông",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Biển_Đông"
+   ]
+  },
+  {
+   "name": "Quần đảo Hoàng Sa",
+   "kind": "place",
+   "aliases": [
+    "Hoàng Sa",
+    "Bãi Cát Vàng",
+    "Paracel Islands",
+    "huyện đảo Hoàng Sa",
+    "đội Hoàng Sa"
+   ],
+   "year": null,
+   "date_start": null,
+   "date_end": null,
+   "place": "Biển Đông, thuộc thành phố Đà Nẵng",
+   "actors": [
+    "Đội Hoàng Sa",
+    "Chúa Nguyễn",
+    "Vua Gia Long",
+    "Vua Minh Mạng",
+    "Lê Quý Đôn"
+   ],
+   "summary": "Quần đảo Hoàng Sa nằm giữa Biển Đông, thuộc thành phố Đà Nẵng của Việt Nam, được nhà nước Việt Nam thực thi chủ quyền liên tục từ thời chúa Nguyễn, hiện bị Trung Quốc chiếm giữ trái phép từ năm 1974.",
+   "facts": [
+    "Quần đảo Hoàng Sa gồm khoảng 30 đảo, rạn san hô, cồn cát và bãi ngầm, tổng diện tích phần nổi chỉ khoảng 870 héc-ta; đảo Tri Tôn - đảo gần bờ nhất - cách đảo Lý Sơn (Quảng Ngãi) khoảng 121 hải lí (224 km).",
+    "Về hành chính, Việt Nam quản lí quần đảo Hoàng Sa thuộc thành phố Đà Nẵng.",
+    "Từ thế kỉ XVII-XVIII, các chúa Nguyễn đã lập đội Hoàng Sa gồm 70 người lấy dân làng An Vĩnh, hằng năm từ tháng 3 đến tháng 8 ra quần đảo khai thác hải vật và thu lượm hàng hóa tàu đắm.",
+    "Sách \"Phủ biên tạp lục\" của Lê Quý Đôn viết năm 1776 ghi chép chi tiết hoạt động của đội Hoàng Sa, là một bằng chứng lịch sử quan trọng về chủ quyền của Việt Nam.",
+    "Năm 1816, vua Gia Long sai thủy quân cùng đội Hoàng Sa ra quần đảo thăm dò đường biển, sự việc được chép trong \"Đại Nam thực lục\".",
+    "Năm 1835, vua Minh Mạng cho dựng miếu (Hoàng Sa tự), đặt bia đá, đóng cọc và trồng cây trên quần đảo, thể hiện việc quản lí nhà nước một cách chính thức.",
+    "Năm 1974, hải quân Trung Quốc dùng vũ lực đánh chiếm toàn bộ quần đảo Hoàng Sa và kiểm soát trái phép cho đến nay."
+   ],
+   "traps": [
+    "Sai: Việt Nam chỉ mới quan tâm tới Hoàng Sa gần đây. Đúng: nhà nước phong kiến Việt Nam đã lập đội Hoàng Sa từ thời chúa Nguyễn (thế kỉ XVII-XVIII) và tiếp tục quản lí dưới thời Gia Long, Minh Mạng.",
+    "Sai: quần đảo Hoàng Sa thuộc tỉnh Khánh Hòa. Đúng: Hoàng Sa thuộc thành phố Đà Nẵng, còn Trường Sa mới thuộc tỉnh Khánh Hòa."
+   ],
+   "lessons": [
+    {
+     "book": "cánh diều",
+     "bai": 12
+    },
+    {
+     "book": "KNTT",
+     "bai": 12
+    },
+    {
+     "book": "CTST",
+     "bai": 12
+    }
+   ],
+   "topic_title": "Vị trí và tầm quan trọng của Biển Đông",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Quần_đảo_Hoàng_Sa"
+   ],
+   "fixed": [
+    "Khoảng cách Hoàng Sa - Lý Sơn: sai 'khoảng 200 hải lí' -> đúng khoảng 121 hải lí (224 km) tính từ đảo Tri Tôn"
+   ]
+  },
+  {
+   "name": "Quần đảo Trường Sa",
+   "kind": "place",
+   "aliases": [
+    "Trường Sa",
+    "Vạn Lý Trường Sa",
+    "Spratly Islands",
+    "huyện đảo Trường Sa",
+    "đội Bắc Hải"
+   ],
+   "year": null,
+   "date_start": null,
+   "date_end": null,
+   "place": "Biển Đông, thuộc tỉnh Khánh Hòa",
+   "actors": [
+    "Đội Bắc Hải",
+    "Chúa Nguyễn",
+    "Nhà Tây Sơn",
+    "Nhà Nguyễn"
+   ],
+   "summary": "Quần đảo Trường Sa nằm ở phía nam Biển Đông, thuộc tỉnh Khánh Hòa của Việt Nam, trải trên vùng biển rộng khoảng 160.000 km² và là nơi có tranh chấp của nhiều bên.",
+   "facts": [
+    "Quần đảo Trường Sa nằm trong Biển Đông, trải từ khoảng vĩ độ 6°12' đến 12°00' Bắc và kinh độ 111°30' đến 117°20' Đông, trên vùng biển rộng khoảng 160.000 km².",
+    "Về hành chính, Việt Nam quản lí quần đảo Trường Sa thuộc tỉnh Khánh Hòa.",
+    "Quần đảo gồm hơn 100 đảo nhỏ, đá và bãi ngầm san hô, phần lớn diện tích chìm dưới mặt nước.",
+    "Hiện có sáu bên cùng đưa ra yêu sách ở khu vực Trường Sa, gồm Việt Nam, Trung Quốc, Đài Loan, Phi-líp-pin, Ma-lai-xi-a và Bru-nây.",
+    "Bộ \"Hồng Đức bản đồ\" được hoàn thành năm 1490 dưới thời Lê Thánh Tông; trong tập bản đồ này có \"Toản tập Thiên Nam tứ chí lộ đồ thư\" do Đỗ Bá soạn vẽ năm 1686 - tài liệu sớm nhất của nước ta ghi chép về \"Bãi Cát Vàng\" ngoài khơi phủ Quảng Ngãi, tức khu vực Hoàng Sa - Trường Sa.",
+    "Sách \"Phủ biên tạp lục\" (1776) chép đội Hoàng Sa kiêm quản đội Bắc Hải ở phía nam, tức là hoạt động khai thác và quản lí đã bao gồm cả vùng Trường Sa; đến năm 1838, \"Đại Nam nhất thống toàn đồ\" ghi rõ \"Vạn Lý Trường Sa\" là lãnh thổ Đại Nam."
+   ],
+   "traps": [
+    "Sai: quần đảo Trường Sa thuộc thành phố Đà Nẵng. Đúng: Trường Sa thuộc tỉnh Khánh Hòa; Hoàng Sa mới thuộc Đà Nẵng.",
+    "Sai: chỉ Việt Nam và Trung Quốc tranh chấp ở Trường Sa. Đúng: có sáu bên liên quan gồm Việt Nam, Trung Quốc, Đài Loan, Phi-líp-pin, Ma-lai-xi-a và Bru-nây.",
+    "Sai: bản đồ Hồng Đức hoàn thành năm 1469. Đúng: hoàn thành năm 1490 (năm Hồng Đức thứ 21); tư liệu đầu tiên ghi \"Bãi Cát Vàng\" là Toản tập Thiên Nam tứ chí lộ đồ thư của Đỗ Bá, năm 1686."
+   ],
+   "lessons": [
+    {
+     "book": "cánh diều",
+     "bai": 12
+    },
+    {
+     "book": "KNTT",
+     "bai": 12
+    },
+    {
+     "book": "CTST",
+     "bai": 12
+    }
+   ],
+   "topic_title": "Vị trí và tầm quan trọng của Biển Đông",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Quần_đảo_Trường_Sa",
+    "https://vi.wikipedia.org/wiki/Bản_đồ_Hồng_Đức",
+    "https://bacgiang.gov.vn/chi-tiet-bien-dao-vn/-/asset_publisher/YiOFlAxwJhRr/content/9-vai-net-khai-quat-ve-toan-tap-thien-nam-tu-chi-lo-o-thu-mot-trong-nhung-tac-pham-au-tien-e-cap-en-chu-quyen-cua-viec-nam-o-hoang-sa-truong-sa-"
+   ],
+   "fixed": [
+    "Sai 'Hồng Đức bản đồ hoàn thành năm 1469' -> đúng năm 1490; đính chính nguồn tư liệu ghi 'Bãi Cát Vàng' là Toản tập Thiên Nam tứ chí lộ đồ thư (1686) của Đỗ Bá"
+   ]
+  },
+  {
+   "name": "Hội nghị Véc-xai (1919-1920)",
+   "kind": "event",
+   "aliases": [
+    "Hội nghị Véc-xai",
+    "Versailles",
+    "Hòa ước Véc-xai",
+    "Hòa ước Versailles",
+    "Hội nghị hòa bình Pa-ri 1919",
+    "trật tự Véc-xai - Oa-sinh-tơn",
+    "Treaty of Versailles"
+   ],
+   "year": 1919,
+   "date_start": "1919-01-18",
+   "date_end": "1920-01-10",
+   "place": "Cung điện Véc-xai (Versailles), Pháp",
+   "actors": [
+    "Clê-măng-xô (Pháp)",
+    "Lơ-goi Gioóc-giơ (Anh)",
+    "Uy-nxơn (Hoa Kỳ)",
+    "Oóc-lan-đô (I-ta-li-a)",
+    "Đức",
+    "Nguyễn Ái Quốc"
+   ],
+   "summary": "Hội nghị hòa bình do các nước thắng trận triệu tập sau Chiến tranh thế giới thứ nhất, khai mạc ngày 18/1/1919 và ký Hòa ước Véc-xai ngày 28/6/1919 tại Cung điện Véc-xai, lập nên trật tự thế giới mới có lợi cho các nước thắng trận.",
+   "facts": [
+    "Hội nghị hòa bình sau Chiến tranh thế giới thứ nhất khai mạc ngày 18/1/1919 ở Pháp; vì hòa ước chính được ký tại Cung điện Véc-xai nên trong sách giáo khoa Việt Nam hội nghị này được gọi là Hội nghị Véc-xai, không gọi chung chung là \"hội nghị hòa bình\".",
+    "Hòa ước Véc-xai được ký ngày 28/6/1919 tại Phòng Gương của Cung điện Véc-xai và bắt đầu có hiệu lực ngày 10/1/1920.",
+    "Hội nghị bị chi phối bởi bốn cường quốc thắng trận: Pháp (Clê-măng-xô), Anh (Lơ-goi Gioóc-giơ), Hoa Kỳ (Uy-nxơn) và I-ta-li-a (Oóc-lan-đô).",
+    "Nước Đức bại trận phải trả vùng An-dát - Lo-ren cho Pháp, mất toàn bộ thuộc địa, lục quân bị giới hạn ở mức 10 vạn người và phải bồi thường chiến phí rất nặng.",
+    "Cùng với Hội nghị Oa-sinh-tơn (1921-1922), Hội nghị Véc-xai lập nên hệ thống Véc-xai - Oa-sinh-tơn, tức trật tự thế giới mới sau Chiến tranh thế giới thứ nhất.",
+    "Ngày 18/6/1919, thay mặt những người Việt Nam yêu nước ở Pháp, Nguyễn Ái Quốc gửi tới Hội nghị Véc-xai bản \"Yêu sách của nhân dân An Nam\" đòi các quyền tự do, dân chủ cho nhân dân Việt Nam, nhưng không được chấp nhận.",
+    "Vì hòa ước áp đặt những điều khoản quá khắc nghiệt với nước Đức nên trong lòng nước Đức nảy sinh tâm lý phục thù, tạo mảnh đất cho chủ nghĩa phát xít phát triển — hòa ước hà khắc là một nguyên nhân, sự trỗi dậy của chủ nghĩa phát xít và Chiến tranh thế giới thứ hai là hậu quả."
+   ],
+   "traps": [
+    "Sai: gọi chung chung là \"Hội nghị hòa bình\". Đúng: tên chuẩn trong sách giáo khoa Việt Nam là HỘI NGHỊ VÉC-XAI (Versailles), gắn với Hòa ước Véc-xai ký ngày 28/6/1919.",
+    "Sai: Hòa ước Véc-xai được ký năm 1918, cùng năm chiến tranh kết thúc. Đúng: chiến tranh kết thúc tháng 11/1918, còn hòa ước ký ngày 28/6/1919 và có hiệu lực ngày 10/1/1920.",
+    "Sai: Hội nghị Véc-xai đem lại quyền tự quyết cho các dân tộc thuộc địa. Đúng: hội nghị chỉ phân chia lại quyền lợi giữa các nước thắng trận; bản Yêu sách của nhân dân An Nam do Nguyễn Ái Quốc gửi tới ngày 18/6/1919 đã không được chấp nhận."
+   ],
+   "lessons": [],
+   "topic_title": "Bổ trợ: Trật tự thế giới sau Chiến tranh thế giới thứ nhất (Hội nghị Véc-xai)",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Hòa_ước_Versailles",
+    "https://vi.wikipedia.org/wiki/Hội_nghị_hòa_bình_Paris_(1919–1920)"
+   ],
+   "fixed": [
+    "Thẻ mới bổ sung để phủ danh sách bẫy bắt buộc; đã kiểm chứng độc lập trên web"
+   ]
+  },
+  {
+   "name": "Trần Phú - Tổng Bí thư đầu tiên của Đảng (10/1930)",
+   "kind": "person",
+   "aliases": [
+    "Trần Phú",
+    "Tổng Bí thư đầu tiên của Đảng",
+    "Tổng Bí thư đầu tiên Đảng Cộng sản Việt Nam",
+    "Luận cương chính trị 1930",
+    "Hội nghị Ban Chấp hành Trung ương tháng 10/1930"
+   ],
+   "year": 1930,
+   "date_start": "1904-05-01",
+   "date_end": "1931-09-06",
+   "place": "Hương Cảng (Trung Quốc) và Sài Gòn",
+   "actors": [
+    "Trần Phú",
+    "Nguyễn Ái Quốc",
+    "Đảng Cộng sản Đông Dương"
+   ],
+   "summary": "Trần Phú (1904-1931) là Tổng Bí thư đầu tiên của Đảng, được bầu tại Hội nghị Ban Chấp hành Trung ương lần thứ nhất tháng 10/1930 ở Hương Cảng, người soạn thảo Luận cương chính trị.",
+   "facts": [
+    "Trần Phú sinh ngày 1/5/1904, quê gốc ở làng Tùng Ảnh, huyện Đức Thọ, tỉnh Hà Tĩnh.",
+    "Tháng 10/1930, Hội nghị Ban Chấp hành Trung ương lần thứ nhất họp tại Hương Cảng (Trung Quốc) đã đổi tên Đảng thành Đảng Cộng sản Đông Dương, thông qua Luận cương chính trị do Trần Phú soạn thảo và bầu Trần Phú làm Tổng Bí thư đầu tiên của Đảng.",
+    "Nguyễn Ái Quốc là người sáng lập Đảng và chủ trì Hội nghị hợp nhất các tổ chức cộng sản đầu năm 1930, nhưng KHÔNG giữ chức Tổng Bí thư; người giữ chức Tổng Bí thư đầu tiên là Trần Phú.",
+    "Trần Phú bị thực dân Pháp bắt năm 1931 và hi sinh ngày 6/9/1931 tại Nhà thương Chợ Quán (Sài Gòn) khi mới 27 tuổi.",
+    "Trước lúc hi sinh, Trần Phú nhắn lại với đồng chí câu nói nổi tiếng: \"Hãy giữ vững chí khí chiến đấu\"."
+   ],
+   "traps": [
+    "Sai: Tổng Bí thư đầu tiên của Đảng là Nguyễn Ái Quốc (Hồ Chí Minh). Đúng: là TRẦN PHÚ, được bầu tại Hội nghị Ban Chấp hành Trung ương tháng 10/1930 ở Hương Cảng.",
+    "Sai: Trần Phú được bầu làm Tổng Bí thư ngay tại Hội nghị thành lập Đảng đầu năm 1930. Đúng: Hội nghị thành lập Đảng (đầu năm 1930) do Nguyễn Ái Quốc chủ trì; Trần Phú được bầu ở Hội nghị Trung ương lần thứ nhất tháng 10/1930.",
+    "Sai: Luận cương chính trị tháng 10/1930 do Nguyễn Ái Quốc soạn thảo. Đúng: do Trần Phú soạn thảo; Nguyễn Ái Quốc soạn Cương lĩnh chính trị đầu tiên đầu năm 1930."
+   ],
+   "lessons": [],
+   "topic_title": "Bổ trợ: Đảng Cộng sản Việt Nam ra đời và Tổng Bí thư đầu tiên",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Trần_Phú",
+    "https://vi.wikipedia.org/wiki/Đảng_Cộng_sản_Việt_Nam"
+   ],
+   "fixed": [
+    "Thẻ mới bổ sung để phủ danh sách bẫy bắt buộc; đã kiểm chứng độc lập trên web"
+   ]
+  },
+  {
+   "name": "Nguyễn Trung Trực (1838-1868)",
+   "kind": "person",
+   "aliases": [
+    "Nguyễn Trung Trực",
+    "Nguyễn Văn Lịch",
+    "đốt tàu Hy Vọng",
+    "trận Nhật Tảo",
+    "Bao giờ người Tây nhổ hết cỏ nước Nam",
+    "Hỏa hồng Nhật Tảo"
+   ],
+   "year": 1861,
+   "date_start": "1838",
+   "date_end": "1868-10-27",
+   "place": "Nam Kỳ (Nhật Tảo - Long An, Rạch Giá - Kiên Giang)",
+   "actors": [
+    "Nguyễn Trung Trực",
+    "Thực dân Pháp"
+   ],
+   "summary": "Thủ lĩnh nghĩa quân chống Pháp ở Nam Kỳ, nổi tiếng với trận đốt tàu chiến Pháp trên vàm Nhật Tảo năm 1861 và câu nói bất hủ \"Bao giờ người Tây nhổ hết cỏ nước Nam thì mới hết người Nam đánh Tây\".",
+   "facts": [
+    "Nguyễn Trung Trực sinh năm 1838, bị thực dân Pháp xử tử ngày 27/10/1868 tại Rạch Giá (nay thuộc tỉnh Kiên Giang), khi mới 30 tuổi.",
+    "Ngày 10/12/1861, ông chỉ huy nghĩa quân đốt cháy tàu chiến L'Espérance (tàu Hy Vọng) của Pháp trên vàm Nhật Tảo, sông Vàm Cỏ Đông.",
+    "Tháng 6/1868, ông chỉ huy nghĩa quân đánh úp đồn Kiên Giang (Rạch Giá), tiêu diệt 5 sĩ quan cùng hàng chục lính Pháp và làm chủ đồn trong mấy ngày.",
+    "Câu nói nổi tiếng của Nguyễn Trung Trực trước khi bị hành hình là: \"Bao giờ người Tây nhổ hết cỏ nước Nam thì mới hết người Nam đánh Tây\".",
+    "Chiến công của ông được nhà thơ Huỳnh Mẫn Đạt ca ngợi trong hai câu \"Hỏa hồng Nhật Tảo oanh thiên địa - Kiếm bạt Kiên Giang khấp quỷ thần\"."
+   ],
+   "traps": [
+    "Sai: câu \"Bao giờ người Tây nhổ hết cỏ nước Nam thì mới hết người Nam đánh Tây\" là của Phan Bội Châu. Đúng: đó là lời của NGUYỄN TRUNG TRỰC, nói trước khi bị Pháp xử tử ngày 27/10/1868 tại Rạch Giá.",
+    "Sai: Nguyễn Trung Trực hoạt động trong phong trào Cần Vương. Đúng: ông chống Pháp ở Nam Kỳ những năm 1861-1868, tức trước khi có chiếu Cần Vương (13/7/1885)."
+   ],
+   "lessons": [],
+   "topic_title": "Bổ trợ: Phong trào chống Pháp ở Nam Kỳ nửa sau thế kỉ XIX",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Nguyễn_Trung_Trực"
+   ],
+   "fixed": [
+    "Thẻ mới bổ sung để phủ danh sách bẫy bắt buộc; đã kiểm chứng độc lập trên web"
+   ]
+  },
+  {
+   "name": "Nguyễn Hiền - trạng nguyên trẻ nhất lịch sử khoa cử Việt Nam (1247)",
+   "kind": "person",
+   "aliases": [
+    "Nguyễn Hiền",
+    "trạng nguyên trẻ nhất",
+    "trạng nguyên 13 tuổi",
+    "khoa thi Đinh Mùi 1247",
+    "trạng nguyên thời Trần Thái Tông"
+   ],
+   "year": 1247,
+   "date_start": "1234",
+   "date_end": "1256",
+   "place": "Làng Dương A, huyện Thượng Hiền, phủ Thiên Trường (nay thuộc Nam Định)",
+   "actors": [
+    "Nguyễn Hiền",
+    "Vua Trần Thái Tông"
+   ],
+   "summary": "Nguyễn Hiền (1234-1256) đỗ trạng nguyên khoa thi Đinh Mùi năm 1247 khi mới 13 tuổi dưới triều vua Trần Thái Tông, là trạng nguyên trẻ nhất trong lịch sử khoa cử Việt Nam.",
+   "facts": [
+    "Nguyễn Hiền đỗ trạng nguyên khoa thi Đinh Mùi năm 1247, dưới triều vua Trần Thái Tông, khi mới 13 tuổi.",
+    "Ông là trạng nguyên trẻ nhất trong lịch sử khoa cử Việt Nam.",
+    "Quê ông ở làng Dương A, huyện Thượng Hiền, phủ Thiên Trường - nay thuộc tỉnh Nam Định.",
+    "Vì Nguyễn Hiền đỗ khi tuổi còn quá nhỏ nên vua Trần Thái Tông cho ông về nhà học thêm lễ nghi ba năm rồi mới bổ dụng làm quan — tuổi nhỏ là nguyên nhân, việc hoãn bổ nhiệm là kết quả.",
+    "Nguyễn Hiền sinh năm 1234 và mất năm 1256, khi mới ngoài hai mươi tuổi."
+   ],
+   "traps": [
+    "Sai: trạng nguyên trẻ nhất lịch sử khoa bảng Việt Nam là \"Nguyễn Minh Sát\" - một cái tên KHÔNG CÓ THẬT. Đúng: là NGUYỄN HIỀN, đỗ năm 1247 khi 13 tuổi, dưới triều vua Trần Thái Tông.",
+    "Sai: Nguyễn Hiền đỗ trạng nguyên thời Lê Thánh Tông. Đúng: ông đỗ năm 1247 thời Trần Thái Tông, tức thời Trần, trước thời Lê sơ hơn hai thế kỉ."
+   ],
+   "lessons": [],
+   "topic_title": "Bổ trợ: Khoa cử và giáo dục trong lịch sử Việt Nam",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Nguyễn_Hiền"
+   ],
+   "fixed": [
+    "Thẻ mới bổ sung để phủ danh sách bẫy bắt buộc; đã kiểm chứng độc lập trên web"
+   ]
+  },
+  {
+   "name": "Vua Dục Đức - vị vua trị vì ngắn nhất triều Nguyễn (3 ngày, 1883)",
+   "kind": "person",
+   "aliases": [
+    "Dục Đức",
+    "vua Dục Đức",
+    "Nguyễn Phúc Ưng Chân",
+    "vua ở ngôi 3 ngày",
+    "vua trị vì ngắn nhất",
+    "tứ nguyệt tam vương"
+   ],
+   "year": 1883,
+   "date_start": "1883-07-19",
+   "date_end": "1883-07-23",
+   "place": "Kinh thành Huế",
+   "actors": [
+    "Dục Đức",
+    "Nguyễn Văn Tường",
+    "Tôn Thất Thuyết",
+    "Thái hậu Từ Dụ"
+   ],
+   "summary": "Dục Đức lên ngôi ngày 19/7/1883 sau khi vua Tự Đức mất, nhưng chỉ ở ngôi 3 ngày rồi bị hai phụ chính Nguyễn Văn Tường và Tôn Thất Thuyết phế truất ngày 23/7/1883 - vị vua trị vì ngắn nhất triều Nguyễn.",
+   "facts": [
+    "Vua Tự Đức mất ngày 19/7/1883; Dục Đức được đưa lên nối ngôi ngay trong ngày hôm đó.",
+    "Vì hai đại thần phụ chính là Nguyễn Văn Tường và Tôn Thất Thuyết lập tờ hạch tội và xin Thái hậu Từ Dụ phế truất nên chỉ ba ngày sau, ngày 23/7/1883, Dục Đức bị truất ngôi — mâu thuẫn với phe phụ chính là nguyên nhân, việc bị phế truất là hậu quả.",
+    "Dục Đức ở ngôi 3 ngày, là vị vua trị vì ngắn nhất trong số 13 vị vua triều Nguyễn.",
+    "Sau khi bị phế, ông bị giam giữ và qua đời trong ngục năm 1883; về sau con ông là vua Thành Thái truy tôn ông làm hoàng đế.",
+    "Năm 1883 triều Nguyễn thay tới ba vua chỉ trong bốn tháng (Dục Đức, Hiệp Hòa, Kiến Phúc), sử gọi là \"tứ nguyệt tam vương\"."
+   ],
+   "traps": [
+    "Sai: vua trị vì ngắn nhất là Lê Hiến Tông. Đúng: là vua DỤC ĐỨC, chỉ ở ngôi 3 ngày (19/7 - 23/7/1883); Lê Hiến Tông là vua nhà Lê sơ, ở ngôi 7 năm (1497-1504), không thuộc triều Nguyễn.",
+    "Sai: Dục Đức bị Pháp phế truất. Đúng: ông bị hai đại thần phụ chính Nguyễn Văn Tường và Tôn Thất Thuyết phế truất."
+   ],
+   "lessons": [],
+   "topic_title": "Bổ trợ: Triều Nguyễn nửa sau thế kỉ XIX",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Dục_Đức"
+   ],
+   "fixed": [
+    "Thẻ mới bổ sung để phủ danh sách bẫy bắt buộc; đã kiểm chứng độc lập trên web"
+   ]
+  }
+ ]
+}
