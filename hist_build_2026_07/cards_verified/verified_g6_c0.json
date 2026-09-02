@@ -1,0 +1,1107 @@
+{
+ "grade": 6,
+ "chunk": 0,
+ "cards": [
+  {
+   "name": "Lịch sử và môn Lịch sử",
+   "kind": "concept",
+   "summary": "Lịch sử là toàn bộ những gì đã diễn ra trong quá khứ; môn Lịch sử giúp ta tìm hiểu và dựng lại quá khứ của con người dựa trên bằng chứng.",
+   "facts": [
+    "Lịch sử là tất cả những gì đã diễn ra trong quá khứ, còn môn Lịch sử là môn học tìm hiểu và dựng lại quá khứ ấy của loài người.",
+    "Sử học nghiên cứu quá khứ một cách có hệ thống: thu thập và phân tích bằng chứng để tường thuật lại điều đã xảy ra và giải thích vì sao nó xảy ra.",
+    "Vì mọi kết luận lịch sử phải dựa trên tư liệu và bằng chứng, nên học lịch sử không phải là nghe kể chuyện tùy ý mà là tìm hiểu có căn cứ.",
+    "Học lịch sử giúp học sinh biết cội nguồn tổ tiên, quê hương, đất nước và rút ra bài học kinh nghiệm cho hiện tại và tương lai.",
+    "Sử học ra đời từ thời cổ đại: nhà sử học Hy Lạp Hê-rô-đốt sống ở thế kỷ V trước Công nguyên thường được coi là 'cha đẻ của sử học'."
+   ],
+   "traps": [
+    "Lịch sử (quá khứ đã diễn ra) khác với môn Lịch sử (khoa học tìm hiểu quá khứ) — hai khái niệm hay bị dùng lẫn."
+   ],
+   "aliases": [
+    "môn Lịch sử",
+    "sử học",
+    "history"
+   ],
+   "actors": [
+    "Hê-rô-đốt"
+   ],
+   "year": null,
+   "date_start": null,
+   "date_end": null,
+   "place": null,
+   "topic_title": "Sơ lược về môn Lịch sử",
+   "lessons": [
+    {
+     "book": "Sách cũ",
+     "bai": 1
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/L%E1%BB%8Bch_s%E1%BB%AD"
+   ]
+  },
+  {
+   "name": "Tư liệu lịch sử",
+   "kind": "concept",
+   "summary": "Tư liệu lịch sử là những dấu tích người xưa để lại (hiện vật, chữ viết, truyền miệng), là căn cứ khoa học để phục dựng quá khứ.",
+   "facts": [
+    "Tư liệu lịch sử là những dấu tích người xưa để lại, giúp nhà sử học phục dựng lại quá khứ một cách chính xác và khách quan.",
+    "Tư liệu hiện vật là những di tích, đồ vật của người xưa như công cụ đá, trống đồng, thành quách còn lưu lại trong lòng đất hay trên mặt đất.",
+    "Tư liệu chữ viết gồm các bản khắc, sách, văn bản ghi chép tương đối đầy đủ mọi mặt đời sống và các sự kiện đã xảy ra.",
+    "Tư liệu truyền miệng là truyền thuyết, thần thoại, ca dao được truyền từ đời này sang đời khác, ví dụ truyền thuyết Thánh Gióng thời Hùng Vương.",
+    "Tư liệu gốc là tư liệu ra đời cùng thời với sự kiện, cho thông tin trực tiếp nên có giá trị tin cậy nhất.",
+    "Tư liệu hiện vật không chỉ giúp phục dựng lịch sử mà còn dùng để kiểm chứng lại tư liệu chữ viết."
+   ],
+   "traps": [
+    "Tư liệu truyền miệng có yếu tố hư cấu, thần thánh hóa nên không thể coi là chính xác tuyệt đối — phải đối chiếu với hiện vật và chữ viết.",
+    "Không phải tư liệu chữ viết nào cũng là tư liệu gốc: chỉ tư liệu ra đời cùng thời sự kiện mới là tư liệu gốc."
+   ],
+   "aliases": [
+    "sử liệu",
+    "nguồn sử liệu",
+    "tư liệu gốc",
+    "tư liệu hiện vật",
+    "tư liệu chữ viết",
+    "tư liệu truyền miệng"
+   ],
+   "year": null,
+   "date_start": null,
+   "date_end": null,
+   "place": null,
+   "topic_title": "Sơ lược về môn Lịch sử",
+   "lessons": [
+    {
+     "book": "Sách cũ",
+     "bai": 1
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/L%E1%BB%8Bch_s%E1%BB%AD",
+    "https://loigiaihay.com/tra-loi-cau-hoi-muc-iii-trang-12-sgk-lich-su-6-chan-troi-sang-tao-a86355.html"
+   ]
+  },
+  {
+   "name": "Công nguyên và cách tính thời gian",
+   "kind": "concept",
+   "summary": "Công nguyên lấy năm được cho là năm sinh Chúa Giê-su làm năm 1; trước đó là trước Công nguyên (TCN) đếm ngược, và không có năm 0.",
+   "facts": [
+    "Công nguyên là kỷ nguyên đếm năm lấy mốc là năm được cho là năm sinh của Chúa Giê-su, tính là năm 1.",
+    "Thời gian trước năm 1 gọi là trước Công nguyên (viết tắt TCN), đếm ngược về quá khứ: năm 208 TCN xảy ra trước năm 179 TCN.",
+    "Lịch Công nguyên không có năm 0: ngay sau năm 1 TCN là đến năm 1 Công nguyên.",
+    "Một thập kỷ là 10 năm, một thế kỷ là 100 năm, một thiên niên kỷ là 1.000 năm; ví dụ thế kỷ VII TCN gồm các năm từ 700 đến 601 TCN.",
+    "Cách đếm năm Công nguyên do tu sĩ Dionysius Exiguus đặt ra ở thế kỷ VI và chỉ được dùng rộng rãi từ khoảng sau năm 800."
+   ],
+   "traps": [
+    "Năm TCN có số càng lớn thì càng xa hiện tại: năm 500 TCN cổ hơn năm 200 TCN — học sinh rất hay hiểu ngược.",
+    "Giữa 1 TCN và 1 CN không có 'năm 0' — tính khoảng cách hai mốc trước và sau Công nguyên phải trừ đi 1 năm nếu tính chi li."
+   ],
+   "aliases": [
+    "CN",
+    "TCN",
+    "trước Công nguyên",
+    "sau Công nguyên",
+    "Công lịch",
+    "BC/AD",
+    "Common Era"
+   ],
+   "year": null,
+   "date_start": null,
+   "date_end": null,
+   "place": null,
+   "topic_title": "Cách tính thời gian trong lịch sử",
+   "lessons": [
+    {
+     "book": "Sách cũ",
+     "bai": 2
+    },
+    {
+     "book": "CTST",
+     "bai": 2
+    },
+    {
+     "book": "KNTT",
+     "bai": 3
+    },
+    {
+     "book": "Cánh diều",
+     "bai": 2
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/C%C3%B4ng_Nguy%C3%AAn"
+   ]
+  },
+  {
+   "name": "Âm lịch và Dương lịch",
+   "kind": "concept",
+   "summary": "Âm lịch tính theo chu kỳ Mặt Trăng, dương lịch tính theo chu kỳ Trái Đất quanh Mặt Trời; âm lịch Việt Nam thực chất là âm dương lịch.",
+   "facts": [
+    "Âm lịch được tính theo chu kỳ Mặt Trăng quay quanh Trái Đất, mỗi tháng âm lịch dài 29 hoặc 30 ngày.",
+    "Dương lịch được tính theo chu kỳ Trái Đất quay quanh Mặt Trời, một năm có 365 ngày, năm nhuận có 366 ngày.",
+    "Âm lịch mà người Việt dùng cho Tết và lễ hội thực chất là âm dương lịch (nông lịch): theo Mặt Trăng nhưng thêm tháng nhuận để khớp với mùa của năm Mặt Trời.",
+    "Ngày nay Việt Nam và thế giới thống nhất dùng Công lịch (một loại dương lịch) trong đời sống chính thức để tiện giao lưu, trao đổi.",
+    "Người phương Đông cổ đại làm ra lịch từ nhu cầu sản xuất nông nghiệp: phải biết mùa vụ theo con nước và thời tiết nên phải quan sát Mặt Trăng, Mặt Trời."
+   ],
+   "traps": [
+    "Âm lịch Việt Nam không thuần túy theo Mặt Trăng — nó là âm DƯƠNG lịch có tháng nhuận, nên Tết Nguyên đán luôn rơi trong khoảng từ 21 tháng 1 đến 20 tháng 2 dương lịch."
+   ],
+   "aliases": [
+    "âm lịch",
+    "dương lịch",
+    "nông lịch",
+    "âm dương lịch",
+    "lịch ta",
+    "lịch tây"
+   ],
+   "year": null,
+   "date_start": null,
+   "date_end": null,
+   "place": null,
+   "topic_title": "Cách tính thời gian trong lịch sử",
+   "lessons": [
+    {
+     "book": "Sách cũ",
+     "bai": 2
+    },
+    {
+     "book": "CTST",
+     "bai": 2
+    },
+    {
+     "book": "KNTT",
+     "bai": 3
+    },
+    {
+     "book": "Cánh diều",
+     "bai": 2
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/%C3%82m_l%E1%BB%8Bch",
+    "https://vi.wikipedia.org/wiki/T%E1%BA%BFt_Nguy%C3%AAn_%C4%90%C3%A1n"
+   ],
+   "fixed": [
+    "Sửa biên độ Tết Nguyên đán: 'cuối tháng 1 đến giữa tháng 2' -> '21/1 đến 20/2 dương lịch'"
+   ]
+  },
+  {
+   "name": "Người tối cổ",
+   "kind": "concept",
+   "summary": "Người tối cổ xuất hiện cách đây khoảng 4 triệu năm (SGK Lịch sử 6, GDPT 2018), đi thẳng bằng hai chân, biết ghè đẽo công cụ đá và dùng lửa; dạng tiêu biểu là Homo erectus.",
+   "facts": [
+    "Theo SGK Lịch sử và Địa lí 6 (cả ba bộ Kết nối tri thức, Chân trời sáng tạo, Cánh diều), một nhánh Vượn người (xuất hiện khoảng 5-6 triệu năm trước) đã tiến hóa thành Người tối cổ cách đây khoảng 4 triệu năm.",
+    "Dạng Người tối cổ tiêu biểu là Homo erectus (Người đứng thẳng), xuất hiện khoảng 2 triệu năm trước ở châu Phi rồi lan sang châu Á, châu Âu.",
+    "Người tối cổ đã hoàn toàn đi đứng bằng hai chân, hai tay được giải phóng để cầm nắm; thể tích não lớn hơn hẳn Vượn người (Homo erectus khoảng 650 đến 1.200 cm khối).",
+    "Người tối cổ biết ghè đẽo đá cuội làm công cụ chặt, đập để săn bắt thú và hái lượm hoa quả.",
+    "Nhờ biết dùng lửa để nấu chín thức ăn và sưởi ấm, Người tối cổ sống sót được ở nhiều môi trường khác nhau và tiến hóa nhanh hơn.",
+    "Người tối cổ sống thành từng bầy vài chục người trong hang động, gọi là bầy người nguyên thủy — tổ chức xã hội đầu tiên của loài người."
+   ],
+   "traps": [
+    "Người tối cổ khác Người tinh khôn: theo SGK GDPT 2018, Người tối cổ xuất hiện khoảng 4 TRIỆU năm trước, còn Người tinh khôn khoảng 15 VẠN (150.000) năm trước.",
+    "Đừng lẫn ba nấc: Vượn người (5-6 triệu năm) -> Người tối cổ (khoảng 4 triệu năm) -> Người tinh khôn (khoảng 15 vạn năm)."
+   ],
+   "aliases": [
+    "Homo erectus",
+    "Người đứng thẳng",
+    "người vượn",
+    "vượn người đứng thẳng"
+   ],
+   "year": null,
+   "date_start": "khoảng 4 triệu năm trước",
+   "date_end": null,
+   "place": null,
+   "topic_title": "Xã hội nguyên thuỷ",
+   "lessons": [
+    {
+     "book": "Sách cũ",
+     "bai": 3
+    },
+    {
+     "book": "CTST",
+     "bai": 4
+    },
+    {
+     "book": "KNTT",
+     "bai": 5
+    },
+    {
+     "book": "Cánh diều",
+     "bai": 4
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Homo_erectus",
+    "https://loigiaihay.com/ly-thuyet-nguon-goc-loai-nguoi-lich-su-6-canh-dieu-a89964.html",
+    "https://vietjack.com/lich-su-6-cd/trac-nghiem-bai-3-nguon-goc-loai-nguoi.jsp"
+   ],
+   "fixed": [
+    "Mốc xuất hiện Người tối cổ: '1,8 triệu năm trước' -> 'khoảng 4 triệu năm trước' theo SGK GDPT 2018 (Homo erectus ~2 triệu năm được tách thành một fact riêng)",
+    "Thể tích não: '850-1.100 cm3' -> 'khoảng 650-1.200 cm3 (Homo erectus)'; bỏ chi tiết 'cao khoảng 1,7 m' vì không có trong SGK và không đại diện cả loài"
+   ]
+  },
+  {
+   "name": "Người tinh khôn",
+   "kind": "concept",
+   "summary": "Người tinh khôn (Homo sapiens) xuất hiện cách đây khoảng 15 vạn năm theo SGK Lịch sử 6 (GDPT 2018), có cấu tạo như người ngày nay, sống thành thị tộc.",
+   "facts": [
+    "Theo SGK Lịch sử và Địa lí 6 (GDPT 2018), Người tối cổ đã tiến hóa thành Người tinh khôn (Homo sapiens, tức người hiện đại) cách đây khoảng 15 vạn năm, khởi nguồn ở châu Phi rồi lan ra khắp các châu lục.",
+    "Người tinh khôn có cấu tạo cơ thể như người ngày nay: não lớn với vùng trán phát triển, dáng đi thẳng, bàn tay khéo léo có ngón cái đối diện.",
+    "Người tinh khôn chế tác công cụ tinh xảo hơn hẳn Người tối cổ, có ngôn ngữ và nghệ thuật; các hành vi 'hiện đại' này rõ nét dần trong khoảng 160.000 đến 60.000 năm trước.",
+    "Người tinh khôn sống thành thị tộc gồm những người cùng huyết thống, làm chung hưởng chung — thay thế dần bầy người nguyên thủy.",
+    "Nhờ trí tuệ và công cụ tốt hơn, Người tinh khôn săn bắn, trồng trọt hiệu quả hơn, mở đường cho xã hội loài người phát triển sang thời đá mới."
+   ],
+   "traps": [
+    "Ba con số dễ lẫn: SGK GDPT 2018 ghi Người tinh khôn xuất hiện khoảng 15 VẠN năm trước; SGK cũ (trước 2018) ghi khoảng 4 VẠN năm; khảo cổ học quốc tế hiện xác định hóa thạch Homo sapiens sớm nhất khoảng 300.000 năm ở châu Phi. Bài thi bám SGK -> lấy 15 vạn năm.",
+    "Mốc 4 vạn năm gần với niên đại dấu tích Người tinh khôn tìm được ở Việt Nam, không phải mốc ra đời của loài Homo sapiens."
+   ],
+   "aliases": [
+    "Homo sapiens",
+    "người hiện đại",
+    "người khôn ngoan"
+   ],
+   "year": null,
+   "date_start": "khoảng 15 vạn năm trước",
+   "date_end": null,
+   "place": null,
+   "topic_title": "Xã hội nguyên thuỷ",
+   "lessons": [
+    {
+     "book": "Sách cũ",
+     "bai": 3
+    },
+    {
+     "book": "CTST",
+     "bai": 4
+    },
+    {
+     "book": "KNTT",
+     "bai": 5
+    },
+    {
+     "book": "Cánh diều",
+     "bai": 4
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Homo_sapiens",
+    "https://vietjack.com/lich-su-6-cd/trac-nghiem-bai-3-nguon-goc-loai-nguoi.jsp",
+    "https://loigiaihay.com/ly-thuyet-nguon-goc-loai-nguoi-lich-su-6-canh-dieu-a89964.html"
+   ],
+   "fixed": [
+    "Mốc xuất hiện Người tinh khôn: '300.000 năm trước' -> 'khoảng 15 vạn năm trước' theo SGK GDPT 2018; giữ con số 300.000 trong trap như đối chiếu khoa học"
+   ]
+  },
+  {
+   "name": "Xã hội nguyên thuỷ",
+   "kind": "period",
+   "summary": "Giai đoạn đầu tiên và dài nhất của lịch sử loài người: từ bầy người nguyên thủy đến công xã thị tộc, tan rã khi kim loại và tư hữu xuất hiện.",
+   "facts": [
+    "Xã hội nguyên thuỷ là giai đoạn đầu tiên và kéo dài nhất của lịch sử loài người, từ khi con người xuất hiện đến khi nhà nước ra đời.",
+    "Tổ chức xã hội phát triển từ bầy người nguyên thủy thời Người tối cổ sang công xã thị tộc thời Người tinh khôn; nhiều thị tộc họ hàng sống cạnh nhau hợp thành bộ lạc.",
+    "Trong xã hội nguyên thuỷ, mọi người làm chung, hưởng chung nên chưa có người giàu, người nghèo.",
+    "Vào khoảng thiên niên kỷ IV trước Công nguyên, cư dân Tây Á và Ai Cập biết dùng công cụ kim loại, làm ra của cải dư thừa thường xuyên.",
+    "Chính của cải dư thừa làm nảy sinh chiếm hữu tư nhân và phân hóa giàu nghèo, khiến xã hội nguyên thủy dần tan rã và nhà nước ra đời."
+   ],
+   "traps": [
+    "Bầy người nguyên thủy (thời Người tối cổ) khác công xã thị tộc (thời Người tinh khôn): thị tộc mới gắn kết bằng quan hệ huyết thống rõ ràng và làm chung hưởng chung.",
+    "Nguyên nhân xã hội nguyên thủy tan rã là công cụ KIM LOẠI tạo ra của cải dư thừa dẫn đến tư hữu — không phải do chiến tranh hay thiên tai."
+   ],
+   "aliases": [
+    "công xã nguyên thủy",
+    "thời nguyên thủy",
+    "công xã thị tộc",
+    "bầy người nguyên thủy"
+   ],
+   "year": null,
+   "date_start": null,
+   "date_end": "khoảng thiên niên kỷ IV TCN (bắt đầu tan rã ở Tây Á, Ai Cập)",
+   "place": null,
+   "topic_title": "Xã hội nguyên thuỷ",
+   "lessons": [
+    {
+     "book": "Sách cũ",
+     "bai": 3
+    },
+    {
+     "book": "CTST",
+     "bai": 4
+    },
+    {
+     "book": "KNTT",
+     "bai": 5
+    },
+    {
+     "book": "Cánh diều",
+     "bai": 4
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Homo_erectus",
+    "https://vi.wikipedia.org/wiki/L%C6%B0%E1%BB%A1ng_H%C3%A0"
+   ]
+  },
+  {
+   "name": "Các quốc gia cổ đại phương Đông",
+   "kind": "concept",
+   "summary": "Ai Cập, Lưỡng Hà, Ấn Độ, Trung Quốc — những nhà nước đầu tiên của loài người, ra đời bên các dòng sông lớn từ cuối thiên niên kỷ IV TCN.",
+   "facts": [
+    "Các quốc gia cổ đại phương Đông ra đời sớm nhất thế giới bên các dòng sông lớn: Ai Cập bên sông Nin, Lưỡng Hà giữa hai sông Ti-grơ và Ơ-phrát, Ấn Độ bên sông Ấn, Trung Quốc bên Hoàng Hà và Trường Giang.",
+    "Ai Cập thống nhất thành một nhà nước vào khoảng năm 3150 trước Công nguyên, còn người Sumer ở Lưỡng Hà đã dựng các thành thị từ thiên niên kỷ IV trước Công nguyên.",
+    "Đất phù sa màu mỡ và nguồn nước dồi dào khiến cư dân sống chủ yếu bằng nghề nông trồng lúa.",
+    "Chính nhu cầu chung sức trị thủy và làm thủy lợi buộc cư dân phải liên kết với nhau — đó là lý do nhà nước ở phương Đông ra đời rất sớm.",
+    "Đứng đầu mỗi nước là vua chuyên chế nắm mọi quyền hành, ở Ai Cập vua được gọi là pharaon và được coi là đại diện của thần linh."
+   ],
+   "traps": [
+    "Quốc gia cổ đại phương Đông ra đời cuối thiên niên kỷ IV – đầu thiên niên kỷ III TCN, SỚM hơn phương Tây: Hy Lạp – La Mã mãi đầu thiên niên kỷ I TCN mới hình thành."
+   ],
+   "aliases": [
+    "văn minh phương Đông cổ đại",
+    "các nền văn minh lưu vực sông lớn"
+   ],
+   "year": null,
+   "date_start": "cuối thiên niên kỷ IV TCN",
+   "date_end": null,
+   "place": "Ai Cập, Lưỡng Hà, Ấn Độ, Trung Quốc",
+   "topic_title": "Các quốc gia cổ đại phương Đông",
+   "lessons": [
+    {
+     "book": "Sách cũ",
+     "bai": 4
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Ai_C%E1%BA%ADp_c%E1%BB%95_%C4%91%E1%BA%A1i",
+    "https://vi.wikipedia.org/wiki/L%C6%B0%E1%BB%A1ng_H%C3%A0"
+   ]
+  },
+  {
+   "name": "Các quốc gia cổ đại phương Tây (Hy Lạp và La Mã)",
+   "kind": "concept",
+   "summary": "Hy Lạp và La Mã hình thành trên bán đảo Ban-căng và I-ta-li-a từ đầu thiên niên kỷ I TCN, kinh tế biển và chế độ chiếm hữu nô lệ.",
+   "facts": [
+    "Các quốc gia cổ đại phương Tây hình thành trên bán đảo Ban-căng (Hy Lạp) và bán đảo I-ta-li-a (La Mã) vào khoảng đầu thiên niên kỷ I trước Công nguyên.",
+    "Vì đất đai ít màu mỡ nhưng có nhiều vũng vịnh cảng biển, kinh tế chính của cư dân là thủ công nghiệp và buôn bán bằng đường biển.",
+    "Các thành bang Hy Lạp như A-ten và Xpác-ta hình thành từ thế kỷ VIII trước Công nguyên.",
+    "Năm 508 trước Công nguyên, Cli-xten (Cleisthenes) cải cách thể chế A-ten, đặt nền móng cho nền dân chủ đầu tiên trên thế giới; quyền lực thuộc về Đại hội nhân dân gồm công dân nam tự do.",
+    "Theo truyền thuyết, thành Rô-ma do Romulus dựng năm 753 TCN; năm 509 TCN La Mã thành nước cộng hòa và năm 27 TCN chuyển sang thời đế chế.",
+    "Xã hội Hy Lạp – La Mã dựa nhiều vào sức lao động của nô lệ nên được gọi là chế độ chiếm hữu nô lệ."
+   ],
+   "traps": [
+    "Dân chủ A-ten là dân chủ CHỦ NÔ: chỉ công dân nam tự do được tham gia, còn nô lệ và phụ nữ không có quyền công dân.",
+    "Hy Lạp – La Mã hình thành MUỘN hơn phương Đông cả nghìn năm, nhưng không có nghĩa là kém phát triển hơn — hai mô hình kinh tế khác nhau."
+   ],
+   "aliases": [
+    "Hy Lạp cổ đại",
+    "La Mã cổ đại",
+    "Hi Lạp và Rô-ma",
+    "văn minh Hy-La"
+   ],
+   "year": null,
+   "date_start": "đầu thiên niên kỷ I TCN",
+   "date_end": "476 (Tây La Mã sụp đổ)",
+   "place": "bán đảo Ban-căng và bán đảo I-ta-li-a",
+   "topic_title": "Các quốc gia cổ đại phương Đông",
+   "lessons": [
+    {
+     "book": "Sách cũ",
+     "bai": 5
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Hy_L%E1%BA%A1p_c%E1%BB%95_%C4%91%E1%BA%A1i",
+    "https://vi.wikipedia.org/wiki/La_M%C3%A3_c%E1%BB%95_%C4%91%E1%BA%A1i",
+    "https://www.britannica.com/biography/Cleisthenes-of-Athens"
+   ],
+   "fixed": [
+    "Cải cách dân chủ A-ten của Cleisthenes: 'khoảng năm 500 TCN' -> 'năm 508 TCN'"
+   ]
+  },
+  {
+   "name": "Các quốc gia sơ kì ở Đông Nam Á",
+   "kind": "concept",
+   "summary": "Trong những thế kỷ đầu Công nguyên, Đông Nam Á xuất hiện các quốc gia sơ kì như Phù Nam, Lâm Ấp (Chăm-pa), chịu ảnh hưởng văn hóa Ấn Độ.",
+   "facts": [
+    "Trong khoảng những thế kỷ đầu Công nguyên, ở Đông Nam Á xuất hiện các quốc gia sơ kì dựa trên nông nghiệp lúa nước và buôn bán đường biển.",
+    "Khoảng thế kỷ I, Vương quốc Phù Nam ra đời ở hạ lưu sông Mê Kông (vùng Nam Bộ Việt Nam ngày nay) với cảng thị Óc Eo buôn bán sầm uất.",
+    "Năm 192, Khu Liên lãnh đạo nhân dân huyện Tượng Lâm nổi dậy chống ách đô hộ nhà Hán, lập nước Lâm Ấp — tiền thân của Chăm-pa ở miền Trung Việt Nam.",
+    "Nhờ buôn bán đường biển thường xuyên với Ấn Độ, các quốc gia sơ kì Đông Nam Á sớm tiếp thu chữ Phạn, đạo Bà La Môn và Phật giáo.",
+    "Phù Nam suy yếu giữa thế kỷ VI và đến khoảng năm 627 thì bị Chân Lạp thôn tính."
+   ],
+   "traps": [
+    "Phù Nam (ra đời thế kỷ I, ở Nam Bộ) và Chăm-pa/Lâm Ấp (ra đời năm 192, ở miền Trung) là HAI vương quốc khác nhau, đừng gộp làm một."
+   ],
+   "aliases": [
+    "Phù Nam",
+    "Lâm Ấp",
+    "Chăm-pa sơ kì",
+    "Óc Eo",
+    "Funan"
+   ],
+   "year": null,
+   "date_start": "thế kỷ I",
+   "date_end": null,
+   "place": "Đông Nam Á",
+   "topic_title": "Các quốc gia cổ đại phương Đông",
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 11
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Ph%C3%B9_Nam",
+    "https://vi.wikipedia.org/wiki/Ch%C4%83m_Pa"
+   ]
+  },
+  {
+   "name": "Ai Cập cổ đại",
+   "kind": "period",
+   "summary": "Nền văn minh bên sông Nin, thống nhất khoảng 3150 TCN, nổi tiếng với pharaon, kim tự tháp, chữ tượng hình và kỹ thuật ướp xác.",
+   "facts": [
+    "Văn minh Ai Cập hình thành dọc hạ lưu sông Nin ở Đông Bắc châu Phi và thống nhất thành một nhà nước vào khoảng năm 3150 trước Công nguyên.",
+    "Vua Ai Cập gọi là pharaon, được coi là đại diện của thần linh và nắm mọi quyền hành trong nước.",
+    "Các kim tự tháp ở Giza được xây trong thời Cổ vương quốc (khoảng 2686–2181 TCN) để làm lăng mộ cho pharaon, nổi tiếng nhất là kim tự tháp Kê-ốp.",
+    "Người Ai Cập sáng tạo chữ tượng hình, làm giấy từ cây pa-pi-rút, giỏi toán học, y học và kỹ thuật ướp xác — nhờ ướp xác mà họ rất am hiểu cơ thể người.",
+    "Nước sông Nin dâng theo mùa bồi đắp phù sa màu mỡ, nhờ đó nông nghiệp trù phú và văn minh Ai Cập ra đời sớm; người xưa nói Ai Cập là 'quà tặng của sông Nin'.",
+    "Năm 332 trước Công nguyên, Ai Cập bị Alexander Đại đế chinh phục, khép lại thời kỳ các vương triều pharaon."
+   ],
+   "traps": [
+    "Kim tự tháp là LĂNG MỘ của pharaon, không phải đền thờ thần.",
+    "Chữ tượng hình là của Ai Cập, còn chữ hình nêm là của Lưỡng Hà — hai loại chữ hay bị hoán đổi."
+   ],
+   "aliases": [
+    "văn minh sông Nin",
+    "Ancient Egypt",
+    "Ê-díp-tô cổ đại"
+   ],
+   "year": null,
+   "date_start": "khoảng 3150 TCN",
+   "date_end": "332 TCN",
+   "place": "Đông Bắc châu Phi, lưu vực sông Nin",
+   "topic_title": "Văn hoá cổ đại",
+   "lessons": [
+    {
+     "book": "Sách cũ",
+     "bai": 6
+    },
+    {
+     "book": "CTST",
+     "bai": 6
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Ai_C%E1%BA%ADp_c%E1%BB%95_%C4%91%E1%BA%A1i"
+   ]
+  },
+  {
+   "name": "Lưỡng Hà cổ đại",
+   "kind": "period",
+   "summary": "Vùng đất giữa hai sông Ti-grơ và Ơ-phrát, nơi có chữ hình nêm, luật Ha-mu-ra-bi và hệ đếm cơ số 60.",
+   "facts": [
+    "Lưỡng Hà nghĩa là 'vùng đất giữa hai sông' Ti-grơ và Ơ-phrát, thuộc lãnh thổ Iraq ngày nay.",
+    "Người Sumer dựng những thành thị đầu tiên của loài người ở Lưỡng Hà từ khoảng thiên niên kỷ IV trước Công nguyên.",
+    "Chữ hình nêm của người Su-me ra đời vào khoảng cuối thiên niên kỷ IV trước Công nguyên (khoảng 3400 đến 3200 TCN), thuộc hàng chữ viết cổ nhất thế giới.",
+    "Vua Ha-mu-ra-bi (trị vì khoảng 1792-1750 TCN) ban bộ luật khắc trên bia đá bazan, ngày nay được chia thành 282 điều — bộ luật thành văn cổ nổi tiếng nhất, ra đời khoảng thập niên 1760 TCN (thế kỷ XVIII TCN).",
+    "Người Lưỡng Hà dùng hệ đếm cơ số 60, nguồn gốc của cách chia 60 phút một giờ và vòng tròn 360 độ ngày nay.",
+    "Vườn treo Ba-bi-lon của Lưỡng Hà được người xưa xếp vào bảy kỳ quan của thế giới cổ đại."
+   ],
+   "traps": [
+    "Chữ hình nêm là của LƯỠNG HÀ, chữ tượng hình là của AI CẬP — đừng đổi chỗ.",
+    "Hệ đếm cơ số 60 (giờ, phút, độ) là di sản Lưỡng Hà, còn hệ 10 chữ số có số 0 là của Ấn Độ."
+   ],
+   "aliases": [
+    "Mê-dô-pô-ta-mi",
+    "Mesopotamia",
+    "vùng đất giữa hai sông",
+    "Babylon"
+   ],
+   "year": null,
+   "date_start": "khoảng thiên niên kỷ IV TCN",
+   "date_end": null,
+   "place": "giữa sông Ti-grơ và Ơ-phrát (Iraq ngày nay)",
+   "topic_title": "Văn hoá cổ đại",
+   "lessons": [
+    {
+     "book": "Sách cũ",
+     "bai": 6
+    },
+    {
+     "book": "CTST",
+     "bai": 7
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/L%C6%B0%E1%BB%A1ng_H%C3%A0",
+    "https://vi.wikipedia.org/wiki/B%E1%BB%99_lu%E1%BA%ADt_Hammurabi"
+   ],
+   "fixed": [
+    "Niên đại chữ hình nêm: 'giữa thiên niên kỷ IV TCN' -> 'cuối thiên niên kỷ IV TCN (khoảng 3400-3200 TCN)'",
+    "Bộ luật Ha-mu-ra-bi: 'khoảng năm 1780 TCN, hơn 200 điều' -> 'khoảng thập niên 1760 TCN, 282 điều'; bổ sung niên đại trị vì 1792-1750 TCN"
+   ]
+  },
+  {
+   "name": "Ấn Độ cổ đại",
+   "kind": "period",
+   "summary": "Văn minh sông Ấn (khoảng 2800–1800 TCN) với Ha-rap-pa, Mô-hen-giô Đa-rô; quê hương của Phật giáo, chế độ đẳng cấp và hệ 10 chữ số.",
+   "facts": [
+    "Văn minh Ấn Độ ra đời ở lưu vực sông Ấn khoảng năm 2800 trước Công nguyên và suy tàn khoảng năm 1800 trước Công nguyên, trên vùng Tây Bắc tiểu lục địa Ấn Độ (phần lớn thuộc Pakistan ngày nay).",
+    "Hai thành thị tiêu biểu Ha-rap-pa và Mô-hen-giô Đa-rô được quy hoạch như bàn cờ, có hệ thống cấp thoát nước tiên tiến hiếm thấy thời cổ.",
+    "Khoảng giữa thiên niên kỷ II trước Công nguyên, người A-ri-a di cư vào Ấn Độ và hình thành chế độ đẳng cấp Vác-na chia xã hội thành bốn đẳng cấp.",
+    "Ấn Độ là quê hương của Phật giáo, ra đời vào thế kỷ VI trước Công nguyên do Thích Ca Mâu Ni sáng lập, cùng đạo Bà La Môn (sau là Hindu giáo).",
+    "Người Ấn Độ sáng tạo hệ 10 chữ số trong đó có chữ số 0 mà ngày nay cả thế giới đang dùng."
+   ],
+   "traps": [
+    "Hệ chữ số 0–9 do người ẤN ĐỘ sáng tạo, người Ả Rập chỉ truyền bá sang châu Âu — tên gọi 'chữ số Ả Rập' dễ gây hiểu lầm.",
+    "Văn minh sông Ấn (Ha-rap-pa) đã suy tàn từ khoảng 1800 TCN, TRƯỚC khi người A-ri-a vào Ấn Độ — hai giai đoạn khác nhau."
+   ],
+   "aliases": [
+    "văn minh lưu vực sông Ấn",
+    "văn minh Ấn Hằng",
+    "Harappa",
+    "Mohenjo-daro"
+   ],
+   "year": null,
+   "date_start": "khoảng 2800 TCN",
+   "date_end": "khoảng 1800 TCN (văn minh sông Ấn suy tàn)",
+   "place": "lưu vực sông Ấn và sông Hằng",
+   "topic_title": "Văn hoá cổ đại",
+   "lessons": [
+    {
+     "book": "Sách cũ",
+     "bai": 6
+    },
+    {
+     "book": "CTST",
+     "bai": 8
+    },
+    {
+     "book": "KNTT",
+     "bai": 8
+    },
+    {
+     "book": "Cánh diều",
+     "bai": 7
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/V%C4%83n_minh_l%C6%B0u_v%E1%BB%B1c_s%C3%B4ng_%E1%BA%A4n"
+   ],
+   "fixed": [
+    "Bổ sung date_end 'khoảng 1800 TCN' (trước để null, dễ bị đảo chiều mốc TCN khi sinh câu trả lời)"
+   ]
+  },
+  {
+   "name": "La Mã cổ đại",
+   "kind": "period",
+   "summary": "Từ thành Rô-ma dựng năm 753 TCN (truyền thuyết) đến cộng hòa 509 TCN rồi đế chế 27 TCN; để lại chữ La-tinh, luật La Mã, bê tông, Cô-li-dê.",
+   "facts": [
+    "Theo truyền thuyết, thành Rô-ma do Romulus dựng ngày 21 tháng 4 năm 753 trước Công nguyên bên sông Ti-brơ trên bán đảo I-ta-li-a.",
+    "Năm 509 trước Công nguyên, người La Mã lật đổ vua cuối cùng và thiết lập chế độ cộng hòa.",
+    "Năm 27 trước Công nguyên, Octavianus nhận danh hiệu Augustus, trở thành hoàng đế đầu tiên, mở đầu thời kỳ đế quốc La Mã.",
+    "Người La Mã để lại cho nhân loại chữ La-tinh, chữ số La Mã, hệ thống luật pháp ảnh hưởng đến luật nhiều nước hiện đại, kỹ thuật bê tông cùng mạng lưới đường sá và cầu dẫn nước.",
+    "Đấu trường Cô-li-dê ở Rô-ma là công trình kiến trúc tiêu biểu còn lại đến ngày nay.",
+    "Năm 476, đế quốc Tây La Mã sụp đổ — mốc thường dùng để khép lại thời cổ đại ở châu Âu."
+   ],
+   "traps": [
+    "Năm 753 TCN chỉ là mốc TRUYỀN THUYẾT dựng thành Rô-ma; thời đế quốc La Mã chỉ bắt đầu từ năm 27 TCN với Augustus."
+   ],
+   "aliases": [
+    "Rô-ma cổ đại",
+    "Ancient Rome",
+    "đế quốc La Mã",
+    "Cộng hòa La Mã"
+   ],
+   "year": null,
+   "date_start": "753 TCN (truyền thuyết dựng thành Rô-ma)",
+   "date_end": "476 (Tây La Mã sụp đổ)",
+   "place": "bán đảo I-ta-li-a",
+   "topic_title": "Văn hoá cổ đại",
+   "lessons": [
+    {
+     "book": "Sách cũ",
+     "bai": 6
+    },
+    {
+     "book": "CTST",
+     "bai": 11
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/La_M%C3%A3_c%E1%BB%95_%C4%91%E1%BA%A1i"
+   ]
+  },
+  {
+   "name": "Dòng thời gian lịch sử cổ đại (ôn tập lớp 6)",
+   "kind": "concept",
+   "summary": "Chuỗi mốc chính từ thời nguyên thủy đến các quốc gia cổ đại thế giới và buổi đầu dựng nước của Việt Nam, dùng để ôn tập.",
+   "facts": [
+    "Loài người trải qua hàng triệu năm nguyên thủy: theo SGK Lịch sử 6, Vượn người xuất hiện khoảng 5-6 triệu năm trước, Người tối cổ khoảng 4 triệu năm trước, Người tinh khôn khoảng 15 vạn năm trước.",
+    "Các quốc gia cổ đại phương Đông ra đời sớm nhất bên các sông lớn: Ai Cập thống nhất khoảng năm 3150 TCN, thành thị Sumer ở Lưỡng Hà có từ thiên niên kỷ IV TCN.",
+    "Phương Tây hình thành muộn hơn: các thành bang Hy Lạp từ thế kỷ VIII TCN và thành Rô-ma theo truyền thuyết dựng năm 753 TCN.",
+    "Ở Việt Nam, dấu tích Người tối cổ sớm nhất là công cụ đá ở An Khê (Gia Lai) khoảng 80 vạn năm; răng hóa thạch ở hang Thẩm Khuyên, Thẩm Hai (Lạng Sơn) có niên đại khoảng 40 vạn năm.",
+    "Nước Văn Lang — nhà nước đầu tiên của người Việt — ra đời khoảng thế kỷ VII TCN, kế tiếp là nước Âu Lạc từ khoảng năm 208 TCN đến năm 179 TCN."
+   ],
+   "traps": [
+    "Thứ tự ra đời: phương Đông (cuối thiên niên kỷ IV TCN) TRƯỚC phương Tây (đầu thiên niên kỷ I TCN) — hay bị đảo ngược khi ôn tập."
+   ],
+   "aliases": [
+    "ôn tập lịch sử cổ đại",
+    "niên biểu lịch sử lớp 6"
+   ],
+   "year": null,
+   "date_start": null,
+   "date_end": null,
+   "place": null,
+   "topic_title": "Ôn tập",
+   "lessons": [
+    {
+     "book": "Sách cũ",
+     "bai": 7
+    },
+    {
+     "book": "Sách cũ",
+     "bai": 28
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Ai_C%E1%BA%ADp_c%E1%BB%95_%C4%91%E1%BA%A1i",
+    "https://vi.wikipedia.org/wiki/V%C4%83n_Lang",
+    "https://vietjack.com/lich-su-6-cd/trac-nghiem-bai-3-nguon-goc-loai-nguoi.jsp",
+    "https://vnexpress.net/dau-tich-hang-nghin-di-chi-do-da-hon-80-van-nam-4556710.html"
+   ],
+   "fixed": [
+    "Đồng bộ mốc người nguyên thủy theo SGK GDPT 2018 (4 triệu / 15 vạn năm) thay cho 1,8 triệu / 300.000 năm",
+    "Bổ sung An Khê (Gia Lai, ~80 vạn năm) là dấu tích Người tối cổ SỚM NHẤT ở Việt Nam"
+   ]
+  },
+  {
+   "name": "Dấu tích Người tối cổ ở Việt Nam",
+   "kind": "concept",
+   "summary": "Công cụ đá ở An Khê (Gia Lai) khoảng 80 vạn năm, răng hóa thạch ở Thẩm Khuyên - Thẩm Hai (Lạng Sơn) và công cụ đá ở Núi Đọ (Thanh Hóa) khoảng 40-30 vạn năm chứng tỏ Người tối cổ sớm có mặt ở Việt Nam.",
+   "facts": [
+    "Dấu tích Người tối cổ sớm nhất trên đất nước ta là bộ công cụ đá (rìu tay, mũi nhọn) ở An Khê, thượng lưu sông Ba (Gia Lai), niên đại khoảng 80 vạn năm.",
+    "SGK Lịch sử 6 (GDPT 2018) còn nêu các địa điểm Xuân Lộc (Đồng Nai), Núi Đọ (Thanh Hóa), Thẩm Khuyên - Thẩm Hai (Lạng Sơn) là nơi tìm thấy dấu tích Người tối cổ.",
+    "Ở hang Thẩm Khuyên và Thẩm Hai (Lạng Sơn), các nhà khảo cổ tìm thấy những chiếc răng hóa thạch của Người tối cổ (Homo erectus) niên đại khoảng 40 đến 30 vạn năm.",
+    "Ở Núi Đọ (Thanh Hóa), người ta phát hiện công cụ đá ghè đẽo thô sơ khoảng 30 vạn năm tuổi, trong đó mảnh tước chiếm tới 95% và có 8 chiếc rìu tay.",
+    "Năm 1960, các nhà khảo cổ (trong đó có giáo sư Liên Xô Boriskovski) xác nhận Núi Đọ là di chỉ sơ kỳ thời đá cũ ở Việt Nam.",
+    "Người tối cổ ở Việt Nam dùng công cụ đá để chặt cây, xẻ thịt thú săn được — cách kiếm sống sơ khai bằng săn bắt và hái lượm.",
+    "Những dấu tích này chứng tỏ Việt Nam là một trong những nơi Người tối cổ sinh sống từ rất sớm."
+   ],
+   "traps": [
+    "Ở Thẩm Khuyên – Thẩm Hai tìm thấy RĂNG hóa thạch, còn ở Núi Đọ chỉ tìm thấy CÔNG CỤ ĐÁ — hai loại dấu tích hay bị lẫn với nhau.",
+    "Địa điểm có dấu tích Người tối cổ SỚM NHẤT ở Việt Nam là AN KHÊ (Gia Lai, ~80 vạn năm), không phải Thẩm Khuyên hay Núi Đọ (~40-30 vạn năm)."
+   ],
+   "aliases": [
+    "Thẩm Khuyên",
+    "Thẩm Hai",
+    "Núi Đọ",
+    "người tối cổ trên đất nước ta",
+    "An Khê",
+    "Xuân Lộc",
+    "Rộc Tưng"
+   ],
+   "year": null,
+   "date_start": null,
+   "date_end": null,
+   "place": "Gia Lai, Lạng Sơn, Thanh Hóa, Đồng Nai",
+   "topic_title": "Thời nguyên thuỷ trên đất nước ta",
+   "lessons": [
+    {
+     "book": "Sách cũ",
+     "bai": 8
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/N%C3%BAi_%C4%90%E1%BB%8D",
+    "https://vnexpress.net/dau-tich-hang-nghin-di-chi-do-da-hon-80-van-nam-4556710.html",
+    "https://vietjack.com/lich-su-6-cd/trac-nghiem-bai-3-nguon-goc-loai-nguoi.jsp"
+   ],
+   "fixed": [
+    "Bổ sung An Khê (Gia Lai, ~80 vạn năm) — dấu tích Người tối cổ sớm nhất ở Việt Nam, trước thẻ bỏ sót",
+    "Bỏ nguồn loigiaihay, thay bằng vi.wikipedia Núi Đọ + báo VnExpress về An Khê"
+   ]
+  },
+  {
+   "name": "Văn hóa Hòa Bình – Bắc Sơn",
+   "kind": "concept",
+   "summary": "Hai nền văn hóa của Người tinh khôn ở miền Bắc Việt Nam (khoảng 12.000–8.000 năm trước): đá cuội ghè đẽo rồi mài lưỡi, gốm sớm, trồng trọt sơ khai.",
+   "facts": [
+    "Văn hóa Hòa Bình có niên đại khoảng 12.000 đến 10.000 năm trước Công nguyên (giai đoạn sớm có di chỉ tới khoảng 15.000 năm cách ngày nay), cư dân sống trong hang động và mái đá vùng núi đá vôi Bắc Bộ.",
+    "Tên gọi 'văn hóa Hòa Bình' do nữ khảo cổ học người Pháp Madeleine Colani đề xuất năm 1932 và được Đại hội các nhà Tiền sử Viễn Đông họp ở Hà Nội thông qua.",
+    "Công cụ đặc trưng của cư dân Hòa Bình là hòn đá cuội được ghè đẽo một mặt hoặc chỉ ghè phần lưỡi.",
+    "Cư dân văn hóa Hòa Bình đã biết trồng trọt sơ khai (bầu, bí) từ hơn 11.000 năm trước — thuộc hàng sớm nhất thế giới; bằng chứng nổi tiếng nhất là ở hang Ma (Spirit Cave, Thái Lan), thuộc phạm vi văn hóa Hòa Bình chứ không nằm trên đất Việt Nam.",
+    "Văn hóa Bắc Sơn (khoảng 10.000 đến 8.000 năm trước) phát triển từ cư dân Hòa Bình, phân bố ở Lạng Sơn, Thái Nguyên và nhiều tỉnh khác.",
+    "Cư dân Bắc Sơn biết mài lưỡi rìu đá và làm đồ gốm sớm — bước tiến kỹ thuật lớn so với thời chỉ ghè đẽo.",
+    "Nhờ rìu mài sắc hơn và có đồ gốm đựng nấu, cuộc sống cư dân Bắc Sơn định cư ổn định hơn, mở đường sang thời đá mới."
+   ],
+   "traps": [
+    "Hòa Bình – Bắc Sơn là văn hóa của NGƯỜI TINH KHÔN (đá giữa – đá mới), không phải của Người tối cổ như Núi Đọ.",
+    "Trình tự kỹ thuật: ghè đẽo (Hòa Bình) có TRƯỚC, mài lưỡi (Bắc Sơn) có SAU — hay bị kể ngược.",
+    "Niên đại hai văn hóa dùng hai cách nói khác nhau: Hòa Bình thường ghi '12.000-10.000 TCN', Bắc Sơn thường ghi '10.000-8.000 năm CÁCH NGÀY NAY' — đừng trộn hai đơn vị."
+   ],
+   "aliases": [
+    "văn hóa Hòa Bình",
+    "văn hóa Bắc Sơn",
+    "rìu Bắc Sơn",
+    "Hoabinhian"
+   ],
+   "year": null,
+   "date_start": "khoảng 12.000 TCN",
+   "date_end": "khoảng 6.000 TCN (tức khoảng 8.000 năm cách ngày nay, hết văn hóa Bắc Sơn)",
+   "place": "miền núi Bắc Bộ Việt Nam",
+   "topic_title": "Thời nguyên thuỷ trên đất nước ta",
+   "lessons": [
+    {
+     "book": "Sách cũ",
+     "bai": 8
+    },
+    {
+     "book": "Sách cũ",
+     "bai": 9
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/V%C4%83n_h%C3%B3a_H%C3%B2a_B%C3%ACnh",
+    "https://vi.wikipedia.org/wiki/V%C4%83n_h%C3%B3a_B%E1%BA%AFc_S%C6%A1n"
+   ],
+   "fixed": [
+    "date_end lẫn đơn vị ('khoảng 8.000 năm trước' cạnh date_start ghi TCN) -> quy về 'khoảng 6.000 TCN (~8.000 năm cách ngày nay)'",
+    "Nói rõ bằng chứng trồng trọt hơn 11.000 năm là ở hang Ma (Thái Lan), tránh hiểu nhầm là di chỉ Việt Nam",
+    "Bổ sung Madeleine Colani đặt tên năm 1932"
+   ]
+  },
+  {
+   "name": "Văn hóa Phùng Nguyên và thuật luyện kim",
+   "kind": "concept",
+   "summary": "Khoảng 2000–1500 TCN ở lưu vực sông Hồng, cư dân Phùng Nguyên biết luyện kim (đồng thau) và trồng lúa nước — chuyển biến kinh tế mở đường cho Văn Lang.",
+   "facts": [
+    "Văn hóa Phùng Nguyên tồn tại khoảng năm 2000 đến 1500 trước Công nguyên ở lưu vực sông Hồng, đặt tên theo di chỉ ở xã Phùng Nguyên, huyện Lâm Thao, Phú Thọ.",
+    "Cư dân Phùng Nguyên đạt kỹ thuật mài, cưa đá tinh xảo và làm đồ gốm với hoa văn phong phú.",
+    "Trong các di chỉ Phùng Nguyên tìm thấy cục đồng và xỉ đồng — bằng chứng thuật luyện kim (đúc đồng thau gồm đồng pha thiếc) đã ra đời ở nước ta khoảng 4.000 năm trước.",
+    "Hạt gạo cháy tìm thấy trong di chỉ chứng tỏ nghề nông trồng lúa nước đã xuất hiện từ thời Phùng Nguyên.",
+    "Nhờ công cụ kim loại và nghề trồng lúa nước, năng suất lao động tăng lên, con người dần định cư lâu dài ở đồng bằng ven sông lớn — tiền đề cho nước Văn Lang ra đời."
+   ],
+   "traps": [
+    "Thuật luyện kim ở Việt Nam bắt đầu từ văn hóa PHÙNG NGUYÊN (khoảng 4.000 năm trước), còn đỉnh cao nghề đúc đồng (trống đồng) thuộc văn hóa ĐÔNG SƠN (từ khoảng 800 TCN) — hai mốc khác nhau."
+   ],
+   "aliases": [
+    "Phùng Nguyên",
+    "thuật luyện kim",
+    "nghề nông trồng lúa nước"
+   ],
+   "year": null,
+   "date_start": "khoảng 2000 TCN",
+   "date_end": "khoảng 1500 TCN",
+   "place": "lưu vực sông Hồng (Phú Thọ, Vĩnh Phúc, Hà Nội...)",
+   "topic_title": "Những chuyển biến trong đời sống kinh tế",
+   "lessons": [
+    {
+     "book": "Sách cũ",
+     "bai": 10
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/V%C4%83n_h%C3%B3a_Ph%C3%B9ng_Nguy%C3%AAn"
+   ]
+  },
+  {
+   "name": "Văn hóa Đông Sơn",
+   "kind": "concept",
+   "summary": "Văn hóa đồ đồng phát triển rực rỡ khoảng 800–200 TCN ở lưu vực sông Hồng, Mã, Cả — nền tảng vật chất của nhà nước Văn Lang – Âu Lạc.",
+   "facts": [
+    "Văn hóa Đông Sơn tồn tại khoảng từ năm 800 đến năm 200 trước Công nguyên, ở buổi đầu thời đại đồ đồng – đồ sắt sớm của Việt Nam.",
+    "Địa bàn văn hóa Đông Sơn trải dọc lưu vực sông Hồng, sông Mã và sông Cả, tức Bắc Bộ và Bắc Trung Bộ ngày nay.",
+    "Năm 1924, ông Nguyễn Văn Lắm tình cờ tìm thấy đồ đồng ở làng Đông Sơn (Thanh Hóa) bên sông Mã, và đến năm 1934 nền văn hóa này được đặt tên khoa học.",
+    "Người Đông Sơn đúc đồng bằng hợp kim đồng – thiếc – chì với kỹ thuật tinh xảo, công cụ và vũ khí bằng đồng trở nên phổ biến, tiêu biểu nhất là trống đồng.",
+    "Sản xuất phát triển kéo theo chuyển biến xã hội: có phân công lao động giữa nông nghiệp và thủ công, làng bản (chiềng, chạ) và bộ lạc ra đời, xã hội bắt đầu phân hóa giàu nghèo.",
+    "Chính trên cơ sở kinh tế – xã hội của văn hóa Đông Sơn mà nhà nước Văn Lang rồi Âu Lạc ra đời."
+   ],
+   "traps": [
+    "Đông Sơn là tên MỘT LÀNG ở Thanh Hóa nơi phát hiện di vật năm 1924 — không phải tên phương hướng.",
+    "Trống đồng là sản phẩm của người Việt cổ thời Đông Sơn (trước Bắc thuộc), không phải đồ du nhập từ Trung Hoa."
+   ],
+   "aliases": [
+    "Đông Sơn",
+    "văn minh Đông Sơn",
+    "thời đại đồ đồng Việt Nam"
+   ],
+   "year": null,
+   "date_start": "khoảng 800 TCN",
+   "date_end": "khoảng 200 TCN",
+   "place": "lưu vực sông Hồng, sông Mã, sông Cả",
+   "topic_title": "Những chuyển biến về xã hội",
+   "lessons": [
+    {
+     "book": "Sách cũ",
+     "bai": 11
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/V%C4%83n_h%C3%B3a_%C4%90%C3%B4ng_S%C6%A1n"
+   ]
+  },
+  {
+   "name": "Nước Văn Lang",
+   "kind": "period",
+   "summary": "Nhà nước đầu tiên của người Việt, ra đời khoảng thế kỷ VII TCN ở lưu vực sông Hồng, do các vua Hùng đứng đầu, kinh đô Phong Châu.",
+   "facts": [
+    "Nước Văn Lang — nhà nước đầu tiên của người Việt — ra đời vào khoảng thế kỷ VII trước Công nguyên ở lưu vực sông Hồng.",
+    "Đứng đầu nhà nước là Hùng Vương, ngôi vua cha truyền con nối, kinh đô đặt ở Phong Châu (vùng Việt Trì, Phú Thọ ngày nay).",
+    "Cả nước chia thành 15 bộ; giúp việc vua có Lạc hầu coi việc văn, Lạc tướng coi việc võ, còn đứng đầu chiềng chạ là Bồ chính.",
+    "Con trai vua gọi là Quan lang, con gái vua gọi là Mị nương.",
+    "Nhà nước Văn Lang chưa có luật pháp thành văn và quân đội thường trực; khi có giặc, trai tráng các chiềng chạ được huy động cùng chiến đấu.",
+    "Nhu cầu cùng nhau trị thủy sông Hồng để làm lúa nước và chống ngoại xâm là lý do khiến các bộ lạc Lạc Việt liên kết lại thành nhà nước Văn Lang."
+   ],
+   "traps": [
+    "SGK cũ ghi Văn Lang ra đời 'khoảng năm 700 TCN', SGK mới ghi 'khoảng thế kỷ VII TCN' — cùng một mốc thời gian, không phải hai sự kiện khác nhau.",
+    "Kinh đô Văn Lang là PHONG CHÂU (Phú Thọ), còn Cổ Loa là kinh đô của ÂU LẠC — hai kinh đô hay bị nhầm.",
+    "Hùng Vương là danh xưng chung của NHIỀU đời vua, không phải tên một người duy nhất."
+   ],
+   "aliases": [
+    "nhà nước Văn Lang",
+    "thời Hùng Vương",
+    "thời đại Hùng Vương",
+    "Văn Lang"
+   ],
+   "actors": [
+    "Hùng Vương",
+    "Lạc hầu",
+    "Lạc tướng"
+   ],
+   "year": null,
+   "date_start": "khoảng thế kỷ VII TCN",
+   "date_end": "khoảng 208 TCN (sử cũ chép 258 TCN)",
+   "place": "lưu vực sông Hồng, kinh đô Phong Châu (Phú Thọ)",
+   "topic_title": "Nước Văn Lang",
+   "lessons": [
+    {
+     "book": "Sách cũ",
+     "bai": 12
+    },
+    {
+     "book": "Cánh diều",
+     "bai": 12
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/V%C4%83n_Lang"
+   ]
+  },
+  {
+   "name": "Nước Âu Lạc",
+   "kind": "period",
+   "summary": "Nhà nước của An Dương Vương ra đời sau kháng chiến chống Tần (khoảng 208 TCN), kinh đô Cổ Loa, tồn tại đến năm 179 TCN thì rơi vào tay Triệu Đà.",
+   "facts": [
+    "Cuối thế kỷ III trước Công nguyên (khoảng 218–208 TCN), người Âu Việt và Lạc Việt đoàn kết kháng chiến chống hàng chục vạn quân Tần do tướng Đồ Thư chỉ huy, dùng lối đánh lâu dài khiến quân Tần thất bại nặng.",
+    "Sau thắng lợi, khoảng năm 208 trước Công nguyên (sử cũ Việt Nam chép năm 257 TCN), thủ lĩnh Âu Việt là Thục Phán xưng An Dương Vương, hợp nhất Âu Việt và Lạc Việt lập nước Âu Lạc.",
+    "Kinh đô Âu Lạc đặt ở Phong Khê với tòa thành Cổ Loa (nay thuộc Đông Anh, Hà Nội) — trung tâm chính trị và quân sự của cả nước.",
+    "Thành Cổ Loa đắp theo kiểu vòng xoáy ốc, dấu tích còn ba vòng thành, vòng ngoài chu vi tới 8 km, kết hợp hào nước để phòng thủ cả thủy lẫn bộ.",
+    "Tướng Cao Lỗ chế ra nỏ bắn một lần nhiều mũi tên (nỏ Liên Châu) — vũ khí lợi hại của Âu Lạc, đi vào truyền thuyết thành 'nỏ thần'.",
+    "Năm 179 trước Công nguyên, Triệu Đà vua Nam Việt đánh bại An Dương Vương và sáp nhập Âu Lạc vào Nam Việt — mở đầu hơn một nghìn năm Bắc thuộc."
+   ],
+   "traps": [
+    "Âu Lạc mất vào tay TRIỆU ĐÀ năm 179 TCN, không phải năm 111 TCN — năm 111 TCN là khi nhà Hán diệt nước Nam Việt.",
+    "Có hai thuyết về năm lập Âu Lạc: 257 TCN theo sử cũ và khoảng 208 TCN theo SGK hiện hành (dựa Sử ký Tư Mã Thiên).",
+    "Kháng chiến chống Tần thắng lợi diễn ra TRƯỚC, việc lập nước Âu Lạc là kết quả SAU — đừng đảo ngược nhân quả."
+   ],
+   "aliases": [
+    "Âu Lạc",
+    "nước Âu Lạc",
+    "nhà nước Âu Lạc của An Dương Vương"
+   ],
+   "actors": [
+    "Thục Phán An Dương Vương",
+    "Cao Lỗ",
+    "Đồ Thư",
+    "Triệu Đà"
+   ],
+   "year": null,
+   "date_start": "khoảng 208 TCN (thuyết khác: 257 TCN)",
+   "date_end": "179 TCN",
+   "place": "Bắc Bộ Việt Nam, kinh đô Cổ Loa (Đông Anh, Hà Nội)",
+   "topic_title": "Nước Văn Lang",
+   "lessons": [
+    {
+     "book": "Sách cũ",
+     "bai": 14
+    },
+    {
+     "book": "Cánh diều",
+     "bai": 13
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/%C3%82u_L%E1%BA%A1c",
+    "https://vi.wikipedia.org/wiki/C%E1%BB%95_Loa"
+   ]
+  },
+  {
+   "name": "An Dương Vương (Thục Phán)",
+   "kind": "person",
+   "summary": "Thủ lĩnh Âu Việt chỉ huy kháng chiến chống Tần, lập nước Âu Lạc, xây thành Cổ Loa; thất bại trước Triệu Đà năm 179 TCN.",
+   "facts": [
+    "An Dương Vương tên thật là Thục Phán, thủ lĩnh người Âu Việt, người chỉ huy cuộc kháng chiến chống quân Tần cuối thế kỷ III trước Công nguyên.",
+    "Sau khi thắng quân Tần, Thục Phán lập nước Âu Lạc (khoảng năm 208 TCN theo SGK hiện hành, sử cũ chép 257 TCN), tự xưng An Dương Vương và đóng đô ở Cổ Loa.",
+    "Ông cho xây thành Cổ Loa kiên cố nhiều vòng và giao tướng Cao Lỗ chế nỏ Liên Châu bắn một lần nhiều mũi tên.",
+    "Năm 179 trước Công nguyên, do chủ quan mắc mưu Triệu Đà, An Dương Vương thất bại và nước Âu Lạc rơi vào tay Nam Việt.",
+    "Truyền thuyết Mị Châu – Trọng Thủy kể việc bí mật 'nỏ thần' bị đánh cắp qua cuộc hôn nhân con trai Triệu Đà với con gái An Dương Vương — phản ánh bài học mất cảnh giác dẫn đến mất nước."
+   ],
+   "traps": [
+    "Mị Châu – Trọng Thủy là TRUYỀN THUYẾT phản ánh việc mất nước Âu Lạc, không phải tư liệu chính xác từng chi tiết.",
+    "An Dương Vương là vua nước ÂU LẠC, đừng nhầm với Hùng Vương là vua nước VĂN LANG."
+   ],
+   "aliases": [
+    "Thục Phán",
+    "An Dương Vương",
+    "Thục Phán An Dương Vương"
+   ],
+   "actors": [
+    "Thục Phán",
+    "Cao Lỗ",
+    "Triệu Đà",
+    "Mị Châu",
+    "Trọng Thủy"
+   ],
+   "year": null,
+   "date_start": null,
+   "date_end": null,
+   "place": "Cổ Loa (Đông Anh, Hà Nội)",
+   "topic_title": "Nước Văn Lang",
+   "lessons": [
+    {
+     "book": "Sách cũ",
+     "bai": 14
+    },
+    {
+     "book": "Cánh diều",
+     "bai": 13
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/An_D%C6%B0%C6%A1ng_V%C6%B0%C6%A1ng"
+   ]
+  },
+  {
+   "name": "Đời sống cư dân Văn Lang",
+   "kind": "concept",
+   "summary": "Cư dân Văn Lang (thế kỷ VII–III TCN) trồng lúa nước, ở nhà sàn, ăn cơm nếp cơm tẻ, có tục xăm mình, nhuộm răng, ăn trầu và thờ cúng tổ tiên.",
+   "facts": [
+    "Cư dân Văn Lang thời Hùng Vương (khoảng thế kỷ VII đến thế kỷ III trước Công nguyên) sống chủ yếu bằng nghề trồng lúa nước ven sông Hồng.",
+    "Họ dựng nhà sàn bằng gỗ để ở, vừa tránh thú dữ vừa tránh ngập lụt.",
+    "Thức ăn chính là cơm nếp, cơm tẻ ăn cùng cá, thịt, mắm; họ biết nấu cơm trong ống tre và dùng gừng làm gia vị.",
+    "Người Văn Lang có tục xăm mình, nhuộm răng đen, ăn trầu; theo truyền thuyết, tục xăm mình là để tránh bị thuồng luồng làm hại khi xuống nước.",
+    "Về tín ngưỡng, họ thờ cúng tổ tiên và các lực lượng tự nhiên như thần Sông, thần Núi, thần Mặt Trời; trống đồng được dùng trong lễ hội.",
+    "Truyền thuyết bánh chưng, bánh giầy gắn với thời Hùng Vương phản ánh nghề nông trồng lúa và tấm lòng biết ơn tổ tiên, trời đất.",
+    "Nhiều hiểu biết về đời sống thời này được ghi qua truyền thuyết (như sách Lĩnh Nam chích quái) kết hợp với bằng chứng khảo cổ của văn hóa Đông Sơn."
+   ],
+   "traps": [
+    "Tục xăm mình của cư dân Văn Lang gắn với việc tránh thuồng luồng khi đánh cá (theo truyền thuyết), không phải chỉ để trang trí.",
+    "Cư dân Văn Lang ở NHÀ SÀN, không phải nhà đất — chi tiết hay bị nói sai."
+   ],
+   "aliases": [
+    "đời sống vật chất và tinh thần thời Hùng Vương",
+    "phong tục thời Văn Lang"
+   ],
+   "year": null,
+   "date_start": "khoảng thế kỷ VII TCN",
+   "date_end": "khoảng thế kỷ III TCN",
+   "place": "lưu vực sông Hồng",
+   "topic_title": "Đời sống vật chất và tinh thần của cư dân Văn Lang",
+   "lessons": [
+    {
+     "book": "Sách cũ",
+     "bai": 13
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/H%E1%BB%93ng_B%C3%A0ng"
+   ]
+  },
+  {
+   "name": "Trống đồng Đông Sơn",
+   "kind": "artifact",
+   "summary": "Hiện vật tiêu biểu nhất của văn hóa Đông Sơn thời các vua Hùng, nổi tiếng nhất là trống Ngọc Lũ với hoa văn tinh xảo.",
+   "facts": [
+    "Trống đồng Đông Sơn là hiện vật tiêu biểu của văn hóa Đông Sơn, xuất hiện từ khoảng thế kỷ VII đến VI trước Công nguyên, thời các vua Hùng.",
+    "Nổi tiếng nhất là trống đồng Ngọc Lũ với hệ thống hoa văn dày đặc và tinh xảo bậc nhất.",
+    "Chính giữa mặt trống là hình ngôi sao nhiều cánh tượng trưng cho tục thờ thần Mặt Trời, xung quanh là hình chim (vật tổ), người giã gạo, đua thuyền và chiến binh.",
+    "Trống đồng vừa là nhạc khí trong lễ hội, vừa là hiệu lệnh chiến đấu, biểu tượng quyền lực của thủ lĩnh và đồ tùy táng chôn theo người chết.",
+    "Trống đồng cho thấy kỹ thuật đúc đồng của người Việt cổ đạt trình độ rất cao từ hơn 2.000 năm trước, đồng thời là 'cuốn sử bằng hình ảnh' về đời sống, tín ngưỡng thời dựng nước."
+   ],
+   "traps": [
+    "Trống đồng Đông Sơn do người Việt cổ tự đúc từ thời Hùng Vương, không phải sản phẩm du nhập từ Trung Hoa.",
+    "Hình chim trên trống đồng thường được gọi là 'chim Lạc' — đây là hình vật tổ, còn tên gọi 'chim Lạc' do người đời sau đặt."
+   ],
+   "aliases": [
+    "trống đồng",
+    "trống đồng Ngọc Lũ",
+    "trống Đông Sơn"
+   ],
+   "year": null,
+   "date_start": "khoảng thế kỷ VII TCN",
+   "date_end": null,
+   "place": "Bắc Bộ và Bắc Trung Bộ Việt Nam",
+   "topic_title": "Đời sống vật chất và tinh thần của cư dân Văn Lang",
+   "lessons": [
+    {
+     "book": "Sách cũ",
+     "bai": 13
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Tr%E1%BB%91ng_%C4%91%E1%BB%93ng_%C4%90%C3%B4ng_S%C6%A1n"
+   ]
+  },
+  {
+   "name": "Triệu Đà xâm lược Âu Lạc (179 TCN)",
+   "kind": "event",
+   "summary": "Năm 179 TCN, Triệu Đà — vua nước Nam Việt — đánh bại An Dương Vương, sáp nhập Âu Lạc vào Nam Việt, mở đầu hơn một nghìn năm Bắc thuộc.",
+   "facts": [
+    "Năm 179 trước Công nguyên, Triệu Đà, vua nước Nam Việt (đóng đô ở Phiên Ngung, Quảng Đông ngày nay), đánh bại An Dương Vương và sáp nhập Âu Lạc vào Nam Việt.",
+    "Trước đó Triệu Đà nhiều lần đem quân đánh Âu Lạc nhưng đều thất bại vì thành Cổ Loa kiên cố và nỏ Liên Châu lợi hại, nên phải xin giảng hòa và dùng kế cho con là Trọng Thủy sang ở rể.",
+    "Chính việc An Dương Vương mất cảnh giác, nhận lời giảng hòa và để lộ bí mật quân sự đã dẫn tới thất bại năm 179 TCN — nguyên nhân bên trong chứ không phải vì quân Triệu mạnh hơn hẳn.",
+    "Năm 179 TCN được coi là mốc mở đầu thời kỳ Bắc thuộc kéo dài hơn một nghìn năm trong lịch sử Việt Nam.",
+    "Năm 111 trước Công nguyên, nhà Hán diệt nước Nam Việt và đặt vùng Âu Lạc cũ thành các quận Giao Chỉ, Cửu Chân, Nhật Nam — đây là một mốc KHÁC, muộn hơn 179 TCN."
+   ],
+   "traps": [
+    "Âu Lạc rơi vào tay TRIỆU ĐÀ năm 179 TCN; năm 111 TCN mới là năm nhà HÁN diệt Nam Việt — hai mốc, hai đối thủ khác nhau, rất hay bị trả nhầm.",
+    "Người thôn tính Âu Lạc là Triệu Đà (nước Nam Việt), không phải nhà Tần — kháng chiến chống Tần (218-208 TCN) đã THẮNG và diễn ra TRƯỚC khi lập nước Âu Lạc.",
+    "Vua thua trận năm 179 TCN là An Dương Vương (Thục Phán) của nước ÂU LẠC, không phải Hùng Vương của nước Văn Lang."
+   ],
+   "aliases": [
+    "Triệu Đà thôn tính Âu Lạc",
+    "Âu Lạc mất nước 179 TCN",
+    "nước Âu Lạc rơi vào tay Nam Việt",
+    "mở đầu Bắc thuộc"
+   ],
+   "actors": [
+    "Triệu Đà",
+    "An Dương Vương (Thục Phán)",
+    "Trọng Thủy",
+    "Mị Châu"
+   ],
+   "year": -179,
+   "date_start": "179 TCN",
+   "date_end": "179 TCN",
+   "place": "Cổ Loa, Âu Lạc (Bắc Bộ Việt Nam)",
+   "topic_title": "Nước Âu Lạc",
+   "lessons": [
+    {
+     "book": "Sách cũ",
+     "bai": 15
+    },
+    {
+     "book": "Cánh diều",
+     "bai": 13
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/%C3%82u_L%E1%BA%A1c",
+    "https://vi.wikipedia.org/wiki/Tri%E1%BB%87u_%C4%90%C3%A0",
+    "https://vi.wikipedia.org/wiki/An_D%C6%B0%C6%A1ng_V%C6%B0%C6%A1ng"
+   ],
+   "fixed": [
+    "Thẻ MỚI thêm để phủ bẫy bắt buộc: Triệu Đà thôn tính Âu Lạc năm 179 TCN (phân biệt với 111 TCN)"
+   ]
+  }
+ ]
+}

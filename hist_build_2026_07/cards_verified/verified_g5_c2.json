@@ -1,0 +1,1769 @@
+{
+ "grade": 5,
+ "chunk": 2,
+ "cards": [
+  {
+   "name": "Quốc kì, Quốc huy, Quốc ca Việt Nam",
+   "kind": "concept",
+   "summary": "Ba biểu tượng thiêng liêng của nước Việt Nam: lá cờ đỏ sao vàng, Quốc huy và bài Tiến quân ca của nhạc sĩ Văn Cao.",
+   "facts": [
+    "Quốc kì Việt Nam là lá cờ đỏ sao vàng: nền đỏ tượng trưng cho máu đào của những người chiến đấu vì độc lập, ngôi sao vàng năm cánh tượng trưng cho các tầng lớp nhân dân (sĩ, nông, công, thương, binh) đoàn kết.",
+    "Lá cờ đỏ sao vàng xuất hiện lần đầu trong cuộc khởi nghĩa Nam Kỳ ngày 23/11/1940.",
+    "Ngày 5/9/1945, Chủ tịch Hồ Chí Minh ký sắc lệnh chọn cờ đỏ sao vàng làm Quốc kì, và Hiến pháp năm 1946 chính thức ghi nhận lá cờ này.",
+    "Quốc ca Việt Nam là bài 'Tiến quân ca' do nhạc sĩ Văn Cao sáng tác năm 1944, cả nhạc lẫn lời.",
+    "Ngày 17/8/1945, Đại hội Quốc dân họp ở Tân Trào chọn 'Tiến quân ca' làm Quốc ca; bài hát được cử hành trang trọng trong lễ Tuyên ngôn Độc lập ngày 2/9/1945 tại Quảng trường Ba Đình, và Hiến pháp năm 1946 ghi nhận cả Quốc kì lẫn Quốc ca.",
+    "Quốc huy Việt Nam hình tròn, nền đỏ, ở giữa có ngôi sao vàng năm cánh, xung quanh có bông lúa, ở dưới có nửa bánh xe răng và DÒNG CHỮ 'Cộng hoà xã hội chủ nghĩa Việt Nam' — thể hiện một nước nông nghiệp đang phát triển công nghiệp.",
+    "Mẫu Quốc huy do hoạ sĩ Bùi Trang Chước phác thảo, hoạ sĩ Trần Văn Cẩn chỉnh sửa hoàn thiện; Chủ tịch Hồ Chí Minh ký sắc lệnh ban hành ngày 14/1/1956 (sau năm 1976 sửa dòng quốc hiệu thành 'Cộng hoà xã hội chủ nghĩa Việt Nam')."
+   ],
+   "traps": [
+    "Tiến quân ca do VĂN CAO sáng tác — đừng nhầm với nhà văn Nam Cao hay nhạc sĩ Phạm Tuyên.",
+    "Tác giả mẫu quốc kì cờ đỏ sao vàng đến nay CHƯA được xác định chắc chắn (có giả thuyết là Nguyễn Hữu Tiến) — không nên khẳng định chắc một người.",
+    "Quốc huy CÓ dòng chữ quốc hiệu 'Cộng hoà xã hội chủ nghĩa Việt Nam' ở dưới — mô tả thiếu dòng chữ này là chưa đủ."
+   ],
+   "aliases": [
+    "Cờ đỏ sao vàng",
+    "Tiến quân ca",
+    "Quốc kỳ Việt Nam",
+    "Quốc ca Việt Nam"
+   ],
+   "actors": [
+    "Văn Cao",
+    "Hồ Chí Minh"
+   ],
+   "year": null,
+   "date_start": "1940-11-23",
+   "date_end": null,
+   "place": "Việt Nam",
+   "topic_title": "Vị trí địa lí, lãnh thổ, đơn vị hành chính, Quốc kì, Quốc huy, Quốc ca",
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 1
+    },
+    {
+     "book": "Cánh diều",
+     "bai": 1
+    },
+    {
+     "book": "CTST",
+     "bai": 1
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Qu%E1%BB%91c_k%E1%BB%B3_Vi%E1%BB%87t_Nam",
+    "https://vi.wikipedia.org/wiki/Ti%E1%BA%BFn_qu%C3%A2n_ca",
+    "https://vi.wikipedia.org/wiki/Qu%E1%BB%91c_huy_Vi%E1%BB%87t_Nam"
+   ],
+   "fixed": [
+    "Bổ sung dòng chữ quốc hiệu 'Cộng hoà xã hội chủ nghĩa Việt Nam' trên Quốc huy (mô tả cũ thiếu) + tác giả Bùi Trang Chước/Trần Văn Cẩn, sắc lệnh 14/1/1956",
+    "Nêu rõ Quốc ca được Đại hội Quốc dân Tân Trào (17/8/1945) chọn, Hiến pháp 1946 ghi nhận"
+   ]
+  },
+  {
+   "name": "Vị trí địa lí, lãnh thổ và đơn vị hành chính Việt Nam",
+   "kind": "concept",
+   "summary": "Việt Nam nằm ở Đông Nam Á, trên bán đảo Đông Dương; lãnh thổ gồm đất liền, biển, đảo và vùng trời, hiện chia thành 34 đơn vị hành chính cấp tỉnh.",
+   "facts": [
+    "Việt Nam nằm ở khu vực Đông Nam Á, trên bán đảo Đông Dương: phía bắc giáp Trung Quốc, phía tây giáp Lào và Campuchia, phía đông và nam trông ra Biển Đông.",
+    "Lãnh thổ Việt Nam là một khối thống nhất gồm đất liền, vùng biển với các đảo và quần đảo, cùng vùng trời; diện tích phần đất liền khoảng 331.000 km².",
+    "Thủ đô của Việt Nam là Hà Nội.",
+    "Trong nhiều năm Việt Nam có 63 tỉnh, thành phố; theo Nghị quyết 202/2025/QH15 ngày 12/6/2025 của Quốc hội, cả nước sắp xếp còn 34 đơn vị hành chính cấp tỉnh (28 tỉnh và 6 thành phố trực thuộc trung ương), chính quyền địa phương ở các tỉnh, thành mới chính thức hoạt động từ ngày 1/7/2025."
+   ],
+   "traps": [
+    "SGK in trước năm 2025 ghi Việt Nam có 63 tỉnh, thành phố — từ ngày 1/7/2025 cả nước chỉ còn 34 đơn vị hành chính cấp tỉnh sau đợt sáp nhập."
+   ],
+   "aliases": [
+    "Lãnh thổ Việt Nam",
+    "34 tỉnh thành",
+    "Đơn vị hành chính Việt Nam"
+   ],
+   "actors": [],
+   "year": null,
+   "date_start": null,
+   "date_end": null,
+   "place": "Việt Nam",
+   "topic_title": "Vị trí địa lí, lãnh thổ, đơn vị hành chính, Quốc kì, Quốc huy, Quốc ca",
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 1
+    },
+    {
+     "book": "Cánh diều",
+     "bai": 1
+    },
+    {
+     "book": "CTST",
+     "bai": 1
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/T%E1%BB%89nh_th%C3%A0nh_Vi%E1%BB%87t_Nam",
+    "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%8Ba_l%C3%BD_Vi%E1%BB%87t_Nam",
+    "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-202-2025-qh15-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-119250612174148722.htm"
+   ],
+   "fixed": [
+    "Ghi rõ căn cứ pháp lý: Nghị quyết 202/2025/QH15 ngày 12/6/2025, cơ cấu 34 = 28 tỉnh + 6 thành phố"
+   ]
+  },
+  {
+   "name": "Thiên nhiên Việt Nam",
+   "kind": "concept",
+   "summary": "Đặc điểm tự nhiên nổi bật của Việt Nam: ba phần tư là đồi núi, khí hậu nhiệt đới gió mùa, hai đồng bằng lớn do sông Hồng và sông Cửu Long bồi đắp.",
+   "facts": [
+    "Trên phần đất liền Việt Nam, đồi núi chiếm khoảng ba phần tư diện tích, đồng bằng chỉ chiếm khoảng một phần tư.",
+    "Đỉnh Phan Xi Păng trên dãy Hoàng Liên Sơn cao 3.143 m, là đỉnh núi cao nhất Việt Nam, được mệnh danh 'nóc nhà Đông Dương'.",
+    "Hai đồng bằng lớn nhất nước là đồng bằng sông Hồng ở miền Bắc và đồng bằng sông Cửu Long ở miền Nam, đều do phù sa sông bồi đắp nên rất màu mỡ.",
+    "Việt Nam có khí hậu nhiệt đới gió mùa nóng ẩm, mưa nhiều; miền Bắc có mùa đông lạnh.",
+    "Nhờ khí hậu nóng ẩm và đồng bằng phù sa màu mỡ nên Việt Nam rất thuận lợi cho nghề trồng lúa nước.",
+    "Việt Nam có đường bờ biển dài khoảng 3.260 km chạy dọc phía đông đất nước."
+   ],
+   "traps": [
+    "Phan Xi Păng là đỉnh cao nhất VIỆT NAM và cả bán đảo Đông Dương (3.143 m) — không phải núi Bà Đen hay Ngũ Hành Sơn.",
+    "Đồi núi chiếm 3/4 diện tích chứ không phải đồng bằng — Việt Nam là nước nhiều đồi núi."
+   ],
+   "aliases": [
+    "Địa hình Việt Nam",
+    "Khí hậu Việt Nam",
+    "Fansipan",
+    "Phan Xi Păng"
+   ],
+   "actors": [],
+   "year": null,
+   "date_start": null,
+   "date_end": null,
+   "place": "Việt Nam",
+   "topic_title": "Thiên nhiên Việt Nam",
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 2
+    },
+    {
+     "book": "Cánh diều",
+     "bai": 2
+    },
+    {
+     "book": "CTST",
+     "bai": 2
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%8Ba_l%C3%BD_Vi%E1%BB%87t_Nam"
+   ]
+  },
+  {
+   "name": "Biển, đảo Việt Nam",
+   "kind": "place",
+   "summary": "Vùng biển Việt Nam thuộc Biển Đông với hàng nghìn đảo lớn nhỏ, trong đó có hai quần đảo xa bờ Hoàng Sa và Trường Sa.",
+   "facts": [
+    "Vùng biển Việt Nam là một phần của Biển Đông, tiếp giáp đường bờ biển dài khoảng 3.260 km.",
+    "Việt Nam có hàng nghìn hòn đảo lớn nhỏ, trong đó hai quần đảo xa bờ là Hoàng Sa và Trường Sa.",
+    "Quần đảo Hoàng Sa thuộc thành phố Đà Nẵng, còn quần đảo Trường Sa thuộc tỉnh Khánh Hoà (từ ngày 1/7/2025 được tổ chức thành đặc khu Trường Sa).",
+    "Biển đem lại cho nước ta nguồn lợi to lớn: hải sản, dầu khí, muối, du lịch và giao thông đường biển.",
+    "Vịnh Hạ Long là cảnh quan biển nổi tiếng của Việt Nam, được công nhận là di sản thiên nhiên thế giới.",
+    "Bảo vệ chủ quyền biển, đảo — nhất là Hoàng Sa, Trường Sa — là trách nhiệm thiêng liêng của mỗi người Việt Nam."
+   ],
+   "traps": [
+    "Hoàng Sa thuộc thành phố ĐÀ NẴNG, Trường Sa thuộc tỉnh KHÁNH HOÀ — đừng hoán đổi hai quần đảo.",
+    "Biển của Việt Nam là một phần của BIỂN ĐÔNG (không gọi là 'biển Thái Bình Dương' trong bài học)."
+   ],
+   "aliases": [
+    "Biển Đông",
+    "Quần đảo Hoàng Sa",
+    "Quần đảo Trường Sa",
+    "Đặc khu Trường Sa"
+   ],
+   "actors": [],
+   "year": null,
+   "date_start": null,
+   "date_end": null,
+   "place": "Biển Đông, Việt Nam",
+   "topic_title": "Biển, đảo Việt Nam",
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 3
+    },
+    {
+     "book": "Cánh diều",
+     "bai": 3
+    },
+    {
+     "book": "CTST",
+     "bai": 3
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Qu%E1%BA%A7n_%C4%91%E1%BA%A3o_Ho%C3%A0ng_Sa",
+    "https://vi.wikipedia.org/wiki/Tr%C6%B0%E1%BB%9Dng_Sa_(%C4%91%E1%BA%B7c_khu)"
+   ]
+  },
+  {
+   "name": "Dân cư và dân tộc ở Việt Nam",
+   "kind": "concept",
+   "summary": "Việt Nam là nước đông dân với 54 dân tộc anh em, trong đó người Kinh chiếm đa số.",
+   "facts": [
+    "Việt Nam có 54 dân tộc được công nhận, cùng chung sống gắn bó như anh em một nhà.",
+    "Người Kinh là dân tộc đông nhất, chiếm khoảng 85% dân số cả nước (85,32% theo Tổng điều tra dân số năm 2019).",
+    "Các dân tộc thiểu số đông dân như Tày, Thái, Mường, Nùng sinh sống chủ yếu ở vùng núi và trung du.",
+    "Theo Tổng điều tra dân số năm 2019 Việt Nam có hơn 96 triệu người, đến nay dân số đã vào khoảng 100 triệu, thuộc nhóm nước đông dân trên thế giới.",
+    "Dân cư Việt Nam phân bố không đều: đồng bằng và ven biển đông đúc, vùng núi thưa dân hơn.",
+    "Mỗi dân tộc có tiếng nói, trang phục và phong tục riêng, tạo nên nền văn hoá Việt Nam thống nhất mà đa dạng."
+   ],
+   "traps": [
+    "Việt Nam có 54 dân tộc (không phải 53 hay 64); người KINH là dân tộc đông nhất."
+   ],
+   "aliases": [
+    "54 dân tộc Việt Nam",
+    "Dân số Việt Nam",
+    "Các dân tộc anh em"
+   ],
+   "actors": [],
+   "year": null,
+   "date_start": null,
+   "date_end": null,
+   "place": "Việt Nam",
+   "topic_title": "Dân cư và dân tộc ở Việt Nam",
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 4
+    },
+    {
+     "book": "Cánh diều",
+     "bai": 4
+    },
+    {
+     "book": "CTST",
+     "bai": 4
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/C%C3%A1c_d%C3%A2n_t%E1%BB%99c_t%E1%BA%A1i_Vi%E1%BB%87t_Nam"
+   ]
+  },
+  {
+   "name": "Nhà nước Văn Lang",
+   "kind": "dynasty",
+   "summary": "Văn Lang là nhà nước đầu tiên trong lịch sử Việt Nam, do các vua Hùng đứng đầu, ra đời khoảng thế kỉ VII trước Công nguyên.",
+   "facts": [
+    "Nước Văn Lang ra đời khoảng thế kỉ VII trước Công nguyên, là nhà nước đầu tiên trong lịch sử Việt Nam.",
+    "Đứng đầu nước Văn Lang là các vua Hùng (truyền 18 đời), đóng đô ở Phong Châu (thuộc tỉnh Phú Thọ ngày nay).",
+    "Nước Văn Lang được chia thành 15 bộ để cai quản.",
+    "Văn Lang gắn liền với văn hoá Đông Sơn nổi tiếng với trống đồng, nghề luyện kim và nghề trồng lúa nước.",
+    "Cư dân Văn Lang ở nhà sàn, trồng lúa nước, và truyền thuyết bánh chưng bánh giầy ra đời từ thời các vua Hùng.",
+    "Ngày nay, ngày Giỗ Tổ Hùng Vương mùng 10 tháng 3 âm lịch là dịp cả nước tưởng nhớ các vua Hùng tại đền Hùng, Phú Thọ."
+   ],
+   "traps": [
+    "Nhà nước ĐẦU TIÊN của Việt Nam là VĂN LANG (vua Hùng, đô Phong Châu) — không phải Âu Lạc.",
+    "Vua Hùng đứng đầu Văn Lang, còn An Dương Vương đứng đầu Âu Lạc — hai nhà nước nối tiếp nhau, đừng lẫn."
+   ],
+   "aliases": [
+    "Nước Văn Lang",
+    "Thời Hùng Vương",
+    "Thời đại các vua Hùng"
+   ],
+   "actors": [
+    "Hùng Vương"
+   ],
+   "year": null,
+   "date_start": "khoảng thế kỉ VII TCN",
+   "date_end": "khoảng 257 TCN",
+   "place": "Phong Châu (Phú Thọ), Bắc Bộ Việt Nam",
+   "topic_title": "Nhà nước Văn Lang, Nhà nước Âu Lạc",
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 5
+    },
+    {
+     "book": "Cánh diều",
+     "bai": 5
+    },
+    {
+     "book": "CTST",
+     "bai": 5
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/V%C4%83n_Lang"
+   ]
+  },
+  {
+   "name": "Nhà nước Âu Lạc",
+   "kind": "dynasty",
+   "summary": "Âu Lạc là nhà nước nối tiếp Văn Lang, do Thục Phán An Dương Vương lập cuối thế kỉ III TCN, đóng đô ở Cổ Loa với thành ốc và nỏ Liên Châu nổi tiếng.",
+   "facts": [
+    "Khoảng cuối thế kỉ III trước Công nguyên (khoảng năm 257 TCN, có tài liệu ghi năm 208 TCN), Thục Phán thay thế vua Hùng, lập nước Âu Lạc và xưng là An Dương Vương.",
+    "Kinh đô Âu Lạc đặt tại Cổ Loa (nay thuộc huyện Đông Anh, Hà Nội), với toà thành đắp theo hình xoáy trôn ốc nên gọi là Loa Thành.",
+    "Truyền thuyết kể quân Âu Lạc có nỏ thần Liên Châu bắn một lần nhiều mũi tên; các nhà khảo cổ đã tìm thấy hàng vạn mũi tên đồng ở Cổ Loa.",
+    "Năm 179 trước Công nguyên, Triệu Đà thôn tính Âu Lạc, từ đó nước ta rơi vào hơn một nghìn năm Bắc thuộc.",
+    "Truyền thuyết Mị Châu - Trọng Thuỷ gắn với việc mất nước Âu Lạc, nhắc bài học phải luôn cảnh giác giữ nước."
+   ],
+   "traps": [
+    "An Dương Vương tên thật là THỤC PHÁN, không thuộc 18 đời vua Hùng.",
+    "Âu Lạc mất nước năm 179 TCN vào tay TRIỆU ĐÀ (nước Nam Việt), sau đó mới đến ách đô hộ của nhà Hán."
+   ],
+   "aliases": [
+    "Nước Âu Lạc",
+    "An Dương Vương",
+    "Thục Phán",
+    "Thành Cổ Loa",
+    "Loa Thành"
+   ],
+   "actors": [
+    "Thục Phán An Dương Vương",
+    "Triệu Đà"
+   ],
+   "year": null,
+   "date_start": "khoảng 257 TCN",
+   "date_end": "179 TCN",
+   "place": "Cổ Loa (Đông Anh, Hà Nội)",
+   "topic_title": "Nhà nước Văn Lang, Nhà nước Âu Lạc",
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 5
+    },
+    {
+     "book": "Cánh diều",
+     "bai": 5
+    },
+    {
+     "book": "CTST",
+     "bai": 5
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/%C3%82u_L%E1%BA%A1c"
+   ]
+  },
+  {
+   "name": "Vương quốc Phù Nam",
+   "kind": "dynasty",
+   "summary": "Phù Nam là vương quốc cổ ở vùng Nam Bộ ngày nay, ra đời khoảng thế kỉ I, giỏi buôn bán đường biển với thương cảng Óc Eo, bị Chân Lạp thôn tính vào thế kỉ VII.",
+   "facts": [
+    "Vương quốc Phù Nam ra đời khoảng thế kỉ I và tồn tại đến khoảng thế kỉ VI-VII, trên vùng hạ lưu và châu thổ sông Mê Kông, trong đó có Nam Bộ Việt Nam ngày nay.",
+    "Óc Eo (nay thuộc huyện Thoại Sơn, tỉnh An Giang) là thương cảng và trung tâm nổi tiếng của Phù Nam, nơi tìm thấy nhiều di vật quý.",
+    "Người Phù Nam giỏi buôn bán bằng đường biển và làm thuỷ lợi để cải tạo đất trồng trọt.",
+    "Đến thế kỉ VII, Phù Nam suy yếu và bị nước Chân Lạp thôn tính."
+   ],
+   "traps": [
+    "Ba trung tâm cổ trên đất Việt Nam: Văn Lang - Âu Lạc ở BẮC BỘ, Chăm-pa ở TRUNG BỘ, Phù Nam ở NAM BỘ — đừng lẫn vị trí.",
+    "Di chỉ Óc Eo thuộc văn hoá PHÙ NAM, không phải của Chăm-pa."
+   ],
+   "aliases": [
+    "Phù Nam",
+    "Funan",
+    "Văn hoá Óc Eo"
+   ],
+   "actors": [],
+   "year": null,
+   "date_start": "thế kỉ I",
+   "date_end": "thế kỉ VII",
+   "place": "Nam Bộ Việt Nam (hạ lưu sông Mê Kông)",
+   "topic_title": "Vương quốc Phù Nam",
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 6
+    },
+    {
+     "book": "Cánh diều",
+     "bai": 6
+    },
+    {
+     "book": "CTST",
+     "bai": 6
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Ph%C3%B9_Nam"
+   ]
+  },
+  {
+   "name": "Vương quốc Chăm-pa",
+   "kind": "dynasty",
+   "summary": "Chăm-pa là vương quốc cổ ở miền Trung Việt Nam, thành lập năm 192 với tên Lâm Ấp, nổi tiếng với các đền tháp Chăm và thánh địa Mỹ Sơn.",
+   "facts": [
+    "Năm 192, sau cuộc khởi nghĩa chống ách đô hộ nhà Hán, Khu Liên lập ra nước Lâm Ấp — sau này gọi là vương quốc Chăm-pa.",
+    "Địa bàn Chăm-pa trải dài ở miền Trung Việt Nam ngày nay, từ dãy Hoành Sơn (Quảng Bình) ở phía bắc đến vùng Bình Thuận ở phía nam.",
+    "Văn hoá Chăm-pa chịu ảnh hưởng sâu sắc của Ấn Độ về chữ viết, tôn giáo (Hin-đu giáo và Phật giáo) và kiến trúc.",
+    "Người Chăm xây nhiều đền tháp gạch độc đáo; thánh địa Mỹ Sơn (Quảng Nam) được UNESCO công nhận là di sản văn hoá thế giới năm 1999.",
+    "Năm 1471, vua Lê Thánh Tông tiến đánh, phá kinh đô Vi-giay-a (Vijaya, nay thuộc Bình Định) khiến Chăm-pa suy yếu dần; đến năm 1832, dưới thời vua Minh Mạng, vùng đất này hoàn toàn hoà nhập vào lãnh thổ Việt Nam."
+   ],
+   "traps": [
+    "Tháp Chăm và thánh địa Mỹ Sơn là di sản của người CHĂM (Chăm-pa), không phải của Phù Nam hay người Khmer.",
+    "Chăm-pa thành lập năm 192 với tên ban đầu là LÂM ẤP; 'Chiêm Thành' cũng là tên gọi khác của nước này."
+   ],
+   "aliases": [
+    "Chăm Pa",
+    "Champa",
+    "Lâm Ấp",
+    "Chiêm Thành",
+    "Vương quốc Chăm-pa"
+   ],
+   "actors": [
+    "Khu Liên"
+   ],
+   "year": 192,
+   "date_start": "192",
+   "date_end": "1832",
+   "place": "Miền Trung Việt Nam",
+   "topic_title": "Vương quốc Chăm-pa",
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 7
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Ch%C4%83m_Pa"
+   ],
+   "fixed": [
+    "Sửa topic_title sai 'Vương quốc Phù Nam' → 'Vương quốc Chăm-pa' (KNTT bài 7)",
+    "Nêu rõ địa bàn từ dãy Hoành Sơn (Quảng Bình) đến Bình Thuận; mốc 1832 gắn với vua Minh Mạng"
+   ]
+  },
+  {
+   "name": "Khởi nghĩa Hai Bà Trưng",
+   "kind": "event",
+   "summary": "Cuộc khởi nghĩa đầu tiên chống ách đô hộ phương Bắc, do hai chị em Trưng Trắc - Trưng Nhị lãnh đạo năm 40, lật đổ ách cai trị của thái thú Tô Định.",
+   "facts": [
+    "Mùa xuân năm 40, do căm thù ách cai trị tàn bạo của thái thú Tô Định (tương truyền Tô Định còn giết Thi Sách, chồng bà Trưng Trắc), hai chị em Trưng Trắc và Trưng Nhị phất cờ khởi nghĩa ở Hát Môn (nay thuộc Phúc Thọ, Hà Nội).",
+    "Nghĩa quân nhanh chóng làm chủ 65 thành, Tô Định phải bỏ chạy về nước — đây là cuộc khởi nghĩa lớn ĐẦU TIÊN chống ách đô hộ phương Bắc.",
+    "Sau thắng lợi, Trưng Trắc lên làm vua (Trưng Vương), đóng đô ở Mê Linh — vị nữ vương đầu tiên trong lịch sử nước ta.",
+    "Năm 42-43, nhà Hán sai lão tướng Mã Viện đem đại quân sang đàn áp; năm 43 Hai Bà Trưng thất thế và hi sinh (tương truyền gieo mình xuống sông Hát).",
+    "Khởi nghĩa Hai Bà Trưng nêu cao ý chí giành độc lập của dân tộc và vai trò to lớn của phụ nữ Việt Nam."
+   ],
+   "traps": [
+    "Hai Bà Trưng khởi nghĩa năm 40 chống NHÀ HÁN — còn Bà Triệu khởi nghĩa năm 248 chống quân NGÔ, đừng lẫn hai sự kiện.",
+    "Trưng Trắc là chị và là người lên ngôi vua; Trưng Nhị là em."
+   ],
+   "aliases": [
+    "Hai Bà Trưng",
+    "Trưng Trắc và Trưng Nhị",
+    "Trưng Vương",
+    "Khởi nghĩa năm 40"
+   ],
+   "actors": [
+    "Trưng Trắc",
+    "Trưng Nhị",
+    "Tô Định",
+    "Mã Viện"
+   ],
+   "year": 40,
+   "date_start": "40",
+   "date_end": "43",
+   "place": "Hát Môn - Mê Linh (Hà Nội ngày nay)",
+   "topic_title": "Đấu tranh giành độc lập thời kì Bắc thuộc",
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 8
+    },
+    {
+     "book": "Cánh diều",
+     "bai": 8
+    },
+    {
+     "book": "CTST",
+     "bai": 8
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Kh%E1%BB%9Fi_ngh%C4%A9a_Hai_B%C3%A0_Tr%C6%B0ng"
+   ]
+  },
+  {
+   "name": "Khởi nghĩa Bà Triệu",
+   "kind": "event",
+   "summary": "Năm 248, Bà Triệu (Triệu Thị Trinh) lãnh đạo khởi nghĩa chống quân Đông Ngô từ vùng núi Nưa, Thanh Hoá.",
+   "facts": [
+    "Bà Triệu tên là Triệu Thị Trinh (226-248), quê ở vùng Cửu Chân (Thanh Hoá ngày nay).",
+    "Mùa xuân năm 248, Bà Triệu cùng anh là Triệu Quốc Đạt phất cờ khởi nghĩa từ căn cứ núi Nưa, chống ách đô hộ của nhà Đông Ngô.",
+    "Bà nổi tiếng với câu nói: 'Tôi chỉ muốn cưỡi cơn gió mạnh, đạp luồng sóng dữ, chém cá kình ở biển Đông... chứ không chịu khom lưng làm tì thiếp cho người'.",
+    "Vua Đông Ngô sai tướng Lục Dận đem quân sang đàn áp; sau nhiều trận chiến ác liệt, khởi nghĩa thất bại, Bà Triệu tuẫn tiết trên núi Tùng (Hậu Lộc, Thanh Hoá) ngày 22/2/248, khi mới 23 tuổi.",
+    "Khởi nghĩa Bà Triệu tiếp nối tinh thần bất khuất chống Bắc thuộc mà Hai Bà Trưng đã mở đầu."
+   ],
+   "traps": [
+    "Bà Triệu chống quân NGÔ (Đông Ngô) năm 248 — không phải chống nhà Hán như Hai Bà Trưng.",
+    "Câu 'cưỡi cơn gió mạnh, đạp luồng sóng dữ' là của BÀ TRIỆU, đừng gán cho nhân vật khác.",
+    "Bà Triệu hi sinh khi mới 23 tuổi (sinh năm 226, mất năm 248) — không phải 21 tuổi."
+   ],
+   "aliases": [
+    "Bà Triệu",
+    "Triệu Thị Trinh",
+    "Triệu Ẩu",
+    "Nhụy Kiều tướng quân"
+   ],
+   "actors": [
+    "Triệu Thị Trinh",
+    "Lục Dận"
+   ],
+   "year": 248,
+   "date_start": "248",
+   "date_end": "248",
+   "place": "Núi Nưa, Cửu Chân (Thanh Hoá)",
+   "topic_title": "Đấu tranh giành độc lập thời kì Bắc thuộc",
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 8
+    },
+    {
+     "book": "Cánh diều",
+     "bai": 8
+    },
+    {
+     "book": "CTST",
+     "bai": 8
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/B%C3%A0_Tri%E1%BB%87u",
+    "https://svhttdl.thanhhoa.gov.vn/van-hoa/khoi-nghia-ba-trieu-dau-moc-choi-loi-tren-chang-duong-dau-tranh-dung-nuoc-va-giu-nuoc-cua-dan-toc-viet-nam-bai-1-mot-su-kien-lich-su-hao-hung-va-bi-trang-1006924"
+   ],
+   "fixed": [
+    "Tuổi hi sinh của Bà Triệu: 21 tuổi → 23 tuổi (tuẫn tiết trên núi Tùng ngày 22/2/248)",
+    "Bỏ mốc 'thất bại sau hơn hai tháng' vì các nguồn không thống nhất"
+   ]
+  },
+  {
+   "name": "Lý Bí và nước Vạn Xuân",
+   "kind": "event",
+   "summary": "Lý Bí khởi nghĩa lật đổ ách đô hộ nhà Lương, năm 544 lên ngôi hoàng đế (Lý Nam Đế) và đặt tên nước là Vạn Xuân.",
+   "facts": [
+    "Cuối năm 541 - đầu năm 542 (SGK ghi mốc 'mùa xuân năm 542'), Lý Bí (còn gọi Lý Bôn) khởi binh chống ách đô hộ của nhà Lương và nhanh chóng làm chủ Giao Châu.",
+    "Đầu năm 544 (tháng Giêng), Lý Bí lên ngôi hoàng đế, sử gọi là Lý Nam Đế, đặt niên hiệu Thiên Đức.",
+    "Lý Nam Đế đặt tên nước là Vạn Xuân, thể hiện mong muốn đất nước độc lập, tươi đẹp trường tồn như 'muôn mùa xuân'.",
+    "Việc Lý Bí xưng đế và dựng nước Vạn Xuân khẳng định nước ta ngang hàng, không chịu lệ thuộc phương Bắc.",
+    "Lý Nam Đế đóng đô ở vùng cửa sông Tô Lịch (Hà Nội ngày nay), đặt triều đình có ban văn - ban võ (Triệu Túc, Tinh Thiều, Phạm Tu)."
+   ],
+   "traps": [
+    "Lý Nam Đế (Lý Bí, thế kỉ VI) KHÁC với nhà Lý do Lý Công Uẩn lập năm 1009 — cách nhau gần 500 năm.",
+    "Tên nước Vạn Xuân nghĩa là 'muôn mùa xuân', do LÝ BÍ đặt (không phải tên nước thời Hùng Vương)."
+   ],
+   "aliases": [
+    "Lý Bí",
+    "Lý Bôn",
+    "Lý Nam Đế",
+    "Nước Vạn Xuân",
+    "Khởi nghĩa Lý Bí"
+   ],
+   "actors": [
+    "Lý Bí"
+   ],
+   "year": 542,
+   "date_start": "541",
+   "date_end": "544",
+   "place": "Giao Châu (miền Bắc Việt Nam)",
+   "topic_title": "Đấu tranh giành độc lập thời kì Bắc thuộc",
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 8
+    },
+    {
+     "book": "Cánh diều",
+     "bai": 8
+    },
+    {
+     "book": "CTST",
+     "bai": 8
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/L%C3%BD_Nam_%C4%90%E1%BA%BF"
+   ],
+   "fixed": [
+    "Làm rõ mốc khởi nghĩa: cuối 541 - đầu 542, SGK ghi 'mùa xuân năm 542'",
+    "Bổ sung niên hiệu Thiên Đức và kinh đô vùng cửa sông Tô Lịch"
+   ]
+  },
+  {
+   "name": "Chiến thắng Bạch Đằng năm 938",
+   "kind": "battle",
+   "summary": "Ngô Quyền dùng kế cắm cọc trên sông Bạch Đằng đánh tan quân Nam Hán cuối năm 938, chấm dứt hơn một nghìn năm Bắc thuộc.",
+   "facts": [
+    "Cuối năm 938, Ngô Quyền chỉ huy quân dân ta đánh quân Nam Hán do Lưu Hoằng Tháo (con vua Nam Hán) dẫn sang xâm lược bằng đường thuỷ.",
+    "Ngô Quyền cho cắm cọc gỗ đầu nhọn xuống lòng sông Bạch Đằng, nhử địch vào bãi cọc lúc thuỷ triều lên rồi phản công quyết liệt khi triều rút làm thuyền giặc va vào cọc vỡ tan.",
+    "Quá nửa quân Nam Hán chết đuối, chủ tướng Lưu Hoằng Tháo tử trận, vua Nam Hán phải từ bỏ mộng xâm lược nước ta.",
+    "Chiến thắng Bạch Đằng năm 938 chấm dứt hơn một nghìn năm Bắc thuộc, mở ra thời kì độc lập lâu dài cho dân tộc.",
+    "Mùa xuân năm 939, Ngô Quyền xưng vương, đóng đô ở Cổ Loa."
+   ],
+   "traps": [
+    "Có BA trận Bạch Đằng nổi tiếng: năm 938 (Ngô Quyền đánh Nam Hán), năm 981 (Lê Hoàn đánh Tống) và năm 1288 (Trần Hưng Đạo đánh Nguyên) — phải phân biệt theo năm.",
+    "Ngô Quyền XƯNG VƯƠNG năm 939 và đóng đô ở Cổ Loa, không phải ở Thăng Long (Thăng Long mãi đến 1010 mới trở thành kinh đô)."
+   ],
+   "aliases": [
+    "Trận Bạch Đằng 938",
+    "Chiến thắng Bạch Đằng",
+    "Ngô Quyền phá quân Nam Hán"
+   ],
+   "actors": [
+    "Ngô Quyền",
+    "Lưu Hoằng Tháo"
+   ],
+   "year": 938,
+   "date_start": "938",
+   "date_end": "938",
+   "place": "Sông Bạch Đằng (Quảng Ninh - Hải Phòng)",
+   "topic_title": "Đấu tranh giành độc lập thời kì Bắc thuộc",
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 8
+    },
+    {
+     "book": "Cánh diều",
+     "bai": 8
+    },
+    {
+     "book": "CTST",
+     "bai": 8
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Tr%E1%BA%ADn_B%E1%BA%A1ch_%C4%90%E1%BA%B1ng_(938)"
+   ]
+  },
+  {
+   "name": "Nhà Lý dời đô ra Thăng Long",
+   "kind": "event",
+   "summary": "Năm 1010, vua Lý Thái Tổ (Lý Công Uẩn) viết Chiếu dời đô, chuyển kinh đô từ Hoa Lư ra Đại La và đặt tên là Thăng Long.",
+   "facts": [
+    "Cuối năm 1009, Lý Công Uẩn (quê Từ Sơn, Bắc Ninh) được triều thần tôn lên ngôi vua, lập ra nhà Lý — ông là vua Lý Thái Tổ.",
+    "Năm 1010, Lý Thái Tổ viết Chiếu dời đô, quyết định dời kinh đô từ Hoa Lư (Ninh Bình) ra thành Đại La.",
+    "Vua chọn Đại La vì Hoa Lư chật hẹp, đất thấp, còn Đại La ở trung tâm đất nước, đất rộng bằng phẳng, có 'thế rồng cuộn hổ ngồi' thuận lợi cho muôn đời con cháu.",
+    "Truyền thuyết kể khi thuyền vua đến Đại La có rồng vàng hiện lên bay vút, nên vua đổi tên thành Thăng Long, nghĩa là 'rồng bay lên'.",
+    "Thăng Long chính là Hà Nội ngày nay; năm 2010 cả nước đã kỷ niệm 1.000 năm Thăng Long - Hà Nội."
+   ],
+   "traps": [
+    "Năm 1009 là năm Lý Công Uẩn LÊN NGÔI, còn 1010 mới là năm DỜI ĐÔ — hai mốc khác nhau.",
+    "Lý Thái Tổ chính là Lý Công Uẩn (một người), đừng tưởng là hai vua khác nhau.",
+    "Kinh đô cũ Hoa Lư ở NINH BÌNH, không phải Thanh Hoá."
+   ],
+   "aliases": [
+    "Chiếu dời đô",
+    "Lý Công Uẩn dời đô",
+    "Thiên đô chiếu",
+    "Định đô Thăng Long"
+   ],
+   "actors": [
+    "Lý Công Uẩn (Lý Thái Tổ)"
+   ],
+   "year": 1010,
+   "date_start": "1010",
+   "date_end": "1010",
+   "place": "Hoa Lư (Ninh Bình) → Thăng Long (Hà Nội)",
+   "topic_title": "Triều Lý và việc định đô ở Thăng Long",
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 9
+    },
+    {
+     "book": "Cánh diều",
+     "bai": 9
+    },
+    {
+     "book": "CTST",
+     "bai": 9
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/L%C3%BD_Th%C3%A1i_T%E1%BB%95"
+   ]
+  },
+  {
+   "name": "Những thành tựu tiêu biểu của triều Lý",
+   "kind": "concept",
+   "summary": "Triều Lý (1009-1225) đặt quốc hiệu Đại Việt, xây Văn Miếu - Quốc Tử Giám, chùa Một Cột và đánh thắng quân Tống xâm lược.",
+   "facts": [
+    "Năm 1054, vua Lý Thánh Tông đổi quốc hiệu nước ta từ Đại Cồ Việt thành Đại Việt.",
+    "Năm 1049, vua Lý Thái Tông cho xây chùa Một Cột (chùa Diên Hựu) — ngôi chùa có kiến trúc độc đáo như đoá sen nở trên mặt nước.",
+    "Năm 1070, nhà Lý xây Văn Miếu và năm 1076 mở Quốc Tử Giám — được coi là trường đại học đầu tiên của Việt Nam.",
+    "Từ năm 1075 đến 1077, dưới sự chỉ huy của Lý Thường Kiệt, quân dân Đại Việt đánh bại quân Tống xâm lược trên phòng tuyến sông Như Nguyệt (sông Cầu).",
+    "Tương truyền trong kháng chiến chống Tống, bài thơ thần 'Nam quốc sơn hà' vang lên khẳng định chủ quyền 'sông núi nước Nam vua Nam ở'.",
+    "Đạo Phật thời Lý rất phát triển, chùa chiền được xây dựng ở nhiều nơi."
+   ],
+   "traps": [
+    "Văn Miếu xây năm 1070 dưới thời NHÀ LÝ — không phải thời Hậu Lê (nhà Hậu Lê chỉ dựng thêm bia tiến sĩ).",
+    "Quốc hiệu ĐẠI VIỆT có từ năm 1054 thời Lý Thánh Tông, không phải do Lý Thái Tổ đặt."
+   ],
+   "aliases": [
+    "Triều Lý",
+    "Nhà Lý",
+    "Văn Miếu - Quốc Tử Giám",
+    "Kháng chiến chống Tống lần hai"
+   ],
+   "actors": [
+    "Lý Thánh Tông",
+    "Lý Thái Tông",
+    "Lý Thường Kiệt"
+   ],
+   "year": null,
+   "date_start": "1009",
+   "date_end": "1225",
+   "place": "Thăng Long (Hà Nội)",
+   "topic_title": "Triều Lý và việc định đô ở Thăng Long",
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 9
+    },
+    {
+     "book": "Cánh diều",
+     "bai": 9
+    },
+    {
+     "book": "CTST",
+     "bai": 9
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Nh%C3%A0_L%C3%BD"
+   ]
+  },
+  {
+   "name": "Nhà Trần thành lập",
+   "kind": "event",
+   "summary": "Năm 1226, Lý Chiêu Hoàng nhường ngôi cho chồng là Trần Cảnh, mở đầu triều Trần — triều đại chăm lo đắp đê và ba lần đánh thắng quân Mông - Nguyên.",
+   "facts": [
+    "Đầu năm 1226, Lý Chiêu Hoàng — vị vua cuối cùng của nhà Lý — nhường ngôi cho chồng là Trần Cảnh, nhà Trần được thành lập.",
+    "Trần Cảnh lên ngôi khi mới 8 tuổi, trở thành vua Trần Thái Tông — vị vua đầu tiên của triều Trần; việc chuyển giao do Thái sư Trần Thủ Độ sắp đặt.",
+    "Nhà Trần rất chăm lo việc đắp đê phòng lụt, đặt chức quan Hà đê sứ trông coi đê điều, nhờ đó nông nghiệp phát triển.",
+    "Các vua Trần thường nhường ngôi sớm cho con rồi làm Thái thượng hoàng để cùng trông coi việc nước.",
+    "Dưới thời Trần, quân dân Đại Việt ba lần đánh thắng quân xâm lược Mông - Nguyên (1258, 1285, 1287-1288)."
+   ],
+   "traps": [
+    "Vua ĐẦU TIÊN của nhà Trần là Trần Cảnh (Trần Thái Tông) — KHÔNG phải Trần Hưng Đạo (ông là tướng, chưa từng làm vua).",
+    "Lý Chiêu Hoàng là nữ hoàng duy nhất và là vua CUỐI CÙNG của nhà Lý, người nhường ngôi cho nhà Trần."
+   ],
+   "aliases": [
+    "Triều Trần",
+    "Nhà Trần",
+    "Trần Cảnh lên ngôi"
+   ],
+   "actors": [
+    "Trần Cảnh (Trần Thái Tông)",
+    "Lý Chiêu Hoàng",
+    "Trần Thủ Độ"
+   ],
+   "year": 1226,
+   "date_start": "1226",
+   "date_end": "1400",
+   "place": "Thăng Long (Hà Nội)",
+   "topic_title": "Triều Trần xây dựng đất nước và kháng chiến chống quân Mông - Nguyên xâm lược",
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 10
+    },
+    {
+     "book": "Cánh diều",
+     "bai": 10
+    },
+    {
+     "book": "CTST",
+     "bai": 10
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Nh%C3%A0_Tr%E1%BA%A7n"
+   ]
+  },
+  {
+   "name": "Ba lần kháng chiến chống quân Mông - Nguyên (1258, 1285, 1287-1288)",
+   "kind": "campaign",
+   "summary": "Quân dân nhà Trần ba lần đánh thắng đế quốc Mông - Nguyên hùng mạnh vào các năm 1258, 1285 và 1287-1288, đỉnh cao là chiến thắng Bạch Đằng 1288.",
+   "facts": [
+    "Quân dân nhà Trần ba lần đánh thắng quân xâm lược Mông - Nguyên: lần thứ nhất năm 1258, lần thứ hai năm 1285 và lần thứ ba năm 1287-1288.",
+    "Cuối năm 1284, trước hoạ xâm lược lần thứ hai, Thượng hoàng Trần Thánh Tông mở hội nghị Diên Hồng hỏi ý các bô lão nên đánh hay hoà — muôn người cùng hô 'Đánh!', thể hiện quyết tâm cả nước.",
+    "Nhà Trần dùng kế 'vườn không nhà trống': chủ động rút khỏi Thăng Long, cất giấu lương thực, khiến quân giặc vào thành trống rỗng, đói khát mệt mỏi rồi mới phản công.",
+    "Trần Hưng Đạo được cử làm Quốc công tiết chế thống lĩnh quân đội, chỉ huy các trận thắng lớn như Hàm Tử, Chương Dương, Vạn Kiếp (1285).",
+    "Cuối năm 1287, trong kháng chiến lần ba, Trần Khánh Dư đánh tan ĐOÀN THUYỀN LƯƠNG của Trương Văn Hổ ở Vân Đồn, cắt đứt hậu cần của giặc.",
+    "Tháng 4/1288, trên sông Bạch Đằng, Trần Hưng Đạo dùng lại kế cắm cọc, tiêu diệt ĐOÀN BINH THUYỀN ĐANG RÚT LUI của giặc và bắt sống tướng Ô Mã Nhi, kết thúc thắng lợi cuộc kháng chiến lần ba.",
+    "Quân sĩ nhà Trần thích lên cánh tay hai chữ 'Sát Thát' — nghĩa là giết giặc Thát Đát (giặc Mông Cổ) — thể hiện ý chí quyết chiến.",
+    "Thắng lợi ba lần kháng chiến bảo vệ vững chắc nền độc lập trước đế quốc Mông - Nguyên — đội quân hùng mạnh nhất thế giới lúc bấy giờ."
+   ],
+   "traps": [
+    "Trận Bạch Đằng năm 1288 do TRẦN HƯNG ĐẠO chỉ huy đánh quân NGUYÊN — đừng lẫn với trận Bạch Đằng 938 của Ngô Quyền.",
+    "Hội nghị DIÊN HỒNG hỏi ý kiến các BÔ LÃO (người già), còn hội nghị Bình Than là nơi bàn bạc của vương hầu, tướng lĩnh.",
+    "Đoàn THUYỀN LƯƠNG của Trương Văn Hổ bị diệt ở VÂN ĐỒN cuối năm 1287 (Trần Khánh Dư); còn trận BẠCH ĐẰNG tháng 4/1288 tiêu diệt đoàn BINH THUYỀN RÚT LUI của Ô Mã Nhi — hai trận khác nhau.",
+    "'Sát Thát' nghĩa là giết giặc Thát Đát (Mông Cổ), không nên dịch thành 'giết giặc Nguyên'."
+   ],
+   "aliases": [
+    "Kháng chiến chống Mông - Nguyên",
+    "Ba lần thắng quân Nguyên Mông",
+    "Hội nghị Diên Hồng",
+    "Trận Bạch Đằng 1288",
+    "Kháng chiến chống Mông - Nguyên lần thứ nhất (1258)",
+    "Kháng chiến chống Mông - Nguyên lần thứ hai (1285)",
+    "Kháng chiến chống Mông - Nguyên lần thứ ba (1287-1288)"
+   ],
+   "actors": [
+    "Trần Hưng Đạo",
+    "Trần Thánh Tông",
+    "Trần Nhân Tông",
+    "Ô Mã Nhi",
+    "Thoát Hoan"
+   ],
+   "year": null,
+   "date_start": "1258",
+   "date_end": "1288",
+   "place": "Đại Việt (Thăng Long, sông Bạch Đằng...)",
+   "topic_title": "Triều Trần xây dựng đất nước và kháng chiến chống quân Mông - Nguyên xâm lược",
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 10
+    },
+    {
+     "book": "Cánh diều",
+     "bai": 10
+    },
+    {
+     "book": "CTST",
+     "bai": 10
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Nh%C3%A0_Tr%E1%BA%A7n",
+    "https://vi.wikipedia.org/wiki/H%E1%BB%99i_ngh%E1%BB%8B_Di%C3%AAn_H%E1%BB%93ng",
+    "https://vi.wikipedia.org/wiki/Tr%E1%BA%A7n_H%C6%B0ng_%C4%90%E1%BA%A1o",
+    "https://vi.wikipedia.org/wiki/Tr%E1%BA%ADn_B%E1%BA%A1ch_%C4%90%E1%BA%B1ng_(1288)"
+   ],
+   "fixed": [
+    "SAI NHÂN - QUẢ: trận Bạch Đằng 1288 tiêu diệt đoàn BINH THUYỀN RÚT LUI của Ô Mã Nhi, KHÔNG phải đoàn thuyền lương (thuyền lương Trương Văn Hổ bị Trần Khánh Dư diệt ở Vân Đồn cuối 1287)",
+    "'Sát Thát' = giết giặc Thát Đát (Mông Cổ), sửa cách giải nghĩa 'giết giặc Nguyên'",
+    "Thêm định ngữ năm vào name để phân biệt ba lần kháng chiến"
+   ]
+  },
+  {
+   "name": "Trần Hưng Đạo (Trần Quốc Tuấn)",
+   "kind": "person",
+   "summary": "Trần Hưng Đạo là vị tướng kiệt xuất của nhà Trần, tổng chỉ huy hai cuộc kháng chiến chống Mông - Nguyên lần hai và lần ba, tác giả Hịch tướng sĩ.",
+   "facts": [
+    "Trần Hưng Đạo tên thật là Trần Quốc Tuấn, sinh khoảng năm 1228 và mất ngày 5/10/1300.",
+    "Tháng 10/1283, trước cuộc xâm lược lần thứ hai, ông được vua Trần phong làm Quốc công tiết chế, thống lĩnh toàn bộ quân đội Đại Việt trong kháng chiến lần hai (1285) và lần ba (1287-1288).",
+    "Ông viết 'Hịch tướng sĩ' để khích lệ lòng yêu nước, căm thù giặc của quân sĩ, và soạn sách binh pháp 'Binh thư yếu lược'.",
+    "Khi vận nước nguy nan, ông khẳng khái tâu vua: 'Bệ hạ chém đầu tôi trước rồi hãy hàng giặc' — thể hiện ý chí quyết không đầu hàng.",
+    "Năm 1288, ông chỉ huy trận Bạch Đằng lịch sử, tiêu diệt đoàn binh thuyền rút lui của quân Nguyên và bắt sống tướng Ô Mã Nhi.",
+    "Nhân dân tôn kính gọi ông là Đức Thánh Trần và lập đền thờ ở nhiều nơi."
+   ],
+   "traps": [
+    "Trần Hưng Đạo là TƯỚNG nhà Trần, chưa từng làm vua — vua đầu nhà Trần là Trần Thái Tông (Trần Cảnh).",
+    "'Hịch tướng sĩ' là của TRẦN HƯNG ĐẠO, còn 'Nam quốc sơn hà' gắn với Lý Thường Kiệt thời Lý — hai tác phẩm khác thời.",
+    "Câu 'Bệ hạ chém đầu tôi trước rồi hãy hàng giặc' là của TRẦN HƯNG ĐẠO; còn 'Đầu thần chưa rơi xuống đất, xin bệ hạ đừng lo' là của THÁI SƯ TRẦN THỦ ĐỘ (kháng chiến lần thứ nhất, 1258)."
+   ],
+   "aliases": [
+    "Trần Quốc Tuấn",
+    "Hưng Đạo Đại Vương",
+    "Hưng Đạo Vương",
+    "Đức Thánh Trần"
+   ],
+   "actors": [
+    "Trần Hưng Đạo"
+   ],
+   "year": null,
+   "date_start": "1228",
+   "date_end": "1300",
+   "place": "Đại Việt",
+   "topic_title": "Triều Trần xây dựng đất nước và kháng chiến chống quân Mông - Nguyên xâm lược",
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 10
+    },
+    {
+     "book": "Cánh diều",
+     "bai": 10
+    },
+    {
+     "book": "CTST",
+     "bai": 10
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Tr%E1%BA%A7n_H%C6%B0ng_%C4%90%E1%BA%A1o"
+   ],
+   "fixed": [
+    "Nêu đúng mốc phong Quốc công tiết chế: tháng 10/1283 (trước kháng chiến lần hai), không phải trong năm 1285",
+    "Thêm bẫy phân biệt câu nói của Trần Hưng Đạo với câu của Trần Thủ Độ"
+   ]
+  },
+  {
+   "name": "Nguyễn Hiền — trạng nguyên trẻ nhất lịch sử khoa bảng Việt Nam",
+   "kind": "person",
+   "summary": "Nguyễn Hiền đỗ trạng nguyên năm 1247 khi mới 13 tuổi dưới thời vua Trần Thái Tông, là trạng nguyên trẻ nhất trong lịch sử khoa cử Việt Nam.",
+   "facts": [
+    "Nguyễn Hiền đỗ trạng nguyên tại khoa thi năm 1247 dưới thời vua Trần Thái Tông, khi mới 13 tuổi — trạng nguyên trẻ nhất trong lịch sử khoa cử Việt Nam.",
+    "Ông quê ở làng Dương A (nay thuộc xã Nam Thắng, huyện Nam Trực, tỉnh Nam Định; từ ngày 1/7/2025 Nam Định hợp nhất vào tỉnh Ninh Bình), nổi tiếng thần đồng, thông minh và ham học từ nhỏ.",
+    "Khoa thi năm 1247 là khoa thi đầu tiên nước ta đặt danh vị 'tam khôi' gồm trạng nguyên, bảng nhãn, thám hoa.",
+    "Cùng khoa thi 1247, Lê Văn Hưu (17 tuổi) đỗ bảng nhãn — sau trở thành nhà sử học soạn Đại Việt sử ký — và Đặng Ma La (14 tuổi) đỗ thám hoa."
+   ],
+   "traps": [
+    "Trạng nguyên trẻ nhất lịch sử khoa bảng Việt Nam là NGUYỄN HIỀN (13 tuổi, khoa thi 1247 thời Trần Thái Tông) — 'Nguyễn Minh Sát' là tên KHÔNG có thật, tuyệt đối không dùng.",
+    "Đừng nhầm Nguyễn Hiền (trạng nguyên) với Lê Văn Hưu (bảng nhãn cùng khoa, nhà sử học)."
+   ],
+   "aliases": [
+    "Trạng nguyên Nguyễn Hiền",
+    "Trạng nguyên nhỏ tuổi nhất",
+    "Trạng nguyên 13 tuổi"
+   ],
+   "actors": [
+    "Nguyễn Hiền",
+    "Trần Thái Tông",
+    "Lê Văn Hưu",
+    "Đặng Ma La"
+   ],
+   "year": null,
+   "date_start": "khoảng 1234",
+   "date_end": null,
+   "place": "Dương A, Nam Trực, Nam Định",
+   "topic_title": "Triều Trần xây dựng đất nước và kháng chiến chống quân Mông - Nguyên xâm lược",
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 10
+    },
+    {
+     "book": "Cánh diều",
+     "bai": 10
+    },
+    {
+     "book": "CTST",
+     "bai": 10
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Nguy%E1%BB%85n_Hi%E1%BB%81n"
+   ],
+   "fixed": [
+    "Cập nhật địa danh: quê Nam Định, từ 1/7/2025 thuộc tỉnh Ninh Bình sau sắp xếp đơn vị hành chính"
+   ]
+  },
+  {
+   "name": "Dòng thời gian lịch sử Việt Nam từ Văn Lang đến năm 1954",
+   "kind": "concept",
+   "summary": "Chuỗi mốc lớn của lịch sử Việt Nam dùng để ôn tập: từ nhà nước Văn Lang đầu tiên đến chiến thắng Điện Biên Phủ năm 1954.",
+   "facts": [
+    "Khoảng thế kỉ VII trước Công nguyên, nước Văn Lang — nhà nước đầu tiên của người Việt — ra đời, nối tiếp là nước Âu Lạc của An Dương Vương (khoảng cuối thế kỉ III TCN).",
+    "Năm 179 TCN Triệu Đà thôn tính Âu Lạc, mở đầu hơn một nghìn năm Bắc thuộc với các cuộc khởi nghĩa tiêu biểu của Hai Bà Trưng (năm 40), Bà Triệu (248) và Lý Bí (542).",
+    "Chiến thắng Bạch Đằng của Ngô Quyền năm 938 chấm dứt thời Bắc thuộc, mở ra thời kì độc lập lâu dài.",
+    "Năm 1010 Lý Thái Tổ dời đô ra Thăng Long; năm 1226 nhà Trần thành lập và ba lần đánh thắng quân Mông - Nguyên (1258-1288).",
+    "Khởi nghĩa Lam Sơn thắng lợi, năm 1428 Lê Lợi lập nhà Hậu Lê; đến năm 1802 Nguyễn Ánh lập triều Nguyễn — triều đại quân chủ cuối cùng.",
+    "Ngày 1/9/1858 thực dân Pháp nổ súng xâm lược Đà Nẵng; đến Cách mạng tháng Tám 1945 nhân dân ta giành lại độc lập, khai sinh nước Việt Nam Dân chủ Cộng hoà ngày 2/9/1945.",
+    "Chiến thắng Điện Biên Phủ ngày 7/5/1954 kết thúc thắng lợi chín năm kháng chiến chống thực dân Pháp."
+   ],
+   "traps": [
+    "Thứ tự các triều đại chính: Ngô - Đinh - Tiền Lê - Lý - Trần - Hồ - Hậu Lê - Tây Sơn - Nguyễn; nhà Lý TRƯỚC nhà Trần, nhà Hậu Lê TRƯỚC nhà Nguyễn."
+   ],
+   "aliases": [
+    "Ôn tập lịch sử lớp 5",
+    "Các mốc lịch sử Việt Nam",
+    "Niên biểu lịch sử Việt Nam"
+   ],
+   "actors": [],
+   "year": null,
+   "date_start": null,
+   "date_end": null,
+   "place": "Việt Nam",
+   "topic_title": "Ôn tập",
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 11
+    },
+    {
+     "book": "KNTT",
+     "bai": 28
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/V%C4%83n_Lang",
+    "https://vi.wikipedia.org/wiki/Tr%E1%BA%ADn_B%E1%BA%A1ch_%C4%90%E1%BA%B1ng_(938)",
+    "https://vi.wikipedia.org/wiki/Nh%C3%A0_Nguy%E1%BB%85n",
+    "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_d%E1%BB%8Bch_%C4%90i%E1%BB%87n_Bi%C3%AAn_Ph%E1%BB%A7"
+   ]
+  },
+  {
+   "name": "Khởi nghĩa Lam Sơn (1418-1427)",
+   "kind": "campaign",
+   "summary": "Cuộc khởi nghĩa do Lê Lợi lãnh đạo từ núi rừng Lam Sơn, đánh đuổi quân Minh sau 10 năm chiến đấu, kết thúc bằng chiến thắng Chi Lăng - Xương Giang và Hội thề Đông Quan năm 1427.",
+   "facts": [
+    "Ngày 7/2/1418, Lê Lợi dựng cờ khởi nghĩa ở Lam Sơn (Thanh Hoá), tự xưng Bình Định Vương, quyết đánh đuổi ách đô hộ của nhà Minh.",
+    "Nguyễn Trãi tham gia nghĩa quân, trở thành mưu sĩ giúp Lê Lợi vạch kế sách đánh giặc và thu phục lòng người.",
+    "Cuối năm 1427, trong trận Chi Lăng - Xương Giang, đạo viện binh của nhà Minh bị đập tan, chủ tướng Liễu Thăng tử trận tại ải Chi Lăng (Lạng Sơn) tháng 10/1427.",
+    "Viện binh bị tiêu diệt khiến tướng Vương Thông ở Đông Quan tuyệt vọng, phải dự Hội thề Đông Quan tháng 12/1427 xin rút toàn bộ quân Minh về nước — kết thúc 20 năm đô hộ của nhà Minh.",
+    "Năm 1428, Lê Lợi lên ngôi hoàng đế; Nguyễn Trãi thay lời vua viết 'Bình Ngô đại cáo' tổng kết thắng lợi, được coi như bản tuyên ngôn độc lập thời ấy."
+   ],
+   "traps": [
+    "Khởi nghĩa Lam Sơn và chiến thắng Chi Lăng 1427 đánh quân MINH — không phải quân Thanh (quân Thanh bị Quang Trung đánh bại năm 1789).",
+    "'Bình Ngô đại cáo' do NGUYỄN TRÃI viết thay lời Lê Lợi — đừng nói Lê Lợi tự viết."
+   ],
+   "aliases": [
+    "Lê Lợi khởi nghĩa",
+    "Bình Định Vương",
+    "Chiến thắng Chi Lăng - Xương Giang",
+    "Hội thề Đông Quan"
+   ],
+   "actors": [
+    "Lê Lợi",
+    "Nguyễn Trãi",
+    "Liễu Thăng",
+    "Vương Thông"
+   ],
+   "year": 1418,
+   "date_start": "1418-02-07",
+   "date_end": "1427-12",
+   "place": "Lam Sơn (Thanh Hoá) - Chi Lăng (Lạng Sơn) - Đông Quan (Hà Nội)",
+   "topic_title": "Khởi nghĩa Lam Sơn và Triều Hậu Lê",
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 12
+    },
+    {
+     "book": "Cánh diều",
+     "bai": 11
+    },
+    {
+     "book": "CTST",
+     "bai": 11
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Kh%E1%BB%9Fi_ngh%C4%A9a_Lam_S%C6%A1n"
+   ]
+  },
+  {
+   "name": "Triều Hậu Lê và vua Lê Thánh Tông",
+   "kind": "dynasty",
+   "summary": "Nhà Hậu Lê do Lê Lợi lập năm 1428 sau khởi nghĩa Lam Sơn; dưới thời Lê Thánh Tông đất nước đạt đỉnh thịnh trị với bộ luật Hồng Đức và khoa cử phát triển.",
+   "facts": [
+    "Năm 1428, sau khi khởi nghĩa Lam Sơn thắng lợi, Lê Lợi lên ngôi hoàng đế (Lê Thái Tổ), lập ra nhà Hậu Lê, quốc hiệu Đại Việt, đóng đô ở Thăng Long (còn gọi Đông Kinh).",
+    "Vua Lê Thánh Tông trị vì 1460-1497 với hai niên hiệu Quang Thuận (1460-1469) và Hồng Đức (1470-1497), đưa Đại Việt vào thời kì phát triển thịnh trị.",
+    "Thời Hồng Đức, nhà nước ban hành bộ luật Hồng Đức (Quốc triều hình luật) — bộ luật nổi tiếng bảo vệ chủ quyền quốc gia, khuyến khích sản xuất và có điểm tiến bộ bảo vệ phụ nữ.",
+    "Lê Thánh Tông cho vẽ bản đồ đất nước, gọi là bản đồ Hồng Đức, hoàn thành năm 1490.",
+    "Nhà Hậu Lê rất coi trọng giáo dục khoa cử: mở nhiều khoa thi và dựng bia tiến sĩ ở Văn Miếu để khắc tên người đỗ đạt."
+   ],
+   "traps": [
+    "Nhà HẬU LÊ (Lê Lợi lập năm 1428) khác nhà TIỀN LÊ (Lê Hoàn lập năm 980) — hai triều đại cách nhau hơn 400 năm.",
+    "Bộ luật Hồng Đức ra đời thời LÊ THÁNH TÔNG, không phải thời Lê Thái Tổ.",
+    "Lê Thánh Tông có HAI niên hiệu: Quang Thuận rồi Hồng Đức — không phải chỉ một niên hiệu Hồng Đức."
+   ],
+   "aliases": [
+    "Nhà Hậu Lê",
+    "Nhà Lê sơ",
+    "Lê Thái Tổ",
+    "Thời Hồng Đức",
+    "Luật Hồng Đức"
+   ],
+   "actors": [
+    "Lê Lợi (Lê Thái Tổ)",
+    "Lê Thánh Tông"
+   ],
+   "year": 1428,
+   "date_start": "1428",
+   "date_end": "1789",
+   "place": "Thăng Long (Đông Kinh)",
+   "topic_title": "Khởi nghĩa Lam Sơn và Triều Hậu Lê",
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 12
+    },
+    {
+     "book": "Cánh diều",
+     "bai": 11
+    },
+    {
+     "book": "CTST",
+     "bai": 11
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Nh%C3%A0_H%E1%BA%ADu_L%C3%AA",
+    "https://vi.wikipedia.org/wiki/Kh%E1%BB%9Fi_ngh%C4%A9a_Lam_S%C6%A1n",
+    "https://vi.wikipedia.org/wiki/L%C3%AA_Th%C3%A1nh_T%C3%B4ng"
+   ],
+   "fixed": [
+    "Niên hiệu Lê Thánh Tông: bổ sung Quang Thuận (1460-1469) trước Hồng Đức (1470-1497)",
+    "Bản đồ Hồng Đức hoàn thành năm 1490"
+   ]
+  },
+  {
+   "name": "Triều Nguyễn (1802-1945)",
+   "kind": "dynasty",
+   "summary": "Triều Nguyễn do Nguyễn Ánh (Gia Long) lập năm 1802, đóng đô ở Huế, là triều đại quân chủ cuối cùng của Việt Nam, kết thúc khi Bảo Đại thoái vị năm 1945.",
+   "facts": [
+    "Năm 1802, Nguyễn Ánh đánh bại triều Tây Sơn, lên ngôi hoàng đế lấy niên hiệu Gia Long, lập ra triều Nguyễn và đóng đô ở Phú Xuân (Huế).",
+    "Năm 1804 nhà Nguyễn đặt quốc hiệu Việt Nam; đến thời Minh Mạng (từ khoảng 1838-1839) đổi thành Đại Nam.",
+    "Triều Nguyễn là triều đại quân chủ cuối cùng của Việt Nam, trải qua 13 đời vua trong 143 năm (1802-1945).",
+    "Ngày 1/9/1858 thực dân Pháp nổ súng xâm lược tại Đà Nẵng; do triều đình từng bước nhân nhượng, đến Hiệp ước Pa-tơ-nốt (Patenôtre) ngày 6/6/1884 nhà Nguyễn phải công nhận quyền bảo hộ, cai trị của Pháp trên toàn Việt Nam.",
+    "Hàm Nghi, Thành Thái và Duy Tân là những vị vua yêu nước chống Pháp của triều Nguyễn nên bị thực dân đưa đi đày.",
+    "Sau thắng lợi của Cách mạng tháng Tám, cuối tháng 8/1945 vua Bảo Đại thoái vị (chiếu thoái vị ngày 25/8, lễ trao ấn kiếm tại Ngọ Môn - Huế ngày 30/8/1945), chấm dứt triều Nguyễn và chế độ quân chủ Việt Nam.",
+    "Kinh thành Huế do triều Nguyễn xây dựng nay là Quần thể di tích Cố đô Huế — di sản văn hoá thế giới."
+   ],
+   "traps": [
+    "Vua Gia Long chính là NGUYỄN ÁNH — một người, hai tên gọi.",
+    "Nhà Nguyễn lật đổ triều TÂY SƠN năm 1802; vua Quang Trung đã mất từ năm 1792, nên Gia Long không trực tiếp đánh bại Quang Trung."
+   ],
+   "aliases": [
+    "Nhà Nguyễn",
+    "Triều đình Huế",
+    "Gia Long lập quốc"
+   ],
+   "actors": [
+    "Nguyễn Ánh (Gia Long)",
+    "Minh Mạng",
+    "Tự Đức",
+    "Hàm Nghi",
+    "Thành Thái",
+    "Duy Tân",
+    "Bảo Đại"
+   ],
+   "year": 1802,
+   "date_start": "1802",
+   "date_end": "1945-08-30",
+   "place": "Phú Xuân (Huế)",
+   "topic_title": "Triều Nguyễn",
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 13
+    },
+    {
+     "book": "Cánh diều",
+     "bai": 12
+    },
+    {
+     "book": "CTST",
+     "bai": 12
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Nh%C3%A0_Nguy%E1%BB%85n"
+   ],
+   "fixed": [
+    "Gọi đúng tên văn kiện mốc 1884: Hiệp ước Pa-tơ-nốt (6/6/1884)"
+   ]
+  },
+  {
+   "name": "Dục Đức — vị vua trị vì ngắn nhất",
+   "kind": "person",
+   "summary": "Dục Đức là vua thứ năm của triều Nguyễn, chỉ ở ngôi 3 ngày trong tháng 7/1883 thì bị phế truất — vị vua trị vì ngắn nhất lịch sử Việt Nam.",
+   "facts": [
+    "Dục Đức tên thật là Nguyễn Phúc Ưng Ái, sau đổi thành Nguyễn Phúc Ưng Chân, là vị vua thứ năm của triều Nguyễn.",
+    "Ông lên ngôi ngày 20/7/1883 sau khi vua Tự Đức mất (có tài liệu ghi ngày 19/7/1883), nhưng chỉ 3 ngày sau (23/7/1883) đã bị hai Phụ chánh đại thần Nguyễn Văn Tường và Tôn Thất Thuyết phế truất.",
+    "Với chỉ 3 ngày ở ngôi, Dục Đức là vua trị vì ngắn nhất trong 13 vua triều Nguyễn; trong toàn bộ lịch sử quân chủ Việt Nam, ông cùng vua Lê Trung Tông (Lê Long Việt, nhà Tiền Lê, ở ngôi 3 ngày năm 1005) là những vị vua trị vì ngắn nhất.",
+    "Sau khi bị phế, ông bị giam và mất trong ngục ngày 6/10/1883 vì bị bỏ đói.",
+    "Năm 1883 triều Nguyễn cực kì rối ren, sử gọi là 'tứ nguyệt tam vương' — bốn tháng thay ba vua: Dục Đức, Hiệp Hoà rồi Kiến Phúc."
+   ],
+   "traps": [
+    "Vua trị vì NGẮN NHẤT triều Nguyễn (và lịch sử Việt Nam) là DỤC ĐỨC (3 ngày, năm 1883) — KHÔNG phải Lê Hiến Tông (vua nhà Hậu Lê, trị vì nhiều năm).",
+    "Dục Đức bị PHẾ TRUẤT bởi quyền thần Nguyễn Văn Tường và Tôn Thất Thuyết, không phải bị Pháp trực tiếp phế.",
+    "Nếu hỏi 'vua trị vì ngắn nhất' theo SGK/triều Nguyễn → DỤC ĐỨC (3 ngày, 1883); có thể nói thêm Lê Trung Tông nhà Tiền Lê cũng chỉ ở ngôi 3 ngày (năm 1005)."
+   ],
+   "aliases": [
+    "Vua Dục Đức",
+    "Nguyễn Phúc Ưng Ái",
+    "Nguyễn Phúc Ưng Chân"
+   ],
+   "actors": [
+    "Dục Đức",
+    "Nguyễn Văn Tường",
+    "Tôn Thất Thuyết"
+   ],
+   "year": null,
+   "date_start": "1883-07-20",
+   "date_end": "1883-10-06",
+   "place": "Huế",
+   "topic_title": "Triều Nguyễn",
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 13
+    },
+    {
+     "book": "Cánh diều",
+     "bai": 12
+    },
+    {
+     "book": "CTST",
+     "bai": 12
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/D%E1%BB%A5c_%C4%90%E1%BB%A9c",
+    "https://vi.wikipedia.org/wiki/L%C3%AA_Trung_T%C3%B4ng_(Ti%E1%BB%81n_L%C3%AA)"
+   ],
+   "fixed": [
+    "Bổ sung date_start 1883-07-20 (trước để trống) và ghi chú tài liệu ghi 19/7/1883",
+    "Sửa khẳng định tuyệt đối 'ngắn nhất lịch sử': Dục Đức ngắn nhất triều Nguyễn, đồng hạng với Lê Trung Tông (Tiền Lê, 3 ngày, 1005)",
+    "Nêu rõ ông mất ngày 6/10/1883 vì bị bỏ đói"
+   ]
+  },
+  {
+   "name": "Nguyễn Trung Trực",
+   "kind": "person",
+   "summary": "Nguyễn Trung Trực (1838-1868) là thủ lĩnh nghĩa quân chống Pháp ở Nam Kỳ, nổi tiếng với chiến công đốt tàu Hy Vọng trên vàm Nhựt Tảo và câu nói bất hủ về 'cỏ nước Nam'.",
+   "facts": [
+    "Nguyễn Trung Trực (1838-1868) là thủ lĩnh nghĩa quân chống thực dân Pháp ở Nam Kỳ, hoạt động chủ yếu ở vùng Long An - Kiên Giang ngày nay.",
+    "Ngày 10/12/1861, ông chỉ huy nghĩa quân đốt cháy tàu chiến Pháp L'Espérance (tàu Hy Vọng) trên vàm Nhựt Tảo — chiến công vang dội khắp Nam Kỳ.",
+    "Ngày 19/6/1868, ông chỉ huy nghĩa quân đánh chiếm đồn Kiên Giang (Rạch Giá), tiêu diệt nhiều quân Pháp.",
+    "Bị giặc bắt, ông bị xử chém tại Rạch Giá ngày 27/10/1868 khi mới 30 tuổi.",
+    "Trước khi hi sinh, ông khẳng khái nói: 'Bao giờ Tây nhổ hết cỏ nước Nam thì mới hết người Nam đánh Tây'."
+   ],
+   "traps": [
+    "Câu 'Bao giờ Tây nhổ hết cỏ nước Nam thì mới hết người Nam đánh Tây' là của NGUYỄN TRUNG TRỰC — KHÔNG phải của Phan Bội Châu.",
+    "Đừng nhầm Nguyễn Trung Trực với Trương Định — Trương Định là 'Bình Tây Đại nguyên soái', còn Nguyễn Trung Trực nổi tiếng với vụ đốt tàu Hy Vọng."
+   ],
+   "aliases": [
+    "Anh hùng Nguyễn Trung Trực",
+    "Vụ đốt tàu Hy Vọng",
+    "Trận Nhựt Tảo",
+    "Nhật Tảo"
+   ],
+   "actors": [
+    "Nguyễn Trung Trực"
+   ],
+   "year": null,
+   "date_start": "1838",
+   "date_end": "1868-10-27",
+   "place": "Long An - Kiên Giang (Nam Kỳ)",
+   "topic_title": "Triều Nguyễn",
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 13
+    },
+    {
+     "book": "Cánh diều",
+     "bai": 12
+    },
+    {
+     "book": "CTST",
+     "bai": 12
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Nguy%E1%BB%85n_Trung_Tr%E1%BB%B1c"
+   ],
+   "fixed": [
+    "Chi tiết hoá mốc đánh đồn Kiên Giang: 'tháng 6/1868' → ngày 19/6/1868"
+   ]
+  },
+  {
+   "name": "Thực dân Pháp xâm lược Việt Nam (1858)",
+   "kind": "event",
+   "summary": "Ngày 1/9/1858, thực dân Pháp nổ súng tấn công Đà Nẵng, mở đầu cuộc xâm lược Việt Nam; đến năm 1884 triều Nguyễn phải công nhận quyền cai trị của Pháp.",
+   "facts": [
+    "Ngày 1/9/1858, quân Pháp (có quân Tây Ban Nha phối hợp) nổ súng tấn công Đà Nẵng, mở đầu cuộc xâm lược Việt Nam.",
+    "Quân dân ta chống trả quyết liệt khiến kế hoạch 'đánh nhanh thắng nhanh' của Pháp ở Đà Nẵng thất bại, buộc chúng chuyển hướng đánh vào Gia Định.",
+    "Do triều đình nhà Nguyễn từng bước nhân nhượng, ký các hiệp ước cắt đất, đến năm 1884 Pháp áp đặt được quyền cai trị trên toàn Việt Nam.",
+    "Trong khi triều đình nhân nhượng, nhân dân Nam Kỳ vẫn anh dũng kháng chiến dưới cờ các thủ lĩnh như Trương Định, Nguyễn Trung Trực.",
+    "Việc Pháp xâm lược năm 1858 mở đầu hơn 80 năm nước ta chịu ách đô hộ thực dân, kéo dài đến Cách mạng tháng Tám 1945."
+   ],
+   "traps": [
+    "Pháp nổ súng xâm lược ĐẦU TIÊN ở ĐÀ NẴNG ngày 1/9/1858 — không phải ở Sài Gòn hay Huế.",
+    "Năm 1858 Pháp MỞ ĐẦU xâm lược, nhưng phải đến 1884 mới cai trị được toàn Việt Nam — hai mốc khác nhau."
+   ],
+   "aliases": [
+    "Pháp tấn công Đà Nẵng 1858",
+    "Pháp xâm lược Việt Nam",
+    "Liên quân Pháp - Tây Ban Nha đánh Đà Nẵng"
+   ],
+   "actors": [
+    "Thực dân Pháp",
+    "Triều đình nhà Nguyễn",
+    "Trương Định",
+    "Nguyễn Trung Trực"
+   ],
+   "year": 1858,
+   "date_start": "1858-09-01",
+   "date_end": "1884",
+   "place": "Đà Nẵng, Việt Nam",
+   "topic_title": "Triều Nguyễn",
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 13
+    },
+    {
+     "book": "Cánh diều",
+     "bai": 12
+    },
+    {
+     "book": "CTST",
+     "bai": 12
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Nh%C3%A0_Nguy%E1%BB%85n"
+   ]
+  },
+  {
+   "name": "Cách mạng tháng Tám năm 1945",
+   "kind": "event",
+   "summary": "Cuộc tổng khởi nghĩa tháng 8/1945 do Đảng và Việt Minh lãnh đạo, giành chính quyền trong cả nước, chấm dứt ách đô hộ thực dân và chế độ quân chủ.",
+   "facts": [
+    "Ngày 9/3/1945, Nhật đảo chính Pháp trên toàn Đông Dương, làm bùng lên cao trào kháng Nhật cứu nước trong cả nước.",
+    "Ngày 15/8/1945 phát xít Nhật đầu hàng Đồng minh, tạo ra thời cơ 'ngàn năm có một', nên Đảng và Mặt trận Việt Minh lập tức phát lệnh Tổng khởi nghĩa.",
+    "Tổng khởi nghĩa diễn ra thần tốc từ giữa đến cuối tháng 8/1945: Hà Nội giành chính quyền ngày 19/8, Huế ngày 23/8, Sài Gòn ngày 25/8.",
+    "Cuối tháng 8/1945, vua Bảo Đại thoái vị và trao ấn kiếm cho đại diện chính quyền cách mạng tại Ngọ Môn (Huế), chấm dứt chế độ quân chủ hàng nghìn năm.",
+    "Cách mạng tháng Tám thắng lợi đưa chính quyền về tay nhân dân, chấm dứt hơn 80 năm đô hộ của thực dân Pháp và dẫn tới việc khai sinh nước Việt Nam Dân chủ Cộng hoà ngày 2/9/1945.",
+    "Ngày 19/8 hằng năm trở thành ngày kỷ niệm Cách mạng tháng Tám."
+   ],
+   "traps": [
+    "Ngày 19/8/1945 là ngày khởi nghĩa thắng lợi ở HÀ NỘI; còn ngày 2/9/1945 là ngày đọc Tuyên ngôn Độc lập (Quốc khánh) — đừng lẫn hai ngày.",
+    "'Cách mạng mùa thu' chính là tên gọi khác của Cách mạng tháng Tám năm 1945.",
+    "Tổng Bí thư ĐẦU TIÊN của Đảng Cộng sản là TRẦN PHÚ (10/1930) — không phải Nguyễn Ái Quốc (Người là lãnh tụ sáng lập Đảng nhưng không giữ chức Tổng Bí thư đầu tiên)."
+   ],
+   "aliases": [
+    "Cách mạng mùa thu",
+    "Tổng khởi nghĩa tháng Tám 1945",
+    "CMT8"
+   ],
+   "actors": [
+    "Hồ Chí Minh",
+    "Mặt trận Việt Minh",
+    "Bảo Đại"
+   ],
+   "year": 1945,
+   "date_start": "1945-08-13",
+   "date_end": "1945-08-30",
+   "place": "Cả nước Việt Nam (Hà Nội, Huế, Sài Gòn)",
+   "topic_title": "Cách mạng tháng Tám năm 1945",
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 14
+    },
+    {
+     "book": "Cánh diều",
+     "bai": 13
+    },
+    {
+     "book": "CTST",
+     "bai": 13
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/C%C3%A1ch_m%E1%BA%A1ng_Th%C3%A1ng_T%C3%A1m"
+   ]
+  },
+  {
+   "name": "Bác Hồ đọc Tuyên ngôn Độc lập (2/9/1945)",
+   "kind": "event",
+   "summary": "Ngày 2/9/1945 tại quảng trường Ba Đình, Chủ tịch Hồ Chí Minh đọc Tuyên ngôn Độc lập, khai sinh nước Việt Nam Dân chủ Cộng hoà.",
+   "facts": [
+    "Ngày 2/9/1945, tại quảng trường Ba Đình (Hà Nội), Chủ tịch Hồ Chí Minh thay mặt Chính phủ lâm thời đọc Tuyên ngôn Độc lập, khai sinh nước Việt Nam Dân chủ Cộng hoà.",
+    "Bản Tuyên ngôn được Bác Hồ soạn thảo tại ngôi nhà số 48 phố Hàng Ngang, Hà Nội, vào cuối tháng 8/1945.",
+    "Phần mở đầu Tuyên ngôn trích dẫn Tuyên ngôn Độc lập của Mỹ (1776) và Tuyên ngôn Nhân quyền và Dân quyền của Cách mạng Pháp (Bác Hồ dẫn theo bản năm 1791; bản gốc được công bố năm 1789) để khẳng định quyền bình đẳng, quyền sống, quyền tự do của mọi dân tộc.",
+    "Tuyên ngôn khẳng định: nước Việt Nam có quyền hưởng tự do và độc lập, và toàn thể dân tộc Việt Nam quyết đem tất cả tinh thần, lực lượng, tính mạng, của cải để giữ vững quyền tự do, độc lập ấy.",
+    "Từ đó, ngày 2/9 trở thành ngày Quốc khánh của nước Việt Nam."
+   ],
+   "traps": [
+    "Ngày 2/9/1945 là ngày ĐỌC TUYÊN NGÔN ĐỘC LẬP (Quốc khánh) — còn 19/8 là ngày khởi nghĩa giành chính quyền ở Hà Nội.",
+    "Tuyên ngôn được đọc tại quảng trường BA ĐÌNH (Hà Nội), không phải ở Huế hay Sài Gòn.",
+    "Trong văn bản Tuyên ngôn, Bác Hồ ghi Tuyên ngôn Nhân quyền và Dân quyền của Pháp năm 1791 — học sinh cần biết bản gốc công bố năm 1789, khi trả lời nên bám theo cách ghi của Tuyên ngôn/SGK."
+   ],
+   "aliases": [
+    "Tuyên ngôn Độc lập 2/9",
+    "Ngày Quốc khánh",
+    "Khai sinh nước Việt Nam Dân chủ Cộng hoà"
+   ],
+   "actors": [
+    "Hồ Chí Minh"
+   ],
+   "year": 1945,
+   "date_start": "1945-09-02",
+   "date_end": "1945-09-02",
+   "place": "Quảng trường Ba Đình, Hà Nội",
+   "topic_title": "Cách mạng tháng Tám năm 1945",
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 14
+    },
+    {
+     "book": "Cánh diều",
+     "bai": 13
+    },
+    {
+     "book": "CTST",
+     "bai": 13
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Tuy%C3%AAn_ng%C3%B4n_%C4%91%E1%BB%99c_l%E1%BA%ADp_(Vi%E1%BB%87t_Nam_D%C3%A2n_ch%E1%BB%A7_C%E1%BB%99ng_h%C3%B2a)"
+   ],
+   "fixed": [
+    "Làm rõ mốc 1791 là cách dẫn trong văn bản Tuyên ngôn, bản gốc Tuyên ngôn Nhân quyền và Dân quyền Pháp là năm 1789"
+   ]
+  },
+  {
+   "name": "Chiến dịch Điện Biên Phủ",
+   "kind": "campaign",
+   "summary": "Chiến dịch quyết chiến 56 ngày đêm (13/3 - 7/5/1954) do Đại tướng Võ Nguyên Giáp chỉ huy, tiêu diệt tập đoàn cứ điểm Điện Biên Phủ, buộc Pháp ký Hiệp định Giơ-ne-vơ.",
+   "facts": [
+    "Thực hiện kế hoạch Nava (của tướng Pháp Henri Navarre, 1953), Pháp xây Điện Biên Phủ thành tập đoàn cứ điểm mạnh nhất Đông Dương, coi đó là 'pháo đài không thể công phá' để nghiền nát bộ đội chủ lực ta.",
+    "Chiến dịch Điện Biên Phủ diễn ra từ 13/3 đến 7/5/1954, kéo dài 56 ngày đêm với ba đợt tấn công, dưới sự chỉ huy của Đại tướng Võ Nguyên Giáp.",
+    "Trước giờ nổ súng, Đại tướng Võ Nguyên Giáp quyết định đổi phương châm từ 'đánh nhanh, thắng nhanh' sang 'đánh chắc, tiến chắc', cho kéo pháo ra chuẩn bị lại — quyết định khó khăn nhưng sáng suốt.",
+    "Ngày 13/3/1954, quân ta nổ súng mở màn, tiêu diệt cứ điểm Him Lam; hàng vạn dân công hoả tuyến dùng xe đạp thồ tiếp lương thực, đạn dược cho mặt trận.",
+    "Chiều 7/5/1954, quân ta đánh chiếm sở chỉ huy địch, tướng Đờ Ca-xtơ-ri (De Castries) cùng toàn bộ bộ chỉ huy tập đoàn cứ điểm phải ra hàng; hơn 11.000 quân địch bị bắt sống (SGK ghi toàn chiến dịch ta tiêu diệt và bắt sống 16.200 quân địch).",
+    "Chiến thắng Điện Biên Phủ đập tan kế hoạch Nava, buộc Pháp ký Hiệp định Giơ-ne-vơ ngày 21/7/1954, kết thúc thắng lợi chín năm kháng chiến chống thực dân Pháp.",
+    "Chiến thắng Điện Biên Phủ được ca ngợi là 'lừng lẫy năm châu, chấn động địa cầu'."
+   ],
+   "traps": [
+    "Chiến dịch ĐIỆN BIÊN PHỦ (13/3-7/5/1954) đánh PHÁP tại lòng chảo Điện Biên — KHÁC hẳn 'Điện Biên Phủ trên không' (18-29/12/1972) đánh máy bay B-52 MỸ trên bầu trời Hà Nội; hỏi về 1954 thì không được trả lời bằng sự kiện 1972.",
+    "Kế hoạch NAVA là kế hoạch quân sự của PHÁP (tướng Navarre) bị phá sản bởi Điện Biên Phủ — đây là thuật ngữ môn Lịch sử, không liên quan hoá học.",
+    "Hiệp định GIƠ-NE-VƠ (21/7/1954) ký sau chiến thắng Điện Biên Phủ — đừng lẫn với Hiệp định Pa-ri (27/1/1973) ký với Mỹ."
+   ],
+   "aliases": [
+    "Chiến thắng Điện Biên Phủ",
+    "Chiến thắng lịch sử Điện Biên Phủ",
+    "Trận Điện Biên Phủ 1954",
+    "56 ngày đêm Điện Biên Phủ"
+   ],
+   "actors": [
+    "Võ Nguyên Giáp",
+    "Hồ Chí Minh",
+    "De Castries (Đờ Ca-xtơ-ri)",
+    "Henri Navarre (Na-va)"
+   ],
+   "year": 1954,
+   "date_start": "1954-03-13",
+   "date_end": "1954-05-07",
+   "place": "Điện Biên Phủ (tỉnh Điện Biên)",
+   "topic_title": "Chiến dịch Điện Biên Phủ năm 1954",
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 15
+    },
+    {
+     "book": "Cánh diều",
+     "bai": 14
+    },
+    {
+     "book": "CTST",
+     "bai": 14
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_d%E1%BB%8Bch_%C4%90i%E1%BB%87n_Bi%C3%AAn_Ph%E1%BB%A7"
+   ],
+   "fixed": [
+    "Bổ sung số liệu SGK cho toàn chiến dịch (16.200 quân địch bị tiêu diệt và bắt sống) bên cạnh con số hơn 11.000 bị bắt ngày 7/5"
+   ]
+  },
+  {
+   "name": "Võ Nguyên Giáp",
+   "kind": "person",
+   "summary": "Đại tướng Võ Nguyên Giáp (1911-2013) là Đại tướng đầu tiên của Quân đội nhân dân Việt Nam, Tổng tư lệnh chiến dịch Điện Biên Phủ năm 1954.",
+   "facts": [
+    "Võ Nguyên Giáp sinh ngày 25/8/1911 tại huyện Lệ Thuỷ, tỉnh Quảng Bình và mất ngày 4/10/2013, thọ 102 tuổi.",
+    "Ngày 22/12/1944, theo chỉ thị của lãnh tụ Hồ Chí Minh, ông thành lập Đội Việt Nam Tuyên truyền Giải phóng quân với 34 chiến sĩ — tiền thân của Quân đội nhân dân Việt Nam.",
+    "Năm 1948, khi mới 37 tuổi, ông được phong quân hàm Đại tướng — Đại tướng đầu tiên của Quân đội nhân dân Việt Nam.",
+    "Trong chiến dịch Điện Biên Phủ 1954, ông được Chủ tịch Hồ Chí Minh trao toàn quyền chỉ huy và đã có quyết định lịch sử đổi phương châm sang 'đánh chắc, tiến chắc' đưa chiến dịch đến toàn thắng.",
+    "Ông được nhân dân yêu mến gọi là 'Anh Cả' của quân đội, người 'Anh Văn' huyền thoại."
+   ],
+   "traps": [
+    "Đại tướng ĐẦU TIÊN của Quân đội nhân dân Việt Nam là VÕ NGUYÊN GIÁP (phong năm 1948).",
+    "Ngày 22/12/1944 thành lập Đội Việt Nam Tuyên truyền Giải phóng quân — nay là Ngày thành lập Quân đội nhân dân Việt Nam (22/12)."
+   ],
+   "aliases": [
+    "Đại tướng Võ Nguyên Giáp",
+    "Tướng Giáp",
+    "Anh Văn"
+   ],
+   "actors": [
+    "Võ Nguyên Giáp",
+    "Hồ Chí Minh"
+   ],
+   "year": null,
+   "date_start": "1911-08-25",
+   "date_end": "2013-10-04",
+   "place": "Lệ Thuỷ, Quảng Bình",
+   "topic_title": "Chiến dịch Điện Biên Phủ năm 1954",
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 15
+    },
+    {
+     "book": "Cánh diều",
+     "bai": 14
+    },
+    {
+     "book": "CTST",
+     "bai": 14
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/V%C3%B5_Nguy%C3%AAn_Gi%C3%A1p"
+   ]
+  },
+  {
+   "name": "Phan Đình Giót",
+   "kind": "person",
+   "summary": "Anh hùng Phan Đình Giót (1922-1954) lấy thân mình lấp lỗ châu mai trong trận mở màn Him Lam ngày 13/3/1954 của chiến dịch Điện Biên Phủ.",
+   "facts": [
+    "Phan Đình Giót sinh năm 1922 tại huyện Cẩm Xuyên, tỉnh Hà Tĩnh, trong một gia đình nông dân nghèo.",
+    "Trong trận mở màn đánh cứ điểm Him Lam ngày 13/3/1954, dù đã bị thương nhiều lần, anh vẫn lao lên lấy thân mình lấp lỗ châu mai địch để đồng đội xông lên tiêu diệt cứ điểm, và anh dũng hi sinh.",
+    "Ngày 31/3/1955, Phan Đình Giót được truy tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân.",
+    "Cùng thời kì Điện Biên Phủ còn có những tấm gương anh hùng khác: Tô Vĩnh Diện lấy thân chèn pháo (ngày 1/2/1954, trong đợt kéo pháo chuẩn bị chiến dịch) và Bế Văn Đàn lấy thân làm giá súng (ngày 12/12/1953, tại Mường Pồn, thuộc chiến cục Đông Xuân 1953-1954 - giai đoạn chuẩn bị cho Điện Biên Phủ)."
+   ],
+   "traps": [
+    "Phan Đình Giót LẤP LỖ CHÂU MAI, Tô Vĩnh Diện CHÈN PHÁO, Bế Văn Đàn LÀM GIÁ SÚNG — đừng hoán đổi hành động của ba anh hùng.",
+    "Phan Đình Giót hi sinh ngày 13/3/1954 trong trận HIM LAM — trận mở màn chiến dịch Điện Biên Phủ, không phải trận đồi A1.",
+    "Bế Văn Đàn hi sinh ngày 12/12/1953 ở Mường Pồn (trước khi chiến dịch Điện Biên Phủ mở màn 13/3/1954) — không nên nói ông hi sinh trong chiến dịch Điện Biên Phủ."
+   ],
+   "aliases": [
+    "Anh hùng Phan Đình Giót",
+    "Người lấp lỗ châu mai"
+   ],
+   "actors": [
+    "Phan Đình Giót"
+   ],
+   "year": null,
+   "date_start": "1922",
+   "date_end": "1954-03-13",
+   "place": "Cẩm Xuyên, Hà Tĩnh — hi sinh tại Him Lam, Điện Biên Phủ",
+   "topic_title": "Chiến dịch Điện Biên Phủ năm 1954",
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 15
+    },
+    {
+     "book": "Cánh diều",
+     "bai": 14
+    },
+    {
+     "book": "CTST",
+     "bai": 14
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Phan_%C4%90%C3%ACnh_Gi%C3%B3t",
+    "https://vi.wikipedia.org/wiki/B%E1%BA%BF_V%C4%83n_%C4%90%C3%A0n"
+   ],
+   "fixed": [
+    "SAI TRƯỚC/SAU: Bế Văn Đàn hi sinh 12/12/1953 tại Mường Pồn (chiến cục Đông Xuân 1953-1954), không phải 'cùng chiến dịch Điện Biên Phủ'; bổ sung mốc Tô Vĩnh Diện 1/2/1954"
+   ]
+  },
+  {
+   "name": "Môn Lịch sử và Địa lí lớp 5 (môn học tích hợp)",
+   "kind": "concept",
+   "summary": "Ở lớp 4 và lớp 5, Lịch sử và Địa lí là MỘT môn học tích hợp: mỗi bài có thể vừa là nội dung lịch sử, vừa là nội dung địa lí hoặc gắn với một vùng miền, di tích.",
+   "facts": [
+    "Theo Chương trình giáo dục phổ thông 2018, ở tiểu học (lớp 4 và lớp 5) Lịch sử và Địa lí là MỘT môn học tích hợp, không tách thành hai môn riêng.",
+    "Sách Lịch sử và Địa lí 5 (Kết nối tri thức) gồm 6 chủ đề với 28 bài: Chủ đề 1 'Đất nước và con người Việt Nam' (bài 1-4), Chủ đề 2 'Những quốc gia đầu tiên trên lãnh thổ Việt Nam' (bài 5-7), Chủ đề 3 'Xây dựng và bảo vệ đất nước Việt Nam' (bài 8-17), Chủ đề 4 'Các nước láng giềng', Chủ đề 5 'Tìm hiểu thế giới', Chủ đề 6 'Chung tay xây dựng thế giới'.",
+    "Nhiều bài lớp 5 được tổ chức theo CHỦ ĐỀ vùng miền, di tích, nhân vật hoặc theo địa danh (ví dụ bài 1 gộp vị trí địa lí, lãnh thổ, đơn vị hành chính với Quốc kì, Quốc huy, Quốc ca), nên không phải bài nào cũng gắn với một năm cụ thể.",
+    "Vì vậy, với câu hỏi lớp 5 dạng 'bài này thuộc năm nào', nhiều trường hợp KHÔNG có mốc năm — chỉ nên nêu năm khi bài học thật sự gắn với một sự kiện lịch sử có niên đại."
+   ],
+   "traps": [
+    "Lớp 5 học MÔN TÍCH HỢP 'Lịch sử và Địa lí' — không được coi mọi câu hỏi lớp 5 là câu Lịch sử thuần tuý, cũng không ép gán 'year' cho bài học theo chủ đề vùng miền/di tích.",
+    "Ba bộ sách (Kết nối tri thức, Chân trời sáng tạo, Cánh Diều) đánh SỐ BÀI KHÁC NHAU cho cùng một nội dung — khi trả lời nên nói tên bài, không chỉ nói số bài."
+   ],
+   "aliases": [
+    "Lịch sử và Địa lí 5",
+    "Môn tích hợp Lịch sử và Địa lí",
+    "Chương trình Lịch sử Địa lí lớp 5"
+   ],
+   "actors": [],
+   "year": null,
+   "date_start": null,
+   "date_end": null,
+   "place": "Việt Nam",
+   "topic_title": "Giới thiệu môn Lịch sử và Địa lí lớp 5",
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 1
+    },
+    {
+     "book": "Cánh diều",
+     "bai": 1
+    },
+    {
+     "book": "CTST",
+     "bai": 1
+    }
+   ],
+   "sources": [
+    "https://vietjack.com/lich-su-va-dia-li-5-kn/index.jsp",
+    "https://loigiaihay.com/sgk-lich-su-va-dia-li-5-pdf-lich-su-va-dia-li-5-ket-noi-tri-thuc-a175509.html"
+   ],
+   "fixed": [
+    "Thẻ mới bổ sung: phủ bẫy 'lớp 5 là môn tích hợp Lịch sử và Địa lí, không ép year cứng'"
+   ]
+  },
+  {
+   "name": "Kháng chiến chống Mông Cổ lần thứ nhất (1258)",
+   "kind": "campaign",
+   "summary": "Đầu năm 1258, quân Mông Cổ do Ngột Lương Hợp Thai chỉ huy tràn vào Đại Việt; vua Trần Thái Tông cùng quân dân rút lui bảo toàn lực lượng rồi phản công ở Đông Bộ Đầu, đánh đuổi giặc chỉ sau khoảng nửa tháng.",
+   "facts": [
+    "Tháng 1/1258, quân Mông Cổ do tướng Ngột Lương Hợp Thai (Uriyangqatai) chỉ huy từ Vân Nam tiến vào xâm lược Đại Việt.",
+    "Vua Trần Thái Tông trực tiếp cầm quân chặn giặc ở Bình Lệ Nguyên (nay thuộc Bình Xuyên, Vĩnh Phúc), sau đó chủ động rút khỏi Thăng Long, thực hiện 'vườn không nhà trống'.",
+    "Khi giặc lâm vào cảnh thiếu lương, quân ta phản công ở Đông Bộ Đầu (nay thuộc quận Ba Đình, Hà Nội), đánh bật quân Mông Cổ khỏi Thăng Long; cuộc kháng chiến chỉ kéo dài khoảng nửa tháng.",
+    "Khi vua hỏi kế đánh giặc, Thái sư Trần Thủ Độ khẳng khái đáp: 'Đầu thần chưa rơi xuống đất, xin bệ hạ đừng lo'."
+   ],
+   "traps": [
+    "Kháng chiến LẦN THỨ NHẤT là năm 1258, chống quân MÔNG CỔ (nhà Nguyên chưa thành lập) — khác lần hai (1285) và lần ba (1287-1288) chống quân NGUYÊN.",
+    "Câu 'Đầu thần chưa rơi xuống đất, xin bệ hạ đừng lo' là của TRẦN THỦ ĐỘ (1258), không phải của Trần Hưng Đạo."
+   ],
+   "aliases": [
+    "Kháng chiến chống quân Mông Cổ 1258",
+    "Kháng chiến chống Mông - Nguyên lần thứ nhất",
+    "Trận Đông Bộ Đầu",
+    "Trận Bình Lệ Nguyên"
+   ],
+   "actors": [
+    "Trần Thái Tông",
+    "Trần Thủ Độ",
+    "Ngột Lương Hợp Thai"
+   ],
+   "year": 1258,
+   "date_start": "1258",
+   "date_end": "1258",
+   "place": "Thăng Long, Bình Lệ Nguyên (Vĩnh Phúc), Đông Bộ Đầu (Hà Nội)",
+   "topic_title": "Triều Trần xây dựng đất nước và kháng chiến chống quân Mông - Nguyên xâm lược",
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 10
+    },
+    {
+     "book": "Cánh diều",
+     "bai": 10
+    },
+    {
+     "book": "CTST",
+     "bai": 10
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_tranh_Nguy%C3%AAn_M%C3%B4ng%E2%80%93%C4%90%E1%BA%A1i_Vi%E1%BB%87t",
+    "https://vi.wikipedia.org/wiki/Tr%E1%BA%A7n_Th%C3%A1i_T%C3%B4ng"
+   ],
+   "fixed": [
+    "Thẻ mới bổ sung: tách riêng lần kháng chiến 1258 kèm định ngữ năm để chống nhầm giữa ba lần"
+   ]
+  },
+  {
+   "name": "Kháng chiến chống Mông - Nguyên lần thứ hai (1285)",
+   "kind": "campaign",
+   "summary": "Năm 1285, quân Nguyên do Thoát Hoan và Toa Đô chỉ huy sang xâm lược lần thứ hai; nhà Trần dùng kế 'vườn không nhà trống' rồi phản công thắng lớn ở Tây Kết, Hàm Tử, Chương Dương, giải phóng Thăng Long.",
+   "facts": [
+    "Trước nguy cơ xâm lược, nhà Trần mở hội nghị Bình Than (1282) bàn kế đánh giặc với vương hầu, tướng lĩnh, và cuối năm 1284 mở hội nghị Diên Hồng hỏi ý các bô lão — tất cả đồng thanh 'Đánh!'.",
+    "Đầu năm 1285, quân Nguyên do Thoát Hoan chỉ huy đánh xuống từ phía bắc, Toa Đô đánh lên từ phía nam (Chăm-pa), tạo thế gọng kìm.",
+    "Trần Hưng Đạo viết 'Hịch tướng sĩ' khích lệ quân sĩ; nhà Trần chủ động rút lui, thực hiện 'vườn không nhà trống' khiến giặc thiếu lương, mỏi mệt.",
+    "Từ tháng 5-6/1285, quân ta phản công thắng lớn ở Tây Kết, Hàm Tử, Chương Dương, giải phóng Thăng Long; Toa Đô tử trận, Thoát Hoan phải tháo chạy về nước."
+   ],
+   "traps": [
+    "Kháng chiến LẦN THỨ HAI diễn ra năm 1285 (không phải 1258 hay 1288); tướng giặc là Thoát Hoan và Toa Đô.",
+    "Hội nghị DIÊN HỒNG (cuối 1284) hỏi các BÔ LÃO; hội nghị BÌNH THAN (1282) là nơi bàn bạc của vương hầu, tướng lĩnh — đừng lẫn hai hội nghị."
+   ],
+   "aliases": [
+    "Kháng chiến chống quân Nguyên 1285",
+    "Trận Chương Dương - Hàm Tử",
+    "Kháng chiến lần hai chống Mông - Nguyên"
+   ],
+   "actors": [
+    "Trần Hưng Đạo",
+    "Trần Nhân Tông",
+    "Trần Thánh Tông",
+    "Thoát Hoan",
+    "Toa Đô"
+   ],
+   "year": 1285,
+   "date_start": "1285",
+   "date_end": "1285",
+   "place": "Thăng Long, Tây Kết - Hàm Tử - Chương Dương (Hưng Yên, Hà Nội)",
+   "topic_title": "Triều Trần xây dựng đất nước và kháng chiến chống quân Mông - Nguyên xâm lược",
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 10
+    },
+    {
+     "book": "Cánh diều",
+     "bai": 10
+    },
+    {
+     "book": "CTST",
+     "bai": 10
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_tranh_Nguy%C3%AAn_M%C3%B4ng%E2%80%93%C4%90%E1%BA%A1i_Vi%E1%BB%87t",
+    "https://vi.wikipedia.org/wiki/H%E1%BB%99i_ngh%E1%BB%8B_Di%C3%AAn_H%E1%BB%93ng"
+   ],
+   "fixed": [
+    "Thẻ mới bổ sung: định ngữ năm (1285) cho lần kháng chiến thứ hai theo yêu cầu chống trùng tên khác năm"
+   ]
+  },
+  {
+   "name": "Kháng chiến chống Mông - Nguyên lần thứ ba (1287-1288) và trận Bạch Đằng năm 1288",
+   "kind": "campaign",
+   "summary": "Lần thứ ba (1287-1288), quân ta diệt đoàn thuyền lương ở Vân Đồn rồi tiêu diệt đoàn binh thuyền rút lui của Ô Mã Nhi trên sông Bạch Đằng tháng 4/1288, kết thúc thắng lợi ba lần kháng chiến.",
+   "facts": [
+    "Cuối năm 1287, quân Nguyên do Thoát Hoan chỉ huy xâm lược Đại Việt lần thứ ba, có đoàn thuyền lương của Trương Văn Hổ đi theo tiếp tế.",
+    "Tháng 12/1287, Trần Khánh Dư phục kích và đánh tan ĐOÀN THUYỀN LƯƠNG của Trương Văn Hổ ở Vân Đồn (Quảng Ninh), khiến quân giặc lâm vào cảnh thiếu lương.",
+    "Tháng 4/1288, Trần Hưng Đạo cho cắm cọc trên sông Bạch Đằng, lợi dụng thuỷ triều, tiêu diệt ĐOÀN BINH THUYỀN ĐANG RÚT LUI của giặc và bắt sống tướng Ô Mã Nhi cùng hàng trăm chiến thuyền.",
+    "Thoát Hoan phải rút chạy về nước bằng đường bộ; ba lần kháng chiến chống Mông - Nguyên kết thúc thắng lợi, bảo vệ vững chắc nền độc lập của Đại Việt."
+   ],
+   "traps": [
+    "Trận Bạch Đằng năm 1288 do TRẦN HƯNG ĐẠO chỉ huy đánh quân NGUYÊN — khác trận Bạch Đằng năm 938 (Ngô Quyền đánh Nam Hán) và năm 981 (Lê Hoàn đánh Tống). Hỏi năm nào phải trả lời đúng năm ấy.",
+    "Trận VÂN ĐỒN (cuối 1287) diệt đoàn THUYỀN LƯƠNG; trận BẠCH ĐẰNG (4/1288) diệt đoàn BINH THUYỀN RÚT LUI — không được đánh đồng hai trận."
+   ],
+   "aliases": [
+    "Kháng chiến chống quân Nguyên 1287-1288",
+    "Trận Bạch Đằng 1288",
+    "Trận Vân Đồn 1287",
+    "Kháng chiến lần ba chống Mông - Nguyên"
+   ],
+   "actors": [
+    "Trần Hưng Đạo",
+    "Trần Khánh Dư",
+    "Ô Mã Nhi",
+    "Thoát Hoan",
+    "Trương Văn Hổ"
+   ],
+   "year": 1288,
+   "date_start": "1287",
+   "date_end": "1288",
+   "place": "Vân Đồn (Quảng Ninh), sông Bạch Đằng (Quảng Ninh - Hải Phòng)",
+   "topic_title": "Triều Trần xây dựng đất nước và kháng chiến chống quân Mông - Nguyên xâm lược",
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 10
+    },
+    {
+     "book": "Cánh diều",
+     "bai": 10
+    },
+    {
+     "book": "CTST",
+     "bai": 10
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Tr%E1%BA%ADn_B%E1%BA%A1ch_%C4%90%E1%BA%B1ng_(1288)",
+    "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_tranh_Nguy%C3%AAn_M%C3%B4ng%E2%80%93%C4%90%E1%BA%A1i_Vi%E1%BB%87t"
+   ],
+   "fixed": [
+    "Thẻ mới bổ sung: tách trận Bạch Đằng 1288 có định ngữ năm, chống nhầm với Bạch Đằng 938/981"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1207 @@
+{
+ "grade": 6,
+ "chunk": 3,
+ "cards": [
+  {
+   "name": "Khúc Thừa Dụ dựng quyền tự chủ",
+   "kind": "event",
+   "year": 905,
+   "date_start": "905",
+   "date_end": "907",
+   "place": "Thành Tống Bình (Hà Nội ngày nay)",
+   "actors": [
+    "Khúc Thừa Dụ",
+    "Khúc Hạo"
+   ],
+   "aliases": [
+    "Họ Khúc dựng quyền tự chủ",
+    "Khúc Thừa Dụ xưng Tiết độ sứ",
+    "Khúc Tiên Chúa"
+   ],
+   "summary": "Giữa năm 905, nhân lúc nhà Đường suy yếu, hào trưởng Khúc Thừa Dụ chiếm thành Tống Bình và tự xưng Tiết độ sứ, mở đầu thời kì người Việt tự cai quản đất nước sau hơn nghìn năm Bắc thuộc.",
+   "facts": [
+    "Giữa năm 905, nhân lúc nhà Đường suy yếu, hào trưởng Khúc Thừa Dụ tập hợp nhân dân đánh chiếm thành Tống Bình (Hà Nội ngày nay) rồi tự xưng Tiết độ sứ.",
+    "Đầu năm 906, vua Đường buộc phải công nhận và phong Khúc Thừa Dụ làm Tiết độ sứ An Nam, nghĩa là từ đó người Việt thực chất đã tự cai quản đất nước mình.",
+    "Khúc Thừa Dụ khôn khéo chỉ xưng Tiết độ sứ — một chức quan của nhà Đường — chứ không xưng vương, để giành quyền tự chủ trên thực tế mà tránh đối đầu trực diện với phương Bắc.",
+    "Năm 907, Khúc Thừa Dụ mất, con trai là Khúc Hạo lên thay và tiến hành nhiều cải cách để xây dựng chính quyền tự chủ, giảm nhẹ thuế khóa cho dân.",
+    "Việc nhà Đường suy yếu rồi sụp đổ năm 907 tạo thời cơ cho họ Khúc giành và giữ quyền tự chủ, mở đầu bước ngoặt lịch sử đầu thế kỉ X của dân tộc."
+   ],
+   "traps": [
+    "Nhầm 'Khúc Thừa Dụ xưng vương/xưng đế' — SAI: ông chỉ tự xưng TIẾT ĐỘ SỨ, không xưng vương.",
+    "Nhầm năm 905 là năm chấm dứt Bắc thuộc — SAI: năm 905 mới giành QUYỀN TỰ CHỦ; Bắc thuộc chấm dứt hoàn toàn với chiến thắng Bạch Đằng năm 938.",
+    "Người tiến hành cải cách 'khoan dung, giản dị' là Khúc Hạo (con), không phải Khúc Thừa Dụ (cha)."
+   ],
+   "topic_title": "Bước ngoặt lịch sử đầu thế kỉ X",
+   "lessons": [
+    {
+     "book": "CTST",
+     "bai": 19
+    },
+    {
+     "book": "KNTT",
+     "bai": 18
+    },
+    {
+     "book": "Cánh diều",
+     "bai": 17
+    }
+   ],
+   "sources": [
+    "https://soha.vn/khuc-thua-du-danh-chiem-tong-binh-tu-xung-tiet-do-su-xay-dung-chinh-quyen-tu-chu-20181128114109072.htm",
+    "https://sokhcn1.haiduong.gov.vn/Trang/ChiTietTinTuc.aspx?nid=10688&title=ho-khuc-gianh-va-giu-doc-lap-dan-toc-trong-hoa-binh.html",
+    "https://loigiaihay.com/khuc-thua-du-dung-quyen-tu-chu-trong-hoan-canh-nao-c81a14250.html"
+   ]
+  },
+  {
+   "name": "Dương Đình Nghệ đánh đuổi quân Nam Hán",
+   "kind": "event",
+   "year": 931,
+   "date_start": "930",
+   "date_end": "937",
+   "place": "Thành Tống Bình/Đại La (Hà Nội ngày nay)",
+   "actors": [
+    "Dương Đình Nghệ",
+    "Kiều Công Tiễn",
+    "Khúc Thừa Mỹ"
+   ],
+   "aliases": [
+    "Dương Diên Nghệ",
+    "kháng chiến chống Nam Hán lần thứ nhất"
+   ],
+   "summary": "Năm 931, tướng cũ của họ Khúc là Dương Đình Nghệ đem quân từ Thanh Hóa ra Bắc đánh đuổi quân Nam Hán, khôi phục nền tự chủ và tự xưng Tiết độ sứ.",
+   "facts": [
+    "Năm 930, quân Nam Hán sang xâm lược nước ta, đánh bại và bắt Tiết độ sứ Khúc Thừa Mỹ, chiếm thành Tống Bình.",
+    "Năm 931, Dương Đình Nghệ — một tướng cũ của họ Khúc, quê ở Thanh Hóa — đem quân ra Bắc bao vây, đánh chiếm thành Tống Bình (Đại La), rồi đánh tan luôn cả viện binh Nam Hán mới kéo sang.",
+    "Sau chiến thắng năm 931, Dương Đình Nghệ tự xưng Tiết độ sứ, tiếp tục sự nghiệp tự chủ mà họ Khúc gây dựng.",
+    "Năm 937, Dương Đình Nghệ bị nha tướng Kiều Công Tiễn ám hại để đoạt chức Tiết độ sứ.",
+    "Kiều Công Tiễn giết chủ rồi cầu cứu vua Nam Hán, hành động này tạo cớ cho quân Nam Hán xâm lược lần thứ hai và dẫn thẳng đến trận Bạch Đằng năm 938."
+   ],
+   "traps": [
+    "Dương Đình Nghệ đánh quân NAM HÁN (năm 931), không phải đánh quân Đường.",
+    "Ông cũng chỉ xưng Tiết độ sứ như họ Khúc, không xưng vương.",
+    "Người giết Dương Đình Nghệ là Kiều Công Tiễn — kẻ sau đó bị Ngô Quyền trừng trị."
+   ],
+   "topic_title": "Bước ngoặt lịch sử đầu thế kỉ X",
+   "lessons": [
+    {
+     "book": "CTST",
+     "bai": 19
+    },
+    {
+     "book": "KNTT",
+     "bai": 18
+    },
+    {
+     "book": "Cánh diều",
+     "bai": 17
+    }
+   ],
+   "sources": [
+    "http://baotanglichsu.vn/vi/Articles/3098/15781/vo-tuong-duong-djinh-nghe-nguoi-khoi-binh-djanh-djuoi-quan-nam-han-giai-phong-thanh-djai-la-gianh-quyen-tu-chu-cho-nuoc-viet.html",
+    "https://loigiaihay.com/duong-dinh-nghe-chong-quan-xam-luoc-nam-han-930-931-c81a14255.html"
+   ]
+  },
+  {
+   "name": "Chiến thắng Bạch Đằng năm 938",
+   "kind": "battle",
+   "year": 938,
+   "date_start": "938",
+   "date_end": "939",
+   "place": "Sông Bạch Đằng (Hải Phòng – Quảng Ninh ngày nay)",
+   "actors": [
+    "Ngô Quyền",
+    "Lưu Hoằng Tháo",
+    "Kiều Công Tiễn",
+    "Lưu Cung"
+   ],
+   "aliases": [
+    "Trận Bạch Đằng 938",
+    "chiến thắng Bạch Đằng lần thứ nhất",
+    "Ngô Quyền đại phá quân Nam Hán",
+    "Bạch Đằng giang 938"
+   ],
+   "summary": "Cuối năm 938, Ngô Quyền dùng trận địa cọc ngầm trên sông Bạch Đằng đánh tan quân Nam Hán, chấm dứt hơn 1.000 năm Bắc thuộc và mở ra thời kì độc lập lâu dài của dân tộc.",
+   "facts": [
+    "Cuối năm 938, vua Nam Hán sai con trai là Lưu Hoằng Tháo chỉ huy 2 vạn quân theo đường biển tiến vào nước ta qua cửa sông Bạch Đằng.",
+    "Trước đó, Ngô Quyền — con rể của Dương Đình Nghệ — đã kéo quân ra Bắc giết Kiều Công Tiễn, trừ mối họa bên trong rồi gấp rút bố trí trận đánh đón giặc.",
+    "Ngô Quyền cho đóng cọc gỗ đầu vạt nhọn bịt sắt xuống lòng sông Bạch Đằng: lúc thủy triều lên thì cho thuyền nhẹ ra nhử giặc vào, lúc thủy triều rút thì phản công, thuyền giặc đâm vào cọc vỡ và mắc kẹt.",
+    "Trận đánh kết thúc trong một ngày: Lưu Hoằng Tháo tử trận, quá nửa quân Nam Hán bị tiêu diệt, vua Nam Hán Lưu Cung phải thu quân về nước.",
+    "Năm 939, Ngô Quyền bỏ chức Tiết độ sứ, xưng vương (Ngô Vương) và đóng đô ở Cổ Loa (Đông Anh, Hà Nội ngày nay).",
+    "Chiến thắng Bạch Đằng năm 938 chấm dứt hoàn toàn hơn 1.000 năm Bắc thuộc, mở ra thời kì độc lập, tự chủ lâu dài của dân tộc Việt Nam."
+   ],
+   "traps": [
+    "Có BA trận Bạch Đằng khác nhau, phải kèm năm: 938 Ngô Quyền thắng Nam Hán, 981 Lê Hoàn thắng Tống, 1288 Trần Hưng Đạo thắng quân Nguyên.",
+    "Ngô Quyền xưng VƯƠNG (Ngô Vương) chứ không xưng đế; người Việt đầu tiên xưng đế thời Bắc thuộc là Lý Bí (Lý Nam Đế, năm 544).",
+    "Chỉ huy quân Nam Hán trên sông Bạch Đằng là Lưu Hoằng Tháo (con vua), vua Lưu Cung chỉ đóng quân tiếp ứng ở biên giới.",
+    "Năm 938 mới là mốc chấm dứt Bắc thuộc; năm 905 (Khúc Thừa Dụ) chỉ là mốc giành quyền tự chủ."
+   ],
+   "topic_title": "Bước ngoặt lịch sử đầu thế kỉ X",
+   "lessons": [
+    {
+     "book": "CTST",
+     "bai": 19
+    },
+    {
+     "book": "KNTT",
+     "bai": 18
+    },
+    {
+     "book": "Cánh diều",
+     "bai": 17
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Tr%E1%BA%ADn_B%E1%BA%A1ch_%C4%90%E1%BA%B1ng_(938)",
+    "https://baobinhphuoc.com.vn/news/1/21880/chien-thang-bach-dang-nam-938"
+   ]
+  },
+  {
+   "name": "Vương quốc Phù Nam",
+   "kind": "dynasty",
+   "year": null,
+   "date_start": "thế kỉ I",
+   "date_end": "đầu thế kỉ VII",
+   "place": "Châu thổ sông Cửu Long (Nam Bộ Việt Nam ngày nay)",
+   "actors": [],
+   "aliases": [
+    "Phù Nam",
+    "Funan",
+    "vương quốc cổ Phù Nam"
+   ],
+   "summary": "Phù Nam là vương quốc cổ ra đời khoảng thế kỉ I ở vùng châu thổ sông Cửu Long trên cơ sở văn hóa Óc Eo, từng là cường quốc thương mại biển của Đông Nam Á trước khi bị Chân Lạp thôn tính đầu thế kỉ VII.",
+   "facts": [
+    "Vương quốc Phù Nam ra đời vào khoảng thế kỉ I, trên vùng châu thổ sông Cửu Long (Nam Bộ Việt Nam ngày nay), trên cơ sở nền văn hóa Óc Eo.",
+    "Phù Nam hình thành và phát triển nhờ tiếp thu ảnh hưởng của văn minh Ấn Độ (tôn giáo, chữ viết, mô hình nhà nước) qua con đường buôn bán trên biển.",
+    "Trong các thế kỉ III đến V, Phù Nam là một trong những quốc gia phát triển mạnh nhất Đông Nam Á, kiểm soát hoạt động buôn bán đường biển trong khu vực.",
+    "Cư dân Phù Nam giỏi đi biển và buôn bán; thương cảng Óc Eo từng đón thuyền buôn từ Ấn Độ, Trung Quốc và nhiều nơi khác đến trao đổi hàng hóa.",
+    "Từ khoảng thế kỉ VI, Phù Nam suy yếu và bị Chân Lạp — vương quốc của người Khơ-me vốn từng là thuộc quốc của Phù Nam — tấn công, thôn tính; đến đầu thế kỉ VII thì sụp đổ hoàn toàn.",
+    "Vì nằm trên tuyến hải thương quốc tế nối Ấn Độ với Trung Quốc nên Phù Nam giàu mạnh nhanh chóng; khi mất ưu thế đó và Chân Lạp lớn mạnh, Phù Nam suy vong."
+   ],
+   "traps": [
+    "Phù Nam ở NAM BỘ, ra đời khoảng thế kỉ I — đừng nhầm với Chăm-pa ở ven biển miền Trung, ra đời năm 192.",
+    "Phù Nam bị CHÂN LẠP thôn tính đầu thế kỉ VII, không phải bị phong kiến phương Bắc đô hộ như nước ta.",
+    "Văn hóa Óc Eo là cơ sở của Phù Nam, không phải của Chăm-pa."
+   ],
+   "topic_title": "Vương quốc cổ Phù Nam",
+   "lessons": [
+    {
+     "book": "CTST",
+     "bai": 21
+    },
+    {
+     "book": "KNTT",
+     "bai": 20
+    },
+    {
+     "book": "Cánh diều",
+     "bai": 19
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Ph%C3%B9_Nam",
+    "https://thanhnien.vn/vuong-quoc-phu-nam-quoc-gia-co-huyen-bi-bi-vui-sau-1851478004.htm"
+   ],
+   "fixed": [
+    "Tách đúng chuỗi thời gian: Phù Nam suy yếu và bị Chân Lạp tấn công TỪ thế kỉ VI, đến ĐẦU thế kỉ VII mới sụp đổ hẳn (bản gốc dồn cả hai vào 'đầu thế kỉ VII')."
+   ]
+  },
+  {
+   "name": "Văn hóa Óc Eo",
+   "kind": "concept",
+   "year": null,
+   "date_start": "thế kỉ I",
+   "date_end": "thế kỉ VII",
+   "place": "Óc Eo – Ba Thê, huyện Thoại Sơn, tỉnh An Giang",
+   "actors": [
+    "Louis Malleret"
+   ],
+   "aliases": [
+    "Óc Eo",
+    "di chỉ Óc Eo",
+    "Oc Eo",
+    "văn hóa Óc Eo – Ba Thê"
+   ],
+   "summary": "Óc Eo là nền văn hóa khảo cổ ở Nam Bộ (di chỉ trung tâm tại An Giang), tồn tại khoảng thế kỉ I–VII, là cơ sở hình thành và là thương cảng sầm uất của vương quốc Phù Nam.",
+   "facts": [
+    "Óc Eo là tên một di chỉ khảo cổ ở vùng Ba Thê, huyện Thoại Sơn, tỉnh An Giang; văn hóa Óc Eo là nền văn hóa cổ phát triển ở Nam Bộ khoảng thế kỉ I đến VII.",
+    "Năm 1944, nhà khảo cổ học người Pháp Lu-i Ma-lơ-rê (Louis Malleret) khai quật Óc Eo lần đầu tiên và tìm thấy nhiều di vật quý thuộc thời kì vương quốc Phù Nam.",
+    "Hiện vật Óc Eo gồm đồ trang sức vàng, tượng thờ, con dấu, đồng tiền, đồ gốm... cho thấy nơi đây từng buôn bán rộng rãi với Ấn Độ và nhiều vùng xa.",
+    "Trên cơ sở văn hóa Óc Eo và ảnh hưởng của văn hóa Ấn Độ, vương quốc cổ Phù Nam được thành lập vào khoảng thế kỉ I — Óc Eo chính là thương cảng, trung tâm kinh tế quan trọng của Phù Nam."
+   ],
+   "traps": [
+    "Óc Eo thuộc tỉnh AN GIANG (Nam Bộ) và gắn với PHÙ NAM — không phải di tích của Chăm-pa.",
+    "Đừng nhầm Óc Eo với thánh địa Mỹ Sơn: Mỹ Sơn ở Quảng Nam, là đền tháp của Chăm-pa."
+   ],
+   "topic_title": "Vương quốc cổ Phù Nam",
+   "lessons": [
+    {
+     "book": "CTST",
+     "bai": 21
+    },
+    {
+     "book": "KNTT",
+     "bai": 20
+    },
+    {
+     "book": "Cánh diều",
+     "bai": 19
+    }
+   ],
+   "sources": [
+    "https://vanhoaoceo.angiang.gov.vn/wps/portal/Home/trang-chu",
+    "https://vi.wikipedia.org/wiki/Ph%C3%B9_Nam",
+    "https://thanhnien.vn/vuong-quoc-phu-nam-quoc-gia-co-huyen-bi-bi-vui-sau-1851478004.htm"
+   ]
+  },
+  {
+   "name": "Vương quốc Chăm-pa",
+   "kind": "dynasty",
+   "year": 192,
+   "date_start": "192",
+   "date_end": null,
+   "place": "Dải ven biển miền Trung Việt Nam (kinh đô đầu: Sin-ha-pu-ra, Trà Kiệu, Quảng Nam)",
+   "actors": [
+    "Khu Liên"
+   ],
+   "aliases": [
+    "Lâm Ấp",
+    "Champa",
+    "Chăm Pa",
+    "Chiêm Thành"
+   ],
+   "summary": "Năm 192, nhân dân huyện Tượng Lâm dưới sự lãnh đạo của Khu Liên lật đổ ách cai trị nhà Hán, lập nước Lâm Ấp — tiền thân của vương quốc Chăm-pa ở ven biển miền Trung Việt Nam.",
+   "facts": [
+    "Năm 192, nhân dân huyện Tượng Lâm (huyện xa nhất của quận Nhật Nam, nay thuộc vùng Quảng Nam – Quảng Ngãi) dưới sự lãnh đạo của Khu Liên nổi dậy lật đổ ách cai trị của nhà Hán, lập nước Lâm Ấp.",
+    "Chính sách cai trị hà khắc của nhà Hán ở quận Nhật Nam là nguyên nhân làm bùng nổ cuộc nổi dậy năm 192 dẫn tới sự ra đời của Lâm Ấp.",
+    "Lâm Ấp dần mở rộng lãnh thổ dọc dải ven biển miền Trung; kinh đô ban đầu là Sin-ha-pu-ra (Trà Kiệu, huyện Duy Xuyên, Quảng Nam); từ khoảng thế kỉ VII tên gọi Chăm-pa xuất hiện trên bia kí.",
+    "Từ khoảng thế kỉ IV, người Chăm đã sáng tạo chữ viết riêng (chữ Chăm cổ) trên cơ sở chữ Phạn của Ấn Độ.",
+    "Cư dân Chăm-pa trồng lúa, đánh cá và buôn bán đường biển; văn hóa chịu ảnh hưởng đậm nét của Ấn Độ, thờ các vị thần Hindu.",
+    "Thánh địa Mỹ Sơn (xã Duy Phú, huyện Duy Xuyên, Quảng Nam) là quần thể đền tháp được xây dựng và mở rộng liên tục khoảng từ thế kỉ IV đến thế kỉ XIII, nay là Di sản văn hóa thế giới."
+   ],
+   "traps": [
+    "Chăm-pa ra đời năm 192 ở MIỀN TRUNG — đừng nhầm với Phù Nam (thế kỉ I, Nam Bộ).",
+    "Tên nước ban đầu là LÂM ẤP, sau mới gọi là Chăm-pa.",
+    "Người lãnh đạo lập nước là KHU LIÊN, ở huyện Tượng Lâm thuộc quận Nhật Nam (không phải Giao Chỉ hay Cửu Chân).",
+    "Mỹ Sơn là di tích Chăm-pa ở Quảng Nam; Óc Eo là di tích văn hóa Phù Nam ở An Giang."
+   ],
+   "topic_title": "Vương quốc Chăm-pa (từ thế kỉ II đến thế kỉ X)",
+   "lessons": [
+    {
+     "book": "CTST",
+     "bai": 20
+    },
+    {
+     "book": "KNTT",
+     "bai": 19
+    },
+    {
+     "book": "Cánh diều",
+     "bai": 18
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/L%E1%BB%8Bch_s%E1%BB%AD_Ch%C4%83m_Pa",
+    "https://loigiaihay.com/ly-thuyet-vuong-quoc-cham-pa-tu-the-ki-ii-den-the-ki-x-lich-su-6-ket-noi-tri-thuc-voi-cuoc-song-a90048.html",
+    "https://vndoc.com/lich-su-6-bai-19-vuong-quoc-cham-pa-tu-the-ki-ii-den-the-ki-x-266521"
+   ],
+   "fixed": [
+    "topic_title sai: 'Vương quốc cổ Phù Nam' -> 'Vương quốc Chăm-pa (từ thế kỉ II đến thế kỉ X)' (thẻ Chăm-pa bị gán nhầm chủ đề của Phù Nam).",
+    "Bổ sung ánh xạ bài đúng cho 2 bộ còn thiếu: KNTT bài 19, CTST bài 20 (trước chỉ có Cánh diều bài 18)."
+   ]
+  },
+  {
+   "name": "Lịch sử và môn Lịch sử",
+   "kind": "concept",
+   "year": null,
+   "date_start": null,
+   "date_end": null,
+   "place": null,
+   "actors": [],
+   "aliases": [
+    "lịch sử là gì",
+    "hiện thực lịch sử",
+    "vì sao phải học lịch sử"
+   ],
+   "summary": "Lịch sử là tất cả những gì đã diễn ra trong quá khứ; môn Lịch sử là môn học tìm hiểu quá trình đó, giúp ta biết cội nguồn và rút ra bài học cho hiện tại, tương lai.",
+   "facts": [
+    "Lịch sử là tất cả những gì đã diễn ra trong quá khứ, trong đó có hoạt động của con người từ khi xuất hiện đến nay.",
+    "Môn Lịch sử là môn học tìm hiểu về lịch sử loài người và những hoạt động chính của con người trong quá khứ.",
+    "Học lịch sử giúp mỗi người biết được cội nguồn của bản thân, gia đình, dòng họ và rộng hơn là của dân tộc, của nhân loại.",
+    "Học lịch sử còn để đúc rút bài học kinh nghiệm từ những thành công và thất bại trong quá khứ nhằm phục vụ hiện tại và xây dựng tương lai — vì vậy lịch sử được ví như 'thầy dạy của cuộc sống'."
+   ],
+   "traps": [
+    "Phân biệt 'lịch sử' (hiện thực đã diễn ra trong quá khứ, không thay đổi được) với 'môn Lịch sử' (môn học tìm hiểu, phục dựng lại quá khứ đó)."
+   ],
+   "topic_title": "Lịch sử và cuộc sống",
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 1
+    }
+   ],
+   "sources": [
+    "https://www.vietjack.com/lich-su-6-ket-noi/bai-1-lich-su-va-cuoc-song.jsp",
+    "https://vndoc.com/lich-su-6-bai-1-lich-su-va-cuoc-song-ket-noi-tri-thuc-233583",
+    "https://loigiaihay.com/ly-thuyet-lich-su-va-cuoc-song-lich-su-6-ket-noi-tri-thuc-voi-cuoc-song-a90030.html",
+    "SGK Lịch sử và Địa lí 6 - Kết nối tri thức với cuộc sống, bài 1 'Lịch sử và cuộc sống' (NXB Giáo dục Việt Nam, 2021)"
+   ]
+  },
+  {
+   "name": "Tư liệu lịch sử",
+   "kind": "concept",
+   "year": null,
+   "date_start": null,
+   "date_end": null,
+   "place": null,
+   "actors": [],
+   "aliases": [
+    "nguồn sử liệu",
+    "tư liệu hiện vật",
+    "tư liệu chữ viết",
+    "tư liệu truyền miệng",
+    "tư liệu gốc"
+   ],
+   "summary": "Để biết và phục dựng lại lịch sử, các nhà sử học dựa vào bốn nguồn tư liệu chính: tư liệu hiện vật, tư liệu chữ viết, tư liệu truyền miệng và tư liệu gốc — trong đó tư liệu gốc có giá trị tin cậy nhất.",
+   "facts": [
+    "Muốn biết và phục dựng lại lịch sử một cách chính xác, khách quan, các nhà sử học phải dựa vào các nguồn tư liệu lịch sử làm bằng chứng.",
+    "Tư liệu hiện vật là những di tích, công trình hay đồ vật của người xưa còn được lưu giữ trong lòng đất hoặc trên mặt đất, ví dụ trống đồng, thành cổ, công cụ đá.",
+    "Tư liệu chữ viết là những bản ghi chép, sách, văn bia... được viết hoặc khắc bằng chữ, ví dụ bia Tiến sĩ ở Văn Miếu.",
+    "Tư liệu truyền miệng là những câu chuyện, truyền thuyết, ca dao... được truyền từ đời này sang đời khác.",
+    "Tư liệu gốc là tư liệu cung cấp thông tin đầu tiên và trực tiếp về sự kiện lịch sử, nên là nguồn đáng tin cậy nhất khi tìm hiểu lịch sử."
+   ],
+   "traps": [
+    "Nguồn tin cậy nhất là TƯ LIỆU GỐC, không phải tư liệu truyền miệng (truyền miệng dễ bị thêm bớt qua các đời kể).",
+    "Một tư liệu có thể thuộc nhiều loại cùng lúc: ví dụ một tấm bia khắc chữ vừa là tư liệu hiện vật, vừa là tư liệu chữ viết, và có thể là tư liệu gốc."
+   ],
+   "topic_title": "Dựa vào đâu để biết và phục dựng lại lịch sử?",
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 2
+    }
+   ],
+   "sources": [
+    "https://vietjack.com/lich-su-6-ket-noi/trac-nghiem-bai-2-dua-vao-dau-de-biet-va-phuc-dung-lai-lich-su.jsp",
+    "https://vndoc.com/lich-su-6-bai-2-sach-ket-noi-tri-thuc-233591",
+    "https://loigiaihay.com/ly-thuyet-dua-vao-dau-de-biet-va-phuc-dung-lai-lich-su-lich-su-6-ket-noi-tri-thuc-voi-cuoc-song-a90031.html",
+    "SGK Lịch sử và Địa lí 6 - Kết nối tri thức với cuộc sống, bài 2 'Dựa vào đâu để biết và phục dựng lại lịch sử?' (NXB Giáo dục Việt Nam, 2021)"
+   ]
+  },
+  {
+   "name": "Kim loại xuất hiện và xã hội nguyên thủy tan rã",
+   "kind": "concept",
+   "year": null,
+   "date_start": "khoảng 3500 TCN",
+   "date_end": "đầu thiên niên kỉ I TCN",
+   "place": "Tây Á, Ai Cập và nhiều nơi trên thế giới",
+   "actors": [],
+   "aliases": [
+    "thời đại kim khí",
+    "sự phân hóa của xã hội nguyên thủy",
+    "tư hữu xuất hiện"
+   ],
+   "summary": "Khoảng 3500 năm TCN con người phát hiện ra đồng, sau đó là sắt; công cụ kim loại làm năng suất tăng vọt, của cải dư thừa xuất hiện, dẫn đến tư hữu, phân hóa giàu nghèo và sự tan rã của xã hội nguyên thủy.",
+   "facts": [
+    "Khoảng 3500 năm TCN, cư dân Tây Á và Ai Cập là những người đầu tiên phát hiện và sử dụng đồng đỏ, sau đó con người biết chế đồng thau.",
+    "Khoảng 2000 năm TCN, con người biết luyện đồng thau (hợp kim đồng - thiếc), cứng và bền hơn đồng đỏ nên chế được nhiều loại công cụ, vũ khí hơn.",
+    "Vào khoảng cuối thiên niên kỉ II – đầu thiên niên kỉ I TCN, con người biết chế tạo công cụ và vũ khí bằng sắt.",
+    "Công cụ kim loại sắc bén giúp con người khai hoang, mở rộng diện tích trồng trọt, nên năng suất lao động tăng và lần đầu tiên của cải làm ra thường xuyên dư thừa.",
+    "Một số người có chức quyền trong thị tộc, bộ lạc chiếm phần của cải dư thừa làm của riêng, từ đó xuất hiện chế độ tư hữu.",
+    "Tư hữu xuất hiện khiến xã hội dần phân hóa thành kẻ giàu – người nghèo, giai cấp thống trị và bị trị, làm quan hệ 'công bằng, bình đẳng' của xã hội nguyên thủy tan rã.",
+    "Chuỗi nhân quả cần nhớ đúng chiều: công cụ kim loại ra đời → của cải dư thừa → tư hữu xuất hiện → xã hội phân hóa giai cấp → xã hội nguyên thủy tan rã, nhà nước dần ra đời."
+   ],
+   "traps": [
+    "Chiều nhân quả đúng là 'công cụ kim loại → dư thừa → tư hữu → phân hóa xã hội', không phải 'xã hội phân hóa nên con người mới tìm ra kim loại'.",
+    "Thứ tự đúng của kim loại: đồng đỏ (khoảng 3500 TCN) -> đồng thau (khoảng 2000 TCN) -> sắt (cuối thiên niên kỉ II - đầu thiên niên kỉ I TCN); sắt là kim loại xuất hiện SAU CÙNG."
+   ],
+   "topic_title": "Sự chuyển biến và phân hoá của xã hội nguyên thuỷ",
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 6
+    }
+   ],
+   "sources": [
+    "https://vndoc.com/ly-thuyet-lich-su-6-ket-noi-tri-thuc-bai-6-313037",
+    "https://vietjack.com/lich-su-6-ket-noi/bai-6-su-bien-chuyen-va-phan-hoa-cua-xa-hoi-nguyen-thuy.jsp",
+    "https://vi.wikipedia.org/wiki/Th%E1%BB%9Di_%C4%91%E1%BA%A1i_%C4%91%E1%BB%93_%C4%91%E1%BB%93ng"
+   ],
+   "fixed": [
+    "Bổ sung mốc bị thiếu 'khoảng 2000 năm TCN - đồng thau' để chuỗi đồng đỏ -> đồng thau -> sắt không bị đứt đoạn; sửa trap theo đúng ba bước này.",
+    "Thêm nguồn độc lập (vi.wikipedia Thời đại đồ đồng) vì thẻ gốc chỉ dựa vndoc/vietjack."
+   ]
+  },
+  {
+   "name": "Ai Cập cổ đại",
+   "kind": "period",
+   "year": null,
+   "date_start": "khoảng 3200 TCN",
+   "date_end": "30 TCN",
+   "place": "Lưu vực sông Nin, Đông Bắc châu Phi",
+   "actors": [
+    "Mê-nét (Na-mơ)",
+    "các pha-ra-ông"
+   ],
+   "aliases": [
+    "Ai Cập",
+    "Egypt cổ đại",
+    "văn minh sông Nin"
+   ],
+   "summary": "Ai Cập cổ đại hình thành dọc lưu vực sông Nin ở Đông Bắc châu Phi; khoảng năm 3200 TCN vua Mê-nét thống nhất các công xã thành nhà nước do pha-ra-ông đứng đầu, để lại những thành tựu như chữ tượng hình và kim tự tháp.",
+   "facts": [
+    "Ai Cập cổ đại hình thành ở Đông Bắc châu Phi, tập trung dọc lưu vực sông Nin — dòng sông bồi đắp phù sa màu mỡ và là tuyến giao thông chính của cư dân.",
+    "Khoảng năm 3200 TCN, vua Mê-nét (còn gọi là Na-mơ) thống nhất các công xã (gọi là Nôm) thành nhà nước Ai Cập thống nhất.",
+    "Đứng đầu nhà nước Ai Cập là pha-ra-ông, người có quyền lực tối cao, sở hữu đất đai, của cải và có quân đội riêng.",
+    "Người Ai Cập cổ đại sáng tạo chữ tượng hình — dùng hình vẽ mô phỏng vật thật để ghi chép.",
+    "Người Ai Cập giỏi hình học và kĩ thuật ướp xác; kim tự tháp là lăng mộ khổng lồ của các pha-ra-ông, tiêu biểu là kim tự tháp Kê-ốp ở Ghi-da.",
+    "Nhờ sống dựa vào nguồn nước và phù sa sông Nin nên cư dân Ai Cập phát triển sớm nghề nông, từ đó nhà nước cổ đại ra đời sớm vào loại bậc nhất thế giới.",
+    "Năm 30 TCN, người La Mã xâm chiếm Ai Cập, nhà nước Ai Cập cổ đại sụp đổ."
+   ],
+   "traps": [
+    "Chữ TƯỢNG HÌNH là của Ai Cập; chữ HÌNH NÊM là của Lưỡng Hà — đừng hoán đổi.",
+    "Kim tự tháp ở AI CẬP; vườn treo Ba-bi-lon ở LƯỠNG HÀ.",
+    "Ai Cập gắn với sông NIN; Lưỡng Hà gắn với hai sông Ti-gơ-rơ và Ơ-phơ-rát.",
+    "Mốc kết thúc của Ai Cập cổ đại là năm 30 TCN (bị La Mã xâm chiếm), còn Lưỡng Hà cổ đại kết thúc năm 539 TCN (bị Ba Tư xâm lược) - hai mốc khác nhau, đừng hoán đổi."
+   ],
+   "topic_title": "Ai Cập và Lưỡng Hà cổ đại",
+   "lessons": [
+    {
+     "book": "CTST",
+     "bai": 6
+    },
+    {
+     "book": "KNTT",
+     "bai": 7
+    },
+    {
+     "book": "Cánh diều",
+     "bai": 6
+    }
+   ],
+   "sources": [
+    "https://loigiaihay.com/ly-thuyet-ai-cap-co-dai-lich-su-6-chan-troi-sang-tao-a89919.html",
+    "https://vi.wikipedia.org/wiki/Ai_C%E1%BA%ADp_c%E1%BB%95_%C4%91%E1%BA%A1i",
+    "https://vietjack.com/lich-su-6-ct/trac-nghiem-bai-6-ai-cap-co-dai.jsp",
+    "https://loigiaihay.com/ly-thuyet-ai-cap-va-luong-ha-co-dai-lich-su-6-ket-noi-tri-thuc-voi-cuoc-song-a90036.html"
+   ],
+   "fixed": [
+    "date_end đang rỗng -> điền '30 TCN' (năm La Mã xâm chiếm, Ai Cập cổ đại sụp đổ) và bổ sung fact + trap tương ứng, tránh để mốc TCN treo đầu hở đuôi.",
+    "Bổ sung ánh xạ bài CTST bài 6 'Ai Cập cổ đại' (trước thiếu bộ CTST dù nguồn dẫn là trang CTST)."
+   ]
+  },
+  {
+   "name": "Lưỡng Hà cổ đại",
+   "kind": "period",
+   "year": null,
+   "date_start": "thiên niên kỉ IV TCN",
+   "date_end": "539 TCN",
+   "place": "Lưu vực sông Ti-gơ-rơ và Ơ-phơ-rát (I-rắc ngày nay)",
+   "actors": [
+    "người Xu-me"
+   ],
+   "aliases": [
+    "Lưỡng Hà",
+    "Mesopotamia",
+    "vùng đất giữa hai con sông"
+   ],
+   "summary": "Lưỡng Hà — 'vùng đất giữa hai con sông' Ti-gơ-rơ và Ơ-phơ-rát ở Tây Á — là nơi người Xu-me lập các nhà nước thành bang từ thiên niên kỉ IV TCN, sáng tạo chữ hình nêm và hệ đếm cơ số 60.",
+   "facts": [
+    "Lưỡng Hà nghĩa là 'vùng đất giữa hai con sông' — sông Ti-gơ-rơ và sông Ơ-phơ-rát ở Tây Á, nay phần lớn thuộc I-rắc.",
+    "Khoảng thiên niên kỉ IV TCN, người Xu-me đến định cư ở hạ lưu hai sông và xây dựng những nhà nước thành bang đầu tiên.",
+    "Người Lưỡng Hà cổ đại viết chữ lên tấm đất sét còn ướt, nét chữ giống hình chiếc nêm nên gọi là chữ hình nêm — một trong những hệ chữ viết cổ nhất thế giới.",
+    "Người Lưỡng Hà dùng hệ đếm lấy số 60 làm cơ sở — nguồn gốc của cách chia 1 giờ thành 60 phút và vòng tròn thành 360 độ ngày nay.",
+    "Thành tựu tiêu biểu của Lưỡng Hà còn có sử thi Gin-ga-mét kể về người anh hùng huyền thoại và công trình vườn treo Ba-bi-lon nổi tiếng.",
+    "Cũng như Ai Cập với sông Nin, chính phù sa của hai dòng sông đã nuôi nền nông nghiệp Lưỡng Hà, giúp nhà nước ra đời từ rất sớm.",
+    "Năm 539 TCN, người Ba Tư xâm lược, lịch sử các vương quốc cổ đại ở Lưỡng Hà chấm dứt."
+   ],
+   "traps": [
+    "Người đặt nền móng đầu tiên cho văn minh Lưỡng Hà là người XU-ME.",
+    "Hệ đếm cơ số 60 là của Lưỡng Hà; người Ai Cập giỏi hình học và dùng phép đếm khác — đừng gán lẫn.",
+    "Vườn treo Ba-bi-lon và sử thi Gin-ga-mét thuộc Lưỡng Hà, không phải Ai Cập.",
+    "Lưỡng Hà cổ đại chấm dứt năm 539 TCN do người BA TƯ xâm lược; Ai Cập cổ đại chấm dứt năm 30 TCN do người LA MÃ xâm chiếm."
+   ],
+   "topic_title": "Ai Cập và Lưỡng Hà cổ đại",
+   "lessons": [
+    {
+     "book": "CTST",
+     "bai": 7
+    },
+    {
+     "book": "KNTT",
+     "bai": 7
+    },
+    {
+     "book": "Cánh diều",
+     "bai": 6
+    }
+   ],
+   "sources": [
+    "https://www.vietjack.com/lich-su-6-ct/ly-thuyet-bai-7-luong-ha-co-dai.jsp",
+    "https://vndoc.com/ly-thuyet-lich-su-6-ket-noi-tri-thuc-bai-7-313038",
+    "https://vi.wikipedia.org/wiki/L%C6%B0%E1%BB%A1ng_H%C3%A0",
+    "https://loigiaihay.com/ly-thuyet-luong-ha-co-dai-lich-su-6-chan-troi-sang-tao-a89921.html"
+   ],
+   "fixed": [
+    "date_end đang rỗng -> điền '539 TCN' (người Ba Tư xâm lược) kèm fact + trap phân biệt với mốc 30 TCN của Ai Cập.",
+    "Thêm nguồn độc lập (vi.wikipedia Lưỡng Hà) vì thẻ gốc chỉ dựa vietjack/vndoc.",
+    "Bổ sung ánh xạ bài CTST bài 7 'Lưỡng Hà cổ đại' (trước thiếu bộ CTST)."
+   ]
+  },
+  {
+   "name": "Bộ luật Ha-mu-ra-bi",
+   "kind": "artifact",
+   "year": null,
+   "date_start": "khoảng 1750 TCN",
+   "date_end": null,
+   "place": "Vương quốc Ba-bi-lon, Lưỡng Hà",
+   "actors": [
+    "vua Ha-mu-ra-bi"
+   ],
+   "aliases": [
+    "luật Hammurabi",
+    "bộ luật Hammurabi",
+    "luật Ha-mu-ra-bi"
+   ],
+   "summary": "Bộ luật Ha-mu-ra-bi ra đời khoảng năm 1750 TCN dưới thời vua Ha-mu-ra-bi của Ba-bi-lon (Lưỡng Hà), là một trong những bộ luật thành văn cổ nhất thế giới.",
+   "facts": [
+    "Bộ luật Ha-mu-ra-bi ra đời vào khoảng năm 1750 TCN, dưới thời vua Ha-mu-ra-bi của vương quốc Ba-bi-lon ở Lưỡng Hà.",
+    "Đây là một trong những bộ luật thành văn cổ nhất thế giới còn được lưu giữ đến ngày nay.",
+    "Luật được khắc bằng chữ hình nêm trên một cột đá lớn, quy định các nguyên tắc về quan hệ cộng đồng, buôn bán, xây dựng, gia đình...",
+    "Bộ luật cho thấy từ gần 4.000 năm trước, nhà nước Lưỡng Hà đã biết quản lí xã hội bằng pháp luật thành văn."
+   ],
+   "traps": [
+    "Ha-mu-ra-bi là vua của BA-BI-LON thuộc Lưỡng Hà — không phải pha-ra-ông Ai Cập.",
+    "Mốc 'khoảng 1750' là năm TRƯỚC Công nguyên (TCN), đừng bỏ sót chữ TCN."
+   ],
+   "topic_title": "Ai Cập và Lưỡng Hà cổ đại",
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 7
+    },
+    {
+     "book": "Cánh diều",
+     "bai": 6
+    }
+   ],
+   "sources": [
+    "https://vndoc.com/ly-thuyet-lich-su-6-ket-noi-tri-thuc-bai-7-313038",
+    "https://www.vietjack.com/lich-su-6-ct/ly-thuyet-bai-7-luong-ha-co-dai.jsp",
+    "https://vi.wikipedia.org/wiki/B%E1%BB%99_lu%E1%BA%ADt_Hammurabi"
+   ]
+  },
+  {
+   "name": "Các vương quốc phong kiến Đông Nam Á (thế kỉ VII – X)",
+   "kind": "concept",
+   "year": null,
+   "date_start": "thế kỉ VII",
+   "date_end": "thế kỉ X",
+   "place": "Đông Nam Á lục địa và hải đảo",
+   "actors": [],
+   "aliases": [
+    "vương quốc phong kiến Đông Nam Á",
+    "Sri Vi-giay-a",
+    "Ca-lin-ga",
+    "Chân Lạp",
+    "Pa-gan",
+    "Đva-ra-va-ti"
+   ],
+   "summary": "Từ thế kỉ VII đến X, ở Đông Nam Á hình thành nhiều vương quốc phong kiến: trên lục địa sống bằng nông nghiệp (Chân Lạp, Đva-ra-va-ti...), trên hải đảo sống bằng thương mại biển (Sri Vi-giay-a, Ca-lin-ga...).",
+   "facts": [
+    "Từ thế kỉ VII đến thế kỉ X, ở Đông Nam Á hình thành một loạt vương quốc phong kiến, như Chân Lạp của người Khơ-me, Đva-ra-va-ti của người Môn, cùng Sri Kse-tra và Pa-gan trên lưu vực sông I-ra-oa-đi (Mi-an-ma ngày nay).",
+    "Trên vùng hải đảo có Sri Vi-giay-a của người Mã Lai trên đảo Xu-ma-tra và Ca-lin-ga trên đảo Gia-va (In-đô-nê-xi-a ngày nay).",
+    "Các vương quốc nằm trên lục địa chủ yếu lấy nông nghiệp trồng lúa làm ngành kinh tế chính.",
+    "Các vương quốc hải đảo như Sri Vi-giay-a, Ca-lin-ga, Ma-ta-ram sống dựa vào hoạt động thương mại biển.",
+    "Chính quá trình giao lưu buôn bán với nước ngoài, nhất là với Ấn Độ và Trung Quốc, đã thúc đẩy các vương quốc Đông Nam Á phát triển trong giai đoạn thế kỉ VII – X."
+   ],
+   "traps": [
+    "Sri Vi-giay-a nằm trên đảo XU-MA-TRA (hải đảo), sống bằng thương mại biển — không phải vương quốc nông nghiệp trên lục địa.",
+    "Chân Lạp là vương quốc của người KHƠ-ME (Campuchia ngày nay), đừng nhầm với Chăm-pa ở miền Trung Việt Nam."
+   ],
+   "topic_title": "Sự hình thành và bước đầu phát triển của các vương quốc phong kiến ở Đông Nam Á (từ thế kỉ VII đến thế kỉ X)",
+   "lessons": [
+    {
+     "book": "KNTT",
+     "bai": 12
+    }
+   ],
+   "sources": [
+    "https://vndoc.com/ly-thuyet-lich-su-6-ket-noi-tri-thuc-bai-12-313660",
+    "https://vietjack.com/lich-su-6-ket-noi/trac-nghiem-bai-12-su-hinh-thanh-va-buoc-dau-phat-trien-cua-cac-vuong-quoc-phong-kien.jsp",
+    "https://vi.wikipedia.org/wiki/L%E1%BB%8Bch_s%E1%BB%AD_%C4%90%C3%B4ng_Nam_%C3%81"
+   ]
+  },
+  {
+   "name": "Văn hóa Phùng Nguyên – Đồng Đậu – Gò Mun",
+   "kind": "period",
+   "year": null,
+   "date_start": "khoảng 4000 năm cách ngày nay",
+   "date_end": "khoảng 2800-2500 năm cách ngày nay",
+   "place": "Trung du và châu thổ Bắc Bộ (Phú Thọ, Vĩnh Phúc, Hà Nội...)",
+   "actors": [],
+   "aliases": [
+    "các văn hóa tiền Đông Sơn",
+    "thời đại đồ đồng ở Việt Nam",
+    "văn hóa Phùng Nguyên",
+    "văn hóa Đồng Đậu",
+    "văn hóa Gò Mun"
+   ],
+   "summary": "Khoảng 4000 năm trước, cư dân Việt cổ ở lưu vực sông Hồng bước vào thời đại đồ đồng với ba nền văn hóa nối tiếp Phùng Nguyên – Đồng Đậu – Gò Mun, chuẩn bị trực tiếp cho văn hóa Đông Sơn và nhà nước đầu tiên.",
+   "facts": [
+    "Cách ngày nay khoảng 4000 năm, cư dân cổ ở lưu vực sông Hồng bước vào thời đại đồ đồng, mở đầu bằng văn hóa Phùng Nguyên.",
+    "Ba nền văn hóa tiền Đông Sơn nối tiếp nhau là Phùng Nguyên, Đồng Đậu, Gò Mun, có niên đại trong khoảng 4000 đến 2500 năm cách ngày nay.",
+    "Các di tích của ba nền văn hóa này phân bố rộng ở trung du và châu thổ Bắc Bộ, dọc sông Hồng, sông Lô, sông Đà, tập trung nhiều nhất ở Phú Thọ, Vĩnh Phúc, Hà Nội, Bắc Ninh.",
+    "Di chỉ Phùng Nguyên được phát hiện năm 1959 ở huyện Lâm Thao (Phú Thọ), di chỉ Gò Mun năm 1961 cũng ở Phú Thọ, còn di chỉ Đồng Đậu năm 1962 ở huyện Yên Lạc (Vĩnh Phúc).",
+    "Công cụ bằng đồng giúp cư dân đẩy mạnh nghề trồng lúa nước, làm chủ vùng châu thổ sông Hồng, và của cải làm ra nhiều hơn khiến xã hội bắt đầu phân hóa.",
+    "Ba nền văn hóa này chuẩn bị trực tiếp cho văn hóa Đông Sơn rực rỡ và sự ra đời của nhà nước Văn Lang sau đó."
+   ],
+   "traps": [
+    "Cả ba văn hóa Phùng Nguyên, Đồng Đậu, Gò Mun đều ở BẮC BỘ Việt Nam (lưu vực sông Hồng) — không phải ở miền Trung hay nước khác.",
+    "Thứ tự đúng theo thời gian: Phùng Nguyên → Đồng Đậu → Gò Mun → Đông Sơn, đừng đảo lộn."
+   ],
+   "topic_title": "Chuyển biến về kinh tế, xã hội cuối thời nguyên thuỷ",
+   "lessons": [
+    {
+     "book": "Cánh diều",
+     "bai": 5
+    }
+   ],
+   "sources": [
+    "https://baotanglichsu.vn/vi/Articles/4016/cac-van-hoa-tien-djong-son-phung-nguyen-djong-djau-go-mun-khoang-4-000-2-500-nam-cach-ngay-nay",
+    "https://vi.wikipedia.org/wiki/V%C4%83n_h%C3%B3a_Ph%C3%B9ng_Nguy%C3%AAn"
+   ]
+  },
+  {
+   "name": "Các vương quốc sơ kì ở Đông Nam Á đầu Công nguyên",
+   "kind": "concept",
+   "year": null,
+   "date_start": "những thế kỉ tiếp giáp Công nguyên",
+   "date_end": "thế kỉ VII",
+   "place": "Đông Nam Á",
+   "actors": [],
+   "aliases": [
+    "quốc gia sơ kì Đông Nam Á",
+    "vương quốc cổ Đông Nam Á",
+    "Sri Kse-tra",
+    "Đva-ra-va-ti"
+   ],
+   "summary": "Trong những thế kỉ tiếp giáp Công nguyên, nhờ nông nghiệp lúa nước và buôn bán đường biển với Ấn Độ, Trung Quốc, ở Đông Nam Á xuất hiện các quốc gia sơ kì như Chăm-pa, Phù Nam và các thành bang ở lưu vực I-ra-oa-đi, Mê Nam.",
+   "facts": [
+    "Trong khoảng những thế kỉ tiếp giáp Công nguyên đến thế kỉ VII, ở Đông Nam Á xuất hiện các quốc gia sơ kì, tiêu biểu là Chăm-pa (năm 192) và Phù Nam (thế kỉ I) trên lãnh thổ Việt Nam ngày nay, cùng các quốc gia ở lưu vực sông I-ra-oa-đi và sông Mê Nam.",
+    "Đông Nam Á nằm ở 'ngã tư đường' giao thương biển nối Ấn Độ với Trung Quốc, lại có gió mùa thuận lợi cho thuyền buồm, nên thương nhân nước ngoài sớm ghé đến buôn bán.",
+    "Chính hoạt động giao thương với thương nhân Ấn Độ và Trung Quốc đã thúc đẩy các vương quốc sơ kì Đông Nam Á ra đời và giàu lên.",
+    "Qua buôn bán, văn minh Ấn Độ (chữ viết, tôn giáo, mô hình nhà nước, luật pháp) du nhập và ảnh hưởng đậm nét đến các vương quốc như Chăm-pa, Phù Nam.",
+    "Từ thế kỉ VII đến thế kỉ X, trên nền các quốc gia sơ kì, những vương quốc phong kiến Đông Nam Á hình thành và bước đầu phát triển."
+   ],
+   "traps": [
+    "Các vương quốc cổ Đông Nam Á ra đời trên cơ sở nông nghiệp lúa nước và giao thương với ẤN ĐỘ là chính — ảnh hưởng văn hóa chủ đạo thời kì này đến từ Ấn Độ, không phải Trung Quốc.",
+    "Phân biệt hai giai đoạn: quốc gia SƠ KÌ (tiếp giáp Công nguyên – thế kỉ VII) và vương quốc PHONG KIẾN (thế kỉ VII – X)."
+   ],
+   "topic_title": "Sự ra đời và phát triển của các vương quốc ở Đông Nam Á (từ những thế kỉ tiếp giáp Công nguyên đến thế kỉ X)",
+   "lessons": [
+    {
+     "book": "Cánh diều",
+     "bai": 10
+    }
+   ],
+   "sources": [
+    "https://tech12h.com/bai-hoc/de-hieu-giai-lich-su-6-canh-dieu-bai-10-su-ra-doi-va-phat-trien-cac-vuong-quoc-dong-nam",
+    "https://vndoc.com/ly-thuyet-lich-su-6-ket-noi-tri-thuc-bai-12-313660",
+    "https://vi.wikipedia.org/wiki/L%E1%BB%8Bch_s%E1%BB%AD_%C4%90%C3%B4ng_Nam_%C3%81"
+   ]
+  },
+  {
+   "name": "Khởi nghĩa Hai Bà Trưng",
+   "kind": "movement",
+   "year": 40,
+   "date_start": "40",
+   "date_end": "43",
+   "place": "Hát Môn (Phúc Thọ, Hà Nội) – Mê Linh – Cổ Loa – Luy Lâu",
+   "actors": [
+    "Trưng Trắc",
+    "Trưng Nhị",
+    "Tô Định",
+    "Mã Viện"
+   ],
+   "aliases": [
+    "khởi nghĩa Trưng Trắc – Trưng Nhị",
+    "Hai Bà Trưng",
+    "Trưng Vương"
+   ],
+   "summary": "Mùa xuân năm 40, Trưng Trắc và Trưng Nhị phất cờ khởi nghĩa ở Hát Môn chống ách đô hộ nhà Hán, giành quyền làm chủ 65 thành; đến năm 43 khởi nghĩa bị Mã Viện đàn áp nhưng đã mở đầu truyền thống đấu tranh giành độc lập.",
+   "facts": [
+    "Mùa xuân năm 40, Trưng Trắc cùng em gái là Trưng Nhị phất cờ khởi nghĩa ở cửa sông Hát (Hát Môn, huyện Phúc Thọ, Hà Nội ngày nay) chống ách đô hộ của nhà Hán.",
+    "Chính sách cai trị hà khắc của nhà Hán cùng sự tàn bạo của Thái thú Tô Định (giết Thi Sách, chồng bà Trưng Trắc) đã làm bùng nổ cuộc khởi nghĩa năm 40.",
+    "Nghĩa quân từ Hát Môn đánh chiếm Mê Linh, Cổ Loa rồi Luy Lâu — trị sở của chính quyền đô hộ — khiến Tô Định phải bỏ chạy về nước; nhân dân các quận Giao Chỉ, Cửu Chân, Nhật Nam, Hợp Phố hưởng ứng, nghĩa quân làm chủ 65 thành.",
+    "Sau thắng lợi, Trưng Trắc được suy tôn làm vua (Trưng Vương), đóng đô ở Mê Linh — chính quyền độc lập đầu tiên của người Việt sau khi bị phương Bắc đô hộ.",
+    "Năm 42, nhà Hán sai lão tướng Mã Viện đem 2 vạn quân sang đàn áp; năm 43, Hai Bà Trưng hi sinh, cuộc kháng chiến thất bại.",
+    "Đây là cuộc khởi nghĩa lớn đầu tiên của người Việt thời Bắc thuộc, chứng tỏ ý chí giành lại độc lập và vai trò to lớn của phụ nữ Việt Nam."
+   ],
+   "traps": [
+    "Khởi nghĩa BÙNG NỔ năm 40; năm 43 là năm bị đàn áp, thất bại — đừng lẫn hai mốc.",
+    "Người lên làm vua là TRƯNG TRẮC (Trưng Vương), không phải cả hai bà cùng xưng vương.",
+    "Tướng đàn áp Hai Bà Trưng là MÃ VIỆN (nhà Hán, năm 42-43); còn Lục Dận là tướng đàn áp Bà Triệu (năm 248) — đừng hoán đổi."
+   ],
+   "topic_title": "Các cuộc khởi nghĩa tiêu biểu giành độc lập, tự chủ (từ đầu Công nguyên đến trước thế kỉ X)",
+   "lessons": [
+    {
+     "book": "Cánh diều",
+     "bai": 15
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Kh%E1%BB%9Fi_ngh%C4%A9a_Hai_B%C3%A0_Tr%C6%B0ng",
+    "https://nvsk.vnanet.vn/khoi-nghia-hai-ba-trung-va-khang-chien-chong-dong-han-40-43-1-34961.vna"
+   ]
+  },
+  {
+   "name": "Khởi nghĩa Bà Triệu",
+   "kind": "event",
+   "year": 248,
+   "date_start": "248",
+   "date_end": "248",
+   "place": "Quận Cửu Chân (Thanh Hóa ngày nay); tụ nghĩa ở núi Nưa, căn cứ chiến đấu ở Bồ Điền",
+   "actors": [
+    "Bà Triệu (Triệu Thị Trinh)",
+    "Triệu Quốc Đạt",
+    "Lục Dận"
+   ],
+   "aliases": [
+    "Triệu Thị Trinh",
+    "Triệu Trinh Nương",
+    "Triệu Ẩu",
+    "khởi nghĩa năm 248"
+   ],
+   "summary": "Năm 248, Bà Triệu (Triệu Thị Trinh) lãnh đạo nhân dân Cửu Chân nổi dậy chống ách đô hộ của nhà Ngô, làm chấn động Giao Châu trước khi bị tướng Lục Dận đàn áp.",
+   "facts": [
+    "Năm 248, Bà Triệu — tên là Triệu Thị Trinh, sinh năm 226 — lãnh đạo nhân dân quận Cửu Chân (Thanh Hóa ngày nay) nổi dậy chống ách đô hộ của nhà Ngô (Đông Ngô thời Tam Quốc).",
+    "Nghĩa quân tụ nghĩa ở vùng núi Nưa (Triệu Sơn, Thanh Hóa), sau lập căn cứ chiến đấu ở Bồ Điền (Hậu Lộc, Thanh Hóa), đánh phá các thành ấp của chính quyền đô hộ khiến cả Giao Châu chấn động.",
+    "Tương truyền Bà Triệu từng nói bà chỉ muốn 'cưỡi cơn gió mạnh, đạp luồng sóng dữ, chém cá kình ở biển Đông' để giành lại giang sơn chứ không chịu cúi đầu làm tì thiếp cho người.",
+    "Nhà Ngô phải cử tướng Lục Dận đem quân sang đàn áp; căn cứ Bồ Điền bị bao vây, cô lập và chỉ đứng vững được hơn hai tháng; Bà Triệu tuẫn tiết trên núi Tùng (Thanh Hóa) năm 248, khi mới 23 tuổi.",
+    "Khởi nghĩa Bà Triệu tiếp nối tinh thần Hai Bà Trưng, tiêu biểu cho ý chí quật cường của phụ nữ Việt Nam thời Bắc thuộc."
+   ],
+   "traps": [
+    "Bà Triệu chống quân NGÔ (Đông Ngô) năm 248 — không phải chống nhà Hán (nhà Hán là thời Hai Bà Trưng năm 40).",
+    "Câu 'Bao giờ hết cỏ nước Nam thì hết người Nam đánh Tây' là của NGUYỄN TRUNG TRỰC — anh hùng chống Pháp thế kỉ XIX — không phải câu nói của Bà Triệu hay bất kì nhân vật thời Bắc thuộc nào (app từng trả nhầm là Phan Bội Châu — cũng SAI).",
+    "Tướng đàn áp Bà Triệu là LỤC DẬN, đừng nhầm với Mã Viện (đàn áp Hai Bà Trưng).",
+    "Bà Triệu tụ nghĩa ở núi NƯA nhưng tuẫn tiết ở núi TÙNG, còn căn cứ chiến đấu chính là BỒ ĐIỀN - ba địa danh khác nhau, đừng gộp làm một."
+   ],
+   "topic_title": "Các cuộc khởi nghĩa tiêu biểu giành độc lập, tự chủ (từ đầu Công nguyên đến trước thế kỉ X)",
+   "lessons": [
+    {
+     "book": "Cánh diều",
+     "bai": 15
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/B%C3%A0_Tri%E1%BB%87u",
+    "https://loigiaihay.com/cuoc-khoi-nghia-ba-trieu-nam-248-c81a14187.html"
+   ],
+   "fixed": [
+    "Sửa nhân - quả/địa danh: 'sau hơn hai tháng chiến đấu' -> đúng là CĂN CỨ BỒ ĐIỀN bị bao vây và chỉ đứng vững hơn hai tháng; tách núi Nưa (tụ nghĩa) khỏi Bồ Điền (căn cứ) và núi Tùng (nơi tuẫn tiết).",
+    "'khi mới ngoài 20 tuổi' -> chốt số chính xác 23 tuổi (sinh 226, mất 248)."
+   ]
+  },
+  {
+   "name": "Khởi nghĩa Lý Bí và nước Vạn Xuân",
+   "kind": "event",
+   "year": 542,
+   "date_start": "542",
+   "date_end": "602",
+   "place": "Miền Bắc Việt Nam, kinh đô ở vùng cửa sông Tô Lịch (Hà Nội)",
+   "actors": [
+    "Lý Bí (Lý Nam Đế)",
+    "Triệu Quang Phục"
+   ],
+   "aliases": [
+    "Lý Bôn",
+    "Lý Nam Đế",
+    "khởi nghĩa Lý Bí",
+    "nước Vạn Xuân",
+    "Thiên Đức"
+   ],
+   "summary": "Năm 542, Lý Bí lãnh đạo nhân dân lật đổ ách đô hộ nhà Lương; mùa xuân năm 544 ông lên ngôi hoàng đế (Lý Nam Đế), lập nước Vạn Xuân — nhà nước độc lập với hoàng đế người Việt đầu tiên.",
+   "facts": [
+    "Ách cai trị hà khắc, thuế khóa nặng nề của nhà Lương đã làm bùng nổ cuộc khởi nghĩa do Lý Bí (còn gọi Lý Bôn) lãnh đạo vào năm 542.",
+    "Chỉ trong chưa đầy ba tháng năm 542, nghĩa quân Lý Bí chiếm được hầu hết các quận, huyện, quan lại đô hộ nhà Lương phải bỏ chạy.",
+    "Mùa xuân năm 544, Lý Bí lên ngôi hoàng đế, sử gọi là Lý Nam Đế, đặt tên nước là Vạn Xuân, niên hiệu Thiên Đức, dựng kinh đô ở vùng cửa sông Tô Lịch (Hà Nội ngày nay).",
+    "Lý Nam Đế là người Việt đầu tiên xưng đế, còn quốc hiệu 'Vạn Xuân' gửi gắm mong ước đất nước trường tồn như vạn mùa xuân.",
+    "Năm 545, quân Lương sang xâm lược trở lại; Lý Nam Đế trao binh quyền cho tướng Triệu Quang Phục. Triệu Quang Phục lui về đầm Dạ Trạch (Hưng Yên) đánh du kích và đến năm 550 đánh đuổi được quân Lương, giành lại quyền tự chủ, xưng Triệu Việt Vương.",
+    "Nước Vạn Xuân tồn tại đến năm 602 thì bị nhà Tùy đem quân xâm chiếm, nước ta lại rơi vào ách đô hộ phương Bắc."
+   ],
+   "traps": [
+    "Lý Bí (Lý Nam Đế, thế kỉ VI, lập nước Vạn Xuân năm 544) KHÁC Lý Công Uẩn (Lý Thái Tổ, dời đô ra Thăng Long năm 1010) — đừng lẫn hai nhân vật họ Lý.",
+    "Lý Bí xưng ĐẾ (hoàng đế đầu tiên của người Việt), trong khi Trưng Trắc và Ngô Quyền chỉ xưng VƯƠNG.",
+    "Tên nước là VẠN XUÂN (năm 544), đừng nhầm với Vạn An — tên thành của Mai Hắc Đế ở Nghệ An (năm 713).",
+    "Người đánh bại quân Lương ở đầm Dạ Trạch (năm 550) là TRIỆU QUANG PHỤC (Triệu Việt Vương), không phải Lý Bí - Lý Bí đã mất năm 548."
+   ],
+   "topic_title": "Các cuộc khởi nghĩa tiêu biểu giành độc lập, tự chủ (từ đầu Công nguyên đến trước thế kỉ X)",
+   "lessons": [
+    {
+     "book": "Cánh diều",
+     "bai": 15
+    }
+   ],
+   "sources": [
+    "https://loigiaihay.com/khoi-nghia-ly-bi-nuoc-van-xuan-thanh-lap-c81a14198.html",
+    "https://khoahoc.vietjack.com/question/1280070/cuoc-khoi-nghia-cua-ba-trieu-248-da",
+    "https://vi.wikipedia.org/wiki/V%E1%BA%A1n_Xu%C3%A2n",
+    "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_tranh_Ti%E1%BB%81n_L%C3%BD_%E2%80%93_L%C6%B0%C6%A1ng_(545%E2%80%93550)"
+   ],
+   "fixed": [
+    "Bổ sung khâu bị thiếu trong chuỗi nhân - quả: Triệu Quang Phục nhận binh quyền năm 545, kháng chiến ở đầm Dạ Trạch và đến NĂM 550 mới đánh đuổi được quân Lương, xưng Triệu Việt Vương (bản gốc bỏ trống kết cục).",
+    "Thêm nguồn độc lập (vi.wikipedia Vạn Xuân, Chiến tranh Tiền Lý - Lương) vì thẻ gốc chỉ dựa loigiaihay/vietjack."
+   ]
+  },
+  {
+   "name": "Khởi nghĩa Mai Thúc Loan và khởi nghĩa Phùng Hưng",
+   "kind": "movement",
+   "year": 713,
+   "date_start": "713",
+   "date_end": "791",
+   "place": "Hoan Châu (Nghệ An – Hà Tĩnh) và Đường Lâm (Sơn Tây, Hà Nội)",
+   "actors": [
+    "Mai Thúc Loan (Mai Hắc Đế)",
+    "Phùng Hưng",
+    "Phùng Hải"
+   ],
+   "aliases": [
+    "Mai Hắc Đế",
+    "khởi nghĩa Hoan Châu",
+    "Bố Cái Đại Vương",
+    "khởi nghĩa Phùng Hưng"
+   ],
+   "summary": "Dưới ách đô hộ nhà Đường, Mai Thúc Loan khởi nghĩa ở Hoan Châu năm 713 và xưng đế (Mai Hắc Đế), làm chủ đất nước gần 10 năm; khoảng năm 776, Phùng Hưng ở Đường Lâm nổi dậy, chiếm được thành Tống Bình và cai quản đất nước khoảng 9 năm, được tôn là Bố Cái Đại Vương.",
+   "facts": [
+    "Năm 713, Mai Thúc Loan phát động khởi nghĩa ở Hoan Châu (vùng Nghệ An – Hà Tĩnh ngày nay), xây thành Vạn An làm trung tâm và xưng đế — sử gọi ông là Mai Hắc Đế, tức 'vua Đen', vì ông có nước da ngăm đen.",
+    "Mai Hắc Đế còn liên kết với các nước Chăm-pa, Chân Lạp... để tăng thêm lực lượng chống ách đô hộ nhà Đường.",
+    "Chính quyền của Mai Hắc Đế làm chủ đất nước trong khoảng 10 năm (713-722), đến năm 722 nhà Đường huy động 10 vạn quân sang đàn áp, khởi nghĩa thất bại.",
+    "Khoảng năm 776, Phùng Hưng - hào trưởng quê ở Đường Lâm (Sơn Tây, Hà Nội) - cùng em là Phùng Hải nổi dậy khởi nghĩa, làm chủ vùng đất rộng lớn quanh quê hương.",
+    "Sau đó nghĩa quân Phùng Hưng bao vây và chiếm được phủ thành Tống Bình, giành quyền cai quản đất nước trong khoảng 9 năm. Năm 791, nhà Đường đem quân sang đàn áp, con ông là Phùng An phải ra hàng - 791 là năm khởi nghĩa THẤT BẠI, không phải năm chiếm được Tống Bình.",
+    "Sau khi Phùng Hưng mất, con là Phùng An cùng nhân dân suy tôn ông là 'Bố Cái Đại Vương' để ghi nhớ công lao đánh đuổi giặc ngoại xâm.",
+    "Sự bóc lột nặng nề về thuế khóa, cống nạp của nhà Đường là nguyên nhân khiến các cuộc khởi nghĩa Mai Thúc Loan rồi Phùng Hưng liên tiếp bùng nổ trong thế kỉ VIII."
+   ],
+   "traps": [
+    "Mai Thúc Loan = MAI HẮC ĐẾ (Hoan Châu, năm 713); Phùng Hưng = BỐ CÁI ĐẠI VƯƠNG (Đường Lâm, cuối thế kỉ VIII) — đừng hoán đổi hai danh xưng.",
+    "'Bố Cái Đại Vương' là tôn hiệu nhân dân truy tôn SAU KHI Phùng Hưng mất, không phải ông tự xưng khi còn sống.",
+    "Thành Vạn An của Mai Hắc Đế ở Nghệ An — đừng nhầm với nước Vạn Xuân của Lý Nam Đế (năm 544).",
+    "Đường Lâm là quê của cả Phùng Hưng và Ngô Quyền, nên được gọi là 'đất hai vua'.",
+    "Mốc khởi nghĩa Phùng Hưng là KHOẢNG NĂM 776 (không phải 791); năm 791 là năm nhà Đường đàn áp và Phùng An ra hàng - đừng lấy 791 làm năm chiếm thành Tống Bình."
+   ],
+   "topic_title": "Các cuộc khởi nghĩa tiêu biểu giành độc lập, tự chủ (từ đầu Công nguyên đến trước thế kỉ X)",
+   "lessons": [
+    {
+     "book": "Cánh diều",
+     "bai": 15
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Mai_H%E1%BA%AFc_%C4%90%E1%BA%BF",
+    "https://his.ussh.vnu.edu.vn/vi/news/nguyen-viet-hoang/khao-cuu-lai-cuoc-khoi-nghia-mai-thuc-loan-gs-vs-phan-huy-le-5743.html",
+    "https://nguoihanoi.vn/bo-cai-dai-vuong-phung-hung-than-vua-nuoc-viet-que-duong-lam-67495.html",
+    "https://thaibinh.gov.vn/130namthanhlaptinh/lich-su/thai-binh-voi-cuoc-khoi-nghia-cua-phung-hung-791-803-.html",
+    "https://loigiaihay.com/khoi-nghia-phung-hung-trong-khoang-776-791-c81a14232.html"
+   ],
+   "fixed": [
+    "ĐẢO CHIỀU NHÂN - QUẢ NẶNG: bản gốc ghi 'Năm 791, Phùng Hưng đánh chiếm Tống Bình, giành quyền cai quản'. Đúng là khoảng năm 776 Phùng Hưng khởi nghĩa và chiếm Tống Bình, cai quản ~9 năm; NĂM 791 là năm nhà Đường đàn áp, Phùng An ra hàng, khởi nghĩa thất bại.",
+    "'Khoảng cuối thế kỉ VIII' (mơ hồ) -> chốt mốc 776 theo SGK.",
+    "Bổ sung Phùng An (con) trong việc suy tôn 'Bố Cái Đại Vương'."
+   ]
+  },
+  {
+   "name": "Nhà nước Văn Lang (khoảng thế kỉ VII TCN – 208 TCN)",
+   "kind": "dynasty",
+   "year": null,
+   "date_start": "khoảng thế kỉ VII TCN",
+   "date_end": "208 TCN",
+   "place": "Kinh đô Phong Châu (Việt Trì, Phú Thọ ngày nay), lưu vực sông Hồng – sông Mã – sông Cả",
+   "actors": [
+    "Hùng Vương",
+    "Lạc hầu",
+    "Lạc tướng",
+    "Bồ chính"
+   ],
+   "aliases": [
+    "nước Văn Lang",
+    "Văn Lang",
+    "nhà nước đầu tiên của người Việt",
+    "thời Hùng Vương",
+    "Văn Lang thế kỉ VII TCN"
+   ],
+   "summary": "Khoảng thế kỉ VII TCN, thủ lĩnh bộ lạc Văn Lang thu phục các bộ lạc khác, tự xưng Hùng Vương, lập ra Văn Lang — nhà nước đầu tiên của người Việt, đóng đô ở Phong Châu (Phú Thọ).",
+   "facts": [
+    "Khoảng thế kỉ VII TCN, trên cơ sở nền văn hóa Đông Sơn, thủ lĩnh bộ lạc Văn Lang đã thu phục các bộ lạc khác, tự xưng là Hùng Vương và lập ra nhà nước Văn Lang.",
+    "Kinh đô nước Văn Lang đặt ở Phong Châu (vùng Việt Trì, Phú Thọ ngày nay), địa bàn trải trên lưu vực các sông Hồng, sông Mã, sông Cả.",
+    "Tổ chức nhà nước: đứng đầu là Hùng Vương; giúp việc có các Lạc hầu; cả nước chia thành 15 bộ do Lạc tướng đứng đầu; dưới bộ là các chiềng, chạ do Bồ chính cai quản.",
+    "Nhà nước Văn Lang còn rất sơ khai: chưa có luật pháp thành văn và chưa có quân đội thường trực.",
+    "Nhu cầu trị thủy, làm thủy lợi cho nghề trồng lúa nước và nhu cầu chống ngoại xâm là hai nguyên nhân chính thúc đẩy các bộ lạc liên kết lại, dẫn tới sự ra đời của nhà nước Văn Lang.",
+    "Văn Lang tồn tại đến năm 208 TCN thì được thay thế bằng nhà nước Âu Lạc của Thục Phán An Dương Vương."
+   ],
+   "traps": [
+    "Nhà nước Văn Lang ra đời KHOẢNG THẾ KỈ VII TCN — không phải thế kỉ VII sau Công nguyên, và cũng không phải năm 208 TCN (đó là mốc của Âu Lạc).",
+    "Kinh đô Văn Lang là PHONG CHÂU (Phú Thọ); kinh đô Âu Lạc mới là CỔ LOA (Đông Anh, Hà Nội) — đừng hoán đổi.",
+    "Văn Lang chia làm 15 BỘ, đứng đầu bộ là LẠC TƯỚNG (không phải Lạc hầu — Lạc hầu giúp việc ở triều đình).",
+    "Người đứng đầu nước Văn Lang là HÙNG VƯƠNG; An Dương Vương (Thục Phán) là vua nước Âu Lạc."
+   ],
+   "topic_title": "Nhà nước Văn Lang – Âu Lạc",
+   "lessons": [
+    {
+     "book": "CTST",
+     "bai": 14
+    },
+    {
+     "book": "KNTT",
+     "bai": 14
+    },
+    {
+     "book": "Cánh diều",
+     "bai": 12
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/H%C3%B9ng_V%C6%B0%C6%A1ng",
+    "https://loigiaihay.com/ly-thuyet-nha-nuoc-van-lang-au-lac-lich-su-6-ket-noi-tri-thuc-voi-cuoc-song-a90043.html",
+    "http://svhttdl.phutho.gov.vn/tin/dau-tich-kinh-do-van-lang-thoi-dai-hung-vuong-tren-dia-ban-thanh-pho-viet-tri_199.html"
+   ],
+   "fixed": [
+    "Thẻ MỚI bổ sung để phủ bẫy bắt buộc; toàn bộ mốc/số liệu đã đối chiếu vi.wikipedia + nguồn nhà nước/SGK."
+   ]
+  },
+  {
+   "name": "Nhà nước Âu Lạc (208 TCN – 179 TCN) và cuộc xâm lược của Triệu Đà",
+   "kind": "dynasty",
+   "year": -208,
+   "date_start": "208 TCN",
+   "date_end": "179 TCN",
+   "place": "Kinh đô Cổ Loa (Đông Anh, Hà Nội ngày nay)",
+   "actors": [
+    "Thục Phán (An Dương Vương)",
+    "Triệu Đà",
+    "Cao Lỗ",
+    "Mị Châu",
+    "Trọng Thủy"
+   ],
+   "aliases": [
+    "nước Âu Lạc",
+    "Âu Lạc",
+    "An Dương Vương",
+    "Thục Phán",
+    "Âu Lạc năm 208 TCN",
+    "Triệu Đà thôn tính Âu Lạc năm 179 TCN"
+   ],
+   "summary": "Năm 208 TCN, sau kháng chiến chống Tần thắng lợi, Thục Phán xưng An Dương Vương, hợp nhất Âu Việt và Lạc Việt thành nước Âu Lạc, đóng đô ở Cổ Loa; đến năm 179 TCN, Triệu Đà thôn tính Âu Lạc, mở đầu hơn một nghìn năm Bắc thuộc.",
+   "facts": [
+    "Năm 208 TCN, sau khi lãnh đạo kháng chiến chống quân Tần thắng lợi, Thục Phán xưng là An Dương Vương, hợp nhất vùng đất của người Âu Việt và Lạc Việt, đổi tên nước thành Âu Lạc.",
+    "An Dương Vương dời đô từ Phong Châu về Cổ Loa (Đông Anh, Hà Nội ngày nay) và cho xây thành Cổ Loa kiên cố với ba vòng thành khép kín.",
+    "So với Văn Lang, nhà nước Âu Lạc tiến bộ hơn: lãnh thổ mở rộng hơn, tổ chức chặt chẽ hơn, có quân đội mạnh và vũ khí tốt (nổi tiếng là nỏ Liên Châu, tương truyền do Cao Lỗ chế tạo).",
+    "Năm 179 TCN, Triệu Đà — vua nước Nam Việt ở phương Bắc — đem quân đánh chiếm Âu Lạc; An Dương Vương thất bại, nước Âu Lạc rơi vào ách đô hộ của phong kiến phương Bắc.",
+    "Chính vì An Dương Vương chủ quan, mất cảnh giác và bị Triệu Đà dùng kế nội gián (truyền thuyết Mị Châu – Trọng Thủy) nên Âu Lạc mất nước, chứ không phải vì quân Âu Lạc yếu về vũ khí.",
+    "Năm 179 TCN vì thế được lấy làm mốc mở đầu thời kì Bắc thuộc kéo dài hơn một nghìn năm, đến chiến thắng Bạch Đằng năm 938 mới chấm dứt."
+   ],
+   "traps": [
+    "Nước Âu Lạc ra đời năm 208 TCN do THỤC PHÁN (An Dương Vương) lập; Văn Lang mới là nước của Hùng Vương, ra đời khoảng thế kỉ VII TCN.",
+    "Triệu Đà thôn tính Âu Lạc năm 179 TCN — đừng nhầm với 208 TCN (năm lập Âu Lạc) hay 111 TCN (năm nhà Hán chiếm Nam Việt).",
+    "Kinh đô Âu Lạc là CỔ LOA; Phong Châu là kinh đô của Văn Lang.",
+    "Mốc bắt đầu Bắc thuộc là năm 179 TCN, mốc chấm dứt là năm 938 (chiến thắng Bạch Đằng của Ngô Quyền)."
+   ],
+   "topic_title": "Nhà nước Văn Lang – Âu Lạc",
+   "lessons": [
+    {
+     "book": "CTST",
+     "bai": 14
+    },
+    {
+     "book": "KNTT",
+     "bai": 14
+    },
+    {
+     "book": "Cánh diều",
+     "bai": 13
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/An_D%C6%B0%C6%A1ng_V%C6%B0%C6%A1ng",
+    "https://vi.wikipedia.org/wiki/%C3%82u_L%E1%BA%A1c",
+    "https://loigiaihay.com/ly-thuyet-nha-nuoc-van-lang-au-lac-lich-su-6-ket-noi-tri-thuc-voi-cuoc-song-a90043.html"
+   ],
+   "fixed": [
+    "Thẻ MỚI bổ sung để phủ bẫy bắt buộc; toàn bộ mốc/số liệu đã đối chiếu vi.wikipedia + nguồn nhà nước/SGK."
+   ]
+  },
+  {
+   "name": "Văn hóa Đông Sơn (khoảng thế kỉ VII TCN – thế kỉ I, II) và trống đồng",
+   "kind": "period",
+   "year": null,
+   "date_start": "khoảng thế kỉ VII TCN",
+   "date_end": "khoảng thế kỉ I – II",
+   "place": "Làng Đông Sơn ven sông Mã (Thanh Hóa); phân bố khắp Bắc Bộ và Bắc Trung Bộ Việt Nam",
+   "actors": [
+    "Nguyễn Văn Lắm"
+   ],
+   "aliases": [
+    "Đông Sơn",
+    "nền văn hóa Đông Sơn",
+    "trống đồng Đông Sơn",
+    "trống đồng Ngọc Lũ",
+    "văn minh sông Hồng"
+   ],
+   "summary": "Văn hóa Đông Sơn là nền văn hóa thời đại đồ đồng phát triển rực rỡ ở Bắc Bộ và Bắc Trung Bộ khoảng thế kỉ VII TCN đến thế kỉ I – II, mang tên làng Đông Sơn (Thanh Hóa); hiện vật tiêu biểu nhất là TRỐNG ĐỒNG, và đây là cơ sở vật chất của nhà nước Văn Lang – Âu Lạc.",
+   "facts": [
+    "Năm 1924, một người dân tên Nguyễn Văn Lắm tình cờ tìm được một số đồ đồng cổ ở làng Đông Sơn ven sông Mã (Thanh Hóa); tên làng sau đó được dùng đặt cho cả nền văn hóa.",
+    "Văn hóa Đông Sơn có niên đại khoảng 2500 – 2000 năm cách ngày nay (khoảng thế kỉ VII TCN đến thế kỉ I – II), phân bố rộng khắp Bắc Bộ và Bắc Trung Bộ, dọc các lưu vực sông Hồng, sông Mã, sông Cả.",
+    "Hiện vật tiêu biểu nhất của văn hóa Đông Sơn là TRỐNG ĐỒNG (tiêu biểu là trống đồng Ngọc Lũ), bên cạnh đó còn có thạp đồng, lưỡi cày đồng, mũi tên đồng, dao găm, rìu lưỡi xéo.",
+    "Mặt trống đồng khắc hình ngôi sao nhiều cánh ở giữa, quanh đó là các vòng hoa văn hình người giã gạo, nhà sàn, thuyền, chim Lạc — phản ánh đời sống của cư dân nông nghiệp lúa nước.",
+    "Kĩ thuật đúc đồng đạt trình độ cao: người thợ điều chỉnh tỉ lệ đồng – thiếc – chì tùy công dụng (hợp kim cứng để làm vũ khí, mềm dẻo hơn để làm đồ trang trí).",
+    "Chính nghề luyện kim đồng phát triển đã làm năng suất lao động tăng, của cải dư thừa và xã hội phân hóa, tạo cơ sở vật chất cho nhà nước Văn Lang của các Vua Hùng rồi Âu Lạc của An Dương Vương ra đời."
+   ],
+   "traps": [
+    "Hiện vật TIÊU BIỂU của văn hóa Đông Sơn là TRỐNG ĐỒNG — không phải công cụ đá, cũng không phải đồ gốm.",
+    "Văn hóa Đông Sơn ở BẮC BỘ – BẮC TRUNG BỘ Việt Nam, gắn với Văn Lang – Âu Lạc; đừng nhầm với văn hóa Óc Eo (Nam Bộ, gắn với Phù Nam) hay Sa Huỳnh (miền Trung, gắn với Chăm-pa).",
+    "Thứ tự đúng: Phùng Nguyên -> Đồng Đậu -> Gò Mun -> ĐÔNG SƠN; Đông Sơn là giai đoạn phát triển cao nhất, đứng SAU ba văn hóa tiền Đông Sơn.",
+    "Đông Sơn là tên một LÀNG ở Thanh Hóa (nơi phát hiện năm 1924), không phải tên một vương quốc."
+   ],
+   "topic_title": "Nhà nước Văn Lang – Âu Lạc",
+   "lessons": [
+    {
+     "book": "CTST",
+     "bai": 14
+    },
+    {
+     "book": "KNTT",
+     "bai": 14
+    },
+    {
+     "book": "Cánh diều",
+     "bai": 12
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/V%C4%83n_h%C3%B3a_%C4%90%C3%B4ng_S%C6%A1n",
+    "https://baotanglichsu.vn/vi/Articles/4016/cac-van-hoa-tien-djong-son-phung-nguyen-djong-djau-go-mun-khoang-4-000-2-500-nam-cach-ngay-nay",
+    "https://vov2.vov.vn/van-hoa-giai-tri/am-vang-dong-son-nhung-di-vat-dac-sac-nen-van-hoa-dong-son-46015.vov2"
+   ],
+   "fixed": [
+    "Thẻ MỚI bổ sung để phủ bẫy bắt buộc; toàn bộ mốc/số liệu đã đối chiếu vi.wikipedia + nguồn nhà nước/SGK."
+   ]
+  },
+  {
+   "name": "Hy Lạp cổ đại (thế kỉ VIII – IV TCN)",
+   "kind": "period",
+   "year": null,
+   "date_start": "thế kỉ VIII TCN",
+   "date_end": "thế kỉ IV TCN",
+   "place": "Bán đảo Ban-căng và các đảo trên biển Ê-giê (Nam Âu)",
+   "actors": [
+    "người Hy Lạp",
+    "Pê-ri-clét",
+    "Hô-me",
+    "Pi-ta-go",
+    "Ác-si-mét"
+   ],
+   "aliases": [
+    "Hy Lạp",
+    "Hi Lạp cổ đại",
+    "thành bang Hy Lạp",
+    "A-ten",
+    "Xpác-ta"
+   ],
+   "summary": "Từ khoảng thế kỉ VIII đến thế kỉ VI TCN, trên bán đảo Ban-căng hình thành hàng trăm nhà nước thành bang Hy Lạp, lớn nhất là A-ten và Xpác-ta; A-ten nổi tiếng với nền dân chủ chủ nô, đến thế kỉ IV TCN Hy Lạp bị Ma-xê-đô-ni-a chinh phục.",
+   "facts": [
+    "Hy Lạp cổ đại nằm ở phía nam bán đảo Ban-căng và các đảo trên biển Ê-giê; đất trồng lương thực ít nhưng có nhiều vũng, vịnh kín gió, thuận lợi cho hàng hải và buôn bán.",
+    "Khoảng từ thế kỉ VIII đến thế kỉ VI TCN, ở Hy Lạp hình thành hàng trăm nhà nước thành bang (mỗi thành bang có chính quyền, quân đội, luật pháp riêng); lớn nhất là A-ten và Xpác-ta.",
+    "A-ten theo thể chế dân chủ chủ nô: Đại hội nhân dân gồm toàn bộ công dân nam từ 18 tuổi trở lên có quyền bầu cử, giám sát và bầu ra Hội đồng 500 người.",
+    "Nền dân chủ A-ten chỉ dành cho công dân nam tự do; phụ nữ, kiều dân và nô lệ — chiếm phần lớn dân số — không có quyền công dân, nên đó là dân chủ CHỦ NÔ chứ không phải dân chủ toàn dân.",
+    "Thành tựu tiêu biểu: hệ chữ cái Hy Lạp (a, b, g...), hai bộ sử thi I-li-át và Ô-đi-xê của Hô-me, các định lí của Pi-ta-go và Ta-lét, phát minh của Ác-si-mét, đền Pác-tê-nông và tượng lực sĩ ném đĩa.",
+    "Đến thế kỉ IV TCN, các thành bang Hy Lạp suy yếu vì tranh giành lẫn nhau và bị Ma-xê-đô-ni-a chinh phục."
+   ],
+   "traps": [
+    "Hai thành bang lớn nhất Hy Lạp là A-TEN và XPÁC-TA; thành bang theo chế độ dân chủ là A-TEN, còn Xpác-ta theo chế độ quân sự quý tộc.",
+    "Dân chủ A-ten là dân chủ CHỦ NÔ — nô lệ, phụ nữ và kiều dân không có quyền công dân.",
+    "Hy Lạp gắn với biển Ê-giê và bán đảo BAN-CĂNG; La Mã gắn với bán đảo I-TA-LI-A — đừng hoán đổi.",
+    "Sử thi I-li-át và Ô-đi-xê là của HÔ-ME (Hy Lạp); sử thi Gin-ga-mét là của Lưỡng Hà."
+   ],
+   "topic_title": "Hy Lạp và La Mã cổ đại",
+   "lessons": [
+    {
+     "book": "CTST",
+     "bai": 10
+    },
+    {
+     "book": "KNTT",
+     "bai": 10
+    },
+    {
+     "book": "Cánh diều",
+     "bai": 9
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Hy_L%E1%BA%A1p_c%E1%BB%95_%C4%91%E1%BA%A1i",
+    "https://loigiaihay.com/ly-thuyet-hy-lap-va-la-ma-co-dai-lich-su-6-canh-dieu-a89970.html",
+    "https://vndoc.com/ly-thuyet-lich-su-6-canh-dieu-bai-9-313793"
+   ],
+   "fixed": [
+    "Thẻ MỚI bổ sung để phủ bẫy bắt buộc; toàn bộ mốc/số liệu đã đối chiếu vi.wikipedia + nguồn nhà nước/SGK."
+   ]
+  },
+  {
+   "name": "La Mã cổ đại (753 TCN – năm 476)",
+   "kind": "period",
+   "year": null,
+   "date_start": "753 TCN",
+   "date_end": "476",
+   "place": "Bán đảo I-ta-li-a, sau mở rộng ra toàn vùng Địa Trung Hải",
+   "actors": [
+    "Ốc-ta-vi-út (Octavianus)",
+    "Viện Nguyên lão",
+    "Đại hội nhân dân"
+   ],
+   "aliases": [
+    "La Mã",
+    "Rô-ma",
+    "đế quốc La Mã",
+    "cộng hòa La Mã",
+    "Roma cổ đại"
+   ],
+   "summary": "Thành bang La Mã ra đời khoảng năm 753 TCN trên bán đảo I-ta-li-a, chuyển từ chế độ cộng hòa sang đế chế khi Ốc-ta-vi-út nắm toàn quyền năm 27 TCN; đế quốc Tây La Mã sụp đổ năm 476.",
+   "facts": [
+    "Khoảng giữa thế kỉ VIII TCN (năm 753 TCN), thành bang La Mã được thành lập trên bán đảo I-ta-li-a — nơi có đồng bằng màu mỡ, nhiều kim loại và bờ biển dài thuận lợi giao thương Địa Trung Hải.",
+    "Thời kì đầu (khoảng 753 – 510 TCN), đứng đầu nhà nước La Mã là vua, bên cạnh có Viện Nguyên lão và Đại hội nhân dân.",
+    "Sau các cuộc đấu tranh, La Mã chuyển sang thể chế cộng hòa và duy trì đến cuối thế kỉ I TCN; quyền lực thực tế nằm trong tay Viện Nguyên lão.",
+    "Năm 27 TCN, Ốc-ta-vi-út nắm mọi quyền hành, trở thành người thống trị duy nhất — La Mã chuyển từ CỘNG HÒA sang ĐẾ CHẾ (đế quốc La Mã).",
+    "Chính nhờ vị trí trên bán đảo I-ta-li-a giữa Địa Trung Hải mà La Mã mở rộng lãnh thổ ra ba châu Á – Âu – Phi, biến Địa Trung Hải thành 'hồ nước' của mình.",
+    "Thành tựu tiêu biểu: hệ chữ cái La-tinh, chữ số La Mã (I, II, III...), dương lịch, luật La Mã, bê tông, đấu trường Cô-li-dê và đền Pan-thê-ông.",
+    "Đến năm 476, đế quốc Tây La Mã sụp đổ, khép lại thời kì cổ đại ở phương Tây."
+   ],
+   "traps": [
+    "Chiều đúng của La Mã là CỘNG HÒA TRƯỚC -> ĐẾ CHẾ SAU: năm 27 TCN Ốc-ta-vi-út lập đế chế, không phải ngược lại.",
+    "Mốc 753 là năm TRƯỚC Công nguyên (753 TCN); mốc 476 là năm SAU Công nguyên — đừng gắn 'TCN' cho cả hai và đừng đảo chiều đầu – cuối.",
+    "Chữ số La Mã và chữ cái La-tinh là của LA MÃ; hệ đếm cơ số 60 là của Lưỡng Hà; chữ tượng hình là của Ai Cập.",
+    "Đấu trường Cô-li-dê ở LA MÃ; đền Pác-tê-nông ở Hy Lạp (A-ten); kim tự tháp ở Ai Cập."
+   ],
+   "topic_title": "Hy Lạp và La Mã cổ đại",
+   "lessons": [
+    {
+     "book": "CTST",
+     "bai": 11
+    },
+    {
+     "book": "KNTT",
+     "bai": 10
+    },
+    {
+     "book": "Cánh diều",
+     "bai": 9
+    }
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/La_M%C3%A3_c%E1%BB%95_%C4%91%E1%BA%A1i",
+    "https://loigiaihay.com/ly-thuyet-hy-lap-va-la-ma-co-dai-lich-su-6-ket-noi-tri-thuc-voi-cuoc-song-a90039.html",
+    "https://vndoc.com/ly-thuyet-lich-su-6-canh-dieu-bai-9-313793"
+   ],
+   "fixed": [
+    "Thẻ MỚI bổ sung để phủ bẫy bắt buộc; toàn bộ mốc/số liệu đã đối chiếu vi.wikipedia + nguồn nhà nước/SGK."
+   ]
+  }
+ ]
+}
