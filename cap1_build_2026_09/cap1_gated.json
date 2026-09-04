@@ -2835,5 +2835,969 @@
   "ly_do": "Bài kí/tản văn của tác giả đương đại Hà Phong, còn bản quyền -> companion. Chỉ đối chiếu chi tiết (gỗ + sáu ống trúc, lên nương/xuống chợ/xuân về) qua trang soạn-bài, không chép nguyên văn.",
   "_file": "cap1b_g4_c2.json",
   "grade": 4
+ },
+ {
+  "ten_bai": "Thần lằn xanh và tắc kè",
+  "bo_sach": "KNTT",
+  "tac_gia": "Sâng Lê-kha-na (bản dịch tiếng Việt); tên bài trong SGK là \"Thằn lằn xanh và tắc kè\"",
+  "kind": "companion",
+  "full_text": "",
+  "companion": {
+   "tom_tat": "Một buổi tối, thằn lằn xanh đang bò trên cành cây thì gặp tắc kè bò trên bức tường. Hai bạn làm quen: thằn lằn quen kiếm ăn ban ngày trên cây, tắc kè quen kiếm ăn ban đêm trên tường. Thấy cuộc sống của nhau thật thú vị, hai bạn rủ nhau đổi chỗ cho nhau. Nhưng chỉ vài ngày sau, thằn lằn không bám được tường vì chân không dính, còn tắc kè không chịu nổi sức nóng ban ngày; cả hai đều đói. Thế là hai bạn đổi lại như cũ, trở về đúng nơi hợp với mình và thỉnh thoảng vẫn gặp nhau trò chuyện.",
+   "nhan_vat": "Thằn lằn xanh và tắc kè - đôi bạn mới quen.",
+   "y_nghia": "Mỗi loài vật (và mỗi người) có đặc điểm, môi trường và thói quen riêng phù hợp với mình. Hiểu và quý cái riêng của bản thân sẽ tốt hơn là ao ước sống cuộc đời của người khác; dù khác nhau, ta vẫn có thể làm bạn.",
+   "cau_hoi": [
+    "Thằn lằn xanh và tắc kè khác nhau ở chỗ nào trong cách kiếm ăn?",
+    "Vì sao sau khi đổi cuộc sống cho nhau, cả hai bạn đều bị đói?",
+    "Em học được điều gì về bản thân sau khi nghe câu chuyện của hai bạn này?"
+   ]
+  },
+  "sources": [
+   "https://vietjack.com/tieng-viet-4-kn/doc-than-lan-xanh-va-tac-ke.jsp"
+  ],
+  "ly_do": "Truyện của tác giả đương đại Sâng Lê-kha-na, in qua bản dịch tiếng Việt -> còn bản quyền, chọn companion. Ghi chú: tên trong danh sách đầu vào ('Thần lằn') là lỗi gõ của bài 'Thằn lằn xanh và tắc kè'.",
+  "_file": "cap1b_g4_c2.json",
+  "grade": 4
+ },
+ {
+  "ten_bai": "Trên khóm tre đầu ngõ",
+  "bo_sach": "KNTT",
+  "tac_gia": "Vũ Hùng",
+  "kind": "companion",
+  "full_text": "",
+  "companion": {
+   "tom_tat": "Đầu hè, một đôi cò bay đến làm tổ trên khóm tre đầu ngõ nhà ông cháu Bua Kham. Ít lâu sau, cò con nở, kêu ríu rít đòi ăn; lúc rảnh Bua Kham hay ra đứng dưới khóm tre ngắm chúng. Một hôm bão lớn, gió hất mấy chú cò con ngã nhào xuống đất, cò bố mẹ ướt cánh không cứu được, chỉ biết kêu quác quác buồn thảm. Người ta bảo có thể nhặt cò con về nuôi, nhưng Bua Kham không nỡ làm tan tác gia đình cò nên nhờ ông bắc thang đặt chúng trở lại tổ. Mùa sinh nở năm sau, đôi cò rủ thêm mấy chục cặp cò, cò lửa và vạc về, khiến vườn nhà ông cháu Bua Kham vui nhất vùng.",
+   "nhan_vat": "Bua Kham, người ông của Bua Kham, đôi cò bố mẹ và đàn cò con.",
+   "y_nghia": "Câu chuyện dạy lòng nhân hậu và tình yêu thương loài vật: cho đi yêu thương thì sẽ nhận lại yêu thương, và biết bảo vệ thiên nhiên thì thiên nhiên sẽ trở lại làm đẹp cuộc sống của mình.",
+   "cau_hoi": [
+    "Đôi cò bay đến khóm tre đầu ngõ nhà Bua Kham để làm gì?",
+    "Vì sao Bua Kham không nhặt lũ cò con về nuôi mà lại nhờ ông đặt chúng về tổ?",
+    "Chi tiết mùa sau đàn cò kéo về thật đông nói với em điều gì về việc làm của Bua Kham?"
+   ]
+  },
+  "sources": [
+   "https://vietjack.com/tieng-viet-4-kn/doc-tren-khom-tre-dau-ngo.jsp"
+  ],
+  "ly_do": "Tác giả Vũ Hùng (1931-2022) mất chưa quá 50 năm, tác phẩm còn bản quyền -> companion. Nội dung đối chiếu từ trang soạn-bài, không chép nguyên văn.",
+  "_file": "cap1b_g4_c2.json",
+  "grade": 4
+ },
+ {
+  "ten_bai": "Trước ngày xa quê",
+  "bo_sach": "KNTT",
+  "tac_gia": "Kao Sơn",
+  "kind": "companion",
+  "full_text": "",
+  "companion": {
+   "tom_tat": "Bố quyết định cho bạn nhỏ lên thành phố học, nghe tin ấy bạn òa khóc vì không muốn rời quê. Chiều trước ngày đi, các bạn cùng lớp và cả thầy giáo đến chơi tiễn; hôm ấy chẳng ai cười đùa, kẹo cũng chẳng buồn ăn, cả bọn chỉ nhắc lại những trò nghịch ngợm cũ và hỏi nhau thành phố sắp tới có giống quê mình không. Bạn nhỏ nhớ con đường làng gồ ghề vàng óng rơm mùa gặt, những lùm cây giấu đầy ổi và mâm xôi chín mọng, rồi nước mắt cứ ứa ra. Thầy giáo lau nước mắt, xoa đầu và hứa hè về bạn sẽ lại được chơi với thầy và các bạn. Buổi chia tay kéo dài đến khi trời tối mịt.",
+   "nhan_vat": "Bạn nhỏ (nhân vật \"tôi\") sắp lên thành phố học; thầy giáo; các bạn cùng lớp; bố mẹ bạn nhỏ.",
+   "y_nghia": "Bài đọc nói về tình yêu quê hương và tình thầy trò, tình bạn: quê hương là nơi gắn bó thân thuộc đến kì lạ, dù đi đâu ta vẫn mang theo trong lòng.",
+   "cau_hoi": [
+    "Vì sao bạn nhỏ òa khóc khi nghe bố nói sẽ cho lên thành phố học?",
+    "Buổi chiều chia tay hôm ấy có gì khác với những buổi các bạn tụ họp mọi khi?",
+    "Có nơi nào hoặc người nào mà em thấy rất khó xa không? Em muốn nói gì với nơi/người ấy?"
+   ]
+  },
+  "sources": [
+   "https://vietjack.com/tieng-viet-4-kn/doc-truoc-ngay-xa-que.jsp"
+  ],
+  "ly_do": "Tác giả Kao Sơn là nhà văn đương đại còn sống, tác phẩm còn bản quyền -> companion tự viết. Trang soạn-bài chỉ để đối chiếu tác giả và diễn biến.",
+  "_file": "cap1b_g4_c2.json",
+  "grade": 4
+ },
+ {
+  "ten_bai": "Vẽ màu",
+  "bo_sach": "KNTT",
+  "tac_gia": "Bảo Ngọc",
+  "kind": "companion",
+  "full_text": "",
+  "companion": {
+   "tom_tat": "Bài thơ là lời một bạn nhỏ vừa vẽ vừa gọi tên các màu sắc quanh mình. Màu đỏ của cánh hoa hồng làm ửng đôi má, màu xanh chiếc lá làm mát rặng cây; bình minh treo trên mây thả nắng vàng xuống đất; chiếc áo tím dành tặng hoàng hôn; màu nâu đến từ đại ngàn xa thẳm, còn đêm thì đen như mực để thắp sao lên trời. Cuối bài, bạn nhỏ tô thêm màu trắng - màu sương đã điểm trên mái tóc mẹ.",
+   "nhan_vat": "Bạn nhỏ đang vẽ tranh; hình ảnh người mẹ hiện lên ở khổ thơ cuối.",
+   "y_nghia": "Bài thơ dạy các em nhìn thế giới bằng đôi mắt giàu tưởng tượng và yêu cái đẹp; khổ cuối lắng lại thành tình thương mẹ, khi bạn nhỏ nhận ra tóc mẹ đã bạc theo năm tháng.",
+   "cau_hoi": [
+    "Trong bài thơ, mỗi màu sắc gắn với sự vật nào?",
+    "Vì sao ở khổ thơ cuối bạn nhỏ lại tô thêm màu trắng?",
+    "Nếu vẽ một bức tranh về gia đình mình, em sẽ dùng những màu nào và vì sao?"
+   ]
+  },
+  "sources": [
+   "https://vietjack.com/tieng-viet-4-kn/doc-ve-mau.jsp"
+  ],
+  "ly_do": "Thơ của Bảo Ngọc - tác giả đương đại còn sống, còn bản quyền -> companion, tuyệt đối không chép nguyên văn bài thơ.",
+  "_file": "cap1b_g4_c2.json",
+  "grade": 4
+ },
+ {
+  "ten_bai": "Vệt phấn trên mặt bàn",
+  "bo_sach": "KNTT",
+  "tac_gia": "Nguyễn Thị Kim Hòa",
+  "kind": "companion",
+  "full_text": "",
+  "companion": {
+   "tom_tat": "Lớp Minh có bạn mới tên Thi Ca, được cô giáo xếp ngồi cạnh Minh. Thi Ca viết bằng tay trái nên cùi chỏ hay đụng vào Minh, làm chữ Minh nhảy chồm ra khỏi dòng. Bực mình, Minh lấy phấn kẻ một đường chia đôi mặt bàn và cấm bạn để tay qua; Thi Ca nhìn đường phấn, gương mặt thoáng buồn. Một hôm Thi Ca không đến lớp vì phải vào bệnh viện, cô giáo mong bác sĩ chữa lành cánh tay phải để bạn không phải viết tay trái nữa. Minh chợt nhớ Thi Ca hay giấu bàn tay phải trong hộc bàn, càng nhớ càng ân hận, liền lấy khăn xóa vệt phấn và thầm mong bạn mau trở lại.",
+   "nhan_vat": "Minh; Thi Ca - bạn nữ mới chuyển đến; cô giáo.",
+   "y_nghia": "Câu chuyện dạy các em biết cảm thông và tìm hiểu hoàn cảnh của bạn trước khi trách móc. Một đường phấn nhỏ có thể làm bạn buồn, còn lòng bao dung thì xóa được ranh giới giữa những người bạn.",
+   "cau_hoi": [
+    "Vì sao Minh kẻ một đường phấn chia đôi mặt bàn?",
+    "Điều gì khiến Minh thay đổi thái độ và cảm thấy ân hận về việc mình đã làm?",
+    "Đã bao giờ em hiểu nhầm một người bạn chưa? Khi hiểu ra, em đã làm gì?"
+   ]
+  },
+  "sources": [
+   "https://vietjack.com/tieng-viet-4-kn/doc-vet-phan-tren-mat-ban.jsp"
+  ],
+  "ly_do": "Truyện của Nguyễn Thị Kim Hòa (sinh 1984, còn sống), còn bản quyền -> companion tự viết bằng lời riêng.",
+  "_file": "cap1b_g4_c2.json",
+  "grade": 4
+ },
+ {
+  "ten_bai": "Ông Bụt đã đến",
+  "bo_sach": "KNTT",
+  "tac_gia": "Võ Thu Hương",
+  "kind": "companion",
+  "full_text": "",
+  "companion": {
+   "tom_tat": "Quán cà phê nhà Mai thuê nằm cạnh ngôi nhà của một ông nhạc sĩ, trước thềm có mấy chậu hoa lan rất đẹp. Sáng nào ra phụ mẹ bán hàng, Mai cũng ngắm nghía, bắt sâu và hồi hộp chờ hoa nở. Hôm nhành lan bung nở, Mai sà tới nâng niu, ve vuốt mãi rồi lỡ tay làm gãy mất cành hoa. Mẹ bảo Mai sang xin lỗi ông chủ nhà; đứng trước cửa, cô bé vừa khóc vừa thì thầm cầu ông Bụt cứu mình, gõ cửa mà không ai mở. Hôm sau Mai sững sờ thấy chậu lan lại có một nhành hoa tím biếc nở đẹp - hoá ra ông nhạc sĩ đã tình cờ nhìn thấy nước mắt và nghe lời thì thầm của cô bé nên lặng lẽ mua chậu lan mới thay vào.",
+   "nhan_vat": "Mai (cô bé giúp mẹ bán hàng ở quán cà phê), mẹ của Mai, ông nhạc sĩ hàng xóm - người được xem là 'ông Bụt' trong câu chuyện.",
+   "y_nghia": "Câu chuyện nói rằng ông Bụt không chỉ có trong truyện cổ tích: những người tốt bụng, bao dung quanh ta cũng có thể làm nên phép màu. Bài đọc dạy các em biết yêu cái đẹp, biết nhận lỗi và xin lỗi khi làm sai, đồng thời biết tha thứ và âm thầm làm điều tử tế cho người khác.",
+   "cau_hoi": [
+    "Vì sao Mai lại thích và hay ngắm nghía mấy chậu hoa của nhà ông nhạc sĩ?",
+    "Khi làm gãy nhành lan, Mai đã nghĩ và đã làm gì? Nếu là em, em sẽ làm thế nào?",
+    "Vì sao có thể gọi ông nhạc sĩ là 'ông Bụt'? Em đã từng gặp một 'ông Bụt' như thế chưa?"
+   ]
+  },
+  "sources": [
+   "https://sachgiaokhoa.online/lop-4-7/ket-noi-tri-thuc-voi-cuoc-song-3/tuan-20-1942/bai-3-ong-but-da-den-6396.html"
+  ],
+  "ly_do": "Bài 3, SGK Tiếng Việt 4 KNTT tập 2, trang 16-17; cuối bài đọc ghi tác giả (Võ Thu Hương). Võ Thu Hương là nhà văn đương đại (sinh 1983, còn sống), văn bản còn bản quyền nên KH�ÔNG chép nguyên văn; chuyển sang companion tự viết. Nội dung đối chiếu từ bản SGK số hoá sachgiaokhoa.online.",
+  "_file": "cap1b_g4_c3.json",
+  "grade": 4
+ },
+ {
+  "ten_bai": "Đi hội chùa Hương",
+  "bo_sach": "KNTT",
+  "tac_gia": "Chu Huy",
+  "kind": "companion",
+  "full_text": "",
+  "companion": {
+   "tom_tat": "Bài thơ vẽ lại cảnh trẩy hội chùa Hương vào mùa xuân: người xe nườm nượp kéo về, rừng mơ như thay áo mới, hoa nở xúng xính đón mời khách thập phương. Nơi núi non xa vắng ngày thường bỗng thành chỗ gặp gỡ; chỉ một câu chào cởi mở là nhận ra nhau người cùng quê. Người đi hội bước đi say mê như lạc vào trang cổ tích, nghe đá còn vang tiếng nhạc ở động chùa Tiên, chùa Hương, nghe gió còn ngân khúc hát ở động núi Hinh Bồng. Khổ cuối khẳng định: người ta đến chùa Hương đâu chỉ để lễ Phật, mà còn để đi thăm đất nước và trở về trong yêu thương.",
+   "nhan_vat": "Bài thơ không có nhân vật truyện; 'nhân vật' là đoàn người đi trẩy hội mùa xuân và cảnh sắc chùa Hương (rừng mơ, động chùa Tiên, động Hinh Bồng, làn sương khói).",
+   "y_nghia": "Bài thơ ca ngợi vẻ đẹp nên thơ của thắng cảnh chùa Hương và nét đẹp của lễ hội mùa xuân Việt Nam: con người gặp nhau thân thiện, cởi mở. Qua đó bồi đắp cho các em tình yêu quê hương đất nước và ý thức trân trọng, giữ gìn các lễ hội truyền thống.",
+   "cau_hoi": [
+    "Mùa xuân về, cảnh vật ở chùa Hương thay đổi như thế nào?",
+    "Những chi tiết nào cho thấy người đi hội rất đông và rất thân thiện với nhau?",
+    "Vì sao tác giả viết 'Ôi phải đâu lễ Phật / Người mới đi Chùa Hương'? Ở quê em có lễ hội mùa xuân nào?"
+   ]
+  },
+  "sources": [
+   "https://sachgiaokhoa.online/lop-4-7/ket-noi-tri-thuc-voi-cuoc-song-3/tuan-29-2137/bai-19-di-hoi-chua-huong-7235.html"
+  ],
+  "ly_do": "Bài 19, SGK Tiếng Việt 4 KNTT tập 2, trang 89-90; bản SGK ghi '(Theo Chu Huy)'. Chu Huy là nhà văn/nhà giáo đương đại, thơ chưa hết thời hạn bảo hộ bản quyền, nên KHÔNG chép nguyên văn bài thơ; chuyển sang companion tự viết bằng lời của mình.",
+  "_file": "cap1b_g4_c3.json",
+  "grade": 4
+ },
+ {
+  "ten_bai": "Con chuồn chuồn nước",
+  "bo_sach": "Sách cũ",
+  "tac_gia": "Nguyễn Thế Hội",
+  "kind": "companion",
+  "full_text": "",
+  "companion": {
+   "tom_tat": "Bài văn tả một chú chuồn chuồn nước đậu trên cành lộc vừng ngả ra mặt hồ. Chú có màu vàng lấp lánh trên lưng, bốn cái cánh mỏng như giấy bóng, cái đầu tròn với hai con mắt long lanh như thuỷ tinh, thân nhỏ thon vàng như nắng mùa thu, bốn cánh khẽ rung rung như đang phân vân. Rồi chú bất chợt tung cánh bay vọt lên, cái bóng nhỏ xíu lướt nhanh trên mặt hồ. Theo cánh bay của chú, cảnh làng quê hiện ra thật đẹp: luỹ tre xanh rì rào, bờ ao với khóm khoai nước, cánh đồng có đàn trâu gặm cỏ, dòng sông với những đoàn thuyền ngược xuôi, trên cao là đàn cò và bầu trời xanh trong, cao vút.",
+   "nhan_vat": "Nhân vật trung tâm là chú chuồn chuồn nước; xung quanh là cảnh vật quê hương: mặt hồ, luỹ tre, bờ ao, cánh đồng, dòng sông, đàn cò.",
+   "y_nghia": "Bài văn ca ngợi vẻ đẹp sinh động của chú chuồn chuồn nước và, qua cánh bay của chú, ca ngợi vẻ đẹp bình dị của làng quê Việt Nam. Bài đọc cũng dạy các em cách quan sát tỉ mỉ và dùng hình ảnh so sánh khi miêu tả.",
+   "cau_hoi": [
+    "Tác giả đã dùng những hình ảnh so sánh nào để tả chú chuồn chuồn nước?",
+    "Theo cánh bay của chú chuồn chuồn, những cảnh đẹp nào của quê hương lần lượt hiện ra?",
+    "Em hãy tả bằng 2-3 câu một con vật nhỏ mà em từng quan sát kĩ (con bướm, con kiến, con cá...)."
+   ]
+  },
+  "sources": [
+   "https://thohay.vn/con-chuon-chuon-nuoc.html"
+  ],
+  "ly_do": "Tập đọc SGK Tiếng Việt 4 (chương trình cũ) tập 2, trang 127, ký tên NGUYỄN THẾ HỘI. Tác giả là nhà văn/nhà báo đương đại, văn bản còn trong thời hạn bảo hộ bản quyền, nên KHÔNG chép nguyên văn; viết companion. Nội dung đối chiếu qua bản đăng lại trên thohay.vn.",
+  "_file": "cap1b_g4_c3.json",
+  "grade": 4
+ },
+ {
+  "ten_bai": "Bài ca về mặt trời",
+  "bo_sach": "KNTT",
+  "tac_gia": "Nguyễn Trọng Tạo",
+  "kind": "companion",
+  "full_text": "",
+  "companion": {
+   "tom_tat": "Một buổi sớm, bạn nhỏ trong bài không hiểu vì sao lại thức dậy rất sớm. Ra vườn, bạn thấy sương mù mỏng như tấm khăn voan phủ trên vòm cây, nghe bầy chim sẻ ríu rít trên ngọn cau như đang mách nhau một điều gì đó thật vui. Rồi ở phía đông, mặt trời từ từ nhô lên khỏi vòm cây, đỏ rực như một chiếc mâm đồng vừa được nhấc ra khỏi lò. Lòng bạn nhỏ reo vui, và trái tim bỗng vang lên một bài ca về mặt trời: chiếc mâm đồng đỏ suốt đêm tắm biển, ngày trở về trời mà vẫn còn đỏ chói. Bài đọc là một bức tranh bình minh trong trẻo và là niềm vui của con người trước vẻ đẹp thiên nhiên.",
+   "nhan_vat": "Bạn nhỏ xưng \"tôi\" - người kể chuyện; cùng những hình ảnh thiên nhiên được nhân hoá: mặt trời, bầy chim sẻ trên ngọn cau, sương mù, vườn cây.",
+   "y_nghia": "Bài đọc cho thấy thiên nhiên quanh ta có bao điều đẹp đẽ, chỉ cần dậy sớm và chịu quan sát là em sẽ nhận ra. Vẻ đẹp của bình minh làm lòng người vui lên, khơi dậy cảm xúc và chất thơ; mỗi ngày mới đến cùng mặt trời đều là một món quà.",
+   "cau_hoi": [
+    "Buổi sớm hôm ấy, bạn nhỏ đã nhìn thấy và nghe thấy những gì trong vườn?",
+    "Vì sao tác giả lại ví mặt trời mọc như một chiếc mâm đồng đỏ? Cách so sánh ấy giúp em hình dung điều gì?",
+    "Em đã bao giờ dậy thật sớm để ngắm mặt trời mọc chưa? Lúc đó em cảm thấy thế nào?"
+   ]
+  },
+  "sources": [
+   "https://vietjack.com/tieng-viet-5-kn/tgtp-bai-ca-ve-mat-troi.jsp",
+   "https://download.vn/doc-bai-ca-ve-mat-troi-56098",
+   "https://loigiaihay.com/bai-15-bai-ca-ve-mat-troi-trang-72-sgk-tieng-viet-lop-5-tap-1-ket-noi-tri-thuc-a162871.html"
+  ],
+  "ly_do": "Bài 15, SGK Tiếng Việt 5 KNTT tập 1 (trang 72). Ghi nguồn \"Theo Nguyễn Trọng Tạo\" - nhà thơ mất năm 2019, tác phẩm CÒN BẢN QUYỀN (chưa quá 50 năm) nên không chép nguyên văn; viết companion bằng lời riêng.",
+  "_file": "cap1b_g5_c0.json",
+  "grade": 5
+ },
+ {
+  "ten_bai": "Bộ sưu tập độc đáo",
+  "bo_sach": "KNTT",
+  "tac_gia": "Trường Chi Lộ (Ngọc Khánh dịch)",
+  "kind": "companion",
+  "full_text": "",
+  "companion": {
+   "tom_tat": "Thầy Dương giao cho cả lớp chuẩn bị một cuộc triển lãm đồ sưu tầm trước Tết. Các bạn hào hứng khoe bộ sưu tập của mình: bạn thì có cả tập tem quý, bạn lại sưu tầm kẹp sách. Riêng Loan nghĩ ra một ý tưởng rất khác: bạn mượn máy ghi âm của bố, lần lượt gặp từng bạn trong lớp để thu lại giọng nói và lời chúc của mỗi người. Đến ngày triển lãm, khi đoạn ghi âm được bật lên, cả lớp vừa thích thú vừa xúc động vì nhận ra giọng của mình, của bạn mình. Bộ sưu tập \"giọng nói\" của Loan trở thành bộ sưu tập độc đáo nhất.",
+   "nhan_vat": "Loan (nhân vật chính, người sưu tầm giọng nói), thầy Dương, bố của Loan (người cho mượn máy ghi âm) và các bạn trong lớp như Long, Khánh, Phượng.",
+   "y_nghia": "Một bộ sưu tập quý không phải vì món đồ đắt tiền hay hiếm có, mà vì ý tưởng sáng tạo và tình cảm gửi trong đó. Giọng nói, lời chúc của bạn bè là kỉ niệm không mua được, càng để lâu càng đáng nhớ. Câu chuyện cũng khuyến khích các em dám nghĩ khác, làm theo cách của riêng mình.",
+   "cau_hoi": [
+    "Các bạn trong lớp đã sưu tầm những gì, còn Loan sưu tầm thứ gì đặc biệt?",
+    "Vì sao cả lớp lại xúc động khi nghe bộ sưu tập của Loan?",
+    "Nếu được tham gia triển lãm ấy, em sẽ sưu tầm gì và vì sao?"
+   ]
+  },
+  "sources": [
+   "https://vietjack.com/tieng-viet-5-kn/bai-7-bo-suu-tap-doc-dao.jsp",
+   "https://loigiaihay.com/bai-7-bo-suu-tap-doc-dao-trang-36-sgk-tieng-viet-lop-5-tap-1-ket-noi-tri-thuc-a162436.html",
+   "https://vndoc.com/doc-hieu-bai-bo-suu-tap-doc-dao-lop-5-ket-noi-tri-thuc-361612"
+  ],
+  "ly_do": "Bài 7, SGK Tiếng Việt 5 KNTT tập 1 (trang 36). Ghi nguồn \"Theo Trường Chi Lộ, Ngọc Khánh dịch\" - truyện nước ngoài đương đại kèm bản dịch, CÒN BẢN QUYỀN cả tác phẩm lẫn bản dịch nên chỉ làm companion.",
+  "_file": "cap1b_g5_c0.json",
+  "grade": 5
+ },
+ {
+  "ten_bai": "Cụ Đồ Chiểu",
+  "bo_sach": "KNTT",
+  "tac_gia": "Trần Thị Hoa Lê",
+  "kind": "companion",
+  "full_text": "",
+  "companion": {
+   "tom_tat": "Bài đọc kể về cuộc đời nhà thơ, thầy giáo, thầy thuốc Nguyễn Đình Chiểu (1822 - 1888). Năm 1848, trên đường về chịu tang mẹ, ông ốm nặng rồi mù cả hai mắt, chạy chữa mãi không khỏi. Không gục ngã trước bất hạnh, ông về quê mở trường dạy học và bốc thuốc chữa bệnh cho dân; học trò gần xa nghe danh, mến đức nên đến xin học rất đông. Khi giặc Pháp xâm lược nước ta năm 1858, tuy mù loà ông vẫn cùng các lãnh tụ nghĩa quân bàn mưu tính kế đánh giặc và dùng thơ văn để khích lệ tinh thần chiến đấu của nhân dân. Kính trọng tài năng và khí tiết của ông, nhân dân thân thương gọi ông là cụ Đồ Chiểu.",
+   "nhan_vat": "Nguyễn Đình Chiểu - cụ Đồ Chiểu (nhân vật chính); bên cạnh là học trò, người dân Nam Bộ và các lãnh tụ nghĩa quân chống Pháp.",
+   "y_nghia": "Câu chuyện là bài học lớn về nghị lực: mù loà không ngăn được một con người sống có ích. Cụ Đồ Chiểu dạy học để mở mang tri thức, làm thuốc để cứu người, làm thơ để cổ vũ lòng yêu nước - ba việc ấy đều hướng về nhân dân. Vì thế cụ được nhân dân yêu quý và nhớ mãi.",
+   "cau_hoi": [
+    "Nguyễn Đình Chiểu bị mù trong hoàn cảnh nào? Sau đó ông đã làm những công việc gì?",
+    "Khi giặc Pháp xâm lược, cụ Đồ Chiểu tuy mù loà đã góp sức đánh giặc bằng cách nào?",
+    "Vì sao nhân dân lại kính trọng gọi ông là \"cụ Đồ Chiểu\"? Em học được điều gì ở ông?"
+   ]
+  },
+  "sources": [
+   "https://vietjack.com/tieng-viet-5-kn/tgtp-cu-do-chieu.jsp",
+   "https://vietjack.com/tieng-viet-5-kn/doc-cu-do-chieu.jsp"
+  ],
+  "ly_do": "Bài đọc SGK Tiếng Việt 5 KNTT tập 2. Ghi nguồn \"Theo Trần Thị Hoa Lê\" - tác giả đương đại, bài viết riêng cho SGK nên CÒN BẢN QUYỀN; làm companion, không chép nguyên văn.",
+  "_file": "cap1b_g5_c0.json",
+  "grade": 5
+ },
+ {
+  "ten_bai": "Danh y Tuệ Tĩnh",
+  "bo_sach": "KNTT",
+  "tac_gia": "Tạ Phong Châu - Nguyễn Quang Vinh - Nghiêm Đa Văn",
+  "kind": "companion",
+  "full_text": "",
+  "companion": {
+   "tom_tat": "Danh y Tuệ Tĩnh dẫn các học trò lên núi và kể cho họ nghe một câu chuyện thời nhà Trần. Ngày ấy, giặc phương Bắc cấm bán thuốc sang nước ta, việc chữa bệnh gặp muôn vàn khó khăn. Các thái y trong triều đã học cách chữa bệnh bằng chính cây cỏ của nước mình, rồi cho trồng những vườn thuốc Nam trên các sườn núi. Nhờ những cây thuốc quê nhà, quân sĩ khoẻ mạnh, đủ sức đánh tan quân xâm lược. Qua câu chuyện, Tuệ Tĩnh muốn dạy học trò rằng cây cỏ đất Việt cũng chữa được bệnh cho người Việt - đó chính là tư tưởng \"thuốc Nam chữa bệnh cho người Nam\" mà ông theo đuổi cả đời.",
+   "nhan_vat": "Danh y Tuệ Tĩnh (thầy thuốc nổi tiếng thời Trần) và các học trò của ông; trong câu chuyện ông kể còn có các thái y và quân sĩ nhà Trần.",
+   "y_nghia": "Bài đọc ca ngợi tinh thần tự lực tự cường: khi bị cấm vận, cha ông ta không chịu bó tay mà tìm ra cách dùng cây cỏ sẵn có của quê hương. Đó cũng là lòng yêu nước của người thầy thuốc - chữa bệnh cứu người cũng là góp sức giữ nước. Em học được cách trân trọng những gì bình dị quanh mình.",
+   "cau_hoi": [
+    "Vì sao thời nhà Trần, việc chữa bệnh của nước ta gặp khó khăn?",
+    "Các thái y đã làm gì để có thuốc chữa bệnh cho quân sĩ và nhân dân?",
+    "Theo em, vì sao Tuệ Tĩnh lại dẫn học trò lên núi để kể câu chuyện này? Quanh nhà em có cây cỏ nào làm thuốc được?"
+   ]
+  },
+  "sources": [
+   "https://vietjack.com/tieng-viet-5-kn/tgtp-danh-y-tue-tinh.jsp"
+  ],
+  "ly_do": "Bài đọc SGK Tiếng Việt 5 KNTT tập 2, ghi nguồn \"Theo Tạ Phong Châu - Nguyễn Quang Vinh - Nghiêm Đa Văn\" (nhóm tác giả thế kỉ XX, chưa quá 50 năm) nên CÒN BẢN QUYỀN; làm companion.",
+  "_file": "cap1b_g5_c0.json",
+  "grade": 5
+ },
+ {
+  "ten_bai": "Giỏ hoa tháng Năm",
+  "bo_sach": "KNTT",
+  "tac_gia": "Minh Hương",
+  "kind": "companion",
+  "full_text": "",
+  "companion": {
+   "tom_tat": "Ở thị trấn của Xu-di có một phong tục rất vui vào dịp lễ mừng xuân tháng Năm: bọn trẻ bí mật làm những giỏ hoa rực rỡ, đặt lên bậc thềm nhà bạn bè hay người quen, gõ cửa rồi ba chân bốn cẳng chạy trốn thật nhanh. Năm ấy, Xu-di lại buồn và giận: một gia đình mới chuyển đến thị trấn, Pam - bạn thân của Xu-di - kết bạn với cô con gái nhà đó nên thời gian dành cho Xu-di không còn nhiều như trước. Mẹ nhẹ nhàng giải thích rằng càng lớn ta sẽ càng có thêm nhiều bạn, và bạn bè không thể chỉ chơi riêng với một mình ai. Nghĩ lại, Xu-di làm một giỏ hoa vàng rồi mang tặng Pam. Tình bạn của hai bạn lại ấm áp như xưa, và Xu-di hiểu ra: với người bạn đích thực, ta đặt bạn trong tim chứ không buộc bạn phải luôn ở bên mình.",
+   "nhan_vat": "Xu-di (nhân vật chính, người kể chuyện), Pam (bạn thân của Xu-di), mẹ của Xu-di và cô bạn mới chuyển đến thị trấn.",
+   "y_nghia": "Câu chuyện dạy các em rằng tình bạn không phải là sự độc chiếm. Khi bạn mình có thêm bạn mới, ghen tị chỉ làm cả hai xa nhau; rộng lượng và chủ động làm lành mới giữ được tình bạn. Một món quà nhỏ, làm bằng tay và bằng tấm lòng, có thể xoá đi giận hờn.",
+   "cau_hoi": [
+    "Phong tục giỏ hoa tháng Năm ở thị trấn của Xu-di diễn ra như thế nào?",
+    "Vì sao Xu-di giận Pam? Mẹ đã nói gì để giúp Xu-di hiểu ra?",
+    "Em đã bao giờ giận bạn vì bạn chơi với người khác chưa? Em đã làm gì để hai bạn vui vẻ trở lại?"
+   ]
+  },
+  "sources": [
+   "https://vietjack.com/tieng-viet-5-kn/tgtp-gio-hoa-thang-nam.jsp",
+   "https://vietjack.com/tieng-viet-5-kn/doc-gio-hoa-thang-nam.jsp"
+  ],
+  "ly_do": "Bài đọc SGK Tiếng Việt 5 KNTT tập 2, ghi nguồn \"Theo Minh Hương\" - truyện nước ngoài do tác giả đương đại kể lại, CÒN BẢN QUYỀN; làm companion.",
+  "_file": "cap1b_g5_c0.json",
+  "grade": 5
+ },
+ {
+  "ten_bai": "Hang Sơn Đoòng – những điều kì thú",
+  "bo_sach": "KNTT",
+  "tac_gia": "Phan Nguyên (tổng hợp)",
+  "kind": "companion",
+  "full_text": "",
+  "companion": {
+   "tom_tat": "Đây là một bài đọc thông tin giới thiệu hang Sơn Đoòng nằm trong vùng Phong Nha - Kẻ Bàng, tỉnh Quảng Bình - hang động tự nhiên lớn nhất thế giới. Hang được hình thành cách đây khoảng năm triệu năm, khi dòng nước ngầm bào mòn, khoét sâu vào lớp đá vôi của dãy núi. Sơn Đoòng dài khoảng chín ki-lô-mét, thể tích lên tới 38,5 triệu mét khối, lớn đến mức có thể chứa cả một toà nhà cao tầng. Điều kì thú nhất là trong lòng hang có cả sông ngầm và một khu rừng nguyên sinh mọc dưới những giếng trời, cùng nhiều loài sinh vật lạ đã thích nghi với bóng tối như cá không mắt, thân trong suốt.",
+   "nhan_vat": "Bài đọc thông tin nên không có nhân vật; \"nhân vật chính\" chính là hang Sơn Đoòng cùng khu rừng nguyên sinh và những sinh vật kì lạ sống trong lòng hang.",
+   "y_nghia": "Bài đọc mở ra trước mắt em một kì quan có thật của thiên nhiên trên đất nước mình, giúp em thêm khâm phục sức sáng tạo của tự nhiên và tự hào về di sản Việt Nam. Từ đó em hiểu vì sao phải giữ gìn, bảo vệ hang động, rừng núi - những báu vật phải mất hàng triệu năm mới có được.",
+   "cau_hoi": [
+    "Hang Sơn Đoòng ở đâu và được hình thành như thế nào?",
+    "Những con số nào trong bài cho thấy Sơn Đoòng là hang động lớn nhất thế giới?",
+    "Vì sao trong lòng hang lại có rừng cây và những loài vật không có mắt? Em sẽ làm gì để góp phần giữ gìn kì quan này?"
+   ]
+  },
+  "sources": [
+   "https://vietjack.com/tieng-viet-5-kn/tgtp-hang-son-doong-nhung-dieu-ki-thu.jsp",
+   "https://www.vietjack.com/tieng-viet-5-kn/doc-lop-5-ket-noi-tri-thuc.jsp"
+  ],
+  "ly_do": "Bài đọc SGK Tiếng Việt 5 KNTT tập 1, ghi nguồn \"Theo Phan Nguyên (tổng hợp)\" - văn bản thông tin đương đại, CÒN BẢN QUYỀN; làm companion, không chép nguyên văn.",
+  "_file": "cap1b_g5_c0.json",
+  "grade": 5
+ },
+ {
+  "ten_bai": "Một ngôi chùa độc đáo",
+  "bo_sach": "KNTT",
+  "tac_gia": "Hiền Vũ",
+  "kind": "companion",
+  "full_text": "",
+  "companion": {
+   "tom_tat": "Bài đọc giới thiệu chùa Một Cột ở quận Ba Đình, Thủ đô Hà Nội. Chùa được xây năm 1049, dưới thời vua Lý Thái Tông. Điều làm nên nét độc đáo là toàn bộ ngôi chùa nhỏ được dựng trên một cột đá tròn giữa hồ nước, phía trên cột có hệ thanh gỗ đỡ toả ra như những cánh sen nâng đài hoa - vì thế chùa còn có tên là Liên Hoa Đài, nghĩa là đài hoa sen. Mái chùa cong mềm mại, trên nóc trang trí hình đôi rồng chầu. Năm 2012, chùa Một Cột được ghi nhận là ngôi chùa có kiến trúc độc đáo nhất châu Á và từ lâu đã trở thành một biểu tượng quen thuộc của Hà Nội.",
+   "nhan_vat": "Bài đọc thông tin về một di tích nên không có nhân vật truyện; đối tượng được giới thiệu là chùa Một Cột (Liên Hoa Đài), gắn với vua Lý Thái Tông - người cho dựng chùa.",
+   "y_nghia": "Bài đọc giúp em hiểu vì sao chùa Một Cột được coi là công trình độc đáo: cả ngôi chùa như một bông sen nở giữa mặt hồ, vừa đẹp vừa mang ý nghĩa thanh cao. Qua đó em thêm tự hào về tài năng của cha ông và có ý thức giữ gìn những di tích lịch sử, văn hoá của dân tộc.",
+   "cau_hoi": [
+    "Chùa Một Cột ở đâu và được xây dựng từ năm nào, dưới thời vua nào?",
+    "Vì sao chùa còn có tên là Liên Hoa Đài (đài hoa sen)?",
+    "Theo em, vì sao chùa Một Cột trở thành biểu tượng của Hà Nội? Ở nơi em sống có di tích nào cần được giữ gìn?"
+   ]
+  },
+  "sources": [
+   "https://vietjack.com/tieng-viet-5-kn/tgtp-mot-ngoi-chua-doc-dao.jsp",
+   "https://www.vietjack.com/tieng-viet-5-kn/doc-lop-5-ket-noi-tri-thuc.jsp"
+  ],
+  "ly_do": "Bài đọc SGK Tiếng Việt 5 KNTT tập 1, ghi nguồn \"Theo Hiền Vũ\" - văn bản thông tin đương đại viết cho SGK, CÒN BẢN QUYỀN; làm companion.",
+  "_file": "cap1b_g5_c0.json",
+  "grade": 5
+ },
+ {
+  "ten_bai": "Nghệ thuật múa ba lê",
+  "bo_sach": "KNTT",
+  "tac_gia": "Tuệ Nhi (tổng hợp)",
+  "kind": "companion",
+  "full_text": "",
+  "companion": {
+   "tom_tat": "Bài đọc giới thiệu về múa ba lê - một loại hình nghệ thuật múa ra đời ở châu Âu. Ba lê thường được biểu diễn thành những vở vũ kịch lớn, nổi tiếng như Hồ thiên nga, Người đẹp ngủ trong rừng, Lọ Lem. Điều đặc biệt của ba lê là diễn viên không nói lời nào mà kể chuyện hoàn toàn bằng động tác múa, bằng những bước chân nhẹ nhàng và những vòng xoay rất khó. Để múa được như vậy, người diễn viên phải khổ luyện trong nhiều năm. Ngày nay ba lê được dạy và được yêu thích ở khắp nơi trên thế giới.",
+   "nhan_vat": "Đây là văn bản thông tin nên không có nhân vật trong truyện; đối tượng được nói tới là nghệ thuật múa ba lê và những người diễn viên ba lê.",
+   "y_nghia": "Bài đọc giúp em biết thêm một loại hình nghệ thuật đẹp của thế giới, hiểu rằng cái đẹp trên sân khấu là kết quả của quá trình rèn luyện bền bỉ, và khơi gợi ở em tình yêu, sự trân trọng đối với nghệ thuật.",
+   "cau_hoi": [
+    "Vì sao người ta nói diễn viên ba lê 'kể chuyện bằng đôi chân' mà không cần lời nói?",
+    "Theo em, vì sao muốn múa ba lê giỏi thì phải khổ luyện rất lâu?",
+    "Em thích loại hình nghệ thuật nào nhất (múa, hát, vẽ, đóng kịch...)? Hãy nói vì sao em thích."
+   ]
+  },
+  "sources": [
+   "https://vietjack.com/tieng-viet-5-kn/doc-nghe-thuat-mua-ba-le.jsp"
+  ],
+  "ly_do": "Văn bản thông tin biên soạn riêng cho SGK (ghi 'Tuệ Nhi tổng hợp'), còn bản quyền, không thuộc phạm vi công cộng -> viết companion bằng lời của mình, không chép nguyên văn.",
+  "_file": "cap1b_g5_c1.json",
+  "grade": 5
+ },
+ {
+  "ten_bai": "Những búp chè trên cây cổ thụ",
+  "bo_sach": "KNTT",
+  "tac_gia": "Nguyễn Hương",
+  "kind": "companion",
+  "full_text": "",
+  "companion": {
+   "tom_tat": "Thào A Sùng là một cậu bạn người Mông, lúc nào cũng say sưa kể cho các bạn nghe về những cây chè cổ thụ ở Tà Xùa quê mình. Sùng buồn vì thứ chè quý ấy còn ít người biết đến. Trong cuộc thi 'Bảy sắc cầu vồng', Sùng nhận được câu hỏi về đặc sản quê hương và cậu đã kể rất say mê: búp chè to, phủ một lớp lông tơ trắng, nước pha ra uống vào thấy chát rồi ngọt dần nơi cổ họng. Sùng nói ước mơ của mình là trở thành kỹ sư nông nghiệp để chăm sóc, phát triển cây chè và đưa chè Tà Xùa đi xa. Các bạn nghe mà quên cả cuộc thi, thi nhau kể về sản vật quê mình.",
+   "nhan_vat": "Nhân vật chính là Thào A Sùng - cậu học sinh người Mông ở Tà Xùa; ngoài ra có các bạn cùng lớp của Sùng.",
+   "y_nghia": "Câu chuyện ca ngợi tình yêu quê hương và niềm tự hào về sản vật quê mình. Yêu quê hương không chỉ là nói lời hay, mà còn là ước mơ học thật giỏi để mai sau làm cho quê hương giàu đẹp hơn.",
+   "cau_hoi": [
+    "Búp chè cổ thụ ở Tà Xùa có gì đặc biệt khiến Sùng tự hào đến thế?",
+    "Ước mơ của Thào A Sùng nói lên điều gì về tình cảm của bạn ấy với quê hương?",
+    "Quê em có sản vật hay cảnh đẹp nào mà em muốn giới thiệu với các bạn? Em sẽ giới thiệu thế nào?"
+   ]
+  },
+  "sources": [
+   "https://vietjack.com/tieng-viet-5-kn/doc-nhung-bup-che-tren-cay-co-thu.jsp",
+   "https://loigiaihay.com/bai-10-nhung-bup-che-tren-cay-co-thu-trang-48-sgk-tieng-viet-lop-5-tap-2-ket-noi-tri-thuc-a165347.html"
+  ],
+  "ly_do": "Truyện của tác giả đương đại Nguyễn Hương, còn bản quyền -> companion tự viết.",
+  "_file": "cap1b_g5_c1.json",
+  "grade": 5
+ },
+ {
+  "ten_bai": "Những con hạc giấy",
+  "bo_sach": "KNTT",
+  "tac_gia": "Theo Những mẩu chuyện lịch sử thế giới",
+  "kind": "companion",
+  "full_text": "",
+  "companion": {
+   "tom_tat": "Năm 1945, hai quả bom nguyên tử đã ném xuống hai thành phố Hi-rô-si-ma và Na-ga-xa-ki của Nhật Bản, làm hàng trăm nghìn người chết và nhiễm phóng xạ. Cô bé Xa-đa-cô khi ấy mới hai tuổi, may mắn sống sót nhưng bị nhiễm phóng xạ. Mười năm sau, em ngã bệnh và phải nằm viện. Tin vào một truyền thuyết rằng ai gấp đủ một nghìn con hạc giấy thì sẽ khỏi bệnh, Xa-đa-cô ngày ngày lặng lẽ gấp hạc. Trẻ em khắp nước Nhật biết chuyện đã gấp hạc gửi tới cho em, nhưng em vẫn không qua khỏi. Để tưởng nhớ Xa-đa-cô, người ta đã dựng một tượng đài với lời nhắn gửi về khát vọng hoà bình.",
+   "nhan_vat": "Nhân vật chính là cô bé Nhật Bản Xa-đa-cô Xa-xa-ki; bên cạnh đó là các bạn nhỏ khắp nước Nhật đã gấp hạc giấy gửi cho em.",
+   "y_nghia": "Bài đọc cho thấy chiến tranh để lại hậu quả khủng khiếp và lâu dài cho con người, nhất là trẻ em. Những con hạc giấy trở thành biểu tượng của niềm hi vọng, của tình đoàn kết và của khát vọng hoà bình trên toàn thế giới.",
+   "cau_hoi": [
+    "Vì sao Xa-đa-cô lại kiên trì gấp những con hạc giấy?",
+    "Việc trẻ em khắp nước Nhật gấp hạc gửi cho Xa-đa-cô nói lên điều gì?",
+    "Nếu được viết một dòng chữ lên tượng đài hoà bình, em sẽ viết gì?"
+   ]
+  },
+  "sources": [
+   "https://vietjack.com/tieng-viet-5-kn/tgtp-nhung-con-hac-giay.jsp",
+   "https://vndoc.com/nhung-con-hac-giay-lop-5-ket-noi-tri-thuc-323601"
+  ],
+  "ly_do": "Văn bản trích/biên dịch từ sách 'Những mẩu chuyện lịch sử thế giới', còn bản quyền -> companion tự viết, không chép nguyên văn.",
+  "_file": "cap1b_g5_c1.json",
+  "grade": 5
+ },
+ {
+  "ten_bai": "Những hòn đảo trên vịnh Hạ Long",
+  "bo_sach": "KNTT",
+  "tac_gia": "Thi Sảnh",
+  "kind": "companion",
+  "full_text": "",
+  "companion": {
+   "tom_tat": "Bài văn tả vẻ đẹp kì lạ của hàng nghìn hòn đảo đá trên vịnh Hạ Long. Các đảo mọc lên với đủ dáng vẻ: có nơi đảo đứng thành dãy như bức tường thành, có nơi lác đác như những quân cờ, có nơi chụm lại như đoàn thuyền đánh cá. Mỗi hòn đảo lại mang một hình thù riêng nên được đặt những cái tên rất ngộ nghĩnh: hòn Gà Chọi, hòn Mái Nhà, hòn Con Cóc, hòn Ông Lã Vọng. Tác giả ví vịnh Hạ Long như một thế giới sống động đã hoá đá qua hàng triệu năm.",
+   "nhan_vat": "Đây là văn bản miêu tả nên không có nhân vật; đối tượng được miêu tả là những hòn đảo đá trên vịnh Hạ Long.",
+   "y_nghia": "Bài đọc giúp em cảm nhận vẻ đẹp độc đáo của một di sản thiên nhiên thế giới ở nước ta, đồng thời khơi dậy niềm tự hào và ý thức giữ gìn cảnh đẹp quê hương.",
+   "cau_hoi": [
+    "Những hòn đảo trên vịnh Hạ Long được sắp xếp và có hình dáng như thế nào?",
+    "Vì sao người ta đặt cho các đảo những cái tên như hòn Gà Chọi, hòn Con Cóc?",
+    "Nếu được đến thăm vịnh Hạ Long, em muốn ngắm điều gì nhất? Vì sao?"
+   ]
+  },
+  "sources": [
+   "https://vietjack.com/tieng-viet-5-kn/doc-nhung-hon-dao-tren-vinh-ha-long.jsp",
+   "https://loigiaihay.com/bai-12-nhung-hon-dao-tren-vinh-ha-long-trang-60-sgk-tieng-viet-lop-5-tap-1-ket-noi-tri-thuc-a162612.html"
+  ],
+  "ly_do": "Bài của tác giả hiện đại Thi Sảnh (nhà nghiên cứu văn hoá Quảng Ninh), tác phẩm vẫn trong thời hạn bảo hộ bản quyền, không thuộc phạm vi công cộng -> companion tự viết.",
+  "_file": "cap1b_g5_c1.json",
+  "grade": 5
+ },
+ {
+  "ten_bai": "Những ngọn núi nóng rẫy",
+  "bo_sach": "KNTT",
+  "tac_gia": "A-ni-ta Ga-nê-ri (Anita Ganeri); Dương Kiều Hoa dịch",
+  "kind": "companion",
+  "full_text": "",
+  "companion": {
+   "tom_tat": "Bài đọc giải thích núi lửa được hình thành như thế nào. Trái Đất được ví như một củ hành khổng lồ gồm nhiều lớp: lớp vỏ ngoài cùng rắn chắc, còn bên dưới là lớp đá nóng chảy gọi là mác-ma, nóng tới khoảng 700 đến 1 300 độ C. Khi mác-ma theo các khe nứt của vỏ Trái Đất trào lên thì tạo thành núi lửa. Không phải ngọn núi lửa nào cũng giống nhau: có ngọn hình nón, có ngọn tròn trịa; có ngọn phun trào dữ dội, có ngọn chỉ lặng lẽ nhả khói và tro; thậm chí còn có cả núi lửa nằm dưới đáy biển.",
+   "nhan_vat": "Đây là văn bản thông tin khoa học nên không có nhân vật; đối tượng được nói tới là núi lửa và cấu tạo của Trái Đất.",
+   "y_nghia": "Bài đọc mở rộng hiểu biết của em về Trái Đất và các hiện tượng tự nhiên, cho thấy thiên nhiên vừa kì thú vừa mạnh mẽ, đồng thời rèn cho em cách đọc một văn bản khoa học có số liệu và hình ảnh so sánh dễ hiểu.",
+   "cau_hoi": [
+    "Vì sao tác giả lại ví Trái Đất giống như một củ hành khổng lồ?",
+    "Mác-ma là gì và nó tạo ra núi lửa bằng cách nào?",
+    "Em còn biết hiện tượng tự nhiên nào khác cũng vừa đẹp vừa nguy hiểm? Hãy kể lại."
+   ]
+  },
+  "sources": [
+   "https://vietjack.com/tieng-viet-5-kn/doc-nhung-ngon-nui-nong-ray.jsp"
+  ],
+  "ly_do": "Bài dịch từ tác giả nước ngoài A-ni-ta Ga-nê-ri (còn sống), người dịch Dương Kiều Hoa - còn bản quyền cả bản gốc lẫn bản dịch -> companion tự viết.",
+  "_file": "cap1b_g5_c1.json",
+  "grade": 5
+ },
+ {
+  "ten_bai": "Phim hoạt hình Chú ốc sên bay",
+  "bo_sach": "KNTT",
+  "tac_gia": "",
+  "kind": "companion",
+  "full_text": "",
+  "companion": {
+   "tom_tat": "Đây không phải là một câu chuyện mà là một tờ quảng cáo phim hoạt hình 3D có tên 'Chú ốc sên bay'. Tờ quảng cáo cho biết tên phim, thể loại, thời gian và địa điểm chiếu. Nội dung phim kể về một chú ốc sên ao ước được bay; một nhà khoa học trẻ đã gắn cho chú đôi cánh để chú được đi khắp nơi khám phá thế giới. Tờ quảng cáo dùng màu sắc bắt mắt, kiểu chữ to đậm và những từ ngữ gây ấn tượng để hấp dẫn người xem.",
+   "nhan_vat": "Nhân vật được nhắc tới trong nội dung phim là chú ốc sên có ước mơ được bay và nhà khoa học trẻ đã làm cho chú đôi cánh.",
+   "y_nghia": "Bài đọc dạy em cách đọc và hiểu một văn bản quảng cáo: nhận ra thông tin được trình bày ra sao, cách dùng chữ và hình ảnh để thu hút người đọc. Câu chuyện trong phim cũng nhắn nhủ rằng ước mơ dù nhỏ bé đến đâu cũng đáng được trân trọng.",
+   "cau_hoi": [
+    "Tờ quảng cáo cho em biết những thông tin gì về bộ phim?",
+    "Theo em, điều gì trong tờ quảng cáo làm người đọc muốn đi xem phim ngay?",
+    "Nếu phải làm một tờ quảng cáo cho quyển sách em thích, em sẽ ghi những gì lên đó?"
+   ]
+  },
+  "sources": [
+   "https://vietjack.com/tieng-viet-5-kn/doc-phim-hoat-hinh-chu-oc-sen-bay.jsp"
+  ],
+  "ly_do": "Văn bản quảng cáo biên soạn riêng cho SGK (kèm hình ảnh, thiết kế), còn bản quyền NXB Giáo dục Việt Nam -> companion tự viết.",
+  "_file": "cap1b_g5_c1.json",
+  "grade": 5
+ },
+ {
+  "ten_bai": "Sự tích chú Tễu",
+  "bo_sach": "KNTT",
+  "tac_gia": "Trần Quốc Toàn",
+  "kind": "companion",
+  "full_text": "",
+  "companion": {
+   "tom_tat": "Truyện kể về nguồn gốc của chú Tễu trong múa rối nước. Tễu là một anh chàng nhà nghèo, mặt mũi xấu xí nhưng rất mê hát. Anh tìm đến phường rối nước xin học nghề, mong được đứng sau tấm mành, giấu khuôn mặt của mình đi mà vẫn được hát, được diễn. Ông trùm phường thấy anh thật thà, có tài nên nhận dạy và giao cho anh diễn những vai vui nhộn. Ba năm trôi qua, Tễu diễn rất giỏi nhưng vẫn ao ước được đến với những sân khấu lớn hơn. Hiểu lòng anh, ông trùm cho anh đi, chỉ xin được tạc một con rối theo gương mặt anh để thay anh ở lại. Từ đó, phường rối có thêm chú Tễu - luôn tươi cười, hóm hỉnh và tốt bụng.",
+   "nhan_vat": "Nhân vật chính là anh Tễu; ngoài ra có ông trùm phường rối nước - người thầy đã nhận anh vào học nghề.",
+   "y_nghia": "Câu chuyện giải thích một cách thú vị vì sao chú Tễu lại xuất hiện trong múa rối nước - một loại hình nghệ thuật dân gian độc đáo của Việt Nam. Truyện cũng nhắn nhủ rằng vẻ đẹp thật sự nằm ở tấm lòng và tài năng, chứ không nằm ở gương mặt bên ngoài.",
+   "cau_hoi": [
+    "Vì sao lúc đầu Tễu chỉ muốn đứng sau tấm mành để diễn?",
+    "Chi tiết ông trùm tạc con rối theo gương mặt Tễu nói lên tình cảm gì của ông dành cho anh?",
+    "Em đã xem múa rối nước bao giờ chưa? Em muốn biết thêm điều gì về loại hình nghệ thuật này?"
+   ]
+  },
+  "sources": [
+   "https://vietjack.com/tieng-viet-5-kn/doc-su-tich-chu-teu.jsp"
+  ],
+  "ly_do": "Tuy đề tài dân gian nhưng bản trong SGK là bài viết của tác giả đương đại Trần Quốc Toàn (còn sống) - còn bản quyền, không thuộc phạm vi công cộng -> companion tự viết.",
+  "_file": "cap1b_g5_c1.json",
+  "grade": 5
+ },
+ {
+  "ten_bai": "Thành phố thông minh Mát-xđa",
+  "bo_sach": "KNTT",
+  "tac_gia": "Lâm Anh (tổng hợp)",
+  "kind": "companion",
+  "full_text": "",
+  "companion": {
+   "tom_tat": "Bài đọc giới thiệu Mát-xđa - một thành phố được xây trên ốc đảo giữa sa mạc thuộc Các Tiểu vương quốc A-rập Thống nhất. Từ năm 2008, người ta bắt đầu xây dựng nơi đây thành thành phố đầu tiên trên thế giới không thải khí các-bô-níc. Ở Mát-xđa có những chiếc ô hình hoa hướng dương thu năng lượng mặt trời ban ngày rồi toả nhiệt để phát điện ban đêm; các toà nhà được xây chụm lại cho thoáng gió và bớt nóng; những tháp gió đón luồng gió mát trên cao đưa xuống thành phố. Thành phố có nhiều công viên, cây xanh, người dân được khuyến khích đi bộ, đi xe đạp hoặc dùng phương tiện công cộng chạy bằng năng lượng mặt trời. Mô hình này đã truyền cảm hứng cho nhiều nước khác.",
+   "nhan_vat": "Đây là văn bản thông tin nên không có nhân vật; đối tượng được nói tới là thành phố thông minh Mát-xđa và những người dân sống ở đó.",
+   "y_nghia": "Bài đọc cho em thấy con người có thể dùng khoa học và công nghệ để sống hoà hợp với thiên nhiên, tiết kiệm năng lượng và bảo vệ môi trường. Từ đó em hiểu rằng mỗi việc nhỏ như tắt điện khi không dùng, đi bộ, trồng cây... cũng là góp phần giữ gìn Trái Đất.",
+   "cau_hoi": [
+    "Những chiếc ô hình hoa hướng dương ở Mát-xđa có tác dụng gì?",
+    "Vì sao Mát-xđa được gọi là 'thành phố thông minh'?",
+    "Nếu được thiết kế một thành phố xanh cho quê em, em sẽ thêm điều gì vào đó?"
+   ]
+  },
+  "sources": [
+   "https://vietjack.com/tieng-viet-5-kn/doc-thanh-pho-thong-minh-mat-xa.jsp",
+   "https://loigiaihay.com/bai-30-thanh-pho-thong-minh-mat-xda-trang-144-sgk-tieng-viet-lop-5-tap-2-ket-noi-tri-thuc-a166530.html"
+  ],
+  "ly_do": "Văn bản thông tin biên soạn riêng cho SGK (ghi 'Lâm Anh tổng hợp'), còn bản quyền -> companion tự viết.",
+  "_file": "cap1b_g5_c1.json",
+  "grade": 5
+ },
+ {
+  "ten_bai": "Thế giới trong trang sách",
+  "bo_sach": "KNTT",
+  "tac_gia": "Huệ Triệu",
+  "kind": "companion",
+  "full_text": "",
+  "companion": {
+   "tom_tat": "Đây là một bài thơ nói về những điều kì diệu mà trang sách mang lại. Nhà thơ mượn những hình ảnh đẹp của thiên nhiên - vì sao lấp lánh, mặt biển xanh, cầu vồng, vũ trụ bao la, dòng sông chảy về biển - để nói rằng sách mở ra cả một thế giới rộng lớn cho bạn nhỏ. Sách trả lời những câu hỏi tò mò của tuổi thơ về Trái Đất, về vũ trụ; sách thắp lên trong lòng em những ước mơ; và sách còn giữ lại cho em bài học nhân nghĩa của cha ông cùng lời ru ngọt ngào của mẹ.",
+   "nhan_vat": "Bài thơ không có nhân vật như trong truyện; người nói trong bài là bạn nhỏ đang đọc sách và khám phá thế giới qua từng trang sách.",
+   "y_nghia": "Bài thơ ca ngợi giá trị của sách: sách đem đến hiểu biết, nuôi dưỡng ước mơ và gìn giữ những điều tốt đẹp của cha ông. Bài thơ khơi dậy ở em tình yêu và thói quen đọc sách.",
+   "cau_hoi": [
+    "Nhà thơ đã dùng những hình ảnh nào để nói về thế giới trong trang sách?",
+    "Theo em, vì sao sách lại có thể 'thắp lên' những ước mơ của bạn nhỏ?",
+    "Quyển sách nào đã mở ra cho em một thế giới mới? Hãy kể cho các bạn nghe."
+   ]
+  },
+  "sources": [
+   "https://vietjack.com/tieng-viet-5-kn/doc-the-gioi-trong-trang-sach.jsp"
+  ],
+  "ly_do": "Bài thơ của nhà thơ đương đại Huệ Triệu, còn bản quyền -> companion tự viết, không chép nguyên văn thơ.",
+  "_file": "cap1b_g5_c1.json",
+  "grade": 5
+ },
+ {
+  "ten_bai": "Tinh thần học tập của nhà Phi-lít",
+  "bo_sach": "KNTT",
+  "tac_gia": "Theo Trương Cần",
+  "kind": "companion",
+  "full_text": "",
+  "companion": {
+   "tom_tat": "Bài đọc kể về nếp học tập rất đặc biệt của gia đình Phi-lít. Bố mẹ Phi-lít đặt ra một quy ước: mỗi ngày, ai trong nhà cũng phải tìm học được một điều mới mẻ, dù là điều nhỏ nhặt. Đến bữa cơm tối, cả nhà lần lượt kể cho nhau nghe điều mình vừa học được, rồi cùng bàn luận, hỏi thêm cho tới khi thật hiểu. Nhờ nếp nhà ấy, Phi-lít lớn lên với thói quen tự tìm tòi, ham hiểu biết và sau này học hành rất thành công.",
+   "nhan_vat": "Phi-lít (cậu bé trong gia đình), bố Phi-lít (người nghĩ ra quy ước học mỗi ngày một điều mới), mẹ Phi-lít và các thành viên khác trong nhà.",
+   "y_nghia": "Bài đọc cho thấy tinh thần tự học và thói quen học tập được nuôi dưỡng ngay trong gia đình. Mỗi ngày chịu khó học thêm một điều nhỏ, rồi chia sẻ với người thân, lâu dần sẽ thành vốn hiểu biết lớn. Học không chỉ là việc ở trường mà là việc suốt đời, và cả nhà có thể cùng học với nhau.",
+   "cau_hoi": [
+    "Gia đình Phi-lít đặt ra quy ước gì và thực hiện quy ước ấy vào lúc nào trong ngày?",
+    "Vì sao việc kể lại điều mình học được cho cả nhà nghe lại giúp em nhớ lâu hơn?",
+    "Nếu áp dụng cách của nhà Phi-lít, hôm nay em sẽ kể cho bố mẹ nghe điều mới mẻ nào em vừa học được?"
+   ]
+  },
+  "sources": [
+   "https://vietjack.com/tieng-viet-5-kn/bai-24-tinh-than-hoc-tap-cua-nha-phi-lit.jsp",
+   "https://vietjack.com/tieng-viet-5-kn/index.jsp"
+  ],
+  "ly_do": "Bài 24, SGK Tiếng Việt 5 KNTT tập 1 (chủ điểm 'Trên con đường học tập'). Văn bản ghi nguồn 'Theo Trương Cần' - bài viết đương đại biên soạn cho SGK mới 2024, CÒN BẢN QUYỀN -> không chép nguyên văn. Viết companion bằng lời riêng; cốt truyện chỉ đối chiếu qua trang soạn bài.",
+  "_file": "cap1b_g5_c2.json",
+  "grade": 5
+ },
+ {
+  "ten_bai": "Trải nghiệm để sáng tạo",
+  "bo_sach": "KNTT",
+  "tac_gia": "Phan Thế Quân (tổng hợp)",
+  "kind": "companion",
+  "full_text": "",
+  "companion": {
+   "tom_tat": "Bài đọc kể về con đường trở thành nhà văn của An-đéc-xen (Hans Christian Andersen), người viết ra rất nhiều truyện cổ tích nổi tiếng. Từ nhỏ, cha đã dạy ông biết quan sát, biết tưởng tượng qua những món đồ chơi tự làm. Lớn lên, ông đi qua nhiều nước, gặp nhiều cảnh đời, đặc biệt là những người nghèo khổ. Chính vốn sống phong phú và tấm lòng thương người ấy đã trở thành chất liệu cho những trang truyện làm rung động hàng triệu bạn đọc nhỏ tuổi khắp thế giới.",
+   "nhan_vat": "Nhà văn An-đéc-xen (người Đan Mạch) và người cha đã sớm dạy ông cách quan sát, tưởng tượng.",
+   "y_nghia": "Bài đọc cho thấy sáng tạo không tự nhiên mà có: nó lớn lên từ trải nghiệm thật và từ một trái tim biết rung cảm. Muốn viết hay, vẽ đẹp hay nghĩ ra điều mới, ta phải chịu khó quan sát, đi nhiều, đọc nhiều và biết thương người, thương đời.",
+   "cau_hoi": [
+    "Người cha đã giúp An-đéc-xen tập quan sát và tưởng tượng bằng cách nào?",
+    "Vì sao những chuyến đi và những cảnh đời ông gặp lại giúp ông viết truyện hay hơn?",
+    "Em đã có trải nghiệm nào đáng nhớ? Em có thể kể lại nó thành một câu chuyện nhỏ không?"
+   ]
+  },
+  "sources": [
+   "https://vietjack.com/tieng-viet-5-kn/bai-19-trai-nghiem-de-sang-tao.jsp",
+   "https://vietjack.com/tieng-viet-5-kn/index.jsp"
+  ],
+  "ly_do": "Bài 19, SGK Tiếng Việt 5 KNTT tập 1. Văn bản thông tin do 'Phan Thế Quân (tổng hợp)' biên soạn riêng cho SGK 2024 -> tác giả đương đại, CÒN BẢN QUYỀN, không chép nguyên văn. Companion tự viết; nội dung đối chiếu qua trang soạn bài.",
+  "_file": "cap1b_g5_c2.json",
+  "grade": 5
+ },
+ {
+  "ten_bai": "Tấm gương tự học",
+  "bo_sach": "KNTT",
+  "tac_gia": "Phan Sơn (tổng hợp)",
+  "kind": "companion",
+  "full_text": "",
+  "companion": {
+   "tom_tat": "Bài đọc giới thiệu Giáo sư Tạ Quang Bửu - một nhà khoa học, nhà giáo lớn của Việt Nam, quê ở Nghệ An. Điều làm nên tầm vóc của ông không phải là trường lớp mà là thói quen tự học bền bỉ suốt đời: ông đọc sách mọi lúc, nhớ rất lâu, đến mức có lần mải đọc khi đang cưỡi ngựa mà ngã xuống suối. Ông giỏi cả toán, khoa học, triết học và thông thạo nhiều ngoại ngữ; riêng tiếng Nga ông chỉ tự học trong khoảng ba tháng. Ông từng giúp Bác Hồ trong công việc đối ngoại. Ngày nay tên ông được đặt cho nhiều đường phố và cho một giải thưởng khoa học uy tín.",
+   "nhan_vat": "Giáo sư Tạ Quang Bửu - nhân vật chính, tấm gương tự học; có nhắc tới Bác Hồ trong công việc ông tham gia.",
+   "y_nghia": "Bài đọc khẳng định giá trị của việc tự học: kiến thức không chờ ai mang đến, mà do chính mình kiên trì tìm kiếm mỗi ngày. Một người bình thường, nếu ham đọc, ham hỏi và không bỏ cuộc, vẫn có thể hiểu biết rộng và làm được việc lớn cho đất nước.",
+   "cau_hoi": [
+    "Những chi tiết nào trong bài cho thấy Giáo sư Tạ Quang Bửu ham đọc sách đến mức nào?",
+    "Vì sao có thể nói ông là một 'tấm gương tự học'?",
+    "Em có thể tự học điều gì ở nhà mà không cần ai nhắc? Em sẽ bắt đầu từ đâu?"
+   ]
+  },
+  "sources": [
+   "https://vietjack.com/tieng-viet-5-kn/bai-18-tam-guong-tu-hoc.jsp",
+   "https://vietjack.com/tieng-viet-5-kn/index.jsp"
+  ],
+  "ly_do": "Bài 18, SGK Tiếng Việt 5 KNTT tập 1. Văn bản do 'Phan Sơn (tổng hợp)' viết cho SGK mới -> đương đại, CÒN BẢN QUYỀN -> companion, không chép nguyên văn. Thông tin về Tạ Quang Bửu đối chiếu qua trang soạn bài.",
+  "_file": "cap1b_g5_c2.json",
+  "grade": 5
+ },
+ {
+  "ten_bai": "Tập hát quan họ",
+  "bo_sach": "KNTT",
+  "tac_gia": "Theo Nguyễn Phan Hách",
+  "kind": "companion",
+  "full_text": "",
+  "companion": {
+   "tom_tat": "Bài đọc kể lại những buổi học hát quan họ ở nhà bà Trưởng - một liền chị nổi tiếng của làng quan họ Kinh Bắc. Ngôi nhà có vườn cây, ao sen rất nên thơ; các cô gái ngày ngày đến đó tập luyện. Bà Trưởng dạy rất kĩ: từ cách lấy hơi, nhả chữ, ngân nga cho tới cách ăn mặc, đi đứng sao cho ra dáng liền chị. Mỗi mùa lại có những làn điệu khác nhau, mỗi làn điệu mang một sắc thái tình cảm riêng nên phải hát bằng kĩ thuật riêng. Người kể chuyện say mê nghe và học, thấy tiếng hát quan họ ngấm dần vào lòng mình.",
+   "nhan_vat": "Người kể chuyện xưng 'tôi' (người đi học hát), bà Trưởng (người thầy, liền chị lão luyện) và các liền chị trẻ đang tập hát.",
+   "y_nghia": "Bài đọc giúp các em biết quan họ Bắc Ninh là một di sản văn hoá quý của dân tộc, và để hát được hay thì phải khổ công rèn luyện chứ không thể qua loa. Bài cũng nhắc chúng ta trân trọng, gìn giữ những làn điệu dân ca của quê hương mình.",
+   "cau_hoi": [
+    "Bà Trưởng đã dạy các liền chị những gì, ngoài việc dạy hát?",
+    "Vì sao mỗi làn điệu quan họ lại đòi hỏi cách hát khác nhau?",
+    "Quê em có làn điệu dân ca hay bài hát truyền thống nào? Em thuộc bài nào trong số đó?"
+   ]
+  },
+  "sources": [
+   "https://vietjack.com/tieng-viet-5-kn/bai-28-tap-hat-quan-ho.jsp",
+   "https://vietjack.com/tieng-viet-5-kn/index.jsp"
+  ],
+  "ly_do": "Bài 28, SGK Tiếng Việt 5 KNTT tập 1 (chủ điểm 'Nghệ thuật muôn màu'). Nguồn ghi 'Theo Nguyễn Phan Hách' (1944-2019) - mất năm 2019, CHƯA quá 50 năm -> còn bản quyền, không chép nguyên văn. Companion tự viết, nội dung đối chiếu qua trang soạn bài.",
+  "_file": "cap1b_g5_c2.json",
+  "grade": 5
+ },
+ {
+  "ten_bai": "Từ những câu chuyện ấu thơ",
+  "bo_sach": "KNTT",
+  "tac_gia": "Nguyễn Nhật Ánh",
+  "kind": "companion",
+  "full_text": "",
+  "companion": {
+   "tom_tat": "Nhà văn kể lại con đường đến với sách của chính mình. Thuở nhỏ, ông được bà và chú kể cho nghe những chuyện cổ tích, chuyện dân gian; nghe mãi vẫn thấy thèm nên ông cố học chữ để tự đọc lấy. Khi biết đọc, ông tìm đến sách của bố mua về, rồi đắm mình trong bao nhiêu buồn vui, tưởng tượng mà tuổi nhỏ chưa từng biết. Lớn hơn một chút, ông lại kể lại những câu chuyện ấy cho các em nhỏ trong nhà nghe. Từ đó, đọc sách trở thành niềm đam mê theo ông suốt đời.",
+   "nhan_vat": "Người kể chuyện là nhà văn thuở còn nhỏ; bà và chú - những người kể chuyện đầu tiên; người bố mua sách; các em nhỏ trong nhà nghe kể lại.",
+   "y_nghia": "Bài đọc cho thấy những câu chuyện thời thơ ấu chính là hạt giống nuôi lớn tâm hồn và trí tưởng tượng của một con người, thậm chí làm nên một nhà văn. Bài khuyến khích các em ham đọc sách và biết chia sẻ điều mình đọc được với người khác.",
+   "cau_hoi": [
+    "Vì sao cậu bé trong bài lại quyết tâm học chữ thật nhanh?",
+    "Đọc sách đã mang lại cho cậu bé những điều gì mà tuổi nhỏ chưa từng trải qua?",
+    "Cuốn sách hoặc câu chuyện nào em thích nhất? Em sẽ kể lại nó cho ai nghe?"
+   ]
+  },
+  "sources": [
+   "https://vietjack.com/tieng-viet-5-kn/bai-22-tu-nhung-cau-chuyen-au-tho.jsp",
+   "https://vietjack.com/tieng-viet-5-kn/index.jsp"
+  ],
+  "ly_do": "Bài 22, SGK Tiếng Việt 5 KNTT tập 1. Tác giả Nguyễn Nhật Ánh (sinh 1955) hiện còn sống -> tác phẩm CÒN BẢN QUYỀN, tuyệt đối không chép nguyên văn. Viết companion bằng lời riêng.",
+  "_file": "cap1b_g5_c2.json",
+  "grade": 5
+ },
+ {
+  "ten_bai": "Vũ điệu trên nền thổ cẩm",
+  "bo_sach": "KNTT",
+  "tac_gia": "Theo Trần Tấn Vịnh",
+  "kind": "companion",
+  "full_text": "",
+  "companion": {
+   "tom_tat": "Bài đọc giới thiệu nét độc đáo trong trang phục thổ cẩm của người Cơ Tu. Trên nền vải dệt tay, các nghệ nhân dùng hạt cườm trắng đính thành hoa văn hình những người phụ nữ đang múa, tay giơ cao lên trời. Đó chính là điệu múa 'da dá' (tung tung da dá) trong lễ hội của người Cơ Tu, động tác dâng lên trời và đón nhận hạt lúa, cầu mong mùa màng no đủ. Nhờ bàn tay khéo léo của người dệt, điệu múa thiêng liêng ấy được lưu giữ mãi trên tấm áo, tấm váy.",
+   "nhan_vat": "Đồng bào Cơ Tu; những người phụ nữ múa da dá trong lễ hội; các nghệ nhân dệt thổ cẩm.",
+   "y_nghia": "Bài đọc cho thấy mỗi hoa văn trên tấm thổ cẩm không chỉ để đẹp mà còn kể một câu chuyện văn hoá, gửi gắm niềm tin và ước mơ của cả cộng đồng. Qua đó, các em thêm yêu quý và trân trọng bản sắc của các dân tộc anh em trên đất nước mình.",
+   "cau_hoi": [
+    "Hoa văn đặc biệt trên tấm thổ cẩm của người Cơ Tu vẽ lại điều gì?",
+    "Vì sao trong điệu múa da dá, người phụ nữ lại giơ hai tay lên trời?",
+    "Ở địa phương em có nghề thủ công hay hoa văn truyền thống nào? Em muốn tìm hiểu điều gì về nó?"
+   ]
+  },
+  "sources": [
+   "https://vietjack.com/tieng-viet-5-kn/bai-12-vu-dieu-tren-nen-tho-cam.jsp",
+   "https://vietjack.com/tieng-viet-5-kn/index.jsp"
+  ],
+  "ly_do": "Bài 12, SGK Tiếng Việt 5 KNTT tập 2 (chủ điểm 'Hương sắc trăm miền'). Nguồn 'Theo Trần Tấn Vịnh' - nhà nghiên cứu văn hoá đương đại còn sống -> CÒN BẢN QUYỀN -> companion, không chép nguyên văn.",
+  "_file": "cap1b_g5_c2.json",
+  "grade": 5
+ },
+ {
+  "ten_bai": "Về thăm Đất Mũi",
+  "bo_sach": "KNTT",
+  "tac_gia": "Hoài Anh",
+  "kind": "companion",
+  "full_text": "",
+  "companion": {
+   "tom_tat": "Bài thơ là cảm xúc của người con lần đầu về thăm Đất Mũi Cà Mau - chóp cuối cùng của Tổ quốc. Trước mắt là rừng đước, rừng mắm, rừng dừa nước xanh ngút ngàn mọc trên đất phù sa. Ở đây, phù sa theo con nước bồi thêm mỗi ngày, khiến đất liền cứ lấn dần ra biển, như thể đất nước đang lớn lên. Đứng nơi mũi đất tận cùng, tác giả thấy lòng bồi hồi, tự hào vì đây cũng là quê hương mình, đang đón một bình minh mới.",
+   "nhan_vat": "Nhân vật trữ tình là người khách về thăm Đất Mũi; 'nhân vật' lớn nhất của bài thơ chính là mảnh đất Cà Mau cùng rừng đước, phù sa, sóng biển và gió.",
+   "y_nghia": "Bài thơ khơi lên tình yêu và niềm tự hào với từng tấc đất của Tổ quốc, kể cả nơi xa xôi nhất. Hình ảnh phù sa bồi thêm đất mỗi ngày là cách nói đẹp về sức sống bền bỉ và sự lớn lên không ngừng của đất nước Việt Nam.",
+   "cau_hoi": [
+    "Đất Mũi Cà Mau nằm ở đâu trên bản đồ nước ta? Vì sao gọi là 'Đất Mũi'?",
+    "Vì sao nhà thơ nói đất ở đây cứ dài thêm ra mỗi ngày?",
+    "Nếu được về thăm Đất Mũi, em muốn nhìn thấy điều gì nhất và vì sao?"
+   ]
+  },
+  "sources": [
+   "https://vietjack.com/tieng-viet-5-kn/bai-16-ve-tham-dat-mui.jsp",
+   "https://vietjack.com/tieng-viet-5-kn/index.jsp"
+  ],
+  "ly_do": "Bài 16, SGK Tiếng Việt 5 KNTT tập 2. Tác giả Hoài Anh (1938-2011) mất năm 2011, CHƯA quá 50 năm -> thơ còn bản quyền, không chép nguyên văn. Viết companion bằng lời riêng.",
+  "_file": "cap1b_g5_c2.json",
+  "grade": 5
+ },
+ {
+  "ten_bai": "Xin chào, Xa-ha-ra",
+  "bo_sach": "KNTT",
+  "tac_gia": "Theo Di Li",
+  "kind": "companion",
+  "full_text": "",
+  "companion": {
+   "tom_tat": "Bài đọc là ghi chép của một người đi du lịch tới sa mạc Xa-ha-ra ở châu Phi. Đoàn phải vượt qua những vùng núi đá nhiều màu sắc lạ mắt rồi mới tiến vào lòng sa mạc mênh mông. Ở đó, cát mịn như bột, những con lạc đà cao lớn chở người đi giữa biển cát; ban ngày nắng nóng gay gắt nhưng đêm xuống lại lạnh bất ngờ. Cả đoàn ngủ ngoài trời dưới bầu trời đầy sao, sáng dậy được ngắm mặt trời lên nhuộm vàng những đụn cát. Đứng trước thiên nhiên rộng lớn ấy, tác giả thấy ranh giới giữa các quốc gia bỗng trở nên nhỏ bé.",
+   "nhan_vat": "Người kể chuyện (nhà văn đi du lịch) cùng đoàn bạn đồng hành; những con lạc đà; và chính sa mạc Xa-ha-ra là 'nhân vật' lớn nhất của bài.",
+   "y_nghia": "Bài đọc mở rộng hiểu biết của các em về một vùng đất rất xa lạ trên thế giới và về sự kì vĩ của thiên nhiên. Bài cũng gửi gắm ý nghĩ đẹp: trước thiên nhiên bao la, con người ở đâu cũng gần nhau, cũng cùng chung một Trái Đất.",
+   "cau_hoi": [
+    "Sa mạc Xa-ha-ra nằm ở châu lục nào? Bài đọc tả sa mạc ấy có gì khác thường?",
+    "Vì sao ban ngày sa mạc rất nóng mà ban đêm lại rất lạnh?",
+    "Nếu được đi thăm một vùng đất xa lạ, em muốn đến nơi nào? Em sẽ chuẩn bị những gì?"
+   ]
+  },
+  "sources": [
+   "https://vietjack.com/tieng-viet-5-kn/bai-16-xin-chao-xa-ha-ra.jsp",
+   "https://vietjack.com/tieng-viet-5-kn/index.jsp"
+  ],
+  "ly_do": "Bài 16, SGK Tiếng Việt 5 KNTT tập 1 (chủ điểm 'Thiên nhiên kì thú'). Nguồn 'Theo Di Li' - nhà văn đương đại (sinh 1978) còn sống -> CÒN BẢN QUYỀN, không chép nguyên văn. Viết companion bằng lời riêng.",
+  "_file": "cap1b_g5_c2.json",
+  "grade": 5
+ },
+ {
+  "ten_bai": "Điện thoại di động",
+  "bo_sach": "KNTT",
+  "tac_gia": "Theo Gim Píp, Nguyễn Hoàng dịch",
+  "kind": "companion",
+  "full_text": "",
+  "companion": {
+   "tom_tat": "Đây là một bài đọc cung cấp thông tin về chiếc điện thoại di động. Bài kể lại cuộc gọi di động đầu tiên trên thế giới vào năm 1973, khi chiếc máy còn to như cục gạch và nặng hơn một ki-lô-gam. Theo thời gian, điện thoại ngày càng nhỏ gọn hơn, có chiếc chỉ còn dưới 85 gam. Điện thoại ngày nay không chỉ để gọi và nhắn tin mà còn gọi được có hình, chụp ảnh, chơi trò chơi, mua bán, chỉ đường... giúp cuộc sống con người tiện lợi hơn rất nhiều.",
+   "nhan_vat": "Bài không có nhân vật như truyện. Đối tượng được nói tới là chiếc điện thoại di động, từ chiếc máy đầu tiên năm 1973 cho tới điện thoại thông minh ngày nay.",
+   "y_nghia": "Bài giúp các em thấy sức mạnh của khoa học kĩ thuật: chỉ trong khoảng năm mươi năm, một phát minh đã thay đổi hẳn cách con người liên lạc và sinh hoạt. Đồng thời, bài cũng gợi cho các em suy nghĩ về việc dùng điện thoại sao cho có ích, không lạm dụng.",
+   "cau_hoi": [
+    "Cuộc gọi bằng điện thoại di động đầu tiên diễn ra vào năm nào? Chiếc máy khi ấy khác điện thoại bây giờ ra sao?",
+    "Ngoài gọi và nhắn tin, điện thoại thông minh còn làm được những việc gì?",
+    "Theo em, dùng điện thoại thế nào là hợp lí với học sinh lớp 5? Điều gì sẽ xảy ra nếu em dùng quá nhiều?"
+   ]
+  },
+  "sources": [
+   "https://vietjack.com/tieng-viet-5-kn/bai-29-dien-thoai-di-dong.jsp",
+   "https://vietjack.com/tieng-viet-5-kn/index.jsp"
+  ],
+  "ly_do": "Bài 29, SGK Tiếng Việt 5 KNTT tập 2 (chủ điểm 'Thế giới của chúng ta'). Văn bản thông tin dịch từ tác giả nước ngoài 'Gim Píp', Nguyễn Hoàng dịch -> bản gốc lẫn bản dịch đều CÒN BẢN QUYỀN -> companion, không chép nguyên văn.",
+  "_file": "cap1b_g5_c2.json",
+  "grade": 5
+ },
+ {
+  "ten_bai": "Buôn Chư Lênh đón cô giáo",
+  "bo_sach": "Sách cũ",
+  "tac_gia": "Hà Đình Cẩn",
+  "kind": "companion",
+  "full_text": "",
+  "companion": {
+   "tom_tat": "Cô giáo Y Hoa đến buôn Chư Lênh ở Tây Nguyên để mở trường dạy chữ. Cả buôn mặc quần áo đẹp như đi hội, trải lông thú làm lối đi và đón cô bằng nghi thức trang trọng nhất dành cho khách quý. Theo tục lệ, Y Hoa nhận con dao từ già Rok - trưởng buôn - rồi chém một nhát thật sâu vào cây cột nóc để thay cho lời thề, và từ đó cô được coi là người trong buôn. Khi dân làng đòi xem \"cái chữ\", Y Hoa quỳ xuống sàn, viết thật to, thật đậm hai chữ \"Bác Hồ\". Cả nhà sàn im phăng phắc rồi vỡ oà tiếng hò reo.",
+   "nhan_vat": "Cô giáo Y Hoa; già Rok - trưởng buôn Chư Lênh; dân làng buôn Chư Lênh.",
+   "y_nghia": "Bài đọc cho thấy người dân Tây Nguyên trân trọng cái chữ và quý mến người mang cái chữ đến cho buôn làng. Học chữ là chuyện thiêng liêng, đáng để cả cộng đồng đón chào bằng nghi lễ đẹp nhất.",
+   "cau_hoi": [
+    "Buôn Chư Lênh đã chuẩn bị những gì để đón cô giáo Y Hoa?",
+    "Vì sao cô Y Hoa phải chém một nhát dao vào cây cột nóc?",
+    "Nếu em là người trong buôn Chư Lênh hôm ấy, em sẽ nói gì với cô giáo Y Hoa?"
+   ]
+  },
+  "sources": [
+   "https://www.cungtien.com/2021/04/buon-chu-lenh-on-co-giao-lop-5-tuan-15.html",
+   "https://vietjack.com/tieng-viet-lop-5/tap-doc-buon-chu-lenh-don-co-giao.jsp"
+  ],
+  "ly_do": "SGK ghi \"Theo HÀ ĐÌNH CẨN\" - nhà văn Việt Nam đương đại, tác phẩm còn bản quyền -> chọn companion, tự viết tóm tắt bằng lời riêng, không chép nguyên văn.",
+  "_file": "cap1b_g5_c3.json",
+  "grade": 5
+ },
+ {
+  "ten_bai": "Cái gì quý nhất ?",
+  "bo_sach": "Sách cũ",
+  "tac_gia": "Trịnh Mạnh",
+  "kind": "companion",
+  "full_text": "",
+  "companion": {
+   "tom_tat": "Trên đường đi học về, ba bạn Hùng, Quý và Nam tranh luận xem trên đời cái gì quý nhất. Hùng bảo quý nhất là lúa gạo vì không ăn thì không sống được; Quý cho rằng phải là vàng vì có vàng là có tiền, mua được lúa gạo; Nam lại nói quý nhất là thì giờ, vì có thì giờ mới làm ra được lúa gạo, vàng bạc. Ai cũng thấy mình có lí nên không ai chịu ai. Hôm sau, ba bạn đến nhờ thầy giáo phân giải. Thầy công nhận lúa gạo, vàng, thì giờ đều quý, nhưng quý nhất chính là người lao động - vì không có người lao động thì không có gì cả và thì giờ cũng trôi qua vô vị.",
+   "nhan_vat": "Ba bạn học sinh Hùng, Quý, Nam và thầy giáo.",
+   "y_nghia": "Câu chuyện dạy em biết quý trọng người lao động và thành quả lao động: mọi của cải, mọi giá trị trên đời đều do bàn tay và khối óc con người làm ra. Đồng thời bài cũng cho thấy khi tranh luận, cần lắng nghe và cần lí lẽ chứ không phải chỉ khăng khăng giữ ý mình.",
+   "cau_hoi": [
+    "Hùng, Quý và Nam mỗi bạn cho rằng cái gì là quý nhất, và vì sao?",
+    "Thầy giáo đã giải thích thế nào để ba bạn hiểu ra người lao động mới là quý nhất?",
+    "Theo em, ở nhà và ở trường có những người lao động nào đang giúp đỡ em mỗi ngày? Em cảm ơn họ bằng cách nào?"
+   ]
+  },
+  "sources": [
+   "https://www.cungtien.com/2020/10/cai-gi-quy-nhat-lop-5-tuan-9-trang-86.html",
+   "https://vietjack.com/tieng-viet-lop-5/tap-doc-cai-gi-quy-nhat.jsp"
+  ],
+  "ly_do": "SGK ghi tác giả TRỊNH MẠNH (nhà giáo, nhà nghiên cứu tiếng Việt, mất chưa quá 50 năm) -> tác phẩm còn bản quyền, chọn companion và tự viết tóm tắt.",
+  "_file": "cap1b_g5_c3.json",
+  "grade": 5
+ },
+ {
+  "ten_bai": "Lòng dân",
+  "bo_sach": "Sách cũ",
+  "tac_gia": "Nguyễn Văn Xe",
+  "kind": "companion",
+  "full_text": "",
+  "companion": {
+   "tom_tat": "Đây là một trích đoạn kịch xảy ra ở một ngôi nhà nông thôn Nam Bộ vào buổi trưa. Má con dì Năm đang ăn cơm thì một chú cán bộ bị giặc rượt bắt chạy vào nhà. Dì Năm nhanh trí đưa chú chiếc áo để thay rồi bảo chú ngồi xuống chõng giả vờ ăn cơm. Bọn cai và lính ập tới hỏi dồn, dì Năm bình tĩnh nhận chú cán bộ là chồng mình. Tên cai cho trói dì lại, doạ bắn dì và đốt nhà nếu dì nói dối. Dì Năm nghẹn ngào dặn dò con trai như lời trăng trối, chấp nhận hi sinh để giữ an toàn cho chú cán bộ.",
+   "nhan_vat": "Dì Năm (29 tuổi); An - con trai dì Năm (12 tuổi); chú cán bộ; tên cai và tên lính.",
+   "y_nghia": "Đoạn kịch ca ngợi sự dũng cảm và mưu trí của dì Năm, một người phụ nữ nông dân Nam Bộ, và qua đó ca ngợi tấm lòng son sắt của nhân dân đối với cách mạng: người dân sẵn sàng che chở, bảo vệ cán bộ dù phải đánh đổi cả tính mạng.",
+   "cau_hoi": [
+    "Dì Năm đã nghĩ ra cách gì để cứu chú cán bộ khi giặc ập tới?",
+    "Chi tiết nào trong đoạn kịch cho thấy dì Năm rất gan dạ?",
+    "Nếu được đóng một vai trong vở kịch này, em muốn đóng vai nào? Vì sao?"
+   ]
+  },
+  "sources": [
+   "https://www.cungtien.com/2020/10/long-dan-lop-5-tuan-3-trang-25.html",
+   "https://vietjack.com/tieng-viet-lop-5/tap-doc-long-dan.jsp"
+  ],
+  "ly_do": "SGK ghi \"Theo NGUYỄN VĂN XE\" - tác giả kịch bản hiện đại, không xác định được đã mất trên 50 năm nên không thể coi là phạm vi công cộng -> chọn companion, không chép nguyên văn lời thoại.",
+  "_file": "cap1b_g5_c3.json",
+  "grade": 5
+ },
+ {
+  "ten_bai": "Lớp học trên đường",
+  "bo_sach": "Sách cũ",
+  "tac_gia": "Héc-to Ma-lô (Hector Malot, 1830-1907), Hà Mai Anh dịch",
+  "kind": "recite",
+  "full_text": "Cụ Vi-ta-li nhặt trên đường một mảnh gỗ mỏng, dính đầy cát bụi. Cắt mảnh gỗ thành nhiều miếng nhỏ, cụ bảo:\n– Ta sẽ khắc trên mỗi miếng gỗ một chữ cái. Con sẽ học nhận mặt từng chữ, rồi ghép các chữ ấy lại thành tiếng.\n\nTừ hôm đó, lúc nào túi tôi cũng đầy những miếng gỗ dẹp. Không bao lâu, tôi đã thuộc tất cả các chữ cái. Nhưng biết đọc lại là chuyện khác. Không phải ngày một ngày hai mà đọc được.\n\nKhi dạy tôi, thầy Vi-ta-li nghĩ rằng cùng lúc có thể dạy cả chú chó Ca-pi để làm xiếc. Dĩ nhiên, Ca-pi không đọc lên được những chữ nó thấy vì nó không biết nói, nhưng nó biết lấy ra những chữ mà thầy tôi đọc lên.\n\nBuổi đầu, tôi học tấn tới hơn Ca-pi nhiều. Nhưng nếu tôi thông minh hơn nó, thì nó cũng có trí nhớ tốt hơn tôi. Cái gì đã vào đầu nó rồi thì nó không bao giờ quên.\n\nMột hôm tôi đọc sai, thầy tôi nói:\n– Ca-pi sẽ biết đọc trước Rê-mi.\nCon chó có lẽ hiểu nên đắc chí vẫy vẫy cái đuôi.\n\nTừ đó, tôi không dám sao nhãng một phút nào. Ít lâu sau, tôi đọc được, trong khi con Ca-pi đáng thương chỉ biết “viết” tên nó bằng cách rút những chữ gỗ trong bảng chữ cái.\n\nCụ Vi-ta-li hỏi tôi:\n– Bây giờ con có muốn học nhạc không?\n– Đấy là điều con thích nhất. Nghe thầy hát, có lúc con muốn cười, có lúc lại muốn khóc. Có lúc tự nhiên con nhớ đến mẹ con và tưởng như đang trông thấy mẹ con ở nhà.\n\nBằng một giọng cảm động, thầy bảo tôi:\n– Con thật là một đứa trẻ có tâm hồn.",
+  "companion": {
+   "tom_tat": "",
+   "nhan_vat": "",
+   "y_nghia": "",
+   "cau_hoi": []
+  },
+  "sources": [
+   "https://www.cungtien.com/2021/05/lop-hoc-tren-uong-lop-5-tuan-34-trang.html",
+   "https://vietjack.com/tieng-viet-lop-5/tap-doc-lop-hoc-tren-duong.jsp"
+  ],
+  "ly_do": "Trích truyện \"Không gia đình\" của Héc-to Ma-lô (mất năm 1907, trên 50 năm) - bản dịch Hà Mai Anh (1905-1975, cũng đã mất trên 50 năm) -> phạm vi công cộng. Nguyên văn lấy từ trang đọc bài cungtien.com (không phải trang soạn-bài); đã đối chiếu khớp từng câu với bản trên VietJack (VietJack chỉ dùng để ĐỐI CHIẾU). Đã bỏ dòng ghi nguồn \"Theo HÉC-TO MA-LÔ (Hà Mai Anh dịch)\", bỏ mục từ vựng, câu hỏi và mọi metadata.",
+  "_file": "cap1b_g5_c3.json",
+  "grade": 5
+ },
+ {
+  "ten_bai": "Một vụ đắm tàu",
+  "bo_sach": "Sách cũ",
+  "tac_gia": "A-mi-xi (Edmondo De Amicis, 1846-1908)",
+  "kind": "recite",
+  "full_text": "Trên chiếc tàu thuỷ rời cảng Li-vơ-pun hôm ấy có một cậu bé tên là Ma-ri-ô, khoảng 12 tuổi. Tàu nhổ neo được một lúc thì Ma-ri-ô quen một bạn đồng hành. Cô bé là Giu-li-ét-ta, cao hơn Ma-ri-ô. Cô đang trên đường về nhà và rất vui vì sắp được gặp lại bố mẹ. Ma-ri-ô không kể gì về mình. Bố cậu mới mất nên cậu về quê sống với họ hàng.\n\nĐêm xuống, lúc chia tay, Ma-ri-ô định chúc bạn ngủ ngon thì một ngọn sóng lớn ập tới, xô cậu ngã dúi. Giu-li-ét-ta hoảng hốt chạy lại. Cô quỳ xuống bên Ma-ri-ô, lau máu trên trán bạn, rồi dịu dàng gỡ chiếc khăn đỏ trên mái tóc băng cho bạn.\n\nCơn bão dữ dội bất ngờ nổi lên. Những đợt sóng khủng khiếp phá thủng thân tàu, nước phun vào khoang như vòi rồng. Hai tiếng đồng hồ trôi qua... Con tàu chìm dần, nước ngập các bao lơn. Quang cảnh thật hỗn loạn.\n\nMa-ri-ô và Giu-li-ét-ta, hai tay ôm chặt cột buồm, khiếp sợ nhìn mặt biển. Mặt biển đã yên hơn. Nhưng con tàu vẫn tiếp tục chìm.\n\nChiếc xuồng cuối cùng được thả xuống. Ai đó kêu lên: “Còn chỗ cho một đứa bé.” Hai đứa trẻ sực tỉnh, lao ra.\n– Đứa nhỏ thôi! Nặng lắm rồi. – Một người nói.\nNghe thế, Giu-li-ét-ta sững sờ, buông thõng hai tay, đôi mắt thẫn thờ tuyệt vọng.\n\nMột ý nghĩ vụt đến, Ma-ri-ô hét to: “Giu-li-ét-ta, xuống đi! Bạn còn bố mẹ...”\n\nNói rồi, cậu ôm ngang lưng Giu-li-ét-ta thả xuống nước. Người ta nắm tay cô lôi lên xuồng.\n\nChiếc xuồng bơi ra xa. Giu-li-ét-ta bàng hoàng nhìn Ma-ri-ô đang đứng bên mạn tàu, đầu ngửng cao, tóc bay trước gió. Cô bật khóc nức nở, giơ tay về phía cậu: “Vĩnh biệt Ma-ri-ô!”",
+  "companion": {
+   "tom_tat": "",
+   "nhan_vat": "",
+   "y_nghia": "",
+   "cau_hoi": []
+  },
+  "sources": [
+   "https://www.cungtien.com/2021/04/mot-vu-am-tau-tuan-29-trang-108-sgk.html",
+   "https://vietjack.com/tieng-viet-lop-5/tap-doc-mot-vu-dam-tau.jsp"
+  ],
+  "ly_do": "Trích tác phẩm của A-mi-xi (Edmondo De Amicis, mất năm 1908 - trên 50 năm) -> phạm vi công cộng, cùng loại với bài \"Buổi học thể dục\" đã nạp recite ở chunk lớp 3. Nguyên văn lấy từ trang đọc bài cungtien.com (không phải trang soạn-bài), đối chiếu khớp từng câu với bản VietJack (VietJack chỉ để ĐỐI CHIẾU; bản VietJack có 2 lỗi gõ \"Cố bé\"/\"AI đó\" nên không dùng làm nguồn). Đã bỏ dòng \"Theo A-MI-XI\", mục từ vựng và câu hỏi.",
+  "_file": "cap1b_g5_c3.json",
+  "grade": 5
+ },
+ {
+  "ten_bai": "Ngu Công xã Trịnh Tường",
+  "bo_sach": "Sách cũ",
+  "tac_gia": "Trường Giang, Ngọc Minh",
+  "kind": "companion",
+  "full_text": "",
+  "companion": {
+   "tom_tat": "Bài báo kể về ông Phàn Phù Lìn, người Dao ở thôn Phìn Ngan, xã Trịnh Tường, huyện Bát Xát, tỉnh Lào Cai. Muốn bỏ lối làm lúa nương khát nước, ông lần mò cả tháng trong rừng để tìm nguồn nước, rồi cùng vợ con đào ròng rã một năm trời được gần bốn cây số mương xuyên đồi dẫn nước từ rừng già về thôn. Có nước, ông trồng lúa nước, đưa giống lúa lai cao sản về cho bà con, thôn không còn hộ đói và không còn phá rừng làm nương. Hiểu rằng muốn có nước thì phải giữ rừng, ông đi học cách trồng thảo quả rồi hướng dẫn lại cho cả thôn, giúp nhiều gia đình khá lên. Phìn Ngan từ thôn nghèo nhất đã thành thôn có mức sống khá nhất xã, còn ông Lìn được Chủ tịch nước gửi thư khen.",
+   "nhan_vat": "Ông Phàn Phù Lìn - người được gọi là \"Ngu Công\" của xã Trịnh Tường; vợ con ông; bà con thôn Phìn Ngan.",
+   "y_nghia": "Bài đọc ca ngợi con người dám nghĩ, dám làm và kiên trì đến cùng: một dòng mương nhỏ do sức người đào ra đã đổi thay cả cuộc sống của một thôn bản. Bài còn nhắc rằng làm ăn phải đi đôi với giữ rừng, giữ nguồn nước.",
+   "cau_hoi": [
+    "Ông Lìn đã làm những việc gì để đưa được nước về thôn Phìn Ngan?",
+    "Cuộc sống của bà con trong thôn thay đổi ra sao từ khi có con mương?",
+    "Vì sao mọi người gọi ông Lìn là \"Ngu Công\"? Em học được điều gì ở ông?"
+   ]
+  },
+  "sources": [
+   "https://www.cungtien.com/2021/04/ngu-cong-xa-trinh-tuong-lop-5-tuan-17.html",
+   "https://vietjack.com/tieng-viet-lop-5/tap-doc-ngu-cong-xa-trinh-tuong.jsp"
+  ],
+  "ly_do": "SGK ghi \"Theo TRƯỜNG GIANG - NGỌC MINH\" - bài báo của tác giả đương đại, còn bản quyền -> chọn companion, tự viết tóm tắt, không chép nguyên văn.",
+  "_file": "cap1b_g5_c3.json",
+  "grade": 5
+ },
+ {
+  "ten_bai": "Người công dân số Một",
+  "bo_sach": "Sách cũ",
+  "tac_gia": "Hà Văn Cầu, Vũ Đình Phòng",
+  "kind": "companion",
+  "full_text": "",
+  "companion": {
+   "tom_tat": "Trích đoạn kịch dựng lại buổi trò chuyện giữa anh Thành (Nguyễn Tất Thành - Nguyễn Ái Quốc, khi ấy còn được gọi là anh Ba) với người bạn tên Lê ở Sài Gòn trước ngày ra đi tìm đường cứu nước. Anh Ba nói mình đã quyết định đi khắp thế giới, xem xét các nước rồi trở về giúp đồng bào, và rủ anh Lê cùng đi. Anh Lê lo lắng vì hai người không có tiền, cũng không có giấy tờ. Anh Ba xoè hai bàn tay bảo đó chính là tiền, chỉ vào đầu và vào trái tim mình để nói rằng đó mới là giấy tờ và là tất cả những gì cần cho cuộc sống, cho sự nghiệp. Đoạn trích khép lại với lời gọi anh Ba là người công dân số Một của nước Việt Nam.",
+   "nhan_vat": "Anh Thành (anh Ba - Nguyễn Tất Thành, sau này là Chủ tịch Hồ Chí Minh) và anh Lê.",
+   "y_nghia": "Đoạn kịch cho thấy ý chí và tầm nhìn của người thanh niên yêu nước: không có tiền, không có giấy tờ, nhưng có đôi bàn tay lao động, có khối óc và trái tim thì vẫn dám lên đường vì đất nước. Đó là bài học về lòng yêu nước và nghị lực vượt khó.",
+   "cau_hoi": [
+    "Anh Ba định đi đâu và đi để làm gì?",
+    "Anh Lê lo lắng những khó khăn nào, và anh Ba đã trả lời ra sao?",
+    "Vì sao Bác Hồ được gọi là \"người công dân số Một\"?"
+   ]
+  },
+  "sources": [
+   "https://www.cungtien.com/2021/03/nguoi-cong-dan-so-mot-lop-5-tuan-19.html",
+   "https://vietjack.com/tieng-viet-lop-5/tap-doc-nguoi-cong-dan-so-mot.jsp"
+  ],
+  "ly_do": "SGK ghi \"Theo HÀ VĂN CẦU - VŨ ĐÌNH PHÒNG\" - kịch bản của hai tác giả đương đại (mất chưa quá 50 năm), còn bản quyền -> chọn companion, không chép nguyên văn lời thoại.",
+  "_file": "cap1b_g5_c3.json",
+  "grade": 5
+ },
+ {
+  "ten_bai": "Nhà tài trợ đặc biệt của Cách mạng",
+  "bo_sach": "Sách cũ",
+  "tac_gia": "Phạm Khải",
+  "kind": "companion",
+  "full_text": "",
+  "companion": {
+   "tom_tat": "Bài đọc kể về ông Đỗ Đình Thiện (1904-1972), một nhà tư sản lớn ở Hà Nội, chủ nhiều đồn điền, nhà máy và tiệm buôn, trong đó có đồn điền Chi Nê ở Hoà Bình. Ngay từ trước Cách mạng, năm 1943, ông đã gửi ủng hộ quỹ Đảng ba vạn đồng Đông Dương, trong khi ngân quỹ của Đảng khi ấy chỉ còn hai mươi tư đồng. Cách mạng thành công, ông ủng hộ sáu mươi tư lạng vàng trong Tuần lễ Vàng, góp mười vạn đồng Đông Dương cho Quỹ Độc lập và được Chính phủ giao phụ trách Quỹ. Kháng chiến chống Pháp, gia đình ông ủng hộ bộ đội hàng trăm tấn thóc; hoà bình lập lại, ông hiến toàn bộ đồn điền Chi Nê cho Nhà nước mà không đòi hỏi đền đáp.",
+   "nhan_vat": "Ông Đỗ Đình Thiện - nhà tư sản yêu nước; đồng chí Nguyễn Lương Bằng, người nhận khoản ủng hộ quỹ Đảng năm 1943.",
+   "y_nghia": "Bài đọc cho thấy lòng yêu nước không phân biệt giàu nghèo hay giai cấp: một người rất giàu vẫn sẵn sàng trao gần như tất cả tài sản của mình cho đất nước mà không mong được trả ơn. Em học được tinh thần biết cho đi vì lợi ích chung.",
+   "cau_hoi": [
+    "Ông Đỗ Đình Thiện đã ủng hộ cách mạng những gì trước năm 1945?",
+    "Vì sao con số \"ba vạn đồng Đông Dương\" lại làm người giữ quỹ của Đảng xúc động đến thế?",
+    "Theo em, vì sao ông Thiện được gọi là \"nhà tài trợ đặc biệt của Cách mạng\"?"
+   ]
+  },
+  "sources": [
+   "https://www.cungtien.com/2021/03/nha-tai-tro-ac-biet-cua-cach-mang-lop-5.html",
+   "https://vietjack.com/tieng-viet-lop-5/tap-doc-nguoi-tai-tro-dac-biet-cua-cach-mang.jsp"
+  ],
+  "ly_do": "SGK ghi \"Theo PHẠM KHẢI\" - bài viết của tác giả đương đại, còn bản quyền -> chọn companion, tự viết tóm tắt bằng lời riêng.",
+  "_file": "cap1b_g5_c3.json",
+  "grade": 5
  }
 ]

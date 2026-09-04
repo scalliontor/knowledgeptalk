@@ -481,5 +481,218 @@
   "_errs": [
    "trích nguyên văn dài trong ngoặc kép(614 ký tự)"
   ]
+ },
+ {
+  "ten_bai": "Thi nhạc",
+  "bo_sach": "KNTT",
+  "tac_gia": "Nguyễn Phan Hách",
+  "kind": "companion",
+  "full_text": "",
+  "companion": {
+   "tom_tat": "Câu chuyện kể về ngày thi tốt nghiệp của các học trò thầy giáo vàng anh. Ve sầu lên trước với bản nhạc \"Mùa hè\" chói chang màu hoa phượng; gà trống đĩnh đạc mở khúc \"Bình minh\" tiết tấu nhanh, khỏe; dế mèn trong chiếc áo nâu bóng chơi bản \"Mùa thu\" gợi lá khô xoay tròn trong nắng; họa mi dịu dàng khép lại bằng bản \"Mùa xuân\" rạo rực, tưng bừng. Nghe xong, thầy vàng anh xúc động khen các trò đã thành công vì mỗi người tạo được một phong cách riêng, không ai bắt chước ai.",
+   "nhan_vat": "Thầy giáo vàng anh và bốn học trò: ve sầu, gà trống, dế mèn, họa mi.",
+   "y_nghia": "Bài đọc ca ngợi lao động nghệ thuật và nhắc rằng giá trị của mỗi người nằm ở nét riêng, ở phong cách độc đáo do chính mình tạo nên chứ không phải ở việc bắt chước người khác.",
+   "cau_hoi": [
+    "Mỗi học trò của thầy vàng anh biểu diễn bản nhạc về mùa nào?",
+    "Vì sao thầy giáo vàng anh lại xúc động và vui mừng với phần thi của các trò?",
+    "Nếu được viết một bản nhạc về mùa em thích nhất, em sẽ đưa vào đó những âm thanh và hình ảnh gì?"
+   ]
+  },
+  "sources": [
+   "https://vietjack.com/tieng-viet-4-kn/doc-thi-nhac.jsp"
+  ],
+  "ly_do": "Tác giả Nguyễn Phan Hách (1944-2019) mới mất 7 năm, tác phẩm còn bản quyền -> companion tự viết. Trang soạn-bài chỉ dùng đối chiếu tác giả và diễn biến.",
+  "_file": "cap1b_g4_c2.json",
+  "grade": 4,
+  "_errs": [
+   "trích nguyên văn dài trong ngoặc kép(63 ký tự)"
+  ]
+ },
+ {
+  "ten_bai": "Tờ báo tường của tôi",
+  "bo_sach": "KNTT",
+  "tac_gia": "Nguyễn Luân",
+  "kind": "companion",
+  "full_text": "",
+  "companion": {
+   "tom_tat": "Trên đường xuống nhà bạn Eng để bàn tên cho tờ báo tường đón Tết Trung thu, bạn nhỏ đi qua con dốc thì thấy một người bị tai nạn nằm bên gốc cây, xe máy và bao hàng ngổn ngang. Người bị nạn yếu ớt xin cứu giúp. Bạn nhỏ trấn tĩnh, hứa đợi rồi chạy đường tắt qua khu rừng nhá nhem tối tới đồn biên phòng, chân đau nhói vì giẫm đá răng mèo mà vẫn cố chạy. Chú bộ đội gác cổng nghe chuyện liền gọi điện báo cho đồng đội đang tuần tra và khen bạn gan dạ, tốt bụng. Hôm sau câu chuyện lan đi khắp nơi, và bạn nhỏ cũng tìm được nhan đề cho tờ báo tường: \"Trăng Rằm yêu thương\".",
+   "nhan_vat": "Bạn nhỏ (nhân vật \"tôi\"); bạn Eng; người bị tai nạn; chú bộ đội biên phòng.",
+   "y_nghia": "Câu chuyện ca ngợi lòng dũng cảm và sự tử tế của một bạn nhỏ: biết vượt qua sợ hãi để cứu người, và chính việc tốt ấy đem lại niềm vui, gợi ý nghĩa yêu thương cho tờ báo tường của lớp.",
+   "cau_hoi": [
+    "Bạn nhỏ định làm gì khi đi xuống nhà bạn Eng, và bạn đã gặp chuyện gì trên đường?",
+    "Những chi tiết nào cho thấy chặng đường chạy tới đồn biên phòng rất vất vả và đáng sợ?",
+    "Vì sao bạn nhỏ đặt tên tờ báo tường là \"Trăng Rằm yêu thương\"? Nếu là em, em sẽ đặt tên gì?"
+   ]
+  },
+  "sources": [
+   "https://vietjack.com/tieng-viet-4-kn/doc-to-bao-tuong-cua-toi.jsp"
+  ],
+  "ly_do": "Truyện của tác giả đương đại Nguyễn Luân, còn bản quyền -> companion. Không chép nguyên văn từ trang soạn-bài.",
+  "_file": "cap1b_g4_c2.json",
+  "grade": 4,
+  "_errs": [
+   "trích nguyên văn dài trong ngoặc kép(205 ký tự)"
+  ]
+ },
+ {
+  "ten_bai": "Giới thiệu sách Dế Mèn phiêu lưu kí",
+  "bo_sach": "KNTT",
+  "tac_gia": "Huy Quang (giới thiệu cuốn sách của nhà văn Tô Hoài)",
+  "kind": "companion",
+  "full_text": "",
+  "companion": {
+   "tom_tat": "Đây là một bài giới thiệu sách. Người viết mời bạn đọc tìm đến cuốn Dế Mèn phiêu lưu kí của nhà văn Tô Hoài - cuốn sách gồm mười chương, kể chuyến phiêu lưu của chú Dế Mèn qua thế giới của các loài vật nhỏ bé. Lúc đầu Dế Mèn khoẻ mạnh nhưng kiêu căng, xốc nổi; sau những chặng đường phiêu lưu, những va vấp và những người bạn gặp trên đường, chú dần trưởng thành, trở nên can đảm, tốt bụng và mang ước mơ về một thế giới muôn loài sống hoà thuận, thương yêu nhau. Bài giới thiệu khen ngòi bút hóm hỉnh, thế giới loài vật sinh động của Tô Hoài và gợi mở lí do vì sao cuốn sách được nhiều thế hệ bạn đọc yêu thích.",
+   "nhan_vat": "Trong cuốn sách được giới thiệu: Dế Mèn là nhân vật chính, cùng những người bạn chú gặp trên đường phiêu lưu. Ngoài ra bài đọc nhắc tới nhà văn Tô Hoài - tác giả cuốn sách.",
+   "y_nghia": "Bài đọc dạy các em cách giới thiệu một cuốn sách mình yêu thích: nói tên sách, tên tác giả, nội dung chính, điều hay của sách và lí do nên đọc. Qua đó em cũng nhận được bài học từ Dế Mèn: bỏ thói kiêu căng, biết nhận lỗi và lớn lên từ chính những trải nghiệm của mình.",
+   "cau_hoi": [
+    "Cuốn sách Dế Mèn phiêu lưu kí của nhà văn nào, kể về nhân vật nào?",
+    "Theo bài giới thiệu, Dế Mèn đã thay đổi ra sao sau chuyến phiêu lưu?",
+    "Em hãy giới thiệu ngắn gọn một cuốn sách em thích: tên sách, tác giả, chuyện gì xảy ra và vì sao em muốn rủ bạn cùng đọc."
+   ]
+  },
+  "sources": [
+   "https://vietjack.com/tieng-viet-5-kn/tgtp-gioi-thieu-sach-de-men-phieu-luu-ki.jsp",
+   "https://www.vietjack.com/tieng-viet-5-kn/doc-lop-5-ket-noi-tri-thuc.jsp"
+  ],
+  "ly_do": "Bài đọc SGK Tiếng Việt 5 KNTT tập 1, ghi nguồn \"Theo Huy Quang\"; cuốn sách được giới thiệu là của Tô Hoài (mất 2014). Cả bài giới thiệu lẫn tác phẩm gốc đều CÒN BẢN QUYỀN nên chỉ làm companion.",
+  "_file": "cap1b_g5_c0.json",
+  "grade": 5,
+  "_errs": [
+   "RÁC soạn-bài trong phần giảng('nội dung chính')"
+  ]
+ },
+ {
+  "ten_bai": "Hành tinh kì lạ",
+  "bo_sach": "KNTT",
+  "tac_gia": "Viết Linh",
+  "kind": "companion",
+  "full_text": "",
+  "companion": {
+   "tom_tat": "Truyện tưởng tượng kể về hai nhà du hành vũ trụ. Đang bay thì các kim đồng hồ trong buồng lái bỗng rối loạn rồi đứng im, con tàu buộc phải hạ cánh xuống một hành tinh lạ. Ở đó, mọi thứ đều do máy móc đảm nhiệm: ô tô vừa chạy vừa bay và chỉ cần ra lệnh bằng giọng nói, việc xây nhà, cắt tóc, dọn dẹp cũng đều có máy làm thay. Cư dân nơi đây có làn da đủ màu hồng, xanh, vàng, tím, có người còn mang cánh tay bằng thép; cách tính thời gian cũng khác - một tuần mười ngày, một tháng mười tuần. Ngay cả cây cối cũng chỉ là những cỗ máy mang hình cây, toả hơi nóng chứ không cho bóng mát. Lúc đầu thấy thích thú, nhưng rồi nhân vật \"tôi\" chợt thấy thiếu vắng và da diết nhớ Trái Đất, thèm một bóng cây râm mát với tiếng chim hót ríu ran.",
+   "nhan_vat": "Nhân vật \"tôi\" và người bạn đồng hành tên Chăn-bai - hai nhà du hành vũ trụ; cùng những cư dân máy móc trên hành tinh lạ.",
+   "y_nghia": "Câu chuyện cho thấy máy móc hiện đại rất tiện lợi nhưng không thể thay thế được thiên nhiên sống động và hơi ấm của sự sống. Một hành tinh có đủ mọi thứ tối tân mà thiếu cây xanh, tiếng chim thì vẫn lạnh lẽo. Bài đọc nhắc em biết yêu quý Trái Đất - ngôi nhà chung có cây cối, chim muông và con người.",
+   "cau_hoi": [
+    "Vì sao hai nhà du hành phải hạ cánh xuống hành tinh lạ?",
+    "Những chi tiết nào cho thấy trên hành tinh ấy mọi thứ đều là máy móc, kể cả cây cối?",
+    "Vì sao nhân vật \"tôi\" lại nhớ Trái Đất? Theo em, điều gì ở Trái Đất là quý giá nhất mà máy móc không thay được?"
+   ]
+  },
+  "sources": [
+   "https://vietjack.com/tieng-viet-5-kn/tgtp-hanh-tinh-ki-la.jsp",
+   "https://vietjack.com/tieng-viet-5-kn/doc-hanh-tinh-ki-la.jsp"
+  ],
+  "ly_do": "Bài đọc SGK Tiếng Việt 5 KNTT tập 1, ghi nguồn \"Theo Viết Linh\" - nhà văn viễn tưởng thiếu nhi hiện đại, tác phẩm CÒN BẢN QUYỀN; làm companion.",
+  "_file": "cap1b_g5_c0.json",
+  "grade": 5,
+  "_errs": [
+   "trích nguyên văn dài trong ngoặc kép(411 ký tự)"
+  ]
+ },
+ {
+  "ten_bai": "Kì diệu rừng xanh",
+  "bo_sach": "KNTT",
+  "tac_gia": "Nguyễn Phan Hách",
+  "kind": "companion",
+  "full_text": "",
+  "companion": {
+   "tom_tat": "Bài văn miêu tả một chuyến đi vào rừng. Trước hết, người đi rừng lạc vào một vạt nấm dại: những chiếc nấm to bằng cái ấm tích, màu sắc sặc sỡ, mọc san sát như những toà lâu đài kiến trúc tân kì, khiến người ta ngỡ mình đang đi trong một vương quốc của người tí hon. Tiếp đó, khu rừng bừng lên sự sống với những con vượn bạc má chuyền cành thoăn thoắt và mấy con chồn sóc chạy vụt qua rồi biến mất. Cuối cùng là rừng khộp - một \"giang sơn vàng rợi\": lá vàng rải thảm dưới chân, nắng vàng rọi xuống, những con mang vàng đang lặng lẽ ăn cỏ non, tất cả hoà thành một sắc vàng khiến cảnh rừng trở nên lộng lẫy như trong truyện cổ tích.",
+   "nhan_vat": "Người kể chuyện xưng \"tôi\" - người đi rừng; cùng cả thế giới rừng xanh: những cây nấm dại, vượn bạc má, chồn sóc và những con mang vàng.",
+   "y_nghia": "Bài đọc mở ra vẻ đẹp kì thú, đầy màu sắc và sự sống của rừng già Việt Nam. Nhờ trí tưởng tượng phong phú và cách so sánh tài tình, tác giả biến một khu rừng thật thành một thế giới cổ tích. Bài văn nuôi dưỡng trong em tình yêu thiên nhiên và ý thức phải giữ gìn, bảo vệ rừng.",
+   "cau_hoi": [
+    "Vì sao khi đứng giữa vạt nấm rừng, tác giả lại tưởng mình đang lạc vào vương quốc của người tí hon?",
+    "Những con vật nào đã làm cho khu rừng trở nên sống động?",
+    "Vì sao rừng khộp được gọi là \"giang sơn vàng rợi\"? Nếu được vào rừng, em muốn ngắm điều gì nhất?"
+   ]
+  },
+  "sources": [
+   "https://vietjack.com/tieng-viet-5-kn/tgtp-ki-dieu-rung-xanh.jsp",
+   "https://www.vietjack.com/tieng-viet-5-kn/doc-lop-5-ket-noi-tri-thuc.jsp"
+  ],
+  "ly_do": "Bài đọc SGK Tiếng Việt 5 KNTT tập 1, ghi nguồn \"Theo Nguyễn Phan Hách\" - nhà văn mất năm 2019, tác phẩm CÒN BẢN QUYỀN (chưa quá 50 năm) nên không chép nguyên văn.",
+  "_file": "cap1b_g5_c0.json",
+  "grade": 5,
+  "_errs": [
+   "trích nguyên văn dài trong ngoặc kép(481 ký tự)"
+  ]
+ },
+ {
+  "ten_bai": "Thanh âm của gió",
+  "bo_sach": "KNTT",
+  "tac_gia": "Văn Thành Lê",
+  "kind": "companion",
+  "full_text": "",
+  "companion": {
+   "tom_tat": "Một buổi chiều đi chăn trâu bên suối, mấy bạn nhỏ rủ nhau xuống suối tắm mát. Bống nghĩ ra một trò chơi lạ: bịt tai lại rồi mở ra thật nhanh để nghe tiếng gió. Cả bọn thi nhau chơi, và thật kì lạ, mỗi người lại nghe thấy một thứ tiếng gió khác nhau - đứa nghe gió 'vui', đứa nghe gió 'cười', đứa đang đói bụng thì nghe gió kêu 'đói'. Buổi tối về nhà, các bạn kể lại cho bố nghe, bố cũng thử bịt tai rồi bật cười, nói rằng bố cũng nghe thấy tiếng gió của riêng mình.",
+   "nhan_vat": "Nhân vật chính là bạn nhỏ kể chuyện cùng nhóm bạn Bống, Điệp, Văn, Thành; ngoài ra có bố của các bạn nhỏ.",
+   "y_nghia": "Câu chuyện cho thấy trí tưởng tượng phong phú và niềm vui hồn nhiên của tuổi thơ: cùng một cơn gió nhưng mỗi người lại nghe ra một điều riêng, tuỳ theo tâm trạng của mình. Truyện cũng thật ấm áp ở chi tiết người bố sẵn sàng cùng chơi, cùng lắng nghe thế giới của con.",
+   "cau_hoi": [
+    "Trò chơi mà Bống nghĩ ra là trò chơi gì? Vì sao trò chơi ấy lại thú vị?",
+    "Vì sao mỗi bạn lại nghe thấy tiếng gió nói một điều khác nhau?",
+    "Nếu bịt tai rồi mở ra, em nghĩ mình sẽ nghe thấy gió nói gì? Vì sao?"
+   ]
+  },
+  "sources": [
+   "https://vietjack.com/tieng-viet-5-kn/doc-thanh-am-cua-gio.jsp"
+  ],
+  "ly_do": "Tác giả Văn Thành Lê là nhà văn đương đại (sinh 1986), tác phẩm còn bản quyền -> companion tự viết.",
+  "_file": "cap1b_g5_c1.json",
+  "grade": 5,
+  "_errs": [
+   "trích nguyên văn dài trong ngoặc kép(66 ký tự)"
+  ]
+ },
+ {
+  "ten_bai": "Tiếng hạt nảy mầm",
+  "bo_sach": "KNTT",
+  "tac_gia": "Tô Hà",
+  "kind": "companion",
+  "full_text": "",
+  "companion": {
+   "tom_tat": "Bài thơ vẽ lại một giờ học trong lớp của các bạn nhỏ khiếm thính. Vì các em không nghe được, cô giáo phải dùng ánh mắt, bàn tay và cả gương mặt để 'kể' cho các em nghe những âm thanh của cuộc sống: tiếng chim, tiếng lá, tiếng mẹ gọi, tiếng con tàu ngoài biển, và cả tiếng hạt đang nảy mầm trong đất. Lớp học im lặng nhưng lòng cô và các em thì đầy tiếng động của thế giới. Cuối bài, niềm vui vỡ oà khi các em bật ra được tiếng nói đầu tiên.",
+   "nhan_vat": "Cô giáo dạy lớp khiếm thính (nhân vật trung tâm) và các bạn học sinh khiếm thính trong lớp.",
+   "y_nghia": "Bài thơ ca ngợi tấm lòng yêu thương, sự kiên nhẫn và nhẫn nại của người thầy, người cô với những học trò thiệt thòi. Nhan đề 'Tiếng hạt nảy mầm' là một hình ảnh đẹp: mỗi lời cô dạy giống như hạt giống gieo xuống, âm thầm nảy mầm trong tâm hồn học trò. Bài thơ cũng nhắc chúng ta biết cảm thông và tôn trọng các bạn khuyết tật.",
+   "cau_hoi": [
+    "Lớp học trong bài thơ có gì đặc biệt? Cô giáo đã làm thế nào để các bạn nhỏ 'nghe' được?",
+    "Theo em, vì sao nhà thơ đặt tên bài là 'Tiếng hạt nảy mầm'?",
+    "Nếu lớp em có một bạn khiếm thính, em sẽ làm gì để bạn không cảm thấy lẻ loi?"
+   ]
+  },
+  "sources": [
+   "https://vietjack.com/tieng-viet-5-kn/bai-5-tieng-hat-nay-mam.jsp",
+   "https://vietjack.com/tieng-viet-5-kn/index.jsp"
+  ],
+  "ly_do": "Bài 5, SGK Tiếng Việt 5 KNTT tập 1. Tác giả Tô Hà (1939-1991) mất năm 1991, mới ~35 năm, CHƯA quá 50 năm -> thơ còn bản quyền, KHÔNG chép nguyên văn. Viết companion bằng lời riêng, hình ảnh chỉ đối chiếu qua trang soạn bài.",
+  "_file": "cap1b_g5_c2.json",
+  "grade": 5,
+  "_errs": [
+   "trích nguyên văn dài trong ngoặc kép(436 ký tự)"
+  ]
+ },
+ {
+  "ten_bai": "Đàn t'rưng – tiếng ca đại ngàn",
+  "bo_sach": "KNTT",
+  "tac_gia": "Ay Dun và Lê Tấn (bài đọc SGK ghi \"Theo Ay Dun và Lê Tấn\")",
+  "kind": "companion",
+  "full_text": "",
+  "companion": {
+   "tom_tat": "Bài đọc đưa các bạn nhỏ đến với Tây Nguyên, nơi tiếng đàn t'rưng ngân dài theo dòng suối và hoà cùng tiếng gió trên đèo núi. Tiếng đàn theo trẻ em Tây Nguyên từ lúc còn được địu trên lưng mẹ, rồi theo chân họ vào rừng kiếm củi, xuống suối lấy nước, ra nương trỉa lúa. Mùa lúa chín, trai làng trực ở chòi canh lại gõ đàn t'rưng để đuổi chim muông, thú rừng và để ấm lòng trong đêm sương lạnh. Trên những đỉnh dốc cao giữa hai buôn cũng có đàn t'rưng cho người đi đường gõ lên mà thêm vững bước. Vì thế, cùng với mái nhà rông cao vút, tiếng đàn t'rưng đã thành niềm thương, nỗi nhớ của người Tây Nguyên.",
+   "nhan_vat": "Không có nhân vật riêng: bài là một bài văn giới thiệu, nói về cây đàn t'rưng và những con người Tây Nguyên gắn bó với nó (trẻ nhỏ, trai làng canh rẫy, người đi đường qua buôn).",
+   "y_nghia": "Bài đọc giúp em hiểu một nhạc cụ dân tộc không chỉ để giải trí mà còn gắn với lao động, với đời sống và tình cảm của cả một vùng đất; từ đó thêm yêu quý và muốn giữ gìn văn hoá của các dân tộc trên đất nước mình.",
+   "cau_hoi": [
+    "Tiếng đàn t'rưng xuất hiện trong những công việc nào của người Tây Nguyên?",
+    "Vì sao ở chòi canh rẫy và trên đỉnh dốc cao giữa hai buôn lại có đàn t'rưng?",
+    "Ở quê em có nhạc cụ hay làn điệu nào gắn bó với đời sống người dân giống như đàn t'rưng không? Em hãy kể lại."
+   ]
+  },
+  "sources": [
+   "https://vietjack.com/tieng-viet-5-kn/doc-dan-trung-tieng-ca-dai-ngan.jsp",
+   "https://vietjack.com/tieng-viet-5-kn/index.jsp"
+  ],
+  "ly_do": "Bài đọc mới của SGK Kết nối tri thức lớp 5 tập 2 (Bài 13, trang 61-62), ghi nguồn \"Theo Ay Dun và Lê Tấn\" - tác giả đương đại, văn bản còn bản quyền -> không chép nguyên văn, tự viết companion. Trang soạn-bài chỉ dùng để ĐỐI CHIẾU tên tác giả và nội dung.",
+  "_file": "cap1b_g5_c3.json",
+  "grade": 5,
+  "_errs": [
+   "trích nguyên văn dài trong ngoặc kép(827 ký tự)"
+  ]
  }
 ]

@@ -1,0 +1,220 @@
+{
+ "grade": 5,
+ "chunk": 1,
+ "items": [
+  {
+   "ten_bai": "Nghệ thuật múa ba lê",
+   "bo_sach": "KNTT",
+   "tac_gia": "Tuệ Nhi (tổng hợp)",
+   "kind": "companion",
+   "full_text": "",
+   "companion": {
+    "tom_tat": "Bài đọc giới thiệu về múa ba lê - một loại hình nghệ thuật múa ra đời ở châu Âu. Ba lê thường được biểu diễn thành những vở vũ kịch lớn, nổi tiếng như Hồ thiên nga, Người đẹp ngủ trong rừng, Lọ Lem. Điều đặc biệt của ba lê là diễn viên không nói lời nào mà kể chuyện hoàn toàn bằng động tác múa, bằng những bước chân nhẹ nhàng và những vòng xoay rất khó. Để múa được như vậy, người diễn viên phải khổ luyện trong nhiều năm. Ngày nay ba lê được dạy và được yêu thích ở khắp nơi trên thế giới.",
+    "nhan_vat": "Đây là văn bản thông tin nên không có nhân vật trong truyện; đối tượng được nói tới là nghệ thuật múa ba lê và những người diễn viên ba lê.",
+    "y_nghia": "Bài đọc giúp em biết thêm một loại hình nghệ thuật đẹp của thế giới, hiểu rằng cái đẹp trên sân khấu là kết quả của quá trình rèn luyện bền bỉ, và khơi gợi ở em tình yêu, sự trân trọng đối với nghệ thuật.",
+    "cau_hoi": [
+     "Vì sao người ta nói diễn viên ba lê 'kể chuyện bằng đôi chân' mà không cần lời nói?",
+     "Theo em, vì sao muốn múa ba lê giỏi thì phải khổ luyện rất lâu?",
+     "Em thích loại hình nghệ thuật nào nhất (múa, hát, vẽ, đóng kịch...)? Hãy nói vì sao em thích."
+    ]
+   },
+   "sources": [
+    "https://vietjack.com/tieng-viet-5-kn/doc-nghe-thuat-mua-ba-le.jsp"
+   ],
+   "ly_do": "Văn bản thông tin biên soạn riêng cho SGK (ghi 'Tuệ Nhi tổng hợp'), còn bản quyền, không thuộc phạm vi công cộng -> viết companion bằng lời của mình, không chép nguyên văn."
+  },
+  {
+   "ten_bai": "Những búp chè trên cây cổ thụ",
+   "bo_sach": "KNTT",
+   "tac_gia": "Nguyễn Hương",
+   "kind": "companion",
+   "full_text": "",
+   "companion": {
+    "tom_tat": "Thào A Sùng là một cậu bạn người Mông, lúc nào cũng say sưa kể cho các bạn nghe về những cây chè cổ thụ ở Tà Xùa quê mình. Sùng buồn vì thứ chè quý ấy còn ít người biết đến. Trong cuộc thi 'Bảy sắc cầu vồng', Sùng nhận được câu hỏi về đặc sản quê hương và cậu đã kể rất say mê: búp chè to, phủ một lớp lông tơ trắng, nước pha ra uống vào thấy chát rồi ngọt dần nơi cổ họng. Sùng nói ước mơ của mình là trở thành kỹ sư nông nghiệp để chăm sóc, phát triển cây chè và đưa chè Tà Xùa đi xa. Các bạn nghe mà quên cả cuộc thi, thi nhau kể về sản vật quê mình.",
+    "nhan_vat": "Nhân vật chính là Thào A Sùng - cậu học sinh người Mông ở Tà Xùa; ngoài ra có các bạn cùng lớp của Sùng.",
+    "y_nghia": "Câu chuyện ca ngợi tình yêu quê hương và niềm tự hào về sản vật quê mình. Yêu quê hương không chỉ là nói lời hay, mà còn là ước mơ học thật giỏi để mai sau làm cho quê hương giàu đẹp hơn.",
+    "cau_hoi": [
+     "Búp chè cổ thụ ở Tà Xùa có gì đặc biệt khiến Sùng tự hào đến thế?",
+     "Ước mơ của Thào A Sùng nói lên điều gì về tình cảm của bạn ấy với quê hương?",
+     "Quê em có sản vật hay cảnh đẹp nào mà em muốn giới thiệu với các bạn? Em sẽ giới thiệu thế nào?"
+    ]
+   },
+   "sources": [
+    "https://vietjack.com/tieng-viet-5-kn/doc-nhung-bup-che-tren-cay-co-thu.jsp",
+    "https://loigiaihay.com/bai-10-nhung-bup-che-tren-cay-co-thu-trang-48-sgk-tieng-viet-lop-5-tap-2-ket-noi-tri-thuc-a165347.html"
+   ],
+   "ly_do": "Truyện của tác giả đương đại Nguyễn Hương, còn bản quyền -> companion tự viết."
+  },
+  {
+   "ten_bai": "Những con hạc giấy",
+   "bo_sach": "KNTT",
+   "tac_gia": "Theo Những mẩu chuyện lịch sử thế giới",
+   "kind": "companion",
+   "full_text": "",
+   "companion": {
+    "tom_tat": "Năm 1945, hai quả bom nguyên tử đã ném xuống hai thành phố Hi-rô-si-ma và Na-ga-xa-ki của Nhật Bản, làm hàng trăm nghìn người chết và nhiễm phóng xạ. Cô bé Xa-đa-cô khi ấy mới hai tuổi, may mắn sống sót nhưng bị nhiễm phóng xạ. Mười năm sau, em ngã bệnh và phải nằm viện. Tin vào một truyền thuyết rằng ai gấp đủ một nghìn con hạc giấy thì sẽ khỏi bệnh, Xa-đa-cô ngày ngày lặng lẽ gấp hạc. Trẻ em khắp nước Nhật biết chuyện đã gấp hạc gửi tới cho em, nhưng em vẫn không qua khỏi. Để tưởng nhớ Xa-đa-cô, người ta đã dựng một tượng đài với lời nhắn gửi về khát vọng hoà bình.",
+    "nhan_vat": "Nhân vật chính là cô bé Nhật Bản Xa-đa-cô Xa-xa-ki; bên cạnh đó là các bạn nhỏ khắp nước Nhật đã gấp hạc giấy gửi cho em.",
+    "y_nghia": "Bài đọc cho thấy chiến tranh để lại hậu quả khủng khiếp và lâu dài cho con người, nhất là trẻ em. Những con hạc giấy trở thành biểu tượng của niềm hi vọng, của tình đoàn kết và của khát vọng hoà bình trên toàn thế giới.",
+    "cau_hoi": [
+     "Vì sao Xa-đa-cô lại kiên trì gấp những con hạc giấy?",
+     "Việc trẻ em khắp nước Nhật gấp hạc gửi cho Xa-đa-cô nói lên điều gì?",
+     "Nếu được viết một dòng chữ lên tượng đài hoà bình, em sẽ viết gì?"
+    ]
+   },
+   "sources": [
+    "https://vietjack.com/tieng-viet-5-kn/tgtp-nhung-con-hac-giay.jsp",
+    "https://vndoc.com/nhung-con-hac-giay-lop-5-ket-noi-tri-thuc-323601"
+   ],
+   "ly_do": "Văn bản trích/biên dịch từ sách 'Những mẩu chuyện lịch sử thế giới', còn bản quyền -> companion tự viết, không chép nguyên văn."
+  },
+  {
+   "ten_bai": "Những hòn đảo trên vịnh Hạ Long",
+   "bo_sach": "KNTT",
+   "tac_gia": "Thi Sảnh",
+   "kind": "companion",
+   "full_text": "",
+   "companion": {
+    "tom_tat": "Bài văn tả vẻ đẹp kì lạ của hàng nghìn hòn đảo đá trên vịnh Hạ Long. Các đảo mọc lên với đủ dáng vẻ: có nơi đảo đứng thành dãy như bức tường thành, có nơi lác đác như những quân cờ, có nơi chụm lại như đoàn thuyền đánh cá. Mỗi hòn đảo lại mang một hình thù riêng nên được đặt những cái tên rất ngộ nghĩnh: hòn Gà Chọi, hòn Mái Nhà, hòn Con Cóc, hòn Ông Lã Vọng. Tác giả ví vịnh Hạ Long như một thế giới sống động đã hoá đá qua hàng triệu năm.",
+    "nhan_vat": "Đây là văn bản miêu tả nên không có nhân vật; đối tượng được miêu tả là những hòn đảo đá trên vịnh Hạ Long.",
+    "y_nghia": "Bài đọc giúp em cảm nhận vẻ đẹp độc đáo của một di sản thiên nhiên thế giới ở nước ta, đồng thời khơi dậy niềm tự hào và ý thức giữ gìn cảnh đẹp quê hương.",
+    "cau_hoi": [
+     "Những hòn đảo trên vịnh Hạ Long được sắp xếp và có hình dáng như thế nào?",
+     "Vì sao người ta đặt cho các đảo những cái tên như hòn Gà Chọi, hòn Con Cóc?",
+     "Nếu được đến thăm vịnh Hạ Long, em muốn ngắm điều gì nhất? Vì sao?"
+    ]
+   },
+   "sources": [
+    "https://vietjack.com/tieng-viet-5-kn/doc-nhung-hon-dao-tren-vinh-ha-long.jsp",
+    "https://loigiaihay.com/bai-12-nhung-hon-dao-tren-vinh-ha-long-trang-60-sgk-tieng-viet-lop-5-tap-1-ket-noi-tri-thuc-a162612.html"
+   ],
+   "ly_do": "Bài của tác giả hiện đại Thi Sảnh (nhà nghiên cứu văn hoá Quảng Ninh), tác phẩm vẫn trong thời hạn bảo hộ bản quyền, không thuộc phạm vi công cộng -> companion tự viết."
+  },
+  {
+   "ten_bai": "Những ngọn núi nóng rẫy",
+   "bo_sach": "KNTT",
+   "tac_gia": "A-ni-ta Ga-nê-ri (Anita Ganeri); Dương Kiều Hoa dịch",
+   "kind": "companion",
+   "full_text": "",
+   "companion": {
+    "tom_tat": "Bài đọc giải thích núi lửa được hình thành như thế nào. Trái Đất được ví như một củ hành khổng lồ gồm nhiều lớp: lớp vỏ ngoài cùng rắn chắc, còn bên dưới là lớp đá nóng chảy gọi là mác-ma, nóng tới khoảng 700 đến 1 300 độ C. Khi mác-ma theo các khe nứt của vỏ Trái Đất trào lên thì tạo thành núi lửa. Không phải ngọn núi lửa nào cũng giống nhau: có ngọn hình nón, có ngọn tròn trịa; có ngọn phun trào dữ dội, có ngọn chỉ lặng lẽ nhả khói và tro; thậm chí còn có cả núi lửa nằm dưới đáy biển.",
+    "nhan_vat": "Đây là văn bản thông tin khoa học nên không có nhân vật; đối tượng được nói tới là núi lửa và cấu tạo của Trái Đất.",
+    "y_nghia": "Bài đọc mở rộng hiểu biết của em về Trái Đất và các hiện tượng tự nhiên, cho thấy thiên nhiên vừa kì thú vừa mạnh mẽ, đồng thời rèn cho em cách đọc một văn bản khoa học có số liệu và hình ảnh so sánh dễ hiểu.",
+    "cau_hoi": [
+     "Vì sao tác giả lại ví Trái Đất giống như một củ hành khổng lồ?",
+     "Mác-ma là gì và nó tạo ra núi lửa bằng cách nào?",
+     "Em còn biết hiện tượng tự nhiên nào khác cũng vừa đẹp vừa nguy hiểm? Hãy kể lại."
+    ]
+   },
+   "sources": [
+    "https://vietjack.com/tieng-viet-5-kn/doc-nhung-ngon-nui-nong-ray.jsp"
+   ],
+   "ly_do": "Bài dịch từ tác giả nước ngoài A-ni-ta Ga-nê-ri (còn sống), người dịch Dương Kiều Hoa - còn bản quyền cả bản gốc lẫn bản dịch -> companion tự viết."
+  },
+  {
+   "ten_bai": "Phim hoạt hình Chú ốc sên bay",
+   "bo_sach": "KNTT",
+   "tac_gia": "",
+   "kind": "companion",
+   "full_text": "",
+   "companion": {
+    "tom_tat": "Đây không phải là một câu chuyện mà là một tờ quảng cáo phim hoạt hình 3D có tên 'Chú ốc sên bay'. Tờ quảng cáo cho biết tên phim, thể loại, thời gian và địa điểm chiếu. Nội dung phim kể về một chú ốc sên ao ước được bay; một nhà khoa học trẻ đã gắn cho chú đôi cánh để chú được đi khắp nơi khám phá thế giới. Tờ quảng cáo dùng màu sắc bắt mắt, kiểu chữ to đậm và những từ ngữ gây ấn tượng để hấp dẫn người xem.",
+    "nhan_vat": "Nhân vật được nhắc tới trong nội dung phim là chú ốc sên có ước mơ được bay và nhà khoa học trẻ đã làm cho chú đôi cánh.",
+    "y_nghia": "Bài đọc dạy em cách đọc và hiểu một văn bản quảng cáo: nhận ra thông tin được trình bày ra sao, cách dùng chữ và hình ảnh để thu hút người đọc. Câu chuyện trong phim cũng nhắn nhủ rằng ước mơ dù nhỏ bé đến đâu cũng đáng được trân trọng.",
+    "cau_hoi": [
+     "Tờ quảng cáo cho em biết những thông tin gì về bộ phim?",
+     "Theo em, điều gì trong tờ quảng cáo làm người đọc muốn đi xem phim ngay?",
+     "Nếu phải làm một tờ quảng cáo cho quyển sách em thích, em sẽ ghi những gì lên đó?"
+    ]
+   },
+   "sources": [
+    "https://vietjack.com/tieng-viet-5-kn/doc-phim-hoat-hinh-chu-oc-sen-bay.jsp"
+   ],
+   "ly_do": "Văn bản quảng cáo biên soạn riêng cho SGK (kèm hình ảnh, thiết kế), còn bản quyền NXB Giáo dục Việt Nam -> companion tự viết."
+  },
+  {
+   "ten_bai": "Sự tích chú Tễu",
+   "bo_sach": "KNTT",
+   "tac_gia": "Trần Quốc Toàn",
+   "kind": "companion",
+   "full_text": "",
+   "companion": {
+    "tom_tat": "Truyện kể về nguồn gốc của chú Tễu trong múa rối nước. Tễu là một anh chàng nhà nghèo, mặt mũi xấu xí nhưng rất mê hát. Anh tìm đến phường rối nước xin học nghề, mong được đứng sau tấm mành, giấu khuôn mặt của mình đi mà vẫn được hát, được diễn. Ông trùm phường thấy anh thật thà, có tài nên nhận dạy và giao cho anh diễn những vai vui nhộn. Ba năm trôi qua, Tễu diễn rất giỏi nhưng vẫn ao ước được đến với những sân khấu lớn hơn. Hiểu lòng anh, ông trùm cho anh đi, chỉ xin được tạc một con rối theo gương mặt anh để thay anh ở lại. Từ đó, phường rối có thêm chú Tễu - luôn tươi cười, hóm hỉnh và tốt bụng.",
+    "nhan_vat": "Nhân vật chính là anh Tễu; ngoài ra có ông trùm phường rối nước - người thầy đã nhận anh vào học nghề.",
+    "y_nghia": "Câu chuyện giải thích một cách thú vị vì sao chú Tễu lại xuất hiện trong múa rối nước - một loại hình nghệ thuật dân gian độc đáo của Việt Nam. Truyện cũng nhắn nhủ rằng vẻ đẹp thật sự nằm ở tấm lòng và tài năng, chứ không nằm ở gương mặt bên ngoài.",
+    "cau_hoi": [
+     "Vì sao lúc đầu Tễu chỉ muốn đứng sau tấm mành để diễn?",
+     "Chi tiết ông trùm tạc con rối theo gương mặt Tễu nói lên tình cảm gì của ông dành cho anh?",
+     "Em đã xem múa rối nước bao giờ chưa? Em muốn biết thêm điều gì về loại hình nghệ thuật này?"
+    ]
+   },
+   "sources": [
+    "https://vietjack.com/tieng-viet-5-kn/doc-su-tich-chu-teu.jsp"
+   ],
+   "ly_do": "Tuy đề tài dân gian nhưng bản trong SGK là bài viết của tác giả đương đại Trần Quốc Toàn (còn sống) - còn bản quyền, không thuộc phạm vi công cộng -> companion tự viết."
+  },
+  {
+   "ten_bai": "Thanh âm của gió",
+   "bo_sach": "KNTT",
+   "tac_gia": "Văn Thành Lê",
+   "kind": "companion",
+   "full_text": "",
+   "companion": {
+    "tom_tat": "Một buổi chiều đi chăn trâu bên suối, mấy bạn nhỏ rủ nhau xuống suối tắm mát. Bống nghĩ ra một trò chơi lạ: bịt tai lại rồi mở ra thật nhanh để nghe tiếng gió. Cả bọn thi nhau chơi, và thật kì lạ, mỗi người lại nghe thấy một thứ tiếng gió khác nhau - đứa nghe gió 'vui', đứa nghe gió 'cười', đứa đang đói bụng thì nghe gió kêu 'đói'. Buổi tối về nhà, các bạn kể lại cho bố nghe, bố cũng thử bịt tai rồi bật cười, nói rằng bố cũng nghe thấy tiếng gió của riêng mình.",
+    "nhan_vat": "Nhân vật chính là bạn nhỏ kể chuyện cùng nhóm bạn Bống, Điệp, Văn, Thành; ngoài ra có bố của các bạn nhỏ.",
+    "y_nghia": "Câu chuyện cho thấy trí tưởng tượng phong phú và niềm vui hồn nhiên của tuổi thơ: cùng một cơn gió nhưng mỗi người lại nghe ra một điều riêng, tuỳ theo tâm trạng của mình. Truyện cũng thật ấm áp ở chi tiết người bố sẵn sàng cùng chơi, cùng lắng nghe thế giới của con.",
+    "cau_hoi": [
+     "Trò chơi mà Bống nghĩ ra là trò chơi gì? Vì sao trò chơi ấy lại thú vị?",
+     "Vì sao mỗi bạn lại nghe thấy tiếng gió nói một điều khác nhau?",
+     "Nếu bịt tai rồi mở ra, em nghĩ mình sẽ nghe thấy gió nói gì? Vì sao?"
+    ]
+   },
+   "sources": [
+    "https://vietjack.com/tieng-viet-5-kn/doc-thanh-am-cua-gio.jsp"
+   ],
+   "ly_do": "Tác giả Văn Thành Lê là nhà văn đương đại (sinh 1986), tác phẩm còn bản quyền -> companion tự viết."
+  },
+  {
+   "ten_bai": "Thành phố thông minh Mát-xđa",
+   "bo_sach": "KNTT",
+   "tac_gia": "Lâm Anh (tổng hợp)",
+   "kind": "companion",
+   "full_text": "",
+   "companion": {
+    "tom_tat": "Bài đọc giới thiệu Mát-xđa - một thành phố được xây trên ốc đảo giữa sa mạc thuộc Các Tiểu vương quốc A-rập Thống nhất. Từ năm 2008, người ta bắt đầu xây dựng nơi đây thành thành phố đầu tiên trên thế giới không thải khí các-bô-níc. Ở Mát-xđa có những chiếc ô hình hoa hướng dương thu năng lượng mặt trời ban ngày rồi toả nhiệt để phát điện ban đêm; các toà nhà được xây chụm lại cho thoáng gió và bớt nóng; những tháp gió đón luồng gió mát trên cao đưa xuống thành phố. Thành phố có nhiều công viên, cây xanh, người dân được khuyến khích đi bộ, đi xe đạp hoặc dùng phương tiện công cộng chạy bằng năng lượng mặt trời. Mô hình này đã truyền cảm hứng cho nhiều nước khác.",
+    "nhan_vat": "Đây là văn bản thông tin nên không có nhân vật; đối tượng được nói tới là thành phố thông minh Mát-xđa và những người dân sống ở đó.",
+    "y_nghia": "Bài đọc cho em thấy con người có thể dùng khoa học và công nghệ để sống hoà hợp với thiên nhiên, tiết kiệm năng lượng và bảo vệ môi trường. Từ đó em hiểu rằng mỗi việc nhỏ như tắt điện khi không dùng, đi bộ, trồng cây... cũng là góp phần giữ gìn Trái Đất.",
+    "cau_hoi": [
+     "Những chiếc ô hình hoa hướng dương ở Mát-xđa có tác dụng gì?",
+     "Vì sao Mát-xđa được gọi là 'thành phố thông minh'?",
+     "Nếu được thiết kế một thành phố xanh cho quê em, em sẽ thêm điều gì vào đó?"
+    ]
+   },
+   "sources": [
+    "https://vietjack.com/tieng-viet-5-kn/doc-thanh-pho-thong-minh-mat-xa.jsp",
+    "https://loigiaihay.com/bai-30-thanh-pho-thong-minh-mat-xda-trang-144-sgk-tieng-viet-lop-5-tap-2-ket-noi-tri-thuc-a166530.html"
+   ],
+   "ly_do": "Văn bản thông tin biên soạn riêng cho SGK (ghi 'Lâm Anh tổng hợp'), còn bản quyền -> companion tự viết."
+  },
+  {
+   "ten_bai": "Thế giới trong trang sách",
+   "bo_sach": "KNTT",
+   "tac_gia": "Huệ Triệu",
+   "kind": "companion",
+   "full_text": "",
+   "companion": {
+    "tom_tat": "Đây là một bài thơ nói về những điều kì diệu mà trang sách mang lại. Nhà thơ mượn những hình ảnh đẹp của thiên nhiên - vì sao lấp lánh, mặt biển xanh, cầu vồng, vũ trụ bao la, dòng sông chảy về biển - để nói rằng sách mở ra cả một thế giới rộng lớn cho bạn nhỏ. Sách trả lời những câu hỏi tò mò của tuổi thơ về Trái Đất, về vũ trụ; sách thắp lên trong lòng em những ước mơ; và sách còn giữ lại cho em bài học nhân nghĩa của cha ông cùng lời ru ngọt ngào của mẹ.",
+    "nhan_vat": "Bài thơ không có nhân vật như trong truyện; người nói trong bài là bạn nhỏ đang đọc sách và khám phá thế giới qua từng trang sách.",
+    "y_nghia": "Bài thơ ca ngợi giá trị của sách: sách đem đến hiểu biết, nuôi dưỡng ước mơ và gìn giữ những điều tốt đẹp của cha ông. Bài thơ khơi dậy ở em tình yêu và thói quen đọc sách.",
+    "cau_hoi": [
+     "Nhà thơ đã dùng những hình ảnh nào để nói về thế giới trong trang sách?",
+     "Theo em, vì sao sách lại có thể 'thắp lên' những ước mơ của bạn nhỏ?",
+     "Quyển sách nào đã mở ra cho em một thế giới mới? Hãy kể cho các bạn nghe."
+    ]
+   },
+   "sources": [
+    "https://vietjack.com/tieng-viet-5-kn/doc-the-gioi-trong-trang-sach.jsp"
+   ],
+   "ly_do": "Bài thơ của nhà thơ đương đại Huệ Triệu, còn bản quyền -> companion tự viết, không chép nguyên văn thơ."
+  }
+ ]
+}
