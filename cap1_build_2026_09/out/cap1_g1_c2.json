@@ -1,0 +1,60 @@
+{
+ "grade": 1,
+ "chunk": 2,
+ "items": [
+  {
+   "ten_bai": "Không nên phá tổ chim",
+   "bo_sach": "Sách cũ",
+   "tac_gia": "Quốc văn giáo khoa thư",
+   "kind": "recite",
+   "full_text": "Thằng Sửu thấy ở trên cành cây có một tổ chim chích choè, ba con chim mới nở, thì lấy làm mừng lắm. Nó trèo lên, bắt xuống, để chơi.\n\nChị nó trông thấy, ngăn lại mà bảo nó rằng: \"Em ơi! Chớ nên bắt! Chim nó đang sung sướng thế mà em bắt nó, thì nó cực khổ biết là dường nào! Em thử nghĩ chốc nữa, mẹ nó tha mồi về, mà không thấy con, thì đau đớn thế nào. Vả những con chim con ấy mà em bắt về, thì dẫu em chăm chút nó thế nào, nếu nó không chết, thì cũng chẳng sao bằng mẹ nó săn sóc, nuôi nấng nó được. Thôi em ơi! Em đừng làm khổ nó vô ích, đem về trả mẹ nó. Sau nó lớn lên, nó bay, nó lượn, đẹp mắt em, nó kêu, nó hót, vui tai em, nó ăn sâu, ăn bọ thì hoa quả thóc lúa của nhà ta và của thiên hạ được đỡ hại.\"\n\nSửu nghe chị nói, lại đem cái tổ chim lên để vào chỗ cũ.",
+   "companion": {
+    "tom_tat": "",
+    "nhan_vat": "",
+    "y_nghia": "",
+    "cau_hoi": []
+   },
+   "sources": [
+    "https://gpcantho.com/16875-2/",
+    "https://vietbao.com/a62566/quoc-van-giao-khoa-thu-khong-nen-pha-to-chim"
+   ],
+   "ly_do": "Quoc van giao khoa thu (Tran Trong Kim - Nguyen Van Ngoc, 1935; cac tac gia deu mat tren 50 nam) => pham vi cong cong. Lay nguyen van tu trang dang lai tac pham (gpcantho.com), KHONG lay tu trang soan bai. Text lien mach, sach HTML, khong chu thich so, khong cau hoi cuoi bai."
+  },
+  {
+   "ten_bai": "Nói dối hại thân",
+   "bo_sach": "Sách cũ",
+   "tac_gia": "Lép Tôn-xtôi",
+   "kind": "recite",
+   "full_text": "Có một chú bé chăn cừu thường thả cừu gần chân núi. Một hôm thấy buồn quá, chú nghĩ ra một trò đùa cho vui. Chú giả vờ kêu toáng lên: \"Sói! Sói! Cứu tôi với!\"\n\nNghe tiếng kêu cứu, mấy bác nông dân đang làm việc gần đấy tức tốc chạy tới. Nhưng họ không thấy sói đâu. Thấy vậy, chú khoái chí lắm.\n\nMấy hôm sau, chú lại bày ra trò ấy. Các bác nông dân lại chạy tới. Rồi một hôm, sói đến thật. Chú hốt hoảng kêu gào xin cứu giúp. Các bác nông dân nghĩ là chú lại lừa mình, nên vẫn thản nhiên làm việc. Thế là sói thoả thuê ăn thịt hết cả đàn cừu.",
+   "companion": {
+    "tom_tat": "",
+    "nhan_vat": "",
+    "y_nghia": "",
+    "cau_hoi": []
+   },
+   "sources": [
+    "https://sachgiaokhoa.online/lop-1-1/ket-noi-tri-thuc-voi-cuoc-song-3/chu-de-5-bai-hoc-tu-cuoc-song-172/bai-4-chu-be-chan-cuu-275.html",
+    "https://vi.wikibooks.org/wiki/Ng%E1%BB%A5_ng%C3%B4n_Aesop/Ch%C3%BA_b%C3%A9_ch%C4%83n_c%E1%BB%ABu_v%C3%A0_con_s%C3%B3i"
+   ],
+   "ly_do": "Ngu ngon E-dop (chu be chan cuu va con soi), ban ke lai gan cho Lep Ton-xtoi (mat 1910, >50 nam) => pham vi cong cong. LUU Y: khong tim duoc ban chu SGK cu 'Noi doi hai than' tren trang dang tac pham; text nap la ban SGK Tieng Viet 1 KNTT 'Chu be chan cuu' cua CUNG truyen ngu ngon, lay tu trang dang lai SGK (sachgiaokhoa.online), khong phai trang soan bai. Noi dung khop, chi khac chut cau chu so voi ban sach cu."
+  },
+  {
+   "ten_bai": "Tặng cháu",
+   "bo_sach": "Sách cũ",
+   "tac_gia": "Hồ Chí Minh",
+   "kind": "recite",
+   "full_text": "Vở này ta tặng cháu yêu ta,\nTỏ chút lòng yêu cháu gọi là.\nMong cháu ra công mà học tập,\nMai sau cháu giúp nước non nhà.",
+   "companion": {
+    "tom_tat": "",
+    "nhan_vat": "",
+    "y_nghia": "",
+    "cau_hoi": []
+   },
+   "sources": [
+    "https://www.thivien.net/H%E1%BB%93-Ch%C3%AD-Minh/T%E1%BA%B7ng-ch%C3%A1u-N%C3%B4ng-Th%E1%BB%8B-Tr%C6%B0ng/poem-POZs7Gdo5XOtE4WPaPXA5Q",
+    "https://vi.wikisource.org/wiki/T%E1%BA%B7ng_ch%C3%A1u_N%C3%B4ng_Th%E1%BB%8B_Tr%C6%B0ng"
+   ],
+   "ly_do": "Ho Chi Minh mat 1969 (>50 nam) => pham vi cong cong; ban tho co tren Wikisource. Nguyen van 4 dong lay tu Thi Vien / Wikisource (trang dang tac pham). Giu nguyen xuong dong tho that ngon tu tuyet."
+  }
+ ]
+}

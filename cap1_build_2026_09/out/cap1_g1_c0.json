@@ -1,0 +1,129 @@
+{
+  "grade": 1,
+  "chunk": 0,
+  "items": [
+    {
+      "ten_bai": "Bác trống trường",
+      "bo_sach": "KNTT",
+      "tac_gia": "",
+      "kind": "companion",
+      "full_text": "",
+      "companion": {
+        "tom_tat": "Bài đọc kể về cái trống của trường học. Bác trống nằm ở góc sân, mỗi ngày lại cất tiếng \"tùng... tùng... tùng...\" báo cho học sinh biết giờ vào lớp, giờ ra chơi. Ngày nay nhiều trường đã có chuông điện, nhưng bác trống vẫn là người bạn thân thiết của các bạn nhỏ. Đặc biệt trong ngày khai giảng, tiếng trống của thầy hiệu trưởng vang lên báo hiệu một năm học mới bắt đầu.",
+        "nhan_vat": "Bác trống trường (được nhân hoá như một người bạn lớn tuổi của học sinh); thầy cô và các bạn học sinh.",
+        "y_nghia": "Bài giúp em thấy những đồ vật quen thuộc ở trường cũng đáng yêu và có ích. Tiếng trống nhắc em giữ đúng giờ giấc, yêu trường lớp và háo hức với ngày khai giảng.",
+        "cau_hoi": [
+          "Tiếng trống trường kêu như thế nào?",
+          "Tiếng trống báo cho các bạn học sinh biết điều gì?",
+          "Ở trường em, cái gì báo giờ vào lớp: trống hay chuông?"
+        ]
+      },
+      "sources": [
+        "https://loigiaihay.com/bai-5-bac-trong-truong-trang-56-sgk-tieng-viet-lop-1-tap-2-ket-noi-tri-thuc-voi-cuoc-song-a121399.html"
+      ],
+      "ly_do": "Văn bản viết riêng cho SGK KNTT (tập 2, trang 56), hiện đại, còn bản quyền; không tìm được nguồn xuất bản tác phẩm độc lập -> viết companion, không chép nguyên văn."
+    },
+    {
+      "ten_bai": "Bảy sắc cầu vồng",
+      "bo_sach": "KNTT",
+      "tac_gia": "Ngọc Hà",
+      "kind": "companion",
+      "full_text": "",
+      "companion": {
+        "tom_tat": "Đây là một bài thơ ngắn về cầu vồng. Bài thơ cho biết cầu vồng thường hiện ra khi trời vừa mưa lại vừa nắng. Bảy màu của cầu vồng được gọi tên bằng những hình ảnh rất gần gũi với trẻ nhỏ: đỏ như mặt trời, cam như quả đu đủ, vàng như con cá bơi, lục như lá cây, lam như đám mây, chàm như áo mẹ, tím như hoa sim. Nhờ cách so sánh đó, em dễ nhớ đủ bảy màu.",
+        "nhan_vat": "Không có nhân vật; bài thơ tả cầu vồng và bảy màu sắc của nó.",
+        "y_nghia": "Bài thơ dạy em nhận biết bảy màu của cầu vồng và thấy thiên nhiên quanh mình thật đẹp, thật kì thú.",
+        "cau_hoi": [
+          "Cầu vồng thường xuất hiện khi trời thế nào?",
+          "Em kể tên bảy màu của cầu vồng nhé?",
+          "Trong bảy màu đó, em thích màu nào nhất? Vì sao?"
+        ]
+      },
+      "sources": [
+        "https://sachgiaokhoa.online/lop-1-1/ket-noi-tri-thuc-voi-cuoc-song-3/chu-de-6-thien-nhien-ki-thu-191/bai-2-bay-sac-cau-vong-279.html"
+      ],
+      "ly_do": "Thơ của tác giả đương đại Ngọc Hà, in trong SGK KNTT TV1 tập 2 trang 108 -> còn bản quyền, không chép nguyên văn."
+    },
+    {
+      "ten_bai": "Chú bé chăn cừu",
+      "bo_sach": "KNTT",
+      "tac_gia": "Ê-dốp (Aesop)",
+      "kind": "recite",
+      "full_text": "Có một chú bé chăn cừu thường thả cừu gần chân núi. Một hôm, thấy buồn quá, chú nghĩ ra một trò đùa cho vui. Chú giả vờ kêu toáng lên:\n– Sói! Sói! Cứu tôi với!\nNghe tiếng kêu cứu, mấy bác nông dân đang làm việc gần đấy tức tốc chạy tới. Nhưng họ không thấy sói đâu. Thấy vậy, chú khoái chí lắm.\nMấy hôm sau, chú lại bày ra trò ấy. Các bác nông dân lại chạy tới. Rồi một hôm, sói đến thật. Chú hốt hoảng kêu gào xin cứu giúp. Các bác nông dân nghĩ là chú lại lừa mình, nên vẫn thản nhiên làm việc. Thế là sói thỏa thuê ăn thịt hết cả đàn cừu.",
+      "companion": {
+        "tom_tat": "",
+        "nhan_vat": "",
+        "y_nghia": "",
+        "cau_hoi": []
+      },
+      "sources": [
+        "https://sachgiaokhoa.online/lop-1-1/ket-noi-tri-thuc-voi-cuoc-song-3/chu-de-5-bai-hoc-tu-cuoc-song-172/bai-4-chu-be-chan-cuu-275.html",
+        "https://thegioicotich.vn/chu-be-chan-cuu/"
+      ],
+      "ly_do": "Truyện ngụ ngôn Ê-dốp -> phạm vi công cộng. Nguyên văn khớp 100% giữa 2 nguồn đăng tác phẩm độc lập (trang đăng SGK và trang truyện cổ tích), không phải trang soạn bài. Đã bỏ dòng ghi nguồn '(Theo Ê-dốp)' ở cuối, không có chú thích số, không lẫn câu hỏi."
+    },
+    {
+      "ten_bai": "Chúa tể rừng xanh",
+      "bo_sach": "KNTT",
+      "tac_gia": "Theo Từ điển tranh về các con vật",
+      "kind": "companion",
+      "full_text": "",
+      "companion": {
+        "tom_tat": "Bài đọc giới thiệu về con hổ - loài vật được gọi là chúa tể rừng xanh. Hổ có bộ lông vàng với những vằn đen, hàm răng sắc nhọn và đôi mắt nhìn rõ trong đêm tối. Bốn chân hổ chắc khoẻ, có vuốt sắc, còn cái đuôi dài và cứng. Hổ chạy nhanh, nhảy xa và săn mồi rất giỏi nên các con vật khác trong rừng đều sợ.",
+        "nhan_vat": "Con hổ - loài vật được nói tới trong bài.",
+        "y_nghia": "Bài giúp em biết thêm về một loài vật hoang dã của rừng Việt Nam, hiểu vì sao hổ được gọi là chúa tể rừng xanh, và thêm tò mò khám phá thế giới loài vật.",
+        "cau_hoi": [
+          "Con vật nào được gọi là chúa tể rừng xanh?",
+          "Bộ lông của hổ có màu gì?",
+          "Vì sao các con vật trong rừng lại sợ hổ?"
+        ]
+      },
+      "sources": [
+        "https://sachgiaokhoa.online/lop-1-1/ket-noi-tri-thuc-voi-cuoc-song-3/chu-de-6-thien-nhien-ki-thu-191/bai-3-chua-te-rung-xanh-280.html"
+      ],
+      "ly_do": "Văn bản thông tin trích 'Từ điển tranh về các con vật' (SGK KNTT TV1 tập 2 trang 110) -> tác phẩm biên soạn hiện đại, còn bản quyền."
+    },
+    {
+      "ten_bai": "Cuộc thi tài năng rừng xanh",
+      "bo_sach": "KNTT",
+      "tac_gia": "Lâm Anh",
+      "kind": "companion",
+      "full_text": "",
+      "companion": {
+        "tom_tat": "Câu chuyện kể về một cuộc thi tài năng của các con vật trong rừng. Mỗi con mang đến một tiết mục riêng: chim yểng bắt chước tiếng của một số loài vật, mèo rừng hát bài 'ngoao ngoao', gõ kiến khoét được cái tổ xinh xắn, chim công múa một điệu múa tuyệt đẹp, còn voọc xám thì biểu diễn màn đu cây điêu luyện. Cuối cùng, các con vật đều xứng đáng nhận phần thưởng.",
+        "nhan_vat": "Chim yểng, mèo rừng, gõ kiến, chim công, voọc xám.",
+        "y_nghia": "Mỗi bạn đều có một tài năng riêng. Câu chuyện nhắc em biết trân trọng khả năng của mình và vui mừng trước tài năng của bạn bè.",
+        "cau_hoi": [
+          "Trong cuộc thi có những con vật nào tham gia?",
+          "Chim công đã biểu diễn tiết mục gì?",
+          "Nếu được dự thi tài năng ở lớp, em sẽ biểu diễn tiết mục gì?"
+        ]
+      },
+      "sources": [
+        "https://sachgiaokhoa.online/lop-1-1/ket-noi-tri-thuc-voi-cuoc-song-3/chu-de-6-thien-nhien-ki-thu-191/bai-4-cuoc-thi-tai-nang-rung-xanh-297.html"
+      ],
+      "ly_do": "Truyện của tác giả đương đại Lâm Anh, SGK KNTT TV1 tập 2 trang 114 -> còn bản quyền."
+    },
+    {
+      "ten_bai": "Cây liễu dẻo dai",
+      "bo_sach": "KNTT",
+      "tac_gia": "Hải An",
+      "kind": "companion",
+      "full_text": "",
+      "companion": {
+        "tom_tat": "Một hôm gió to, bạn Nam thấy cây liễu lắc lư liên tục nên lo cây sẽ bị gãy và hỏi mẹ. Mẹ giải thích rằng thân cây liễu tuy không to nhưng rất dẻo dai, cành liễu mềm mại nên chuyển động theo chiều gió, vì thế cây không dễ bị gãy. Mẹ còn cho Nam biết liễu là loài cây dễ trồng: chỉ cần cắm một cành xuống đất là nó nhanh chóng mọc lên thành cây non.",
+        "nhan_vat": "Bạn Nam và mẹ của Nam; cây liễu.",
+        "y_nghia": "Bài cho em biết một điều thú vị về cây cối: mềm dẻo, biết uốn theo gió lại là cách để không bị gãy. Đó cũng là bài học về sự dẻo dai, kiên cường trước khó khăn.",
+        "cau_hoi": [
+          "Vì sao Nam lo cây liễu bị gãy?",
+          "Mẹ giải thích vì sao cây liễu không gãy khi gió to?",
+          "Muốn trồng một cây liễu mới thì làm thế nào?"
+        ]
+      },
+      "sources": [
+        "https://sachgiaokhoa.online/lop-1-1/ket-noi-tri-thuc-voi-cuoc-song-3/chu-de-6-thien-nhien-ki-thu-191/bai-5-cay-lieu-deo-dai-298.html"
+      ],
+      "ly_do": "Văn bản của tác giả đương đại Hải An, SGK KNTT TV1 tập 2 trang 118 -> còn bản quyền."
+    }
+  ]
+}

@@ -1,0 +1,432 @@
+bo_sach	lop	mon	ten_bai	tac_gia	rag_kind	rag_len	latency_s
+KNTT	Lớp 1	Tiếng Việt	Đôi tai xấu xí		MISS	215	2.6
+KNTT	Lớp 1	Tiếng Việt	Bạn của gió		RECITE(json)	934	1.7
+KNTT	Lớp 1	Tiếng Việt	Giải thưởng tình bạn		MISS	221	2.6
+KNTT	Lớp 1	Tiếng Việt	Sinh nhật của voi con		RECITE(json)	690	3.3
+KNTT	Lớp 1	Tiếng Việt	Nụ hôn trên bàn tay		MISS	220	4.4
+KNTT	Lớp 1	Tiếng Việt	Cả nhà đi chơi núi		MISS	219	4.5
+KNTT	Lớp 1	Tiếng Việt	Đi học		RECITE(json)	632	4.6
+KNTT	Lớp 1	Tiếng Việt	Cây bàng và lớp học		MISS	220	3.6
+KNTT	Lớp 1	Tiếng Việt	Bác trống trường		MISS	217	3.6
+KNTT	Lớp 1	Tiếng Việt	Nếu không may bị lạc		MISS	221	4.3
+KNTT	Lớp 1	Tiếng Việt	Đèn giao thông		MISS	215	3.6
+KNTT	Lớp 1	Tiếng Việt	Kiến và chim bồ câu		MISS	220	4.3
+KNTT	Lớp 1	Tiếng Việt	Câu chuyện của rễ		MISS	218	4.9
+KNTT	Lớp 1	Tiếng Việt	Câu hỏi của sói		MISS	216	5.3
+KNTT	Lớp 1	Tiếng Việt	Chú bé chăn cừu		MISS	216	5.2
+KNTT	Lớp 1	Tiếng Việt	Loài chim của biển cả		RECITE(json)	6589	6.2
+KNTT	Lớp 1	Tiếng Việt	Bảy sắc cầu vồng		MISS	217	5.9
+KNTT	Lớp 1	Tiếng Việt	Chúa tể rừng xanh		MISS	218	6.0
+KNTT	Lớp 1	Tiếng Việt	Cuộc thi tài năng rừng xanh		MISS	228	6.4
+KNTT	Lớp 1	Tiếng Việt	Cây liễu dẻo dai		MISS	217	6.5
+KNTT	Lớp 1	Tiếng Việt	Tia nắng đi đâu?		MISS	217	6.5
+KNTT	Lớp 1	Tiếng Việt	Trong giấc mơ buổi sáng		MISS	224	6.9
+KNTT	Lớp 1	Tiếng Việt	Những cánh cò		RECITE(json)	625	5.7
+KNTT	Lớp 1	Tiếng Việt	Lớn lên bạn làm gì?		MISS	220	4.9
+KNTT	Lớp 1	Tiếng Việt	Du lịch biển Việt Nam		RECITE(json)	653	6.5
+KNTT	Lớp 10	Ngữ văn	Chữ người tử tù	Nguyễn Tuân	RECITE(json)	13468	6.0
+KNTT	Lớp 10	Ngữ văn	Chùm thơ hai-cư (haiku) Nhật Bản		MISS	233	5.9
+KNTT	Lớp 10	Ngữ văn	Truyện về các vị thần sáng tạo thế giới	Thần thoại Việt Nam	RECITE(json)	6827	13.2
+KNTT	Lớp 10	Ngữ văn	Tê-dê	Ê-đi Ha-min-tơn kể	RECITE(json)	9729	9.0
+KNTT	Lớp 10	Ngữ văn	Thế giới mạng & tôi	Nguyễn Thị Hậu	RECITE(json)	3513	8.3
+KNTT	Lớp 10	Ngữ văn	Múa rối nước – hiện đại soi bóng tiền nhân	Phạm Thuỳ Dung	RECITE(json)	4224	2.2
+KNTT	Lớp 10	Ngữ văn	Người cầm quyền khôi phục uy quyền	Víchto Huy-gô	MISS	233	2.7
+KNTT	Lớp 10	Ngữ văn	Nghệ thuật truyền thống của người Việt	Nguyễn Văn Huyên	RECITE(json)	9315	3.3
+KNTT	Lớp 11	Ngữ văn	Chí Phèo	Nam Cao	RECITE(json)	25717	2.9
+KNTT	Lớp 11	Ngữ văn	Cầu hiền chiếu	Ngô Thì Nhậm	MISS	215	2.1
+KNTT	Lớp 11	Ngữ văn	Một thời đại trong thi ca	Hoài Thanh	RECITE(json)	6192	4.4
+KNTT	Lớp 11	Ngữ văn	Prô-mê-tê bị xiềng	Ét-sin	MISS	220	2.4
+KNTT	Lớp 11	Ngữ văn	Ai đã đặt tên cho dòng sông?	Hoàng Phủ Ngọc Tường	RECITE(json)	12564	3.8
+KNTT	Lớp 11	Ngữ văn	Cà Mau quê xứ	Trần Tuấn	RECITE(json)	10194	6.5
+KNTT	Lớp 11	Ngữ văn	Nữ phóng viên đầu tiên	Trần Nhật Vy	RECITE(json)	7278	7.3
+KNTT	Lớp 11	Ngữ văn	Ca nhạc ở Miệt Vườn	Sơn Nam	RECITE(json)	7433	3.1
+KNTT	Lớp 12	Ngữ văn	Nỗi buồn chiến tranh	Bảo Ninh	RECITE(json)	11808	3.9
+KNTT	Lớp 12	Ngữ văn	Nhìn về vốn văn hoá dân tộc	Trần Đình Hượu	RECITE(json)	6169	4.4
+KNTT	Lớp 12	Ngữ văn	Cảm hứng và sáng tạo	Nguyễn Trần Bạt	MISS	221	3.7
+KNTT	Lớp 12	Ngữ văn	Năng lực sáng tạo	Phan Đình Diệu	RECITE(json)	7693	5.4
+KNTT	Lớp 12	Ngữ văn	Hải khẩu linh từ – Đền thiêng cửa bể	Đoàn Thị Điểm	MISS	237	2.7
+KNTT	Lớp 12	Ngữ văn	Muối của rừng	Nguyễn Huy Thiệp	RECITE(json)	15413	3.4
+KNTT	Lớp 12	Ngữ văn	Vọng nguyệt	Hồ Chí Minh	MISS	212	2.7
+KNTT	Lớp 12	Ngữ văn	Nghệ thuật băm thịt gà	Ngô Tất Tố	RECITE(json)	8741	2.7
+KNTT	Lớp 12	Ngữ văn	Vĩ tuyến 17	Xuân Phượng	RECITE(json)	8727	4.8
+KNTT	Lớp 12	Ngữ văn	Sách thay đổi lịch sử loài người	Vũ Đức Liêm	RECITE(json)	7081	4.0
+KNTT	Lớp 12	Ngữ văn	Hồn Trương Ba, da hàng thịt	Lưu Quang Vũ	RECITE(json)	25126	3.8
+KNTT	Lớp 12	Ngữ văn	Khúc đồng quê	Đặng Thị Hạnh	RECITE(json)	6353	5.0
+KNTT	Lớp 2	Tiếng Việt	Niềm vui của Bi và Bống		MISS	224	5.0
+KNTT	Lớp 2	Tiếng Việt	Làm việc thật là vui		MISS	221	4.8
+KNTT	Lớp 2	Tiếng Việt	Em có xinh không?		MISS	218	5.3
+KNTT	Lớp 2	Tiếng Việt	Một giờ học		MISS	212	3.9
+KNTT	Lớp 2	Tiếng Việt	Cây xấu hổ		MISS	211	4.6
+KNTT	Lớp 2	Tiếng Việt	Cầu thủ dự bị		MISS	214	5.8
+KNTT	Lớp 2	Tiếng Việt	Thời khoá biểu		MISS	215	5.7
+KNTT	Lớp 2	Tiếng Việt	Cuốn sách của em		RECITE(json)	7759	5.2
+KNTT	Lớp 2	Tiếng Việt	Tớ nhớ cậu		RECITE(json)	795	5.7
+KNTT	Lớp 2	Tiếng Việt	Nhím nâu kết bạn		MISS	217	5.1
+KNTT	Lớp 2	Tiếng Việt	Thả diều		MISS	209	6.0
+KNTT	Lớp 2	Tiếng Việt	Tớ là lê-gô		MISS	212	5.6
+KNTT	Lớp 2	Tiếng Việt	Rồng rắn lên mây		MISS	217	6.3
+KNTT	Lớp 2	Tiếng Việt	Sự tích hoa tỉ muội		MISS	220	5.5
+KNTT	Lớp 2	Tiếng Việt	Em mang về yêu thương		RECITE(json)	1247	5.7
+KNTT	Lớp 2	Tiếng Việt	Trò chơi của bố		RECITE(json)	2784	5.3
+KNTT	Lớp 2	Tiếng Việt	Thương ông		MISS	211	4.7
+KNTT	Lớp 2	Tiếng Việt	Ánh sáng của yêu thương		RECITE(json)	16245	5.1
+KNTT	Lớp 2	Tiếng Việt	Chơi chong chóng		MISS	217	6.3
+KNTT	Lớp 2	Tiếng Việt	Chuyện bốn mùa		MISS	215	6.2
+KNTT	Lớp 2	Tiếng Việt	Mùa nước nổi		RECITE(json)	4954	7.3
+KNTT	Lớp 2	Tiếng Việt	Hoạ mi hót		MISS	211	6.7
+KNTT	Lớp 2	Tiếng Việt	Tết đến rồi		MISS	212	6.5
+KNTT	Lớp 2	Tiếng Việt	Mùa vàng		RECITE(json)	648	7.8
+KNTT	Lớp 2	Tiếng Việt	Vè chim		MISS	208	5.6
+KNTT	Lớp 2	Tiếng Việt	Khủng long		MISS	211	5.8
+KNTT	Lớp 2	Tiếng Việt	Sự tích cây thì là		MISS	219	5.3
+KNTT	Lớp 2	Tiếng Việt	Tiếng chổi tre		RECITE(json)	241	5.3
+KNTT	Lớp 2	Tiếng Việt	Cỏ non cười rồi		MISS	212	5.5
+KNTT	Lớp 2	Tiếng Việt	Những con sao biển		MISS	219	6.1
+KNTT	Lớp 2	Tiếng Việt	Tạm biệt cánh cam		MISS	218	6.8
+KNTT	Lớp 2	Tiếng Việt	Những cách chào độc đáo		MISS	224	6.6
+KNTT	Lớp 2	Tiếng Việt	Thư viện biết đi		MISS	217	6.5
+KNTT	Lớp 2	Tiếng Việt	Cảm ơn anh hà mã		MISS	217	7.1
+KNTT	Lớp 2	Tiếng Việt	Từ chú bồ câu đến in-tơ-nét		MISS	227	7.9
+KNTT	Lớp 2	Tiếng Việt	Mai An Tiêm		MISS	212	7.6
+KNTT	Lớp 2	Tiếng Việt	Bóp nát quả cam		MISS	216	7.4
+KNTT	Lớp 2	Tiếng Việt	Chiếc rễ đa tròn		MISS	217	6.4
+KNTT	Lớp 2	Tiếng Việt	Đất nước chúng mình		MISS	220	6.6
+KNTT	Lớp 2	Tiếng Việt	Trên các miền đất nước		MISS	223	6.7
+KNTT	Lớp 2	Tiếng Việt	Chuyện quả bầu		MISS	215	7.5
+KNTT	Lớp 2	Tiếng Việt	Khám phá đáy biển ở Trường Sa		MISS	230	5.9
+KNTT	Lớp 3	Tiếng Việt	Ngày gặp lại		MISS	213	7.3
+KNTT	Lớp 3	Tiếng Việt	Cánh rừng trong nắng		MISS	221	5.8
+KNTT	Lớp 3	Tiếng Việt	Lần đầu ra biển		MISS	216	5.9
+KNTT	Lớp 3	Tiếng Việt	Tập nấu ăn		MISS	211	5.4
+KNTT	Lớp 3	Tiếng Việt	Cuộc họp của chữ viết		MISS	222	4.0
+KNTT	Lớp 3	Tiếng Việt	Món quà đặc biệt		MISS	217	4.8
+KNTT	Lớp 3	Tiếng Việt	Trò chuyện cùng mẹ		MISS	219	3.9
+KNTT	Lớp 3	Tiếng Việt	Để cháu nắm tay ông		RECITE(json)	925	5.3
+KNTT	Lớp 3	Tiếng Việt	Bạn nhỏ trong nhà		MISS	218	4.1
+KNTT	Lớp 3	Tiếng Việt	Những bậc đá chạm mây		MISS	222	4.1
+KNTT	Lớp 3	Tiếng Việt	Cây bút thần		MISS	213	2.7
+KNTT	Lớp 3	Tiếng Việt	Những cái tên đáng yêu		MISS	223	3.4
+KNTT	Lớp 3	Tiếng Việt	Cây gạo		MISS	208	3.1
+KNTT	Lớp 3	Tiếng Việt	Bầy voi rừng Trường Sơn		MISS	224	5.0
+KNTT	Lớp 3	Tiếng Việt	Lời kêu gọi toàn dân tập thể dục		MISS	233	5.3
+KNTT	Lớp 3	Tiếng Việt	Quả hồng của thỏ con		RECITE(json)	7466	4.7
+KNTT	Lớp 3	Tiếng Việt	Ngày như thế nào là đẹp?		MISS	225	6.5
+KNTT	Lớp 3	Tiếng Việt	Núi quê tôi		MISS	212	3.6
+KNTT	Lớp 3	Tiếng Việt	Sự tích ông Đùng, bà Đùng		MISS	225	3.9
+KNTT	Lớp 3	Tiếng Việt	Sông Hương		RECITE(json)	1294	7.2
+KNTT	Lớp 3	Tiếng Việt	Cùng Bác qua suối		MISS	218	4.3
+KNTT	Lớp 3	Tiếng Việt	Ngọn lửa Ô-lim-pích		MISS	220	4.5
+KNTT	Lớp 3	Tiếng Việt	Rô-bốt ở quanh ta		RECITE(json)	388	4.6
+KNTT	Lớp 3	Tiếng Việt	Thư của ông Trái Đất gửi các bạn nhỏ		RECITE(json)	831	4.8
+KNTT	Lớp 3	Tiếng Việt	Những điều nhỏ tớ làm cho Trái Đất		MISS	235	6.5
+KNTT	Lớp 3	Tiếng Việt	Bác sĩ Y-éc-xanh		RECITE(json)	1632	8.5
+KNTT	Lớp 4	Tiếng Việt	Thi nhạc		MISS	209	5.8
+KNTT	Lớp 4	Tiếng Việt	Anh em sinh đôi		MISS	216	6.1
+KNTT	Lớp 4	Tiếng Việt	Công chúa và người dẫn chuyện		MISS	230	5.5
+KNTT	Lớp 4	Tiếng Việt	Thần lằn xanh và tắc kè		MISS	224	4.6
+KNTT	Lớp 4	Tiếng Việt	Nghệ sĩ trống		MISS	214	5.6
+KNTT	Lớp 4	Tiếng Việt	Những bức chân dung		MISS	220	6.3
+KNTT	Lớp 4	Tiếng Việt	Con vẹt xanh		MISS	213	7.1
+KNTT	Lớp 4	Tiếng Việt	Chân trời cuối phố		MISS	219	7.1
+KNTT	Lớp 4	Tiếng Việt	Gặt chữ trên non		MISS	217	3.8
+KNTT	Lớp 4	Tiếng Việt	Trước ngày xa quê		MISS	218	4.0
+KNTT	Lớp 4	Tiếng Việt	Vẽ màu		MISS	207	4.2
+KNTT	Lớp 4	Tiếng Việt	Thanh âm của núi		MISS	217	5.0
+KNTT	Lớp 4	Tiếng Việt	Đồng cỏ nở hoa		RECITE(json)	786	5.7
+KNTT	Lớp 4	Tiếng Việt	Làm thỏ con bằng giấy		MISS	222	6.3
+KNTT	Lớp 4	Tiếng Việt	Bức tường có nhiều phép lạ		MISS	227	6.6
+KNTT	Lớp 4	Tiếng Việt	Bét-tô-ven và bản xô-nát Ánh trăng		MISS	235	7.6
+KNTT	Lớp 4	Tiếng Việt	Bay cùng ước mơ		MISS	216	7.3
+KNTT	Lớp 4	Tiếng Việt	Con trai người làm vườn		MISS	224	6.1
+KNTT	Lớp 4	Tiếng Việt	Nếu em có một khu vườn		MISS	223	6.1
+KNTT	Lớp 4	Tiếng Việt	Bốn mùa mơ ước		MISS	215	6.1
+KNTT	Lớp 4	Tiếng Việt	Cánh chim nhỏ		MISS	214	5.7
+KNTT	Lớp 4	Tiếng Việt	Anh Ba		RECITE(json)	3605	5.8
+KNTT	Lớp 4	Tiếng Việt	Ở vương quốc Tương Lai		RECITE(json)	3183	9.4
+KNTT	Lớp 4	Tiếng Việt	Hải Thượng Lãn Ông		MISS	219	6.8
+KNTT	Lớp 4	Tiếng Việt	Vệt phấn trên mặt bàn		MISS	222	7.0
+KNTT	Lớp 4	Tiếng Việt	Ông Bụt đã đến		MISS	215	5.9
+KNTT	Lớp 4	Tiếng Việt	Tờ báo tường của tôi		MISS	221	5.8
+KNTT	Lớp 4	Tiếng Việt	Trên khóm tre đầu ngõ		MISS	222	6.0
+KNTT	Lớp 4	Tiếng Việt	Cảm xúc Trường Sa		MISS	218	6.1
+KNTT	Lớp 4	Tiếng Việt	Sự tích con Rồng cháu Tiên		MISS	227	9.3
+KNTT	Lớp 4	Tiếng Việt	Chàng trai làng Phù Ủng		MISS	224	5.8
+KNTT	Lớp 4	Tiếng Việt	Ngựa biên phòng		MISS	216	5.1
+KNTT	Lớp 4	Tiếng Việt	Cây đa quê hương		MISS	217	6.1
+KNTT	Lớp 4	Tiếng Việt	Bước mùa xuân		MISS	217	3.7
+KNTT	Lớp 4	Tiếng Việt	Đi hội Chùa Hương		MISS	218	4.6
+KNTT	Lớp 4	Tiếng Việt	Chiều ngoại ô		MISS	214	4.6
+KNTT	Lớp 4	Tiếng Việt	Cái cầu		MISS	208	5.5
+KNTT	Lớp 4	Tiếng Việt	Khu bảo tồn động vật hoang dã Ngô-rông-gô-rô		MISS	241	5.4
+KNTT	Lớp 4	Tiếng Việt	Băng tan		MISS	209	4.6
+KNTT	Lớp 4	Tiếng Việt	Chuyến du lịch thú vị		MISS	222	5.4
+KNTT	Lớp 4	Tiếng Việt	Lễ hội ở Nhật Bản		MISS	218	6.2
+KNTT	Lớp 5	Tiếng Việt	Thanh âm của gió		MISS	217	5.5
+KNTT	Lớp 5	Tiếng Việt	Tiếng hạt nảy mầm		MISS	218	5.4
+KNTT	Lớp 5	Tiếng Việt	Ngôi sao sân cỏ		RECITE(json)	1394	6.6
+KNTT	Lớp 5	Tiếng Việt	Bộ sưu tập độc đáo		MISS	219	6.5
+KNTT	Lớp 5	Tiếng Việt	Hành tinh kì lạ		MISS	216	4.5
+KNTT	Lớp 5	Tiếng Việt	Kì diệu rừng xanh		MISS	218	5.6
+KNTT	Lớp 5	Tiếng Việt	Hang Sơn Đoòng – những điều kì thú		MISS	235	5.1
+KNTT	Lớp 5	Tiếng Việt	Những hòn đảo trên vịnh Hạ Long		MISS	232	6.0
+KNTT	Lớp 5	Tiếng Việt	Những ngọn núi nóng rẫy		MISS	224	7.0
+KNTT	Lớp 5	Tiếng Việt	Bài ca về mặt trời		MISS	219	6.1
+KNTT	Lớp 5	Tiếng Việt	Xin chào, Xa-ha-ra		MISS	219	6.8
+KNTT	Lớp 5	Tiếng Việt	Tấm gương tự học		MISS	217	6.9
+KNTT	Lớp 5	Tiếng Việt	Trải nghiệm để sáng tạo		MISS	224	7.3
+KNTT	Lớp 5	Tiếng Việt	Thế giới trong trang sách		MISS	226	7.2
+KNTT	Lớp 5	Tiếng Việt	Từ những câu chuyện ấu thơ		MISS	227	7.7
+KNTT	Lớp 5	Tiếng Việt	Giới thiệu sách Dế Mèn phiêu lưu kí		MISS	236	6.1
+KNTT	Lớp 5	Tiếng Việt	Tinh thần học tập của nhà Phi-lít		MISS	234	5.7
+KNTT	Lớp 5	Tiếng Việt	Tập hát quan họ		MISS	216	6.4
+KNTT	Lớp 5	Tiếng Việt	Phim hoạt hình Chú ốc sên bay		MISS	230	7.0
+KNTT	Lớp 5	Tiếng Việt	Nghệ thuật múa ba lê		MISS	221	6.5
+KNTT	Lớp 5	Tiếng Việt	Một ngôi chùa độc đáo		MISS	222	5.0
+KNTT	Lớp 5	Tiếng Việt	Sự tích chú Tễu		MISS	216	5.5
+KNTT	Lớp 5	Tiếng Việt	Tiếng hát của người đá		RECITE(json)	4368	4.3
+KNTT	Lớp 5	Tiếng Việt	Giỏ hoa tháng Năm		MISS	218	6.0
+KNTT	Lớp 5	Tiếng Việt	Khu rừng của Mát		RECITE(json)	218	3.5
+KNTT	Lớp 5	Tiếng Việt	Những búp chè trên cây cổ thụ		MISS	230	5.4
+KNTT	Lớp 5	Tiếng Việt	Vũ điệu trên nền thổ cẩm		MISS	225	5.2
+KNTT	Lớp 5	Tiếng Việt	Đàn t'rưng – tiếng ca đại ngàn		MISS	231	7.0
+KNTT	Lớp 5	Tiếng Việt	Xuồng ba lá quê tôi		RECITE(json)	1073	5.6
+KNTT	Lớp 5	Tiếng Việt	Về thăm Đất Mũi		MISS	216	4.4
+KNTT	Lớp 5	Tiếng Việt	Người thầy của muôn đời		RECITE(json)	13774	5.8
+KNTT	Lớp 5	Tiếng Việt	Nghìn năm văn hiến		RECITE(json)	845	7.5
+KNTT	Lớp 5	Tiếng Việt	Danh y Tuệ Tĩnh		MISS	216	5.3
+KNTT	Lớp 5	Tiếng Việt	Cụ Đồ Chiểu		MISS	212	5.7
+KNTT	Lớp 5	Tiếng Việt	Những con hạc giấy		MISS	219	6.2
+KNTT	Lớp 5	Tiếng Việt	Điện thoại di động		MISS	219	4.3
+KNTT	Lớp 5	Tiếng Việt	Thành phố thông minh Mát-xđa		MISS	229	4.6
+KNTT	Lớp 6	Ngữ văn	Chuyện cổ tích về loài người	Xuân Quỳnh	RECITE(json)	4020	10.4
+KNTT	Lớp 6	Ngữ văn	Gió lạnh đầu mùa	Thạch Lam	RECITE(json)	8512	3.1
+KNTT	Lớp 6	Ngữ văn	Lắc-ki thực sự may mắn	Lu-i Xe-pun-ve-da	MISS	222	2.9
+KNTT	Lớp 6	Ngữ văn	Nghìn năm tháp Khương Mỹ	Lam Linh	MISS	225	2.9
+KNTT	Lớp 6	Ngữ văn	Hang Én	Hà My	RECITE(json)	5716	5.4
+KNTT	Lớp 6	Ngữ văn	Ai ơi mồng 9 tháng 4	Anh Thư	RECITE(json)	3192	2.3
+KNTT	Lớp 6	Ngữ văn	Xem người ta kìa!	Lạc Thanh	RECITE(json)	210	2.1
+KNTT	Lớp 6	Ngữ văn	Thạch Sanh		RECITE(json)	7998	9.8
+KNTT	Lớp 6	Ngữ văn	Hai loại khác biệt	Giong-mi Mun	RECITE(json)	5252	2.0
+KNTT	Lớp 6	Ngữ văn	Tiếng cười không muốn nghe	Minh Đăng	MISS	227	3.0
+KNTT	Lớp 6	Ngữ văn	Sinh vật trên Trái Đất được hình thành như thế nào?	Nguyễn Quang Riệu	COMPANION	1209	2.4
+KNTT	Lớp 6	Ngữ văn	Sọ Dừa		RECITE(json)	5737	22.2
+KNTT	Lớp 7	Ngữ văn	Bầy chim chìa vôi	Nguyễn Quang Thiều	RECITE(json)	10199	3.7
+KNTT	Lớp 7	Ngữ văn	Đi lấy mật	Đoàn Giỏi	RECITE(json)	11164	2.7
+KNTT	Lớp 7	Ngữ văn	Ngôi nhà trên cây	Cư-rô-ya-na-gi Tê-sư-cô	MISS	218	3.0
+KNTT	Lớp 7	Ngữ văn	Trở gió	Nguyễn Ngọc Tư	RECITE(json)	3912	2.5
+KNTT	Lớp 7	Ngữ văn	Chiều sông Thương	Hữu Thỉnh	RECITE(json)	1294	3.1
+KNTT	Lớp 7	Ngữ văn	"Bài thơ ""Đường núi"" của Nguyễn Đình Thi"	Vũ Quần Phương	RECITE(json)	2811	5.4
+KNTT	Lớp 7	Ngữ văn	Tháng Giêng, mơ về trăng non rét ngọt	Vũ Bằng	RECITE(json)	1642	3.2
+KNTT	Lớp 7	Ngữ văn	Chuyện cơm hến	Hoàng Phủ Ngọc Tường	RECITE(json)	7070	2.8
+KNTT	Lớp 7	Ngữ văn	Hội lồng tồng	Trần Quốc Vượng – Lê Văn Hảo – Dương Tất Từ	RECITE(json)	5421	2.7
+KNTT	Lớp 7	Ngữ văn	Những khuôn cửa dấu yêu	Trương Anh Ngọc	MISS	224	3.9
+KNTT	Lớp 7	Ngữ văn	Thiên nga, cá măng và tôm hùm	I-van Crư-lốp	MISS	230	2.6
+KNTT	Lớp 7	Ngữ văn	Đường vào trung tâm vũ trụ	Hà Thuỷ Nguyên	RECITE(json)	13049	5.9
+KNTT	Lớp 7	Ngữ văn	Chiếc đũa thần	I. A. E-phơ-rê-mốp	MISS	215	4.6
+KNTT	Lớp 7	Ngữ văn	Dấu ấn Hồ Khanh	Nhật Văn	RECITE(json)	5778	7.2
+KNTT	Lớp 7	Ngữ văn	Câu chuyện về con đường	Đoàn Công Lê Huy	MISS	224	2.3
+KNTT	Lớp 7	Ngữ văn	Thuỷ tiên tháng Một	Thô-mát L. Phrít-man	RECITE(json)	6552	4.6
+KNTT	Lớp 7	Ngữ văn	Thân thiện với môi trường	Nguyễn Hữu Quỳnh Hương	MISS	226	4.9
+KNTT	Lớp 7	Ngữ văn	Lễ rửa làng của người Lô Lô	Phạm Thuỳ Dung	RECITE(json)	4507	9.0
+KNTT	Lớp 8	Ngữ văn	Lá cờ thêu sáu chữ vàng	Nguyễn Huy Tưởng	RECITE(json)	9712	6.2
+KNTT	Lớp 8	Ngữ văn	Minh sư	Thái Bá Lợi	MISS	208	2.2
+KNTT	Lớp 8	Ngữ văn	Ca Huế trên sông Hương	Hà Ánh Minh	RECITE(json)	3594	2.9
+KNTT	Lớp 8	Ngữ văn	Giá không có ruồi!	A-dít Ne-xin	MISS	223	3.7
+KNTT	Lớp 8	Ngữ văn	Lặng lẽ Sa Pa	Nguyễn Thành Long	RECITE(json)	19420	3.5
+KNTT	Lớp 8	Ngữ văn	Chiếc lá cuối cùng	O. Hen-ry	RECITE(json)	5601	2.6
+KNTT	Lớp 8	Ngữ văn	Những ngôi sao xa xôi	Lê Minh Khuê	RECITE(json)	13177	2.5
+KNTT	Lớp 8	Ngữ văn	Nhà thơ của quê hương làng cảnh Việt Nam	Xuân Diệu	RECITE(json)	8660	4.9
+KNTT	Lớp 8	Ngữ văn	Xe đêm	Côn-xtan-tin Pau-tốp-xki	RECITE(json)	14103	8.5
+KNTT	Lớp 8	Ngữ văn	Dấu chân sinh thái của mỗi người và thông điệp từ Trái Đất	Dương Xuân Thảo	MISS	259	3.0
+KNTT	Lớp 9	Ngữ văn	Chuyện người con gái Nam Xương	Nguyễn Dữ	RECITE(json)	10752	2.8
+KNTT	Lớp 9	Ngữ văn	Ngọc nữ về tay chân chủ	khuyết danh	MISS	224	3.7
+KNTT	Lớp 9	Ngữ văn	Nỗi sầu oán của người cung nữ	Nguyễn Gia Thiều	MISS	230	2.6
+KNTT	Lớp 9	Ngữ văn	Người con gái Nam Xương – một bi kịch của con người	Nguyễn Đăng Na	RECITE(json)	10752	2.6
+KNTT	Lớp 9	Ngữ văn	Hoàng Hạc lâu tống Mạnh Hạo Nhiên chi Quảng Lăng, một bài thơ tiễn biệt tiêu biểu trong thơ Đường	Nguyễn Khắc Phi	RECITE(text)	1233	3.1
+KNTT	Lớp 9	Ngữ văn	Phạm Xuân Ẩn – tên người như cuộc đời	Nguyễn Thị Ngọc Hải	RECITE(json)	8515	5.2
+KNTT	Lớp 9	Ngữ văn	Ba viên ngọc bích	Phạm Cao Củng	MISS	218	2.9
+KNTT	Lớp 9	Ngữ văn	Miền quê	Nguyễn Khoa Điềm	MISS	209	2.5
+KNTT	Lớp 9	Ngữ văn	"Một kiểu phát biểu luận đề độc đáo của Xuân Diệu ở bài thơ ""Vội vàng"""	Phan Huy Dũng	COMPANION	1478	6.0
+KNTT	Lớp 9	Ngữ văn	Biến đổi khí hậu – mối đe doạ sự tồn vong của hành tinh chúng ta	An-tô-ni-ô Gu-tê-rét	RECITE(json)	6768	3.4
+KNTT	Lớp 9	Ngữ văn	Chuẩn bị hành trang	Vũ Khoan	RECITE(json)	5614	3.4
+KNTT	Lớp 9	Ngữ văn	Yên Tử, núi thiêng	Thi Sảnh	RECITE(json)	1005	3.8
+KNTT	Lớp 9	Ngữ văn	Khu Trung tâm Hoàng thành Thăng Long – Hà Nội		MISS	246	5.5
+KNTT	Lớp 9	Ngữ văn	Văn hoá hoa – cây cảnh	Trần Quốc Vượng	RECITE(json)	6001	8.2
+Sách cũ	Lớp 1	Tiếng Việt	Tặng cháu	Hồ Chí Minh	MISS	210	2.4
+Sách cũ	Lớp 1	Tiếng Việt	Bàn tay mẹ	Nguyễn Thị Xuyến	MISS	211	3.6
+Sách cũ	Lớp 1	Tiếng Việt	Quyển vở của em	Quang Huy	MISS	216	4.4
+Sách cũ	Lớp 1	Tiếng Việt	Mèo con đi học	P. Vô-rôn-cô	MISS	215	6.2
+Sách cũ	Lớp 1	Tiếng Việt	Sau cơn mưa	Vũ Tú Nam	MISS	212	6.8
+Sách cũ	Lớp 1	Tiếng Việt	Nói dối hại thân	Lép Tôn-xtôi	MISS	217	6.4
+Sách cũ	Lớp 1	Tiếng Việt	Ò... ó... o	Trần Đăng Khoa	MISS	206	7.0
+Sách cũ	Lớp 1	Tiếng Việt	Anh hùng biển cả	Lê Quang Long	MISS	217	4.7
+Sách cũ	Lớp 1	Tiếng Việt	Không nên phá tổ chim	Quốc văn giáo khoa thư	MISS	222	5.3
+Sách cũ	Lớp 10	Ngữ văn	Truyện An Dương Vương và Mị Châu – Trọng Thuỷ	Truyền thuyết	MISS	246	3.3
+Sách cũ	Lớp 10	Ngữ văn	Uy-lít-xơ trở về	Hô-me-rơ	MISS	217	4.1
+Sách cũ	Lớp 10	Ngữ văn	Tấm Cám	Cổ tích	MISS	208	3.1
+Sách cũ	Lớp 10	Ngữ văn	Tam đại con gà	Truyện cười	MISS	208	2.5
+Sách cũ	Lớp 10	Ngữ văn	Nhưng nó phải bằng hai mày	Truyện cười	MISS	208	3.5
+Sách cũ	Lớp 10	Ngữ văn	Ca dao than thân, yêu thương tình nghĩa	Ca dao	MISS	240	4.3
+Sách cũ	Lớp 10	Ngữ văn	Ca dao hài hước	Ca dao	MISS	216	4.5
+Sách cũ	Lớp 10	Ngữ văn	Tỏ lòng	Phạm Ngũ Lão	MISS	208	3.3
+Sách cũ	Lớp 10	Ngữ văn	Cảnh ngày hè	Nguyễn Trãi	MISS	213	3.5
+Sách cũ	Lớp 10	Ngữ văn	Nhàn	Nguyễn Bỉnh Khiêm	RECITE(json)	4224	2.3
+Sách cũ	Lớp 10	Ngữ văn	Vận nước	Pháp Thuận	MISS	209	2.7
+Sách cũ	Lớp 10	Ngữ văn	Cáo bệnh, bảo mọi người	Mãn Giác	MISS	224	2.9
+Sách cũ	Lớp 10	Ngữ văn	Hứng trở về	Nguyễn Trung Ngạn	MISS	217	2.6
+Sách cũ	Lớp 10	Ngữ văn	Tại lầu Hoàng Hạc tiễn Mạnh Hạo Nhiên đi Quảng Lăng	Lí Bạch	MISS	252	3.7
+Sách cũ	Lớp 10	Ngữ văn	Nỗi oán của người phòng khuê	Vương Xương Linh	MISS	229	3.2
+Sách cũ	Lớp 10	Ngữ văn	Khe chim kêu	Vương Duy	MISS	213	3.0
+Sách cũ	Lớp 10	Ngữ văn	Phú sông Bạch Đằng	Trương Hán Siêu	MISS	219	3.4
+Sách cũ	Lớp 10	Ngữ văn	Đại cáo bình Ngô	Nguyễn Trãi	MISS	217	3.8
+Sách cũ	Lớp 10	Ngữ văn	"Tựa ""Trích diễm thi tập"""	Hoàng Đức Lương	MISS	219	4.0
+Sách cũ	Lớp 10	Ngữ văn	Hưng Đạo Đại Vương Trần Quốc Tuấn	Ngô Sĩ Liên	MISS	234	6.2
+Sách cũ	Lớp 10	Ngữ văn	Thái sư Trần Thủ Độ	Ngô Sĩ Liên	RECITE(json)	2341	8.4
+Sách cũ	Lớp 10	Ngữ văn	Tào Tháo uống rượu luận anh hùng	La Quán Trung	MISS	233	7.3
+Sách cũ	Lớp 10	Ngữ văn	Nỗi thương mình	Nguyễn Du	MISS	216	3.9
+Sách cũ	Lớp 10	Ngữ văn	Thề nguyền	Nguyễn Du	MISS	211	2.4
+Sách cũ	Lớp 11	Ngữ văn	Xin lập khoa luật	Nguyễn Trường Tộ	RECITE(json)	3175	5.8
+Sách cũ	Lớp 11	Ngữ văn	Chữ người tử tù	Nguyễn Tuân	RECITE(json)	5476	2.8
+Sách cũ	Lớp 11	Ngữ văn	Chí Phèo	Nam Cao	RECITE(json)	25717	2.9
+Sách cũ	Lớp 11	Ngữ văn	Vi hành	Nguyễn Ái Quốc	RECITE(json)	6739	2.6
+Sách cũ	Lớp 11	Ngữ văn	Tinh thần thể dục	Nguyễn Công Hoan	RECITE(json)	9487	5.3
+Sách cũ	Lớp 11	Ngữ văn	Người trong bao	Sê-khốp	RECITE(json)	11998	2.7
+Sách cũ	Lớp 11	Ngữ văn	Người cầm quyền khôi phục uy quyền	Huy-gô	MISS	252	3.1
+Sách cũ	Lớp 11	Ngữ văn	Ba cống hiến vĩ đại của Các Mác	Ăng-ghen	RECITE(json)	3998	5.0
+Sách cũ	Lớp 11	Ngữ văn	Một thời đại trong thi ca	Hoài Thanh	RECITE(json)	6192	3.7
+Sách cũ	Lớp 12	Ngữ văn	Người lái đò Sông Đà	Nguyễn Tuân	RECITE(json)	14737	2.9
+Sách cũ	Lớp 12	Ngữ văn	Ai đã đặt tên cho dòng sông ?	Hoàng Phủ Ngọc Tường	RECITE(json)	12564	3.4
+Sách cũ	Lớp 12	Ngữ văn	Vợ chồng A Phủ	Tô Hoài	RECITE(json)	24509	3.7
+Sách cũ	Lớp 12	Ngữ văn	Vợ nhặt	Kim Lân	RECITE(json)	19505	4.6
+Sách cũ	Lớp 12	Ngữ văn	Rừng xà nu	Nguyễn Trung Thành	RECITE(json)	24187	4.7
+Sách cũ	Lớp 12	Ngữ văn	Những đứa con trong gia đình	Nguyễn Thi	RECITE(json)	15260	5.2
+Sách cũ	Lớp 12	Ngữ văn	Bắt sấu rừng U Minh Hạ	Sơn Nam	RECITE(json)	8635	5.0
+Sách cũ	Lớp 12	Ngữ văn	Mùa lá rụng trong vườn	Ma Văn Kháng	RECITE(json)	12030	5.2
+Sách cũ	Lớp 12	Ngữ văn	Một người Hà Nội	Nguyễn Khải	RECITE(json)	20285	6.5
+Sách cũ	Lớp 12	Ngữ văn	Hồn Trương Ba, da hàng thịt	Lưu Quang Vũ	RECITE(json)	25126	5.8
+Sách cũ	Lớp 12	Ngữ văn	Chiếc thuyền ngoài xa	Nguyễn Minh Châu	RECITE(json)	19302	9.0
+Sách cũ	Lớp 12	Ngữ văn	Thuốc	Lỗ Tấn	RECITE(json)	18345	4.9
+Sách cũ	Lớp 12	Ngữ văn	Số phận con người	Sô-lô-khốp	RECITE(json)	14090	4.9
+Sách cũ	Lớp 12	Ngữ văn	Mấy ý nghĩ về thơ	Nguyễn Đình Thi	RECITE(json)	11431	6.4
+Sách cũ	Lớp 12	Ngữ văn	Đô-xtôi-ép-xki	X. Xvai-gơ	MISS	211	5.6
+Sách cũ	Lớp 12	Ngữ văn	Nhìn về vốn văn hoá dân tộc	Trần Đình Hượu	RECITE(json)	6169	3.6
+Sách cũ	Lớp 2	Tiếng Việt	Có công mài sắt, có ngày nên kim	Truyện ngụ ngôn	MISS	233	5.7
+Sách cũ	Lớp 2	Tiếng Việt	Phần thưởng	Phỏng theo Blai-tơn	MISS	212	5.8
+Sách cũ	Lớp 2	Tiếng Việt	Mít làm thơ	Nô-xốp	MISS	212	5.8
+Sách cũ	Lớp 2	Tiếng Việt	Bím tóc đuôi sam	Phỏng theo Ku-rô-y-a-na-gi	MISS	217	4.5
+Sách cũ	Lớp 2	Tiếng Việt	Người mẹ hiền	Nguyễn Văn Thịnh	MISS	214	5.4
+Sách cũ	Lớp 2	Tiếng Việt	Sáng kiến của bé Hà	Hồ Phương	MISS	220	5.0
+Sách cũ	Lớp 2	Tiếng Việt	Bà cháu	Trần Hoài Dương	MISS	208	5.3
+Sách cũ	Lớp 2	Tiếng Việt	Câu chuyện bó đũa	Ngụ ngôn Việt Nam	MISS	218	5.4
+Sách cũ	Lớp 2	Tiếng Việt	Tìm ngọc	Nguyễn Đổng Chi	MISS	209	5.4
+Sách cũ	Lớp 2	Tiếng Việt	Chuyện bốn mùa	Từ Nguyên Tĩnh	MISS	215	5.9
+Sách cũ	Lớp 2	Tiếng Việt	Chim sơn ca và bông cúc trắng	An-đéc-xen	MISS	230	6.0
+Sách cũ	Lớp 2	Tiếng Việt	Bác sĩ Sói	Phỏng theo La Phông-ten	MISS	211	5.8
+Sách cũ	Lớp 2	Tiếng Việt	Sư Tử xuất quân	La Phông-ten · Nguyễn Khuyến dịch	MISS	216	5.4
+Sách cũ	Lớp 2	Tiếng Việt	Bé nhìn biển	Trần Mạnh Hảo	MISS	213	6.5
+Sách cũ	Lớp 2	Tiếng Việt	Những quả đào	Phỏng theo Lép Tôn-xtôi	MISS	214	6.3
+Sách cũ	Lớp 2	Tiếng Việt	Cây đa quê hương	Nguyễn Khắc Viện	MISS	217	5.9
+Sách cũ	Lớp 2	Tiếng Việt	Cháu nhớ Bác Hồ	Thanh Hải	MISS	216	6.0
+Sách cũ	Lớp 2	Tiếng Việt	Chuyện quả bầu	Truyện cổ Khơ-mú	MISS	215	6.4
+Sách cũ	Lớp 2	Tiếng Việt	Tiếng chổi tre	Tố Hữu	RECITE(json)	241	5.8
+Sách cũ	Lớp 2	Tiếng Việt	Bóp nát quả cam	Nguyễn Huy Tưởng	MISS	216	5.4
+Sách cũ	Lớp 2	Tiếng Việt	Đàn bê của anh Hồ Giáo	Phượng Vũ	MISS	207	6.2
+Sách cũ	Lớp 3	Tiếng Việt	Ông ngoại	Nguyễn Việt Bắc	RECITE(json)	1294	4.9
+Sách cũ	Lớp 3	Tiếng Việt	Bận	Trinh Đường	RECITE(json)	1064	4.4
+Sách cũ	Lớp 3	Tiếng Việt	Các em nhỏ và cụ già	Xu-khôm-lin-xki	MISS	221	5.0
+Sách cũ	Lớp 3	Tiếng Việt	Những chiếc chuông reo	Ngô Quân Miện	MISS	223	3.6
+Sách cũ	Lớp 3	Tiếng Việt	Nắng phương Nam	Trần Hoài Dương	MISS	216	5.9
+Sách cũ	Lớp 3	Tiếng Việt	Cửa Tùng	Thuỵ Chương	MISS	209	5.2
+Sách cũ	Lớp 3	Tiếng Việt	Người liên lạc nhỏ	Tô Hoài	MISS	219	3.0
+Sách cũ	Lớp 3	Tiếng Việt	Âm thanh thành phố	Tô Ngọc Hiến	MISS	219	4.3
+Sách cũ	Lớp 3	Tiếng Việt	Ở lại với chiến khu	Phùng Quán	MISS	220	5.0
+Sách cũ	Lớp 3	Tiếng Việt	Cái cầu	Phạm Tiến Duật	MISS	208	5.3
+Sách cũ	Lớp 3	Tiếng Việt	Nhà ảo thuật	Blai-tơn	MISS	213	4.4
+Sách cũ	Lớp 3	Tiếng Việt	Đối đáp với vua	Quốc Chấn	MISS	216	4.4
+Sách cũ	Lớp 3	Tiếng Việt	Hội vật	Kim Lân	MISS	208	4.9
+Sách cũ	Lớp 3	Tiếng Việt	Sự tích lễ hội Chử Đồng Tử	Hoàng Lê	MISS	227	5.8
+Sách cũ	Lớp 3	Tiếng Việt	Buổi học thể dục	A-mi-xi	MISS	217	5.7
+Sách cũ	Lớp 3	Tiếng Việt	Quà của đồng nội	Thạch Lam	RECITE(json)	1193	5.6
+Sách cũ	Lớp 3	Tiếng Việt	Sự tích chú Cuội cung trăng	Truyện cổ Việt Nam	MISS	228	5.5
+Sách cũ	Lớp 4	Tiếng Việt	Nỗi dằn vặt của An-đrây-ca	Xu-khôm-lin-xki	MISS	227	3.0
+Sách cũ	Lớp 4	Tiếng Việt	Đôi giày ba ta màu xanh	Hàng Chức Nguyên	MISS	224	5.1
+Sách cũ	Lớp 4	Tiếng Việt	Ông Trạng thả diều	Trinh Đường	MISS	219	4.6
+Sách cũ	Lớp 4	Tiếng Việt	Vẽ trứng	Xuân Yến	RECITE(json)	6910	4.9
+Sách cũ	Lớp 4	Tiếng Việt	Rất nhiều mặt trăng	Phơ-bơ	MISS	220	3.2
+Sách cũ	Lớp 4	Tiếng Việt	Trống đồng Đông Sơn	Nguyễn Văn Huyên	RECITE(json)	1579	3.2
+Sách cũ	Lớp 4	Tiếng Việt	Hoa học trò	Xuân Diệu	MISS	212	3.2
+Sách cũ	Lớp 4	Tiếng Việt	Khuất phục tên cướp biển	Xti-ven-xơn	MISS	225	5.2
+Sách cũ	Lớp 4	Tiếng Việt	Con sẻ	Tuốc-ghê-nhép	RECITE(json)	1990	4.3
+Sách cũ	Lớp 4	Tiếng Việt	Con chuồn chuồn nước	Nguyễn Thế Hội	MISS	221	4.6
+Sách cũ	Lớp 4	Tiếng Việt	Vương quốc vắng nụ cười	Trần Đức Tiến	MISS	224	5.7
+Sách cũ	Lớp 4	Tiếng Việt	"Ăn ""mầm đá"""	Truyện dân gian Việt Nam	MISS	210	4.3
+Sách cũ	Lớp 5	Tiếng Việt	Lòng dân	Nguyễn Văn Xe	MISS	209	6.0
+Sách cũ	Lớp 5	Tiếng Việt	Một chuyên gia máy xúc	Hồng Thuỷ	RECITE(json)	834	6.6
+Sách cũ	Lớp 5	Tiếng Việt	Những người bạn tốt	Lưu Anh	RECITE(json)	2014	3.6
+Sách cũ	Lớp 5	Tiếng Việt	Kì diệu rừng xanh	Nguyễn Phan Hách	MISS	218	5.8
+Sách cũ	Lớp 5	Tiếng Việt	Cái gì quý nhất ?	Trịnh Mạnh	MISS	216	4.6
+Sách cũ	Lớp 5	Tiếng Việt	Chuyện một khu vườn nhỏ	Vân Long	RECITE(json)	1662	6.6
+Sách cũ	Lớp 5	Tiếng Việt	Mùa thảo quả	Ma Văn Kháng	RECITE(json)	1543	6.0
+Sách cũ	Lớp 5	Tiếng Việt	Người gác rừng tí hon	Nguyễn Thị Cẩm Châu	RECITE(json)	1599	6.6
+Sách cũ	Lớp 5	Tiếng Việt	Buôn Chư Lênh đón cô giáo	Hà Đình Cẩn	MISS	212	4.7
+Sách cũ	Lớp 5	Tiếng Việt	Thầy thuốc như mẹ hiền	Trần Phương Hạnh	RECITE(json)	2248	5.7
+Sách cũ	Lớp 5	Tiếng Việt	Ngu Công xã Trịnh Tường	Trường Giang, Ngọc Minh	MISS	218	5.1
+Sách cũ	Lớp 5	Tiếng Việt	Người công dân số Một	Hà Văn Cầu, Vũ Đình Phòng	MISS	218	5.4
+Sách cũ	Lớp 5	Tiếng Việt	Nhà tài trợ đặc biệt của Cách mạng	Phạm Khải	MISS	235	4.7
+Sách cũ	Lớp 5	Tiếng Việt	Một vụ đắm tàu	A-mi-xi	MISS	215	2.7
+Sách cũ	Lớp 5	Tiếng Việt	Tà áo dài Việt Nam	Trần Ngọc Thêm	RECITE(json)	1467	5.1
+Sách cũ	Lớp 5	Tiếng Việt	Lớp học trên đường	Héc-to Ma-lô	MISS	219	3.4
+Sách cũ	Lớp 6	Ngữ văn	Con Rồng cháu Tiên	Truyền thuyết	MISS	219	4.4
+Sách cũ	Lớp 6	Ngữ văn	Em bé thông minh	Cổ tích	RECITE(json)	281	2.1
+Sách cũ	Lớp 6	Ngữ văn	Cây bút thần	Cổ tích Trung Quốc	MISS	213	3.9
+Sách cũ	Lớp 6	Ngữ văn	Thầy bói xem voi	Ngụ ngôn	MISS	217	2.8
+Sách cũ	Lớp 6	Ngữ văn	Đeo nhạc cho mèo	Ngụ ngôn	MISS	217	2.6
+Sách cũ	Lớp 6	Ngữ văn	Lợn cưới, áo mới	Truyện cười	MISS	217	3.4
+Sách cũ	Lớp 6	Ngữ văn	Treo biển	Truyện cười	RECITE(json)	1491	6.3
+Sách cũ	Lớp 6	Ngữ văn	Sọ Dừa	Cổ tích	RECITE(json)	5737	23.4
+Sách cũ	Lớp 6	Ngữ văn	Mẹ hiền dạy con	Ôn Như Nguyễn Văn Ngọc, Tử An Trần Lê Nhân dịch	MISS	216	2.4
+Sách cũ	Lớp 6	Ngữ văn	Thầy thuốc giỏi cốt nhất ở tấm lòng	Hồ Nguyên Trừng	MISS	231	6.0
+Sách cũ	Lớp 6	Ngữ văn	Sông nước Cà Mau	Đoàn Giỏi	MISS	217	2.8
+Sách cũ	Lớp 6	Ngữ văn	Vượt thác	Võ Quảng	MISS	210	3.2
+Sách cũ	Lớp 6	Ngữ văn	Mưa	Trần Đăng Khoa	RECITE(json)	8512	2.8
+Sách cũ	Lớp 6	Ngữ văn	Lòng yêu nước	I. Ê-ren-bua	RECITE(json)	4489	2.9
+Sách cũ	Lớp 6	Ngữ văn	Cầu Long Biên – chứng nhân lịch sử	Thuý Lan	MISS	235	4.1
+Sách cũ	Lớp 6	Ngữ văn	Động Phong Nha	Trần Hoàng	MISS	215	2.3
+Sách cũ	Lớp 7	Ngữ văn	Những câu hát về tình cảm gia đình	Ca dao, dân ca	MISS	235	2.7
+Sách cũ	Lớp 7	Ngữ văn	Những câu hát về tình yêu quê hương, đất nước, con người	Ca dao, dân ca	MISS	257	4.2
+Sách cũ	Lớp 7	Ngữ văn	Những câu hát than thân	Ca dao, dân ca	MISS	224	2.6
+Sách cũ	Lớp 7	Ngữ văn	Những câu hát châm biếm	Ca dao, dân ca	MISS	224	3.6
+Sách cũ	Lớp 7	Ngữ văn	Tục ngữ về thiên nhiên và lao động sản xuất	Tục ngữ	MISS	244	7.0
+Sách cũ	Lớp 7	Ngữ văn	Tục ngữ về con người và xã hội	Tục ngữ	MISS	231	5.7
+Sách cũ	Lớp 7	Ngữ văn	Buổi chiều đứng ở phủ Thiên Trường trông ra	Trần Nhân Tông	MISS	217	3.1
+Sách cũ	Lớp 7	Ngữ văn	Sau phút chia li	Đặng Trần Côn · bản dịch Đoàn Thị Điểm	MISS	217	4.4
+Sách cũ	Lớp 7	Ngữ văn	Cảm nghĩ trong đêm thanh tĩnh	Lí Bạch	MISS	230	5.4
+Sách cũ	Lớp 7	Ngữ văn	Ngẫu nhiên viết nhân buổi mới về quê	Hạ Tri Chương	MISS	237	5.9
+Sách cũ	Lớp 7	Ngữ văn	Bài ca nhà tranh bị gió thu phá	Đỗ Phủ	MISS	232	6.2
+Sách cũ	Lớp 7	Ngữ văn	Cổng trường mở ra	Lý Lan	MISS	218	6.2
+Sách cũ	Lớp 7	Ngữ văn	Mẹ tôi	Ét-môn-đô đơ A-mi-xi	RECITE(json)	6050	6.4
+Sách cũ	Lớp 7	Ngữ văn	Cuộc chia tay của những con búp bê	Khánh Hoài	MISS	235	7.5
+Sách cũ	Lớp 7	Ngữ văn	Một thứ quà của lúa non : Cốm	Thạch Lam	MISS	229	6.2
+Sách cũ	Lớp 7	Ngữ văn	Sài Gòn tôi yêu	Minh Hương	MISS	216	6.5
+Sách cũ	Lớp 7	Ngữ văn	Sống chết mặc bay	Phạm Duy Tốn	MISS	218	7.3
+Sách cũ	Lớp 7	Ngữ văn	Quan Âm Thị Kính	Dân gian	MISS	217	6.0
+Sách cũ	Lớp 7	Ngữ văn	Sự giàu đẹp của tiếng Việt	Đặng Thai Mai	MISS	227	4.8
+Sách cũ	Lớp 7	Ngữ văn	Ý nghĩa văn chương	Hoài Thanh	RECITE(json)	3160	4.2
+Sách cũ	Lớp 8	Ngữ văn	Lão Hạc	Nam Cao	RECITE(json)	18804	2.6
+Sách cũ	Lớp 8	Ngữ văn	Chiếc lá cuối cùng	O Hen-ri	RECITE(json)	5601	7.4
+Sách cũ	Lớp 8	Ngữ văn	Ông Giuốc-đanh mặc lễ phục	Mô-li-e	RECITE(json)	5722	3.0
+Sách cũ	Lớp 8	Ngữ văn	Hịch tướng sĩ	Trần Quốc Tuấn	RECITE(json)	5606	3.6
+Sách cũ	Lớp 9	Ngữ văn	Chuyện người con gái Nam Xương	Nguyễn Dữ	RECITE(json)	10752	4.6
+Sách cũ	Lớp 9	Ngữ văn	Chuyện cũ trong phủ chúa Trịnh	Phạm Đình Hổ	RECITE(json)	2311	4.5
+Sách cũ	Lớp 9	Ngữ văn	Hoàng Lê nhất thống chí – Hồi thứ mười bốn	Ngô gia văn phái	MISS	243	4.6
+Sách cũ	Lớp 9	Ngữ văn	Lặng lẽ Sa Pa	Nguyễn Thành Long	RECITE(json)	19363	4.2
+Sách cũ	Lớp 9	Ngữ văn	Chiếc lược ngà	Nguyễn Quang Sáng	RECITE(json)	2589	4.7
+Sách cũ	Lớp 9	Ngữ văn	Bến quê	Nguyễn Minh Châu	RECITE(json)	12123	4.6
+Sách cũ	Lớp 9	Ngữ văn	Rô-bin-xơn ngoài đảo hoang	Đ. Đi-phô	RECITE(json)	2694	5.3
+Sách cũ	Lớp 9	Ngữ văn	Chó sói và cừu trong thơ ngụ ngôn của La Phông-ten	H. Ten	MISS	234	3.7
+Sách cũ	Lớp 9	Ngữ văn	Bắc Sơn	Nguyễn Huy Tưởng	RECITE(json)	10862	4.2
+Sách cũ	Lớp 9	Ngữ văn	Đấu tranh cho một thế giới hoà bình	G. Mác-két	RECITE(json)	1700	3.4
+Sách cũ	Lớp 9	Ngữ văn	Phong cách Hồ Chí Minh	Lê Anh Trà	RECITE(json)	2870	6.7
+Sách cũ	Lớp 9	Ngữ văn	Tiếng nói của văn nghệ	Nguyễn Đình Thi	RECITE(json)	7475	4.2
+Sách cũ	Lớp 9	Ngữ văn	Bàn về đọc sách	Chu Quang Tiềm	RECITE(json)	6665	7.6
+Sách cũ	Lớp 9	Ngữ văn	Chuẩn bị hành trang vào thế kỉ mới	Vũ Khoan	RECITE(json)	5614	4.7

@@ -1,0 +1,221 @@
+{
+ "grade": 1,
+ "chunk": 1,
+ "items": [
+  {
+   "ten_bai": "Giải thưởng tình bạn",
+   "bo_sach": "KNTT",
+   "tac_gia": "",
+   "kind": "companion",
+   "full_text": "",
+   "companion": {
+    "tom_tat": "Nai và Hoẵng cùng nhau tham gia một cuộc chạy đua trong rừng. Khi trọng tài ra hiệu, cả hai lao đi thật nhanh và luôn dẫn đầu. Bỗng Hoẵng vấp phải hòn đá và ngã. Nai không chạy tiếp mà dừng lại đỡ bạn đứng dậy. Hai bạn về đích sau cùng, nhưng cả hai đều được tặng một giải thưởng đặc biệt: giải thưởng tình bạn.",
+    "nhan_vat": "Nai và Hoẵng (hai bạn nhỏ trong rừng cùng thi chạy).",
+    "y_nghia": "Bạn bè thì phải giúp nhau lúc khó khăn. Về nhất trong cuộc đua chưa quan trọng bằng việc biết yêu thương và giúp đỡ bạn. Tấm lòng tốt cũng xứng đáng được khen thưởng.",
+    "cau_hoi": [
+     "Trong cuộc thi chạy, chuyện gì đã xảy ra với Hoẵng?",
+     "Vì sao Nai lại dừng lại thay vì chạy tiếp để về nhất?",
+     "Nếu bạn của em bị ngã khi đang chơi, em sẽ làm gì?"
+    ]
+   },
+   "sources": [
+    "https://vndoc.com/giai-bai-tap-tieng-viet-1-trang-14-15-16-17-bai-4-giai-thuong-tinh-ban-225448",
+    "https://vietjack.com/giao-an-tieng-viet-1/bai-4-giai-thuong-tinh-ban-kntt.jsp"
+   ],
+   "ly_do": "Truyen viet rieng cho SGK KNTT (2020), con ban quyen NXB Giao duc; nguyen van chi xuat hien tren cac trang 'soan bai/giai bai tap' - nguon bi cam dung lam nguyen van. Chuyen sang companion tu viet."
+  },
+  {
+   "ten_bai": "Kiến và chim bồ câu",
+   "bo_sach": "KNTT",
+   "tac_gia": "Truyện ngụ ngôn Ê-dốp (Aesop)",
+   "kind": "recite",
+   "full_text": "Một con Kiến không may bị rơi xuống nước. Nó vùng vẫy và la lên:\n- Cứu tôi với, cứu tôi với!\nNghe tiếng kêu cứu của Kiến, Bồ Câu nhanh trí nhặt một chiếc lá thả xuống nước. Kiến bám vào chiếc lá và leo lên được bờ.\nMột hôm, Kiến thấy người thợ săn đang ngắm bắn Bồ Câu. Ngay lập tức, nó bò đến, cắn vào chân anh ta. Người thợ săn giật mình. Bồ Câu thấy động liền bay đi.\nBồ Câu tìm đến chỗ Kiến, cảm động nói:\n- Cảm ơn cậu đã cứu tớ.\nKiến đáp:\n- Cậu cũng giúp tớ thoát chết mà.\nCả hai đều rất vui vì đã giúp nhau.",
+   "companion": {
+    "tom_tat": "",
+    "nhan_vat": "",
+    "y_nghia": "",
+    "cau_hoi": []
+   },
+   "sources": [
+    "https://thegioicotich.vn/kien-va-chim-bo-cau/"
+   ],
+   "ly_do": "Ngu ngon E-dop - pham vi cong cong, thuoc dien duoc phep recite. Van ban lay tu trang dang truyen (Thegioicotich), lien mach, sach HTML, khong chu thich so, khong lan cau hoi cuoi bai, khong metadata NXB."
+  },
+  {
+   "ten_bai": "Lớn lên bạn làm gì?",
+   "bo_sach": "KNTT",
+   "tac_gia": "",
+   "kind": "companion",
+   "full_text": "",
+   "companion": {
+    "tom_tat": "Bài học nói về ước mơ nghề nghiệp của các bạn nhỏ. Mỗi bạn thích một công việc khác nhau: người muốn làm bác sĩ, người muốn làm cô giáo, người muốn làm kiến trúc sư, người muốn làm chú công nhân hay bác nông dân. Bài đọc giúp em gọi tên các nghề quen thuộc và tập nói về điều mình mong muốn khi lớn lên. Nghề nào cũng đáng quý nếu mình làm việc chăm chỉ và có ích cho mọi người.",
+    "nhan_vat": "Các bạn học sinh lớp 1 kể về ước mơ nghề nghiệp của mình.",
+    "y_nghia": "Ai cũng nên có một ước mơ. Muốn ước mơ thành sự thật thì ngay từ bây giờ phải chăm học, chăm làm. Mọi nghề nghiệp đều đáng trân trọng.",
+    "cau_hoi": [
+     "Em hãy kể tên vài nghề mà em biết.",
+     "Lớn lên em muốn làm nghề gì? Vì sao?",
+     "Để làm được nghề đó, bây giờ em cần làm gì mỗi ngày?"
+    ]
+   },
+   "sources": [
+    "https://vndoc.com/giai-tieng-viet-1-trang-152-153-bai-3-lon-len-ban-lam-gi-234832",
+    "https://vietjack.com/giao-an-tieng-viet-1/bai-3-lon-len-ban-lam-gi-kntt.jsp"
+   ],
+   "ly_do": "Van ban bien soan rieng cho SGK KNTT lop 1 tap 2 (trang 152), con ban quyen; khong co nguon dang tac pham doc lap. Companion tu viet."
+  },
+  {
+   "ten_bai": "Nếu không may bị lạc",
+   "bo_sach": "KNTT",
+   "tac_gia": "",
+   "kind": "companion",
+   "full_text": "",
+   "companion": {
+    "tom_tat": "Sáng chủ nhật, bố đưa Nam và em đi chơi công viên. Công viên rất đông người. Trước khi vào, bố dặn hai anh em phải cẩn thận kẻo bị lạc, và nếu chẳng may lạc thì nhớ quay ra đúng cái cổng có lá cờ rất to. Bài đọc dạy các bạn nhỏ cách xử lí khi bị lạc ở nơi đông người: hãy bình tĩnh, đứng yên một chỗ dễ thấy hoặc nhờ chú bảo vệ, cô nhân viên giúp gọi cho bố mẹ.",
+    "nhan_vat": "Bạn Nam, em của Nam và bố.",
+    "y_nghia": "Khi đi chơi ở nơi đông người phải đi cùng người lớn và nhớ điểm hẹn. Nếu bị lạc thì không được khóc rồi chạy lung tung, mà phải bình tĩnh nhờ người lớn đáng tin cậy giúp đỡ.",
+    "cau_hoi": [
+     "Bố đã dặn hai anh em Nam điều gì trước khi vào công viên?",
+     "Vì sao bố lại chỉ cho các con cái cổng có lá cờ to?",
+     "Nếu em bị lạc bố mẹ ở siêu thị, em sẽ làm gì đầu tiên?"
+    ]
+   },
+   "sources": [
+    "https://vndoc.com/giai-tieng-viet-1-trang-74-75-76-77-bai-4-neu-khong-may-bi-lac-234520",
+    "https://vietjack.com/tieng-viet-1-kn/bai-4-neu-khong-may-bi-lac.jsp"
+   ],
+   "ly_do": "Van ban bien soan rieng cho SGK KNTT (trang 74), con ban quyen, khong co nguon dang tac pham. Companion tu viet."
+  },
+  {
+   "ten_bai": "Nụ hôn trên bàn tay",
+   "bo_sach": "KNTT",
+   "tac_gia": "Audrey Penn (Đỗ Nhật Nam dịch)",
+   "kind": "companion",
+   "full_text": "",
+   "companion": {
+    "tom_tat": "Hôm nay là ngày đầu tiên Nam đi học. Nam thấy lo lắng vì phải xa mẹ. Mẹ nhẹ nhàng đặt một nụ hôn vào lòng bàn tay Nam và dặn: mỗi khi thấy lo, con hãy áp bàn tay này lên má, mẹ luôn ở bên con. Nhờ nụ hôn ấy, Nam thấy ấm áp và yên tâm hơn khi bước vào lớp học mới.",
+    "nhan_vat": "Bạn Nam và mẹ của Nam.",
+    "y_nghia": "Tình yêu của mẹ luôn đi theo con dù mẹ không ở ngay bên cạnh. Khi nhớ đến người thân yêu, em sẽ thấy mạnh dạn và bớt sợ hãi trước những điều mới lạ.",
+    "cau_hoi": [
+     "Vì sao Nam lo lắng trong ngày đầu đi học?",
+     "Mẹ đã làm gì để Nam bớt lo?",
+     "Khi em thấy sợ hoặc buồn, điều gì làm em thấy yên tâm hơn?"
+    ]
+   },
+   "sources": [
+    "https://vietjack.com/tieng-viet-1-kn/bai-1-nu-hon-tren-ban-tay.jsp",
+    "https://vndoc.com/giai-bai-tap-tieng-viet-1-trang-24-25-26-27-bai-1-nu-hon-tren-ban-tay-226043"
+   ],
+   "ly_do": "Phong theo truyen 'The Kissing Hand' cua Audrey Penn (1993), tac gia con song - CON BAN QUYEN, ban dich cung co ban quyen. Tuyet doi khong chep nguyen van; companion tu viet."
+  },
+  {
+   "ten_bai": "Tia nắng đi đâu?",
+   "bo_sach": "KNTT",
+   "tac_gia": "Nguyễn Thụy Anh",
+   "kind": "companion",
+   "full_text": "",
+   "companion": {
+    "tom_tat": "Bài thơ kể về tia nắng như một người bạn tinh nghịch. Buổi sáng, tia nắng nhảy nhót trên bàn tay, trên trang vở, trên cành cây của bạn nhỏ. Đến tối, bạn nhỏ băn khoăn không biết tia nắng đi đâu, ngủ ở nơi nào. Câu trả lời thật dễ thương: tia nắng về ngủ trong ngôi nhà của mặt trời, sáng mai lại đến chơi cùng em.",
+    "nhan_vat": "Bạn nhỏ và tia nắng (được nhân hoá thành một người bạn).",
+    "y_nghia": "Bài thơ dạy em biết yêu thiên nhiên và nhìn mọi vật quanh mình bằng con mắt vui tươi, giàu tưởng tượng. Ánh nắng, ngày và đêm cứ nối tiếp nhau, sáng mai điều tốt đẹp lại trở về.",
+    "cau_hoi": [
+     "Ban ngày, tia nắng thường chơi ở những đâu?",
+     "Theo bài thơ, buổi tối tia nắng đi về đâu?",
+     "Nếu tia nắng là bạn của em, em sẽ rủ tia nắng chơi trò gì?"
+    ]
+   },
+   "sources": [
+    "https://www.thivien.net/Thu%E1%BB%B5-Anh/Tia-n%E1%BA%AFng-%C4%91i-%C4%91%C3%A2u/poem-zu6RMC-WoHG7AIaJ_cuHWg",
+    "https://thegioicotich.vn/bai-tho-tia-nang-di-dau/"
+   ],
+   "ly_do": "Tho cua Nguyen Thuy Anh (sinh 1974), tac gia duong dai con song - CON BAN QUYEN, khong du dieu kien recite. Companion tu viet."
+  },
+  {
+   "ten_bai": "Trong giấc mơ buổi sáng",
+   "bo_sach": "KNTT",
+   "tac_gia": "Nguyễn Lãm Thắng",
+   "kind": "companion",
+   "full_text": "",
+   "companion": {
+    "tom_tat": "Bài thơ vẽ ra một giấc mơ rất đẹp của bạn nhỏ vào buổi sáng. Trong giấc mơ ấy, mọi vật quanh em đều hiền hoà và đáng yêu: dòng sông, cánh đồng, đàn chim, ánh nắng cùng nhau thức dậy. Giấc mơ trong trẻo khiến bạn nhỏ tỉnh giấc với niềm vui và tình yêu dành cho quê hương mình.",
+    "nhan_vat": "Bạn nhỏ đang mơ, cùng cảnh vật thiên nhiên buổi sáng.",
+    "y_nghia": "Bài thơ nuôi dưỡng trí tưởng tượng và tình yêu thiên nhiên, quê hương cho các em nhỏ; mỗi buổi sáng thức dậy là một khởi đầu tươi vui.",
+    "cau_hoi": [
+     "Bạn nhỏ trong bài thơ mơ thấy những gì?",
+     "Cảnh vật buổi sáng trong giấc mơ hiện lên như thế nào?",
+     "Em đã từng mơ một giấc mơ vui nào chưa? Kể cho cô và các bạn nghe nhé."
+    ]
+   },
+   "sources": [
+    "https://www.thivien.net/Nguy%E1%BB%85n-L%C3%A3m-Th%E1%BA%AFng/Trong-gi%E1%BA%A5c-m%C6%A1-bu%E1%BB%95i-s%C3%A1ng/poem-gy5FIdp1r-kT-u8IJBdsUQ",
+    "https://www.nxbgd.vn/bai-viet/nha-tho-ke-chuyen-sua-tho-trong-sach-giao-khoa"
+   ],
+   "ly_do": "Tho cua Nguyen Lam Thang (sinh 1973), tac gia duong dai con song - CON BAN QUYEN. Companion tu viet, khong chep nguyen van."
+  },
+  {
+   "ten_bai": "Đèn giao thông",
+   "bo_sach": "KNTT",
+   "tac_gia": "",
+   "kind": "companion",
+   "full_text": "",
+   "companion": {
+    "tom_tat": "Đây là bài đọc cung cấp hiểu biết về đèn giao thông. Ở các ngã ba, ngã tư thường có cột đèn ba màu: đỏ, vàng, xanh. Đèn đỏ báo cho người và xe phải dừng lại; đèn xanh báo được phép đi; đèn vàng báo phải đi chậm lại để chuẩn bị dừng. Nhờ đèn giao thông mà đường phố có trật tự; nếu không có đèn thì việc đi lại sẽ rất lộn xộn và nguy hiểm.",
+    "nhan_vat": "Không có nhân vật; đây là bài đọc cung cấp thông tin về đèn tín hiệu giao thông.",
+    "y_nghia": "Đi đường phải tuân theo tín hiệu đèn giao thông để giữ an toàn cho mình và cho mọi người. Chấp hành luật giao thông là việc ai cũng cần làm, kể cả các bạn nhỏ.",
+    "cau_hoi": [
+     "Đèn giao thông có mấy màu? Đó là những màu nào?",
+     "Khi gặp đèn đỏ, người và xe phải làm gì?",
+     "Trên đường đi học, em thấy đèn giao thông ở đâu? Em đã đi đúng tín hiệu đèn chưa?"
+    ]
+   },
+   "sources": [
+    "https://vndoc.com/giai-tieng-viet-1-trang-78-79-80-81-bai-5-den-giao-thong-234525",
+    "https://vietjack.com/tieng-viet-1-kn/bai-5-den-giao-thong.jsp"
+   ],
+   "ly_do": "Van ban thong tin bien soan rieng cho SGK KNTT (trang 78), con ban quyen, khong co nguon dang tac pham doc lap. Companion tu viet."
+  },
+  {
+   "ten_bai": "Đôi tai xấu xí",
+   "bo_sach": "KNTT",
+   "tac_gia": "",
+   "kind": "companion",
+   "full_text": "",
+   "companion": {
+    "tom_tat": "Chú thỏ nhỏ có đôi tai rất to nên hay bị các bạn trêu là xấu xí, khiến thỏ buồn lắm. Bố an ủi thỏ rằng rồi sẽ có ngày đôi tai ấy trở nên đáng quý. Một hôm, thỏ cùng các bạn đi chơi xa và bị lạc đường. Nhờ đôi tai to nghe được tiếng bố gọi từ phía xa, thỏ đã dẫn cả nhóm về nhà an toàn. Từ đó, các bạn đều khen đôi tai của thỏ thật tuyệt vời và thỏ không còn buồn nữa.",
+    "nhan_vat": "Chú thỏ có đôi tai to, bố của thỏ và các bạn trong rừng.",
+    "y_nghia": "Mỗi người có một nét riêng, không nên chê bai hình dáng của bạn. Điều mình từng cho là 'xấu xí' có khi lại là điểm mạnh rất có ích. Hãy tự tin là chính mình.",
+    "cau_hoi": [
+     "Vì sao lúc đầu chú thỏ buồn về đôi tai của mình?",
+     "Đôi tai to đã giúp thỏ và các bạn điều gì?",
+     "Em có điểm gì riêng của mình mà em thấy tự hào?"
+    ]
+   },
+   "sources": [
+    "https://vietjack.com/tieng-viet-1-kn/bai-2-doi-tai-xau-xi.jsp",
+    "https://vndoc.com/giai-bai-tap-tieng-viet-1-trang-8-9-10-11-bai-2-doi-tai-xau-xi-225438"
+   ],
+   "ly_do": "Truyen phong theo, bien soan cho SGK KNTT lop 1 tap 2 (trang 8), con ban quyen; khong tim duoc nguon dang tac pham doc lap ngoai cac trang soan bai. Companion tu viet."
+  },
+  {
+   "ten_bai": "Anh hùng biển cả",
+   "bo_sach": "Sách cũ",
+   "tac_gia": "Lê Quang Long",
+   "kind": "companion",
+   "full_text": "",
+   "companion": {
+    "tom_tat": "Bài đọc giới thiệu về cá heo - loài vật được gọi là 'anh hùng biển cả'. Cá heo là tay bơi giỏi nhất của biển, bơi nhanh vun vút như tên bắn. Khác với nhiều loài cá, cá heo đẻ con và nuôi con bằng sữa. Nó rất thông minh, khôn hơn cả chó và khỉ. Cá heo còn nhiều lần giúp người gặp nạn trên biển thoát chết, vì thế mọi người yêu quý và tặng cho nó danh hiệu anh hùng biển cả.",
+    "nhan_vat": "Cá heo - nhân vật chính của bài đọc.",
+    "y_nghia": "Bài đọc giúp em hiểu biết thêm về một loài vật thông minh và thân thiện với con người, từ đó biết yêu quý, bảo vệ các loài vật và biển cả.",
+    "cau_hoi": [
+     "Vì sao cá heo được gọi là anh hùng biển cả?",
+     "Cá heo nuôi con bằng gì? Điều đó có gì khác các loài cá khác?",
+     "Em có thể làm gì để bảo vệ biển và các loài vật sống ở biển?"
+    ]
+   },
+   "sources": [
+    "https://vndoc.com/giao-an-tap-doc-lop-1-bai-anh-hung-bien-ca-175753",
+    "https://giaoantieuhoc.com/giao-an-tap-doc-1-bai-anh-hung-bien-ca-15072/"
+   ],
+   "ly_do": "Tac gia Le Quang Long (nha sinh hoc, mat nam 2018) - chua qua 50 nam nen CON BAN QUYEN, khong du dieu kien recite. Ngoai ra nguyen van chi thay tren giao an/trang soan bai. Companion tu viet."
+  }
+ ]
+}
