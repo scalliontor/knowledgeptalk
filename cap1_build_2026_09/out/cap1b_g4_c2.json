@@ -1,0 +1,111 @@
+{
+ "grade": 4,
+ "chunk": 2,
+ "items": [
+  {
+   "ten_bai": "Ngựa biên phòng",
+   "bo_sach": "KNTT",
+   "tac_gia": "Phan Thị Thanh Nhàn",
+   "kind": "companion",
+   "full_text": "",
+   "companion": {
+    "tom_tat": "Bài thơ vẽ ra hình ảnh những chú ngựa của bộ đội biên phòng ngày đêm rong ruổi trên vùng biên giới. Ngựa theo các chú bộ đội đi tuần tra, băng qua sớm mù sương và đêm giá buốt, chân ngựa rắn rỏi như sắt thép, không ngại đường núi cheo leo. Các bạn nhỏ trong bản thương ngựa nên phơi thật nhiều cỏ thơm để dành tặng. Qua chú ngựa, bài thơ nói tới công lao thầm lặng của những người lính giữ biên cương.",
+    "nhan_vat": "Những chú ngựa biên phòng; các chú bộ đội biên phòng; các bạn nhỏ trong bản.",
+    "y_nghia": "Bài thơ nhắc các em biết ơn những người (và cả những con vật) đang lặng lẽ góp sức bảo vệ biên giới Tổ quốc, đồng thời khơi lên tình yêu thương, sự quan tâm với những gì gắn bó quanh mình.",
+    "cau_hoi": [
+     "Những chú ngựa biên phòng giúp các chú bộ đội làm việc gì?",
+     "Chi tiết nào trong bài cho em thấy công việc tuần tra biên giới rất vất vả?",
+     "Nếu gặp một chú ngựa biên phòng, em sẽ nói gì và làm gì cho chú ngựa ấy?"
+    ]
+   },
+   "sources": [
+    "https://www.vietjack.com/tieng-viet-4-kn/doc-ngua-bien-phong.jsp"
+   ],
+   "ly_do": "Tác giả Phan Thị Thanh Nhàn (sinh 1943) hiện còn sống, bài thơ còn bản quyền -> không chép nguyên văn, viết companion bằng lời riêng. Nguồn soạn-bài chỉ dùng để đối chiếu nội dung/tác giả."
+  },
+  {
+   "ten_bai": "Những bức chân dung",
+   "bo_sach": "KNTT",
+   "tac_gia": "Nguyên tác Ni-cô-lai Nô-xốp (Nikolai Nosov), bản dịch tiếng Việt",
+   "kind": "companion",
+   "full_text": "",
+   "companion": {
+    "tom_tat": "Họa sĩ Màu Nước vẽ chân dung tặng các bạn nhỏ. Hai bức đầu tiên vẽ Bông Tuyết và Mắt Xanh rất giống và rất đẹp vì giữ đúng nét riêng của mỗi bạn. Đến lượt Hoa Nhỏ, bạn ấy đòi vẽ mắt to hơn, lông mi dài hơn, miệng nhỏ lại cho \"đẹp\"; thấy vậy, các bạn khác cũng đòi sửa giống hệt như thế. Cuối cùng, khi xếp tất cả tranh cạnh nhau, các bạn nhỏ ngỡ ngàng vì bức nào cũng giống bức nào, chẳng còn nhận ra ai là ai nữa.",
+    "nhan_vat": "Họa sĩ Màu Nước; các bạn nhỏ Bông Tuyết, Mắt Xanh, Hoa Nhỏ và những bạn cùng đòi sửa tranh.",
+    "y_nghia": "Mỗi người đẹp theo một vẻ riêng. Chạy theo một khuôn mẫu chung sẽ làm mất đi nét riêng ấy, và bức chân dung đẹp thật sự là bức giữ được đúng con người mình.",
+    "cau_hoi": [
+     "Vì sao hai bức chân dung đầu tiên được các bạn nhỏ khen là đẹp?",
+     "Chuyện gì xảy ra khi các bạn nhỏ đều đòi họa sĩ sửa tranh theo cùng một kiểu?",
+     "Theo em, nét riêng nào của mình là điều em thích nhất ở bản thân?"
+    ]
+   },
+   "sources": [
+    "https://vietjack.com/tieng-viet-4-kn/doc-nhung-buc-chan-dung.jsp",
+    "https://vndoc.com/doc-hieu-bai-nhung-buc-chan-dung-lop-4-ket-noi-tri-thuc-361445"
+   ],
+   "ly_do": "Truyện dịch từ Nikolai Nosov; bản dịch tiếng Việt in trong SGK còn bản quyền của dịch giả -> chọn companion, tự viết tóm tắt. Không dùng trang soạn-bài làm nguồn nguyên văn."
+  },
+  {
+   "ten_bai": "Nếu em có một khu vườn",
+   "bo_sach": "KNTT",
+   "tac_gia": "Trương Huỳnh Như Trân",
+   "kind": "companion",
+   "full_text": "",
+   "companion": {
+    "tom_tat": "Bài đọc là lời tâm sự của một bạn nhỏ đang sống ở thành phố, mơ ước có riêng một khu vườn thật rộng. Trong khu vườn tưởng tượng ấy, bạn sẽ trồng cây mít để có trái và có lá làm đồ chơi, trồng me cho bóng mát và quả me chua, trồng anh đào, hoa giấy, hoa hồng cho vườn thêm rực rỡ. Hiện tại bạn nhỏ mới chỉ có mấy chậu cây nhỏ xíu trên ban công, nhưng vẫn chăm chút chúng bằng tất cả tình yêu dành cho cây cỏ.",
+    "nhan_vat": "Bạn nhỏ - người kể chuyện, đang sống ở thành phố và yêu cây cối.",
+    "y_nghia": "Bài đọc khơi dậy tình yêu thiên nhiên và trí tưởng tượng: dù chỉ có một khoảng nhỏ, em vẫn có thể chăm cây, gieo mầm xanh và nuôi những ước mơ đẹp.",
+    "cau_hoi": [
+     "Bạn nhỏ muốn trồng những loại cây nào trong khu vườn mơ ước của mình?",
+     "Vì sao bạn nhỏ lại chọn trồng những cây đó mà không phải cây khác?",
+     "Nếu em có một khu vườn, em sẽ trồng cây gì và chăm sóc nó như thế nào?"
+    ]
+   },
+   "sources": [
+    "https://vietjack.com/tieng-viet-4-kn/bai-27-neu-em-co-mot-khu-vuon.jsp",
+    "https://loigiaihay.com/bai-27-neu-em-co-mot-khu-vuon-trang-118-sgk-tieng-viet-lop-4-tap-1-ket-noi-tri-thuc-voi-cuoc-song-a137804.html"
+   ],
+   "ly_do": "Tác giả đương đại Trương Huỳnh Như Trân, tác phẩm còn bản quyền -> companion tự viết. Trang soạn-bài chỉ dùng đối chiếu tác giả và ý chính."
+  },
+  {
+   "ten_bai": "Sự tích con Rồng cháu Tiên",
+   "bo_sach": "KNTT",
+   "tac_gia": "Truyền thuyết Việt Nam (truyện dân gian)",
+   "kind": "recite",
+   "full_text": "Ngày xưa, ở miền đất Lạc Việt, cứ như bây giờ là Bắc Bộ nước ta, có một vị thần thuộc nòi rồng, con trai thần Long Nữ, tên là Lạc Long Quân. Thần mình rồng, thường ở dưới nước, thỉnh thoảng lên sống trên cạn, sức khỏe vô địch, có nhiều phép lạ.\n\nThần giúp nhân dân diệt trừ Ngư tinh, Hồ tinh, Mộc tinh là những loài yêu quái bấy lâu làm hại dân lành. Thần dạy dân cách trồng trọt, chăn nuôi và cách ăn ở. Xong việc, thần thường về thủy cung với mẹ, khi có việc cần, thần mới hiện lên.\n\nBấy giờ, ở vùng núi cao phương Bắc, có nàng Âu Cơ thuộc dòng họ Thần Nông, xinh đẹp tuyệt trần, nghe tiếng vùng đất Lạc có nhiều hoa thơm cỏ lạ, bèn tìm đến thăm. Âu Cơ và Lạc Long Quân gặp nhau, đem lòng yêu thương, rồi trở thành vợ chồng, cùng nhau chung sống trên cạn ở điện Long Trang.\n\nÍt lâu sau, Âu Cơ có mang đến kì sinh nở. Chuyện thật lạ, nàng sinh ra một cái bọc trăm trứng nở ra một trăm con trai, con nào con ấy hồng hào, đẹp đẽ lạ thường. Đàn con không cần bú mớm mà tự lớn lên như thổi, mặt mũi khôi ngô, khỏe mạnh như thần.\n\nThế rồi một hôm, Lạc Long Quân vốn quen ở nước, cảm thấy mình không thể sống mãi trên cạn được, đành từ biệt Âu Cơ và đàn con để trở về thủy cung với mẹ. Âu Cơ ở lại một mình nuôi đàn con, tháng ngày chờ mong, buồn tủi. Cuối cùng nàng gọi chồng lên và than thở:\n\n- Sao chàng bỏ thiếp mà đi, không cùng thiếp nuôi đàn con nhỏ?\n\nLạc Long Quân nói:\n\n- Ta vốn nòi rồng ở miền nước thẳm, nàng là dòng tiên ở chốn non cao. Kẻ ở cạn, người ở nước, tính tình tập quán khác nhau, khó mà ăn ở cùng nhau một nơi lâu dài được. Nay ta đưa năm mươi con xuống biển, nàng đưa năm mươi con lên núi, chia nhau cai quản các phương. Kẻ miền núi, người miền biển, khi có việc gì thì giúp đỡ lẫn nhau, đừng quên lời hẹn.\n\nÂu Cơ và trăm con nghe theo, rồi cùng nhau chia tay nhau lên đường.\n\nNgười con trưởng được tôn lên làm vua, lấy hiệu là Hùng Vương, đóng đô ở đất Phong Châu, đặt tên nước là Văn Lang. Triều đình có tướng văn, tướng võ, con trai vua gọi là quan lang, con gái vua gọi là mị nương, khi cha chết thì được truyền ngôi cho con trưởng, mười mấy đời truyền nối ngôi vua đều lấy danh hiệu Hùng Vương, không hề thay đổi.\n\nCũng bởi sự tích này mà về sau, người Việt Nam ta con cháu vua Hùng, thường nhắc đến nguồn gốc của mình là con Rồng cháu Tiên.",
+   "companion": {
+    "tom_tat": "",
+    "nhan_vat": "",
+    "y_nghia": "",
+    "cau_hoi": []
+   },
+   "sources": [
+    "https://mnhoasen.longbien.edu.vn/truyen-ke-cho-be/truyen-thuyet-con-rong-chau-tien/ctmb/6815/645576",
+    "https://vi.wikipedia.org/wiki/Con_R%E1%BB%93ng_ch%C3%A1u_Ti%C3%AAn"
+   ],
+   "ly_do": "Truyền thuyết dân gian Việt Nam -> phạm vi công cộng. Lấy bản kể phổ thông (không phải trang soạn-bài), đã bỏ chú thích số [1]-[5], bỏ metadata, sửa 2 lỗi gõ của trang nguồn ('deem/đèm lòng'->'đem lòng', 'giòng tiên'->'dòng tiên', 'Long Tráng'->'Long Trang' theo bản chuẩn). Text liền mạch, không câu hỏi cuối bài."
+  },
+  {
+   "ten_bai": "Thanh âm của núi",
+   "bo_sach": "KNTT",
+   "tac_gia": "Hà Phong",
+   "kind": "companion",
+   "full_text": "",
+   "companion": {
+    "tom_tat": "Bài đọc giới thiệu cây khèn - nhạc cụ gắn bó với đồng bào Mông ở vùng núi Tây Bắc. Cây khèn được người Mông làm rất kì công từ gỗ ghép với sáu ống trúc dài ngắn khác nhau. Tiếng khèn theo người Mông lên nương, xuống chợ, vang lên trong những ngày xuân về. Ai lên Tây Bắc cũng có thể bắt gặp hình ảnh nghệ nhân đứng thổi khèn trên đỉnh núi, bóng in trên nền trời xanh đẹp như một tuyệt tác của thiên nhiên.",
+    "nhan_vat": "Người Mông ở vùng cao Tây Bắc và những nghệ nhân thổi khèn; cây khèn là hình ảnh trung tâm của bài.",
+    "y_nghia": "Tiếng khèn là nét văn hóa quý báu được truyền từ đời này sang đời khác. Bài đọc nhắc các em trân trọng và gìn giữ bản sắc văn hóa của các dân tộc trên đất nước mình.",
+    "cau_hoi": [
+     "Cây khèn của người Mông được làm từ những vật liệu nào?",
+     "Tiếng khèn thường vang lên vào những lúc nào trong đời sống của người Mông?",
+     "Ở quê em có nhạc cụ hay làn điệu nào đặc biệt không? Em muốn giới thiệu điều gì về nó?"
+    ]
+   },
+   "sources": [
+    "https://vietjack.com/tieng-viet-4-kn/doc-thanh-am-cua-nui.jsp",
+    "https://loigiaihay.com/bai-19-thanh-am-cua-nui-trang-85-sgk-tieng-viet-lop-4-tap-1-ket-noi-tri-thuc-voi-cuoc-song-a137648.html"
+   ],
+   "ly_do": "Bài kí/tản văn của tác giả đương đại Hà Phong, còn bản quyền -> companion. Chỉ đối chiếu chi tiết (gỗ + sáu ống trúc, lên nương/xuống chợ/xuân về) qua trang soạn-bài, không chép nguyên văn."
+  }
+ ]
+}

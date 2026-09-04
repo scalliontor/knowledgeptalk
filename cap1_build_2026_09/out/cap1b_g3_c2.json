@@ -87,7 +87,7 @@
     "https://vndoc.com/tap-doc-lop-3-nhung-chiec-chuong-reo-132656",
     "https://mamnonhoami.edu.vn/tap-doc-chinh-ta/nhung-chiec-chuong-reo.html"
    ],
-   "ly_do": "Ngo Quan Mien (1925-2011) mat chua qua 50 nam, bai con ban quyen; khong tim duoc nguyen van ngoai cac trang soan bai -> COMPANION tu viet."
+   "ly_do": "Ngo Quan Mien la nha van/nha tho Viet Nam the ki XX, mat chua qua 50 nam nen bai con ban quyen; ngoai ra khong tim duoc nguyen van dang tin ngoai cac trang soan bai -> COMPANION tu viet."
   },
   {
    "ten_bai": "Nắng phương Nam",
@@ -127,6 +127,94 @@
     "https://truyencotich.vn/truyen-co-tich/co-tich-viet-nam/su-tich-chu-cuoi-cung-trang.html"
    ],
    "ly_do": "Truyen co tich dan gian Viet Nam, khong co tac gia -> PHAM VI CONG CONG. Lay nguyen van tu trang truyen co tich (khong phai trang soan bai), da lam sach: bo dong 'Nguon:', sua loi bang ma D-gach (U+00D0 -> U+0110), khong chu thich so, khong cau hoi cuoi bai. LUU Y CHO NGUOI RA SOAT: day la BAN DAY DU (Kho tang truyen co tich Viet Nam); SGK lop 3 dung ban rut gon 3 doan. Hai doan 'bon giac moi ruot vo Cuoi' va 'doan noi ve viec vo Cuoi dai vao goc cay' co chi tiet manh, nen can nhac truoc khi doc cho hoc sinh lop 3."
+  },
+  {
+   "ten_bai": "Sự tích lễ hội Chử Đồng Tử",
+   "bo_sach": "Sách cũ",
+   "tac_gia": "Hoàng Lê",
+   "kind": "companion",
+   "full_text": "",
+   "companion": {
+    "tom_tat": "Đời Hùng Vương thứ mười tám, ở làng Chử Xá bên bờ sông Hồng có chàng trai nghèo tên là Chử Đồng Tử. Mẹ mất sớm, hai cha con chỉ có chung một chiếc khố; khi cha mất, chàng thương cha nên quấn khố chôn cha, còn mình đành chịu ở không. Một hôm đang mò cá dưới sông, thấy thuyền lớn của công chúa Tiên Dung sắp cập bãi, chàng hoảng sợ chạy lên bờ, vùi mình trong cát giữa khóm lau. Không ngờ công chúa lại vây màn tắm đúng chỗ ấy; nước dội làm trôi cát, lộ ra Chử Đồng Tử. Nghe rõ đầu đuôi, Tiên Dung cho rằng duyên trời đã định nên kết duyên cùng chàng. Về sau hai vợ chồng đi khắp nơi dạy dân cách trồng lúa, nuôi tằm, dệt vải, rồi cùng hoá lên trời. Nhớ ơn hai người, nhân dân lập đền thờ; hằng năm, suốt mấy tháng mùa xuân, cả một vùng bờ bãi sông Hồng lại nô nức làm lễ, mở hội.",
+    "nhan_vat": "Chử Đồng Tử - chàng trai nghèo nhưng rất hiếu thảo; công chúa Tiên Dung - con gái vua Hùng thứ mười tám, nhân hậu và không phân biệt sang hèn; người cha của Chử Đồng Tử.",
+    "y_nghia": "Bài đọc giải thích vì sao vùng bờ bãi sông Hồng có lễ hội Chử Đồng Tử. Câu chuyện đề cao lòng hiếu thảo với cha mẹ, tấm lòng nhân hậu không phân biệt giàu nghèo, và công lao dạy dân làm ăn của Chử Đồng Tử - Tiên Dung; vì thế nhân dân đời đời nhớ ơn hai người.",
+    "cau_hoi": [
+     "Chi tiết nào trong câu chuyện cho thấy Chử Đồng Tử rất thương cha?",
+     "Vì sao công chúa Tiên Dung lại quyết định kết duyên với Chử Đồng Tử?",
+     "Nhân dân làm gì hằng năm để tưởng nhớ Chử Đồng Tử? Ở quê em có lễ hội nào để nhớ ơn người xưa không?"
+    ]
+   },
+   "sources": [
+    "https://tapchinghiencuuphathoc.vn/truyen-thuyet-ve-chu-dong-tu-tien-dung.html",
+    "https://hungyentourism.com.vn/chu-dong-tu-tien-dung-huyen-thoai-mot-tinh-yeu-bat-tu-c2236.html"
+   ],
+   "ly_do": "Truyen thuyet goc thuoc pham vi cong cong, NHUNG van ban trong SGK la ban ke lai co tac gia dung ten (Hoang Le) va khong tim duoc nguyen van ban SGK ngoai cac trang soan bai. Cac ban truyen thuyet tren mang la van ban KHAC (dai hon, loi ke khac) nen neu dung se sai voi bai hoc -> chon COMPANION tu viet, chi doi chieu tinh tiet."
+  },
+  {
+   "ten_bai": "Âm thanh thành phố",
+   "bo_sach": "Sách cũ",
+   "tac_gia": "Tô Ngọc Hiến",
+   "kind": "companion",
+   "full_text": "",
+   "companion": {
+    "tom_tat": "Bài đọc trích từ truyện \"Kỉ niệm về một nhà máy\", kể về Hải, một người rất say mê âm nhạc. Hồi còn đi học, từ căn gác nhỏ của mình, Hải nghe được đủ thứ âm thanh náo nhiệt của thủ đô: tiếng ve rền rĩ trong lá cây, tiếng kéo lách cách của người bán thịt bò khô, tiếng còi ô tô xin đường gay gắt, tiếng còi tàu hoả thét lên và tiếng bánh sắt lăn ầm ầm trên đường ray. Rồi mọi thứ như lặng đi để nhường chỗ cho tiếng đàn vi-ô-lông trên một ban công và tiếng pi-a-nô ở một căn gác. Sau này Hải ra Cẩm Phả nhận công tác; mỗi dịp về Hà Nội, anh thích ngồi lặng hàng giờ nghe bạn mình chơi bản \"Ánh trăng\" của Bét-tô-ven trên đàn pi-a-nô, và thấy đầu óc dễ chịu, bớt căng thẳng.",
+    "nhan_vat": "Hải - người yêu âm nhạc, sau này đi làm ở Cẩm Phả; người bạn của Hải chơi đàn pi-a-nô ở Hà Nội.",
+    "y_nghia": "Bài đọc vẽ nên bức tranh âm thanh sôi động, ồn ã của thành phố. Giữa những tiếng ồn ấy, tiếng đàn êm dịu mang lại sự thư thái cho con người. Bài học: hãy biết lắng nghe và tìm thấy cái đẹp ngay trong cuộc sống hằng ngày quanh mình.",
+    "cau_hoi": [
+     "Từ căn gác nhỏ, Hải nghe được những âm thanh nào của thành phố?",
+     "Vì sao khi nghe bản nhạc \"Ánh trăng\", Hải lại thấy dễ chịu và bớt căng thẳng?",
+     "Hằng ngày em nghe thấy những âm thanh nào quanh nhà mình? Em thích âm thanh nào nhất, vì sao?"
+    ]
+   },
+   "sources": [
+    "https://vndoc.com/tap-doc-lop-3-am-thanh-thanh-pho-138614",
+    "https://vndoc.com/huong-dan-cam-thu-van-hoc-lop-3-bai-am-thanh-thanh-pho-153820"
+   ],
+   "ly_do": "Trich 'Ki niem ve mot nha may' cua To Ngoc Hien - nha van Viet Nam the ki XX, tac pham con ban quyen. Khong chep nguyen van -> COMPANION tu viet."
+  },
+  {
+   "ten_bai": "Đối đáp với vua",
+   "bo_sach": "Sách cũ",
+   "tac_gia": "Quốc Chấn",
+   "kind": "companion",
+   "full_text": "",
+   "companion": {
+    "tom_tat": "Một lần vua Minh Mạng từ kinh đô Huế ngự giá ra Thăng Long, rồi cho xa giá đến ngắm cảnh Hồ Tây. Quân lính đuổi hết dân chúng đi, không cho ai đến gần. Cao Bá Quát khi ấy còn là một cậu bé, rất muốn nhìn rõ mặt vua, bèn nghĩ ra cách cởi quần áo nhảy xuống hồ tắm và vùng vẫy làm náo động cả một vùng. Quân lính bắt trói cậu lại. Cậu kêu lên rằng mình chỉ là học trò đi xem, xin được tha. Vua nghe vậy liền ra một vế đối để thử tài: \"Nước trong leo lẻo cá đớp cá\". Cậu bé đối lại ngay: \"Trời nắng chang chang người trói người\". Câu đối vừa chỉnh vừa kín đáo tỏ ý không bằng lòng việc mình bị trói; vua thấy cậu bé giỏi nên truyền lệnh tha.",
+    "nhan_vat": "Cao Bá Quát lúc còn nhỏ - thông minh, gan dạ, đối đáp nhanh; vua Minh Mạng; quân lính hộ giá.",
+    "y_nghia": "Câu chuyện ca ngợi Cao Bá Quát - một cậu bé thông minh, có bản lĩnh, dám nghĩ dám làm và ứng đối rất tài. Bài học: học giỏi, nhanh trí và bình tĩnh sẽ giúp ta thoát khỏi tình huống khó.",
+    "cau_hoi": [
+     "Cậu bé Cao Bá Quát đã nghĩ ra cách gì để được nhìn thấy mặt vua?",
+     "Vế đối của cậu bé hay ở chỗ nào so với vế đối của nhà vua?",
+     "Em học được điều gì ở cậu bé Cao Bá Quát?"
+    ]
+   },
+   "sources": [
+    "https://vungoi.vn/lop-3/chi-tiet-ly-thuyet-tap-doc-doi-dap-voi-vua-5b83ba7970d10c855f4ecd91.html",
+    "https://vi.wikipedia.org/wiki/Cao_B%C3%A1_Qu%C3%A1t"
+   ],
+   "ly_do": "Giai thoai dan gian ve Cao Ba Quat nhung van ban SGK la ban ke lai cua tac gia hien dai Quoc Chan, khong tim duoc nguyen van ngoai trang soan bai -> COMPANION. (Hai ve doi 'Nuoc trong leo leo ca dop ca' / 'Troi nang chang chang nguoi troi nguoi' la cau doi dan gian, duoc dan lai trong phan tom tat.)"
+  },
+  {
+   "ten_bai": "Ở lại với chiến khu",
+   "bo_sach": "Sách cũ",
+   "tac_gia": "Phùng Quán",
+   "kind": "companion",
+   "full_text": "",
+   "companion": {
+    "tom_tat": "Trong những ngày kháng chiến gian khổ, trung đoàn trưởng đến gặp các chiến sĩ nhỏ tuổi trong lán và báo tin: đời sống ở chiến khu sắp còn khó khăn, thiếu thốn hơn nhiều, ai muốn trở về sống với gia đình thì trung đoàn cho về. Nghe vậy, cả đội lặng đi rồi đồng thanh xin ở lại. Lượm bước ra nói em xin ở lại, thà chết ở chiến khu chứ không về ở chung với bọn Tây và Việt gian. Mừng thì tha thiết van xin đừng bắt các em về, còn nói các em còn nhỏ, chưa làm được nhiều nên trung đoàn cho ăn ít cũng được. Trung đoàn trưởng cảm động, hứa sẽ báo cáo lại với Ban chỉ huy. Cả đội cùng cất tiếng hát bài ca Vệ quốc quân, tiếng hát bay lên giữa đêm rừng chiến khu.",
+    "nhan_vat": "Trung đoàn trưởng - người chỉ huy thương các em nhỏ; Lượm, Mừng và các chiến sĩ nhỏ tuổi trong đội Vệ quốc quân.",
+    "y_nghia": "Bài đọc ca ngợi tinh thần yêu nước và lòng dũng cảm của những thiếu niên Vệ quốc quân: dù còn nhỏ và phải chịu đói khổ, các em vẫn tha thiết xin ở lại chiến khu để được góp sức đánh giặc, cứu nước.",
+    "cau_hoi": [
+     "Trung đoàn trưởng đến gặp các bạn nhỏ để nói điều gì?",
+     "Lời nói của Lượm và của Mừng cho em thấy các bạn ấy là người thế nào?",
+     "Vì sao khi cả đội cùng hát, tiếng hát lại làm mọi người xúc động?"
+    ]
+   },
+   "sources": [
+    "https://vndoc.com/tap-doc-lop-3-o-lai-voi-chien-khu-140747",
+    "https://vi.wikipedia.org/wiki/Ph%C3%B9ng_Qu%C3%A1n"
+   ],
+   "ly_do": "Trich tieu thuyet 'Tuoi tho du doi' cua Phung Quan (1932-1995) - mat chua qua 50 nam, con ban quyen -> COMPANION tu viet, khong chep nguyen van."
   }
  ]
 }
