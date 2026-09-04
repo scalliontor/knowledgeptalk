@@ -1,0 +1,211 @@
+{
+ "grade": 3,
+ "chunk": 1,
+ "items": [
+  {
+   "ten_bai": "Ngọn lửa Ô-lim-pích",
+   "bo_sach": "KNTT",
+   "tac_gia": "Theo Những mẩu chuyện lịch sử thế giới",
+   "kind": "companion",
+   "full_text": "",
+   "companion": {
+    "tom_tat": "Bài đọc kể cho em nghe về Đại hội Thể thao Ô-lim-pích. Tục lệ này đã có từ gần ba nghìn năm trước ở nước Hi Lạp cổ. Cứ bốn năm một lần, vào tháng Bảy, trai tráng khắp nơi lại đổ về thành phố Ô-lim-pi-a để thi chạy, nhảy, bắn cung, đua ngựa, ném đĩa, ném lao, đấu vật... Người đoạt giải được tấu nhạc chúc mừng và được đội lên đầu một vòng nguyệt quế. Trong những ngày lễ hội, mọi cuộc xung đột đều phải tạm ngừng, còn thành phố thì đông vui, tưng bừng. Từ năm 1894, tục lệ đẹp này được khôi phục và tổ chức trên toàn thế giới; ngọn lửa mang từ Ô-lim-pi-a tới được thắp sáng trong giờ khai mạc để báo hiệu các cuộc đua tài bắt đầu.",
+    "nhan_vat": "Đây là bài văn thông tin, không có nhân vật. Bài nói về Đại hội Thể thao Ô-lim-pích, thành phố Ô-lim-pi-a của Hi Lạp cổ và ngọn lửa Ô-lim-pích.",
+    "y_nghia": "Bài cho em biết một tục lệ đẹp có từ rất lâu đời của loài người: dùng thể thao để gặp gỡ, đua tài. Ngọn lửa Ô-lim-pích là biểu tượng của hoà bình và hữu nghị - khi lễ hội diễn ra thì mọi xung đột đều phải tạm dừng lại.",
+    "cau_hoi": [
+     "Đại hội Thể thao Ô-lim-pích có từ bao giờ và ở nước nào?",
+     "Ngày xưa, người đoạt giải trong đại hội được thưởng gì?",
+     "Vì sao ngọn lửa Ô-lim-pích được coi là biểu tượng của hoà bình và hữu nghị?"
+    ]
+   },
+   "sources": [
+    "https://vietjack.com/tieng-viet-3-kn/doc-ngon-lua-o-lim-pich.jsp",
+    "https://vndoc.com/tap-doc-lop-3-ngon-lua-o-lim-pich-5446"
+   ],
+   "ly_do": "SGK ghi nguồn '(Theo Những mẩu chuyện lịch sử thế giới)' - sách biên soạn/biên dịch hiện đại, không xác định được tác giả thuộc phạm vi công cộng, cũng không phải truyện dân gian -> KHÔNG recite. Tự viết companion, các chi tiết (3000 năm, Hi Lạp cổ, 4 năm/lần, tháng 7, vòng nguyệt quế, năm 1894) đã đối chiếu với bản bài đọc đăng trên trang soạn bài, chỉ dùng để kiểm chứng dữ kiện."
+  },
+  {
+   "ten_bai": "Những bậc đá chạm mây",
+   "bo_sach": "KNTT",
+   "tac_gia": "Theo Nguyễn Đổng Chi",
+   "kind": "recite",
+   "full_text": "Ngày xưa, dưới chân núi Hồng Lĩnh có một xóm nhỏ, người dân sống bằng nghề đánh cá. Cuộc sống đang yên lành, bỗng một trận bão khủng khiếp cuốn đi tất cả thuyền bè. Dân xóm chài hết đường sinh sống, đành lên núi kiếm củi đem ra chợ bán. Nhưng sườn núi phía họ ở dựng đứng, bà con phải đi đường vòng rất xa.\n\nBấy giờ trong xóm có một ông lão nghèo. Người ta gọi ông là cố Đương vì hễ gặp việc gì khó, ông đều đảm đương gánh vác. Thấy lên núi phải đi đường vòng, ông bàn với mọi người ghép đá thành bậc thang vượt dốc để có được con đường ngắn như mong muốn. Ai nấy đều lắc đầu bảo việc ấy khó lắm, không làm được.\n\nNhưng cố Đương vẫn tìm cách làm đường. Công việc nặng nhọc không khiến ông sờn lòng. Thấy ông đói, những con vượn ở gần đó mang hoa quả đến cho ông. Chim chóc thay nhau ca hát để ông quên mệt. Về sau, nhiều người trong xóm tình nguyện đến làm cùng.\n\nSau năm lần sim ra quả, con đường lên núi đã hoàn thành. Nhờ đó, mọi người có thể lên xuống núi dễ dàng. Cả xóm biết ơn cố Đương, tặng thêm cho ông một tên mới là cố Ghép. Ngày nay, con đường vượt núi gọi là Truông Ghép vẫn còn ở phía nam dãy núi Hồng Lĩnh.",
+   "companion": {
+    "tom_tat": "",
+    "nhan_vat": "",
+    "y_nghia": "",
+    "cau_hoi": []
+   },
+   "sources": [
+    "https://thohay.vn/nhung-bac-da-cham-may.html",
+    "https://vndoc.com/tieng-viet-3-trang-112-113-bai-25-nhung-bac-da-cham-may-phan-doc-270372",
+    "https://vietjack.com/tieng-viet-3-kn/bai-25-nhung-bac-da-cham-may.jsp"
+   ],
+   "ly_do": "Truyền thuyết dân gian Việt Nam (sự tích Truông Ghép, dãy Hồng Lĩnh - Hà Tĩnh) -> thuộc nhóm 'truyện dân gian/truyền thuyết Việt Nam' được phép recite. Đối chiếu 3 bản chép độc lập, khớp gần như từng chữ; các chỗ lệch do lỗi OCR đã lấy theo đa số ('sườn núi phía họ ở dựng đứng' 2/3, 'tặng thêm cho ông' 2/3, 'hoàn thành. Nhờ đó,' 2/3). Đã bỏ dòng ghi nguồn '(Theo Nguyễn Đổng Chi)' và toàn bộ câu hỏi/soạn bài. CẦN NGƯỜI DUYỆT XEM LẠI: SGK ghi 'Theo Nguyễn Đổng Chi' (1915-1984, mới 42 năm) - xếp recite theo quy tắc truyện dân gian chứ không theo quy tắc tác giả mất trên 50 năm."
+  },
+  {
+   "ten_bai": "Những cái tên đáng yêu",
+   "bo_sach": "KNTT",
+   "tac_gia": "Theo Hà Nhi",
+   "kind": "companion",
+   "full_text": "",
+   "companion": {
+    "tom_tat": "Câu chuyện kể về một cây nấm nhỏ mọc trên bãi cỏ. Buổi sáng, giun đất bò tới uống những giọt sương đọng trên tán nấm và gọi nấm là chiếc bàn xinh xắn. Buổi trưa, kiến nằm ngủ dưới chân nấm nên gọi nấm là mái nhà xinh đẹp. Buổi chiều, hai chú bướm bay lượn ngắm nghía và tưởng nấm là một chiếc mũ có chân. Tối đến, ếch cốm nhảy lên tán nấm ngồi nghỉ và gọi nấm là chiếc ghế nhỏ. Đêm khuya, nghe lại tất cả những cái tên ấy, nấm thấy thú vị quá, liền bật cười khúc khích.",
+    "nhan_vat": "Nhân vật chính là cây nấm. Các nhân vật phụ lần lượt đến bên nấm là giun đất, kiến, bướm và ếch cốm.",
+    "y_nghia": "Cùng một cây nấm mà mỗi con vật lại gọi bằng một cái tên khác nhau, vì với mỗi bạn, nấm có một ích lợi và một dáng vẻ riêng. Bài học nhẹ nhàng cho em: một sự vật có thể được nhìn theo nhiều cách, và cách gọi tên nói lên tình cảm của người gọi.",
+    "cau_hoi": [
+     "Có mấy con vật đến bên cây nấm? Đó là những con vật nào?",
+     "Vì sao mỗi con vật lại gọi cây nấm bằng một cái tên khác nhau?",
+     "Nếu là em, em sẽ đặt cho cây nấm cái tên gì? Vì sao?"
+    ]
+   },
+   "sources": [
+    "https://vietjack.com/tieng-viet-3-kn/doc-nhung-cai-ten-dang-yeu.jsp",
+    "https://vndoc.com/tieng-viet-3-trang-19-20-bai-4-nhung-cai-ten-dang-yeu-phan-doc-270742"
+   ],
+   "ly_do": "SGK KNTT lớp 3 tập 2 trang 19-20 ghi nguồn '(Theo Hà Nhi)' - tác giả đương đại, còn bản quyền -> KHÔNG chép nguyên văn. Tự viết companion; các chi tiết (giun đất/kiến/bướm/ếch cốm, bốn cái tên, nấm bật cười khúc khích) đối chiếu với bài đọc và phần trả lời câu hỏi."
+  },
+  {
+   "ten_bai": "Những điều nhỏ tớ làm cho Trái Đất",
+   "bo_sach": "KNTT",
+   "tac_gia": "Theo Trang Nguyễn",
+   "kind": "companion",
+   "full_text": "",
+   "companion": {
+    "tom_tat": "Bài viết nêu ba việc nhỏ mà bạn nào cũng làm được để giữ gìn Trái Đất. Một là không vứt rác bừa bãi, vì nếu ai cũng nghĩ đã có người dọn hộ thì Trái Đất sẽ thành một núi rác khổng lồ. Hai là không dùng túi ni lông, mà thay bằng túi vải, túi giấy, để cứu các sinh vật biển. Ba là không lãng phí đồ ăn, vì không để thừa thức ăn cũng là tôn trọng người đã làm ra thức ăn cho mình.",
+    "nhan_vat": "Bài văn thông tin, không có nhân vật. Người viết xưng 'tớ' và trò chuyện trực tiếp với các bạn nhỏ.",
+    "y_nghia": "Bài dạy em rằng bảo vệ Trái Đất không phải là việc gì to tát. Mỗi ngày, chỉ cần bỏ rác đúng chỗ, mang theo túi vải và ăn hết suất ăn của mình là em đã góp phần giữ cho Trái Đất sạch đẹp rồi.",
+    "cau_hoi": [
+     "Bài viết nhắc đến mấy điều cần làm cho Trái Đất? Đó là những điều gì?",
+     "Vì sao chúng ta nên dùng túi vải, túi giấy thay cho túi ni lông?",
+     "Em hãy kể thêm một điều nhỏ nữa mà em có thể làm cho Trái Đất."
+    ]
+   },
+   "sources": [
+    "https://vndoc.com/tieng-viet-3-trang-122-123-bai-28-nhung-dieu-nho-to-lam-cho-trai-dat-doc-271472",
+    "https://vietjack.com/tieng-viet-3-kn/doc-nhung-dieu-nho-to-lam-cho-trai-dat.jsp"
+   ],
+   "ly_do": "SGK KNTT lớp 3 tập 2 trang 122-123 ghi nguồn '(Theo Trang Nguyễn)' - tác giả đương đại (nhà bảo tồn động vật hoang dã, còn sống), còn bản quyền -> companion, không chép nguyên văn. Ba đề mục và các dữ kiện (300 triệu túi ni lông trôi nổi trên đại dương, túi vải/túi giấy) đã đối chiếu với bài đọc."
+  },
+  {
+   "ten_bai": "Núi quê tôi",
+   "bo_sach": "KNTT",
+   "tac_gia": "Theo Lê Phương Liên",
+   "kind": "companion",
+   "full_text": "",
+   "companion": {
+    "tom_tat": "Bài văn tả ngọn núi ở quê của người kể chuyện. Từ xa, trên con đường đất đỏ về làng, đã thấy bóng núi xanh thẫm in trên nền trời mây trắng. Cuối thu sang đông, đỉnh núi có mây trắng bay như một tấm khăn mỏng; mùa hè, trong ánh chớp của cơn dông, cả ngọn núi hiện ra xanh mướt. Núi có đủ sắc xanh của lá bạch đàn, lá tre, vườn chè, vườn sắn, cỏ, dứa dại và sim mua. Ở lưng chừng núi có khe nước chảy trong vắt. Đứng từ xa, tác giả vẫn nghe tiếng lá reo và ngửi thấy hương chè xanh, hương khói bếp nhà ai.",
+    "nhan_vat": "Bài văn tả cảnh, không có nhân vật. Người kể xưng 'tôi' kể về ngọn núi quê mình.",
+    "y_nghia": "Bài giúp em thấy quê hương đẹp bình dị qua những màu xanh, âm thanh và mùi hương rất quen thuộc. Qua đó em học được cách quan sát và cách dùng hình ảnh so sánh để tả cảnh, đồng thời cảm nhận được tình yêu quê hương tha thiết của tác giả.",
+    "cau_hoi": [
+     "Từ xa nhìn về, ngọn núi quê tác giả hiện lên như thế nào?",
+     "Tác giả đã dùng những hình ảnh so sánh nào để tả núi?",
+     "Ở quê em có cảnh vật nào em yêu thích? Em hãy tả vài câu."
+    ]
+   },
+   "sources": [
+    "https://vndoc.com/tieng-viet-3-trang-83-84-bai-18-nui-que-toi-doc-271247",
+    "https://vietjack.com/tieng-viet-3-kn/doc-nui-que-toi.jsp"
+   ],
+   "ly_do": "SGK KNTT lớp 3 tập 2 trang 83-84 ghi nguồn '(Theo Lê Phương Liên)' - nhà văn thiếu nhi đương đại (sinh 1951, còn sống), còn bản quyền -> companion, không chép nguyên văn. Các chi tiết (mây trắng như tấm khăn mỏng, lá cây bay như làn tóc bà tiên, khe nước trong vắt, hương chè xanh) đã đối chiếu với bài đọc."
+  },
+  {
+   "ten_bai": "Sự tích ông Đùng, bà Đùng",
+   "bo_sach": "KNTT",
+   "tac_gia": "Theo Truyện cổ dân tộc Mường",
+   "kind": "recite",
+   "full_text": "Ngày xửa ngày xưa, ở xứ Mường Bi xuất hiện một đôi vợ chồng cao lớn khác thường. Họ đứng cao hơn năm lần đỉnh núi cao nhất. Người Mường gọi họ là ông Đùng, bà Đùng, nghĩa là ông bà khổng lồ.\n\nHồi ấy, đất thì cao thấp, lồi lõm. Cây cối hoang dại mọc chằng chịt. Nước thì chảy từ lòng đất, ngập lênh láng khắp nơi. Thấy vậy, ông Đùng, bà Đùng liền ra tay. Chỉ một ngày, ông bà đã nhổ cây, san đất, làm thành cánh đồng bằng phẳng, rộng rãi, lấy chỗ cho dân ở và cày cấy.\n\nÔng Đùng bàn với vợ làm một con đường dẫn nước đi, tránh để nước tràn lênh láng. Ông Đùng lom khom dùng tay bới đất đằng trước, bà Đùng hì hụi vét đất đằng sau. Họ làm việc suốt ngày đêm, cùng trò chuyện vui vẻ. Thế rồi, theo con đường ông bà Đùng đào bới, nước đã chảy thành dòng, vượt qua đồi núi, đổ về xuôi. Đó chính là con sông Đà ngày nay.\n\nXong mọi việc, ông bà Đùng ngẩng đầu nhìn lại mới biết: Do vét đất ban đêm, không nhìn rõ, dòng sông đã không thẳng. Nơi chưa được vét, đất đá cản trở dòng chảy và tạo thành thác ghềnh. Vì thế, sông Đà mới ngoằn ngoèo, có tới \"trăm bảy mươi thác, trăm ba mươi ghềnh\" như bây giờ.",
+   "companion": {
+    "tom_tat": "",
+    "nhan_vat": "",
+    "y_nghia": "",
+    "cau_hoi": []
+   },
+   "sources": [
+    "https://thohay.vn/su-tich-ong-dung-ba-dung.html",
+    "https://haylamdo.com/tieng-viet-3-kn/bai-22-su-tich-ong-dung-ba-dung.jsp",
+    "https://thegioicotich.vn/ong-dung-ba-dung/"
+   ],
+   "ly_do": "Truyện cổ/truyền thuyết dân tộc Mường, SGK ghi '(Theo Truyện cổ dân tộc Mường)' - không có tác giả cá nhân, thuộc phạm vi công cộng. Chép đúng bản rút gọn trong SGK KNTT lớp 3 tập 2 trang 99-100; đối chiếu 2 bản chép độc lập, các chỗ lệch chỉ là lỗi gõ và đã lấy bản đúng chính tả ('khổng lồ', 'lồi lõm', 'chằng chịt', 'cánh đồng', 'con sông Đà', 'trăm bảy mươi thác'). Bản dân gian đầy đủ ở thegioicotich dài hơn nhiều nên chỉ dùng để kiểm chứng nội dung, KHÔNG dùng làm nguyên văn. Đã bỏ dòng ghi nguồn và chú thích."
+  },
+  {
+   "ten_bai": "Trò chuyện cùng mẹ",
+   "bo_sach": "KNTT",
+   "tac_gia": "Diệu Thuý",
+   "kind": "companion",
+   "full_text": "",
+   "companion": {
+    "tom_tat": "Với hai chị em Thư và Hân, lúc vui nhất trong buổi tối là trước khi đi ngủ. Đã thành thói quen, ba mẹ con cùng đọc sách rồi thủ thỉ chuyện trò. Có hôm ba mẹ con bàn về các nhân vật trong quyển sách vừa đọc, có hôm mẹ kể về công việc của mẹ hay về ngày mẹ còn bé. Em Hân bao giờ cũng tranh kể trước, toàn chuyện ở lớp mẫu giáo; còn Thư kể chuyện được cô giáo mời đọc bài văn trước lớp, chuyện những bài toán các bạn đố nhau giờ ra chơi. Mẹ hẹn 'năm phút nữa thôi' nhưng chính mẹ lại nấn ná nghe, nên năm phút cứ được cộng thêm mãi.",
+    "nhan_vat": "Nhân vật chính là ba mẹ con: mẹ, chị Thư và em Hân.",
+    "y_nghia": "Câu chuyện cho em thấy niềm vui giản dị của một gia đình: cùng đọc sách và cùng trò chuyện mỗi tối. Nhờ trò chuyện, mẹ và các con hiểu nhau, yêu thương nhau hơn.",
+    "cau_hoi": [
+     "Thời gian vui nhất trong buổi tối của Thư và Hân là lúc nào?",
+     "Ba mẹ con thường kể cho nhau nghe những chuyện gì?",
+     "Buổi tối ở nhà, em thường làm gì cùng người thân?"
+    ]
+   },
+   "sources": [
+    "https://vietjack.com/tieng-viet-3-kn/doc-tro-chuyen-cung-me.jsp"
+   ],
+   "ly_do": "SGK KNTT lớp 3 tập 1 trang 93-94, ghi tác giả '(Diệu Thuý)' - tác giả đương đại, bài viết riêng cho SGK mới, còn bản quyền -> companion, không chép nguyên văn. Nội dung tóm tắt bám theo bài đọc đã đối chiếu."
+  },
+  {
+   "ten_bai": "Tập nấu ăn",
+   "bo_sach": "KNTT",
+   "tac_gia": "Trung Sơn",
+   "kind": "companion",
+   "full_text": "",
+   "companion": {
+    "tom_tat": "Bài đọc là lời một bạn nhỏ kể lại: hôm nay bạn ấy vào bếp cùng mẹ và học được cách làm món trứng đúc thịt, món vừa dễ làm vừa ngon, rồi chia sẻ công thức cho các bạn. Nguyên liệu gồm trứng gà, thịt nạc vai, dầu ăn, nước mắm, muối và hành khô. Cách làm gồm các bước: rửa sạch thịt rồi băm hoặc xay nhuyễn; đập trứng vào bát, cho thêm thịt, hành khô băm nhỏ, chút muối, chút nước mắm rồi đánh đều; đun nóng dầu trong chảo; đổ hỗn hợp trứng thịt dàn đều khắp chảo, rán lửa nhỏ cho vàng mặt dưới rồi lật rán tiếp mặt kia; cuối cùng bày ra đĩa.",
+    "nhan_vat": "Đây là một bài hướng dẫn (công thức nấu ăn), không có nhân vật trong truyện. Người kể là một bạn nhỏ tập nấu ăn cùng mẹ.",
+    "y_nghia": "Bài giúp em làm quen với kiểu văn bản hướng dẫn: có tên món, phần nguyên liệu và các bước làm theo đúng thứ tự. Bài cũng nhắc em rằng trẻ con hoàn toàn có thể phụ giúp bố mẹ việc nhà, nhưng khi dùng dao và bếp lửa thì phải có người lớn ở bên.",
+    "cau_hoi": [
+     "Bạn nhỏ đã học làm món ăn gì cùng mẹ?",
+     "Để làm món trứng đúc thịt cần chuẩn bị những nguyên liệu nào?",
+     "Bước đầu tiên khi làm món này là làm gì?"
+    ]
+   },
+   "sources": [
+    "https://vietjack.com/tieng-viet-3-kn/doc-tap-nau-an.jsp"
+   ],
+   "ly_do": "SGK KNTT lớp 3 tập 1 trang 30-31, ghi tác giả 'Trung Sơn' - văn bản hướng dẫn viết cho SGK mới, tác giả đương đại, còn bản quyền -> companion. Nguyên liệu và 5 bước đã đối chiếu với bài đọc; không chép nguyên văn."
+  },
+  {
+   "ten_bai": "Buổi học thể dục",
+   "bo_sach": "Sách cũ",
+   "tac_gia": "A-mi-xi (Hoàng Thiếu Sơn dịch)",
+   "kind": "recite",
+   "full_text": "Hôm nay có buổi học thể dục. Thầy giáo dẫn chúng tôi đến bên một cái cột cao, thẳng đứng. Chúng tôi phải leo lên đến trên cùng, rồi đứng thẳng người trên chiếc xà ngang.\n\nĐê-rốt-xi và Cô-rét-ti leo như hai con khỉ. Xtác-đi thì thở hồng hộc, mặt đỏ như chú gà tây. Ga-rô-nê leo dễ như không. Tưởng chừng như cậu có thể vác thêm một người nữa trên vai vì cậu khoẻ chẳng khác gì một con bò mộng.\n\nĐến lượt Nen-li. Bạn này được miễn học thể dục vì bị tật từ nhỏ nhưng cố xin thầy cho được tập giống như mọi người.\n\nNen-li bắt đầu leo một cách chật vật. Mặt cậu đỏ như lửa, mồ hôi ướt đẫm trán. Thầy giáo bảo cậu có thể xuống nhưng cậu vẫn cố sức leo. Mọi người vừa thấp thỏm sợ cậu tuột tay ngã xuống đất, vừa luôn miệng khuyến khích: \"Cố lên! Cố lên!\"\n\nNen-li rướn người lên và chỉ còn cách xà ngang hai ngón tay. \"Hoan hô! Cố tí nữa thôi!\" – Mọi người reo lên. Lát sau, Nen-li đã nắm chặt cái xà.\n\nThầy giáo nói: \"Giỏi lắm! Thôi, con xuống đi!\" Nhưng Nen-li còn muốn đứng trên chiếc xà như những người khác.\n\nSau vài lần cố gắng, cậu đặt được hai khuỷu tay, rồi hai đầu gối, cuối cùng là bàn chân lên xà. Thế là cậu đứng thẳng người lên, thở dốc, nhưng nét mặt rạng rỡ vẻ chiến thắng, nhìn xuống chúng tôi.",
+   "companion": {
+    "tom_tat": "",
+    "nhan_vat": "",
+    "y_nghia": "",
+    "cau_hoi": []
+   },
+   "sources": [
+    "https://tuyensinh247.com/bai-tap-598774.html",
+    "https://vndoc.com/tap-doc-lop-3-buoi-hoc-the-duc-4565"
+   ],
+   "ly_do": "Trích 'Những tấm lòng cao cả' (Cuore) của Edmondo De Amicis (1846-1908), mất đã 118 năm -> tác phẩm gốc thuộc phạm vi công cộng, đúng tiêu chí 'tác giả mất trên 50 năm'. Hai bản chép độc lập khớp từng chữ (chỉ khác khoảng trắng trước dấu ! ? theo lối in cũ). Đã bỏ số đánh đoạn 1-2-3, bỏ phần chú thích từ ngữ (gà tây, bò mộng, chật vật) và dòng ghi nguồn. Ghi chú: bản dịch là của Hoàng Thiếu Sơn (mất 2005) - theo tiền lệ chunk trước (Sư Tử xuất quân, Nguyễn Minh dịch) vẫn xếp recite theo tác giả gốc."
+  },
+  {
+   "ten_bai": "Các em nhỏ và cụ già",
+   "bo_sach": "Sách cũ",
+   "tac_gia": "Theo Xu-khôm-lin-xki",
+   "kind": "recite",
+   "full_text": "Mặt trời đã lùi dần về chân núi phía tây. Đàn sếu đang sải cánh trên cao. Sau một cuộc dạo chơi, đám trẻ ra về. Tiếng nói cười ríu rít.\n\nBỗng các em dừng lại khi nhìn thấy một cụ già đang ngồi ở vệ cỏ ven đường. Trông cụ thật mệt mỏi, cặp mắt lộ rõ vẻ u sầu.\n\n– Chuyện gì xảy ra với ông cụ thế nhỉ? – Một em trai hỏi.\n\nĐám trẻ tiếp lời, bàn tán sôi nổi:\n\n– Chắc là cụ bị ốm?\n– Hay là cụ đánh mất cái gì?\n– Chúng mình thử hỏi xem đi!\n\nCác em tới chỗ ông cụ, lễ phép hỏi:\n\n– Thưa cụ, chúng cháu có thể giúp gì cụ không ạ?\n\nCụ già thở nặng nhọc, nhưng đôi mắt ánh lên những tia ấm áp.\n\n– Cảm ơn các cháu. Nhưng các cháu không giúp ông được đâu.\n\nCụ ngừng lại, rồi nghẹn ngào nói tiếp:\n\n– Ông đang rất buồn. Bà lão nhà ông nằm viện mấy tháng nay rồi. Bà ốm nặng lắm, khó mà qua khỏi. Ông ngồi đây chờ xe buýt để đến bệnh viện. Ông cảm ơn lòng tốt của các cháu. Dẫu các cháu không giúp gì được, nhưng ông cũng thấy lòng nhẹ hơn.\n\nĐám trẻ lặng đi. Các em nhìn cụ già đầy thương cảm.\n\nMột lát sau, xe buýt đến. Giúp ông cụ lên xe rồi, các em còn đứng nhìn theo xe mãi mới ra về.",
+   "companion": {
+    "tom_tat": "",
+    "nhan_vat": "",
+    "y_nghia": "",
+    "cau_hoi": []
+   },
+   "sources": [
+    "https://tuyensinh247.com/bai-tap-612332.html",
+    "https://vndoc.com/tap-doc-lop-3-cac-em-nho-va-cu-gia-132160",
+    "https://mamnonhoami.edu.vn/tap-doc-chinh-ta/cac-em-nho-va-cu-gia.html"
+   ],
+   "ly_do": "Tác giả V. A. Xu-khôm-lin-xki (Vasyl Sukhomlynsky, 1918 - 02/9/1970) mất đã 56 năm -> quá 50 năm, thuộc phạm vi công cộng theo tiêu chí được giao. Bản đầy đủ lấy từ trang bài tập đọc hiểu (chép nguyên văn bài đọc, không phải trang soạn bài); đối chiếu với 2 nguồn khác, các đoạn trùng khớp từng chữ. Đã bỏ số đánh đoạn 1-5 và dòng ghi nguồn '(Theo XU-KHÔM-LIN-XKI, Tiếng Việt 3, 1995)'."
+  }
+ ]
+}

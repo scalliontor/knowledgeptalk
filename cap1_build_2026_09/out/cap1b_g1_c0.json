@@ -1,0 +1,201 @@
+{
+ "grade": 1,
+ "chunk": 0,
+ "items": [
+  {
+   "ten_bai": "Câu chuyện của rễ",
+   "bo_sach": "KNTT",
+   "tac_gia": "Phương Dung",
+   "kind": "companion",
+   "full_text": "",
+   "companion": {
+    "tom_tat": "Đây là một bài thơ ngắn nói về cái rễ cây. Nhìn lên cây, em thấy hoa nở khoe muôn sắc thắm, quả chín trĩu cành, lá thì xanh biếc — ai cũng khen đẹp. Nhưng ít ai để ý đến rễ, vì rễ nằm vùi sâu dưới mặt đất, không ai nhìn thấy. Chính rễ mới là bộ phận hút nước, hút chất dinh dưỡng để nuôi cả cây. Nếu không có rễ thì cây sẽ chẳng đâm chồi, chẳng nở hoa, cũng chẳng có quả ngọt.",
+    "nhan_vat": "Không có nhân vật người. Bài thơ nói về cây: hoa, quả, lá và nhất là cái rễ, được nhân hoá thành một người bạn âm thầm, khiêm nhường và lặng lẽ.",
+    "y_nghia": "Bài thơ dạy em biết quý những người làm việc âm thầm mà không cần ai khen. Giống như rễ cây, ông bà, bố mẹ, cô lao công, bác bảo vệ... cũng lặng lẽ làm nhiều việc tốt cho em mỗi ngày. Em hãy nhớ ơn và biết cảm ơn họ.",
+    "cau_hoi": [
+     "Trên cây, em nhìn thấy những gì đẹp nào?",
+     "Vì sao chúng ta ít khi nhìn thấy cái rễ?",
+     "Nếu cây không có rễ thì chuyện gì sẽ xảy ra?"
+    ]
+   },
+   "sources": [
+    "https://sachgiaokhoa.online/lop-1-1/ket-noi-tri-thuc-voi-cuoc-song-3/chu-de-5-bai-hoc-tu-cuoc-song-172/bai-2-cau-chuyen-cua-re-273.html",
+    "https://loigiaihay.com/bai-2-cau-chuyen-cua-re-trang-88-sgk-tieng-viet-lop-1-tap-2-ket-noi-tri-thuc-voi-cuoc-song-a121610.html"
+   ],
+   "ly_do": "Thơ của tác giả đương đại Phương Dung, in trong SGK KNTT Tiếng Việt 1 tập 2 trang 88 (chủ đề 5 'Bài học từ cuộc sống') -> còn bản quyền, không chép nguyên văn. Chỉ dùng nguồn để hiểu nội dung rồi tự viết companion."
+  },
+  {
+   "ten_bai": "Câu hỏi của sói",
+   "bo_sach": "KNTT",
+   "tac_gia": "Theo Truyện cổ Grim",
+   "kind": "recite",
+   "full_text": "Một chú sóc đang chuyền trên cành cây bỗng trượt chân, rơi trúng đầu lão sói đang ngái ngủ. Sói chồm dậy, túm lấy sóc. Sóc van nài:\n– Xin hãy thả tôi ra!\nSói nói:\n– Được, ta sẽ thả, nhưng ngươi hãy cho ta biết: Vì sao bọn sóc các ngươi cứ nhảy nhót vui đùa suốt ngày, còn ta lúc nào cũng thấy buồn bực?\nSóc bảo:\n– Thả tôi ra, rồi tôi sẽ nói.\nSói thả sóc ra. Sóc nhảy tót lên cây cao, rồi đáp vọng xuống:\n– Mỗi khi nhìn thấy anh, chúng tôi đều bỏ chạy vì anh hay gây gổ. Anh hay buồn bực vì anh không có bạn bè. Còn chúng tôi lúc nào cũng vui vì chúng tôi có nhiều bạn tốt.",
+   "companion": {
+    "tom_tat": "",
+    "nhan_vat": "",
+    "y_nghia": "",
+    "cau_hoi": []
+   },
+   "sources": [
+    "https://sachgiaokhoa.online/lop-1-1/ket-noi-tri-thuc-voi-cuoc-song-3/chu-de-5-bai-hoc-tu-cuoc-song-172/bai-3-cau-hoi-cua-soi-274.html",
+    "https://www.rainyjames.com/?p=5015",
+    "https://lop2.edu.vn/bai-giang-tieng-viet-2-ket-noi-tri-thuc-voi-cuoc-song-chu-de-5-bai-3-cau-hoi-cua-soi-721/"
+   ],
+   "ly_do": "SGK ghi nguồn '(Theo Truyện cổ Grim)' — truyện cổ Grimm, phạm vi công cộng (Jacob Grimm mất 1863). Đối chiếu 3 bản chép độc lập (trang đăng SGK, blog cá nhân, bài giảng), nội dung khớp gần như từng chữ. Hai chỗ lệch 1 từ đã lấy theo đa số 2/3: 'nhưng ngươi hãy cho ta biết' (2 nguồn, 1 nguồn có thêm 'nói') và 'nhảy tót lên cây cao' (2 nguồn, 1 nguồn 'lên cao'). Đã sửa lỗi OCR rõ ràng của nguồn 1 ('rơi rúng'->'rơi trúng', 'bỏ chảy'->'bỏ chạy') theo 2 nguồn còn lại. Đã bỏ dòng ghi nguồn cuối bài, không có chú thích số, không lẫn câu hỏi."
+  },
+  {
+   "ten_bai": "Cây bàng và lớp học",
+   "bo_sach": "KNTT",
+   "tac_gia": "Minh Tâm",
+   "kind": "companion",
+   "full_text": "",
+   "companion": {
+    "tom_tat": "Bài đọc kể về cây bàng trồng ở sân trường, ngay cạnh lớp học. Cây bàng đã già nhưng lá vẫn xanh mướt. Cành bàng vươn ra, ghé sát cửa lớp như đang tò mò nghe cô giáo giảng bài và nghe các bạn nhỏ đọc chữ. Mùa hè, tán bàng xoè rộng che nắng cho sân trường; đến giờ ra chơi, các bạn ùa ra chơi đùa dưới gốc bàng. Cứ như thế, cây bàng ngày ngày lớn lên cùng lớp học.",
+    "nhan_vat": "Cây bàng (được nhân hoá như một người bạn của lớp học); cô giáo và các bạn học sinh trong lớp.",
+    "y_nghia": "Bài đọc cho em thấy cây cối ở sân trường cũng thân thiết như bạn bè. Em hãy yêu quý trường lớp, chăm sóc và bảo vệ cây xanh, đừng bẻ cành hay hái lá.",
+    "cau_hoi": [
+     "Cây bàng được trồng ở đâu?",
+     "Cành bàng ghé vào cửa lớp để làm gì?",
+     "Ở trường em có cây gì? Em thích chơi dưới gốc cây nào nhất?"
+    ]
+   },
+   "sources": [
+    "https://loigiaihay.com/bai-4-cay-bang-va-lop-hoc-trang-54-sgk-tieng-viet-lop-1-tap-2-ket-noi-tri-thuc-voi-cuoc-song-a121397.html",
+    "https://www.vietjack.com/tieng-viet-1-kn/bai-4-cay-bang-va-lop-hoc.jsp"
+   ],
+   "ly_do": "Văn bản của tác giả đương đại Minh Tâm, in trong SGK KNTT Tiếng Việt 1 tập 2 trang 54 (chủ đề 3 'Mái trường mến yêu') -> còn bản quyền. Không tìm được bản đăng tác phẩm độc lập ngoài SGK; chỉ đọc trang soạn bài để nắm nội dung rồi tự viết companion, không chép nguyên văn."
+  },
+  {
+   "ten_bai": "Cả nhà đi chơi núi",
+   "bo_sach": "KNTT",
+   "tac_gia": "Lâm Anh",
+   "kind": "companion",
+   "full_text": "",
+   "companion": {
+    "tom_tat": "Bố mẹ cho hai anh em Nam và Đức đi chơi núi. Hôm trước, mẹ thức khuya chuẩn bị quần áo, thức ăn, nước uống và cả thuốc chống côn trùng. Sáng hôm sau, cả nhà đến chân núi; hai anh em thích thú đuổi nhau chạy huỳnh huỵch. Càng lên cao đường càng dốc và quanh co, bố phải cõng Đức, còn mẹ thỉnh thoảng lau mồ hôi cho hai con. Khi lên tới đỉnh núi, hai anh em sung sướng hét vang.",
+    "nhan_vat": "Bố, mẹ và hai anh em Nam, Đức.",
+    "y_nghia": "Bài đọc kể một chuyến đi chơi của gia đình, cho em thấy niềm vui khi cả nhà cùng đi chơi với nhau. Bài cũng nhắc em rằng bố mẹ luôn lo lắng, chăm sóc cho các con, và muốn lên tới đỉnh núi thì phải cố gắng, không ngại mệt.",
+    "cau_hoi": [
+     "Mẹ đã chuẩn bị những gì cho chuyến đi chơi núi?",
+     "Vì sao bố phải cõng em Đức?",
+     "Khi lên tới đỉnh núi, hai anh em đã làm gì? Em có thích đi chơi núi không?"
+    ]
+   },
+   "sources": [
+    "https://loigiaihay.com/bai-3-ca-nha-di-choi-nui-trang-30-31-32-33-sgk-tieng-viet-lop-1-tap-2-ket-noi-tri-thuc-voi-cuoc-song-a121376.html",
+    "https://vietjack.com/tieng-viet-1-kn/bai-3-ca-nha-di-choi-nui.jsp"
+   ],
+   "ly_do": "Văn bản của tác giả đương đại Lâm Anh, viết cho SGK KNTT Tiếng Việt 1 tập 2 trang 30-33 -> còn bản quyền. Không có bản xuất bản độc lập; chỉ dùng trang soạn bài để đối chiếu nội dung rồi tự viết companion."
+  },
+  {
+   "ten_bai": "Bàn tay mẹ",
+   "bo_sach": "Sách cũ",
+   "tac_gia": "Nguyễn Thị Xuyến",
+   "kind": "companion",
+   "full_text": "",
+   "companion": {
+    "tom_tat": "Bài đọc kể về bạn Bình. Trong nhà, Bình yêu nhất là đôi bàn tay của mẹ. Mỗi ngày đôi bàn tay ấy phải làm biết bao nhiêu là việc: đi chợ, nấu cơm, tắm cho em bé, rồi lại giặt một chậu tã lót đầy. Bình rất thương đôi bàn tay rám nắng của mẹ, với những ngón tay gầy gầy, xương xương vì làm lụng nhiều.",
+    "nhan_vat": "Bạn Bình, mẹ của Bình và em bé.",
+    "y_nghia": "Bài đọc nhắc em nhớ rằng mẹ làm rất nhiều việc vất vả cho cả nhà mà không kêu ca. Em hãy yêu thương mẹ, biết ơn mẹ và làm những việc nhỏ vừa sức để giúp mẹ đỡ mệt.",
+    "cau_hoi": [
+     "Bạn Bình yêu nhất cái gì của mẹ?",
+     "Hằng ngày đôi bàn tay mẹ làm những việc gì?",
+     "Ở nhà, em có thể làm việc gì để giúp mẹ?"
+    ]
+   },
+   "sources": [
+    "https://vndoc.com/ly-thuyet-tieng-viet-1-tap-doc-ban-tay-me-162454",
+    "https://baigiangdientu.vn/bai-giang/tieng-viet-lop-1-tap-doc-ban-tay-me-12383/"
+   ],
+   "ly_do": "Văn bản của tác giả Nguyễn Thị Xuyến, viết cho SGK Tiếng Việt 1 (chương trình cũ) -> tác giả hiện đại, chưa hết thời hạn bảo hộ bản quyền. Không có bản xuất bản độc lập ngoài SGK; chỉ đọc trang tham khảo để nắm nội dung rồi tự viết companion, không chép nguyên văn."
+  },
+  {
+   "ten_bai": "Mèo con đi học",
+   "bo_sach": "Sách cũ",
+   "tac_gia": "P. Vô-rôn-cô",
+   "kind": "companion",
+   "full_text": "",
+   "companion": {
+    "tom_tat": "Đây là một bài thơ vui. Mèo con nghe tin mai phải đến trường thì buồn bực, không muốn đi học. Mèo bèn kiếm cớ nói dối rằng cái đuôi của mình bị ốm. Nghe vậy, bạn Cừu liền be toáng lên bảo sẽ chữa cho khỏi ngay, nhưng muốn nhanh thì cứ cắt phăng cái đuôi đi. Mèo con sợ quá, vội kêu lên rằng thôi, để mèo đi học vậy.",
+    "nhan_vat": "Mèo con (hay kiếm cớ trốn học) và Cừu (nhanh trí, biết cách trị tật lười của mèo).",
+    "y_nghia": "Bài thơ chê thói lười học và nói dối một cách rất hóm hỉnh. Em thấy đấy, kiếm cớ để trốn học thì cuối cùng cũng chẳng trốn được, lại còn bị các bạn cười. Đi học đúng giờ, chăm chỉ mới là bạn nhỏ ngoan.",
+    "cau_hoi": [
+     "Vì sao mèo con không muốn đi học?",
+     "Bạn Cừu nói sẽ chữa cái đuôi cho mèo bằng cách nào?",
+     "Cuối cùng mèo con quyết định thế nào? Em có bao giờ ngại đi học không?"
+    ]
+   },
+   "sources": [
+    "https://vndoc.com/ly-thuyet-tieng-viet-1-tap-doc-meo-con-di-hoc-162454",
+    "https://mamnonhoami.edu.vn/tho-thieu-nhi/meo-con-di-hoc.html"
+   ],
+   "ly_do": "Thơ của Platon Vô-rôn-cô (P. Voronko, 1913-1988), bản tiếng Việt là bản dịch/phóng tác cho SGK. Tác giả mất chưa quá 50 năm và bản dịch cũng còn bản quyền -> không đủ điều kiện phạm vi công cộng, chuyển companion."
+  },
+  {
+   "ten_bai": "Quyển vở của em",
+   "bo_sach": "Sách cũ",
+   "tac_gia": "Quang Huy",
+   "kind": "companion",
+   "full_text": "",
+   "companion": {
+    "tom_tat": "Bài thơ nói về niềm vui của một bạn nhỏ khi có quyển vở mới. Mở quyển vở ra, bạn thấy bao nhiêu là trang giấy trắng tinh, những dòng kẻ thẳng đều ngay ngắn trông giống hệt các bạn học sinh đang xếp hàng. Lật từng trang, giấy trắng sờ vào mát rượi và thơm mùi giấy mới. Bạn nhỏ tự nhủ sẽ nắn nót viết cho thật sạch, thật đẹp, vì chữ đẹp cho thấy nết na của một người trò ngoan.",
+    "nhan_vat": "Bạn nhỏ học sinh và quyển vở mới của bạn ấy.",
+    "y_nghia": "Bài thơ dạy em yêu quý sách vở, giữ vở sạch, viết chữ đẹp. Giữ gìn đồ dùng học tập cẩn thận cũng là một biểu hiện của bạn học sinh ngoan.",
+    "cau_hoi": [
+     "Mở quyển vở mới ra, bạn nhỏ nhìn thấy gì?",
+     "Những dòng kẻ trong vở được so sánh giống với cái gì?",
+     "Em giữ gìn vở của mình như thế nào?"
+    ]
+   },
+   "sources": [
+    "https://www.thivien.net/Quang-Huy/Quy%E1%BB%83n-v%E1%BB%9F-c%E1%BB%A7a-em/poem-lu3RM7kL2blUQHqUkOOgeg",
+    "https://goiy.vn/bai-tho-quyen-vo-cua-em-quang-huy/"
+   ],
+   "ly_do": "Thơ của nhà thơ Quang Huy (Nguyễn Quang Huy), tác giả hiện đại mất chưa quá 50 năm -> còn bản quyền, không chép nguyên văn dù đã tìm được văn bản trên Thi Viện."
+  },
+  {
+   "ten_bai": "Sau cơn mưa",
+   "bo_sach": "Sách cũ",
+   "tac_gia": "Vũ Tú Nam",
+   "kind": "companion",
+   "full_text": "",
+   "companion": {
+    "tom_tat": "Bài đọc tả khu vườn sau một trận mưa rào. Mưa tạnh, mọi vật đều sáng ra và tươi hẳn lên: những đoá hoa râm bụt càng thêm đỏ chói, bầu trời xanh bóng như vừa được giội rửa sạch sẽ. Trên cao, mấy đám mây bông trôi nhởn nhơ, sáng rực lên trong ánh mặt trời. Dưới vườn, mẹ gà mừng rỡ kêu 'tục, tục' dắt bầy gà con quây quanh vũng nước đọng.",
+    "nhan_vat": "Không có nhân vật người. Bài tả cảnh vườn sau mưa: hoa râm bụt, bầu trời, mây, mặt trời, mẹ gà và đàn gà con.",
+    "y_nghia": "Bài đọc giúp em thấy thiên nhiên sau cơn mưa thật đẹp và trong lành. Em hãy tập để ý những điều nhỏ xinh quanh mình: một bông hoa, một đám mây, một đàn gà con.",
+    "cau_hoi": [
+     "Sau trận mưa rào, mọi vật trông thế nào?",
+     "Bầu trời được tả giống như cái gì vừa được làm sạch?",
+     "Mẹ gà dắt đàn con đi đâu?"
+    ]
+   },
+   "sources": [
+    "https://vndoc.com/ly-thuyet-tieng-viet-1-tap-doc-sau-con-mua-162503",
+    "https://baigiangdientu.vn/bai-giang/tap-doc-bai-sau-con-mua-16964/"
+   ],
+   "ly_do": "Văn của nhà văn Vũ Tú Nam (1929-2020), mất chưa quá 50 năm -> còn bản quyền. Không chép nguyên văn, chỉ tự viết companion dựa trên nội dung đã đối chiếu."
+  },
+  {
+   "ten_bai": "Ò... ó... o",
+   "bo_sach": "Sách cũ",
+   "tac_gia": "Trần Đăng Khoa",
+   "kind": "companion",
+   "full_text": "",
+   "companion": {
+    "tom_tat": "Bài thơ bắt đầu bằng tiếng gà trống gáy vang 'Ò... ó... o' báo hiệu trời sắp sáng. Tiếng gà như đang giục giã mọi vật thức dậy và lớn lên: giục quả na mở mắt tròn xoe, giục hàng tre đâm măng nhọn hoắt, giục buồng chuối thơm lừng, giục hạt đậu nảy mầm, giục bông lúa uốn câu. Tiếng gà cũng gọi đàn sao trên trời chạy trốn và gọi ông mặt trời nhô lên rửa mặt, để cả một vùng quê bừng sáng trong buổi sớm mai.",
+    "nhan_vat": "Không có nhân vật người. Nhân vật chính là chú gà trống với tiếng gáy; cùng với đó là cây cối, con vật và cảnh vật làng quê được nhân hoá (quả na, hàng tre, buồng chuối, hạt đậu, bông lúa, đàn sao, ông mặt trời).",
+    "y_nghia": "Bài thơ vẽ ra một buổi sáng ở làng quê thật rộn ràng và tràn đầy sức sống. Nhờ cách nhân hoá ngộ nghĩnh, em thấy tiếng gà gáy như một lời gọi dậy vui vẻ, nhắc mọi người dậy sớm bắt đầu một ngày mới.",
+    "cau_hoi": [
+     "Tiếng gà gáy kêu như thế nào? Tiếng gà báo hiệu điều gì?",
+     "Tiếng gà giục những cây, quả nào lớn lên?",
+     "Buổi sáng ở nhà em, cái gì đánh thức em dậy?"
+    ]
+   },
+   "sources": [
+    "https://ssh.htu.edu.vn/nghien-cuu/156-%C4%91%E1%BA%BFn-v%E1%BB%9Bi-%E2%80%9Cti%E1%BA%BFng-g%C3%A0-gi%E1%BB%A5c-gi%C3%A3%E2%80%A6%E2%80%9D-trong-b%C3%A0i-th%C6%A1-%E2%80%9C%C3%B2%E2%80%A6%C3%B3,o%E2%80%9D-c%E1%BB%A7a-nh%C3%A0-th%C6%A1-tr%E1%BA%A7n-%C4%91%C4%83ng-khoa",
+    "https://vndoc.com/giao-an-tap-doc-lop-1-bai-o-o-o-175756"
+   ],
+   "ly_do": "Thơ Trần Đăng Khoa — tác giả sinh năm 1958, HIỆN CÒN SỐNG -> còn bản quyền đầy đủ. Theo đúng quy tắc (Trần Đăng Khoa không tính là phạm vi công cộng), chuyển companion, tuyệt đối không chép nguyên văn."
+  }
+ ]
+}

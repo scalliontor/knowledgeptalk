@@ -1,0 +1,876 @@
+[
+ {
+  "e": "4:0cceace6-57b6-4b47-9237-0610c336edf3:1288591",
+  "cn": "Nguyễn Trung Trực (1868)",
+  "nn": "nguyen trung truc 1868",
+  "y": 1868,
+  "g": 10,
+  "t": "web_verified",
+  "p": {
+   "summary": "Anh hùng dân chài lãnh đạo nghĩa quân chống Pháp ở Nam Kỳ, nổi tiếng với trận đốt tàu Ét-pê-răng trên vàm Nhật Tảo (1861) và trận đánh đồn Kiên Giang (1868); bị Pháp hành hình ngày 27/10/1868 tại Rạch Giá với câu nói bất hủ 'Bao giờ người Tây nhổ hết cỏ nước Nam thì mới hết người Nam đánh Tây'.",
+   "subject_code": "lich_su",
+   "fixed_notes": [
+    "Thẻ bổ sung mới, kiểm chứng độc lập qua vi.wikipedia + nguồn nhà nước/bảo tàng"
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Nguy%E1%BB%85n_Trung_Tr%E1%BB%B1c",
+    "https://baotanglichsu.vn/vi/Articles/3097/15075/khoi-nghia-nguyen-trung-truc-1861-1868-bao-gio-nuoc-nam-het-co-thi-moi-het-nguoi-nam-djanh-tay.html",
+    "https://angiang.gov.vn/vi/khi-phach-nguyen-trung-truc-sang-mai"
+   ],
+   "canonical_name": "Nguyễn Trung Trực (1868)",
+   "year": 1868,
+   "kind": "person",
+   "verified": true,
+   "ingest_batch": "histevent_verified_2026_08_02",
+   "date_end": "1868-10-27",
+   "facts": [
+    "Nguyễn Trung Trực (tên thật Nguyễn Văn Lịch, còn gọi Quản Chơn, Quản Lịch) sinh năm 1838 tại làng Bình Nhựt, phủ Tân An, tỉnh Gia Định (nay thuộc vùng Long An - Tây Ninh), xuất thân từ gia đình chài lưới.",
+    "Ngày 10/12/1861, ông chỉ huy nghĩa quân đốt cháy tàu chiến L'Espérance (Ét-pê-răng) của Pháp trên vàm Nhật Tảo, chiến công được ca ngợi trong câu thơ 'Hoả hồng Nhật Tảo oanh thiên địa' của Huỳnh Mẫn Đạt.",
+    "Tháng 6 năm 1868, nghĩa quân của ông đánh chiếm đồn Kiên Giang (Rạch Giá), diệt và bắt sống nhiều sĩ quan, binh lính Pháp, thu hơn 100 khẩu súng - trận đánh làm chấn động Nam Kỳ.",
+    "Ngày 27/10/1868, thực dân Pháp hành hình ông tại chợ Rạch Giá khi ông mới 30 tuổi; trước khi chết ông khảng khái nói: 'Bao giờ người Tây nhổ hết cỏ nước Nam thì mới hết người Nam đánh Tây' (một dị bản chép: 'Bao giờ nước Nam hết cỏ thì mới hết người Nam đánh Tây').",
+    "Chính vì câu nói đó khẳng định ý chí kháng chiến không bao giờ dứt của nhân dân, Nguyễn Trung Trực được nhân dân Nam Bộ lập đền thờ, tiêu biểu là đền thờ ở Rạch Giá, và giỗ ông hằng năm vào cuối tháng 8 âm lịch."
+   ],
+   "actors": [
+    "Nguyễn Trung Trực",
+    "Huỳnh Mẫn Đạt"
+   ],
+   "traps": [
+    "BẪY QUAN TRỌNG: câu 'Bao giờ người Tây nhổ hết cỏ nước Nam thì mới hết người Nam đánh Tây' là của NGUYỄN TRUNG TRỰC (nói trước khi bị hành hình năm 1868), KHÔNG phải của Phan Bội Châu, Trương Định hay Nguyễn Đình Chiểu.",
+    "Nhầm hai chiến công. Đúng: đốt tàu Ét-pê-răng trên vàm Nhật Tảo năm 1861; đánh đồn Kiên Giang (Rạch Giá) năm 1868 - hai trận khác nhau, cách nhau 7 năm.",
+    "Nhầm Nguyễn Trung Trực với Trương Định. Đúng: Trương Định là Bình Tây Đại nguyên soái khởi nghĩa ở Gò Công (mất 1864); Nguyễn Trung Trực hoạt động ở Tân An - Rạch Giá, hi sinh năm 1868."
+   ],
+   "source_tier": "web_verified",
+   "date_start": "1838",
+   "topic_title": "Truyền thống yêu nước và kháng chiến chống thực dân Pháp xâm lược (1858 - 1884)",
+   "grade": 10,
+   "name_norm": "nguyen trung truc 1868",
+   "place": "Vàm Nhật Tảo và Rạch Giá (Kiên Giang), Nam Kỳ"
+  }
+ },
+ {
+  "e": "4:0cceace6-57b6-4b47-9237-0610c336edf3:1288602",
+  "cn": "Trần Phú (1930)",
+  "nn": "tran phu 1930",
+  "y": 1930,
+  "g": 10,
+  "t": "web_verified",
+  "p": {
+   "summary": "Tổng Bí thư đầu tiên của Đảng, được bầu tại Hội nghị lần thứ nhất Ban Chấp hành Trung ương Đảng họp ở Hương Cảng tháng 10/1930 khi mới 26 tuổi; người dự thảo Luận cương chính trị tháng 10/1930.",
+   "subject_code": "lich_su",
+   "fixed_notes": [
+    "Thẻ bổ sung mới, kiểm chứng độc lập qua vi.wikipedia + nguồn nhà nước/bảo tàng"
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Tr%E1%BA%A7n_Ph%C3%BA",
+    "https://ubkttw.vn/danh-muc/tin-tuc-thoi-su/dong-chi-tran-phu-tong-bi-thu-dau-tien-cua-dang-va-nhung-cong-hien-to-lon-quan-trong-doi-voi-su-nghiep-cach-mang.html",
+    "https://special.nhandan.vn/nhung-cong-hien-cua-Tong-Bi-thu-Tran-Phu-voi-cach-mang-Vietnam/index.html"
+   ],
+   "canonical_name": "Trần Phú (1930)",
+   "year": 1930,
+   "kind": "person",
+   "verified": true,
+   "ingest_batch": "histevent_verified_2026_08_02",
+   "date_end": "1931-09-06",
+   "facts": [
+    "Trần Phú sinh ngày 1/5/1904 tại thành An Thổ, phủ Tuy An, tỉnh Phú Yên; quê gốc ở làng Đông Thái, nay thuộc xã Tùng Ảnh, huyện Đức Thọ, tỉnh Hà Tĩnh.",
+    "Tháng 10 năm 1930, Hội nghị lần thứ nhất Ban Chấp hành Trung ương Đảng họp ở Hương Cảng (Hồng Kông, Trung Quốc) đã thông qua Luận cương chính trị do Trần Phú dự thảo, đổi tên Đảng thành Đảng Cộng sản Đông Dương và bầu Trần Phú làm Tổng Bí thư đầu tiên của Đảng khi ông mới 26 tuổi.",
+    "Ngày 18/4/1931, Trần Phú bị thực dân Pháp bắt tại Sài Gòn; ngày 6/9/1931 ông hi sinh tại Nhà thương Chợ Quán khi mới 27 tuổi, để lại lời nhắn 'Hãy giữ vững chí khí chiến đấu'.",
+    "Cần phân biệt: Cương lĩnh chính trị đầu tiên của Đảng do Nguyễn Ái Quốc soạn thảo, được thông qua tại Hội nghị thành lập Đảng đầu năm 1930; còn Luận cương chính trị tháng 10/1930 là của Trần Phú.",
+    "Nguyễn Ái Quốc là người sáng lập Đảng và chủ trì Hội nghị hợp nhất ba tổ chức cộng sản đầu năm 1930, nhưng chưa từng giữ chức Tổng Bí thư; chức danh đó bắt đầu từ Trần Phú tháng 10/1930."
+   ],
+   "traps": [
+    "BẪY QUAN TRỌNG: Tổng Bí thư ĐẦU TIÊN của Đảng là TRẦN PHÚ (bầu tháng 10/1930 tại Hương Cảng), KHÔNG phải Nguyễn Ái Quốc - Nguyễn Ái Quốc sáng lập Đảng nhưng không giữ chức Tổng Bí thư.",
+    "Nhầm Cương lĩnh với Luận cương. Đúng: Cương lĩnh chính trị đầu tiên (đầu năm 1930) do Nguyễn Ái Quốc soạn; Luận cương chính trị (tháng 10/1930) do Trần Phú soạn.",
+    "Nhầm nơi họp Hội nghị Trung ương tháng 10/1930. Đúng: họp ở Hương Cảng (Trung Quốc), không phải ở trong nước."
+   ],
+   "actors": [
+    "Trần Phú",
+    "Nguyễn Ái Quốc"
+   ],
+   "source_tier": "web_verified",
+   "date_start": "1904-05-01",
+   "topic_title": "Đảng Cộng sản Việt Nam ra đời và những năm 1930 - 1931",
+   "grade": 10,
+   "name_norm": "tran phu 1930",
+   "place": "Hương Cảng (Hồng Kông) - nơi họp Hội nghị Trung ương tháng 10/1930"
+  }
+ },
+ {
+  "e": "4:0cceace6-57b6-4b47-9237-0610c336edf3:1288680",
+  "cn": "Phong trào Hiến chương ở Anh",
+  "nn": "phong trao hien chuong o anh",
+  "y": -99999,
+  "g": 10,
+  "t": "web_verified",
+  "p": {
+   "summary": "Phong trào công nhân có tổ chức lớn nhất châu Âu nửa đầu thế kỉ XIX, diễn ra ở Anh từ 1836 đến 1848.",
+   "subject_code": "lich_su",
+   "fixed_notes": [
+    "sources: thẻ chỉ dựa loigiaihay -> bổ sung nguồn độc lập (Quốc hội Anh, en.wikipedia LWMA)",
+    "facts: bổ sung mốc Hiến chương nhân dân công bố 1838 và ba lần kiến nghị 1839/1842/1848 (SGK VN tính phong trào 1836-1848 theo mốc lập Hội Liên hiệp Công nhân Luân Đôn)",
+    "topic_title: sửa từ 'Sự hình thành và phát triển các vương quốc chính ở Đông Nam Á' -> 'Sự hình thành và phát triển phong trào công nhân' (bài 36)"
+   ],
+   "sources": [
+    "https://loigiaihay.com/phong-trao-cong-nhan-nua-dau-the-ki-xix-c83a13388.html",
+    "https://en.wikipedia.org/wiki/London_Working_Men%27s_Association",
+    "https://www.parliament.uk/about/living-heritage/transformingsociety/electionsvoting/chartists/overview/chartistmovement/"
+   ],
+   "canonical_name": "Phong trào Hiến chương ở Anh",
+   "year": -99999,
+   "kind": "movement",
+   "verified": true,
+   "ingest_batch": "histevent_verified_2026_08_02",
+   "date_end": "1848",
+   "facts": [
+    "Phong trào Hiến chương ở Anh diễn ra từ năm 1836 đến năm 1848, là phong trào công nhân rộng lớn và có tổ chức nhất châu Âu lúc bấy giờ.",
+    "Trung tâm tổ chức của phong trào là Hội Liên hiệp Công nhân Luân Đôn, thành lập năm 1836.",
+    "Bản 'Hiến chương nhân dân' (People's Charter) gồm 6 yêu sách — trong đó có quyền phổ thông đầu phiếu cho nam giới và bỏ phiếu kín — do W. Lo-vét và Ph. Plây-xơ soạn cho Hội Liên hiệp Công nhân Luân Đôn, công bố năm 1838.",
+    "Công nhân đấu tranh bằng mít tinh, biểu tình và ba lần đưa kiến nghị lên Quốc hội: năm 1839 (hơn 1,28 triệu chữ kí), năm 1842 (hơn 3 triệu chữ kí) và năm 1848 — cả ba lần đều bị bác bỏ.",
+    "Năm 1848, bản kiến nghị thứ ba bị Quốc hội bác bỏ, phong trào đi vào thoái trào.",
+    "Tuy không đạt được mục tiêu trước mắt, phong trào Hiến chương cho thấy giai cấp công nhân đã trở thành một lực lượng chính trị độc lập và đang rất cần một lí luận cách mạng soi đường."
+   ],
+   "actors": [
+    "công nhân Anh",
+    "Hội Liên hiệp Công nhân Luân Đôn"
+   ],
+   "traps": [
+    "Phong trào Hiến chương diễn ra ở ANH; ở Pháp là khởi nghĩa của thợ dệt Li-ông, còn ở Đức là khởi nghĩa thợ dệt Sơ-lê-din — không được lẫn ba phong trào này."
+   ],
+   "source_tier": "web_verified",
+   "date_start": "1836",
+   "topic_title": "Sự hình thành và phát triển phong trào công nhân",
+   "grade": 10,
+   "name_norm": "phong trao hien chuong o anh",
+   "place": "Anh"
+  }
+ },
+ {
+  "e": "4:0cceace6-57b6-4b47-9237-0610c336edf3:1288685",
+  "cn": "Phong trào Hiến chương ở Anh (1836)",
+  "nn": "phong trao hien chuong o anh 1836",
+  "y": 1836,
+  "g": 8,
+  "t": "web_verified",
+  "p": {
+   "summary": "Phong trào đấu tranh có tổ chức của công nhân Anh từ năm 1836 đến 1847, đòi quyền phổ thông đầu phiếu và cải thiện đời sống người lao động.",
+   "subject_code": "lich_su",
+   "fixed_notes": [
+    "Bổ sung mốc Hiến chương nhân dân (5/1838, 6 điểm) và nguồn độc lập ngoài loigiaihay/vietjack"
+   ],
+   "sources": [
+    "https://loigiaihay.com/phong-trao-cong-nhan-nua-dau-the-ki-xix-c83a13388.html",
+    "https://khoahoc.vietjack.com/question/509511/phong-trao-hien-chuong-1836-1847-la-mot-phong-trao-rong-lon-co-to-chuc",
+    "https://en.wikipedia.org/wiki/Chartism",
+    "https://vi.wikipedia.org/wiki/Ch%E1%BB%A7_ngh%C4%A9a_Hi%E1%BA%BFn_ch%C6%B0%C6%A1ng"
+   ],
+   "canonical_name": "Phong trào Hiến chương ở Anh (1836)",
+   "year": 1836,
+   "kind": "movement",
+   "verified": true,
+   "ingest_batch": "histevent_verified_2026_08_02",
+   "date_end": "1847",
+   "facts": [
+    "Từ năm 1836 đến năm 1847, một phong trào công nhân rộng lớn và có tổ chức đã diễn ra ở Anh, gọi là phong trào Hiến chương.",
+    "Hình thức đấu tranh chủ yếu của phong trào là mít tinh, biểu tình và đưa kiến nghị có hàng triệu chữ kí lên Quốc hội.",
+    "Tháng 5/1838, ban lãnh đạo Hội Liên hiệp công nhân Luân Đôn (thành lập năm 1836) gửi tới Nghị viện Anh bản Hiến chương nhân dân gồm 6 điểm, trong đó có quyền phổ thông đầu phiếu cho nam giới từ 21 tuổi và bỏ phiếu kín.",
+    "Công nhân Anh đòi quyền phổ thông đầu phiếu, tăng lương và giảm giờ làm cho người lao động.",
+    "Vì chưa có đường lối cách mạng đúng đắn và bị chính quyền tư sản đàn áp, phong trào Hiến chương cuối cùng thất bại.",
+    "Tuy thất bại, phong trào Hiến chương vẫn có ý nghĩa lớn vì đã thể hiện tính quần chúng rộng lớn, tính tổ chức và mục tiêu chính trị rõ nét của giai cấp công nhân."
+   ],
+   "traps": [
+    "Phong trào Hiến chương diễn ra ở ANH, không phải ở Pháp (khởi nghĩa Li-ông 1831) hay Đức (khởi nghĩa công nhân dệt Sơ-lê-din 1844).",
+    "Một số sách ghi phong trào kéo dài 1836-1847, có sách ghi 1836-1848; điểm cần nhớ là phong trào bắt đầu từ năm 1836 và kéo dài hơn 10 năm.",
+    "Yêu sách trung tâm là quyền phổ thông đầu phiếu, chứ không phải đòi lật đổ chế độ quân chủ."
+   ],
+   "actors": [
+    "Công nhân Anh",
+    "Quốc hội Anh"
+   ],
+   "source_tier": "web_verified",
+   "date_start": "1836",
+   "topic_title": "Phong trào công nhân từ cuối thế kỉ XVIII đến đầu thế kỉ XX và sự ra đời của chủ nghĩa xã hội khoa học",
+   "grade": 8,
+   "name_norm": "phong trao hien chuong o anh 1836",
+   "place": "Anh"
+  }
+ },
+ {
+  "e": "4:0cceace6-57b6-4b47-9237-0610c336edf3:1288790",
+  "cn": "Khởi nghĩa Lam Sơn (1418-1427)",
+  "nn": "khoi nghia lam son 1418 1427",
+  "y": 1427,
+  "g": 10,
+  "t": "web_verified",
+  "p": {
+   "summary": "Cuộc khởi nghĩa mười năm do Lê Lợi lãnh đạo đánh đuổi quân Minh, kết thúc bằng Hội thề Đông Quan cuối năm 1427 và sự ra đời của nhà Hậu Lê năm 1428.",
+   "subject_code": "lich_su",
+   "fixed_notes": [
+    "mốc chiến dịch Chi Lăng - Xương Giang: '18/9 - cuối tháng 10/1427' (lẫn âm/dương lịch) -> đầu tháng 10 đến đầu tháng 11/1427, thêm mốc Liễu Thăng tử trận 10/10/1427",
+    "nhà Hậu Lê 'gần 400 năm' -> hơn 350 năm (1428-1789)"
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Kh%E1%BB%9Fi_ngh%C4%A9a_Lam_S%C6%A1n",
+    "https://vi.wikipedia.org/wiki/Tr%E1%BA%ADn_Chi_L%C4%83ng_%E2%80%93_X%C6%B0%C6%A1ng_Giang",
+    "https://vi.wikipedia.org/wiki/B%C3%ACnh_Ng%C3%B4_%C4%91%E1%BA%A1i_c%C3%A1o"
+   ],
+   "canonical_name": "Khởi nghĩa Lam Sơn (1418-1427)",
+   "year": 1427,
+   "kind": "movement",
+   "verified": true,
+   "ingest_batch": "histevent_verified_2026_08_02",
+   "date_end": "1427-12-10",
+   "facts": [
+    "Ngày 7/2/1418, Lê Lợi dựng cờ khởi nghĩa ở Lam Sơn thuộc phủ Thanh Hóa và tự xưng là Bình Định vương để chống ách đô hộ của nhà Minh.",
+    "Những năm đầu, nghĩa quân hoạt động ở vùng thượng du Thanh Hóa, dùng lối phục kích và tạm hòa hoãn để bảo toàn lực lượng trước các đợt càn quét hàng vạn quân của nhà Minh.",
+    "Năm 1426, nghĩa quân thắng lớn trong trận Tốt Động - Chúc Động, làm xoay chuyển thế trận trên đất Bắc.",
+    "Chiến dịch Chi Lăng - Xương Giang diễn ra từ đầu tháng 10 đến đầu tháng 11 năm 1427 (tháng 9 - tháng 10 âm lịch năm Đinh Mùi), đánh tan 15 vạn viện binh Minh gồm cánh Liễu Thăng 10 vạn và cánh Mộc Thạnh 5 vạn; Liễu Thăng bị chém ở núi Mã Yên, ải Chi Lăng ngày 10/10/1427, còn Mộc Thạnh nghe tin bại trận đã bỏ chạy về nước.",
+    "Chính vì hai đạo viện binh bị tiêu diệt mà Vương Thông cố thủ trong thành Đông Quan mất hết hy vọng, phải chấp nhận Hội thề Đông Quan ngày 10/12/1427 và rút quân về nước.",
+    "Đầu năm 1428, Nguyễn Trãi thừa lệnh Lê Lợi viết Bình Ngô đại cáo tuyên bố thắng lợi; cùng năm Lê Lợi lên ngôi hoàng đế, mở đầu nhà Hậu Lê tồn tại hơn 350 năm (1428-1789)."
+   ],
+   "traps": [
+    "Bình Ngô đại cáo do Nguyễn Trãi soạn thay lời Lê Lợi năm 1428, KHÔNG phải do chính Lê Lợi viết.",
+    "Chi Lăng - Xương Giang (1427) là chiến dịch tiêu diệt viện binh nhà Minh, khác với trận chặn quân Tống ở Chi Lăng năm 981.",
+    "Bình Ngô đại cáo được coi là bản tuyên ngôn độc lập thứ HAI của nước ta, sau 'Nam quốc sơn hà' và trước Tuyên ngôn Độc lập năm 1945.",
+    "Khởi nghĩa Lam Sơn chống quân MINH (thời Bắc thuộc lần thứ tư 1407-1427), không phải chống quân Nguyên hay quân Thanh."
+   ],
+   "actors": [
+    "Lê Lợi",
+    "Nguyễn Trãi",
+    "Lê Sát",
+    "Lưu Nhân Chú",
+    "Liễu Thăng",
+    "Mộc Thạnh",
+    "Vương Thông"
+   ],
+   "source_tier": "web_verified",
+   "date_start": "1418-02-07",
+   "topic_title": "Những cuộc kháng chiến chống ngoại xâm ở các thế kỉ X - XV",
+   "grade": 10,
+   "name_norm": "khoi nghia lam son 1418 1427",
+   "place": "Lam Sơn (Thanh Hóa), Tốt Động - Chúc Động, ải Chi Lăng, thành Đông Quan"
+  }
+ },
+ {
+  "e": "4:0cceace6-57b6-4b47-9237-0610c336edf3:1288800",
+  "cn": "Chiến tranh Nam - Bắc triều (1533-1592)",
+  "nn": "chien tranh nam bac trieu 1533 1592",
+  "y": 1592,
+  "g": 10,
+  "t": "web_verified",
+  "p": {
+   "summary": "Cuộc chiến gần 60 năm giữa Nam triều (nhà Lê trung hưng) và Bắc triều (nhà Mạc), kết thúc năm 1592 và mở đường cho họ Trịnh nắm thực quyền.",
+   "subject_code": "lich_su",
+   "fixed_notes": [
+    "bổ sung trap phân biệt mốc 1533 (lập Nam triều) và mốc 1545 mà một số SGK dùng"
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Nh%C3%A0_M%E1%BA%A1c",
+    "https://vi.wikipedia.org/wiki/Tr%E1%BB%8Bnh%E2%80%93Nguy%E1%BB%85n_ph%C3%A2n_tranh"
+   ],
+   "canonical_name": "Chiến tranh Nam - Bắc triều (1533-1592)",
+   "year": 1592,
+   "kind": "campaign",
+   "verified": true,
+   "ingest_batch": "histevent_verified_2026_08_02",
+   "date_end": "1592",
+   "facts": [
+    "Năm 1533, Nguyễn Kim đưa một người dòng dõi nhà Lê lên ngôi ở Ai Lao (Lào), lập lại nhà Lê ở phía nam — sử gọi là Nam triều, đối đầu với nhà Mạc ở Thăng Long là Bắc triều.",
+    "Chiến tranh Nam - Bắc triều kéo dài gần 60 năm, từ năm 1533 đến năm 1592, tàn phá nặng nề vùng Thanh - Nghệ và đồng bằng Bắc Bộ.",
+    "Sau khi Nguyễn Kim mất năm 1545, quyền hành ở Nam triều rơi vào tay con rể là Trịnh Kiểm, mở đầu thế lực họ Trịnh.",
+    "Năm 1592, quân Lê - Trịnh chiếm được Thăng Long, Nam triều giành thắng lợi và nhà Mạc phải rút lên Cao Bằng.",
+    "Vì họ Trịnh nắm hết binh quyền từ sau năm 1545 nên vua Lê chỉ còn hư vị, tạo ra cục diện 'vua Lê - chúa Trịnh' kéo dài suốt hai thế kỉ."
+   ],
+   "traps": [
+    "Nam triều là nhà Lê trung hưng (do họ Nguyễn rồi họ Trịnh phò tá), Bắc triều là nhà Mạc — không được đảo ngược hai khái niệm này.",
+    "Nam triều đóng ở phía nam (Thanh Hóa) chứ không phải ở Nam Bộ ngày nay.",
+    "Mốc mở đầu Nam triều là năm 1533 (Nguyễn Kim lập Lê Trang Tông ở Sầm Châu - Ai Lao); một số sách giáo khoa lấy mốc 1545 là lúc chiến sự Nam - Bắc triều bùng nổ quyết liệt — cùng một cuộc chiến, chỉ khác cách chọn mốc mở đầu."
+   ],
+   "actors": [
+    "Nguyễn Kim",
+    "Trịnh Kiểm",
+    "Lê Trang Tông",
+    "nhà Mạc"
+   ],
+   "source_tier": "web_verified",
+   "date_start": "1533",
+   "topic_title": "Những biến đổi của nhà nước phong kiến trong các thế kỉ XVI - XVIII",
+   "grade": 10,
+   "name_norm": "chien tranh nam bac trieu 1533 1592",
+   "place": "Thanh - Nghệ và đồng bằng Bắc Bộ"
+  }
+ },
+ {
+  "e": "4:0cceace6-57b6-4b47-9237-0610c336edf3:1288900",
+  "cn": "Cách mạng Hà Lan (1566-1648) (1581)",
+  "nn": "cach mang ha lan 1566 1648 1581",
+  "y": 1581,
+  "g": 10,
+  "t": "web_verified",
+  "p": {
+   "summary": "Cuộc đấu tranh của nhân dân Nê-đéc-lan chống ách thống trị Tây Ban Nha từ năm 1566, giành độc lập năm 1581 và được công nhận năm 1648 — được coi là cuộc cách mạng tư sản đầu tiên trên thế giới.",
+   "subject_code": "lich_su",
+   "fixed_notes": [],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/C%C3%A1ch_m%E1%BA%A1ng_H%C3%A0_Lan"
+   ],
+   "canonical_name": "Cách mạng Hà Lan (1566-1648) (1581)",
+   "year": 1581,
+   "kind": "movement",
+   "verified": true,
+   "ingest_batch": "histevent_verified_2026_08_02",
+   "date_end": "1648",
+   "facts": [
+    "Cách mạng Hà Lan là cuộc đấu tranh của nhân dân vùng Nê-đéc-lan chống ách thống trị của vương triều Tây Ban Nha dưới thời vua Phi-líp II, bùng nổ từ năm 1566.",
+    "Vin-hem xứ Ô-ran-giơ là lãnh tụ nổi bật của cuộc đấu tranh trong giai đoạn đầu.",
+    "Tháng 7 năm 1581, các tỉnh miền Bắc tuyên bố phế truất vua Phi-líp II và thành lập nước cộng hòa - tiền thân của Hà Lan ngày nay.",
+    "Năm 1609 hai bên kí hiệp định đình chiến, nhưng phải đến năm 1648 với Hòa ước Muyn-xtơ (thuộc hệ thống Hòa ước Vét-pha-len) nền độc lập của Hà Lan mới được chính thức công nhận.",
+    "Vì đây là cuộc cách mạng đầu tiên lật đổ ách thống trị phong kiến ngoại bang và mở đường cho chủ nghĩa tư bản phát triển, nên Cách mạng Hà Lan được coi là cuộc cách mạng tư sản đầu tiên trên thế giới."
+   ],
+   "traps": [
+    "Cuộc cách mạng tư sản ĐẦU TIÊN trên thế giới là Cách mạng Hà Lan (thế kỉ XVI), KHÔNG phải Cách mạng tư sản Anh (thế kỉ XVII).",
+    "Cách mạng Hà Lan diễn ra dưới hình thức một cuộc chiến tranh giành độc lập chống Tây Ban Nha, nhưng bản chất vẫn là một cuộc cách mạng tư sản.",
+    "Cuộc chiến kéo dài 80 năm nên còn gọi là Chiến tranh Tám mươi năm; mốc tuyên bố độc lập (1581) khác mốc được công nhận (1648)."
+   ],
+   "actors": [
+    "Vin-hem xứ Ô-ran-giơ",
+    "vua Phi-líp II của Tây Ban Nha"
+   ],
+   "source_tier": "web_verified",
+   "date_start": "1566",
+   "topic_title": "Cách mạng Hà Lan và cách mạng tư sản Anh",
+   "grade": 10,
+   "name_norm": "cach mang ha lan 1566 1648 1581",
+   "place": "Vùng Nê-đéc-lan (Hà Lan và Bỉ ngày nay)"
+  }
+ },
+ {
+  "e": "4:0cceace6-57b6-4b47-9237-0610c336edf3:1288915",
+  "cn": "Cách mạng tư sản Anh (1640-1688) (1649)",
+  "nn": "cach mang tu san anh 1640 1688 1649",
+  "y": 1649,
+  "g": 10,
+  "t": "web_verified",
+  "p": {
+   "summary": "Cuộc cách mạng bắt đầu từ xung đột giữa vua Sác-lơ I với Quốc hội năm 1640, dẫn tới nội chiến, xử tử nhà vua năm 1649 và kết thúc bằng Cách mạng Vinh quang 1688 lập nền quân chủ lập hiến.",
+   "subject_code": "lich_su",
+   "fixed_notes": [
+    "'tháng 4/1689 Quốc hội tuyên bố đồng quân vương' -> tuyên bố/trao ngôi 13/2/1689, đăng quang 11/4/1689"
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Charles_I_c%E1%BB%A7a_Anh",
+    "https://vi.wikipedia.org/wiki/C%C3%A1ch_m%E1%BA%A1ng_Vinh_Quang",
+    "https://vi.wikipedia.org/wiki/C%C3%A1ch_m%E1%BA%A1ng_Anh",
+    "https://en.wikipedia.org/wiki/Glorious_Revolution"
+   ],
+   "canonical_name": "Cách mạng tư sản Anh (1640-1688) (1649)",
+   "year": 1649,
+   "kind": "movement",
+   "verified": true,
+   "ingest_batch": "histevent_verified_2026_08_02",
+   "date_end": "1689",
+   "facts": [
+    "Cách mạng tư sản Anh bùng nổ khi vua Sác-lơ I triệu tập Quốc hội vào năm 1640 để xin tiền, nhưng Quốc hội quay sang phản đối chính sách chuyên chế của nhà vua.",
+    "Nội chiến giữa quân đội Quốc hội và quân đội nhà vua nổ ra năm 1642; Ô-li-vơ Crôm-oen là người chỉ huy quân đội Quốc hội giành thắng lợi.",
+    "Ngày 30/1/1649, vua Sác-lơ I bị xử tử ở Whitehall (Luân Đôn), vương quyền bị xóa bỏ và nước Anh trở thành nước cộng hòa.",
+    "Năm 1660, chế độ quân chủ được phục hồi với Sác-lơ II - con trai của Sác-lơ I.",
+    "Tháng 11 năm 1688, vua Giêm II bị lật đổ trong Cách mạng Vinh quang và phải chạy sang Pháp lưu vong vào ngày 23/12/1688.",
+    "Ngày 13/2/1689, Quốc hội trao ngôi cho Vin-hem Ô-ran-giơ và Ma-ri làm đồng quân vương kèm theo Đạo luật về các quyền, khẳng định quyền tối cao của Quốc hội so với nhà vua; hai người làm lễ đăng quang ngày 11/4/1689 — từ đó nước Anh trở thành nước quân chủ lập hiến."
+   ],
+   "traps": [
+    "Sác-lơ I bị xử tử năm 1649, còn Cách mạng Vinh quang là năm 1688 — hai mốc rất khác nhau trong cùng một cuộc cách mạng.",
+    "Sau năm 1688 nước Anh vẫn còn vua nhưng theo chế độ quân chủ lập hiến (vua trị vì mà không cai trị), KHÔNG phải nước cộng hòa.",
+    "Vin-hem Ô-ran-giơ lên ngôi vua Anh năm 1689 là nhân vật khác với Vin-hem xứ Ô-ran-giơ lãnh đạo Cách mạng Hà Lan thế kỉ XVI."
+   ],
+   "actors": [
+    "Sác-lơ I",
+    "Ô-li-vơ Crôm-oen",
+    "Giêm II",
+    "Vin-hem Ô-ran-giơ",
+    "Ma-ri II"
+   ],
+   "source_tier": "web_verified",
+   "date_start": "1640",
+   "topic_title": "Cách mạng Hà Lan và cách mạng tư sản Anh",
+   "grade": 10,
+   "name_norm": "cach mang tu san anh 1640 1688 1649",
+   "place": "Nước Anh: Luân Đôn, Whitehall"
+  }
+ },
+ {
+  "e": "4:0cceace6-57b6-4b47-9237-0610c336edf3:1289121",
+  "cn": "Cách mạng tư sản Anh (1642)",
+  "nn": "cach mang tu san anh 1642",
+  "y": 1642,
+  "g": 11,
+  "t": "web_verified",
+  "p": {
+   "summary": "Cuộc cách mạng tư sản nổ ra dưới hình thức nội chiến giữa Quốc hội và nhà vua ở Anh (1642-1688), lật đổ chế độ quân chủ chuyên chế và cuối cùng lập ra chế độ quân chủ lập hiến.",
+   "subject_code": "lich_su",
+   "fixed_notes": [],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Nội_chiến_Anh"
+   ],
+   "canonical_name": "Cách mạng tư sản Anh (1642)",
+   "year": 1642,
+   "kind": "event",
+   "verified": true,
+   "ingest_batch": "histevent_verified_2026_08_02",
+   "date_end": "1688",
+   "facts": [
+    "Nội chiến Anh bùng nổ ngày 22/8/1642 giữa quân đội Quốc hội và quân đội của vua Sác-lơ I.",
+    "Vì tầng lớp tư sản và quý tộc mới muốn làm ăn tự do nhưng bị chế độ quân chủ chuyên chế của Sác-lơ I ngăn cản, mâu thuẫn đó đã dẫn tới nội chiến năm 1642 — tức là xung đột kinh tế - chính trị là nguyên nhân, nội chiến là hậu quả.",
+    "Ô-li-vơ Crôm-oen tổ chức lại quân đội Quốc hội và giành thắng lợi quyết định ở trận Nây-dơ-bi (Naseby) tháng 6/1645.",
+    "Vua Sác-lơ I bị kết tội và bị xử tử ngày 30/1/1649, sau đó nước Anh trở thành nước cộng hòa do Crôm-oen đứng đầu.",
+    "Năm 1660 chế độ quân chủ được khôi phục với vua Sác-lơ II, nhưng đến năm 1688 cuộc Cách mạng Vinh quang đã đưa nước Anh sang chế độ quân chủ lập hiến, vua trị vì cùng Quốc hội.",
+    "Kết quả lớn nhất của cách mạng tư sản Anh là mở đường cho chủ nghĩa tư bản phát triển ở Anh, chứ không phải xóa bỏ vĩnh viễn ngôi vua."
+   ],
+   "traps": [
+    "Sai: cách mạng tư sản Anh lập ra nước cộng hòa lâu dài. Đúng: nền cộng hòa chỉ tồn tại ngắn, đến năm 1688 nước Anh theo chế độ quân chủ lập hiến.",
+    "Sai: vua Sác-lơ I bị xử tử năm 1648. Đúng: ngày 30/1/1649.",
+    "Sai: gọi Crôm-oen là vua nước Anh. Đúng: ông giữ chức Bảo hộ công (Lord Protector), không xưng vua."
+   ],
+   "actors": [
+    "Vua Sác-lơ I (Charles I)",
+    "Ô-li-vơ Crôm-oen (Oliver Cromwell)",
+    "Quốc hội Anh",
+    "Vin-hem Ô-ran-giơ (William of Orange)"
+   ],
+   "source_tier": "web_verified",
+   "date_start": "1642-08-22",
+   "topic_title": "Một số vấn đề chung về cách mạng tư sản",
+   "grade": 11,
+   "name_norm": "cach mang tu san anh 1642",
+   "place": "Anh"
+  }
+ },
+ {
+  "e": "4:0cceace6-57b6-4b47-9237-0610c336edf3:1289125",
+  "cn": "Cách mạng tư sản Anh (1640)",
+  "nn": "cach mang tu san anh 1640",
+  "y": 1640,
+  "g": 8,
+  "t": "web_verified",
+  "p": {
+   "summary": "Cuộc cách mạng tư sản nổ ra ở Anh từ năm 1640, lật đổ chế độ quân chủ chuyên chế và lập ra chế độ quân chủ lập hiến sau chính biến năm 1688.",
+   "subject_code": "lich_su",
+   "fixed_notes": [
+    "Bỏ địa danh 'Oét-hôn' khỏi trường place vì không kiểm chứng được nguồn nào"
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/C%C3%A1ch_m%E1%BA%A1ng_Anh",
+    "https://en.wikipedia.org/wiki/Execution_of_Charles_I_of_England"
+   ],
+   "canonical_name": "Cách mạng tư sản Anh (1640)",
+   "year": 1640,
+   "kind": "event",
+   "verified": true,
+   "ingest_batch": "histevent_verified_2026_08_02",
+   "date_end": "1688",
+   "facts": [
+    "Cách mạng tư sản Anh bùng nổ năm 1640, khi vua Sác-lơ I triệu tập Quốc hội để xin tiền đánh Xcốt-len nhưng Quốc hội quay sang chống lại nhà vua.",
+    "Vì nhà vua và Quốc hội không thoả hiệp được, nội chiến bùng nổ năm 1642 giữa quân đội của Quốc hội và quân đội nhà vua.",
+    "Ô-li-vơ Crôm-oen là người chỉ huy quân đội Quốc hội và đưa phe Quốc hội tới thắng lợi trong nội chiến.",
+    "Vua Sác-lơ I bị đưa ra xét xử và bị xử tử ngày 30/1/1649, sau đó nước Anh trở thành nước cộng hoà.",
+    "Cuộc chính biến năm 1688 lật đổ vua Giêm II và đưa Vin-hem Ô-ran-giơ cùng vợ là Ma-ri lên ngôi, lập ra chế độ quân chủ lập hiến ở Anh.",
+    "Vì giai cấp tư sản và quý tộc mới thắng thế, cách mạng đã mở đường cho chủ nghĩa tư bản phát triển mạnh ở Anh.",
+    "Cách mạng tư sản Anh (1640-1688) là một trong những cuộc cách mạng tư sản đầu tiên trên thế giới, chỉ sau Cách mạng Hà Lan."
+   ],
+   "traps": [
+    "Nhiều bạn nói cách mạng tư sản ĐẦU TIÊN trên thế giới là Cách mạng tư sản Anh. Đúng ra cuộc đầu tiên là Cách mạng Hà Lan (1566-1648), Cách mạng tư sản Anh (1640-1688) là cuộc tiếp theo.",
+    "Không nhầm mốc kết thúc: cách mạng kết thúc năm 1688 với chính biến lập chế độ quân chủ lập hiến, chứ không kết thúc năm 1649.",
+    "Người bị xử tử năm 1649 là vua Sác-lơ I (Charles I) của Anh, không phải Lu-i XVI của Pháp (Lu-i XVI bị xử tử ngày 21/1/1793).",
+    "Ô-li-vơ Crôm-oen là lãnh đạo quân đội Quốc hội Anh, không phải vua."
+   ],
+   "actors": [
+    "Sác-lơ I",
+    "Ô-li-vơ Crôm-oen",
+    "Quốc hội Anh",
+    "Vin-hem Ô-ran-giơ (William III)"
+   ],
+   "source_tier": "web_verified",
+   "date_start": "1640",
+   "topic_title": "Cách mạng tư sản Anh và Chiến tranh giành độc lập của 13 thuộc địa Anh ở Bắc Mỹ",
+   "grade": 8,
+   "name_norm": "cach mang tu san anh 1640",
+   "place": "Anh (Luân Đôn, Nây-xbi)"
+  }
+ },
+ {
+  "e": "4:0cceace6-57b6-4b47-9237-0610c336edf3:1289365",
+  "cn": "Nguyễn Trung Trực (1838-1868) (1861)",
+  "nn": "nguyen trung truc 1838 1868 1861",
+  "y": 1861,
+  "g": 11,
+  "t": "web_verified",
+  "p": {
+   "summary": "Thủ lĩnh nghĩa quân chống Pháp ở Nam Kỳ, nổi tiếng với trận đốt tàu chiến Pháp trên vàm Nhật Tảo năm 1861 và câu nói bất hủ \"Bao giờ người Tây nhổ hết cỏ nước Nam thì mới hết người Nam đánh Tây\".",
+   "subject_code": "lich_su",
+   "fixed_notes": [
+    "Thẻ mới bổ sung để phủ danh sách bẫy bắt buộc; đã kiểm chứng độc lập trên web"
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Nguyễn_Trung_Trực"
+   ],
+   "canonical_name": "Nguyễn Trung Trực (1838-1868) (1861)",
+   "year": 1861,
+   "kind": "person",
+   "verified": true,
+   "ingest_batch": "histevent_verified_2026_08_02",
+   "date_end": "1868-10-27",
+   "facts": [
+    "Nguyễn Trung Trực sinh năm 1838, bị thực dân Pháp xử tử ngày 27/10/1868 tại Rạch Giá (nay thuộc tỉnh Kiên Giang), khi mới 30 tuổi.",
+    "Ngày 10/12/1861, ông chỉ huy nghĩa quân đốt cháy tàu chiến L'Espérance (tàu Hy Vọng) của Pháp trên vàm Nhật Tảo, sông Vàm Cỏ Đông.",
+    "Tháng 6/1868, ông chỉ huy nghĩa quân đánh úp đồn Kiên Giang (Rạch Giá), tiêu diệt 5 sĩ quan cùng hàng chục lính Pháp và làm chủ đồn trong mấy ngày.",
+    "Câu nói nổi tiếng của Nguyễn Trung Trực trước khi bị hành hình là: \"Bao giờ người Tây nhổ hết cỏ nước Nam thì mới hết người Nam đánh Tây\".",
+    "Chiến công của ông được nhà thơ Huỳnh Mẫn Đạt ca ngợi trong hai câu \"Hỏa hồng Nhật Tảo oanh thiên địa - Kiếm bạt Kiên Giang khấp quỷ thần\"."
+   ],
+   "actors": [
+    "Nguyễn Trung Trực",
+    "Thực dân Pháp"
+   ],
+   "traps": [
+    "Sai: câu \"Bao giờ người Tây nhổ hết cỏ nước Nam thì mới hết người Nam đánh Tây\" là của Phan Bội Châu. Đúng: đó là lời của NGUYỄN TRUNG TRỰC, nói trước khi bị Pháp xử tử ngày 27/10/1868 tại Rạch Giá.",
+    "Sai: Nguyễn Trung Trực hoạt động trong phong trào Cần Vương. Đúng: ông chống Pháp ở Nam Kỳ những năm 1861-1868, tức trước khi có chiếu Cần Vương (13/7/1885)."
+   ],
+   "source_tier": "web_verified",
+   "date_start": "1838",
+   "topic_title": "Bổ trợ: Phong trào chống Pháp ở Nam Kỳ nửa sau thế kỉ XIX",
+   "grade": 11,
+   "name_norm": "nguyen trung truc 1838 1868 1861",
+   "place": "Nam Kỳ (Nhật Tảo - Long An, Rạch Giá - Kiên Giang)"
+  }
+ },
+ {
+  "e": "4:0cceace6-57b6-4b47-9237-0610c336edf3:1289368",
+  "cn": "Nguyễn Trung Trực (1838 - 1868)",
+  "nn": "nguyen trung truc 1838 1868",
+  "y": -99999,
+  "g": 8,
+  "t": "web_verified",
+  "p": {
+   "summary": "Thủ lĩnh nghĩa quân chống Pháp ở Nam Kỳ (1838-1868), nổi tiếng với trận đốt tàu Pháp trên sông Nhật Tảo, trận đánh đồn Kiên Giang và câu nói bất hủ 'Bao giờ người Tây nhổ hết cỏ nước Nam thì mới hết người Nam đánh Tây'.",
+   "subject_code": "lich_su",
+   "fixed_notes": [
+    "THẺ MỚI: bổ sung để phủ bẫy bắt buộc 'Bao giờ hết cỏ nước Nam...' = Nguyễn Trung Trực (app từng trả sai Phan Bội Châu) - đã kiểm chứng vi.wikipedia + Cục Văn thư và Lưu trữ nhà nước"
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Nguy%E1%BB%85n_Trung_Tr%E1%BB%B1c",
+    "https://archives.org.vn/tin-noi-bat/nguyen-trung-truc-nguoi-anh-hung-dan-chai-ao-vai.htm"
+   ],
+   "canonical_name": "Nguyễn Trung Trực (1838 - 1868)",
+   "year": -99999,
+   "kind": "person",
+   "verified": true,
+   "ingest_batch": "histevent_verified_2026_08_02",
+   "date_end": "1868-10-27",
+   "facts": [
+    "Nguyễn Trung Trực sinh năm 1838, tên thật là Nguyễn Văn Lịch, thuở nhỏ tên Chơn, là thủ lĩnh phong trào kháng Pháp ở Nam Kỳ nửa sau thế kỉ XIX.",
+    "Ngày 10/12/1861, ông chỉ huy nghĩa quân đốt cháy tàu chiến L'Espérance (Hi Vọng) của Pháp trên vàm sông Nhật Tảo - chiến công được ca ngợi là 'Hoả hồng Nhật Tảo'.",
+    "Rạng sáng 16/6/1868, nghĩa quân do ông chỉ huy đánh úp đồn Kiên Giang (Rạch Giá), diệt nhiều sĩ quan và binh lính Pháp, làm chủ đồn trong 5 ngày.",
+    "Vì bị Pháp bao vây và uy hiếp dân chúng, Nguyễn Trung Trực ra hàng để cứu dân, sau đó bị thực dân Pháp xử chém tại Rạch Giá ngày 27/10/1868, khi mới 30 tuổi.",
+    "Trước khi bị hành hình, ông khẳng khái nói: 'Bao giờ người Tây nhổ hết cỏ nước Nam thì mới hết người Nam đánh Tây', thể hiện ý chí kháng chiến không bao giờ tắt của nhân dân Việt Nam.",
+    "Hằng năm, nhân dân Kiên Giang tổ chức lễ hội tưởng niệm Nguyễn Trung Trực tại đình thờ ông ở thành phố Rạch Giá."
+   ],
+   "traps": [
+    "Câu nói 'Bao giờ người Tây nhổ hết cỏ nước Nam thì mới hết người Nam đánh Tây' là của NGUYỄN TRUNG TRỰC (1868), KHÔNG phải của Phan Bội Châu, Nguyễn Đình Chiểu hay Trương Định.",
+    "Trận đốt tàu Hi Vọng (L'Espérance) trên sông Nhật Tảo là năm 1861, còn trận đánh đồn Kiên Giang - Rạch Giá là năm 1868 - hai chiến công khác nhau, đừng gộp làm một.",
+    "Nguyễn Trung Trực bị Pháp xử chém năm 1868 tại Rạch Giá (Kiên Giang), không phải ở Sài Gòn hay Huế."
+   ],
+   "actors": [
+    "Nguyễn Trung Trực",
+    "Nghĩa quân Nam Kỳ",
+    "Thực dân Pháp"
+   ],
+   "source_tier": "web_verified",
+   "date_start": "1838",
+   "topic_title": "Cuộc kháng chiến chống thực dân Pháp xâm lược từ năm 1858 đến năm 1884",
+   "grade": 8,
+   "name_norm": "nguyen trung truc 1838 1868",
+   "place": "Long An (Nhật Tảo) - Rạch Giá, Kiên Giang"
+  }
+ },
+ {
+  "e": "4:0cceace6-57b6-4b47-9237-0610c336edf3:1289834",
+  "cn": "Chiến tranh lạnh (1947)",
+  "nn": "chien tranh lanh 1947",
+  "y": 1947,
+  "g": 9,
+  "t": "web_verified",
+  "p": {
+   "summary": "Cuộc đối đầu căng thẳng từ năm 1947 đến năm 1989 giữa hai phe do Mỹ và Liên Xô đứng đầu, diễn ra trên mọi lĩnh vực nhưng không có xung đột quân sự trực tiếp giữa hai siêu cường.",
+   "subject_code": "lich_su",
+   "fixed_notes": [
+    "khung thời gian Chiến tranh lạnh: 1947-1989 theo SGK Lịch sử 9 GDPT 2018 (bản cũ ghi 1947-1991, lẫn với mốc Liên Xô tan rã)"
+   ],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Chiến_tranh_Lạnh"
+   ],
+   "canonical_name": "Chiến tranh lạnh (1947)",
+   "year": 1947,
+   "kind": "period",
+   "verified": true,
+   "ingest_batch": "histevent_verified_2026_08_02",
+   "date_end": "1989-12",
+   "facts": [
+    "Chiến tranh lạnh là cuộc đối đầu giữa hai phe tư bản chủ nghĩa và xã hội chủ nghĩa, kéo dài từ năm 1947 đến năm 1989 (SGK Lịch sử 9, Chương trình GDPT 2018 đặt tên bài là 'Chiến tranh lạnh (1947 - 1989)').",
+    "Ngày 12/3/1947, Tổng thống Mỹ Harry Truman đọc thông điệp trước Quốc hội, đưa ra Học thuyết Truman chống chủ nghĩa cộng sản - mốc được coi là khởi đầu Chiến tranh lạnh.",
+    "Hai bên chạy đua vũ trang, lập các khối quân sự đối lập và can dự vào nhiều cuộc chiến tranh cục bộ, nhưng tránh đụng độ quân sự trực tiếp giữa Mỹ và Liên Xô.",
+    "Tháng 12/1989, cuộc gặp giữa Tổng thống Mỹ G. Bush và Tổng Bí thư Liên Xô Goóc-ba-chốp tại đảo Man-ta đã chính thức tuyên bố chấm dứt Chiến tranh lạnh.",
+    "Chính vì Liên Xô lâm vào khủng hoảng và tan rã tháng 12/1991 mà trật tự thế giới hai cực mới sụp đổ hoàn toàn - đây là mốc SAU khi Chiến tranh lạnh đã được tuyên bố chấm dứt (12/1989).",
+    "Chiến tranh lạnh khiến các nước phải chi khối lượng khổng lồ tiền của cho vũ khí trong khi thế giới còn nhiều vùng đói nghèo, dịch bệnh."
+   ],
+   "actors": [
+    "Hoa Kỳ",
+    "Liên Xô",
+    "Harry Truman",
+    "Mikhail Goóc-ba-chốp",
+    "George H. W. Bush"
+   ],
+   "traps": [
+    "Chiến tranh lạnh không phải một cuộc chiến tranh có súng nổ giữa Mỹ và Liên Xô: hai siêu cường luôn tránh đối đầu quân sự trực tiếp.",
+    "Mốc chấm dứt Chiến tranh lạnh được tuyên bố tại cuộc gặp Man-ta tháng 12/1989, còn Liên Xô tan rã là cuối năm 1991 - hai mốc khác nhau.",
+    "Chiến tranh lạnh chấm dứt năm 1989 (tuyên bố tại Man-ta), còn Liên Xô tan rã và trật tự hai cực sụp đổ năm 1991 - đừng lấy 1991 làm mốc kết thúc Chiến tranh lạnh."
+   ],
+   "source_tier": "web_verified",
+   "date_start": "1947-03-12",
+   "topic_title": "Chiến tranh lạnh (1947-1989)",
+   "grade": 9,
+   "name_norm": "chien tranh lanh 1947",
+   "place": "Toàn thế giới"
+  }
+ },
+ {
+  "e": "4:0cceace6-57b6-4b47-9237-0610c336edf3:1289839",
+  "cn": "Chiến tranh lạnh",
+  "nn": "chien tranh lanh",
+  "y": -99999,
+  "g": 12,
+  "t": "web_verified",
+  "p": {
+   "summary": "Tình trạng đối đầu căng thẳng kéo dài hơn bốn thập niên giữa hai phe do Mĩ và Liên Xô đứng đầu, không có xung đột quân sự trực tiếp giữa hai siêu cường.",
+   "subject_code": "lich_su",
+   "fixed_notes": [],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_tranh_L%E1%BA%A1nh",
+    "https://vi.wikipedia.org/wiki/H%E1%BB%8Dc_thuy%E1%BA%BFt_Truman"
+   ],
+   "canonical_name": "Chiến tranh lạnh",
+   "year": -99999,
+   "kind": "period",
+   "verified": true,
+   "ingest_batch": "histevent_verified_2026_08_02",
+   "date_end": "1991",
+   "facts": [
+    "Chiến tranh lạnh kéo dài từ năm 1947 đến năm 1991, mở đầu bằng Học thuyết Truman ngày 12/3/1947 và kết thúc khi Liên Xô tan rã.",
+    "Đây là cuộc đối đầu căng thẳng về chính trị, kinh tế, quân sự và ý thức hệ giữa phe tư bản chủ nghĩa do Mĩ đứng đầu và phe xã hội chủ nghĩa do Liên Xô đứng đầu.",
+    "Trong Chiến tranh lạnh, hai siêu cường chạy đua vũ trang quyết liệt, đặc biệt là vũ khí hạt nhân, đẩy thế giới luôn ở bên bờ một cuộc chiến tranh hủy diệt.",
+    "Vì hai siêu cường tránh đụng đầu trực tiếp, cuộc đối đầu được biểu hiện qua các cuộc chiến tranh cục bộ như chiến tranh Triều Tiên 1950 - 1953 và chiến tranh Việt Nam.",
+    "Chi phí khổng lồ cho chạy đua vũ trang làm cả Mĩ và Liên Xô đều suy giảm thế mạnh, đó là lí do hai bên đi tới hòa hoãn và tuyên bố chấm dứt Chiến tranh lạnh tháng 12/1989."
+   ],
+   "traps": [
+    "'Lạnh' nghĩa là Mĩ và Liên Xô không đánh nhau trực tiếp, NHƯNG vẫn có nhiều cuộc chiến tranh cục bộ ở Triều Tiên, Việt Nam, Trung Đông.",
+    "Chiến tranh lạnh được tuyên bố chấm dứt tháng 12/1989, còn trật tự hai cực chỉ sụp đổ hẳn khi Liên Xô tan rã cuối năm 1991.",
+    "Mốc mở đầu Chiến tranh lạnh là Học thuyết Truman (3/1947), không phải Hội nghị Ianta (2/1945)."
+   ],
+   "actors": [
+    "Hoa Kỳ",
+    "Liên Xô"
+   ],
+   "source_tier": "web_verified",
+   "date_start": "1947",
+   "topic_title": "Quan hệ quốc tế trong và sau thời kì Chiến tranh lạnh",
+   "grade": 12,
+   "name_norm": "chien tranh lanh",
+   "place": "Toàn thế giới"
+  }
+ },
+ {
+  "e": "4:0cceace6-57b6-4b47-9237-0610c336edf3:1289959",
+  "cn": "Cuộc Tiến công chiến lược Đông - Xuân 1953 - 1954",
+  "nn": "cuoc tien cong chien luoc dong xuan 1953 1954",
+  "y": 1954,
+  "g": 9,
+  "t": "web_verified",
+  "p": {
+   "summary": "Chuỗi các cuộc tiến công của ta trên khắp chiến trường Đông Dương trong đông xuân 1953-1954, buộc Pháp phân tán khối quân cơ động và tạo tiền đề cho chiến dịch Điện Biên Phủ.",
+   "subject_code": "lich_su",
+   "fixed_notes": [],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_c%E1%BB%A5c_%C4%90%C3%B4ng_Xu%C3%A2n_1953%E2%80%931954",
+    "https://baolamdong.vn/ho-so-tu-lieu/202404/lung-lay-dien-bien-chan-dong-dia-cau-phuong-cham-chi-dao-chien-luoc-cua-dang-trong-dong-xuan-1953-1954-va-chien-dich-dien-bien-phu-f6203b3/"
+   ],
+   "canonical_name": "Cuộc Tiến công chiến lược Đông - Xuân 1953 - 1954",
+   "year": 1954,
+   "kind": "campaign",
+   "verified": true,
+   "ingest_batch": "histevent_verified_2026_08_02",
+   "date_end": "1954-03-01",
+   "facts": [
+    "Trong đông xuân 1953-1954, quân ta phối hợp với lực lượng kháng chiến Lào và Cam-pu-chia mở hàng loạt cuộc tiến công vào những hướng địch sơ hở nhưng hiểm yếu trên toàn Đông Dương.",
+    "Ta tiến công giải phóng Lai Châu ở Tây Bắc, phối hợp mở chiến dịch ở Trung Lào, Hạ Lào - Đông Bắc Cam-pu-chia, Bắc Tây Nguyên và Thượng Lào.",
+    "Vì bị ta tiến công ở nhiều hướng cùng lúc, Pháp buộc phải xé lẻ khối quân cơ động chiến lược tập trung ở đồng bằng Bắc Bộ để đối phó, hình thành 5 nơi tập trung quân: Đồng bằng Bắc Bộ, Điện Biên Phủ, Xê-nô, Luông Pha-bang - Mường Sài và Plây Cu.",
+    "Việc địch phải phân tán lực lượng đã khoét sâu mâu thuẫn cơ bản của kế hoạch Nava giữa tập trung và phân tán, làm kế hoạch này bước đầu bị phá sản.",
+    "Chính vì cuộc Tiến công chiến lược Đông - Xuân 1953-1954 kéo giãn và ghim chân quân Pháp ở khắp nơi mà Điện Biên Phủ trở thành nơi Pháp phải dồn quân phòng thủ, tạo tiền đề trực tiếp để ta mở chiến dịch Điện Biên Phủ đầu năm 1954."
+   ],
+   "traps": [
+    "Cuộc Tiến công chiến lược Đông - Xuân 1953-1954 diễn ra TRƯỚC và là bước chuẩn bị (bước đệm) cho Chiến dịch Điện Biên Phủ (13/3 - 7/5/1954), không phải diễn ra sau.",
+    "Đông - Xuân 1953-1954 là chuỗi nhiều chiến dịch trên toàn Đông Dương, không phải một trận đánh đơn lẻ.",
+    "Đây là các cuộc tiến công do TA chủ động mở nhằm phá kế hoạch Nava của Pháp."
+   ],
+   "actors": [
+    "Quân đội nhân dân Việt Nam",
+    "Lực lượng kháng chiến Lào và Cam-pu-chia",
+    "Quân viễn chinh Pháp"
+   ],
+   "source_tier": "web_verified",
+   "date_start": "1953-12-01",
+   "topic_title": "Cuộc kháng chiến chống thực dân Pháp kết thúc thắng lợi (1951 – 1954)",
+   "grade": 9,
+   "name_norm": "cuoc tien cong chien luoc dong xuan 1953 1954",
+   "place": "Lai Châu (Tây Bắc), Trung Lào, Hạ Lào, Bắc Tây Nguyên, Thượng Lào"
+  }
+ },
+ {
+  "e": "4:0cceace6-57b6-4b47-9237-0610c336edf3:1290264",
+  "cn": "Xu thế toàn cầu hóa (1995)",
+  "nn": "xu the toan cau hoa 1995",
+  "y": 1995,
+  "g": 12,
+  "t": "web_verified",
+  "p": {
+   "summary": "Xu thế khách quan từ những thập niên cuối thế kỉ XX làm các quốc gia ngày càng phụ thuộc lẫn nhau về kinh tế, công nghệ và văn hóa.",
+   "subject_code": "lich_su",
+   "fixed_notes": [],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/To%C3%A0n_c%E1%BA%A7u_h%C3%B3a",
+    "https://vi.wikipedia.org/wiki/T%E1%BB%95_ch%E1%BB%A9c_Th%C6%B0%C6%A1ng_m%E1%BA%A1i_Th%E1%BA%BF_gi%E1%BB%9Bi"
+   ],
+   "canonical_name": "Xu thế toàn cầu hóa (1995)",
+   "year": 1995,
+   "kind": "concept",
+   "verified": true,
+   "ingest_batch": "histevent_verified_2026_08_02",
+   "date_end": "2000",
+   "facts": [
+    "Toàn cầu hóa là quá trình các quốc gia và con người ngày càng phụ thuộc lẫn nhau về kinh tế, công nghệ, môi trường, văn hóa và xã hội, trở thành xu thế nổi bật từ những thập niên cuối thế kỉ XX.",
+    "Biểu hiện của toàn cầu hóa gồm thương mại quốc tế tăng nhanh hơn tốc độ tăng trưởng kinh tế, dòng vốn đầu tư quốc tế mở rộng, các công ty xuyên quốc gia lớn mạnh và dữ liệu chảy xuyên biên giới qua Internet, vệ tinh.",
+    "Ngày 1/1/1995, Tổ chức Thương mại Thế giới (WTO) chính thức hoạt động, kế tục Hiệp định chung về thuế quan và thương mại (GATT) có từ năm 1948, trụ sở đặt tại Giơnevơ (Thụy Sĩ).",
+    "Việt Nam chính thức gia nhập WTO ngày 11/1/2007.",
+    "Vì toàn cầu hóa mở ra cơ hội tiếp cận vốn, thị trường và công nghệ nhưng cũng làm tăng cạnh tranh, nó vừa là thời cơ vừa là thách thức, đồng thời khoét sâu khoảng cách giàu nghèo giữa các nước."
+   ],
+   "traps": [
+    "WTO ra đời ngày 1/1/1995 kế tục GATT, WTO không phải cơ quan của Liên hợp quốc.",
+    "Toàn cầu hóa là xu thế khách quan, không thể đảo ngược, mang cả mặt tích cực lẫn tiêu cực — không nên chỉ nói một chiều.",
+    "Việt Nam gia nhập WTO năm 2007, sau khi gia nhập ASEAN năm 1995."
+   ],
+   "actors": [
+    "WTO",
+    "IMF",
+    "Ngân hàng Thế giới",
+    "các công ty xuyên quốc gia"
+   ],
+   "source_tier": "web_verified",
+   "date_start": "1980",
+   "topic_title": "Cách mạng khoa học - công nghệ và xu thế toàn cầu hoá nửa sau thế kỉ XX",
+   "grade": 12,
+   "name_norm": "xu the toan cau hoa 1995",
+   "place": "Toàn thế giới"
+  }
+ },
+ {
+  "e": "4:0cceace6-57b6-4b47-9237-0610c336edf3:1290271",
+  "cn": "Xu thế toàn cầu hoá (1980)",
+  "nn": "xu the toan cau hoa 1980",
+  "y": 1980,
+  "g": 9,
+  "t": "web_verified",
+  "p": {
+   "summary": "Quá trình gia tăng mạnh mẽ các mối liên hệ, tác động lẫn nhau giữa các quốc gia, trở thành xu thế nổi bật của thế giới từ thập niên 1980 và tăng tốc sau Chiến tranh lạnh.",
+   "subject_code": "lich_su",
+   "fixed_notes": [],
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Toàn_cầu_hóa"
+   ],
+   "canonical_name": "Xu thế toàn cầu hoá (1980)",
+   "year": 1980,
+   "kind": "concept",
+   "verified": true,
+   "ingest_batch": "histevent_verified_2026_08_02",
+   "facts": [
+    "Toàn cầu hoá là quá trình tăng lên mạnh mẽ những mối liên hệ và ảnh hưởng tác động lẫn nhau giữa các khu vực, các quốc gia trên thế giới.",
+    "Xu thế toàn cầu hoá diễn ra mạnh mẽ từ thập niên 1980 và tăng tốc rõ rệt từ những năm 1990.",
+    "Biểu hiện của toàn cầu hoá gồm thương mại quốc tế tăng nhanh hơn tốc độ tăng trưởng kinh tế, dòng vốn đầu tư xuyên biên giới, sự phát triển của công nghệ thông tin và các tổ chức liên kết như WTO, EU, APEC.",
+    "Chính vì cách mạng khoa học - kĩ thuật làm cho việc vận chuyển, liên lạc trở nên nhanh và rẻ mà quá trình toàn cầu hoá mới có thể diễn ra với tốc độ như hiện nay.",
+    "Toàn cầu hoá mang lại cơ hội tiếp cận thị trường rộng lớn, chuyển giao công nghệ và giảm giá hàng tiêu dùng.",
+    "Mặt trái của toàn cầu hoá là sự thống trị của các tập đoàn độc quyền công nghệ, khoảng cách giàu nghèo gia tăng và nguy cơ mai một bản sắc văn hoá dân tộc."
+   ],
+   "actors": [
+    "Các quốc gia",
+    "Các công ty xuyên quốc gia",
+    "WTO",
+    "EU",
+    "APEC"
+   ],
+   "traps": [
+    "Toàn cầu hoá vừa là thời cơ vừa là thách thức, không phải chỉ toàn mặt tích cực.",
+    "Toàn cầu hoá là hệ quả của cách mạng khoa học - kĩ thuật, chứ không phải nguyên nhân sinh ra cuộc cách mạng đó."
+   ],
+   "source_tier": "web_verified",
+   "date_start": "1980",
+   "topic_title": "Cách mạng khoa học - kĩ thuật và xu thế toàn cầu hóa",
+   "grade": 9,
+   "name_norm": "xu the toan cau hoa 1980",
+   "place": "Toàn thế giới"
+  }
+ },
+ {
+  "e": "4:0cceace6-57b6-4b47-9237-0610c336edf3:1290716",
+  "cn": "Hiệp ước Hác-măng (1883) và Hiệp ước Pa-tơ-nốt (1884)",
+  "nn": "hiep uoc hac mang 1883 va hiep uoc pa to not 1884",
+  "y": 1884,
+  "g": 8,
+  "t": "web_verified",
+  "p": {
+   "summary": "Hai bản hiệp ước 1883 và 1884 đặt Việt Nam dưới quyền bảo hộ của Pháp và chia nước ta thành ba kì, chấm dứt sự tồn tại của nhà nước phong kiến độc lập.",
+   "fixed_notes": [],
+   "subject_code": "lich_su",
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Hòa_ước_Quý_Mùi,_1883",
+    "https://vi.wikipedia.org/wiki/Hòa_ước_Giáp_Thân_(1884)"
+   ],
+   "canonical_name": "Hiệp ước Hác-măng (1883) và Hiệp ước Pa-tơ-nốt (1884)",
+   "year": 1884,
+   "kind": "treaty",
+   "verified": true,
+   "ingest_batch": "histevent_verified_2026_08_02",
+   "date_end": "1884-06-06",
+   "facts": [
+    "Hiệp ước Hác-măng, còn gọi là Hòa ước Quý Mùi, được kí ngày 25 tháng 8 năm 1883 tại Huế, gồm 27 điều khoản.",
+    "Theo Hiệp ước Hác-măng, triều đình Huế phải thừa nhận quyền bảo hộ của Pháp và giao cho Pháp nắm toàn bộ việc ngoại giao.",
+    "Hiệp ước Pa-tơ-nốt, còn gọi là Hòa ước Giáp Thân, được kí ngày 6 tháng 6 năm 1884 tại Huế giữa đại diện triều đình là Phạm Thận Duật, Tôn Thất Phan, Nguyễn Văn Tường với đại diện Pháp là Jules Patenôtre.",
+    "Hiệp ước Pa-tơ-nốt gồm 19 điều, chia Việt Nam thành ba xứ là Bắc Kì, Trung Kì và Nam Kì, đồng thời trả ba tỉnh Thanh Hóa, Nghệ An, Hà Tĩnh và tỉnh Bình Thuận về cho Trung Kì.",
+    "Vì Hiệp ước Hác-măng quá nặng nề khiến nhân dân phản ứng dữ dội, Pháp phải sửa đổi đôi chút để xoa dịu triều đình và sĩ phu, đó là lí do ra đời Hiệp ước Pa-tơ-nốt năm 1884.",
+    "Hiệp ước Pa-tơ-nốt năm 1884 chấm dứt sự tồn tại của nhà nước phong kiến Việt Nam độc lập và mở đầu thời kì Pháp thuộc trên cả nước."
+   ],
+   "traps": [
+    "Nhầm hai hiệp ước với nhau: Hác-măng kí 25/8/1883, Pa-tơ-nốt kí 6/6/1884; hiệp ước ĐẶT DẤU CHẤM HẾT cho nhà nước phong kiến độc lập là Pa-tơ-nốt 1884.",
+    "Nhầm nơi kí là Pa-ri hay Sài Gòn; cả hai hiệp ước đều kí tại Huế.",
+    "Nhầm Pa-tơ-nốt là tên một địa danh; Patenôtre là tên viên đại diện Pháp đứng ra kí hiệp ước."
+   ],
+   "actors": [
+    "Harmand",
+    "Jules Patenôtre",
+    "Trần Đình Túc",
+    "Nguyễn Trọng Hợp",
+    "Phạm Thận Duật",
+    "Nguyễn Văn Tường"
+   ],
+   "source_tier": "web_verified",
+   "date_start": "1883-08-25",
+   "topic_title": "Cuộc kháng chiến chống thực dân Pháp xâm lược từ năm 1858 đến năm 1884",
+   "grade": 8,
+   "name_norm": "hiep uoc hac mang 1883 va hiep uoc pa to not 1884",
+   "place": "Huế"
+  }
+ }
+]

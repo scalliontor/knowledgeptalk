@@ -1,0 +1,227 @@
+{
+ "grade": 2,
+ "chunk": 3,
+ "items": [
+  {
+   "ten_bai": "Đất nước chúng mình",
+   "bo_sach": "KNTT",
+   "tac_gia": "",
+   "kind": "companion",
+   "full_text": "",
+   "companion": {
+    "tom_tat": "Bài đọc giới thiệu cho các bạn nhỏ những điều gần gũi nhất về đất nước Việt Nam. Nước mình có thủ đô là Hà Nội. Lá cờ Tổ quốc hình chữ nhật, nền đỏ, ở giữa có ngôi sao vàng năm cánh. Đất nước trải dài với ba miền Bắc, Trung, Nam, mỗi miền có thời tiết và cảnh sắc riêng. Việt Nam cũng có nhiều vị anh hùng có công lớn với đất nước như Hai Bà Trưng, Bà Triệu, Trần Hưng Đạo, Quang Trung, Hồ Chí Minh.",
+    "nhan_vat": "Bài không có nhân vật truyện. Đây là bài đọc cung cấp thông tin về đất nước Việt Nam; những cái tên được nhắc tới là các vị anh hùng dân tộc: Hai Bà Trưng, Bà Triệu, Trần Hưng Đạo, Quang Trung, Hồ Chí Minh.",
+    "y_nghia": "Bài đọc giúp em biết và tự hào về đất nước mình: biết tên thủ đô, nhận ra lá cờ Tổ quốc, biết nước mình có ba miền và có nhiều vị anh hùng đã giữ gìn non sông. Từ đó em thêm yêu quê hương, đất nước.",
+    "cau_hoi": [
+     "Thủ đô của nước Việt Nam mình tên là gì?",
+     "Lá cờ Tổ quốc có màu gì và ở giữa có hình gì?",
+     "Em đang sống ở miền nào của đất nước? Em thích điều gì nhất ở nơi em ở?"
+    ]
+   },
+   "sources": [
+    "https://lop2.edu.vn/bai-giang-tieng-viet-lop-2-ket-noi-tri-thuc-voi-cuoc-song-tuan-32-bai-25-dat-nuoc-chung-minh-1050/",
+    "https://kenhgiaovien.com/tai-lieu/giao-tieng-viet-2-ket-noi-bai-25-dat-nuoc-chung-minh"
+   ],
+   "ly_do": "Văn bản thông tin biên soạn riêng cho SGK Tiếng Việt 2 KNTT (tập 2, Bài 25, trang 110-111), xuất bản 2021 -> CÒN BẢN QUYỀN, không có nguồn đăng tác phẩm độc lập. Nguồn chỉ dùng để ĐỐI CHIẾU nội dung; companion tự viết."
+  },
+  {
+   "ten_bai": "Bà cháu",
+   "bo_sach": "Sách cũ",
+   "tac_gia": "Trần Hoài Dương",
+   "kind": "companion",
+   "full_text": "",
+   "companion": {
+    "tom_tat": "Ngày xưa có hai anh em sống với bà trong một ngôi nhà nghèo nhưng lúc nào cũng đầm ấm. Một hôm, cô tiên cho nhà bà một hạt đào và dặn: khi bà mất, hãy gieo hạt đào bên mộ bà, hai cháu sẽ được giàu sang sung sướng. Bà mất, hai anh em làm theo lời cô tiên; cây đào lớn nhanh và kết toàn trái vàng, trái bạc. Nhưng có vàng bạc mà thiếu bà, hai anh em vẫn buồn rầu. Cô tiên hiện lên, hai anh em xin cho bà sống lại dù phải trở về cảnh nghèo. Cô tiên phất chiếc quạt, lâu đài ruộng vườn biến mất, người bà hiền hậu hiện ra ôm hai cháu vào lòng.",
+    "nhan_vat": "Người bà hiền hậu, hai anh em (hai người cháu) và cô tiên.",
+    "y_nghia": "Câu chuyện cho thấy tình cảm gia đình quý hơn mọi thứ vàng bạc châu báu. Có nhiều của cải mà không có người thân yêu bên cạnh thì vẫn buồn. Bài học: hãy yêu thương và trân trọng ông bà, cha mẹ khi còn được ở bên nhau.",
+    "cau_hoi": [
+     "Cô tiên cho hai anh em vật gì và dặn điều gì?",
+     "Vì sao có trái vàng trái bạc rồi mà hai anh em vẫn buồn?",
+     "Nếu là em, em sẽ làm gì để bà (hoặc ông) của em vui mỗi ngày?"
+    ]
+   },
+   "sources": [
+    "https://thohay.vn/ke-chuyen-ba-chau.html",
+    "https://lop2.vn/bai-giang-tap-doc-lop-2-ba-chau-nam-hoc-2019-2020-5139/"
+   ],
+   "ly_do": "Tác giả Trần Hoài Dương (1943-2011) mất chưa quá 50 năm -> CÒN BẢN QUYỀN (khớp tiền lệ chunk 0 với bài 'Cây xấu hổ' cùng tác giả). Không chép nguyên văn; chỉ đối chiếu nội dung rồi tự viết companion."
+  },
+  {
+   "ten_bai": "Bác sĩ Sói",
+   "bo_sach": "Sách cũ",
+   "tac_gia": "Phỏng theo La Phông-ten (Huỳnh Lý dịch)",
+   "kind": "recite",
+   "full_text": "Thấy Ngựa đang ăn cỏ, Sói thèm rỏ dãi. Nó toan xông đến ăn thịt Ngựa, nhưng lại sợ Ngựa chạy mất. Nó bèn kiếm một cặp kính đeo lên mắt, một ống nghe cặp vào cổ, một áo choàng khoác lên người, một chiếc mũ thêu chữ thập đỏ chụp lên đầu. Xong, nó khoan thai tiến về phía Ngựa.\n\nSói đến gần, Ngựa mới phát hiện ra. Biết là cuống lên thì chết, Ngựa bình tĩnh đợi xem Sói giở trò gì. Sói đến gần Ngựa, giả giọng hiền lành, bảo:\n– Bên xóm mời ta sang khám bệnh. Ta đi ngang qua đây, nếu cậu có bệnh, ta chữa giúp cho.\nNgựa lễ phép:\n– Cảm ơn bác sĩ. Cháu đau chân quá. Ông làm ơn chữa giúp cho. Hết bao nhiêu tiền, cháu xin chịu.\nSói đáp:\n– Chà! Chà! Chữa làm phúc, tiền với nong gì. Đau thế nào? Lại đây ta xem.\n– Đau ở chân sau ấy ạ. Phiền ông xem giúp.\n\nSói mừng rơn, mon men lại phía sau, định lựa miếng đớp sâu vào đùi Ngựa cho Ngựa hết đường chạy. Ngựa nhón nhón chân sau, vờ rên rỉ. Thấy Sói đã cúi xuống đúng tầm, nó tung vó đá một cú trời giáng, làm Sói bật ngửa, bốn cẳng huơ giữa trời, kính vỡ tan, mũ văng ra...",
+   "companion": {
+    "tom_tat": "",
+    "nhan_vat": "",
+    "y_nghia": "",
+    "cau_hoi": []
+   },
+   "sources": [
+    "https://www.cungtien.com/2021/05/bac-si-soi-lop-2-tuan-23-trang-41-tieng.html"
+   ],
+   "ly_do": "Ngụ ngôn La Phông-ten (mất 1695) - thuộc nhóm được phép recite theo quy tắc, cùng chuẩn với 'Sư Tử xuất quân' đã recite ở chunk 4. Nguyên văn lấy từ cungtien.com (blog chép lại bài tập đọc SGK TV2 tập 2, tuần 23, trang 41 - KHÔNG phải trang soạn bài/giải bài tập). Đã bỏ nhãn 'Đoạn 1/2/3', chú thích từ ngữ và câu hỏi cuối bài; chuẩn hoá dấu thoại về '–'. Đối chiếu 2 câu mốc ('Thấy Ngựa đang ăn cỏ, Sói thèm rỏ dãi' / 'tung vó đá một cú trời giáng... mũ văng ra') khớp với trích dẫn độc lập. LƯU Ý: bản tiếng Việt là bản phỏng dịch của Huỳnh Lý (mất 1993) - nếu nhà mình siết chuẩn theo dịch giả thì nên hạ xuống companion."
+  },
+  {
+   "ten_bai": "Bé nhìn biển",
+   "bo_sach": "Sách cũ",
+   "tac_gia": "Trần Mạnh Hảo",
+   "kind": "companion",
+   "full_text": "",
+   "companion": {
+    "tom_tat": "Bài thơ kể chuyện một em bé được nghỉ hè, theo bố ra biển chơi. Bé cứ tưởng biển bé nhỏ, ai ngờ biển rộng mênh mông như bầu trời. Bé thấy sóng chạy vào bãi cát như đang chơi trò kéo co, thấy biển thở phì phò như đang mệt, thấy con còng giơ càng như định khiêng những con sóng lớn. Cuối bài, bé nhận ra biển to lớn thế mà vẫn nghịch ngợm, tinh nghịch y như một đứa trẻ con.",
+    "nhan_vat": "Em bé (nhân vật chính), người bố, và biển - được nhà thơ nhân hoá thành một bạn nhỏ ham chơi.",
+    "y_nghia": "Bài thơ vẽ ra biển qua con mắt trong trẻo, ngộ nghĩnh của trẻ nhỏ. Biển vừa rộng lớn, mạnh mẽ, vừa hồn nhiên như trẻ con. Bài thơ giúp em thấy thiên nhiên thật thú vị và thêm yêu biển của quê hương mình.",
+    "cau_hoi": [
+     "Bé ra biển chơi cùng ai, vào dịp nào?",
+     "Bé thấy sóng và bãi cát chơi trò gì với nhau?",
+     "Vì sao bạn nhỏ lại bảo biển to lớn mà vẫn là trẻ con?"
+    ]
+   },
+   "sources": [
+    "https://mamnonhoami.edu.vn/tho-thieu-nhi/be-nhin-bien.html",
+    "https://thegioicotich.vn/bai-tho-be-nhin-bien/"
+   ],
+   "ly_do": "Tác giả Trần Mạnh Hảo sinh 1949, HIỆN CÒN SỐNG -> bài thơ CÒN BẢN QUYỀN, tuyệt đối không chép nguyên văn. Chỉ đối chiếu nội dung để tự viết companion."
+  },
+  {
+   "ten_bai": "Bím tóc đuôi sam",
+   "bo_sach": "Sách cũ",
+   "tac_gia": "Phỏng theo Ku-rô-y-a-na-gi (Kuroyanagi Tetsuko)",
+   "kind": "companion",
+   "full_text": "",
+   "companion": {
+    "tom_tat": "Bạn Hà được mẹ tết cho hai bím tóc nhỏ, mỗi bím buộc một chiếc nơ xinh. Đến lớp, các bạn khen bím tóc đẹp làm Hà rất vui. Nhưng Tuấn lại chạy tới nắm bím tóc của Hà mà đùa dai; Tuấn to khoẻ hơn nên mỗi lần bị kéo, Hà loạng choạng rồi ngã xuống đất. Hà khóc, chạy đi mách thầy giáo. Thầy nhìn hai bím tóc và vui vẻ khen tóc Hà rất đẹp, thế là Hà nín khóc và cười. Tan học, Tuấn đến gặp Hà xin lỗi vì đã trêu bạn.",
+    "nhan_vat": "Hà (bạn gái có bím tóc đuôi sam), Tuấn (bạn trai hay trêu chọc) và thầy giáo.",
+    "y_nghia": "Câu chuyện nhắc các bạn nhỏ không được trêu chọc, bắt nạt bạn, nhất là các bạn gái; đùa dai có thể làm bạn đau và tủi thân. Truyện cũng cho thấy một lời khen đúng lúc của thầy giáo có thể an ủi bạn nhỏ, và biết nhận lỗi, xin lỗi là điều đáng khen.",
+    "cau_hoi": [
+     "Mẹ đã làm gì cho mái tóc của Hà?",
+     "Vì sao Hà khóc và chạy đi mách thầy giáo?",
+     "Sau khi được thầy nhắc, Tuấn đã làm gì? Nếu em trót trêu bạn, em sẽ nói gì với bạn?"
+    ]
+   },
+   "sources": [
+    "https://lop2.vn/bai-giang-tap-doc-2-tuan-4-bai-bim-toc-duoi-sam-2786/",
+    "https://mytour.vn/vi/blog/bai-viet/chuan-bi-bai-tap-doc-bim-toc-duoi-sam-tieng-viet-lop-2.html"
+   ],
+   "ly_do": "Phỏng theo Kuroyanagi Tetsuko (sinh 1933, HIỆN CÒN SỐNG) -> tác phẩm gốc CÒN BẢN QUYỀN; bản tiếng Việt trong SGK cũng là bản phỏng dịch hiện đại. Không đủ điều kiện recite."
+  },
+  {
+   "ten_bai": "Chim sơn ca và bông cúc trắng",
+   "bo_sach": "Sách cũ",
+   "tac_gia": "An-đéc-xen (Hans Christian Andersen)",
+   "kind": "recite",
+   "full_text": "Bên bờ rào, giữa đám cỏ dại, có bông cúc trắng. Một chú sơn ca sà xuống, hót rằng:\n– Cúc ơi! Cúc xinh xắn làm sao!\nCúc sung sướng khôn tả. Chim véo von mãi rồi mới bay về bầu trời xanh thẳm.\n\nNhưng sáng hôm sau, khi vừa xoè cánh đón bình minh, bông cúc đã nghe thấy tiếng sơn ca buồn thảm. Thì ra, sơn ca đã bị nhốt trong lồng.\nBông cúc muốn cứu chim nhưng chẳng làm gì được.\n\nBỗng có hai cậu bé đi vào vườn, cắt cả đám cỏ lẫn bông cúc đem về bỏ vào lồng sơn ca. Con chim bị cầm tù, họng khô bỏng vì khát, rúc mỏ vặt đám cỏ ẩm ướt. Cúc toả hương thơm ngào ngạt an ủi chim. Sơn ca dù khát, phải vặt hết nắm cỏ, vẫn không đụng đến bông hoa.\nTối rồi, chẳng ai cho con chim khốn khổ một giọt nước. Đêm ấy, sơn ca lìa đời. Bông cúc héo lả đi vì thương xót.\n\nSáng hôm sau, thấy sơn ca đã chết, hai cậu bé đặt con chim vào một chiếc hộp rất đẹp và chôn cất thật long trọng. Tội nghiệp con chim! Khi nó còn sống và ca hát, các cậu đã để mặc nó chết vì đói khát. Còn bông hoa, giá các cậu đừng ngắt nó thì hôm nay chắc nó vẫn đang tắm nắng mặt trời.",
+   "companion": {
+    "tom_tat": "",
+    "nhan_vat": "",
+    "y_nghia": "",
+    "cau_hoi": []
+   },
+   "sources": [
+    "https://www.cungtien.com/2021/05/chim-son-ca-va-bong-cuc-trang-lop-2.html",
+    "https://vungoi.vn/cau-hoi-37005"
+   ],
+   "ly_do": "An-đéc-xen mất 1875 -> mất trên 50 năm, thuộc phạm vi công cộng theo quy tắc. Nguyên văn (bản rút gọn dùng trong SGK TV2 tập 2, tuần 21) lấy từ cungtien.com - blog chép bài tập đọc, KHÔNG phải trang soạn bài. Đối chiếu độc lập với bản trích 3 đoạn ở vungoi.vn: khớp từng câu (chỉ khác kiểu bỏ dấu 'xòe/xoè', 'tỏa/toả'). Đã bỏ chú thích từ ngữ + câu hỏi cuối bài, chuẩn hoá dấu thoại '–'. LƯU Ý: KHÔNG dùng bản 'Bông cúc trắng' đầy đủ trên các trang truyện cổ tích vì đó là văn bản khác, dài hơn nhiều, không phải bài lớp 2."
+  },
+  {
+   "ten_bai": "Cháu nhớ Bác Hồ",
+   "bo_sach": "Sách cũ",
+   "tac_gia": "Thanh Hải",
+   "kind": "companion",
+   "full_text": "",
+   "companion": {
+    "tom_tat": "Bài thơ là lời một bạn nhỏ ở miền Nam, bên bến Ô Lâu, trong những năm đất nước còn bị chia cắt. Đêm đêm bạn nhỏ ngồi nhớ Bác Hồ: nhớ chòm râu, đôi má hồng hào, mái đầu bạc phơ và đôi mắt hiền sáng như vì sao của Bác. Bạn nhỏ nhớ những lời Bác gửi vào thăm dịp Trung thu, rồi lén giở tấm ảnh Bác cất giấu bấy lâu ra ngắm. Càng nhìn càng bâng khuâng, bạn nhỏ ôm hôn ảnh Bác mà ngỡ như được Bác hôn.",
+    "nhan_vat": "Bạn nhỏ ở miền Nam (người xưng 'cháu') và hình ảnh Bác Hồ trong nỗi nhớ của bạn.",
+    "y_nghia": "Bài thơ nói lên tình cảm kính yêu và nỗi nhớ Bác Hồ tha thiết của thiếu nhi miền Nam khi đất nước còn chia cắt hai miền. Đọc bài thơ, em hiểu thêm vì sao Bác Hồ được các bạn nhỏ cả nước yêu quý đến thế.",
+    "cau_hoi": [
+     "Bạn nhỏ trong bài thơ nhớ những gì ở Bác Hồ?",
+     "Bạn nhỏ đã cất giữ vật gì của Bác và làm gì với nó vào ban đêm?",
+     "Em biết câu chuyện nào về Bác Hồ với thiếu nhi? Kể lại cho mọi người nghe nhé."
+    ]
+   },
+   "sources": [
+    "https://www.thivien.net/Thanh-H%E1%BA%A3i/Ch%C3%A1u-nh%E1%BB%9B-B%C3%A1c-H%E1%BB%93/poem-XsonNjLxI06_yTsAFSMlnQ",
+    "https://tulieuvankien.dangcongsan.vn/c-mac-angghen-lenin-ho-chi-minh/ho-chi-minh/nghien-cuu-hoc-tap-tu-tuong/chau-nho-bac-ho-2580"
+   ],
+   "ly_do": "Thanh Hải (Phạm Bá Ngoãn, 1930-1980) mất năm 1980, tới 2026 mới 46 năm - CHƯA QUÁ 50 NĂM -> còn bản quyền, không đủ điều kiện recite. Companion tự viết, không chép câu thơ nào. (Có thể mở lại vào năm 2031.)"
+  },
+  {
+   "ten_bai": "Câu chuyện bó đũa",
+   "bo_sach": "Sách cũ",
+   "tac_gia": "Ngụ ngôn Việt Nam",
+   "kind": "recite",
+   "full_text": "Ngày xưa, ở một gia đình kia, có hai anh em. Lúc nhỏ, anh em rất hoà thuận. Khi lớn lên, anh có vợ, em có chồng, tuy mỗi người một nhà, nhưng vẫn hay va chạm.\n\nThấy các con không yêu thương nhau, người cha rất buồn phiền. Một hôm, ông đặt một bó đũa và một túi tiền trên bàn, rồi gọi các con, cả trai, gái, dâu, rể lại và bảo:\n– Ai bẻ gãy được bó đũa này thì cha thưởng cho túi tiền.\n\nBốn người con lần lượt bẻ bó đũa. Ai cũng cố hết sức mà không sao bẻ gãy được. Người cha bèn cởi bó đũa ra, rồi thong thả bẻ gãy từng chiếc một cách dễ dàng.\n\nThấy vậy, bốn người con cùng nói:\n– Thưa cha, lấy từng chiếc mà bẻ thì có khó gì!\n\nNgười cha liền bảo:\n– Đúng. Như thế là các con đều thấy rằng chia lẻ ra thì yếu, hợp lại thì mạnh. Vậy các con phải biết thương yêu, đùm bọc lẫn nhau. Có đoàn kết thì mới có sức mạnh.",
+   "companion": {
+    "tom_tat": "",
+    "nhan_vat": "",
+    "y_nghia": "",
+    "cau_hoi": []
+   },
+   "sources": [
+    "https://www.cungtien.com/2021/05/cau-chuyen-bo-ua-lop-2-tuan-14-trang.html",
+    "https://trovetuoitho.com/cau-chuyen-bo-dua-ngu-ngon-viet-nam/"
+   ],
+   "ly_do": "Truyện ngụ ngôn dân gian Việt Nam, khuyết danh -> phạm vi công cộng. Đối chiếu 2 nguồn độc lập không phải trang soạn bài (cungtien.com chép bài tập đọc SGK TV2 tập 1, tuần 14, trang 112 + trovetuoitho.com): trùng khớp từng câu. Đã sửa 1 lỗi gõ hiển nhiên của nguồn ('cởi bỏ đũa ra' -> 'cởi bó đũa ra', khớp nguồn thứ hai), bỏ nhãn đoạn/chú thích/câu hỏi, chuẩn hoá dấu thoại '–'. KHÔNG dùng bản 'ba người con' trên eva.vn vì đó là dị bản khác hẳn bài SGK."
+  },
+  {
+   "ten_bai": "Cây đa quê hương",
+   "bo_sach": "Sách cũ",
+   "tac_gia": "Nguyễn Khắc Viện",
+   "kind": "companion",
+   "full_text": "",
+   "companion": {
+    "tom_tat": "Bài văn là kỉ niệm tuổi thơ của tác giả về cây đa cổ thụ ở quê. Cây đa nghìn năm to lớn đến mức trông như cả một toà nhà cổ kính hơn là một thân cây; chín, mười đứa trẻ nắm tay nhau ôm cũng không xuể. Cành đa lớn hơn cột đình, ngọn vươn chót vót giữa trời xanh, rễ nổi lên mặt đất thành những hình thù kì lạ như những con rắn hổ mang. Chiều chiều, gió thổi trong vòm lá nghe như tiếng ai cười nói; ngoài kia là cánh đồng lúa vàng gợn sóng và đàn trâu lững thững ra về.",
+    "nhan_vat": "Bài không có nhân vật truyện; có tác giả kể chuyện (xưng 'chúng tôi') nhớ về cây đa quê mình. 'Nhân vật' trung tâm chính là cây đa cổ thụ của làng.",
+    "y_nghia": "Bài văn cho thấy cây đa đầu làng gắn bó với tuổi thơ và trở thành hình ảnh thân thương của quê hương. Đọc bài, em học được cách quan sát, so sánh để tả một cái cây, và thêm yêu cảnh vật bình dị nơi mình sống.",
+    "cau_hoi": [
+     "Cây đa trong bài được so sánh với cái gì cho thấy nó rất to lớn?",
+     "Rễ cây đa nổi lên mặt đất trông giống con vật nào?",
+     "Ở quê em hay gần nhà em có cây to nào không? Em hãy tả cây đó bằng một câu."
+    ]
+   },
+   "sources": [
+    "https://lop2.vn/bai-giang-tap-doc-2-cay-da-que-huong-theo-nguyen-khac-vien-3527/",
+    "https://luatduonggia.vn/doc-hieu-bai-cay-da-que-huong-on-tap-tieng-viet-lop-2"
+   ],
+   "ly_do": "Tác giả Nguyễn Khắc Viện (1913-1997) mất 29 năm, chưa quá 50 năm -> tác phẩm CÒN BẢN QUYỀN. Không chép nguyên văn; nguồn chỉ dùng đối chiếu chi tiết (toà cổ kính, cột đình, rắn hổ mang, lúa vàng gợn sóng) rồi tự viết companion."
+  },
+  {
+   "ten_bai": "Có công mài sắt, có ngày nên kim",
+   "bo_sach": "Sách cũ",
+   "tac_gia": "Truyện ngụ ngôn",
+   "kind": "recite",
+   "full_text": "Ngày xưa, có một cậu bé làm việc gì cũng mau chán. Mỗi khi cầm quyển sách, cậu chỉ đọc vài dòng đã ngáp ngắn ngáp dài, rồi bỏ dở. Những lúc tập viết, cậu cũng chỉ nắn nót được mấy chữ đầu, rồi lại viết nguệch ngoạc, trông rất xấu.\n\nMột hôm trong lúc đi chơi, cậu nhìn thấy một bà cụ tay cầm thỏi sắt mải miết mài vào tảng đá ven đường. Thấy lạ, cậu bèn hỏi:\n– Bà ơi, bà làm gì thế?\nBà cụ trả lời:\n– Bà mài thỏi sắt này thành một chiếc kim để khâu vá quần áo.\nCậu bé ngạc nhiên:\n– Thỏi sắt to như thế, làm sao bà mài thành kim được?\n\nBà cụ ôn tồn giảng giải:\n– Mỗi ngày mài thỏi sắt nhỏ đi một tí, sẽ có ngày nó thành kim. Giống như cháu đi học, mỗi ngày cháu học một ít, sẽ có ngày cháu thành tài.\n\nCậu bé hiểu ra, quay về nhà học bài.",
+   "companion": {
+    "tom_tat": "",
+    "nhan_vat": "",
+    "y_nghia": "",
+    "cau_hoi": []
+   },
+   "sources": [
+    "https://www.cungtien.com/2019/12/co-cong-mai-sat-co-ngay-nen-kim-bai-oc.html",
+    "http://lehoduchau.blogspot.com/2017/04/co-cong-mai-sat-co-ngay-nen-kim-tieng.html",
+    "https://mnthachcau.hanoi.edu.vn/tho-truyen-cau-do/truyen-co-cong-mai-sat-co-ngay-nen-kim/ctmb/3814/653840"
+   ],
+   "ly_do": "Truyện dân gian / ngụ ngôn khuyết danh (SGK ghi tác giả là 'Truyện ngụ ngôn') -> phạm vi công cộng. Nguyên văn bài tập đọc SGK TV2 tập 1, tuần 1, trang 4. Đối chiếu 3 nguồn không phải trang soạn bài (cungtien.com, blog lehoduchau, trang trường mầm non Thạch Cầu): nội dung trùng khớp. Đã bỏ nhãn số đoạn, dấu chú thích (*) và câu hỏi; trả lời thoại về dạng gạch đầu dòng như SGK (nguồn cungtien in bằng ngoặc kép). Chọn 'Giống như cháu đi học' (2/3 nguồn) thay vì 'Cũng như cháu đi học' (1 nguồn)."
+  },
+  {
+   "ten_bai": "Mít làm thơ",
+   "bo_sach": "Sách cũ",
+   "tac_gia": "Nô-xốp (Nikolai Nosov) - Vũ Ngọc Bình dịch",
+   "kind": "recite",
+   "full_text": "Ở thành phố Tí Hon, nổi tiếng nhất là Mít. Người ta gọi cậu như vậy vì cậu chẳng biết gì.\n\nTuy thế, dạo này Mít lại ham học hỏi. Một lần, cậu đến thi sĩ Hoa Giấy để học làm thơ. Hoa Giấy hỏi:\n– Cậu có biết thế nào là vần thơ không?\n– Vần thơ là cái gì?\n– Hai từ có phần cuối giống nhau thì gọi là vần. Ví dụ: vịt - thịt, cáo - gáo. Bây giờ cậu hãy tìm một từ vần với bé.\n– Phé! – Mít đáp.\n– Phé là gì? Vần thì vần nhưng phải có nghĩa chứ.\n– Mình hiểu rồi. Thật kì diệu! – Mít kêu lên.\n\nVề đến nhà, Mít bắt tay ngay vào việc. Cậu đi đi lại lại, vò đầu bứt tai. Đến tối thì bài thơ hoàn thành.",
+   "companion": {
+    "tom_tat": "",
+    "nhan_vat": "",
+    "y_nghia": "",
+    "cau_hoi": []
+   },
+   "sources": [
+    "https://www.cungtien.com/2019/12/mit-lam-tho-lop-2.html"
+   ],
+   "ly_do": "Nikolai Nosov (23/11/1908 - 26/7/1976) mất đã hơn 50 năm tính đến 9/2026 -> đủ tiêu chí 'tác giả mất trên 50 năm' (cùng chuẩn với Tú Mỡ mất 13/7/1976 đã recite ở chunk 2). Nguyên văn phần 1 của bài (SGK TV2 tập 1, tuần 3, trang 25) lấy từ cungtien.com - blog chép bài tập đọc, không phải trang soạn bài. Đã bỏ dòng xuất xứ 'Theo Nê-Xốp (Vũ Ngọc Bình dịch)', bỏ dấu '(Còn nữa)' và câu hỏi cuối bài; chuẩn hoá dấu thoại '–'. LƯU Ý: đây là phần 1; SGK còn bài 'Mít làm thơ (tiếp theo)' ở tuần 4 chưa nạp. Bản dịch của Vũ Ngọc Bình về lý thuyết vẫn còn bảo hộ - nếu nhà mình siết chuẩn theo dịch giả thì hạ xuống companion."
+  }
+ ]
+}

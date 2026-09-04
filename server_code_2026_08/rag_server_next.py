@@ -773,7 +773,7 @@ def query_qdrant(intent: Dict[str, Any]) -> str:
             client = QdrantClient(host="localhost", port=6333, timeout=3)
             client.get_collections()
         except:
-            client = QdrantClient(host="171.226.10.121", port=6333, timeout=5)
+            client = QdrantClient(host=os.getenv("QDRANT_HOST_FALLBACK", "localhost"), port=6333, timeout=5)
 
         query_vector = bge_m3_model.encode([keyword], normalize_embeddings=True)[0].tolist()
 
@@ -817,10 +817,10 @@ def query_qdrant(intent: Dict[str, Any]) -> str:
         import psycopg2
         pg_conn = None
         try:
-            pg_conn = psycopg2.connect(host="localhost", port=5433, dbname="rag_edu", user="postgres", password="postgres", connect_timeout=3)
+            pg_conn = psycopg2.connect(host="localhost", port=5433, dbname="rag_edu", user=os.getenv("PG_USER", "postgres"), password=os.environ.get("PG_PASS", ""), connect_timeout=3)
         except:
             try:
-                pg_conn = psycopg2.connect(host="171.226.10.121", port=5433, dbname="rag_edu", user="postgres", password="postgres", connect_timeout=3)
+                pg_conn = psycopg2.connect(host=os.getenv("PG_HOST_FALLBACK", "localhost"), port=5433, dbname="rag_edu", user=os.getenv("PG_USER", "postgres"), password=os.environ.get("PG_PASS", ""), connect_timeout=3)
             except Exception as e:
                 print(f"[PG Connect Error] {e}")
 

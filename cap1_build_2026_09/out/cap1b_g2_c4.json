@@ -1,0 +1,138 @@
+{
+  "grade": 2,
+  "chunk": 4,
+  "items": [
+    {
+      "ten_bai": "Người mẹ hiền",
+      "bo_sach": "Sách cũ",
+      "tac_gia": "Nguyễn Văn Thịnh",
+      "kind": "companion",
+      "full_text": "",
+      "companion": {
+        "tom_tat": "Minh rủ Nam trốn học ra phố xem xiếc. Hai bạn định chui qua một chỗ tường thủng của trường để ra ngoài. Nam vừa chui thì bị bác bảo vệ giữ lại, sợ quá em khóc oà lên. Cô giáo chạy tới xin bác nhẹ tay, đỡ Nam dậy, phủi sạch đất cát rồi đưa em về lớp. Cô nhẹ nhàng hỏi hai bạn còn trốn học nữa không, cả hai xin lỗi cô và hứa không tái phạm.",
+        "nhan_vat": "Nam và Minh (hai bạn học sinh trốn học), cô giáo (người vừa thương vừa dạy bảo học trò), bác bảo vệ trường.",
+        "y_nghia": "Cô giáo được gọi là người mẹ hiền vì cô vừa che chở, chăm sóc học trò như mẹ, vừa nghiêm khắc chỉ ra lỗi để các em biết sửa. Bài học nhắc các em không trốn học, và khi mắc lỗi thì phải biết nhận lỗi.",
+        "cau_hoi": [
+          "Vì sao Minh và Nam lại muốn trốn học ra phố?",
+          "Cô giáo đã làm những việc gì cho Nam khi em bị bác bảo vệ giữ lại?",
+          "Theo em, vì sao bài đọc lại đặt tên cô giáo là 'người mẹ hiền'?"
+        ]
+      },
+      "sources": [
+        "https://www.cungtien.com/2021/05/nguoi-me-hien-lop-2-tuan-8-trang-63.html"
+      ],
+      "ly_do": "Tác giả Nguyễn Văn Thịnh là tác giả đương đại, bài viết cho SGK Tiếng Việt 2 (tuần 8, trang 63) — CÒN BẢN QUYỀN, không được chép nguyên văn. Đã đọc nguồn để nắm đúng diễn biến rồi TỰ VIẾT tóm tắt bằng lời mình, mức lớp 2."
+    },
+    {
+      "ten_bai": "Những quả đào",
+      "bo_sach": "Sách cũ",
+      "tac_gia": "Phỏng theo Lép Tôn-xtôi",
+      "kind": "recite",
+      "full_text": "Sau một chuyến đi xa, người ông mang về nhà bốn quả đào. Ông bảo vợ và các cháu:\n– Quả to này xin phần bà. Ba quả nhỏ hơn phần các cháu.\nBữa cơm chiều hôm ấy, ông hỏi các cháu:\n– Thế nào, các cháu thấy đào có ngon không?\nCậu bé Xuân nói:\n– Đào có vị rất ngon và mùi thật là thơm. Cháu đã đem hạt trồng vào một cái vò. Chẳng bao lâu, nó sẽ mọc thành một cây đào to đấy, ông nhỉ?\n– Mai sau cháu sẽ làm vườn giỏi. – Ông hài lòng nhận xét.\nCô bé Vân nói với vẻ tiếc rẻ:\n– Đào ngon quá, cháu ăn hết mà vẫn thèm. Còn hạt thì cháu vứt đi rồi.\n– Ôi, cháu của ông còn thơ dại quá!\nThấy Việt chỉ chăm chú nhìn vào tấm khăn trải bàn, ông ngạc nhiên hỏi:\n– Còn Việt, sao cháu chẳng nói gì thế?\n– Cháu ấy ạ? Cháu mang đào cho Sơn. Bạn ấy bị ốm. Nhưng bạn ấy không muốn nhận. Cháu đặt quả đào trên giường rồi trốn về.\n– Cháu là người có tấm lòng nhân hậu! – Ông lão thốt lên và xoa đầu đứa cháu nhỏ.",
+      "companion": {
+        "tom_tat": "",
+        "nhan_vat": "",
+        "y_nghia": "",
+        "cau_hoi": []
+      },
+      "sources": [
+        "https://www.cungtien.com/2021/05/nhung-qua-ao-lop-2-tuan-29-trang-91.html"
+      ],
+      "ly_do": "Phỏng theo Lép Tôn-xtôi (mất 1910) — thuộc nhóm ngụ ngôn/truyện Tolstoy được phép recite. Lấy nguyên văn từ cungtien.com (trang chép lại bài tập đọc SGK TV2 tập 2, tuần 29, trang 91), KHÔNG phải trang soạn bài/giải bài tập. Fetch 2 lần cho ra text trùng khớp. Đã bỏ chú thích từ ngữ, bỏ 3 câu hỏi cuối bài, bỏ metadata; chuẩn hoá dấu gạch đầu dòng lời thoại theo lối SGK (– ), không đổi một chữ nào."
+    },
+    {
+      "ten_bai": "Phần thưởng",
+      "bo_sach": "Sách cũ",
+      "tac_gia": "Phỏng theo Blai-tơn",
+      "kind": "recite",
+      "full_text": "Na là một cô bé tốt bụng. Ở lớp, ai cũng mến em. Em gọt bút chì giúp bạn Lan. Em cho bạn Minh nửa cục tẩy. Nhiều lần, em làm trực nhật giúp các bạn bị mệt... Na chỉ buồn vì em học chưa giỏi.\nCuối năm học, cả lớp bàn tán về điểm thi và phần thưởng. Riêng Na chỉ lặng yên nghe các bạn. Em biết mình chưa giỏi môn nào. Một buổi sáng, vào giờ ra chơi, các bạn trong lớp túm tụm bàn bạc điều gì đó có vẻ bí mật lắm. Rồi các bạn kéo nhau đến gặp cô giáo. Cô giáo cho rằng sáng kiến của các bạn rất hay.\nNgày tổng kết năm học, từng học sinh giỏi bước lên bục nhận phần thưởng. Cha mẹ các em cũng hồi hộp. Bất ngờ, cô giáo nói:\n– Bây giờ, cô sẽ trao phần thưởng đặc biệt. Đây là phần thưởng cả lớp đề nghị tặng bạn Na. Na học chưa giỏi, nhưng em có tấm lòng thật đáng quý.\nNa không hiểu mình có nghe nhầm không. Đỏ bừng mặt, cô bé đứng dậy bước lên bục. Tiếng vỗ tay vang dậy. Mẹ của Na lặng lẽ chấm khăn lên đôi mắt đỏ hoe.",
+      "companion": {
+        "tom_tat": "",
+        "nhan_vat": "",
+        "y_nghia": "",
+        "cau_hoi": []
+      },
+      "sources": [
+        "https://www.cungtien.com/2019/12/phanthuong.html"
+      ],
+      "ly_do": "Blai-tơn = Enid Blyton, mất 28/11/1968 → đã hơn 50 năm, khớp tiêu chí 'tác giả mất trên 50 năm' (VN bảo hộ đời + 50 năm). Nguyên văn lấy từ cungtien.com (chép bài tập đọc SGK TV2 tập 1, tuần 2, trang 13), fetch 2 lần trùng khớp; đã bỏ tiêu đề phụ do trình đọc tự thêm, bỏ chú thích và câu hỏi. LƯU Ý REVIEW: đây là bản 'phỏng theo' tiếng Việt, người phỏng theo không được ghi tên; nếu chuẩn duyệt chỉ chấp nhận đúng 4 nhóm liệt kê (dân gian VN / ca dao / Ê-dốp - La Fontaine - Tolstoy) thì lật bài này sang companion."
+    },
+    {
+      "ten_bai": "Sáng kiến của bé Hà",
+      "bo_sach": "Sách cũ",
+      "tac_gia": "Hồ Phương",
+      "kind": "companion",
+      "full_text": "",
+      "companion": {
+        "tom_tat": "Bé Hà nhận ra ai trong nhà cũng có ngày lễ riêng: em có ngày 1 tháng 6, bố có ngày 1 tháng 5, mẹ có ngày 8 tháng 3, chỉ riêng ông bà là chưa có ngày nào cả. Hà bàn với bố và hai bố con chọn ngày lập đông làm ngày của ông bà, vì trời bắt đầu lạnh, người già cần được chăm sóc nhiều hơn. Đến ngày lập đông, con cháu kéo về chúc thọ ông bà, ông bà rất vui và cảm động. Hà băn khoăn mãi chưa biết tặng quà gì, cuối cùng em tặng ông bà chùm điểm mười của mình. Ông bảo đó mới là món quà quý nhất.",
+        "nhan_vat": "Bé Hà (cô bé ngoan, nhiều sáng kiến, thương ông bà), bố của Hà, ông và bà.",
+        "y_nghia": "Câu chuyện dạy các em lòng hiếu thảo: quan tâm tới ông bà và biết rằng món quà quý nhất tặng người lớn chính là sự chăm ngoan, học giỏi của mình.",
+        "cau_hoi": [
+          "Bé Hà đã nghĩ ra sáng kiến gì cho ông bà?",
+          "Vì sao hai bố con lại chọn ngày lập đông làm ngày của ông bà?",
+          "Nếu là em, em sẽ tặng ông bà món quà gì trong ngày của ông bà?"
+        ]
+      },
+      "sources": [
+        "https://www.cungtien.com/2021/05/sang-kien-cua-be-ha-lop-2-tuan-10-trang.html"
+      ],
+      "ly_do": "Tác giả Hồ Phương (nhà văn quân đội, sinh 1930) chưa mất quá 50 năm — tác phẩm CÒN BẢN QUYỀN. Bài SGK Tiếng Việt 2 tuần 10, trang 78. Đã đọc nguồn để nắm đúng chi tiết (ngày lập đông, chùm điểm mười) rồi tự viết companion, không chép câu nào."
+    },
+    {
+      "ten_bai": "Sư Tử xuất quân",
+      "bo_sach": "Sách cũ",
+      "tac_gia": "Phỏng theo La Phông-ten (Nguyễn Minh dịch)",
+      "kind": "recite",
+      "full_text": "Sư Tử bàn chuyện xuất quân\nMuốn sao cho khắp thần dân trổ tài\nNhỏ to, khoẻ yếu muôn loài\nAi ai cũng được tuỳ tài lập công:\nVoi vận tải trên lưng quân bị\nVào trận sao cho khoẻ như voi.\nCông đồn, Gấu phải kịp thời,\nCáo nhiều mưu kế tính bài quân cơ.\nMẹo lừa địch, phải nhờ chú Khỉ...\n\nBỗng có người nảy ý tâu Vua:\n– Người ta bảo ngốc như Lừa\nNhát như Thỏ Đế, xin chưa vội dùng.\n\n– Không! – Vua phán – Trẫm dùng cả chứ!\nLoại họ ra, đội ngũ không yên\nAnh Lừa lo chuyện gạo tiền,\nGiấy tờ Thỏ chạy giao liên tài tình.\nĐã rằng khiển tướng, điều binh\nNhìn người giao việc cho tinh mới tài.",
+      "companion": {
+        "tom_tat": "",
+        "nhan_vat": "",
+        "y_nghia": "",
+        "cau_hoi": []
+      },
+      "sources": [
+        "https://www.cungtien.com/2021/05/su-tu-xuat-quan-lop-2-tuan-23-trang-46.html",
+        "https://thegioicotich.vn/su-tu-xuat-quan/"
+      ],
+      "ly_do": "Ngụ ngôn La Phông-ten (mất 1695) — thuộc nhóm được phép recite. Thơ, giữ nguyên xuống dòng và ngắt khổ. Đối chiếu 2 nguồn độc lập (cungtien.com chép SGK TV2 tập 2 tuần 23 trang 46 + thegioicotich.vn) cho ra cùng một bản chữ. SAI LỆCH METADATA: cả hai nguồn ghi 'Phỏng theo LA PHÔNG-TEN (Nguyễn Minh dịch)', trong khi cap1_todo.json ghi 'Nguyễn Khuyến dịch' — đã sửa theo nguồn."
+    },
+    {
+      "ten_bai": "Tìm ngọc",
+      "bo_sach": "Sách cũ",
+      "tac_gia": "Nguyễn Đổng Chi",
+      "kind": "recite",
+      "full_text": "Xưa có chàng trai thấy một bọn trẻ định giết con rắn nước liền bỏ tiền ra mua, rồi thả rắn đi. Không ngờ con rắn ấy là con của Long Vương. Đền ơn chàng trai, Long Vương tặng chàng một viên ngọc quý.\nCó người thợ kim hoàn biết đó là viên ngọc hiếm, bèn đánh tráo. Chàng trai rất buồn. Thấy vậy, Chó và Mèo xin chủ đi tìm ngọc.\nĐến nhà người thợ kim hoàn, Mèo bắt một con chuột đi tìm ngọc. Quả nhiên, con chuột tìm được.\nRa về, Chó tranh ngậm ngọc. Lúc qua sông, nó làm rơi viên ngọc xuống nước. Một con cá lớn thấy viên ngọc, đớp ngay. Chó nghĩ ra cách rình ở bên sông, chờ ai câu được con cá nuốt ngọc thì lấy lại.\nMấy hôm sau, có người đánh được con cá lớn, mổ ruột ra có viên ngọc. Mèo liền nhảy tới ngoạm ngọc chạy biến.\nLần này, Mèo đội ngọc trên đầu. Nào ngờ, vừa đi một quãng thì có con quạ sà xuống đớp ngọc rồi bay lên cây cao. Mèo nghĩ ra một mẹo. Nó nằm phơi bụng vờ chết. Quạ trúng kế, sà xuống toan rỉa thịt Mèo. Mèo nhảy xổ lên vồ. Quạ van lạy, xin trả lại ngọc.\nLần này, Chó và Mèo mang ngọc về được đến nhà. Chàng trai vô cùng mừng rỡ, càng thêm yêu quý hai con vật thông minh, tình nghĩa.",
+      "companion": {
+        "tom_tat": "",
+        "nhan_vat": "",
+        "y_nghia": "",
+        "cau_hoi": []
+      },
+      "sources": [
+        "https://www.cungtien.com/2021/05/tim-ngoc-lop-2-tuan-17-trang-138-tieng.html"
+      ],
+      "ly_do": "Truyện cổ tích dân gian Việt Nam (Nguyễn Đổng Chi kể lại trong Kho tàng truyện cổ tích Việt Nam, gốc là 'Con chó, con mèo và anh chàng nghèo khổ') — thuộc phạm vi công cộng theo nhóm truyện cổ tích VN. Nguyên văn bản rút gọn dùng trong SGK TV2 tập 1 tuần 17 trang 138, lấy từ cungtien.com; đã bỏ câu hỏi và chú thích từ ngữ."
+    },
+    {
+      "ten_bai": "Đàn bê của anh Hồ Giáo",
+      "bo_sach": "Sách cũ",
+      "tac_gia": "Phượng Vũ",
+      "kind": "companion",
+      "full_text": "",
+      "companion": {
+        "tom_tat": "Bài văn tả cảnh đồng cỏ Ba Vì vào tháng ba, không khí trong lành, bầu trời cao và những đám mây trắng trôi. Trên đồng cỏ ấy, đàn bê quấn quýt bên anh Hồ Giáo giống như đàn con quấn mẹ. Những chú bê đực nghịch ngợm, hay nhảy quẩng lên rồi đuổi nhau chạy vòng tròn. Còn những cô bê cái thì rụt rè, ăn nhỏ nhẹ, thỉnh thoảng lại dụi mõm hoặc sán vào lòng anh. Qua đó ta thấy anh Hồ Giáo chăm đàn bê dịu dàng như chăm con của mình.",
+        "nhan_vat": "Anh Hồ Giáo (người chăn nuôi, Anh hùng Lao động) và đàn bê: những chú bê đực nghịch ngợm, những cô bê cái rụt rè.",
+        "y_nghia": "Bài đọc cho thấy tình yêu thương và sự dịu dàng của con người dành cho vật nuôi; khi ta chăm sóc con vật bằng tình thương thì chúng cũng quấn quýt, tin cậy ta.",
+        "cau_hoi": [
+          "Đàn bê quấn quýt bên anh Hồ Giáo giống như điều gì?",
+          "Những chú bê đực và những cô bê cái có gì khác nhau?",
+          "Ở nhà em có nuôi con vật nào không? Em chăm sóc nó thế nào?"
+        ]
+      },
+      "sources": [
+        "https://www.cungtien.com/2021/06/an-be-cua-anh-ho-giao-lop-2-tuan-34.html"
+      ],
+      "ly_do": "Tác giả Phượng Vũ là nhà văn đương đại, bài ký viết về Anh hùng Lao động Hồ Giáo, in trong SGK Tiếng Việt 2 tuần 34 — CÒN BẢN QUYỀN, không chép nguyên văn. Đã đọc nguồn lấy đúng chi tiết (đồng cỏ Ba Vì tháng ba, bê đực nhảy quẩng, bê cái dụi mõm) rồi tự viết lại bằng lời mình."
+    }
+  ]
+}

@@ -92,6 +92,51 @@
   ]
  },
  {
+  "name": "Văn hóa Phùng Nguyên – Đồng Đậu – Gò Mun",
+  "kind": "period",
+  "year": null,
+  "date_start": "khoảng 4000 năm cách ngày nay",
+  "date_end": "khoảng 2800-2500 năm cách ngày nay",
+  "place": "Trung du và châu thổ Bắc Bộ (Phú Thọ, Vĩnh Phúc, Hà Nội...)",
+  "actors": [],
+  "aliases": [
+   "các văn hóa tiền Đông Sơn",
+   "thời đại đồ đồng ở Việt Nam",
+   "văn hóa Phùng Nguyên",
+   "văn hóa Đồng Đậu",
+   "văn hóa Gò Mun"
+  ],
+  "summary": "Khoảng 4000 năm trước, cư dân Việt cổ ở lưu vực sông Hồng bước vào thời đại đồ đồng với ba nền văn hóa nối tiếp Phùng Nguyên – Đồng Đậu – Gò Mun, chuẩn bị trực tiếp cho văn hóa Đông Sơn và nhà nước đầu tiên.",
+  "facts": [
+   "Cách ngày nay khoảng 4000 năm, cư dân cổ ở lưu vực sông Hồng bước vào thời đại đồ đồng, mở đầu bằng văn hóa Phùng Nguyên.",
+   "Ba nền văn hóa tiền Đông Sơn nối tiếp nhau là Phùng Nguyên, Đồng Đậu, Gò Mun, có niên đại trong khoảng 4000 đến 2500 năm cách ngày nay.",
+   "Các di tích của ba nền văn hóa này phân bố rộng ở trung du và châu thổ Bắc Bộ, dọc sông Hồng, sông Lô, sông Đà, tập trung nhiều nhất ở Phú Thọ, Vĩnh Phúc, Hà Nội, Bắc Ninh.",
+   "Di chỉ Phùng Nguyên được phát hiện năm 1959 ở huyện Lâm Thao (Phú Thọ), di chỉ Gò Mun năm 1961 cũng ở Phú Thọ, còn di chỉ Đồng Đậu năm 1962 ở huyện Yên Lạc (Vĩnh Phúc).",
+   "Công cụ bằng đồng giúp cư dân đẩy mạnh nghề trồng lúa nước, làm chủ vùng châu thổ sông Hồng, và của cải làm ra nhiều hơn khiến xã hội bắt đầu phân hóa.",
+   "Ba nền văn hóa này chuẩn bị trực tiếp cho văn hóa Đông Sơn rực rỡ và sự ra đời của nhà nước Văn Lang sau đó."
+  ],
+  "traps": [
+   "Cả ba văn hóa Phùng Nguyên, Đồng Đậu, Gò Mun đều ở BẮC BỘ Việt Nam (lưu vực sông Hồng) — không phải ở miền Trung hay nước khác.",
+   "Thứ tự đúng theo thời gian: Phùng Nguyên → Đồng Đậu → Gò Mun → Đông Sơn, đừng đảo lộn."
+  ],
+  "topic_title": "Chuyển biến về kinh tế, xã hội cuối thời nguyên thuỷ",
+  "lessons": [
+   {
+    "book": "Cánh diều",
+    "bai": 5
+   }
+  ],
+  "sources": [
+   "https://baotanglichsu.vn/vi/Articles/4016/cac-van-hoa-tien-djong-son-phung-nguyen-djong-djau-go-mun-khoang-4-000-2-500-nam-cach-ngay-nay",
+   "https://vi.wikipedia.org/wiki/V%C4%83n_h%C3%B3a_Ph%C3%B9ng_Nguy%C3%AAn"
+  ],
+  "_grade": 6,
+  "_chunk": 3,
+  "_errs": [
+   "date range đảo(4000>2800)"
+  ]
+ },
+ {
   "name": "Cách mạng công nghiệp lần thứ nhất",
   "kind": "period",
   "year": 1760,

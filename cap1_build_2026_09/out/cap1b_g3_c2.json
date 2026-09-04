@@ -1,0 +1,132 @@
+{
+ "grade": 3,
+ "chunk": 2,
+ "items": [
+  {
+   "ten_bai": "Hội vật",
+   "bo_sach": "Sách cũ",
+   "tac_gia": "Kim Lân",
+   "kind": "companion",
+   "full_text": "",
+   "companion": {
+    "tom_tat": "Vào ngày hội mùa xuân, người làng kéo nhau đi xem hội vật đông nghịt. Keo vật hay nhất là keo giữa Quắm Đen trẻ khoẻ, hăng hái và ông Cản Ngũ đã có tuổi, người to lớn, chậm chạp. Quắm Đen lăn xả vào đánh dồn dập, còn ông Cản Ngũ chỉ dang rộng hai tay, chống đỡ lớ ngớ, làm người xem tưởng ông sắp thua. Bỗng ông Cản Ngũ bước hụt, Quắm Đen nhanh như cắt luồn qua tay ông, ôm lấy một bên chân ông mà bốc lên, ai cũng đinh ninh ông sẽ ngã. Nhưng chân ông vẫn vững như cột sắt, rồi ông thong thả nắm lấy khố Quắm Đen, nhấc bổng anh ta lên và giành phần thắng.",
+    "nhan_vat": "Ông Cản Ngũ (đô vật già, điềm tĩnh, khoẻ và nhiều kinh nghiệm), Quắm Đen (đô vật trẻ, nhanh nhẹn, hăng hái nhưng nóng vội), và đám đông người xem hội.",
+    "y_nghia": "Bài đọc vẽ lại không khí tưng bừng của hội vật - một trò chơi dân gian ngày xuân của người Việt. Câu chuyện cho thấy chỉ khoẻ và nhanh thôi chưa đủ: người bình tĩnh, biết chờ thời cơ và giàu kinh nghiệm mới là người thắng cuộc.",
+    "cau_hoi": [
+     "Vì sao lúc đầu người xem lại thấy keo vật chán ngắt, rồi sau đó lại reo hò ầm ĩ?",
+     "Theo em, ông Cản Ngũ thắng nhờ điều gì: nhờ sức khoẻ, nhờ kinh nghiệm hay nhờ cả hai?",
+     "Em đã được xem trò chơi dân gian nào trong ngày hội ở quê em? Hãy kể lại cho các bạn nghe."
+    ]
+   },
+   "sources": [
+    "https://vndoc.com/tap-doc-lop-3-hoi-vat-2708",
+    "https://lop3.vn/bai-giang-tap-doc-3-hoi-vat-kim-lan-4595/"
+   ],
+   "ly_do": "Tac gia Kim Lan (1920-2007) mat chua qua 50 nam nen tac pham con ban quyen; ngoai ra day la trich doan bien soan rieng cho SGK. Khong chep nguyen van -> viet companion bang loi rieng, chi doi chieu noi dung tren cac trang soan bai."
+  },
+  {
+   "ten_bai": "Người liên lạc nhỏ",
+   "bo_sach": "Sách cũ",
+   "tac_gia": "Tô Hoài",
+   "kind": "companion",
+   "full_text": "",
+   "companion": {
+    "tom_tat": "Sáng sớm, Kim Đồng được giao nhiệm vụ đưa một cán bộ cách mạng - mọi người gọi là ông ké - đi qua vùng có giặc Pháp đóng đồn. Ông ké cải trang thành người Nùng đi đường xa, còn Kim Đồng đi trước dẫn đường, thấy động là ra hiệu cho ông ké tránh. Giữa đường, hai người gặp lính Tây gác. Kim Đồng không hề luống cuống, em gọi to như gọi người nhà và nói dối là đưa thầy mo về cúng cho mẹ ốm. Bọn lính tin lời, hai người bình an đi tiếp; ông ké đi sau tươi cười như đang đi chơi.",
+    "nhan_vat": "Kim Đồng - cậu bé người dân tộc làm liên lạc cho cách mạng; ông ké - người cán bộ được Kim Đồng dẫn đường; toán lính Tây gác đường.",
+    "y_nghia": "Câu chuyện ca ngợi Kim Đồng, một thiếu niên nhỏ tuổi mà rất dũng cảm, nhanh trí và trung thành với cách mạng. Bài học: gặp việc khó phải bình tĩnh, biết nghĩ cách xử lí thì mới vượt qua được nguy hiểm.",
+    "cau_hoi": [
+     "Kim Đồng đã làm gì và nói gì để bọn lính không nghi ngờ ông ké?",
+     "Chi tiết nào cho em thấy Kim Đồng rất bình tĩnh và nhanh trí?",
+     "Nếu được gặp Kim Đồng, em muốn nói với bạn ấy điều gì?"
+    ]
+   },
+   "sources": [
+    "https://vi.wikipedia.org/wiki/Kim_%C4%90%E1%BB%93ng_(li%E1%BB%87t_s%C4%A9)"
+   ],
+   "ly_do": "Trich truyen 'Kim Dong' cua To Hoai (1920-2014) - mat chua den 50 nam, con ban quyen. Khong chep nguyen van; tu viet tom tat va cau hoi goi mo."
+  },
+  {
+   "ten_bai": "Nhà ảo thuật",
+   "bo_sach": "Sách cũ",
+   "tac_gia": "Blai-tơn",
+   "kind": "companion",
+   "full_text": "",
+   "companion": {
+    "tom_tat": "Ở gần nhà Xô-phi và Mác có buổi biểu diễn của chú Lý, một nhà ảo thuật người Trung Quốc rất nổi tiếng. Bố đang nằm viện, mẹ cần tiền thuốc thang nên hai chị em không dám xin tiền mua vé. Hôm ra ga mua sữa, hai em tình cờ gặp chú Lý và giúp chú mang những thứ đồ lỉnh kỉnh đến rạp xiếc. Chú Lý muốn cảm ơn, nhưng nhớ lời mẹ dặn không được làm phiền người khác nên hai chị em chào chú rồi về. Không ngờ chiều hôm ấy chú Lý tìm đến tận nhà: trong lúc cả nhà uống trà, một cái bánh biến thành hai, những dải băng đủ màu bay ra từ lọ đường, còn một chú thỏ trắng thì bất ngờ ngồi ngay trên chân Mác. Hai chị em đã được xem ảo thuật ngay tại nhà mình.",
+    "nhan_vat": "Xô-phi và em trai Mác - hai chị em ngoan, biết thương mẹ; chú Lý - nhà ảo thuật người Trung Quốc tốt bụng; mẹ của hai em.",
+    "y_nghia": "Câu chuyện khen ngợi hai chị em ngoan ngoãn, biết nghĩ cho cha mẹ và không làm phiền người khác. Người tốt bụng thường được đền đáp bằng những niềm vui bất ngờ.",
+    "cau_hoi": [
+     "Vì sao Xô-phi và Mác không đi xem buổi biểu diễn ảo thuật?",
+     "Hai chị em đã giúp chú Lý việc gì, và vì sao các em không nhờ chú dẫn vào rạp xem?",
+     "Nếu em là Xô-phi hoặc Mác, em sẽ cảm thấy thế nào khi chú Lý đến biểu diễn ngay tại nhà mình?"
+    ]
+   },
+   "sources": [
+    "https://vndoc.com/tap-doc-lop-3-nha-ao-thuat-634",
+    "https://en.wikipedia.org/wiki/Enid_Blyton"
+   ],
+   "ly_do": "Bai dich tu truyen cua Enid Blyton (Blai-to n). Ban dich tieng Viet trong SGK van con ban quyen cua dich gia va khong tim duoc nguyen van dang tin ngoai cac trang soan bai -> chuyen COMPANION."
+  },
+  {
+   "ten_bai": "Những chiếc chuông reo",
+   "bo_sach": "Sách cũ",
+   "tac_gia": "Ngô Quân Miện",
+   "kind": "companion",
+   "full_text": "",
+   "companion": {
+    "tom_tat": "Giữa cánh đồng gần nhà bạn nhỏ có một túp lều nhỏ lợp phên rạ vàng xỉn của gia đình bác thợ đóng gạch, xung quanh xếp đầy những hàng gạch mới đóng. Bạn nhỏ hay sang chơi và thân với hai đứa con của bác là thằng Cu và cái Cún. Khi bác nhóm lò nung gạch, bọn trẻ được nặn thêm mấy chiếc chuông con bằng đất, to hơn quả táo, có núm để xâu dây và bỏ một viên bi nhỏ vào trong cho kêu, rồi đem nung cùng mẻ gạch. Chuông nung xong, bác xâu thành hai vòng: một vòng treo trước cửa lều cho Cu và Cún chơi, vòng kia tặng bạn nhỏ mang về treo lên cây nêu trước sân. Suốt mấy ngày Tết, gió thổi làm chuông kêu lanh canh, tiếng chuông ấy khiến bạn nhỏ thấy Tết vui hẳn lên.",
+    "nhan_vat": "Bạn nhỏ xưng \"tôi\" - người kể chuyện; bác thợ đóng gạch tốt bụng; hai con của bác là Cu và Cún.",
+    "y_nghia": "Câu chuyện nói về tình cảm ấm áp giữa bạn nhỏ với gia đình bác thợ gạch nghèo. Món quà giản dị làm bằng đất nung lại là món quà Tết đáng nhớ nhất, vì trong đó có tình bạn và tấm lòng của người tặng.",
+    "cau_hoi": [
+     "Nơi ở của gia đình bác thợ đóng gạch được tả như thế nào?",
+     "Những chiếc chuông đất được làm ra sao và vì sao chúng lại kêu được?",
+     "Vì sao tiếng chuông lanh canh trên cây nêu lại làm bạn nhỏ thấy Tết vui hơn?"
+    ]
+   },
+   "sources": [
+    "https://vndoc.com/tap-doc-lop-3-nhung-chiec-chuong-reo-132656",
+    "https://mamnonhoami.edu.vn/tap-doc-chinh-ta/nhung-chiec-chuong-reo.html"
+   ],
+   "ly_do": "Ngo Quan Mien (1925-2011) mat chua qua 50 nam, bai con ban quyen; khong tim duoc nguyen van ngoai cac trang soan bai -> COMPANION tu viet."
+  },
+  {
+   "ten_bai": "Nắng phương Nam",
+   "bo_sach": "Sách cũ",
+   "tac_gia": "Trần Hoài Dương",
+   "kind": "companion",
+   "full_text": "",
+   "companion": {
+    "tom_tat": "Hai mươi tám Tết, Uyên cùng các bạn đi chợ hoa trên đường Nguyễn Huệ ở thành phố Hồ Chí Minh. Giữa lúc đang vui, Uyên nhắc đến lá thư của Vân, người bạn ngoài Bắc, kể rằng Hà Nội đang rét buốt trong mưa bụi ngày giáp Tết và ao ước được nhận một chút nắng phương Nam. Cả nhóm dừng lại bàn xem nên gửi quà gì cho Vân. Huê nghĩ ra: gửi cho Vân một cành mai vàng, vì mai chỉ nở ở miền Nam và cành mai ấy sẽ như mang cả nắng phương Nam ra Bắc. Mọi người tán thành, cười vang rồi cùng kéo nhau về phía những hàng mai vàng rực rỡ trong nắng.",
+    "nhan_vat": "Uyên, Phương, Huê - nhóm bạn nhỏ ở thành phố Hồ Chí Minh; Vân - người bạn ở miền Bắc chỉ xuất hiện qua lá thư.",
+    "y_nghia": "Bài đọc ca ngợi tình bạn thân thiết giữa thiếu nhi hai miền Nam - Bắc. Một cành mai vàng nhỏ cũng đủ chở tình cảm và cái nắng ấm của phương Nam ra với người bạn đang chịu rét ngoài Bắc.",
+    "cau_hoi": [
+     "Vân viết gì trong thư khiến các bạn nghĩ đến việc gửi quà?",
+     "Vì sao các bạn lại chọn gửi cho Vân một cành mai vàng chứ không phải món quà khác?",
+     "Nếu em có một người bạn ở xa, em muốn gửi tặng bạn món quà gì của quê em? Vì sao?"
+    ]
+   },
+   "sources": [
+    "https://vndoc.com/huong-dan-cam-thu-van-hoc-lop-3-bai-nang-phuong-nam-153540",
+    "https://vi.wikipedia.org/wiki/Tr%E1%BA%A7n_Ho%C3%A0i_D%C6%B0%C6%A1ng"
+   ],
+   "ly_do": "Tran Hoai Duong (1943-2011) mat chua qua 50 nam -> con ban quyen. Khong chep nguyen van, tu viet companion."
+  },
+  {
+   "ten_bai": "Sự tích chú Cuội cung trăng",
+   "bo_sach": "Sách cũ",
+   "tac_gia": "Truyện cổ Việt Nam",
+   "kind": "recite",
+   "full_text": "Ngày xưa ở một miền nọ có một người tiều phu tên là Cuội. Một hôm, như lệ thường, Cuội vác rìu vào rừng sâu tìm cây mà chặt. Khi đến gần một con suối nhỏ, Cuội bỗng giật mình trông thấy một cái hang cọp. Nhìn trước nhìn sau anh chỉ thấy có bốn con cọp con đang vờn nhau. Cuội liền xông đến vung rìu bổ cho mỗi con một nhát lăn quay trên mặt đất. Nhưng vừa lúc đó, cọp mẹ cũng về tới nơi. Nghe tiếng gầm kinh hồn ở sau lưng, Cuội chỉ kịp quẳng rìu leo thoắt lên ngọn một cây cao.\n\nTừ trên nhìn xuống, Cuội thấy cọp mẹ lồng lộn trước đàn con đã chết. Nhưng chỉ một lát, cọp mẹ lẳng lặng đi đến một gốc cây gần chỗ Cuội ẩn, đớp lấy một ít lá rồi trở về nhai và mớm cho con. Chưa đầy ăn giập miếng trầu, bốn con cọp con đã vẫy đuôi sống lại, khiến cho Cuội vô cùng sửng sốt. Chờ cho cọp mẹ tha con đi nơi khác, Cuội mới lần xuống tìm đến cây lạ kia đào gốc vác về.\n\nDọc đường gặp một ông lão ăn mày nằm chết vật trên bãi cỏ, Cuội liền đặt gánh xuống, không ngần ngại, bứt ngay mấy lá nhai và mớm cho ông già! Mầu nhiệm làm sao, mớm vừa xong, ông lão đã mở mắt ngồi dậy. Thấy có cây lạ, ông lão liền hỏi chuyện. Cuội thực tình kể lại đầu đuôi. Nghe xong ông lão kêu lên:\n\n– Trời ơi! Cây này chính là cây có phép “cải tử hoàn sinh” đây. Thật là trời cho con để cứu giúp thiên hạ. Con hãy chăm sóc cho cây nhưng nhớ đừng tưới bằng nước bẩn mà cây bay lên trời đó!\n\nNói rồi ông lão chống gậy đi. Còn Cuội thì gánh cây về nhà trồng ở góc vườn phía đông, luôn luôn nhớ lời ông lão dặn, ngày nào cũng tưới bằng nước giếng trong.\n\nTừ ngày có cây thuốc quý, Cuội cứu sống được rất nhiều người. Hễ nghe nói có ai nhắm mắt tắt hơi là Cuội vui lòng mang lá cây đến tận nơi cứu chữa. Tiếng đồn Cuội có phép lạ lan đi khắp nơi.\n\nMột hôm, Cuội lội qua sông gặp xác một con chó chết trôi. Cuội vớt lên rồi giở lá trong mình ra cứu chữa cho chó sống lại. Con chó quấn quít theo Cuội, tỏ lòng biết ơn. Từ đấy, Cuội có thêm một con vật tinh khôn làm bạn.\n\nMột lần khác, có lão nhà giàu ở làng bên hớt hải chạy đến tìm Cuội, vật nài xin Cuội cứu cho con gái mình vừa sẩy chân chết đuối. Cuội vui lòng theo về nhà, lấy lá chữa cho. Chỉ một lát sau, mặt cô gái đang tái nhợt bỗng hồng hào hẳn lên, rồi sống lại. Thấy Cuội là người cứu sống mình, cô gái xin làm vợ chàng. Lão nhà giàu cũng vui lòng gả con cho Cuội.\n\nVợ chồng Cuội sống với nhau thuận hòa, êm ấm thì thốt nhiên một hôm, trong khi Cuội đi vắng, có bọn giặc đi qua nhà Cuội. Biết Cuội có phép cải tử hoàn sinh, chúng quyết tâm chơi ác. Chúng bèn giết vợ Cuội, cố ý moi ruột người đàn bà vứt xuống sông, rồi mới kéo nhau đi. Khi Cuội trở về thì vợ đã chết từ bao giờ, mớm bao nhiêu lá vẫn không công hiệu, vì không có ruột thì làm sao mà sống được.\n\nThấy chủ khóc thảm thiết, con chó lại gần xin hiến ruột mình thay vào ruột vợ chủ. Cuội chưa từng làm thế bao giờ, nhưng cũng liều mượn ruột chó thay ruột người xem sao. Quả nhiên người vợ sống lại và vẫn trẻ đẹp như xưa. Thương con chó có nghĩa, Cuội bèn nặn thử một bộ ruột bằng đất, rồi đặt vào bụng chó, chó cũng sống lại. Vợ với chồng, người với vật lại càng quấn quít với nhau hơn xưa.\n\nNhưng cũng từ đấy, tính nết vợ Cuội tự nhiên thay đổi hẳn. Hễ nói đâu là quên đó, làm cho Cuội lắm lúc bực mình. Đã không biết mấy lần, chồng dặn vợ: “Có đái thì đái bên Tây, chớ đái bên Đông, cây dông lên trời!”. Nhưng vợ Cuội hình như lú ruột, lú gan, vừa nghe dặn xong đã quên biến ngay.\n\nMột buổi chiều, chồng còn đi rừng kiếm củi chưa về, vợ ra vườn sau, không còn nhớ lời chồng dặn, cứ nhằm vào gốc cây quý mà đái. Không ngờ chị ta vừa đái xong thì mặt đất chuyển động, cây đảo mạnh, gió thổi ào ào. Cây đa tự nhiên bật gốc, lững thững bay lên trời.\n\nVừa lúc đó thì Cuội về đến nhà. Thấy thế, Cuội hốt hoảng vứt gánh củi, nhảy bổ đến, toan níu cây lại. Nhưng cây lúc ấy đã rời khỏi mặt đất lên quá đầu người. Cuội chỉ kịp móc rìu vào rễ cây, định lôi cây xuống, nhưng cây vẫn cứ bốc lên, không một sức nào cản nổi. Cuội cũng nhất định không chịu buông, thành thử cây kéo cả Cuội bay vút lên đến cung trăng.\n\nTừ đấy Cuội ở luôn cung trăng với cả cái cây quý của mình. Mỗi năm cây chỉ rụng xuống biển có một lá. Bọn cá heo đã chực sẵn, khi lá xuống đến mặt nước là chúng tranh nhau đớp lấy, coi như món thuốc quý để cứu chữa cho tộc loại chúng. Nhìn lên mặt trăng, người ta thấy một vết đen rõ hình một cây cổ thụ có người ngồi dưới gốc, người ta gọi cái hình ấy là hình chú Cuội ngồi gốc cây đa…",
+   "companion": {
+    "tom_tat": "",
+    "nhan_vat": "",
+    "y_nghia": "",
+    "cau_hoi": []
+   },
+   "sources": [
+    "https://truyencotich.vn/truyen-co-tich/co-tich-viet-nam/su-tich-chu-cuoi-cung-trang.html"
+   ],
+   "ly_do": "Truyen co tich dan gian Viet Nam, khong co tac gia -> PHAM VI CONG CONG. Lay nguyen van tu trang truyen co tich (khong phai trang soan bai), da lam sach: bo dong 'Nguon:', sua loi bang ma D-gach (U+00D0 -> U+0110), khong chu thich so, khong cau hoi cuoi bai. LUU Y CHO NGUOI RA SOAT: day la BAN DAY DU (Kho tang truyen co tich Viet Nam); SGK lop 3 dung ban rut gon 3 doan. Hai doan 'bon giac moi ruot vo Cuoi' va 'doan noi ve viec vo Cuoi dai vao goc cay' co chi tiet manh, nen can nhac truoc khi doc cho hoc sinh lop 3."
+  }
+ ]
+}

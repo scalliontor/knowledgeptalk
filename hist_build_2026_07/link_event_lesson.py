@@ -9,7 +9,7 @@ import os, re, sys, unicodedata
 from collections import Counter
 from neo4j import GraphDatabase
 
-BATCH = "hasevent_v1_2026_08_03"
+BATCH = os.getenv("HASEVENT_BATCH", "hasevent_v1_2026_08_03")
 drv = GraphDatabase.driver(os.getenv("EDU_NEO4J_URI", "bolt://localhost:7688"),
                            auth=(os.getenv("EDU_NEO4J_USER", "neo4j"), os.environ["EDU_NEO4J_PASS"]))
 
@@ -26,8 +26,8 @@ with drv.session() as s:
                        RETURN elementId(l) AS e, l.grade AS g, l.title_norm AS tn, l.title AS t""").data()
     events = s.run("""MATCH (h:HistEvent) WHERE h.verified=true AND h.topic_title IS NOT NULL
                       AND h.topic_title <> ''
-                      RETURN elementId(h) AS e, h.grade AS g, h.topic_title AS tt,
-                             h.canonical_name AS n""").data()
+                      RETURN elementId(h) AS e, h.grade AS g, h.grades AS gs,
+                             h.topic_title AS tt, h.canonical_name AS n""").data()
     print(f"bài: {len(lessons)} | thẻ verified có topic: {len(events)}")
 
     bygrade = {}
@@ -36,31 +36,43 @@ with drv.session() as s:
 
     stat = Counter(); pairs = []
     for ev in events:
-        cands = bygrade.get(ev["g"], [])
-        if not cands:
-            stat["không có bài cùng lớp"] += 1; continue
-        tf = fold(ev["tt"])
-        hit = [l for l in cands if l["tn"] == tf]
-        lvl = "exact"
-        if not hit and len(tf) >= 12:
-            hit = [l for l in cands if (tf in l["tn"] or l["tn"] in tf)]
-            lvl = "chứa"
-        if not hit:
-            et = toks(ev["tt"])
-            if et:
-                scored = []
-                for l in cands:
-                    lt = toks(l["t"] or l["tn"])
-                    if not lt: continue
-                    ov = len(et & lt) / max(1, min(len(et), len(lt)))
-                    if ov >= 0.70: scored.append((ov, l))
-                if scored:
-                    scored.sort(key=lambda x: -x[0]); hit = [scored[0][1]]; lvl = "token70"
-        if not hit:
-            stat["không khớp bài nào"] += 1; continue
-        stat[lvl] += 1
-        for l in hit[:3]:
-            pairs.append((l["e"], ev["e"]))
+        # thẻ được GỘP từ nhiều lớp -> khớp RIÊNG trong từng lớp có dạy (h.grades),
+        # không chỉ lớp nhỏ nhất; thẻ cũ không có grades thì dùng h.grade như trước.
+        gl = [g for g in (ev.get("gs") or []) if g] or [ev["g"]]
+        got = False
+        for g in gl:
+            cands = bygrade.get(g, [])
+            if not cands:
+                continue
+            tf = fold(ev["tt"])
+            hit = [l for l in cands if l["tn"] == tf]
+            lvl = "exact"
+            if not hit and len(tf) >= 12:
+                hit = [l for l in cands if (tf in l["tn"] or l["tn"] in tf)]
+                lvl = "chứa"
+            if not hit:
+                et = toks(ev["tt"])
+                if et:
+                    scored = []
+                    for l in cands:
+                        lt = toks(l["t"] or l["tn"])
+                        if not lt:
+                            continue
+                        ov = len(et & lt) / max(1, min(len(et), len(lt)))
+                        if ov >= 0.70:
+                            scored.append((ov, l))
+                    if scored:
+                        scored.sort(key=lambda x: -x[0])
+                        hit = [scored[0][1]]
+                        lvl = "token70"
+            if not hit:
+                continue
+            stat[lvl] += 1
+            got = True
+            for l in hit[:3]:
+                pairs.append((l["e"], ev["e"]))
+        if not got:
+            stat["không khớp bài nào"] += 1
 
     for le, he in pairs:
         s.run("""MATCH (l) WHERE elementId(l)=$le MATCH (h) WHERE elementId(h)=$he

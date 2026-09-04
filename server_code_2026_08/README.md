@@ -80,3 +80,74 @@ Canary (và cả bản sanitize ở trên) dùng **tên biến khác, không đ�
 5. Rollback 1 lệnh: `cp rag_server.py.bak_pre_t2_<ngày> rag_server.py && bash deploy_rag_prod.sh`; tắt mềm T2: `HISTEVENT_ENABLED=0`.
 
 Còn treo trước deploy: nạp ~530 thẻ L4–L7 đã verify vào Neo4j (data-only) và verify nốt 3 chunk L4.
+
+---
+
+## 2026-09-05 — ⚠️ NỀN GHÉP CŨ ĐÃ LỖI THỜI → dùng `rag_server_next2.py`
+
+**Phát hiện:** prod `rag_server.py` trên server đã bị sửa ngày **2026-09-03** (mtime 14:08),
+nay **1904 dòng** (không phải 1791) và lệch git HEAD **+129/−16** — 129 dòng đó **chỉ nằm
+trên server, chưa vào git**, đúng kịch bản đã làm mất file canary.
+
+Các bản vá 03/09 nằm trong phần chưa commit đó (đều thuộc luồng recite Ngữ văn):
+
+| Ký hiệu | Việc |
+|---|---|
+| `_META_QUERY_RE` | chặn câu ĐẾM/LIỆT KÊ ("lớp 7 có bao nhiêu bài thơ") bị hiểu thành lệnh đọc |
+| `_same_word` | fuzzy CHỈ cho token ≥4 ký tự — hết `nao`~`dao`, `gi`~`gai` |
+| `_recite_specific_enough` + `_RECITE_COVERAGE_MIN` | câu hỏi phải nêu đủ tên bài mới được đọc nguyên văn (đo trên 3784 tên bài: 0 bài bị từ chối oan) |
+| `_literature_payload` | tách hàm dựng payload đọc |
+| `require_homonym_default` | tác phẩm TRÙNG TÊN → theo `recite_default` của graph |
+| `author=` trong `recite_from_literature_text` | học sinh nêu tác giả → chỉ nhận đúng bản đó (vd "Mẹ" — Đỗ Trung Lai vs Trần Quốc Minh) |
+
+**Hệ quả:** `rag_server_next.py` (ghép trên nền 1791 dòng) nếu deploy sẽ **xoá mất 114 dòng prod**,
+gồm cả 6 mục trên → **KHÔNG dùng file đó nữa.**
+
+### Bản ghép mới `rag_server_next2.py`
+
+Ghép 3 chiều `git merge-file --diff3`:
+
+| Vai | File | Dòng |
+|---|---|---|
+| base | `rag_server_prod_base_HEAD.py` (= `git show HEAD:rag_server.py` trên server) | 1791 |
+| ours | `rag_server_prod_2026_09_03.py` (= prod đang chạy, cứu về repo) | 1904 |
+| theirs | `rag_server_next.py` (T1+T2 + `.env` + vá rủi ro #2) | 2052 |
+| **kết quả** | **`rag_server_next2.py`** | **2165** |
+
+Kiểm chứng:
+
+```
+xung đột merge                         : 0
+dòng prod(09-03) bị mất                : 0
+dòng T1/T2 bị mất                      : 0   (15 dòng "mất" là bản CŨ mà prod 09-03 cố ý thay)
+py_compile                             : OK
+secret                                 : không
+hook query_hist_event                  : dòng 2028 — vẫn TRƯỚC B2a(2069) và wiki(2081/2090)
+```
+
+Ký hiệu có mặt đủ cả hai phía: `_META_QUERY_RE` `_same_word` `_recite_specific_enough`
+`_literature_payload` `require_homonym_default` `_RECITE_COVERAGE_MIN` +
+`LICHSU_FORCE_KEYWORDS` `LICHSU_T1_KEYWORDS` `override_subject_by_keywords`
+`query_hist_event` `HISTEVENT_ENABLED` `_hfold` `_spoken_years`.
+
+> **BÀI HỌC (lặp lại lần 2):** nền ghép phải lấy lại từ prod ngay trước khi deploy.
+> Prod bị sửa trực tiếp trên server mà không commit → mọi bản ghép cũ hơn đều mục.
+> Trước khi deploy: `scp` lại prod về, `git merge-file` lại, đo lại 0-dòng-mất.
+
+### Cổng deploy vẫn giữ nguyên, chỉ đổi file
+Thay `rag_server_next.py` → `rag_server_next2.py` ở mọi bước trong mục 2026-09-02.
+Ngưỡng battery Sử **≥30/40** hiện đã đạt bằng dữ liệu (đo offline 2026-09-05: **30/40**).
+
+### Sanitize bổ sung 2026-09-05
+Bản cứu prod mang theo credential hardcode mà đợt quét trước (`PtitCie|edu_graph_2026|gemma4-openclaw`)
+không bắt được. Đã thay bằng biến môi trường ở **cả 5 file** trong thư mục:
+
+```
+QdrantClient(host="171.226.10.121", …)              -> os.getenv("QDRANT_HOST_FALLBACK", "localhost")
+psycopg2.connect(host="171.226.10.121", …)          -> os.getenv("PG_HOST_FALLBACK", "localhost")
+user="postgres", password="postgres"                -> os.getenv("PG_USER"), os.environ.get("PG_PASS", "")
+```
+
+⚠️ `rag_server_next.py` (commit `acca1a9`) đã lọt các dòng này vào lịch sử git — sanitize từ nay
+chỉ chặn rò rỉ tiếp, **không xoá được lịch sử**. Mọi lần commit code server sau này phải quét thêm
+`171\.226\.10\.121` và `password="` chứ không chỉ 3 từ khoá cũ.

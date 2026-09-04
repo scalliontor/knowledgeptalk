@@ -1,0 +1,267 @@
+{
+ "grade": 3,
+ "chunk": 0,
+ "items": [
+  {
+   "ten_bai": "Bạn nhỏ trong nhà",
+   "bo_sach": "KNTT",
+   "tac_gia": "Theo Trần Đức Tiến",
+   "kind": "companion",
+   "full_text": "",
+   "companion": {
+    "tom_tat": "Bài kể chuyện một bạn nhỏ và chú chó con của gia đình mình. Chú chó được đặt tên là Cúp, có bộ lông trắng khoang đen và đôi mắt tròn xoe. Càng lớn Cúp càng khôn: biết chui vào gầm giường lấy quả bóng, biết ngậm khăn giúp lau nhà, biết chìa hai chân trước ra như bắt tay. Buổi tối, Cúp nằm khoanh tròn nghe bạn nhỏ đọc truyện rồi ngủ thiếp đi lúc nào không hay. Mỗi lần bạn nhỏ đi học về, Cúp lại chạy vọt ra, chồm hai chân trước lên mừng rỡ.",
+    "nhan_vat": "Bạn nhỏ (người kể chuyện) và chú chó con tên Cúp — 'người bạn nhỏ trong nhà'.",
+    "y_nghia": "Bài cho thấy tình cảm gắn bó, thân thiết giữa con người với vật nuôi trong nhà. Con vật nuôi cũng biết vui, biết mừng, biết giúp việc; nếu em yêu thương và chăm sóc chúng thì chúng sẽ trở thành một người bạn thật sự của em.",
+    "cau_hoi": [
+     "Chú chó trong bài tên là gì và trông như thế nào?",
+     "Cúp đã làm được những việc gì khiến bạn nhỏ thấy nó rất khôn?",
+     "Nhà em có nuôi con vật nào không? Em chăm sóc nó ra sao?"
+    ]
+   },
+   "sources": [
+    "https://vietjack.com/tieng-viet-3-kn/doc-ban-nho-trong-nha.jsp",
+    "https://loigiaihay.com/bai-24-ban-nho-trong-nha-trang-107-108-sgk-tieng-viet-3-tap-1-ket-noi-tri-thuc-voi-cuoc-song-a106526.html"
+   ],
+   "ly_do": "SGK KNTT lớp 3 tập 1 (bài 24, trang 107-108) ghi nguồn '(Theo Trần Đức Tiến)'. Nhà văn Trần Đức Tiến sinh 1953, còn sống -> tác phẩm CÒN BẢN QUYỀN, không được chép nguyên văn. Viết companion bằng lời riêng, chi tiết bám theo nội dung bài đọc đã đối chiếu ở trang tham khảo."
+  },
+  {
+   "ten_bai": "Bầy voi rừng Trường Sơn",
+   "bo_sach": "KNTT",
+   "tac_gia": "Theo Vũ Hùng",
+   "kind": "companion",
+   "full_text": "",
+   "companion": {
+    "tom_tat": "Bài văn đưa em đến dãy Trường Sơn chạy dọc miền Trung nước ta, nơi có rừng già, núi đá, suối và những bãi chuối — quê hương của những bầy voi. Ngày ngày, đàn voi rong ruổi đi tìm cỏ và lá cây để ăn, mỗi con ăn tới khoảng 150 ki-lô-gam cỏ một ngày. Trưa nắng, cả bầy tìm chỗ râm mát trú chân; chiều xuống lại kéo nhau ra sông tắm. Rạng sáng và lúc chiều tà, tiếng voi rống vang động cả cánh rừng. Voi sống thành bầy đông, rất thông minh và tình nghĩa: khi một con ốm hay sa xuống hố bẫy, cả bầy bỏ ăn, quây lại tìm cách cứu bạn.",
+    "nhan_vat": "Bài văn miêu tả loài vật, không có nhân vật; đối tượng chính là những bầy voi sống trong rừng Trường Sơn.",
+    "y_nghia": "Bài giúp em hiểu voi rừng là loài vật to lớn nhưng hiền lành, thông minh và sống rất tình nghĩa với đồng loại. Từ đó em thêm yêu rừng, yêu muông thú và biết rằng cần bảo vệ voi cùng các loài thú hoang dã.",
+    "cau_hoi": [
+     "Bầy voi trong bài sống ở đâu và cảnh vật nơi đó có gì đặc biệt?",
+     "Một ngày của bầy voi diễn ra như thế nào (ăn, trú nắng, tắm)?",
+     "Chi tiết nào cho thấy voi là loài vật thông minh và tình nghĩa?"
+    ]
+   },
+   "sources": [
+    "https://www.vietjack.com/tieng-viet-3-kn/doc-bay-voi-rung-truong-son.jsp",
+    "https://loigiaihay.com/bai-8-bay-voi-rung-truong-son-trang-35-36-sgk-tieng-viet-3-tap-2-ket-noi-tri-thuc-voi-cuoc-song-a108145.html"
+   ],
+   "ly_do": "SGK KNTT lớp 3 tập 2 (bài 8, trang 35-36) ghi nguồn '(Theo Vũ Hùng)'. Nhà văn Vũ Hùng (1931-2022) mới mất năm 2022 -> tác phẩm CÒN BẢN QUYỀN. Không chép nguyên văn; viết companion bằng lời riêng, số liệu và chi tiết đối chiếu từ nội dung bài đọc."
+  },
+  {
+   "ten_bai": "Cuộc họp của chữ viết",
+   "bo_sach": "KNTT",
+   "tac_gia": "Phỏng theo Trần Ninh Hồ",
+   "kind": "companion",
+   "full_text": "",
+   "companion": {
+    "tom_tat": "Câu chuyện tưởng tượng ra một cuộc họp rất lạ: cuộc họp của các chữ cái và các dấu câu. Bác chữ A dõng dạc mở đầu, nêu lí do họp: bạn Hoàng viết bài mà không biết chấm câu, cứ mỏi tay chỗ nào là chấm chỗ đó, khiến câu văn trở nên buồn cười và không ai hiểu bạn ấy định nói gì. Cả cuộc họp bàn cách giúp Hoàng. Cuối cùng, mọi người giao nhiệm vụ cho dấu Chấm: từ nay, hễ Hoàng định chấm câu thì dấu Chấm phải bảo Hoàng đọc lại câu văn một lần nữa đã.",
+    "nhan_vat": "Bác chữ A (người chủ trì cuộc họp), dấu Chấm cùng các chữ cái và dấu câu khác; bạn Hoàng là học sinh được nhắc tới trong cuộc họp.",
+    "y_nghia": "Bài nhắc em rằng dấu câu rất quan trọng: đặt dấu sai chỗ thì câu văn mất nghĩa, người đọc không hiểu. Muốn viết đúng, em nên làm theo thứ tự viết câu — đọc lại câu — rồi mới chấm câu.",
+    "cau_hoi": [
+     "Ai là người chủ trì cuộc họp và cuộc họp bàn về việc gì?",
+     "Vì sao không ai hiểu được những điều bạn Hoàng viết?",
+     "Cuộc họp giao nhiệm vụ gì cho dấu Chấm? Em rút ra bài học gì cho mình khi viết bài?"
+    ]
+   },
+   "sources": [
+    "https://vietjack.com/tieng-viet-3-kn/doc-cuoc-hop-cua-chu-viet.jsp",
+    "https://vndoc.com/tieng-viet-3-trang-62-63-bai-14-cuoc-hop-cua-chu-viet-phan-doc-269991"
+   ],
+   "ly_do": "SGK KNTT lớp 3 tập 1 (bài 14, trang 62-63) ghi '(Phỏng theo Trần Ninh Hồ)'. Nhà thơ Trần Ninh Hồ sinh 1943, còn sống -> CÒN BẢN QUYỀN. Không chép nguyên văn; companion tự viết, các chi tiết (bác chữ A chủ trì, nhiệm vụ giao cho dấu Chấm) đã đối chiếu ở nguồn tham khảo."
+  },
+  {
+   "ten_bai": "Cánh rừng trong nắng",
+   "bo_sach": "KNTT",
+   "tac_gia": "Theo Vũ Hùng",
+   "kind": "companion",
+   "full_text": "",
+   "companion": {
+    "tom_tat": "Bạn nhỏ kể lại một lần được ông dẫn cùng mấy người bạn đi thăm rừng. Hôm ấy trời nắng ráo, ông đưa cho mỗi đứa một tàu lá cọ để che nắng. Rừng vừa qua mùa mưa nên cây cối đâm chồi, cỏ mọc xanh um; đi trong rừng nghe rõ tiếng suối róc rách và tiếng chim hót líu lo. Cây vươn ngọn lên cao đón nắng, thân thẳng tắp, tán lá tròn xoe; những con sóc nâu cong đuôi nhảy thoăn thoắt qua các cành cây. Lúc ra về, ai cũng thấy tiếc; trên đường, ông kể cho các cháu nghe về những cánh rừng thuở xưa với bầy vượn đánh đu trên cành cao, đàn hươu nai rủ nhau ra suối và những vạt cỏ đẫm sương long lanh trong nắng.",
+    "nhan_vat": "Bạn nhỏ kể chuyện, người ông và mấy người bạn cùng đi; cùng với đó là cả cánh rừng với chim, suối, sóc nâu.",
+    "y_nghia": "Bài vẽ nên một cánh rừng đẹp, đầy âm thanh và ánh nắng, làm em thêm yêu thiên nhiên. Qua lời kể của ông về rừng xưa, bài còn gợi cho em suy nghĩ: rừng ngày trước nhiều muông thú hơn bây giờ, nên chúng ta phải giữ gìn và bảo vệ rừng.",
+    "cau_hoi": [
+     "Ông đã đưa cho các bạn nhỏ vật gì để che nắng khi vào rừng?",
+     "Vào rừng, các bạn nhỏ nghe thấy những âm thanh gì và nhìn thấy con vật nào?",
+     "Ông kể những cánh rừng ngày xưa có gì? Em muốn làm gì để giữ cho rừng luôn đẹp như thế?"
+    ]
+   },
+   "sources": [
+    "https://vietjack.com/tieng-viet-3-kn/doc-canh-rung-trong-nang.jsp",
+    "https://loigiaihay.com/bai-3-canh-rung-trong-nang-trang-17-18-sgk-tieng-viet-lop-3-tap-1-ket-noi-tri-thuc-voi-cuoc-song-a105707.html"
+   ],
+   "ly_do": "SGK KNTT lớp 3 tập 1 (bài 3, trang 17-18) ghi '(Theo Vũ Hùng)'. Vũ Hùng mất 2022 -> CÒN BẢN QUYỀN, không chép nguyên văn. Companion tự viết theo trình tự bài đọc đã đối chiếu."
+  },
+  {
+   "ten_bai": "Cây bút thần",
+   "bo_sach": "KNTT",
+   "tac_gia": "Theo Truyện cổ tích Trung Quốc",
+   "kind": "recite",
+   "full_text": "Ngày xưa, có một em bé rất thông minh, tên là Mã Lương. Mã Lương rất thích vẽ. Khi kiếm củi trên núi hay lúc cắt cỏ ven sông, em đều tập vẽ trên đất, trên đá. Em vẽ chim, tưởng như sắp được nghe chim hót; vẽ cá, tưởng được trông thấy cá bơi. Em ao ước có một cây bút vẽ.\nMột đêm, Mã Lương mơ thấy một cụ già tóc bạc phơ đưa cho em cây bút sáng lấp lánh. Em reo lên: “Cây bút đẹp quá! Cháu cảm ơn ông!”. Tỉnh dậy, Mã Lương thấy cây bút vẫn trong tay mình.\nMã Lương vẽ một con chim, chim tung cánh bay; vẽ một con cá, cá vẫy đuôi trườn xuống sông. Mã Lương liền dùng bút thần vẽ cho người nghèo trong làng. Nhà nào không có cày, em vẽ cho cày. Nhà nào không có cuốc, em vẽ cho cuốc.\nBiết chuyện, một phú ông trong làng sai đầy tớ: “Mau bắt Mã Lương về cho ta!”. Hắn bắt Mã Lương vẽ theo ý muốn của hắn. Mã Lương không chịu. Hắn nhốt em vào chuồng ngựa bỏ đói, bỏ rét. Nhưng Mã Lương vẽ bánh để ăn, vẽ lò sưởi để sưởi.\nPhú ông sai đầy tớ xông vào cướp bút thần. Nhưng Mã Lương đã vượt ra ngoài bằng chiếc thang vẽ trên tường. Rồi Mã Lương vẽ một con ngựa, đi khắp đó đây giúp đỡ người nghèo khổ.",
+   "companion": {
+    "tom_tat": "",
+    "nhan_vat": "",
+    "y_nghia": "",
+    "cau_hoi": []
+   },
+   "sources": [
+    "https://thohay.vn/cay-but-than.html",
+    "https://tuyensinh.ctu.edu.vn/images/upload/TT_TS/2026/Th-vin-NLVB_GDMN-2026.pdf",
+    "https://vietjack.com/tieng-viet-3-kn/doc-cay-but-than.jsp"
+   ],
+   "ly_do": "SGK KNTT lớp 3 tập 1 (bài 32, trang 140-141) ghi nguồn '(Theo Truyện cổ tích Trung Quốc)' - truyện cổ tích dân gian khuyết danh, PHẠM VI CÔNG CỘNG, không có tác giả/dịch giả đứng tên. Lấy bản chép ở thohay.vn (kho truyện, không phải trang soạn bài) rồi đối chiếu với thư viện ngữ liệu văn bản của ĐH Cần Thơ: câu mở đầu 'Khi kiếm củi trên núi hay lúc cắt cỏ ven sông, em đều tập vẽ trên đất, trên đá' và câu 'Hắn nhốt em vào chuồng ngựa bỏ đói, bỏ rét. Nhưng Mã Lương vẽ bánh để ăn, vẽ lò sưởi để sưởi' khớp từng chữ. Đã sửa 1 lỗi chính tả của nguồn 1: 'cá vẫy đuôi trường xuống sông' -> 'trườn xuống sông' (theo nguồn đối chiếu). Đã bỏ dòng ghi nguồn cuối bài và 3 dấu chấm lửng cuối câu liệt kê để đọc TTS liền mạch; không có chú thích số, không lẫn câu hỏi."
+  },
+  {
+   "ten_bai": "Cây gạo",
+   "bo_sach": "KNTT",
+   "tac_gia": "Theo Vũ Tú Nam",
+   "kind": "companion",
+   "full_text": "",
+   "companion": {
+    "tom_tat": "Bài văn tả cây gạo vào mùa xuân. Mùa xuân về, cây gạo gọi đến bao nhiêu là chim: chào mào, sáo sậu, sáo đen bay về đậu kín cành, gọi nhau, trò chuyện ríu rít làm thành một ngày hội mùa xuân. Nhìn từ xa, cây gạo sừng sững như một tháp đèn khổng lồ: hàng ngàn bông hoa là hàng ngàn ngọn lửa hồng tươi, hàng ngàn búp nõn là hàng ngàn ánh nến trong xanh. Mỗi năm, cây gạo già lại như trở lại tuổi xuân, cành nặng trĩu hoa đỏ mọng và đầy tiếng chim hót. Hết mùa hoa, chim chóc cũng vãn, cây gạo trở lại dáng vẻ xanh mát, trầm tư, đứng hiền lành làm mốc cho thuyền bè và cho người đi xa nhìn về quê.",
+    "nhan_vat": "Bài văn miêu tả, không có nhân vật; đối tượng được tả là cây gạo cùng các đàn chim chào mào, sáo sậu, sáo đen về đậu trên cây.",
+    "y_nghia": "Bài cho em thấy vẻ đẹp rực rỡ, tưng bừng của cây gạo mùa hoa và dáng vẻ trầm lặng, hiền lành của nó khi hết mùa hoa. Bài cũng dạy em cách quan sát và dùng hình ảnh so sánh khi tả cây cối: hoa gạo như ngọn lửa hồng, búp nõn như ánh nến trong xanh.",
+    "cau_hoi": [
+     "Mùa xuân, cây gạo gọi đến những loài chim nào?",
+     "Cây gạo được so sánh với những hình ảnh nào? Vì sao lại so sánh như vậy?",
+     "Khi hết mùa hoa, cây gạo trông ra sao? Ở quê em có loài cây nào đẹp như thế không?"
+    ]
+   },
+   "sources": [
+    "https://vndoc.com/tieng-viet-3-trang-27-28-bai-6-cay-gao-phan-doc-270802",
+    "https://vietjack.com/tieng-viet-3-kn/doc-cay-gao.jsp"
+   ],
+   "ly_do": "SGK KNTT lớp 3 tập 2 (bài 6, trang 27-28) ghi '(Theo Vũ Tú Nam)'. Nhà văn Vũ Tú Nam (1929-2020) mất năm 2020, chưa quá 50 năm -> tác phẩm CÒN BẢN QUYỀN, không chép nguyên văn. Companion tự viết; các hình ảnh so sánh (tháp đèn khổng lồ, ngọn lửa hồng tươi, ánh nến trong xanh) là chi tiết nội dung đã đối chiếu ở 2 nguồn, được diễn đạt lại trong lời tóm tắt."
+  },
+  {
+   "ten_bai": "Cùng Bác qua suối",
+   "bo_sach": "KNTT",
+   "tac_gia": "",
+   "kind": "companion",
+   "full_text": "",
+   "companion": {
+    "tom_tat": "Câu chuyện kể một lần Bác Hồ đi công tác cùng mấy chiến sĩ cảnh vệ, phải lội qua một con suối. Bác đi trước, vừa đi vừa dò mực nước, thỉnh thoảng lại nhắc người đi sau: chỗ này nước sâu, coi chừng ướt quần áo; chỗ kia rêu trơn, phải đi cẩn thận. Gần sang tới bờ bên kia, Bác giẫm phải một hòn đá tròn có rêu nên trượt chân, suýt ngã. Sang đến bờ, Bác quay lại lội xuống suối, tìm đúng hòn đá ấy nhặt lên và đặt vào bờ, để những người đi sau không bị trượt như mình. Bác còn ân cần hỏi thăm anh chiến sĩ bị sảy chân.",
+    "nhan_vat": "Bác Hồ và mấy anh chiến sĩ cảnh vệ cùng đi công tác với Bác.",
+    "y_nghia": "Câu chuyện cho em thấy Bác Hồ rất cẩn thận và luôn nghĩ cho người khác: việc nhỏ như một hòn đá trơn giữa suối Bác cũng lo cho người đi sau. Em học được ở Bác lòng quan tâm, chu đáo và thói quen làm việc gì cũng nghĩ đến người xung quanh.",
+    "cau_hoi": [
+     "Trên đường lội qua suối, Bác đã nhắc các chiến sĩ đi sau những gì?",
+     "Vì sao Bác quay lại nhặt hòn đá dưới suối đặt lên bờ?",
+     "Qua câu chuyện, em thấy Bác Hồ là người như thế nào? Em học được điều gì ở Bác?"
+    ]
+   },
+   "sources": [
+    "https://vietjack.com/tieng-viet-3-kn/doc-cung-bac-qua-suoi.jsp",
+    "https://vndoc.com/tieng-viet-3-trang-106-107-bai-24-cung-bac-qua-suoi-doc-271364",
+    "https://loigiaihay.com/bai-24-cung-bac-qua-suoi-trang-106-107-sgk-tieng-viet-lop-3-tap-2-ket-noi-tri-thuc-voi-cuoc-song-a110220.html"
+   ],
+   "ly_do": "SGK KNTT lớp 3 tập 2 (bài 24, trang 106-107). Đây KHÔNG phải văn Bác Hồ viết mà là một mẩu chuyện kể VỀ Bác do người đời sau ghi lại (sách chuyện kể về Bác Hồ hiện đại) -> còn bản quyền của người biên soạn, và tôi không xác định chắc chắn được dòng ghi nguồn nên để trống trường tác giả. Không chép nguyên văn; companion tự viết theo diễn biến đã đối chiếu ở 3 nguồn."
+  },
+  {
+   "ten_bai": "Lần đầu ra biển",
+   "bo_sach": "KNTT",
+   "tac_gia": "Theo Nguyễn Văn Chương",
+   "kind": "companion",
+   "full_text": "",
+   "companion": {
+    "tom_tat": "Thắng lần đầu tiên được ra biển. Cậu ngỡ ngàng vì biển rộng quá, xanh quá, sóng cứ nối nhau chạy vào bờ. Thắng chạy trên bãi cát, thích thú nhìn con còng gió chạy nhanh thoăn thoắt rồi biến mất trong hang. Đang chơi thì Thắng làm quen với Hải, một bạn nhỏ ở vùng biển. Hải dẫn Thắng đi dọc bờ biển, chỉ cho bạn xem Mũi Én, Ghềnh Ráng. Trước lúc chia tay, Hải hẹn chiều mai gặp lại và hứa sẽ rủ thêm mấy bạn nữa cùng ra đá bóng và tắm biển với Thắng.",
+    "nhan_vat": "Thắng - cậu bé lần đầu được ra biển; Hải - bạn nhỏ ở vùng biển, người dẫn Thắng đi chơi và làm quen.",
+    "y_nghia": "Bài kể lại niềm vui của một trải nghiệm mới: lần đầu nhìn thấy biển. Bài còn cho em thấy đi đến một nơi xa, em có thể có thêm bạn mới; tình bạn đến rất tự nhiên từ những buổi cùng chơi, cùng khám phá.",
+    "cau_hoi": [
+     "Lần đầu ra biển, Thắng nhìn thấy những gì khiến cậu thích thú?",
+     "Thắng đã làm quen với ai và bạn ấy dẫn Thắng đi xem những nơi nào?",
+     "Em đã từng đi đến một nơi mới lần đầu chưa? Lúc đó em cảm thấy thế nào?"
+    ]
+   },
+   "sources": [
+    "https://vietjack.com/tieng-viet-3-kn/doc-lan-dau-ra-bien.jsp",
+    "https://loigiaihay.com/bai-4-lan-dau-ra-bien-trang-21-22-sgk-tieng-viet-lop-3-tap-1-ket-noi-tri-thuc-voi-cuoc-song-a105780.html"
+   ],
+   "ly_do": "SGK KNTT lớp 3 tập 1 (bài 4, trang 21-22) ghi '(Theo Nguyễn Văn Chương)' - nhà văn đương đại, tác phẩm CÒN BẢN QUYỀN. Không chép nguyên văn; companion tự viết theo diễn biến đã đối chiếu."
+  },
+  {
+   "ten_bai": "Lời kêu gọi toàn dân tập thể dục",
+   "bo_sach": "KNTT",
+   "tac_gia": "Hồ Chí Minh",
+   "kind": "recite",
+   "full_text": "Giữ gìn dân chủ, xây dựng nước nhà, gây đời sống mới, việc gì cũng cần có sức khoẻ mới làm thành công. Mỗi một người dân yếu ớt, tức là cả nước yếu ớt, mỗi một người dân mạnh khoẻ tức là cả nước mạnh khoẻ.\nVậy nên luyện tập thể dục, bồi bổ sức khoẻ là bổn phận của mỗi một người yêu nước. Việc đó không tốn kém, khó khăn gì. Gái trai, già trẻ ai cũng nên làm và ai cũng làm được. Mỗi ngày lúc ngủ dậy, tập một ít thể dục. Ngày nào cũng tập thì khí huyết lưu thông, tinh thần đầy đủ, như vậy là sức khoẻ.\nDân cường thì quốc thịnh. Tôi mong đồng bào ta ai cũng gắng tập thể dục.\nTự tôi, ngày nào tôi cũng tập.",
+   "companion": {
+    "tom_tat": "",
+    "nhan_vat": "",
+    "y_nghia": "",
+    "cau_hoi": []
+   },
+   "sources": [
+    "https://bvhttdl.gov.vn/tu-tuong-ho-chi-minh-ve-dan-cuong-quoc-thinh-20200327172128546.htm",
+    "https://nhandan.vn/phat-huy-loi-bac-ho-keu-goi-toan-dan-tap-the-duc-post950792.html",
+    "https://vndoc.com/tieng-viet-3-trang-41-42-bai-9-loi-keu-goi-toan-dan-tap-the-duc-doc-270923"
+   ],
+   "ly_do": "Văn kiện của Chủ tịch Hồ Chí Minh, đăng báo Cứu quốc ngày 27-3-1946. Hồ Chí Minh mất 1969, đã quá 50 năm -> PHẠM VI CÔNG CỘNG. Nguyên văn lấy từ 2 nguồn chính thống độc lập (Bộ Văn hoá, Thể thao và Du lịch; báo Nhân Dân), hai bản khớp nhau từng câu. Đã đối chiếu với bản in trong SGK KNTT lớp 3 tập 2 (bài 9, trang 41-42): SGK dùng đúng văn bản này, câu mở đầu 'Giữ gìn dân chủ, xây dựng nước nhà, gây đời sống mới...' (KHÔNG phải 'xây dựng đời sống mới'), không có dòng 'Hỡi đồng bào toàn quốc!' ở đầu. Đã bỏ dòng ngày tháng và chữ ký cuối bài ('Ngày 27-3-1946 / Hồ Chí Minh') vì là phần ghi xuất xứ, không đọc trong recite; không có chú thích số, không lẫn câu hỏi."
+  },
+  {
+   "ten_bai": "Món quà đặc biệt",
+   "bo_sach": "KNTT",
+   "tac_gia": "Theo Phong Điệp",
+   "kind": "companion",
+   "full_text": "",
+   "companion": {
+    "tom_tat": "Sắp đến sinh nhật bố, hai chị em rủ nhau làm một tấm thiệp để tặng bố. Các em ghi vào thiệp những điều mình thấy ở bố: bố tính hiền, nói to, ngủ nhanh, ghét nói dối, yêu mẹ… và có cả một dòng nhận xét thật thà là bố nấu ăn không ngon. Hai chị em định xoá dòng ấy đi nhưng lại quên mất. Khi nhận thiệp, bố đọc được câu đó. Bố không giận mà ôm cả hai chị em vào lòng và nói rằng điều quan trọng nhất là bố rất yêu các con. Tấm thiệp vụng về ấy trở thành món quà đặc biệt của cả nhà.",
+    "nhan_vat": "Hai chị em (người làm tấm thiệp) và bố - người được tặng món quà.",
+    "y_nghia": "Bài cho em thấy món quà quý không cần đắt tiền: một tấm thiệp tự làm, viết bằng lời thật lòng của con cũng đủ làm bố mẹ hạnh phúc. Bài còn dạy em rằng trong gia đình, người thân yêu nhau nên có thể vui vẻ đón nhận cả những lời nhận xét thật thà của nhau.",
+    "cau_hoi": [
+     "Hai chị em đã chuẩn bị món quà gì để tặng bố?",
+     "Chi tiết nào trong tấm thiệp khiến hai chị em lo lắng? Vì sao?",
+     "Bố đã làm gì khi đọc tấm thiệp? Em muốn tự tay làm món quà gì cho người thân của mình?"
+    ]
+   },
+   "sources": [
+    "https://vietjack.com/tieng-viet-3-kn/doc-mon-qua-dac-biet.jsp",
+    "https://vndoc.com/bai-18-mon-qua-dac-biet-trang-86-87-88-274574"
+   ],
+   "ly_do": "SGK KNTT lớp 3 tập 1 (bài 18, trang 86-87) ghi '(Theo Phong Điệp)'. Nhà văn Phong Điệp sinh 1976, còn sống -> tác phẩm CÒN BẢN QUYỀN, không chép nguyên văn. Companion tự viết theo diễn biến đã đối chiếu ở 2 nguồn."
+  },
+  {
+   "ten_bai": "Ngày gặp lại",
+   "bo_sach": "KNTT",
+   "tac_gia": "Theo Minh Dương",
+   "kind": "companion",
+   "full_text": "",
+   "companion": {
+    "tom_tat": "Chi và Sơn gặp lại nhau vào ngày trước khi bước vào năm học mới. Sơn mang tặng Chi một chiếc diều rất xinh. Suốt kì nghỉ hè, Sơn về quê với ông bà, được theo ông bà đi trồng rau, câu cá; chiều chiều lại cùng các bạn thả diều. Còn Chi ở nhà, được bố dạy đi xe đạp; giờ Chi đã đạp xe bon bon, khiến con đường quen thuộc bỗng trở nên mới mẻ. Hai bạn thi nhau kể về mùa hè của mình. Ngày mai đã đi học rồi, nhưng mùa hè vui ấy chắc sẽ theo các bạn vào cả lớp học.",
+    "nhan_vat": "Hai bạn nhỏ Chi và Sơn - đôi bạn gặp lại nhau sau kì nghỉ hè.",
+    "y_nghia": "Bài kể về niềm vui ngày gặp lại bạn sau kì nghỉ hè và những trải nghiệm thú vị mà mỗi bạn có được: về quê với ông bà, hay học được một điều mới ngay tại nhà mình. Bài nhắc em rằng kì nghỉ nào cũng đáng nhớ nếu em chịu học hỏi và chơi cùng người thân, bạn bè.",
+    "cau_hoi": [
+     "Sơn đã tặng Chi món quà gì khi hai bạn gặp lại?",
+     "Mùa hè vừa rồi, Sơn và Chi mỗi bạn đã làm được những việc gì?",
+     "Kì nghỉ hè vừa qua, em có trải nghiệm nào thú vị muốn kể cho bạn nghe?"
+    ]
+   },
+   "sources": [
+    "https://www.vietjack.com/tieng-viet-3-kn/ngay-gap-lai-trang-10-11.jsp",
+    "https://vndoc.com/tieng-viet-3-trang-10-11-bai-1-ngay-gap-lai-phan-doc-267676",
+    "https://loigiaihay.com/bai-1-ngay-gap-lai-trang-10-11-12-sgk-tieng-viet-lop-3-tap-1-ket-noi-tri-thuc-voi-cuoc-song-a105345.html"
+   ],
+   "ly_do": "SGK KNTT lớp 3 tập 1 (bài 1, trang 10-11) ghi '(Theo Minh Dương)' - tác giả đương đại, bài viết cho SGK mới -> CÒN BẢN QUYỀN. Không chép nguyên văn; companion tự viết theo diễn biến đã đối chiếu ở 3 nguồn (dòng ghi tác giả khớp ở 2 nguồn độc lập)."
+  },
+  {
+   "ten_bai": "Ngày như thế nào là đẹp?",
+   "bo_sach": "KNTT",
+   "tac_gia": "V. Ô-xê-ê-va, Thuý Toàn dịch",
+   "kind": "companion",
+   "full_text": "",
+   "companion": {
+    "tom_tat": "Một buổi sáng nắng đẹp, Châu Chấu nhảy lên gò, phơi cái lưng xanh ra nắng và reo lên rằng hôm nay là một ngày tuyệt đẹp. Giun Đất nghe vậy thì kêu khó chịu, cố rúc sâu thêm vào đất, vì với Giun Đất thì phải là ngày mưa bụi, có những vũng nước đục mới là ngày đẹp. Hai bạn cãi nhau mãi không xong nên rủ nhau đi hỏi bác Kiến. Bác Kiến đang bận, hẹn đến lúc mặt trời lặn sẽ trả lời. Chiều xuống, Châu Chấu và Giun Đất tìm đến tổ kiến. Bác Kiến bảo: hôm nay đúng là một ngày tuyệt đẹp, vì bác đã làm việc rất tốt và bây giờ có thể nghỉ ngơi thoải mái.",
+    "nhan_vat": "Châu Chấu, Giun Đất và bác Kiến.",
+    "y_nghia": "Câu chuyện cho thấy mỗi người thích một kiểu thời tiết khác nhau, nhưng câu trả lời hay nhất là của bác Kiến: một ngày đẹp là ngày mình đã làm được nhiều việc tốt, để tối đến có thể yên tâm nghỉ ngơi. Bài dạy em quý trọng lao động và biết làm cho mỗi ngày của mình có ích.",
+    "cau_hoi": [
+     "Theo Châu Chấu, ngày như thế nào là ngày đẹp? Còn theo Giun Đất thì sao?",
+     "Vì sao Châu Chấu và Giun Đất phải đi hỏi bác Kiến?",
+     "Bác Kiến trả lời thế nào? Với em, một ngày như thế nào là một ngày đẹp?"
+    ]
+   },
+   "sources": [
+    "https://gogoedu.vn/tieng_viet_3_t2/2241/bai-15-ngay-nhu-the-nao-la-dep.html",
+    "https://tuyensinh247.com/bai-tap-713949.html",
+    "https://vndoc.com/tieng-viet-3-trang-62-63-bai-15-ngay-nhu-the-nao-la-dep-doc-271071"
+   ],
+   "ly_do": "SGK KNTT lớp 3 tập 2 (bài 15, trang 62-63) ghi '(V. Ô-xê-ê-va, Thuý Toàn dịch)' - xác nhận khớp ở 2 nguồn độc lập. Tác giả gốc Valentina Ô-xê-ê-va (1902-1969) đã quá 50 năm nên bản GỐC tiếng Nga thuộc phạm vi công cộng, NHƯNG bản tiếng Việt trong SGK là BẢN DỊCH của dịch giả Thuý Toàn (Hoàng Thuý Toàn, sinh 1938, còn sống) - bản dịch là tác phẩm phái sinh CÒN BẢN QUYỀN riêng. Vì recite sẽ phải đọc chính bản dịch đó nên chuyển COMPANION, không chép nguyên văn. (So chiếu: các bản dịch cũ như 'Sư Tử xuất quân' - Nguyễn Khuyến dịch, mất 1909 - mới đủ điều kiện recite.)"
+  }
+ ]
+}

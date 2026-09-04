@@ -56,13 +56,22 @@ def _normalize_book_token(tok: str) -> Optional[str]:
 app = FastAPI(title="PTalk RAG Server", version="1.0")
 
 # --- CONFIG ---
-LLM_API_URL = "http://localhost:8080/v1/chat/completions"
-LLM_API_KEY = os.getenv("LLM_API_KEY", "")           # SANITIZED: đặt qua env
-LLM_MODEL = "gemma-4"
+# Secret/endpoint đọc từ .env (KHÔNG hardcode — .env đã gitignore).
+import os as _os
+try:
+    from dotenv import load_dotenv as _load_dotenv
+    _load_dotenv(override=True)
+except ImportError:
+    pass
 
-NEO4J_URI = "bolt://localhost:7688"
-NEO4J_AUTH = (os.getenv("EDU_NEO4J_USER", "neo4j"),
-              os.getenv("EDU_NEO4J_PASS", ""))       # SANITIZED: đặt qua env
+LLM_API_URL = _os.getenv("RAG_LLM_API_URL", "http://localhost:8080/v1/chat/completions")
+LLM_API_KEY = _os.getenv("RAG_LLM_API_KEY", "")
+LLM_MODEL = _os.getenv("RAG_LLM_MODEL", "gemma-4")
+
+NEO4J_URI = _os.getenv("NEO4J_URI", "bolt://localhost:7688")
+NEO4J_AUTH = (_os.getenv("NEO4J_USER", "neo4j"), _os.getenv("NEO4J_PASSWORD", ""))
+if not NEO4J_AUTH[1] or not LLM_API_KEY:
+    print("[RAG SERVER] ⚠️ Thiếu NEO4J_PASSWORD / RAG_LLM_API_KEY trong .env")
 
 # --- GLOBAL MODEL ---
 import os
@@ -269,12 +278,19 @@ _RECITE_WORK_NOUN = re.compile(r"(bài thơ|bài ca dao|bài vè|văn bản|tác
 # Câu HỎI (hỏi-về, không phải yêu-cầu-đọc): "có biết X không", "X là ai/gì", "của ai"...
 # Dùng để CHẶN heuristic 'bare work-noun' (dòng dưới) hiểu nhầm câu hỏi thành lệnh đọc.
 # KHÔNG áp cho recite có động từ rõ (đọc/ngâm/kể) vì các nhánh đó đã return True phía trên.
+# Câu hỏi META về chương trình (ĐẾM / LIỆT KÊ), KHÔNG phải lệnh đọc một bài.
+# Phải chặn TRƯỚC _RECITE_VERB+_RECITE_NOUN vì 'kể tên các bài thơ' có cả động từ
+# 'kể' lẫn danh từ 'bài thơ' -> nếu không chặn sẽ thành lệnh đọc thơ ngẫu nhiên.
+_META_QUERY_RE = re.compile(r"(bao nhiêu|có mấy|mấy bài|kể tên|liệt kê|danh sách|"
+    r"gồm những|có những|những bài nào|bài nào|tất cả các bài|toàn bộ các bài)")
 _QUESTION_RE = re.compile(r"(có biết|bạn biết|em biết|biết .{0,20}không|"
     r"là ai\b|là gì\b|của ai\b|ai là\b|có phải|"
     r"(nói|kể|viết) về .{0,10}gì|thế nào\b|ra sao\b|như thế nào)")
 
 def _is_recite(q_lower: str) -> bool:
     """Hardened recite detection: exclude reading-comprehension/analysis uses of 'đọc'."""
+    if _META_QUERY_RE.search(q_lower):
+        return False
     if _NOT_RECITE.search(q_lower):
         return False
     if _RECITE_STRONG.search(q_lower):
@@ -383,6 +399,19 @@ def _content_tokens(norm: str) -> list[str]:
     return [w for w in (norm or "").split() if w not in _RECITE_STOPWORDS]
 
 
+def _same_word(a: str, b: str) -> bool:
+    """2 token coi như cùng từ. Fuzzy CHỈ áp cho token >= 4 ký tự.
+
+    Token ngắn mà fuzzy thì rác: 'nao'~'dao' (câu hỏi 'bài nào' khớp 'hoa đào'),
+    'gi'~'gai' ('là gì' khớp 'Con gái của mẹ'). Token ngắn phải khớp CHÍNH XÁC.
+    """
+    if a == b:
+        return True
+    if len(a) < 4 or len(b) < 4:
+        return False
+    return difflib.SequenceMatcher(None, a, b).ratio() >= _RECITE_TOKEN_FUZZ
+
+
 def _token_overlap(core_toks: list[str], wanted_toks: list[str]) -> float:
     """Tỉ lệ token trùng, CHUẨN HOÁ THEO TẬP DÀI HƠN (coverage đối xứng).
 
@@ -395,9 +424,40 @@ def _token_overlap(core_toks: list[str], wanted_toks: list[str]) -> float:
     short, long_ = (core_toks, wanted_toks) if len(core_toks) <= len(wanted_toks) else (wanted_toks, core_toks)
     matched = 0
     for st in short:
-        if any(difflib.SequenceMatcher(None, st, lt).ratio() >= _RECITE_TOKEN_FUZZ for lt in long_):
+        if any(_same_word(st, lt) for lt in long_):
             matched += 1
     return matched / len(long_)
+
+
+# Ngưỡng phủ token tối thiểu để tầng khớp-chuỗi (score 2/1) được phép chọn bài.
+_RECITE_COVERAGE_MIN = 0.34
+
+
+def _recite_specific_enough(title_norm: str, core_norm: str, wanted: str) -> bool:
+    """Câu hỏi có nêu ĐỦ tên bài để được phép đọc nguyên văn?
+
+    Tầng khớp-chuỗi trong recite_from_* (wanted nằm trong title) KHÔNG có hàng rào
+    nên một 'tên bài' rỗng nghĩa sẽ ép khớp bừa: wanted='tho' khớp 148/1098 node và
+    bầu ra 'Chiều xuân (Anh Thơ)' để đọc cho học sinh (bug 03/09/2026 — câu hỏi
+    'lớp 7 có bao nhiêu bài thơ' bị đọc thành một bài thơ ngẫu nhiên).
+
+    Đo trên 3784 tên bài thật (LiteratureText + ReadingText + Lesson.work_name):
+    0 tên bài bị từ chối oan; 'tho'/'bai'/'nao'/'gi' bị chặn sạch.
+    """
+    wt = _content_tokens(wanted)
+    if not wt:
+        # Tên bài toàn stopword ('Bận', 'Văn hay', 'Lời của cây'->'loi'): chỉ tha khi
+        # khớp ĐÚNG NGUYÊN CHUỖI -> câu hỏi chung chung không thể lọt.
+        return core_norm == wanted or title_norm == wanted
+    for cand in (core_norm, title_norm):
+        ct = _content_tokens(cand)
+        if not ct:
+            if cand == wanted:
+                return True
+            continue
+        if _token_overlap(ct, wt) >= _RECITE_COVERAGE_MIN:
+            return True
+    return False
 
 
 def _recite_match_score(core_norm: str, wanted_norm: str) -> tuple[float, float]:
@@ -444,7 +504,29 @@ def best_recite_match(wanted: str, candidates: list[dict], title_key: str = "tit
     return None
 
 
-def recite_from_literature_text(title: str, intent: dict, grade=None, bo_sach=None, strict_grade=False) -> Optional[RetrieveResponse]:
+def _literature_payload(row: Optional[dict], intent: dict) -> Optional[RetrieveResponse]:
+    """Dựng payload đọc-nguyên-văn từ 1 node LiteratureText (None nếu không có full_text)."""
+    if not row or not row.get("full_text"):
+        return None
+    lines = [
+        {"text": line.strip(), "pause_ms": 700}
+        for line in row["full_text"].splitlines()
+        if line.strip()
+    ]
+    if not lines:
+        return None
+    return lines_payload(row["title"], lines, intent, "neo4j_literature_text")
+
+
+def recite_from_literature_text(title: str, intent: dict, grade=None, bo_sach=None, strict_grade=False,
+                                author=None, require_homonym_default=False) -> Optional[RetrieveResponse]:
+    """author: tên tác giả học sinh nêu -> CHỈ nhận bản của đúng tác giả đó (None nếu
+    không có bản nào -> nhường cho các nhánh sau). Cần cho tác phẩm TRÙNG TÊN, vd
+    'Mẹ' có bản Đỗ Trung Lai (Ngữ văn 7) và bản Trần Quốc Minh (lớp 2).
+
+    require_homonym_default: chỉ trả kết quả khi tên bài TRÙNG (>=2 bản) và graph đã
+    đánh dấu đúng 1 bản recite_default=TRUE -> tôn trọng đánh dấu của người ingest.
+    """
     clean_title = clean_recite_title(title)
     wanted = normalize_text(clean_title)
     if not wanted:
@@ -474,6 +556,16 @@ def recite_from_literature_text(title: str, intent: dict, grade=None, bo_sach=No
     finally:
         driver.close()
 
+    if author:
+        _a = _fold(author)
+        _by_author = [c for c in candidates
+                      if _a in _fold(c.get("title") or "")
+                      or _a in _fold(c.get("author") or "")
+                      or _a in _fold((c.get("full_text") or "")[:200])]
+        if not _by_author:
+            return None                    # nêu tác giả mà KB không có bản nào -> nhường nhánh khác
+        candidates = _by_author
+
     if strict_grade and grade is not None:
         candidates = [c for c in candidates if str(c.get("grade")) == str(grade)]
         if not candidates:
@@ -485,6 +577,8 @@ def recite_from_literature_text(title: str, intent: dict, grade=None, bo_sach=No
         score = 0
         if wanted == normalized_title:
             score = 3
+        elif not _recite_specific_enough(normalized_title, _recite_core(row.get("title", "")), wanted):
+            score = 0          # câu hỏi không nêu đủ tên bài -> KHÔNG ép khớp (xem _recite_specific_enough)
         elif re.search(r"(?:^|\s)" + re.escape(wanted) + r"(?:\s|$)", normalized_title):
             score = 2
         elif wanted in normalized_title or normalized_title in wanted or wanted in normalized_url:
@@ -496,6 +590,20 @@ def recite_from_literature_text(title: str, intent: dict, grade=None, bo_sach=No
             _isdup = 1 if row.get("recite_dup_of") else 0
             scored.append((score, _gm, _bm, _isdef, _isdup, len(normalized_title), row))
     scored.sort(key=lambda x: (-x[0], -x[1], -x[2], -x[3], x[4], x[5]))  # score>grade>bo>default>khong-dup>title
+
+    if require_homonym_default:
+        # Chỉ can thiệp khi THẬT trùng tên: >=2 tác phẩm khác nhau khớp mạnh (score>=2)
+        # và graph đánh dấu đúng 1 bản recite_default -> trả bản đó. Ngoài ra nhường
+        # nguyên luồng cũ (return None) để không đổi hành vi các bài không trùng tên.
+        strong = [s for s in scored if s[0] >= 2]
+        works = {_recite_core(s[6].get("title", "")) for s in strong}
+        defaults = [s for s in strong if s[3] == 1]
+        if len(works) < 2 or len(defaults) != 1:
+            return None
+        print(f"[Recite Homonym] {title!r} trùng {len(works)} bản -> chọn recite_default "
+              f"{defaults[0][6].get('title')!r}")
+        return _literature_payload(defaults[0][6], intent)
+
     best = scored[0][6] if scored else None
 
     # Fuzzy fallback: STT nghe sai tên bài (rừng->dừng/rương/giường...),
@@ -504,17 +612,7 @@ def recite_from_literature_text(title: str, intent: dict, grade=None, bo_sach=No
     if best is None:
         best = best_recite_match(wanted, candidates, title_key="title")
 
-    if not best or not best.get("full_text"):
-        return None
-
-    lines = [
-        {"text": line.strip(), "pause_ms": 700}
-        for line in best["full_text"].splitlines()
-        if line.strip()
-    ]
-    if not lines:
-        return None
-    return lines_payload(best["title"], lines, intent, "neo4j_literature_text")
+    return _literature_payload(best, intent)
 
 def recite_from_reading_text(title: str, grade=None, bo_sach=None) -> Optional[RetrieveResponse]:
     clean_title = clean_recite_title(title)
@@ -537,7 +635,9 @@ def recite_from_reading_text(title: str, grade=None, bo_sach=None) -> Optional[R
             record = next(
                 (
                     r for r in records
-                    if wanted in normalize_text(r.get("title", "")) or normalize_text(r.get("title", "")) in wanted
+                    if (wanted in normalize_text(r.get("title", "")) or normalize_text(r.get("title", "")) in wanted)
+                    and _recite_specific_enough(normalize_text(r.get("title", "")),
+                                                _recite_core(r.get("title", "")), wanted)
                 ),
                 None,
             )
@@ -594,7 +694,9 @@ def recite_from_full_document(title: str, intent: dict, grade=None, bo_sach=None
     record = next(
         (
             r for r in records
-            if wanted in normalize_text(r.get("title", "")) or normalize_text(r.get("title", "")) in wanted
+            if (wanted in normalize_text(r.get("title", "")) or normalize_text(r.get("title", "")) in wanted)
+            and _recite_specific_enough(normalize_text(r.get("title", "")),
+                                        _recite_core(r.get("title", "")), wanted)
         ),
         None,
     )
@@ -669,21 +771,6 @@ LICHSU_FORCE_KEYWORDS = [
     "đông nam á", "việt nam thời cổ đại",
     "trước công nguyên", "sau công nguyên",
     "phong kiến", "đế quốc", "thuộc địa",
-    # --- T1 2026-07-14: cụm nhiều-từ độ chính xác cao (câu hỏi sự kiện) ---
-    "chiến dịch", "cách mạng tháng", "cách mạng tư sản", "xô viết",
-    "công xã pa", "tạm ước", "hiệp định", "phong trào", "cần vương",
-    "đảo chính", "kế hoạch nava", "đờ lát", "khủng hoảng kinh tế",
-    "chiến tranh thế giới", "chiến tranh lạnh", "kháng chiến chống",
-    "trận bạch đằng", "trận chi lăng", "trận đống đa", "ngọc hồi",
-    "nhà lý", "nhà trần", "nhà lê", "nhà nguyễn", "nhà hồ", "nhà đinh",
-    "nhà tiền lê", "nhà hậu lê", "nhà mạc", "nhà tây sơn",
-    "hùng vương", "văn lang", "âu lạc", "hai bà trưng", "bà triệu",
-    "vua nào", "vị vua", "quang trung", "nguyễn huệ", "lê lợi", "trần hưng đạo",
-    "điện biên phủ", "tổng tiến công", "mậu thân", "hồ chí minh 19",
-    "nguyễn ái quốc", "đông dương", "pháp thuộc", "thực dân pháp",
-    # T2 2026-07-27: câu ĐỐ NGƯỢC (mô tả -> tên) thường không chứa từ khoá Sử nào
-    "trạng nguyên", "trị vì", "tổng bí thư", "khoa bảng", "lên ngôi", "nhường ngôi",
-    "triều đình", "kinh đô", "quốc hiệu", "đại thắng", "xâm lược",
 ]
 
 VANHOC_FORCE_KEYWORDS = [
@@ -801,10 +888,10 @@ def query_qdrant(intent: Dict[str, Any]) -> str:
         import psycopg2
         pg_conn = None
         try:
-            pg_conn = psycopg2.connect(host="localhost", port=5433, dbname="rag_edu", user="postgres", password=os.getenv("PG_PASS", ""), connect_timeout=3)
+            pg_conn = psycopg2.connect(host="localhost", port=5433, dbname="rag_edu", user=os.getenv("PG_USER", "postgres"), password=os.environ.get("PG_PASS", ""), connect_timeout=3)
         except:
             try:
-                pg_conn = psycopg2.connect(host=os.getenv("PG_HOST_FALLBACK", "localhost"), port=5433, dbname="rag_edu", user=os.getenv("PG_USER", "postgres"), password=os.getenv("PG_PASS", ""), connect_timeout=3)
+                pg_conn = psycopg2.connect(host=os.getenv("PG_HOST_FALLBACK", "localhost"), port=5433, dbname="rag_edu", user=os.getenv("PG_USER", "postgres"), password=os.environ.get("PG_PASS", ""), connect_timeout=3)
             except Exception as e:
                 print(f"[PG Connect Error] {e}")
 
@@ -1440,20 +1527,14 @@ _NORM_SYS = (
     "'realtime' nếu hỏi NGÀY/GIỜ hiện tại. 'chat' nếu chào hỏi/tán gẫu.\n"
     "- wiki_query: CHỈ điền khi source=wiki — TÊN THỰC THỂ gọn để tra Wikipedia "
     "(vd 'Nguyễn Hiền','Học viện Công nghệ Bưu chính Viễn thông','Liên minh châu Âu'), KHÔNG phải cả câu; source khác -> null.\n"
-    "- SUBJECT lịch sử (QUAN TRỌNG): câu hỏi về SỰ KIỆN/CHIẾN DỊCH/PHONG TRÀO/TRẬN ĐÁNH/HIỆP ĐỊNH/TẠM ƯỚC/TRIỀU ĐẠI/VUA/NHÂN VẬT lịch sử, cách mạng, chiến tranh, kháng chiến, khởi nghĩa -> subject=\"lich_su\" (BẮT BUỘC, kể cả khi source=wiki). Câu hỏi địa danh/lãnh thổ/sông núi/dân số -> subject=\"dia_li\".\n"
     "- work: CHỈ tên tác phẩm, sửa lỗi STT (vd 'nhớ dừng'->'Nhớ rừng'; 'thế nữ'->author 'Thế Lữ').\n"
     "- FOLLOW-UP: nếu có dòng '[BÀI CŨ]: X' và câu hiện tại HỎI TIẾP về bài đó (không nêu bài mới rõ ràng, "
     "vd 'nội dung chính là gì','tác giả là ai','đọc lại đi','giảng thêm') -> work=X (giữ chủ đề). "
     "Nếu câu NÊU tác phẩm/bài KHÁC -> work=bài mới (ĐỔI chủ đề). Câu không nêu bài & không có bài cũ -> work=null.\n"
-    "- GIỮ NGUYÊN CÁCH VIẾT tên tác phẩm học sinh nói. KHÔNG dịch/phiên tên sang tiếng nước ngoài, KHÔNG đổi sang tên 'chuẩn/phổ biến' hơn, KHÔNG thêm-bớt-nối chữ, KHÔNG rút gọn tựa dài. Chỉ sửa lỗi gõ dấu/nghe-nhầm hiển nhiên; không chắc thì GIỮ NGUYÊN.\n"
-    "  Ví dụ GIỮ NGUYÊN (tuyệt đối KHÔNG đổi): 'Ăng-Co Vát'(KHÔNG 'Angkor Wat'); 'Prô-mê-tê bị xiềng'(KHÔNG 'Prometheus'); 'Pa-ra-na'(KHÔNG 'Panama'); 'Con gà thờ'(KHÔNG 'Con gà trống'); 'Bạch Đằng khải khẩu'(KHÔNG 'Bạch Đằng giang'); 'Bé Vào'(KHÔNG 'Bé vào đời'); 'Đò lèn'(KHÔNG 'Đò lên đò xuống sông Đáy'); 'Ga-vrốt ngoài chiến lũy'(KHÔNG 'Gavroche'); 'Tốt-tô-chan bên cửa sổ'(KHÔNG 'Totto-chan').\n"
     "- TUYỆT ĐỐI không đổi sang tên tác phẩm khác cái học sinh muốn nói.\n"
     "Ví dụ: 'đọc cho tôi bài nhớ dừng của thế nữ' => {\"intent\":\"recite\",\"work\":\"Nhớ rừng\",\"author\":\"Thế Lữ\",\"subject\":\"ngu_van\"}\n"
     "'bạn có biết tác phẩm lão hạc không' => {\"intent\":\"explain\",\"source\":\"sgk\",\"work\":\"Lão Hạc\",\"author\":null,\"subject\":\"ngu_van\"}\n"
     "'nguyễn hiền là ai' => {\"intent\":\"explain\",\"source\":\"wiki\",\"work\":null,\"wiki_query\":\"Nguyễn Hiền\",\"subject\":null}\n"
-    "'chiến dịch điện biên phủ trên không năm nào' => {\"intent\":\"explain\",\"source\":\"wiki\",\"work\":null,\"wiki_query\":\"Chiến dịch Điện Biên Phủ trên không\",\"subject\":\"lich_su\"}\n"
-    "'xô viết nghệ tĩnh diễn ra năm nào' => {\"intent\":\"explain\",\"source\":\"wiki\",\"work\":null,\"wiki_query\":\"Xô Viết Nghệ Tĩnh\",\"subject\":\"lich_su\"}\n"
-    "'kế hoạch nava chia mấy bước' => {\"intent\":\"explain\",\"source\":\"wiki\",\"work\":null,\"wiki_query\":\"Kế hoạch Nava\",\"subject\":\"lich_su\"}\n"
     "'mấy giờ rồi' => {\"intent\":\"chat\",\"source\":\"realtime\",\"work\":null,\"wiki_query\":null}"
 )
 def _normalize_query_gemma(query, prev_work=None):
@@ -1643,227 +1724,6 @@ def _wiki_response(title, ext, qtype):
         sources=["wikipedia"])
 
 
-
-# ══════════════════════════════════════════════════════════════════════════
-# T2 (2026-07-26): TIER-1 FACT-NODE cho môn Lịch sử (:HistEvent + :HistAlias)
-# ══════════════════════════════════════════════════════════════════════════
-HISTEVENT_ENABLED = os.getenv("HISTEVENT_ENABLED", "1") == "1"
-
-# cầu ngữ-âm STT: học sinh ĐỌC năm thành chữ ("một chín bảy hai", "năm bảy hai")
-_NUMW = {"không":0,"linh":0,"một":1,"mốt":1,"hai":2,"ba":3,"bốn":4,"tư":4,"năm":5,"lăm":5,
-         "sáu":6,"bảy":7,"bẩy":7,"tám":8,"chín":9,"mười":10}
-def _spoken_years(q: str):
-    """Trả list năm suy ra từ chữ đọc. 'một chín bảy hai'->1972 ; 'bảy hai'->1972/1872(ứng viên)."""
-    out = []
-    toks = [t for t in re.split(r"[^\wÀ-ỹ]+", (q or "").lower()) if t]
-    digs = []
-    for _i, t in enumerate(toks):
-        # 'năm' vừa là số 5 vừa là DANH TỪ chỉ thời gian. Nếu ngay sau nó là một chữ-số khác
-        # -> coi là danh từ ('năm một chín bảy hai'), KHÔNG tính vào dãy.
-        if t in ("năm", "nam") and _i + 1 < len(toks) and toks[_i + 1] in _NUMW:
-            if digs:
-                if len(digs) == 4: out.append(int("".join(digs)))
-                elif len(digs) == 2: out.append(1900 + int("".join(digs)))
-            digs = []
-            continue
-        if t in _NUMW and _NUMW[t] <= 9:
-            digs.append(str(_NUMW[t]))
-        else:
-            if len(digs) == 4:
-                out.append(int("".join(digs)))
-            elif len(digs) == 2:
-                out.append(1900 + int("".join(digs)))
-            digs = []
-    if len(digs) == 4: out.append(int("".join(digs)))
-    elif len(digs) == 2: out.append(1900 + int("".join(digs)))
-    return [y for y in out if 100 <= y <= 2030]
-
-def _query_years(q: str):
-    ys = [int(m) for m in re.findall(r"\b(1[0-9]{3}|20[0-2][0-9])\b", q or "")]
-    ys += _spoken_years(q)
-    return sorted(set(ys))
-
-_FACTOID_RE = re.compile(
-    r"năm nào|khi nào|bao giờ|ngày nào|ở đâu|tại đâu|là ai|ai là|của ai|"
-    r"mấy bước|bao nhiêu|tên gì|gọi là gì|diễn ra|thành lập|ký kết|ký ở|"
-    r"^ai\s|\bai đỗ|\bai lãnh đạo|\bai chỉ huy|\bai viết|vua nào|vị vua nào|"
-    r"người nào|nhân vật nào|sự kiện nào|trận nào|ai nói|câu nói của|"
-    r"là gì|tên là gì|có phải|có \w+ không|chưa\?*$|đã \w+ chưa|"
-    r"trẻ nhất|ngắn nhất|đầu tiên|lớn nhất|sớm nhất|cuối cùng",
-    re.I)
-_EXPLAIN_RE = re.compile(r"vì sao|tại sao|nguyên nhân|ý nghĩa|phân tích|giảng|so sánh|diễn biến|hãy nêu|trình bày", re.I)
-
-_FACTOID_NOACC = re.compile(
-    r"nam nao|khi nao|bao gio|ngay nao|o dau|tai dau|la ai|ai la|cua ai|"
-    r"may buoc|bao nhieu|ten gi|goi la gi|dien ra|thanh lap|ky ket|ky o|"
-    r"^ai\s|\bai do|vua nao|vi vua nao|nguoi nao|nhan vat nao|su kien nao|tran nao|"
-    r"tre nhat|ngan nhat|dau tien|lon nhat|som nhat|"
-    r"la gi|ten la gi|co phai|co \w+ khong|chua$|da \w+ chua|cuoi cung", re.I)
-
-def _hist_is_factoid(q: str) -> bool:
-    if _EXPLAIN_RE.search(q or ""): return False
-    if _FACTOID_RE.search(q or ""): return True
-    # câu STT thường MẤT DẤU -> thử lại trên bản bỏ dấu (bài học: test gõ tay pass giả)
-    return bool(_FACTOID_NOACC.search(_hfold(q or "")))
-
-def _hfold(s: str) -> str:
-    """Chuẩn hoá GIỐNG HỆT lúc ingest alias: bỏ dấu, đ->d, mọi ký tự lạ -> space, gộp space.
-    KHÔNG dùng _fold vì _fold giữ '-' ('gio-ne-vo') trong khi alias lưu 'gio ne vo'."""
-    s = unicodedata.normalize("NFD", (s or "").lower())
-    s = "".join(c for c in s if unicodedata.category(c) != "Mn").replace("\u0111", "d")
-    return re.sub(r"\s+", " ", re.sub(r"[^a-z0-9 ]", " ", s)).strip()
-
-def query_hist_event(query: str, grade=None):
-    """Tier-1: tra :HistEvent qua alias-longest. Trả (context, intent) hoặc None.
-    None = nhường tầng dưới (chunk/wiki). Trả 'clarify' khi nhập nhằng thật."""
-    if not HISTEVENT_ENABLED: return None
-    qf = _hfold(query or "")
-    if len(qf) < 4: return None
-    years = _query_years(query)
-    _sess = None
-    try:
-        driver = GraphDatabase.driver(NEO4J_URI, auth=NEO4J_AUTH)
-        _sess = driver.session()
-        rows = _sess.run("""
-            MATCH (a:HistAlias)-[:ALIAS_OF]->(h:HistEvent)
-            WHERE h.verified = true AND (' '+$qf+' ') CONTAINS (' '+a.value_norm+' ')
-            RETURN a.value_norm AS alias, h.canonical_name AS name, h.name_norm AS nn,
-                   h.year AS year, h.date_start AS ds, h.date_end AS de, h.place AS place,
-                   h.actors AS actors, h.summary AS summary, h.facts AS facts,
-                   h.traps AS traps, h.grade AS grade, h.kind AS kind
-            ORDER BY size(a.value_norm) DESC LIMIT 25
-        """, qf=qf).data()
-    except Exception as e:
-        print(f"[HistEvent Error] {e}")
-        if _sess: _sess.close()
-        return None
-    if not rows:
-        # Fallback TẤT ĐỊNH: alias khớp khi MỌI token của alias xuất hiện trong câu ĐÚNG THỨ TỰ
-        # (vd 'vua NÀO trị vì ngắn nhất' vs alias 'vua trị vì ngắn nhất').
-        try:
-            cand = _sess.run("""
-                MATCH (a:HistAlias)-[:ALIAS_OF]->(h:HistEvent)
-                WHERE h.verified = true AND size(a.value_norm) >= 8
-                RETURN a.value_norm AS alias, h.canonical_name AS name, h.name_norm AS nn,
-                       h.year AS year, h.date_start AS ds, h.date_end AS de, h.place AS place,
-                       h.actors AS actors, h.summary AS summary, h.facts AS facts,
-                       h.traps AS traps, h.grade AS grade, h.kind AS kind
-            """).data()
-        except Exception:
-            cand = []
-        qtok = qf.split()
-        def _subseq(alias):
-            at = alias.split()
-            if len(at) < 3: return False        # >=3 token (chống khớp bậy)
-            j = 0; first = None; last = None
-            for i, t in enumerate(qtok):
-                if j < len(at) and t == at[j]:
-                    if first is None: first = i
-                    last = i; j += 1
-            if j != len(at): return False
-            return (last - first + 1) - len(at) <= 2   # tối đa 2 từ lạ chèn giữa
-        rows = sorted([r for r in cand if _subseq(r["alias"])],
-                      key=lambda r: -len(r["alias"]))
-        if not rows:
-            _sess.close(); return None
-
-    best_len = len(rows[0]["alias"])
-    top = [r for r in rows if len(r["alias"]) >= best_len]           # cùng độ dài alias dài nhất
-    others = [r for r in rows if len(r["alias"]) < best_len]
-
-    # GỘP TRÙNG-LẶP-DỮ-LIỆU: cùng một sự kiện có thể bị tách thành nhiều node (biến thể tên,
-    # lặp theo lớp/bộ sách). Chỉ coi là NHẬP NHẰNG THẬT khi các ứng viên có NĂM XÁC ĐỊNH KHÁC NHAU.
-    def _yv(r):
-        y = r.get("year")
-        return None if y in (None, -99999) else y
-    _ys_top = {_yv(r) for r in top if _yv(r) is not None}
-    if len(top) > 1 and len(_ys_top) <= 1:
-        top = [max(top, key=lambda r: (len(r.get("facts") or []), len(r.get("summary") or "")))]
-
-    # lọc theo năm nếu câu có nêu
-    if years:
-        yf = [r for r in top if r.get("year") and any(abs(r["year"] - y) <= 1 for y in years)]
-        if yf:
-            top = yf
-        else:
-            # Thẻ khớp tên NHƯNG SAI NĂM câu hỏi -> tìm anh-em cùng tiền tố có năm đúng.
-            _base = top[0]["alias"]
-            try:
-                _alt = _sess.run("""
-                    MATCH (a:HistAlias)-[:ALIAS_OF]->(h:HistEvent)
-                    WHERE h.verified = true AND a.value_norm STARTS WITH $base AND h.year IS NOT NULL
-                    RETURN a.value_norm AS alias, h.canonical_name AS name, h.name_norm AS nn,
-                           h.year AS year, h.date_start AS ds, h.date_end AS de, h.place AS place,
-                           h.actors AS actors, h.summary AS summary, h.facts AS facts,
-                           h.traps AS traps, h.grade AS grade, h.kind AS kind
-                    LIMIT 20
-                """, base=_base).data()
-            except Exception:
-                _alt = []
-            _altok = [r for r in _alt if any(abs(r["year"] - y) <= 1 for y in years)]
-            if _altok:
-                top = _altok[:1]
-            else:
-                # không có thẻ nào đúng năm -> KHÔNG trả thẻ sai năm, nhường tầng dưới
-                try: _sess.close()
-                except Exception: pass
-                return None
-    # tie-break theo lớp học sinh
-    if len(top) > 1 and grade is not None:
-        gf = [r for r in top if str(r.get("grade")) == str(grade)]
-        if gf: top = gf
-
-    # SIBLING GUARD: alias khớp là BASE, còn tồn tại sự kiện khác cùng tiền tố (vd 'điện biên phủ'
-    # vs 'điện biên phủ trên không') mà câu KHÔNG nêu năm/định ngữ -> hỏi lại thay vì trả bừa.
-    if len(top) == 1 and not years:
-        base = top[0]["alias"]
-        try:
-            sib = _sess.run("""
-                MATCH (a:HistAlias)-[:ALIAS_OF]->(h:HistEvent)
-                WHERE h.verified = true AND a.value_norm STARTS WITH $base
-                  AND a.value_norm <> $base AND h.name_norm <> $nn
-                  AND h.year IS NOT NULL AND h.year <> -99999
-                  AND ($y IS NULL OR abs(h.year - $y) > 1)
-                RETURN DISTINCT h.canonical_name AS name, h.year AS year LIMIT 4
-            """, base=base, nn=top[0]["nn"],
-                 y=(None if top[0].get("year") in (None, -99999) else top[0].get("year"))).data()
-        except Exception:
-            sib = []
-        _sess.close()
-        if sib:
-            opts = "; ".join(f"{x['name']} ({x['year']})" for x in sib if x.get("year"))
-            cur = f"{top[0]['name']} ({top[0]['year']})" if top[0].get("year") else top[0]["name"]
-            ctx = (f"[LÀM RÕ CÂU HỎI] Có nhiều sự kiện gần giống nhau: {cur}; {opts}. "
-                   f"Hãy hỏi lại bạn nhỏ muốn tìm hiểu sự kiện nào (nêu năm hoặc tên đầy đủ). "
-                   f"TUYỆT ĐỐI không tự đoán.")
-            return (ctx, {"need_rag": True, "query_type": "clarify", "tier": "hist_fact_clarify",
-                          "subject": "lich_su", "learning_mode": "tutor"})
-
-    try: _sess.close()
-    except Exception: pass
-    if len(top) != 1:
-        return None   # nhập nhằng chưa giải được -> nhường tầng dưới
-
-    r = top[0]
-    when = ""
-    if r.get("ds") and r.get("de") and r["ds"] != r["de"]: when = f"Thời gian: {r['ds']} đến {r['de']}"
-    elif r.get("ds"): when = f"Thời gian: {r['ds']}"
-    elif r.get("year"): when = f"Năm: {r['year']}"
-    parts = [f"[DỮ KIỆN LỊCH SỬ - THẺ SỰ KIỆN] {r['name']}"]
-    if when: parts.append(when)
-    if r.get("place"): parts.append(f"Địa điểm: {r['place']}")
-    if r.get("actors"): parts.append("Nhân vật/lực lượng: " + ", ".join(r["actors"][:6]))
-    if r.get("summary"): parts.append(r["summary"])
-    if r.get("facts"): parts.append("Các ý chính:\n- " + "\n- ".join(r["facts"]))
-    if r.get("traps"): parts.append("LƯU Ý TRÁNH NHẦM:\n- " + "\n- ".join(r["traps"]))
-    parts.append("Chỉ dùng ĐÚNG các dữ kiện trên, KHÔNG thêm mốc thời gian hay tên riêng nào khác.")
-    ctx = "\n".join(parts)
-    intent = {"need_rag": True, "query_type": "explain", "tier": "hist_fact",
-              "subject": "lich_su", "grade": r.get("grade"), "work_name": r["name"],
-              "learning_mode": "tutor"}
-    return (ctx, intent)
-
-
 async def retrieve(req: RetrieveRequest):
     print(f"\n[RAG] Nhận request: {req.query}")
     q = req.query
@@ -1875,6 +1735,7 @@ async def retrieve(req: RetrieveRequest):
     if norm:
         print(f"[RAG] Normalize(prev={prev_work!r}): {norm}")
         kind = norm.get("intent"); gwork = norm.get("work"); gsubj = norm.get("subject")
+        gauthor = norm.get("author")
         recite_intent = (kind == "recite"); practice_intent = (kind == "practice")
         bai_no = norm.get("bai_no"); trang = norm.get("trang")
         gsource = norm.get("source"); gwikiq = norm.get("wiki_query")
@@ -1887,7 +1748,7 @@ async def retrieve(req: RetrieveRequest):
             gbo = (req.user_profile or {}).get("bo_sach") or (req.user_profile or {}).get("bo") or None
     else:
         # Gemma lỗi/timeout -> KHÔNG đoán bằng regex (Gemma là bộ não DUY NHẤT). Rơi xuống retrieval thường.
-        kind = None; gwork = None; gsubj = None
+        kind = None; gwork = None; gsubj = None; gauthor = None
         recite_intent = False; practice_intent = False
         bai_no = None; trang = None
         gsource = None; gwikiq = None
@@ -1910,26 +1771,33 @@ async def retrieve(req: RetrieveRequest):
     if kind == "chat" and not gwork:
         return RetrieveResponse(context="", intent={"need_rag": False, "query_type": "chat"}, sources=[])
 
-    # ══ T2 TIER-1: THẺ SỰ KIỆN LỊCH SỬ (đứng TRƯỚC wiki/chunk theo thiết kế) ══
-    # Chỉ ăn câu FACTOID môn Sử; câu recite/giảng đi tiếp tầng dưới -> không cướp, không false-abstain.
-    if kind != "recite":
-        _hsubj = override_subject_by_keywords(q, subj)
-        if _hsubj in ("lich_su", "lich_su_dia_li") and _hist_is_factoid(q):
-            _hres = query_hist_event(q, grade=ggrade)
-            if _hres:
-                _hctx, _hint = _hres
-                print(f"[RAG] HIST-FACT tier={_hint.get('tier')} work={_hint.get('work_name')!r}")
-                return RetrieveResponse(context=unicodedata.normalize('NFC', _hctx),
-                                        intent=_hint, sources=["hist_event"])
-
     # ══ B2. ANCHOR THEO WORK CỦA GEMMA (work=biến; câu nêu bài khác -> thay biến; KHÔNG dùng current_lesson) ══
     if gwork:
+        # TÁC GIẢ nêu rõ -> bản của ĐÚNG tác giả thắng lesson_card. Không có bước này thì
+        # tác phẩm trùng tên luôn ra bản có :Lesson: 'Mẹ của Đỗ Trung Lai' (Ngữ văn 7, chỉ
+        # là :LiteratureText) bị trả thành 'Mẹ' của Trần Quốc Minh (lớp 2, có :Lesson).
+        if recite_intent and gauthor:
+            _rs = {"subject": subj, "grade": None, "bo_sach": None, "query_type": "recite_full_text"}
+            _rauth = recite_from_literature_text(gwork, _rs, grade=ggrade, bo_sach=gbo, author=gauthor)
+            if _rauth:
+                print(f"[RAG] ✅ Author-exact recite work={gwork!r} author={gauthor!r}")
+                _rauth.context = unicodedata.normalize('NFC', _rauth.context)
+                return _rauth
         if recite_intent and ggrade is not None:     # recite + grade cu the: uu tien ban GRADE-EXACT truoc lesson_card
             _rs = {"subject": subj, "grade": None, "bo_sach": None, "query_type": "recite_full_text"}
             _rstrict = recite_from_literature_text(gwork, _rs, grade=ggrade, bo_sach=gbo, strict_grade=True)
             if _rstrict:
                 _rstrict.context = unicodedata.normalize('NFC', _rstrict.context)
                 return _rstrict
+        # Không nêu tác giả/lớp mà tên bài TRÙNG nhiều tác phẩm -> theo recite_default
+        # của graph. Chỉ fire khi thật trùng tên (xem require_homonym_default), nên các
+        # bài không trùng tên vẫn đi nguyên luồng lesson_card như trước.
+        if recite_intent and not gauthor and ggrade is None:
+            _rs = {"subject": subj, "grade": None, "bo_sach": None, "query_type": "recite_full_text"}
+            _rhom = recite_from_literature_text(gwork, _rs, require_homonym_default=True)
+            if _rhom:
+                _rhom.context = unicodedata.normalize('NFC', _rhom.context)
+                return _rhom
         anchor_prof = {"current_lesson": gwork}      # ép anchor EXACT theo work Gemma (bỏ size-guard)
         pa = {"lop": ggrade, "bo_sach": gbo, "subject": subj}   # grade-anchor: câu NÊU lớp/bộ -> lọc đúng bản
         lc = query_lesson_card(anchor_prof, pa, gwork, allow_vec=False,

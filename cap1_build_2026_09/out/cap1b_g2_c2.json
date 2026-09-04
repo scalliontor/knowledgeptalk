@@ -1,0 +1,230 @@
+{
+  "grade": 2,
+  "chunk": 2,
+  "items": [
+    {
+      "ten_bai": "Sự tích hoa tỉ muội",
+      "bo_sach": "KNTT",
+      "tac_gia": "Trần Mạnh Hùng (kể lại)",
+      "kind": "companion",
+      "full_text": "",
+      "companion": {
+        "tom_tat": "Ngày xưa có hai chị em Nết và Na mồ côi cha mẹ, sống trong một ngôi nhà nhỏ bên sườn núi. Nết rất thương em, cái gì cũng nhường cho Na, đêm đông gió lùa còn vòng tay ôm em cho ấm. Năm ấy nước lũ dâng cao, Nết cõng em chạy theo dân làng đến nơi an toàn, hai bàn chân rớm máu. Bụt thương quá liền giơ gậy thần chữa lành chân cho Nết. Nơi bàn chân Nết đi qua mọc lên những khóm hoa đỏ thắm, bông hoa lớn che chở cho nụ hoa bé nhỏ, nên dân làng đặt tên loài hoa ấy là hoa tỉ muội, nghĩa là hoa chị em.",
+        "nhan_vat": "Nết (người chị), Na (em gái), ông Bụt, dân làng",
+        "y_nghia": "Câu chuyện ca ngợi tình chị em thương yêu, nhường nhịn và che chở lẫn nhau. Hình ảnh chùm hoa tỉ muội với bông lớn ôm lấy nụ nhỏ chính là hình ảnh người chị luôn bao bọc cho em.",
+        "cau_hoi": [
+          "Nết đã làm gì để giúp em khi nước lũ dâng cao?",
+          "Vì sao dân làng lại đặt tên loài hoa ấy là hoa tỉ muội?",
+          "Ở nhà em thường làm gì để giúp đỡ anh chị em của mình?"
+        ]
+      },
+      "sources": [
+        "https://thohay.vn/su-tich-hoa-ti-muoi.html"
+      ],
+      "ly_do": "Tuy là truyện 'sự tích' mang mô-típ dân gian nhưng bản in trong SGK ghi rõ '(Theo Trần Mạnh Hùng)' - bản kể của tác giả đương đại, vẫn còn bản quyền. Theo quy tắc, chuyển sang companion, không chép nguyên văn."
+    },
+    {
+      "ten_bai": "Thư viện biết đi",
+      "bo_sach": "KNTT",
+      "tac_gia": "",
+      "kind": "companion",
+      "full_text": "",
+      "companion": {
+        "tom_tat": "Bài đọc cho biết thư viện là nơi giữ sách báo để mọi người đến đọc hoặc mượn về nhà. Nhiều người tưởng thư viện lúc nào cũng đứng yên một chỗ, nhưng trên thế giới lại có những 'thư viện biết đi'. Có thư viện nổi đặt trên một con tàu lớn, đi qua rất nhiều nước. Ở Phần Lan, hàng trăm thư viện được đặt trên những chiếc xe buýt cũ chạy khắp thành phố. Ở châu Phi, có người còn đặt cả thư viện lên lưng lạc đà. Nhờ những thư viện biết đi ấy mà sách đến được với nhiều bạn đọc ở xa.",
+        "nhan_vat": "Đây là bài văn thông tin nên không có nhân vật; 'nhân vật' chính là những thư viện di động: thư viện nổi trên tàu, thư viện trên xe buýt và thư viện trên lưng lạc đà.",
+        "y_nghia": "Bài đọc cho các bạn nhỏ thấy sách rất quý và người lớn nghĩ đủ cách để mang sách tới mọi nơi. Đọc bài, em thêm yêu sách và biết trân trọng thư viện.",
+        "cau_hoi": [
+          "Vì sao người ta gọi những thư viện đó là 'thư viện biết đi'?",
+          "Em thích thư viện đặt trên tàu, trên xe buýt hay trên lưng lạc đà? Vì sao?",
+          "Nếu được làm một thư viện biết đi cho xóm mình, em sẽ đặt sách lên phương tiện gì?"
+        ]
+      },
+      "sources": [
+        "https://kenhgiaovien.com/tai-lieu/giao-tieng-viet-2-ket-noi-bai-18-thu-vien-biet-di"
+      ],
+      "ly_do": "Văn bản thông tin viết riêng cho SGK mới (KNTT tập 2, bài 18), tác giả đương đại, còn bản quyền. Không tìm được nguyên văn ở nguồn đáng tin nào ngoài các trang soạn bài, nên làm companion."
+    },
+    {
+      "ten_bai": "Thương ông",
+      "bo_sach": "KNTT",
+      "tac_gia": "Tú Mỡ (Hồ Trọng Hiếu, 1900-1976)",
+      "kind": "recite",
+      "full_text": "Ông bị đau chân\nNó sưng nó tấy\nĐi phải chống gậy\nKhập khiễng, khập khà\nBước lên thềm nhà\nNhấc chân quá khó\nThấy ông nhăn nhó\nViệt chơi ngoài sân\nLon ton lại gần\nÂu yếm, nhanh nhảu:\n– Ông vịn vai cháu\nCháu đỡ ông lên.\n\nÔng bước lên thềm\nTrong lòng sung sướng\nQuẳng gậy, cúi xuống\nQuên cả đớn đau\nÔm cháu, xoa đầu:\n– Hoan hô thằng bé!\nBé thế mà khoẻ\nVì nó thương ông.",
+      "companion": {
+        "tom_tat": "",
+        "nhan_vat": "",
+        "y_nghia": "",
+        "cau_hoi": []
+      },
+      "sources": [
+        "https://www.thivien.net/T%C3%BA-M%E1%BB%A1/Th%C6%B0%C6%A1ng-%C3%B4ng/poem-yO3oaa3Spq2kp1FA3funbw",
+        "https://download.vn/tieng-viet-2-bai-30-ket-noi-tri-thuc-tap-1-51469"
+      ],
+      "ly_do": "Tú Mỡ mất 13/7/1976, đã hơn 50 năm nên thuộc phạm vi công cộng theo quy tắc được giao. Nguyên văn lấy từ Thi Viện (kho thơ, không phải trang soạn bài); đối chiếu cho thấy SGK KNTT lớp 2 tập 1 bài 30 chỉ in 2 khổ đầu, kết ở câu 'Vì nó thương ông.' nên chép đúng 2 khổ đó. Lời thoại chuẩn hoá bằng dấu gạch ngang theo lối in SGK."
+    },
+    {
+      "ten_bai": "Thả diều",
+      "bo_sach": "KNTT",
+      "tac_gia": "Trần Đăng Khoa",
+      "kind": "companion",
+      "full_text": "",
+      "companion": {
+        "tom_tat": "Bài thơ tả cánh diều của bạn nhỏ bay lên trên bầu trời làng quê. Diều no gió, tiếng sáo diều thổi vang, trong ngần rồi chơi vơi giữa trời cao. Nhà thơ tưởng tượng cánh diều lúc thì giống vầng trăng vàng, lúc như chiếc thuyền trôi trên sông Ngân, lúc lại giống hạt cau phơi trên chiếc nong trời. Bầu trời rộng như cánh đồng vừa gặt hái xong, còn cánh diều thì như chiếc lưỡi liềm ai bỏ quên lại. Tiếng diều ngân nga làm ruộng lúa thêm xanh và luỹ tre làng như cong xuống lắng nghe.",
+        "nhan_vat": "Bạn nhỏ thả diều và cánh diều; xung quanh là bầu trời, sao trời, sông Ngân, cánh đồng và luỹ tre làng.",
+        "y_nghia": "Bài thơ cho thấy vẻ đẹp nên thơ của cánh diều và của làng quê Việt Nam, đồng thời khoe trí tưởng tượng bay bổng của trẻ thơ: chỉ một cánh diều mà thấy được bao nhiêu hình ảnh đẹp.",
+        "cau_hoi": [
+          "Trong bài thơ, cánh diều được so sánh với những sự vật nào?",
+          "Vì sao tác giả nói bầu trời giống một cánh đồng vừa gặt hái xong?",
+          "Em đã bao giờ thả diều chưa? Hãy kể lại cho các bạn nghe."
+        ]
+      },
+      "sources": [
+        "https://kenhgiaovien.com/tai-lieu/giao-tieng-viet-2-ket-noi-bai-21-tha-dieu"
+      ],
+      "ly_do": "Trần Đăng Khoa sinh năm 1958, hiện còn sống nên bài thơ vẫn còn bản quyền; quy tắc được giao nói rõ Trần Đăng Khoa KHÔNG tính là phạm vi công cộng. Làm companion, tuyệt đối không chép nguyên văn."
+    },
+    {
+      "ten_bai": "Thời khoá biểu",
+      "bo_sach": "KNTT",
+      "tac_gia": "",
+      "kind": "companion",
+      "full_text": "",
+      "companion": {
+        "tom_tat": "Bài đọc này không phải một câu chuyện mà là một bảng thời khoá biểu của lớp 2. Bảng được kẻ thành hàng và cột: một chiều ghi các thứ trong tuần, chiều còn lại ghi các buổi học và các tiết học trong buổi. Nhìn vào bảng, các bạn biết mỗi ngày học buổi sáng mấy tiết, buổi chiều mấy tiết và học những môn nào. Có thể đọc thời khoá biểu theo từng ngày, hoặc đọc theo từng buổi trong tuần.",
+        "nhan_vat": "Đây là văn bản thông tin trình bày dưới dạng bảng nên không có nhân vật; thứ được nói đến chính là tấm thời khoá biểu của lớp.",
+        "y_nghia": "Bài học giúp em biết cách đọc một bảng biểu: đọc theo cột hoặc theo hàng. Thời khoá biểu giúp em biết trước hôm nay, ngày mai học môn gì để soạn sách vở đầy đủ và học tập có nền nếp.",
+        "cau_hoi": [
+          "Thời khoá biểu của lớp em mỗi ngày có mấy buổi học, mỗi buổi mấy tiết?",
+          "Muốn biết thứ Năm học những môn nào, em phải nhìn vào phần nào của bảng?",
+          "Buổi tối trước khi đi ngủ, thời khoá biểu giúp em làm việc gì?"
+        ]
+      },
+      "sources": [
+        "https://kenhgiaovien.com/tai-lieu/giao-tieng-viet-2-bai-10-thoi-khoa-bieu"
+      ],
+      "ly_do": "Bài đọc là một BẢNG thời khoá biểu do nhóm biên soạn SGK dựng riêng cho sách mới (KNTT tập 1, bài 10) - vừa còn bản quyền, vừa là dạng bảng không thể đọc thành văn liền mạch cho TTS. Làm companion."
+    },
+    {
+      "ten_bai": "Trên các miền đất nước",
+      "bo_sach": "KNTT",
+      "tac_gia": "Ca dao (khuyết danh)",
+      "kind": "recite",
+      "full_text": "Dù ai đi ngược về xuôi\nNhớ ngày Giỗ Tổ mùng Mười tháng Ba.\n\nĐường vô xứ Nghệ quanh quanh\nNon xanh nước biếc như tranh hoạ đồ.\n\nĐồng Tháp Mười cò bay thẳng cánh\nNước Tháp Mười lóng lánh cá tôm.",
+      "companion": {
+        "tom_tat": "",
+        "nhan_vat": "",
+        "y_nghia": "",
+        "cau_hoi": []
+      },
+      "sources": [
+        "https://thcsphuloi.hcm.edu.vn/tin-tuc/du-ai-di-nguoc-ve-xuoi-nho-ngay-gio-to-mong-muoi-thang-ba-khap-mien-truyen-mai/ctmb/64256/503840",
+        "https://daibieunhandan.vn/dong-thap-muoi-co-bay-thang-canh-nuoc-thap-muoi-long-lanh-ca-tom-10330164.html",
+        "https://kenhgiaovien.com/tai-lieu/giao-powerpoint-bai-26-tren-cac-mien-dat-nuoc"
+      ],
+      "ly_do": "Bài đọc KNTT tập 2 bài 26 gồm ba câu ca dao dân gian (Phú Thọ - miền Bắc, xứ Nghệ - miền Trung, Đồng Tháp Mười - miền Nam), đều là ca dao khuyết danh thuộc phạm vi công cộng. Từng câu được đối chiếu độc lập ở nguồn ngoài trang soạn bài (trang trường học, báo Đại biểu Nhân dân). Đã kiểm chứng bản SGK dùng 'Đường vô xứ Nghệ' (không phải 'xứ Huế'). Chỉ chép phần ca dao; các câu văn xuôi dẫn dắt do nhóm biên soạn SGK viết thì bỏ đi vì còn bản quyền và không xác minh được nguyên văn."
+    },
+    {
+      "ten_bai": "Tạm biệt cánh cam",
+      "bo_sach": "KNTT",
+      "tac_gia": "Minh Đăng",
+      "kind": "companion",
+      "full_text": "",
+      "companion": {
+        "tom_tat": "Một chú cánh cam có đôi cánh xanh óng ánh bị thương ở chân, lạc vào nhà bạn Bống. Bống nhặt chú lên, cho vào một chiếc lọ nhỏ có lót cỏ và chăm sóc rất cẩn thận, ngày nào cũng cho thêm chút nước và thay cỏ tươi. Nhưng cánh cam cứ ngơ ngác, buồn bã như đang nhớ nhà, nhớ bạn bè. Thương chú, Bống mang lọ ra bãi cỏ sau nhà, mở nắp và nói lời tạm biệt để cánh cam bay về với gia đình của mình.",
+        "nhan_vat": "Bạn Bống và chú cánh cam.",
+        "y_nghia": "Câu chuyện dạy các bạn nhỏ biết yêu thương loài vật đúng cách: thương thật sự không phải là giữ con vật bên mình, mà là trả nó về nơi nó thuộc về.",
+        "cau_hoi": [
+          "Bống đã làm gì khi thấy chú cánh cam bị thương?",
+          "Vì sao cuối cùng Bống lại thả cánh cam đi?",
+          "Nếu em nhặt được một con vật nhỏ bị lạc, em sẽ làm gì với nó?"
+        ]
+      },
+      "sources": [
+        "https://kenhgiaovien.com/tai-lieu/giao-tieng-viet-2-ket-noi-bai-16-tam-biet-canh-cam"
+      ],
+      "ly_do": "Tác giả Minh Đăng là tác giả đương đại, truyện viết cho SGK mới (KNTT tập 2, bài 16), còn bản quyền. Làm companion."
+    },
+    {
+      "ten_bai": "Tết đến rồi",
+      "bo_sach": "KNTT",
+      "tac_gia": "",
+      "kind": "companion",
+      "full_text": "",
+      "companion": {
+        "tom_tat": "Bài đọc giới thiệu ngày Tết cổ truyền của người Việt. Ngày Tết, miền Bắc có hoa đào hồng tươi với những nụ chúm chím xen lá xanh, miền Nam có hoa mai rực rỡ sắc vàng. Nhà nào cũng có bánh: miền Bắc gói bánh chưng hình vuông bằng lá dong, miền Nam gói bánh tét hình trụ dài bằng lá chuối, cả hai đều làm từ gạo nếp, đỗ xanh và thịt lợn. Tết còn là dịp cả nhà quây quần bên nhau và gửi cho nhau những lời chúc tốt đẹp.",
+        "nhan_vat": "Đây là bài văn thông tin nên không có nhân vật; bài nói về hoa đào, hoa mai, bánh chưng, bánh tét và không khí sum họp ngày Tết.",
+        "y_nghia": "Bài đọc giúp em hiểu và thêm yêu Tết cổ truyền của dân tộc, biết mỗi miền có một loài hoa, một thứ bánh riêng nhưng đều cùng chung niềm vui đoàn tụ gia đình.",
+        "cau_hoi": [
+          "Miền Bắc và miền Nam có những loài hoa nào đặc trưng cho ngày Tết?",
+          "Bánh chưng và bánh tét khác nhau ở chỗ nào?",
+          "Ngày Tết, gia đình em thường làm những việc gì?"
+        ]
+      },
+      "sources": [
+        "https://kenhgiaovien.com/tai-lieu/giao-tieng-viet-2-ket-noi-bai-4-tet-den-roi"
+      ],
+      "ly_do": "Văn bản thông tin biên soạn riêng cho SGK mới (KNTT tập 2, bài 4), không phải tác phẩm dân gian, còn bản quyền. Làm companion."
+    },
+    {
+      "ten_bai": "Tớ là lê-gô",
+      "bo_sach": "KNTT",
+      "tac_gia": "Bảo Châu",
+      "kind": "companion",
+      "full_text": "",
+      "companion": {
+        "tom_tat": "Bài đọc để chính món đồ chơi lê-gô tự giới thiệu về mình. Lê-gô kể rằng nhiều bạn còn gọi mình là đồ chơi lắp ráp. Lê-gô gồm rất nhiều khối nhỏ đầy màu sắc, phần lớn có hình viên gạch, ngoài ra còn có những nhân vật tí hon và nhiều hình xinh xắn khác. Ghép các khối lại với nhau, các bạn nhỏ có thể tạo ra đủ thứ theo trí tưởng tượng của mình. Chơi lê-gô giúp các bạn giàu tưởng tượng, sáng tạo và kiên nhẫn hơn.",
+        "nhan_vat": "Người kể chuyện chính là bạn lê-gô - món đồ chơi lắp ráp tự xưng 'tớ'.",
+        "y_nghia": "Bài đọc giới thiệu một món đồ chơi quen thuộc và cho thấy chơi cũng là học: trò chơi lắp ráp rèn cho em tính kiên nhẫn và óc sáng tạo.",
+        "cau_hoi": [
+          "Vì sao lê-gô còn được gọi là đồ chơi lắp ráp?",
+          "Chơi lê-gô giúp các bạn nhỏ rèn được những đức tính gì?",
+          "Em thích món đồ chơi nào nhất? Hãy giới thiệu nó bằng lời của chính món đồ chơi ấy."
+        ]
+      },
+      "sources": [
+        "https://baigiang.violet.vn/present/lop-2-13499438.html"
+      ],
+      "ly_do": "Bài viết riêng cho SGK mới (KNTT tập 1, bài 22), tác giả đương đại (ghi nguồn là Bảo Châu), còn bản quyền. Làm companion."
+    },
+    {
+      "ten_bai": "Từ chú bồ câu đến in-tơ-nét",
+      "bo_sach": "KNTT",
+      "tac_gia": "",
+      "kind": "companion",
+      "full_text": "",
+      "companion": {
+        "tom_tat": "Bài đọc kể về những cách con người liên lạc với nhau khi ở xa. Ngày xưa, người ta huấn luyện bồ câu để đưa thư, vì bồ câu nhớ đường rất giỏi, có thể bay hàng nghìn cây số mang thư tới đúng nơi cần nhận. Những người đi biển thì bỏ thư vào chai thuỷ tinh, nhờ sóng biển đẩy chai vào đất liền. Ngày nay việc trao đổi tin tức dễ dàng hơn nhiều: ta có thể viết thư, gọi điện, và nhờ có in-tơ-nét còn nhìn thấy được mặt người đang nói chuyện với mình dù hai người ở rất xa nhau.",
+        "nhan_vat": "Đây là bài văn thông tin nên không có nhân vật; bài nói tới chú bồ câu đưa thư, chiếc chai thuỷ tinh thả trôi trên biển và mạng in-tơ-nét ngày nay.",
+        "y_nghia": "Bài đọc cho em thấy con người luôn tìm cách để nối liền khoảng cách, và cuộc sống ngày càng tiện lợi hơn nhờ những phát minh mới.",
+        "cau_hoi": [
+          "Ngày xưa người ta nhờ con vật nào để đưa thư? Vì sao chọn con vật đó?",
+          "Những người đi biển đã gửi thư bằng cách nào?",
+          "Nhờ in-tơ-nét, em có thể làm được những việc gì mà ngày xưa chưa làm được?"
+        ]
+      },
+      "sources": [
+        "https://kenhgiaovien.com/tai-lieu/giao-tieng-viet-2-ket-noi-bai-20-tu-chu-bo-cau-den-net"
+      ],
+      "ly_do": "Văn bản thông tin biên soạn riêng cho SGK mới (KNTT tập 2, bài 20), còn bản quyền, không tìm được nguyên văn ở nguồn ngoài trang soạn bài. Làm companion."
+    },
+    {
+      "ten_bai": "Vè chim",
+      "bo_sach": "KNTT",
+      "tac_gia": "Đồng dao (khuyết danh Việt Nam)",
+      "kind": "recite",
+      "full_text": "Hay chạy lon xon\nLà gà mới nở\nVừa đi vừa nhảy\nLà em sáo xinh\nHay nói linh tinh\nLà con liếu điếu\nHay nghịch hay tếu\nLà cậu chìa vôi\nHay chao đớp mồi\nLà chim chèo bẻo\nTính hay mách lẻo\nThím khách trước nhà\nHay nhặt lân la\nLà bà chim sẻ\nCó tình có nghĩa\nLà mẹ chim sâu\nGiục hè đến mau\nLà cô tu hú\nNhấp nhem buồn ngủ\nLà bác cú mèo.",
+      "companion": {
+        "tom_tat": "",
+        "nhan_vat": "",
+        "y_nghia": "",
+        "cau_hoi": []
+      },
+      "sources": [
+        "https://mamnonhoami.edu.vn/tho-thieu-nhi/ve-chim.html",
+        "https://goiy.vn/ve-chim/",
+        "https://www.thivien.net/Khuy%E1%BA%BFt-danh-Vi%E1%BB%87t-Nam/V%C3%A8-%C4%91%E1%BB%93ng-dao/group-f8BabIiRLSdYEAWq0O13FQ"
+      ],
+      "ly_do": "Vè/đồng dao dân gian khuyết danh (Thi Viện xếp vào 'Vè, đồng dao - Khuyết danh Việt Nam'), thuộc phạm vi công cộng. Nguyên văn lấy từ hai trang thơ độc lập (mamnonhoami.edu.vn, goiy.vn), không dùng trang soạn bài. Hai trang này đều rơi mất chữ 'a' ở dòng 'Có tình có nghĩ'; đã sửa về 'Có tình có nghĩa' theo bản SGK được nhiều nguồn khác trích dẫn và theo vần của bài vè."
+    }
+  ]
+}

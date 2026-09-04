@@ -1,0 +1,230 @@
+{
+  "grade": 2,
+  "chunk": 1,
+  "items": [
+    {
+      "ten_bai": "Khám phá đáy biển ở Trường Sa",
+      "bo_sach": "KNTT",
+      "tac_gia": "",
+      "kind": "companion",
+      "full_text": "",
+      "companion": {
+        "tom_tat": "Bài đọc đưa em đi thăm vùng biển Trường Sa của nước ta. Nhắc tới Trường Sa là nhắc tới biển và đảo. Dưới làn nước có rất nhiều loài cá đẹp rực rỡ; từng đàn cá hàng trăm con bơi sát nhau trông như một tấm thảm hoa đang di chuyển. Quanh mỗi hòn đảo, những rạn san hô trải dài xuống tận đáy biển, tạo nên một bức tranh khổng lồ, đẹp như những toà lâu đài trong truyện cổ tích. Bài giúp em thấy biển đảo quê hương vừa giàu vừa đẹp.",
+        "nhan_vat": "Bài văn thông tin, không có nhân vật; đối tượng được tả là biển đảo Trường Sa, các đàn cá và những rạn san hô.",
+        "y_nghia": "Bài cho em biết đáy biển Trường Sa rất đẹp và có nhiều sinh vật quý. Từ đó em thêm yêu biển đảo quê hương và biết mình phải giữ cho biển sạch, không xả rác, không phá san hô.",
+        "cau_hoi": [
+          "Nhắc đến Trường Sa, người ta thường nhắc đến những gì?",
+          "Đàn cá ở Trường Sa được so sánh với hình ảnh nào?",
+          "Em sẽ làm gì để giữ cho biển luôn sạch và đẹp?"
+        ]
+      },
+      "sources": [
+        "https://vietjack.com/tieng-viet-2-kn/doc-kham-pha-day-bien-o-truong-sa-trang-122-123.jsp"
+      ],
+      "ly_do": "Văn bản thông tin viết riêng cho SGK KNTT lớp 2 tập 2 (trang 122-123), hiện đại, còn bản quyền; không tìm được bản nguyên văn ở nguồn xuất bản độc lập đáng tin -> viết companion, không chép nguyên văn. Nội dung companion đối chiếu với phần trả lời câu hỏi của bài đọc."
+    },
+    {
+      "ten_bai": "Khủng long",
+      "bo_sach": "KNTT",
+      "tac_gia": "",
+      "kind": "companion",
+      "full_text": "",
+      "companion": {
+        "tom_tat": "Bài đọc cho em biết những điều thú vị về khủng long - loài vật khổng lồ từng sống trên Trái Đất từ rất lâu. Khủng long săn mồi rất giỏi nhờ đôi mắt tinh tường, cái mũi và đôi tai thính. Chúng tự vệ tốt nhờ cái đầu cứng và cú quất đuôi dũng mãnh. Chân khủng long thẳng và rất khoẻ nên chúng chạy nhanh. Ngày nay ta không thể gặp khủng long thật vì chúng đã tuyệt chủng từ trước khi loài người xuất hiện.",
+        "nhan_vat": "Bài văn thông tin về loài vật, không có nhân vật; đối tượng chính là loài khủng long.",
+        "y_nghia": "Bài mở rộng hiểu biết của em về thế giới tự nhiên thời xa xưa và giúp em làm quen với cách tả đặc điểm từng bộ phận của con vật (tai thính, mắt tinh tường, đầu cứng, chân khoẻ).",
+        "cau_hoi": [
+          "Những bộ phận nào giúp khủng long săn mồi giỏi?",
+          "Nhờ đâu khủng long tự vệ được?",
+          "Vì sao ngày nay chúng ta không nhìn thấy khủng long thật?"
+        ]
+      },
+      "sources": [
+        "https://vietjack.com/tieng-viet-2-kn/doc-khung-long-trang-42-43.jsp"
+      ],
+      "ly_do": "Văn bản thông tin biên soạn cho SGK KNTT lớp 2 tập 2 (trang 42-43), còn bản quyền, không có nguồn xuất bản độc lập -> companion tự viết, các chi tiết bám theo nội dung bài đọc đã đối chiếu."
+    },
+    {
+      "ten_bai": "Làm việc thật là vui",
+      "bo_sach": "KNTT",
+      "tac_gia": "Tô Hoài",
+      "kind": "companion",
+      "full_text": "",
+      "companion": {
+        "tom_tat": "Bài văn của nhà văn Tô Hoài kể rằng quanh ta ai cũng làm việc. Cái đồng hồ tích tắc báo phút báo giờ; gà trống gáy vang báo trời sắp sáng; chim bắt sâu bảo vệ mùa màng; cả chim cú mèo trong hốc cây cũng làm việc có ích cho đồng ruộng. Bạn nhỏ trong bài cũng bận rộn: làm bài, đi học, quét nhà, nhặt rau, chơi với em đỡ mẹ. Ai cũng bận nhưng lúc nào cũng vui.",
+        "nhan_vat": "Bạn nhỏ trong bài; cùng nhiều 'người bạn' được nhân hoá: cái đồng hồ, gà trống, tu hú, chim sâu, cú mèo.",
+        "y_nghia": "Bài dạy em rằng làm việc khiến mình thấy có ích và thấy vui. Mỗi người, mỗi vật đều có việc riêng của mình, em cũng nên giúp bố mẹ những việc nhỏ vừa sức.",
+        "cau_hoi": [
+          "Trong bài có những con vật nào đang làm việc?",
+          "Bạn nhỏ trong bài đã làm những việc gì?",
+          "Ở nhà, em thường giúp bố mẹ việc gì?"
+        ]
+      },
+      "sources": [
+        "https://vietjack.com/tieng-viet-2-kn/doc-lam-viec-that-la-vui-trang-20-21.jsp"
+      ],
+      "ly_do": "Tác giả Tô Hoài (1920-2014) mất chưa quá 50 năm nên tác phẩm còn bản quyền -> tuyệt đối không chép nguyên văn, chuyển companion; nội dung tóm tắt bám các chi tiết đã đối chiếu trong bài đọc."
+    },
+    {
+      "ten_bai": "Mai An Tiêm",
+      "bo_sach": "KNTT",
+      "tac_gia": "Truyền thuyết Việt Nam (khuyết danh)",
+      "kind": "recite",
+      "full_text": "Ngày xưa, Vua Hùng Vương thứ 18 có nuôi một đứa trẻ thông minh khôi ngô, đặt tên là Mai Yển, hiệu là An Tiêm.\n\nLớn lên, vua cưới vợ cho An Tiêm, và tin dùng ở triều đình. Cậy nhờ ơn Vua cha, nhưng An Tiêm lại kiêu căng cho rằng tự sức mình tài giỏi mới gây dựng được sự nghiệp, chứ chẳng nhờ ai. Lời nói này đến tai vua. Vua cho là An Tiêm là kẻ kiêu bạc vô ơn, bèn đầy An Tiêm cùng vợ con ra một hòn đảo xa, ở ngoài biển Nga Sơn.\n\nNgười vợ là nàng Ba lo sợ sẽ phải chết ở ngoài cù lao cô quạnh. Nhưng An Tiêm thì bình thản nói: \"Trời đã sinh ra ta, sống chết là ở Trời và ở ta, việc gì phải lo\".\n\nHai vợ chồng An Tiêm cùng đứa con đã sống hiu quạnh ở một bãi cát, trên hoang đảo. Họ ra sức khai khẩn, trồng trọt để kiếm sống. Một ngày kia, vào mùa hạ, có một con chim lạ từ phương tây bay đến đậu trên một gò cát. Chim nhả mấy hạt gì xuống đất. Được ít lâu, thì hạt nẩy mầm, mọc dây lá cây lan rộng.\n\nCây nở hoa, kết thành trái to. Rất nhiều trái vỏ xanh, ruột đỏ. An Tiêm bảo vợ: \"Giống cây này tự nhiên không trồng mà có. Tức là vật của Trời nuôi ta đó\". Rồi An Tiêm hái nếm thử, thấy vỏ xanh, ruột đỏ, hột đen, mùi vị thơm và ngon ngọt, mát dịu. An Tiêm bèn lấy hột gieo trồng khắp nơi, sau đó mọc lan ra rất nhiều.\n\nMột ngày kia, có một chiếc tầu bị bão dạt vào cù lao. Mọi người lên bãi cát, thấy có nhiều quả lạ, ngon. Họ đua nhau đổi thực phẩm cho gia đình An Tiêm. Rồi từ đó, tiếng đồn đi là có một giống dưa rất ngon ở trên đảo. Các tầu buôn tấp nập ghé đến đổi chác đủ thứ vật dụng và thực phẩm cho gia đình An Tiêm. Nhờ đó mà gia đình bé nhỏ của An Tiêm trở nên đầy đủ, cuộc sống phong lưu.\n\nVì chim đã mang hột dưa đến từ phương Tây, nên An Tiêm đặt tên cho thứ trái cây này là Tây Qua. Người Tàu ăn thấy ngon, khen là \"hẩu\", nên về sau người ta gọi trại đi là Dưa Hấu.\n\nÍt lâu sau, Vua sai người ra cù lao ngoài biển Nga Sơn dò xét xem gia đình An Tiêm ra làm sao, sống hay chết. Sứ thần về kể lại cảnh sống sung túc và nhàn nhã của vợ chồng An Tiêm, nhà vua ngẫm nghĩ thấy thầm phục đứa con nuôi, bèn cho triệu An Tiêm về phục lại chức vị cũ trong triều đình.\n\nAn Tiêm đem về dâng cho Vua giống dưa hấu mà mình may mắn có được. Rồi phân phát hột dưa cho dân chúng trồng ở những chỗ đất cát, làm giầu thêm cho xứ Việt một thứ trái cây danh tiếng. Hòn đảo mà An Tiêm ở, được gọi là Châu An Tiêm.",
+      "companion": {
+        "tom_tat": "",
+        "nhan_vat": "",
+        "y_nghia": "",
+        "cau_hoi": []
+      },
+      "sources": [
+        "https://vi.wikisource.org/wiki/S%E1%BB%B1_t%C3%ADch_tr%C3%A1i_d%C6%B0a_h%E1%BA%A5u"
+      ],
+      "ly_do": "Truyền thuyết dân gian Việt Nam (Sự tích trái dưa hấu), khuyết danh -> phạm vi công cộng. Lấy nguyên văn từ Wikisource tiếng Việt (bản khuyết danh), không lấy từ trang soạn bài. Giữ nguyên chính tả cũ của bản gốc (\"tầu\", \"giầu\", \"đầy\"); đã bỏ dòng chú xuất xứ trong ngoặc \"(Thanh Hóa, Bắc Việt)\" ở câu về biển Nga Sơn vì là chú thích địa danh chèn giữa câu. LƯU Ý: đây là bản truyền thuyết đầy đủ, dài hơn bản rút gọn in trong SGK KNTT lớp 2 tập 2 trang 92-93 (bản SGK còn bản quyền biên soạn nên không chép)."
+    },
+    {
+      "ten_bai": "Một giờ học",
+      "bo_sach": "KNTT",
+      "tac_gia": "",
+      "kind": "companion",
+      "full_text": "",
+      "companion": {
+        "tom_tat": "Trong giờ học, thầy giáo cho cả lớp tập nói trước lớp về bất cứ điều gì mình thích. Đến lượt Quang, bạn ấy rất lúng túng: nói chuyện với bạn ngồi bên thì dễ, mà đứng trước cả lớp thì khó quá. Thầy giáo kiên nhẫn gợi ý từng câu hỏi nhỏ như \"Sáng nay ngủ dậy em làm gì?\", \"Rồi gì nữa?\", các bạn thì vỗ tay cổ vũ. Nhờ vậy Quang cố gắng nói được mấy câu liền và trở nên tự tin hơn.",
+        "nhan_vat": "Quang - bạn học sinh nhút nhát; thầy giáo kiên nhẫn động viên; các bạn trong lớp cổ vũ.",
+        "y_nghia": "Bài dạy em rằng ai cũng có lúc ngại nói trước đám đông, nhưng nếu chịu cố gắng và được thầy cô, bạn bè khích lệ thì em sẽ mạnh dạn hơn. Đồng thời bài nhắc em biết cổ vũ bạn mình.",
+        "cau_hoi": [
+          "Thầy giáo yêu cầu cả lớp làm gì trong giờ học?",
+          "Vì sao lúc đầu bạn Quang lúng túng?",
+          "Điều gì giúp Quang trở nên tự tin? Khi nói trước lớp, em cảm thấy thế nào?"
+        ]
+      },
+      "sources": [
+        "https://vietjack.com/tieng-viet-2-kn/doc-mot-gio-hoc-trang-27-28.jsp"
+      ],
+      "ly_do": "Truyện viết cho SGK KNTT lớp 2 tập 1 (trang 27-28), tác giả không xác định được chắc chắn nên để trống; văn bản hiện đại còn bản quyền -> companion, không chép nguyên văn."
+    },
+    {
+      "ten_bai": "Nhím nâu kết bạn",
+      "bo_sach": "KNTT",
+      "tac_gia": "",
+      "kind": "companion",
+      "full_text": "",
+      "companion": {
+        "tom_tat": "Nhím nâu rất nhút nhát: gặp ai cũng lúng túng, nói lí nhí, hay nấp vào bụi cây và cuộn tròn người lại. Một buổi sáng đi kiếm quả cây, nhím nâu gặp nhím trắng vui vẻ, thân thiện nhưng còn ngại chưa dám nhận lời kết bạn. Ít lâu sau, trời mưa, nhím nâu chạy vào trú nhờ thì hoá ra đó đúng là nhà nhím trắng. Nhím trắng không hề trách mà còn đón bạn rất niềm nở. Nhím nâu hiểu ra sống một mình thì buồn lắm, liền nhận lời kết bạn. Nhờ có nhau, hai bạn có một mùa đông thật vui vẻ, ấm áp.",
+        "nhan_vat": "Nhím nâu (nhút nhát, hay ngại) và nhím trắng (tốt bụng, cởi mở, thân thiện).",
+        "y_nghia": "Câu chuyện dạy em biết mạnh dạn làm quen và trân trọng tình bạn: có bạn thì mùa đông lạnh cũng thành ấm áp. Bài cũng dạy em cách nói lời xin lỗi và đáp lời xin lỗi cho lịch sự.",
+        "cau_hoi": [
+          "Chi tiết nào cho thấy nhím nâu rất nhút nhát?",
+          "Hai bạn nhím đã gặp nhau mấy lần, trong hoàn cảnh nào?",
+          "Vì sao mùa đông của hai bạn lại vui vẻ, ấm áp?"
+        ]
+      },
+      "sources": [
+        "https://vietjack.com/tieng-viet-2-kn/doc-nhim-nau-ket-ban-trang-89-90.jsp"
+      ],
+      "ly_do": "Truyện đồng thoại biên soạn cho SGK KNTT lớp 2 tập 1 (trang 89-90), hiện đại, còn bản quyền, không có nguồn xuất bản độc lập -> companion tự viết, chi tiết bám theo bài đọc đã đối chiếu."
+    },
+    {
+      "ten_bai": "Những con sao biển",
+      "bo_sach": "KNTT",
+      "tac_gia": "Theo Hạt giống tâm hồn",
+      "kind": "companion",
+      "full_text": "",
+      "companion": {
+        "tom_tat": "Một buổi chiều, người đàn ông đi dạo trên bãi biển đông người thì chú ý tới một cậu bé cứ cúi xuống nhặt thứ gì đó rồi ném xuống biển. Lại gần, ông thấy cậu bé đang nhặt những con sao biển bị thuỷ triều đánh dạt lên bờ và thả chúng trở lại đại dương, vì chúng sắp chết do thiếu nước. Ông bảo: có hàng ngàn con sao biển như thế, liệu cháu giúp được hết không? Cậu bé đáp rằng cháu cũng biết vậy, nhưng ít nhất cháu cũng cứu được những con sao biển này.",
+        "nhan_vat": "Cậu bé tốt bụng, kiên trì; người đàn ông đi dạo trên bãi biển.",
+        "y_nghia": "Bài dạy em rằng việc tốt dù nhỏ vẫn rất đáng làm - không giúp được tất cả thì hãy giúp những gì mình có thể giúp. Bài cũng nhắc em biết yêu quý và bảo vệ sinh vật biển.",
+        "cau_hoi": [
+          "Cậu bé đang làm gì trên bãi biển? Vì sao cậu làm như vậy?",
+          "Người đàn ông đã hỏi cậu bé điều gì?",
+          "Em nghĩ gì về việc làm của cậu bé? Em đã từng giúp một con vật nhỏ nào chưa?"
+        ]
+      },
+      "sources": [
+        "https://vietjack.com/tieng-viet-2-kn/doc-nhung-con-sao-bien-trang-61-62.jsp"
+      ],
+      "ly_do": "Bài đọc trong SGK KNTT lớp 2 tập 2 (trang 61-62) là bản dịch/phỏng theo truyện trong bộ \"Hạt giống tâm hồn\" (gốc là truyện sao biển của phương Tây) -> còn bản quyền dịch và biên soạn, tuyệt đối không chép nguyên văn -> companion."
+    },
+    {
+      "ten_bai": "Những cách chào độc đáo",
+      "bo_sach": "KNTT",
+      "tac_gia": "",
+      "kind": "companion",
+      "full_text": "",
+      "companion": {
+        "tom_tat": "Bài đọc giới thiệu chuyện chào hỏi ở nhiều nơi trên thế giới. Ba cách chào phổ biến nhất là bắt tay, vẫy tay và cúi chào. Ngoài ra mỗi nơi lại có cách chào rất riêng: người Ấn Độ chắp hai tay trước ngực rồi cúi đầu nhẹ; người Ma-ô-ri ở Niu Di-lân chạm nhẹ mũi và trán vào nhau; người Dim-ba-bu-ê thì vỗ tay để chào. Cuối bài, tác giả hỏi lại các bạn nhỏ: \"Còn em, em chào bạn bằng cách nào?\"",
+        "nhan_vat": "Bài văn thông tin, không có nhân vật; nói về cách chào của người dân nhiều nước.",
+        "y_nghia": "Bài mở rộng hiểu biết của em về các nền văn hoá khác nhau và nhắc em rằng chào hỏi là phép lịch sự ở khắp mọi nơi. Ở Việt Nam, em thường khoanh tay chào ông bà, thầy cô.",
+        "cau_hoi": [
+          "Ba cách chào phổ biến trên thế giới là gì?",
+          "Người Ấn Độ và người Ma-ô-ri chào nhau như thế nào?",
+          "Em thường chào ông bà, thầy cô và bạn bè bằng cách nào?"
+        ]
+      },
+      "sources": [
+        "https://vietjack.com/tieng-viet-2-kn/doc-nhung-cach-chao-doc-dao-trang-77-78.jsp"
+      ],
+      "ly_do": "Văn bản thông tin biên soạn cho SGK KNTT lớp 2 tập 2 (trang 77-78), còn bản quyền, không tìm được nguồn xuất bản độc lập -> companion; các chi tiết (Ấn Độ, Ma-ô-ri, Dim-ba-bu-ê) đối chiếu từ phần luyện tập của bài."
+    },
+    {
+      "ten_bai": "Niềm vui của Bi và Bống",
+      "bo_sach": "KNTT",
+      "tac_gia": "",
+      "kind": "companion",
+      "full_text": "",
+      "companion": {
+        "tom_tat": "Mưa vừa tạnh, hai anh em Bi và Bống nhìn thấy cầu vồng hiện lên rất đẹp. Bi kể rằng dưới chân cầu vồng có bảy hũ vàng. Hai anh em thích thú bàn nhau: nếu có bảy hũ vàng, Bi sẽ mua một con ngựa hồng và một cái ô tô, còn Bống sẽ mua búp bê và quần áo đẹp. Nhưng rồi cầu vồng tan mất, chẳng có hũ vàng nào cả. Hai anh em vẫn cười vui: Bống bảo sẽ lấy bút màu vẽ tặng anh ngựa hồng và ô tô, còn Bi bảo sẽ vẽ tặng em búp bê và quần áo đủ các màu.",
+        "nhan_vat": "Hai anh em Bi (anh) và Bống (em gái).",
+        "y_nghia": "Câu chuyện cho thấy tình cảm anh em rất đẹp: hai bạn luôn nghĩ đến nhau và muốn làm cho nhau vui. Niềm vui thật sự không phải là có nhiều vàng, mà là được yêu thương và tặng quà cho người thân.",
+        "cau_hoi": [
+          "Nếu có bảy hũ vàng, Bi và Bống sẽ mua gì?",
+          "Khi không có hũ vàng, hai anh em đã nghĩ ra cách gì để làm nhau vui?",
+          "Em đã từng tự tay làm hoặc vẽ món quà tặng ai chưa?"
+        ]
+      },
+      "sources": [
+        "https://vietjack.com/tieng-viet-2-kn/doc-niem-vui-cua-bi-va-bong-trang-17-18.jsp"
+      ],
+      "ly_do": "Truyện viết cho SGK KNTT lớp 2 tập 1 (trang 17-18), tác giả không xác định được nên để trống; văn bản hiện đại còn bản quyền -> companion, không chép nguyên văn."
+    },
+    {
+      "ten_bai": "Rồng rắn lên mây",
+      "bo_sach": "KNTT",
+      "tac_gia": "",
+      "kind": "companion",
+      "full_text": "",
+      "companion": {
+        "tom_tat": "Đây là bài đọc hướng dẫn chơi một trò chơi dân gian quen thuộc. Năm, sáu bạn túm áo nhau xếp thành hàng làm \"rồng rắn\", một bạn đóng vai thầy thuốc đứng đối diện. Rồng rắn vừa đi vừa đọc bài đồng dao rồi hỏi thầy thuốc có nhà hay không. Nếu thầy nói \"không\" thì rồng rắn đi tiếp; nếu thầy nói \"có\" thì rồng rắn xin thuốc cho con và thầy bắt đầu đuổi bắt khúc đuôi, còn bạn làm khúc đầu dang tay ra cản. Nếu bạn khúc đuôi bị bắt thì phải đổi vai làm thầy thuốc; nếu hàng bị đứt ở giữa thì bạn đó phải làm đuôi.",
+        "nhan_vat": "Không có nhân vật truyện; bài nói về những người chơi trong trò chơi: bạn làm thầy thuốc, bạn làm khúc đầu, các bạn làm khúc giữa và khúc đuôi.",
+        "y_nghia": "Bài giúp em biết cách chơi một trò chơi dân gian của trẻ em Việt Nam, thấy trò chơi tập thể vừa vui vừa rèn sự nhanh nhẹn và tinh thần đoàn kết. Bài cũng giúp em tập nói câu có \"nếu... thì...\".",
+        "cau_hoi": [
+          "Những người chơi làm thành rồng rắn bằng cách nào?",
+          "Rồng rắn đến gặp thầy thuốc để làm gì?",
+          "Nếu bạn khúc đuôi bị thầy thuốc bắt được thì chuyện gì xảy ra?"
+        ]
+      },
+      "sources": [
+        "https://vietjack.com/tieng-viet-2-kn/doc-rong-ran-len-may-trang-101-102.jsp",
+        "https://vi.wikipedia.org/wiki/R%E1%BB%93ng_r%E1%BA%AFn_l%C3%AAn_m%C3%A2y"
+      ],
+      "ly_do": "Bài đọc SGK KNTT lớp 2 tập 1 (trang 101-102) KHÔNG phải bài đồng dao cổ mà là văn bản hướng dẫn cách chơi, do người biên soạn SGK viết -> còn bản quyền, chuyển companion. (Bài đồng dao dân gian cùng tên là phạm vi công cộng nhưng không phải văn bản của bài học này nên không đưa vào full_text.)"
+    },
+    {
+      "ten_bai": "Sự tích cây thì là",
+      "bo_sach": "KNTT",
+      "tac_gia": "Truyện cổ tích Việt Nam (khuyết danh)",
+      "kind": "recite",
+      "full_text": "Ngày xưa, cây cối trên trái đất đều chưa có tên gọi. Trời bèn gọi các cây lên để đặt cho mỗi loại cây một cái tên. Nghe tin đó, đám cây cối mừng lắm và mỗi loại đều cử một cây lên trời để nhận tên.\n\nLên đến trời, trên một bãi rộng, các cây to, nhỏ, cao, thấp đứng chen chúc nhau. Trời ngồi trên một gò cao, lần lượt đặt tên cho các cây to rồi đến cây nhỏ. Trời trỏ tay vào từng cây và đặt tên:\n\n– Chú thì ta đặt tên cho là cây dừa;\n– Chú thì ta đặt tên cho là cây cau;\n– Chú thì đặt tên cho là cây mít;\n– Chú thì tên là cây nhãn;\n– Chú thì tên là cây hồng…\n\nTrời nói mãi, mỏi cả mồm mà vẫn chưa hết.\n\nVì vậy, lúc đầu trời còn nói câu dài. Về sau, trời chỉ nói vắn tắt:\n\n– Chú thì là cây cải;\n– Chú là cây ớt;\n– Chú là cây tỏi…\n\nKhi tất cả các loài cây đều đã có tên, trời tưởng hết, bỗng còn một cây tiến đến chỗ trời để xin đặt tên. Trời nhìn thấy một cây nhỏ xíu như que hương, thân mảnh khảnh, lá lăn tăn. Trời hỏi:\n\n– Chú bé tí xíu, có ích gì mà cũng xin đặt tên?\n\nCây nhỏ liền thưa:\n\n– Thưa Trời, con rất có ích. Khi nấu canh riêu cá hoặc làm các món ăn như chả cá, chả mực mà không có con thì mất cả ngon.\n\nTrời liền bảo:\n\n– Ừ, ta sẽ nghĩ cho một cái tên. Tên chú thì… là…\n\nTrời còn đang suy nghĩ, chưa biết nên đặt tên là gì, khi nhìn xuống thì cây nhỏ đã chạy đi xa rồi. Nó mừng rỡ nói với bạn bè: Trời đặt cho tôi là cây \"Thì Là\"!",
+      "companion": {
+        "tom_tat": "",
+        "nhan_vat": "",
+        "y_nghia": "",
+        "cau_hoi": []
+      },
+      "sources": [
+        "https://thegioicotich.vn/su-tich-cay-thi-la/"
+      ],
+      "ly_do": "Truyện cổ tích dân gian Việt Nam, khuyết danh -> phạm vi công cộng. Bản nguyên văn lấy từ trang truyện cổ tích (không phải trang soạn bài), và trang này ghi rõ xuất xứ \"Tiếng Việt 2, tập 1, trang 129, NXB Giáo dục - 1988\" nên khớp với bản quen dùng trong nhà trường. Đã bỏ các dòng chú thích ảnh của website, không có chú thích số, không có câu hỏi cuối bài, không có dòng metadata."
+    }
+  ]
+}
