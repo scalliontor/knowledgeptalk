@@ -1,0 +1,443 @@
+[
+ {
+  "ten_bai": "Kiến và chim bồ câu",
+  "bo_sach": "KNTT",
+  "grade": 1,
+  "tac_gia": "Truyện ngụ ngôn Ê-dốp (Aesop)",
+  "kind": "recite",
+  "ly_do": "Ngu ngon E-dop - pham vi cong cong, thuoc dien duoc phep recite. Van ban lay tu trang dang truyen (Thegioicotich), lien mach, sach HTML, khong chu thich so, khong lan cau hoi cuoi bai, khong metadata NXB.",
+  "sources": [
+   "https://thegioicotich.vn/kien-va-chim-bo-cau/"
+  ],
+  "_errs": [
+   "thiếu căn cứ CÔNG CỘNG trong ly_do",
+   "recite chỉ 1 nguồn (cần >=2 để đối chiếu)"
+  ]
+ },
+ {
+  "ten_bai": "Không nên phá tổ chim",
+  "bo_sach": "Sách cũ",
+  "grade": 1,
+  "tac_gia": "Quốc văn giáo khoa thư",
+  "kind": "recite",
+  "ly_do": "Quoc van giao khoa thu (Tran Trong Kim - Nguyen Van Ngoc, 1935; cac tac gia deu mat tren 50 nam) => pham vi cong cong. Lay nguyen van tu trang dang lai tac pham (gpcantho.com), KHONG lay tu trang soan bai. Text lien mach, sach HTML, khong chu thich so, khong cau hoi cuoi bai.",
+  "sources": [
+   "https://gpcantho.com/16875-2/",
+   "https://vietbao.com/a62566/quoc-van-giao-khoa-thu-khong-nen-pha-to-chim"
+  ],
+  "_errs": [
+   "thiếu căn cứ CÔNG CỘNG trong ly_do"
+  ]
+ },
+ {
+  "ten_bai": "Nói dối hại thân",
+  "bo_sach": "Sách cũ",
+  "grade": 1,
+  "tac_gia": "Lép Tôn-xtôi",
+  "kind": "recite",
+  "ly_do": "Ngu ngon E-dop (chu be chan cuu va con soi), ban ke lai gan cho Lep Ton-xtoi (mat 1910, >50 nam) => pham vi cong cong. LUU Y: khong tim duoc ban chu SGK cu 'Noi doi hai than' tren trang dang tac pham; text nap la ban SGK Tieng Viet 1 KNTT 'Chu be chan cuu' cua CUNG truyen ngu ngon, lay tu trang dang lai SGK (sachgiaokhoa.online), khong phai trang soan bai. Noi dung khop, chi khac chut cau chu so voi ban sach cu.",
+  "sources": [
+   "https://sachgiaokhoa.online/lop-1-1/ket-noi-tri-thuc-voi-cuoc-song-3/chu-de-5-bai-hoc-tu-cuoc-song-172/bai-4-chu-be-chan-cuu-275.html",
+   "https://vi.wikibooks.org/wiki/Ng%E1%BB%A5_ng%C3%B4n_Aesop/Ch%C3%BA_b%C3%A9_ch%C4%83n_c%E1%BB%ABu_v%C3%A0_con_s%C3%B3i"
+  ],
+  "_errs": [
+   "thiếu căn cứ CÔNG CỘNG trong ly_do"
+  ]
+ },
+ {
+  "ten_bai": "Tặng cháu",
+  "bo_sach": "Sách cũ",
+  "grade": 1,
+  "tac_gia": "Hồ Chí Minh",
+  "kind": "recite",
+  "ly_do": "Ho Chi Minh mat 1969 (>50 nam) => pham vi cong cong; ban tho co tren Wikisource. Nguyen van 4 dong lay tu Thi Vien / Wikisource (trang dang tac pham). Giu nguyen xuong dong tho that ngon tu tuyet.",
+  "sources": [
+   "https://www.thivien.net/H%E1%BB%93-Ch%C3%AD-Minh/T%E1%BA%B7ng-ch%C3%A1u-N%C3%B4ng-Th%E1%BB%8B-Tr%C6%B0ng/poem-POZs7Gdo5XOtE4WPaPXA5Q",
+   "https://vi.wikisource.org/wiki/T%E1%BA%B7ng_ch%C3%A1u_N%C3%B4ng_Th%E1%BB%8B_Tr%C6%B0ng"
+  ],
+  "_errs": [
+   "thiếu căn cứ CÔNG CỘNG trong ly_do"
+  ]
+ },
+ {
+  "ten_bai": "Mai An Tiêm",
+  "bo_sach": "KNTT",
+  "grade": 2,
+  "tac_gia": "Truyền thuyết Việt Nam (khuyết danh)",
+  "kind": "recite",
+  "ly_do": "Truyền thuyết dân gian Việt Nam (Sự tích trái dưa hấu), khuyết danh -> phạm vi công cộng. Lấy nguyên văn từ Wikisource tiếng Việt (bản khuyết danh), không lấy từ trang soạn bài. Giữ nguyên chính tả cũ của bản gốc (\"tầu\", \"giầu\", \"đầy\"); đã bỏ dòng chú xuất xứ trong ngoặc \"(Thanh Hóa, Bắc Việt)\" ở câu về biển Nga Sơn vì là chú thích địa danh chèn giữa câu. LƯU Ý: đây là bản truyền thuyết đầy đủ, dài hơn bản rút gọn in trong SGK KNTT lớp 2 tập 2 trang 92-93 (bản SGK còn bản quyền biên soạn nên không chép).",
+  "sources": [
+   "https://vi.wikisource.org/wiki/S%E1%BB%B1_t%C3%ADch_tr%C3%A1i_d%C6%B0a_h%E1%BA%A5u"
+  ],
+  "_errs": [
+   "recite chỉ 1 nguồn (cần >=2 để đối chiếu)"
+  ]
+ },
+ {
+  "ten_bai": "Rồng rắn lên mây",
+  "bo_sach": "KNTT",
+  "grade": 2,
+  "tac_gia": "",
+  "kind": "companion",
+  "ly_do": "Bài đọc SGK KNTT lớp 2 tập 1 (trang 101-102) KHÔNG phải bài đồng dao cổ mà là văn bản hướng dẫn cách chơi, do người biên soạn SGK viết -> còn bản quyền, chuyển companion. (Bài đồng dao dân gian cùng tên là phạm vi công cộng nhưng không phải văn bản của bài học này nên không đưa vào full_text.)",
+  "sources": [
+   "https://vietjack.com/tieng-viet-2-kn/doc-rong-ran-len-may-trang-101-102.jsp",
+   "https://vi.wikipedia.org/wiki/R%E1%BB%93ng_r%E1%BA%AFn_l%C3%AAn_m%C3%A2y"
+  ],
+  "_errs": [
+   "trích nguyên văn dài trong ngoặc kép(132 ký tự)"
+  ]
+ },
+ {
+  "ten_bai": "Sự tích cây thì là",
+  "bo_sach": "KNTT",
+  "grade": 2,
+  "tac_gia": "Truyện cổ tích Việt Nam (khuyết danh)",
+  "kind": "recite",
+  "ly_do": "Truyện cổ tích dân gian Việt Nam, khuyết danh -> phạm vi công cộng. Bản nguyên văn lấy từ trang truyện cổ tích (không phải trang soạn bài), và trang này ghi rõ xuất xứ \"Tiếng Việt 2, tập 1, trang 129, NXB Giáo dục - 1988\" nên khớp với bản quen dùng trong nhà trường. Đã bỏ các dòng chú thích ảnh của website, không có chú thích số, không có câu hỏi cuối bài, không có dòng metadata.",
+  "sources": [
+   "https://thegioicotich.vn/su-tich-cay-thi-la/"
+  ],
+  "_errs": [
+   "recite chỉ 1 nguồn (cần >=2 để đối chiếu)"
+  ]
+ },
+ {
+  "ten_bai": "Thư viện biết đi",
+  "bo_sach": "KNTT",
+  "grade": 2,
+  "tac_gia": "",
+  "kind": "companion",
+  "ly_do": "Văn bản thông tin viết riêng cho SGK mới (KNTT tập 2, bài 18), tác giả đương đại, còn bản quyền. Không tìm được nguyên văn ở nguồn đáng tin nào ngoài các trang soạn bài, nên làm companion.",
+  "sources": [
+   "https://kenhgiaovien.com/tai-lieu/giao-tieng-viet-2-ket-noi-bai-18-thu-vien-biet-di"
+  ],
+  "_errs": [
+   "trích nguyên văn dài trong ngoặc kép(508 ký tự)"
+  ]
+ },
+ {
+  "ten_bai": "Bác sĩ Sói",
+  "bo_sach": "Sách cũ",
+  "grade": 2,
+  "tac_gia": "Phỏng theo La Phông-ten (Huỳnh Lý dịch)",
+  "kind": "recite",
+  "ly_do": "Ngụ ngôn La Phông-ten (mất 1695) - thuộc nhóm được phép recite theo quy tắc, cùng chuẩn với 'Sư Tử xuất quân' đã recite ở chunk 4. Nguyên văn lấy từ cungtien.com (blog chép lại bài tập đọc SGK TV2 tập 2, tuần 23, trang 41 - KHÔNG phải trang soạn bài/giải bài tập). Đã bỏ nhãn 'Đoạn 1/2/3', chú thích từ ngữ và câu hỏi cuối bài; chuẩn hoá dấu thoại về '–'. Đối chiếu 2 câu mốc ('Thấy Ngựa đang ăn cỏ, Sói thèm rỏ dãi' / 'tung vó đá một cú trời giáng... mũ văng ra') khớp với trích dẫn độc lập. LƯU Ý: bản tiếng Việt là bản phỏng dịch của Huỳnh Lý (mất 1993) - nếu nhà mình siết chuẩn theo dịch giả thì nên hạ xuống companion.",
+  "sources": [
+   "https://www.cungtien.com/2021/05/bac-si-soi-lop-2-tuan-23-trang-41-tieng.html"
+  ],
+  "_errs": [
+   "recite chỉ 1 nguồn (cần >=2 để đối chiếu)"
+  ]
+ },
+ {
+  "ten_bai": "Có công mài sắt, có ngày nên kim",
+  "bo_sach": "Sách cũ",
+  "grade": 2,
+  "tac_gia": "Truyện ngụ ngôn",
+  "kind": "recite",
+  "ly_do": "Truyện dân gian / ngụ ngôn khuyết danh (SGK ghi tác giả là 'Truyện ngụ ngôn') -> phạm vi công cộng. Nguyên văn bài tập đọc SGK TV2 tập 1, tuần 1, trang 4. Đối chiếu 3 nguồn không phải trang soạn bài (cungtien.com, blog lehoduchau, trang trường mầm non Thạch Cầu): nội dung trùng khớp. Đã bỏ nhãn số đoạn, dấu chú thích (*) và câu hỏi; trả lời thoại về dạng gạch đầu dòng như SGK (nguồn cungtien in bằng ngoặc kép). Chọn 'Giống như cháu đi học' (2/3 nguồn) thay vì 'Cũng như cháu đi học' (1 nguồn).",
+  "sources": [
+   "https://www.cungtien.com/2019/12/co-cong-mai-sat-co-ngay-nen-kim-bai-oc.html",
+   "http://lehoduchau.blogspot.com/2017/04/co-cong-mai-sat-co-ngay-nen-kim-tieng.html",
+   "https://mnthachcau.hanoi.edu.vn/tho-truyen-cau-do/truyen-co-cong-mai-sat-co-ngay-nen-kim/ctmb/3814/653840"
+  ],
+  "_errs": [
+   "RÁC soạn-bài trong nguyên văn('trả lời:')"
+  ]
+ },
+ {
+  "ten_bai": "Mít làm thơ",
+  "bo_sach": "Sách cũ",
+  "grade": 2,
+  "tac_gia": "Nô-xốp (Nikolai Nosov) - Vũ Ngọc Bình dịch",
+  "kind": "recite",
+  "ly_do": "Nikolai Nosov (23/11/1908 - 26/7/1976) mất đã hơn 50 năm tính đến 9/2026 -> đủ tiêu chí 'tác giả mất trên 50 năm' (cùng chuẩn với Tú Mỡ mất 13/7/1976 đã recite ở chunk 2). Nguyên văn phần 1 của bài (SGK TV2 tập 1, tuần 3, trang 25) lấy từ cungtien.com - blog chép bài tập đọc, không phải trang soạn bài. Đã bỏ dòng xuất xứ 'Theo Nê-Xốp (Vũ Ngọc Bình dịch)', bỏ dấu '(Còn nữa)' và câu hỏi cuối bài; chuẩn hoá dấu thoại '–'. LƯU Ý: đây là phần 1; SGK còn bài 'Mít làm thơ (tiếp theo)' ở tuần 4 chưa nạp. Bản dịch của Vũ Ngọc Bình về lý thuyết vẫn còn bảo hộ - nếu nhà mình siết chuẩn theo dịch giả thì hạ xuống companion.",
+  "sources": [
+   "https://www.cungtien.com/2019/12/mit-lam-tho-lop-2.html"
+  ],
+  "_errs": [
+   "thiếu căn cứ CÔNG CỘNG trong ly_do",
+   "recite chỉ 1 nguồn (cần >=2 để đối chiếu)"
+  ]
+ },
+ {
+  "ten_bai": "Những quả đào",
+  "bo_sach": "Sách cũ",
+  "grade": 2,
+  "tac_gia": "Phỏng theo Lép Tôn-xtôi",
+  "kind": "recite",
+  "ly_do": "Phỏng theo Lép Tôn-xtôi (mất 1910) — thuộc nhóm ngụ ngôn/truyện Tolstoy được phép recite. Lấy nguyên văn từ cungtien.com (trang chép lại bài tập đọc SGK TV2 tập 2, tuần 29, trang 91), KHÔNG phải trang soạn bài/giải bài tập. Fetch 2 lần cho ra text trùng khớp. Đã bỏ chú thích từ ngữ, bỏ 3 câu hỏi cuối bài, bỏ metadata; chuẩn hoá dấu gạch đầu dòng lời thoại theo lối SGK (– ), không đổi một chữ nào.",
+  "sources": [
+   "https://www.cungtien.com/2021/05/nhung-qua-ao-lop-2-tuan-29-trang-91.html"
+  ],
+  "_errs": [
+   "recite chỉ 1 nguồn (cần >=2 để đối chiếu)"
+  ]
+ },
+ {
+  "ten_bai": "Phần thưởng",
+  "bo_sach": "Sách cũ",
+  "grade": 2,
+  "tac_gia": "Phỏng theo Blai-tơn",
+  "kind": "recite",
+  "ly_do": "Blai-tơn = Enid Blyton, mất 28/11/1968 → đã hơn 50 năm, khớp tiêu chí 'tác giả mất trên 50 năm' (VN bảo hộ đời + 50 năm). Nguyên văn lấy từ cungtien.com (chép bài tập đọc SGK TV2 tập 1, tuần 2, trang 13), fetch 2 lần trùng khớp; đã bỏ tiêu đề phụ do trình đọc tự thêm, bỏ chú thích và câu hỏi. LƯU Ý REVIEW: đây là bản 'phỏng theo' tiếng Việt, người phỏng theo không được ghi tên; nếu chuẩn duyệt chỉ chấp nhận đúng 4 nhóm liệt kê (dân gian VN / ca dao / Ê-dốp - La Fontaine - Tolstoy) thì lật bài này sang companion.",
+  "sources": [
+   "https://www.cungtien.com/2019/12/phanthuong.html"
+  ],
+  "_errs": [
+   "recite chỉ 1 nguồn (cần >=2 để đối chiếu)"
+  ]
+ },
+ {
+  "ten_bai": "Tìm ngọc",
+  "bo_sach": "Sách cũ",
+  "grade": 2,
+  "tac_gia": "Nguyễn Đổng Chi",
+  "kind": "recite",
+  "ly_do": "Truyện cổ tích dân gian Việt Nam (Nguyễn Đổng Chi kể lại trong Kho tàng truyện cổ tích Việt Nam, gốc là 'Con chó, con mèo và anh chàng nghèo khổ') — thuộc phạm vi công cộng theo nhóm truyện cổ tích VN. Nguyên văn bản rút gọn dùng trong SGK TV2 tập 1 tuần 17 trang 138, lấy từ cungtien.com; đã bỏ câu hỏi và chú thích từ ngữ.",
+  "sources": [
+   "https://www.cungtien.com/2021/05/tim-ngoc-lop-2-tuan-17-trang-138-tieng.html"
+  ],
+  "_errs": [
+   "recite chỉ 1 nguồn (cần >=2 để đối chiếu)"
+  ]
+ },
+ {
+  "ten_bai": "Cái cầu",
+  "bo_sach": "Sách cũ",
+  "grade": 3,
+  "tac_gia": "Phạm Tiến Duật",
+  "kind": "companion",
+  "ly_do": "Tác giả Phạm Tiến Duật (1941 - 04/12/2007) mới mất 19 năm, tác phẩm còn trong thời hạn bảo hộ -> KHÔNG chép nguyên văn dù tìm được bản thơ. Tự viết companion; các hình ảnh nhắc lại (cầu tơ nhện, cầu ngọn gió, cầu lá tre, cầu treo, cầu ao, cầu Hàm Rồng sông Mã) là dữ kiện nội dung đã đối chiếu, không phải trích thơ.",
+  "sources": [
+   "https://haylamdo.com/tieng-viet-3-cd/cai-cau-trang-84-85.jsp",
+   "https://lop3.vn/bai-giang-tap-doc-lop-3-cai-cau-pham-tien-duat-5486/"
+  ],
+  "_errs": [
+   "trích nguyên văn dài trong ngoặc kép(268 ký tự)"
+  ]
+ },
+ {
+  "ten_bai": "Sự tích chú Cuội cung trăng",
+  "bo_sach": "Sách cũ",
+  "grade": 3,
+  "tac_gia": "Truyện cổ Việt Nam",
+  "kind": "recite",
+  "ly_do": "Truyen co tich dan gian Viet Nam, khong co tac gia -> PHAM VI CONG CONG. Lay nguyen van tu trang truyen co tich (khong phai trang soan bai), da lam sach: bo dong 'Nguon:', sua loi bang ma D-gach (U+00D0 -> U+0110), khong chu thich so, khong cau hoi cuoi bai. LUU Y CHO NGUOI RA SOAT: day la BAN DAY DU (Kho tang truyen co tich Viet Nam); SGK lop 3 dung ban rut gon 3 doan. Hai doan 'bon giac moi ruot vo Cuoi' va 'doan noi ve viec vo Cuoi dai vao goc cay' co chi tiet manh, nen can nhac truoc khi doc cho hoc sinh lop 3.",
+  "sources": [
+   "https://truyencotich.vn/truyen-co-tich/co-tich-viet-nam/su-tich-chu-cuoi-cung-trang.html"
+  ],
+  "_errs": [
+   "thiếu căn cứ CÔNG CỘNG trong ly_do",
+   "recite chỉ 1 nguồn (cần >=2 để đối chiếu)"
+  ]
+ },
+ {
+  "ten_bai": "Âm thanh thành phố",
+  "bo_sach": "Sách cũ",
+  "grade": 3,
+  "tac_gia": "Tô Ngọc Hiến",
+  "kind": "companion",
+  "ly_do": "Trich 'Ki niem ve mot nha may' cua To Ngoc Hien - nha van Viet Nam the ki XX, tac pham con ban quyen. Khong chep nguyen van -> COMPANION tu viet.",
+  "sources": [
+   "https://vndoc.com/tap-doc-lop-3-am-thanh-thanh-pho-138614",
+   "https://vndoc.com/huong-dan-cam-thu-van-hoc-lop-3-bai-am-thanh-thanh-pho-153820"
+  ],
+  "_errs": [
+   "trích nguyên văn dài trong ngoặc kép(539 ký tự)"
+  ]
+ },
+ {
+  "ten_bai": "Cái cầu",
+  "bo_sach": "KNTT",
+  "grade": 4,
+  "tac_gia": "Phạm Tiến Duật",
+  "kind": "companion",
+  "ly_do": "Bài 22, SGK TV4 KNTT tập 2 (khoảng trang 102-103). Tác giả Phạm Tiến Duật (1941-2007) mất năm 2007, CHƯA quá 50 năm -> còn bản quyền, không đưa nguyên văn thơ. Viết companion bằng lời riêng; nội dung/hình ảnh đối chiếu qua trang soạn bài.",
+  "sources": [
+   "https://vietjack.com/tieng-viet-4-kn/bai-22-cai-cau.jsp",
+   "https://mytour.vn/vi/blog/bai-viet/doc-bai-cai-cau-trong-sach-tieng-viet-4-ket-noi-tri-thuc-bai-22.html"
+  ],
+  "_errs": [
+   "TRÙNG với cap1b_g3_c1.json",
+   "trích nguyên văn dài trong ngoặc kép(161 ký tự)"
+  ]
+ },
+ {
+  "ten_bai": "Cây đa quê hương",
+  "bo_sach": "KNTT",
+  "grade": 4,
+  "tac_gia": "Nguyễn Khắc Viện",
+  "kind": "companion",
+  "ly_do": "Bài 17, SGK TV4 KNTT tập 2 trang 80, ghi 'Theo Nguyễn Khắc Viện'. Nguyễn Khắc Viện (1913-1997) mất năm 1997, mới 29 năm - CHƯA quá 50 năm -> còn bản quyền, không chép nguyên văn. Companion viết bằng lời riêng, chi tiết đối chiếu từ trang soạn bài.",
+  "sources": [
+   "https://sachbaitap.com/giai-bai-cay-da-que-huong-trang-81-82-tieng-viet-4-tap-2-ket-noi-tri-thuc-c190a28157.html",
+   "https://loigiaihay.com/bai-17-cay-da-que-huong-trang-80-sgk-tieng-viet-lop-4-tap-2-ket-noi-tri-thuc-voi-cuoc-song-a137924.html"
+  ],
+  "_errs": [
+   "TRÙNG với cap1b_g2_c3.json"
+  ]
+ },
+ {
+  "ten_bai": "Gặt chữ trên non",
+  "bo_sach": "KNTT",
+  "grade": 4,
+  "tac_gia": "Bích Ngọc",
+  "kind": "companion",
+  "ly_do": "Bài 15, SGK TV4 KNTT tập 1 trang 63. Tác giả Bích Ngọc là nhà thơ đương đại (còn sống) -> bài thơ còn bản quyền, KHÔNG chép nguyên văn. Companion viết bằng lời riêng; hình ảnh/ý thơ đối chiếu qua trang soạn bài.",
+  "sources": [
+   "https://download.vn/doc-gat-chu-tren-non-67937",
+   "https://vndoc.com/doc-hieu-bai-gat-chu-tren-non-lop-4-ket-noi-tri-thuc-363251"
+  ],
+  "_errs": [
+   "trích nguyên văn dài trong ngoặc kép(614 ký tự)"
+  ]
+ },
+ {
+  "ten_bai": "Thi nhạc",
+  "bo_sach": "KNTT",
+  "grade": 4,
+  "tac_gia": "Nguyễn Phan Hách",
+  "kind": "companion",
+  "ly_do": "Tác giả Nguyễn Phan Hách (1944-2019) mới mất 7 năm, tác phẩm còn bản quyền -> companion tự viết. Trang soạn-bài chỉ dùng đối chiếu tác giả và diễn biến.",
+  "sources": [
+   "https://vietjack.com/tieng-viet-4-kn/doc-thi-nhac.jsp"
+  ],
+  "_errs": [
+   "trích nguyên văn dài trong ngoặc kép(63 ký tự)"
+  ]
+ },
+ {
+  "ten_bai": "Tờ báo tường của tôi",
+  "bo_sach": "KNTT",
+  "grade": 4,
+  "tac_gia": "Nguyễn Luân",
+  "kind": "companion",
+  "ly_do": "Truyện của tác giả đương đại Nguyễn Luân, còn bản quyền -> companion. Không chép nguyên văn từ trang soạn-bài.",
+  "sources": [
+   "https://vietjack.com/tieng-viet-4-kn/doc-to-bao-tuong-cua-toi.jsp"
+  ],
+  "_errs": [
+   "trích nguyên văn dài trong ngoặc kép(205 ký tự)"
+  ]
+ },
+ {
+  "ten_bai": "Hoa học trò",
+  "bo_sach": "Sách cũ",
+  "grade": 4,
+  "tac_gia": "Xuân Diệu",
+  "kind": "companion",
+  "ly_do": "Tập đọc SGK Tiếng Việt 4 (chương trình cũ) tập 2, trang 43-44, ghi 'Theo XUÂN DIỆU'. Xuân Diệu (1916-1985) mất 41 năm - CHƯA quá 50 năm nên tác phẩm vẫn còn bản quyền theo quy tắc đã thống nhất; vì vậy KHÔNG recite, chuyển companion tự viết. Nội dung đối chiếu qua bản đăng lại trên thohay.vn.",
+  "sources": [
+   "https://thohay.vn/hoa-hoc-tro.html"
+  ],
+  "_errs": [
+   "trích nguyên văn dài trong ngoặc kép(475 ký tự)"
+  ]
+ },
+ {
+  "ten_bai": "Vương quốc vắng nụ cười",
+  "bo_sach": "Sách cũ",
+  "grade": 4,
+  "tac_gia": "Trần Đức Tiến",
+  "kind": "companion",
+  "ly_do": "Tập đọc SGK Tiếng Việt 4 (chương trình cũ) tập 2, trang 132-133 và 143, ghi 'Theo TRẦN ĐỨC TIẾN'. Trần Đức Tiến (1953-2023) là nhà văn đương đại, tác phẩm CÒN BẢN QUYỀN nên không chép nguyên văn; viết companion.",
+  "sources": [
+   "https://thohay.vn/vuong-quoc-vang-nu-cuoi.html",
+   "https://truyencotich.top/doc-truyen/vuong-quoc-vang-nu-cuoi"
+  ],
+  "_errs": [
+   "trích nguyên văn dài trong ngoặc kép(801 ký tự)"
+  ]
+ },
+ {
+  "ten_bai": "Giới thiệu sách Dế Mèn phiêu lưu kí",
+  "bo_sach": "KNTT",
+  "grade": 5,
+  "tac_gia": "Huy Quang (giới thiệu cuốn sách của nhà văn Tô Hoài)",
+  "kind": "companion",
+  "ly_do": "Bài đọc SGK Tiếng Việt 5 KNTT tập 1, ghi nguồn \"Theo Huy Quang\"; cuốn sách được giới thiệu là của Tô Hoài (mất 2014). Cả bài giới thiệu lẫn tác phẩm gốc đều CÒN BẢN QUYỀN nên chỉ làm companion.",
+  "sources": [
+   "https://vietjack.com/tieng-viet-5-kn/tgtp-gioi-thieu-sach-de-men-phieu-luu-ki.jsp",
+   "https://www.vietjack.com/tieng-viet-5-kn/doc-lop-5-ket-noi-tri-thuc.jsp"
+  ],
+  "_errs": [
+   "RÁC soạn-bài trong phần giảng('nội dung chính')"
+  ]
+ },
+ {
+  "ten_bai": "Hành tinh kì lạ",
+  "bo_sach": "KNTT",
+  "grade": 5,
+  "tac_gia": "Viết Linh",
+  "kind": "companion",
+  "ly_do": "Bài đọc SGK Tiếng Việt 5 KNTT tập 1, ghi nguồn \"Theo Viết Linh\" - nhà văn viễn tưởng thiếu nhi hiện đại, tác phẩm CÒN BẢN QUYỀN; làm companion.",
+  "sources": [
+   "https://vietjack.com/tieng-viet-5-kn/tgtp-hanh-tinh-ki-la.jsp",
+   "https://vietjack.com/tieng-viet-5-kn/doc-hanh-tinh-ki-la.jsp"
+  ],
+  "_errs": [
+   "trích nguyên văn dài trong ngoặc kép(411 ký tự)"
+  ]
+ },
+ {
+  "ten_bai": "Kì diệu rừng xanh",
+  "bo_sach": "KNTT",
+  "grade": 5,
+  "tac_gia": "Nguyễn Phan Hách",
+  "kind": "companion",
+  "ly_do": "Bài đọc SGK Tiếng Việt 5 KNTT tập 1, ghi nguồn \"Theo Nguyễn Phan Hách\" - nhà văn mất năm 2019, tác phẩm CÒN BẢN QUYỀN (chưa quá 50 năm) nên không chép nguyên văn.",
+  "sources": [
+   "https://vietjack.com/tieng-viet-5-kn/tgtp-ki-dieu-rung-xanh.jsp",
+   "https://www.vietjack.com/tieng-viet-5-kn/doc-lop-5-ket-noi-tri-thuc.jsp"
+  ],
+  "_errs": [
+   "trích nguyên văn dài trong ngoặc kép(481 ký tự)"
+  ]
+ },
+ {
+  "ten_bai": "Thanh âm của gió",
+  "bo_sach": "KNTT",
+  "grade": 5,
+  "tac_gia": "Văn Thành Lê",
+  "kind": "companion",
+  "ly_do": "Tác giả Văn Thành Lê là nhà văn đương đại (sinh 1986), tác phẩm còn bản quyền -> companion tự viết.",
+  "sources": [
+   "https://vietjack.com/tieng-viet-5-kn/doc-thanh-am-cua-gio.jsp"
+  ],
+  "_errs": [
+   "trích nguyên văn dài trong ngoặc kép(66 ký tự)"
+  ]
+ },
+ {
+  "ten_bai": "Tiếng hạt nảy mầm",
+  "bo_sach": "KNTT",
+  "grade": 5,
+  "tac_gia": "Tô Hà",
+  "kind": "companion",
+  "ly_do": "Bài 5, SGK Tiếng Việt 5 KNTT tập 1. Tác giả Tô Hà (1939-1991) mất năm 1991, mới ~35 năm, CHƯA quá 50 năm -> thơ còn bản quyền, KHÔNG chép nguyên văn. Viết companion bằng lời riêng, hình ảnh chỉ đối chiếu qua trang soạn bài.",
+  "sources": [
+   "https://vietjack.com/tieng-viet-5-kn/bai-5-tieng-hat-nay-mam.jsp",
+   "https://vietjack.com/tieng-viet-5-kn/index.jsp"
+  ],
+  "_errs": [
+   "trích nguyên văn dài trong ngoặc kép(436 ký tự)"
+  ]
+ },
+ {
+  "ten_bai": "Đàn t'rưng – tiếng ca đại ngàn",
+  "bo_sach": "KNTT",
+  "grade": 5,
+  "tac_gia": "Ay Dun và Lê Tấn (bài đọc SGK ghi \"Theo Ay Dun và Lê Tấn\")",
+  "kind": "companion",
+  "ly_do": "Bài đọc mới của SGK Kết nối tri thức lớp 5 tập 2 (Bài 13, trang 61-62), ghi nguồn \"Theo Ay Dun và Lê Tấn\" - tác giả đương đại, văn bản còn bản quyền -> không chép nguyên văn, tự viết companion. Trang soạn-bài chỉ dùng để ĐỐI CHIẾU tên tác giả và nội dung.",
+  "sources": [
+   "https://vietjack.com/tieng-viet-5-kn/doc-dan-trung-tieng-ca-dai-ngan.jsp",
+   "https://vietjack.com/tieng-viet-5-kn/index.jsp"
+  ],
+  "_errs": [
+   "trích nguyên văn dài trong ngoặc kép(827 ký tự)"
+  ]
+ }
+]

@@ -535,6 +535,59 @@
   ]
  },
  {
+  "ten_bai": "Hoa học trò",
+  "bo_sach": "Sách cũ",
+  "tac_gia": "Xuân Diệu",
+  "kind": "companion",
+  "full_text": "",
+  "companion": {
+   "tom_tat": "Bài văn tả hoa phượng - loài hoa gắn với tuổi học trò. Tác giả nói phượng không phải là một đoá, một vài cành, mà là cả một loạt, cả một vùng, cả một góc trời đỏ rực; những tán hoa lớn xoè ra như muôn ngàn con bướm thắm đậu khít nhau. Mùa xuân, phượng ra lá xanh um, mát rượi, ngon lành như lá me non, lúc đầu còn e ấp rồi dần dần xoè ra cho gió đưa đẩy. Cậu học trò mải học nên vô tâm quên mất màu lá phượng, đến khi hoa nở thì ngạc nhiên trông lên. Màu hoa từ đỏ còn non chuyển dần sang đậm, rồi hoà nhịp với mặt trời chói lọi mà 'kêu vang': hè đã đến, khắp thành phố rực lên như ngày Tết nhà nhà dán câu đối đỏ.",
+   "nhan_vat": "Bài văn miêu tả nên không có nhân vật truyện; hình ảnh trung tâm là cây phượng - hoa phượng, bên cạnh là 'cậu học trò' với những cảm xúc buồn vui của mùa thi, mùa chia tay.",
+   "y_nghia": "Bài đọc ca ngợi vẻ đẹp độc đáo của hoa phượng và giải thích vì sao phượng được gọi là 'hoa học trò': hoa nở báo hiệu mùa hè, mùa thi và mùa chia tay, nên vừa vui vừa buồn trong lòng người học sinh. Bài cũng rèn cho các em khả năng quan sát và tưởng tượng khi miêu tả cây cối.",
+   "cau_hoi": [
+    "Vì sao tác giả gọi hoa phượng là 'hoa học trò'?",
+    "Màu hoa phượng thay đổi như thế nào theo thời gian trong bài?",
+    "Ở sân trường em có cây gì? Cây ấy báo hiệu mùa nào trong năm?"
+   ]
+  },
+  "sources": [
+   "https://thohay.vn/hoa-hoc-tro.html"
+  ],
+  "ly_do": "Tập đọc SGK Tiếng Việt 4 (chương trình cũ) tập 2, trang 43-44, ghi 'Theo XUÂN DIỆU'. Xuân Diệu (1916-1985) mất 41 năm - CHƯA quá 50 năm nên tác phẩm vẫn còn bản quyền theo quy tắc đã thống nhất; vì vậy KHÔNG recite, chuyển companion tự viết. Nội dung đối chiếu qua bản đăng lại trên thohay.vn.",
+  "_file": "cap1b_g4_c3.json",
+  "grade": 4,
+  "_errs": [
+   "trích nguyên văn dài trong ngoặc kép(475 ký tự)"
+  ]
+ },
+ {
+  "ten_bai": "Vương quốc vắng nụ cười",
+  "bo_sach": "Sách cũ",
+  "tac_gia": "Trần Đức Tiến",
+  "kind": "companion",
+  "full_text": "",
+  "companion": {
+   "tom_tat": "Ngày xưa có một vương quốc buồn chán kinh khủng chỉ vì cư dân ở đó không ai biết cười: mặt trời không muốn dậy, chim không muốn hót, hoa chưa nở đã tàn, ra đường chỉ gặp những gương mặt rầu rĩ, héo hon. Nhà vua nhận ra mối nguy cơ ấy nên cử một viên đại thần đi du học chuyên về môn cười, nhưng một năm sau ông ta trở về và thú nhận là 'học không vào'. Cả triều đình đang ỉu xìu thì viên thị vệ bắt được một cậu bé chừng mười tuổi đang cười sằng sặc ngoài đường. Cậu bé chỉ ra những chuyện buồn cười ngay trước mắt: nhà vua quên lau miệng còn dính hạt cơm, quan coi vườn ngự uyển giấu quả táo cắn dở căng phồng trong túi áo, còn chính cậu thì đứng lom khom vì bị đuổi cuống quá nên đứt dải rút. Cả triều đình được mẻ cười vỡ bụng, và tiếng cười lây lan làm cả vương quốc thay đổi: hoa bắt đầu nở, chim bắt đầu hót, vương quốc u buồn thoát khỏi nguy cơ tàn lụi.",
+   "nhan_vat": "Nhà vua, viên đại thần đi du học môn cười, viên thị vệ, quan coi vườn ngự uyển, và cậu bé chừng mười tuổi tóc để trái đào.",
+   "y_nghia": "Câu chuyện nói lên sự cần thiết của tiếng cười trong cuộc sống: tiếng cười làm cho con người và cả thiên nhiên trở nên tươi vui, khiến cuộc sống có sức sống. Truyện cũng nhắc rằng niềm vui đến từ những điều rất giản dị, hồn nhiên quanh ta chứ không phải từ những chuyến 'du học' cầu kì.",
+   "cau_hoi": [
+    "Vì sao vương quốc trong truyện lại buồn chán đến thế?",
+    "Cậu bé đã kể ra những chuyện buồn cười nào khiến cả triều đình bật cười?",
+    "Theo em, vì sao người ta nói 'tiếng cười thật dễ lây'? Hôm nay em đã cười vì chuyện gì?"
+   ]
+  },
+  "sources": [
+   "https://thohay.vn/vuong-quoc-vang-nu-cuoi.html",
+   "https://truyencotich.top/doc-truyen/vuong-quoc-vang-nu-cuoi"
+  ],
+  "ly_do": "Tập đọc SGK Tiếng Việt 4 (chương trình cũ) tập 2, trang 132-133 và 143, ghi 'Theo TRẦN ĐỨC TIẾN'. Trần Đức Tiến (1953-2023) là nhà văn đương đại, tác phẩm CÒN BẢN QUYỀN nên không chép nguyên văn; viết companion.",
+  "_file": "cap1b_g4_c3.json",
+  "grade": 4,
+  "_errs": [
+   "trích nguyên văn dài trong ngoặc kép(801 ký tự)"
+  ]
+ },
+ {
   "ten_bai": "Giới thiệu sách Dế Mèn phiêu lưu kí",
   "bo_sach": "KNTT",
   "tac_gia": "Huy Quang (giới thiệu cuốn sách của nhà văn Tô Hoài)",
