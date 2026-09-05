@@ -1,0 +1,71 @@
+{
+ "batch": "cap1_alias_w2_2026_09_05",
+ "aliases": [
+  {
+   "work": "Từ chú bồ câu đến in-tơ-nét",
+   "alias": "tu chu bo cau den internet",
+   "e": "4:0cceace6-57b6-4b47-9237-0610c336edf3:1292659"
+  },
+  {
+   "work": "Khu bảo tồn động vật hoang dã Ngô-rông-gô-rô",
+   "alias": "khu bao ton dong vat hoang da ngorongoro",
+   "e": "4:0cceace6-57b6-4b47-9237-0610c336edf3:1292660"
+  },
+  {
+   "work": "Cái gì quý nhất?",
+   "alias": "cai gi quy nhat",
+   "e": "4:0cceace6-57b6-4b47-9237-0610c336edf3:1292661"
+  }
+ ],
+ "renamed": [],
+ "refused": [
+  {
+   "work": "Từ chú bồ câu đến in-tơ-nét",
+   "alias": "tu chu bo cau den",
+   "errs": [
+    "alias TRÙNG work_name_norm đã có",
+    "alias nằm trong 1 bài khác: ['tu chu bo cau den']"
+   ]
+  },
+  {
+   "work": "Khu bảo tồn động vật hoang dã Ngô-rông-gô-rô",
+   "alias": "khu bao ton dong vat hoang da",
+   "errs": [
+    "alias TRÙNG work_name_norm đã có",
+    "alias nằm trong 1 bài khác: ['khu bao ton dong vat hoang da']"
+   ]
+  },
+  {
+   "work": "Tinh thần học tập của nhà Phi-lít",
+   "alias": "tinh than hoc tap cua nha",
+   "errs": [
+    "alias TRÙNG work_name_norm đã có",
+    "alias nằm trong 1 bài khác: ['tinh than hoc tap cua nha']"
+   ]
+  },
+  {
+   "work": "Bước mùa xuân",
+   "alias": "buoc xuan",
+   "errs": [
+    "alias TRÙNG work_name_norm đã có",
+    "alias nằm trong 1 bài khác: ['buoc xuan']"
+   ]
+  },
+  {
+   "work": "Phim hoạt hình Chú ốc sên bay",
+   "alias": "chu oc sen bay",
+   "errs": [
+    "alias TRÙNG work_name_norm đã có",
+    "alias nằm trong 1 bài khác: ['chu oc sen bay']"
+   ]
+  },
+  {
+   "work": "Ngu Công xã Trịnh Tường",
+   "alias": "ngu cong diet trinh tuong",
+   "errs": [
+    "alias TRÙNG work_name_norm đã có",
+    "alias nằm trong 1 bài khác: ['ngu cong diet trinh tuong']"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,420 @@
+{
+ "scope": "cap23",
+ "chunk": 2,
+ "items": [
+  {
+   "ten_bai": "Buổi chiều đứng ở phủ Thiên Trường trông ra",
+   "bo_sach": "Sách cũ",
+   "lop": "Lớp 7",
+   "tac_gia": "Trần Nhân Tông",
+   "kind": "recite",
+   "full_text": "Phiên âm:\n\nThôn hậu thôn tiền đạm tự yên,\nBán vô bán hữu tịch dương biên.\nMục đồng địch lí quy ngưu tận,\nBạch lộ song song phi hạ điền.\n\nDịch nghĩa:\n\nSau thôn, trước thôn đều mờ mờ như khói phủ,\nBên bóng chiều, cảnh vật nửa như có, nửa như không.\nMục đồng lùa trâu về hết, trong tiếng sáo,\nTừng đôi cò trắng bay xuống đồng.\n\nDịch thơ:\n\nTrước xóm sau thôn tựa khói lồng,\nBóng chiều man mác có dường không.\nMục đồng sáo vẳng trâu về hết,\nCò trắng từng đôi liệng xuống đồng.\n\n(NGÔ TẤT TỐ dịch)",
+   "companion": {"tom_tat": "", "nhan_vat": "", "y_nghia": "", "cau_hoi": []},
+   "sources": [
+    "https://vi.wikisource.org/wiki/Thi%C3%AAn_Tr%C6%B0%E1%BB%9Dng_v%C3%A3n_v%E1%BB%8Dng",
+    "https://tuyensinh247.com/bai-tap-585561.html",
+    "https://hoc247.net/ngu-van-7/buoi-chieu-dung-o-phu-thien-truong-trong-ra-tran-nhan-tong-l2946.html"
+   ],
+   "ly_do": "Trần Nhân Tông (1258-1308) mất năm 1308, vua thứ ba đời Trần, đây là thơ văn cổ (chữ Hán) thuộc phạm vi công cộng tuyệt đối. Bản dịch thơ là của Ngô Tất Tố (1894-1954), mất năm 1954, đã 72 năm, vượt xa thời hạn bảo hộ 50 năm sau khi tác giả mất, nên bản dịch cũng thuộc phạm vi công cộng. Đối chiếu phiên âm + dịch thơ giữa Wikisource tiếng Việt và 2 nguồn độc lập khác; các bản khớp nhau hoàn toàn về câu chữ."
+  },
+  {
+   "ten_bai": "Những câu hát về tình cảm gia đình",
+   "bo_sach": "Sách cũ",
+   "lop": "Lớp 7",
+   "tac_gia": "Ca dao, dân ca",
+   "kind": "recite",
+   "full_text": "Bài 1:\n\nCông cha như núi ngất trời,\nNghĩa mẹ như nước ở ngoài biển Đông.\nNúi cao biển rộng mênh mông,\nCù lao chín chữ ghi lòng con ơi!\n\nBài 2:\n\nChiều chiều ra đứng ngõ sau,\nTrông về quê mẹ ruột đau chín chiều.\n\nBài 3:\n\nNgó lên nuộc lạt mái nhà,\nBao nhiêu nuộc lạt nhớ ông bà bấy nhiêu.\n\nBài 4:\n\nAnh em nào phải người xa,\nCùng chung bác mẹ, một nhà cùng thân.\nYêu nhau như thể tay chân,\nAnh em hoà thuận, hai thân vui vầy.",
+   "companion": {"tom_tat": "", "nhan_vat": "", "y_nghia": "", "cau_hoi": []},
+   "sources": [
+    "https://www.thivien.net/Khuy%E1%BA%BFt-danh-Vi%E1%BB%87t-Nam/Anh-em-n%C3%A0o-ph%E1%BA%A3i-ng%C6%B0%E1%BB%9Di-xa/poem-ua_Qs8j2r7h74oTEo-Socg",
+    "https://hoc247.net/ngu-van-7/ca-dao-dan-ca-nhung-cau-hat-ve-tinh-cam-gia-dinh-l2933.html",
+    "https://loigiaihay.com/phan-tich-cau-ca-dao-sau-chieu-chieu-ra-dung-ngo-sau-trong-ve-que-me-ruot-dau-chin-chieu-c34a1455.html"
+   ],
+   "ly_do": "Ca dao, dân ca Việt Nam, khuyết danh, lưu truyền trong dân gian qua truyền miệng từ trước thế kỉ XX, thuộc phạm vi công cộng tuyệt đối (tác phẩm dân gian không có tác giả cá nhân giữ quyền). SGK Ngữ văn 7 tập 1 (2006) ghi nguồn 'Ca dao, dân ca'. Đối chiếu 3 nguồn độc lập (Thi Viện - mục Khuyết danh Việt Nam + 2 nguồn khác), 4 bài khớp nhau hoàn toàn về câu chữ."
+  },
+  {
+   "ten_bai": "Sau phút chia li",
+   "bo_sach": "Sách cũ",
+   "lop": "Lớp 7",
+   "tac_gia": "Đặng Trần Côn · bản dịch Đoàn Thị Điểm",
+   "kind": "recite",
+   "full_text": "Chàng thì đi cõi xa mưa gió,\nThiếp thì về buồng cũ chiếu chăn.\nĐoái trông theo đã cách ngăn,\nTuôn màu mây biếc, trải ngàn núi xanh.\nChốn Hàm Dương chàng còn ngoảnh lại,\nBến Tiêu Tương thiếp hãy trông sang.\nKhói Tiêu Tương cách Hàm Dương,\nCây Hàm Dương cách Tiêu Tương mấy trùng.\nCùng trông lại mà cùng chẳng thấy,\nThấy xanh xanh những mấy ngàn dâu.\nNgàn dâu xanh ngắt một màu,\nLòng chàng ý thiếp ai sầu hơn ai?",
+   "companion": {"tom_tat": "", "nhan_vat": "", "y_nghia": "", "cau_hoi": []},
+   "sources": [
+    "https://download.vn/phan-tich-doan-trich-sau-phut-chia-li-38428",
+    "https://www.elib.vn/hoc-tap/sau-phut-chia-li-trich-chinh-phu-ngam-khuc-24099.html",
+    "https://hoc247.net/ngu-van-7/soan-bai-sau-phut-chia-li-doan-thi-diem-l2951.html"
+   ],
+   "ly_do": "Nguyên tác chữ Hán 'Chinh phụ ngâm khúc' của Đặng Trần Côn (đầu thế kỉ XVIII); bản diễn Nôm SGK dùng tương truyền của Đoàn Thị Điểm (1705-1748) - giới nghiên cứu cũng có thuyết cho là của Phan Huy Ích (1751-1822). Dù theo thuyết nào, cả hai dịch giả đều mất cách đây hơn 200 năm, vượt rất xa thời hạn bảo hộ 50 năm sau khi tác giả mất => nguyên tác lẫn bản dịch Nôm đều thuộc phạm vi công cộng (thơ văn cổ). Đối chiếu 3 nguồn độc lập, đoạn trích 12 câu khớp nhau hoàn toàn."
+  },
+  {
+   "ten_bai": "Nỗi thương mình",
+   "bo_sach": "Sách cũ",
+   "lop": "Lớp 10",
+   "tac_gia": "Nguyễn Du",
+   "kind": "recite",
+   "full_text": "Biết bao bướm lả ong lơi,\nCuộc say đầy tháng trận cười suốt đêm.\nDập dìu lá gió cành chim,\nSớm đưa Tống Ngọc tối tìm Trường Khanh.\nKhi tỉnh rượu lúc tàn canh,\nGiật mình mình lại thương mình xót xa.\nKhi sao phong gấm rủ là,\nGiờ sao tan tác như hoa giữa đường.\nMặt sao dày gió dạn sương,\nThân sao bướm chán ong chường bấy thân.\nMặc người mưa Sở mây Tần,\nNhững mình nào biết có xuân là gì.\nĐòi phen gió tựa hoa kề,\nNửa rèm tuyết ngậm bốn bề trăng thâu.\nCảnh nào cảnh chẳng đeo sầu,\nNgười buồn cảnh có vui đâu bao giờ.\nĐòi phen nét vẽ câu thơ,\nCung cầm trong nguyệt, nước cờ dưới hoa.\nVui là vui gượng kẻo là,\nAi tri âm đó, mặn mà với ai?",
+   "companion": {"tom_tat": "", "nhan_vat": "", "y_nghia": "", "cau_hoi": []},
+   "sources": [
+    "https://www.thivien.net/Nguy%E1%BB%85n-Du/H%E1%BB%93i-11-Ki%E1%BB%81u-%E1%BB%9F-l%E1%BA%A7u-xanh/poem-MRu3RMEYWM7jX1EPNTR3FA",
+    "https://tuyensinh247.com/bai-tap-446778.html",
+    "https://hoc247.net/ngu-van-10/truyen-kieu-phan-noi-thuong-minh-l3314.html"
+   ],
+   "ly_do": "Nguyễn Du (1765-1820) mất năm 1820, đã hơn 200 năm. Đây là đoạn trích câu 1229-1248 nguyên tác tiếng Việt (chữ Nôm) của chính Nguyễn Du trong Truyện Kiều, chỉ chuyển tự sang quốc ngữ, không qua một dịch giả trung gian nào giữ quyền phái sinh => thuộc phạm vi công cộng tuyệt đối (thơ văn cổ). Đối chiếu 3 nguồn độc lập (Thi Viện mục Hồi 11 Kiều ở lầu xanh + 2 nguồn khác trích dẫn nguyên câu), khớp nhau hoàn toàn."
+  },
+  {
+   "ten_bai": "Đại cáo bình Ngô",
+   "bo_sach": "Sách cũ",
+   "lop": "Lớp 10",
+   "tac_gia": "Nguyễn Trãi",
+   "kind": "recite",
+   "full_text": "Từng nghe:\nViệc nhân nghĩa cốt ở yên dân,\nQuân điếu phạt trước lo trừ bạo.\nNhư nước Đại Việt ta từ trước,\nVốn xưng nền văn hiến đã lâu,\nNúi sông bờ cõi đã chia,\nPhong tục Bắc Nam cũng khác.\nTừ Triệu, Đinh, Lý, Trần bao đời gây nền độc lập,\nCùng Hán, Đường, Tống, Nguyên mỗi bên xưng đế một phương.\nTuy mạnh yếu từng lúc khác nhau,\nSong hào kiệt đời nào cũng có.\nCho nên:\nLưu Cung tham công nên thất bại,\nTriệu Tiết thích lớn phải tiêu vong,\nCửa Hàm Tử bắt sống Toa Đô,\nSông Bạch Đằng giết tươi Ô Mã.\nViệc xưa xem xét,\nChứng cứ còn ghi.\n\n(BÙI KỶ dịch, trích đoạn mở đầu)",
+   "companion": {"tom_tat": "", "nhan_vat": "", "y_nghia": "", "cau_hoi": []},
+   "sources": [
+    "https://vi.wikisource.org/wiki/B%C3%ACnh_Ng%C3%B4_%C4%91%E1%BA%A1i_c%C3%A1o_(B%C3%B9i_K%E1%BB%B7_d%E1%BB%8Bch)",
+    "https://www.thivien.net/Nguy%E1%BB%85n-Tr%C3%A3i/B%C3%ACnh-Ng%C3%B4-%C4%91%E1%BA%A1i-c%C3%A1o/poem-mLEGY5d9nFI0RH280X-vIQ",
+    "https://tuyensinh247.com/bai-tap-452248.html"
+   ],
+   "ly_do": "Nguyễn Trãi (1380-1442) mất năm 1442. Bản dịch tiếng Việt là của Bùi Kỷ (1888-1960), mất năm 1960, đã 66 năm, vượt thời hạn bảo hộ 50 năm sau khi tác giả mất => cả nguyên tác chữ Hán lẫn bản dịch đều thuộc phạm vi công cộng (thơ văn cổ, đúng dịch giả nêu ví dụ trong hướng dẫn). CHỈ lấy đoạn mở đầu (phần tuyên ngôn độc lập, từ 'Từng nghe' đến 'Chứng cứ còn ghi') vì đây là đoạn được đối chiếu xác thực chắc chắn qua nhiều nguồn độc lập trùng khớp từng chữ; không suy diễn thêm các đoạn sau (phần kể tội giặc Minh, diễn biến khởi nghĩa) để tránh sai lệch câu chữ khi không có bản quét SGK trực tiếp để đối chiếu."
+  },
+  {
+   "ten_bai": "Vọng nguyệt",
+   "bo_sach": "KNTT",
+   "lop": "Lớp 12",
+   "tac_gia": "Hồ Chí Minh",
+   "kind": "recite",
+   "full_text": "Phiên âm:\n\nNgục trung vô tửu diệc vô hoa,\nĐối thử lương tiêu nại nhược hà?\nNhân hướng song tiền khán minh nguyệt,\nNguyệt tòng song khích khán thi gia.\n\nDịch nghĩa:\n\nTrong tù không rượu cũng không hoa,\nTrước cảnh đẹp đêm nay biết làm thế nào?\nNgười hướng ra trước song ngắm trăng sáng,\nTừ ngoài khe cửa, trăng ngắm nhà thơ.\n\nDịch thơ:\n\nTrong tù không rượu cũng không hoa,\nCảnh đẹp đêm nay khó hững hờ.\nNgười ngắm trăng soi ngoài cửa sổ,\nTrăng nhòm khe cửa ngắm nhà thơ.\n\n(NAM TRÂN dịch)",
+   "companion": {"tom_tat": "", "nhan_vat": "", "y_nghia": "", "cau_hoi": []},
+   "sources": [
+    "https://www.thivien.net/H%E1%BB%93-Ch%C3%AD-Minh/V%E1%BB%8Dng-nguy%E1%BB%87t/poem-5rhhpzHYKx4bI46F3xhIQA",
+    "https://vi.wikisource.org/wiki/V%E1%BB%8Dng_nguy%E1%BB%87t"
+   ],
+   "ly_do": "Hồ Chí Minh (1890-1969) mất năm 1969, đã 57 năm, vượt thời hạn bảo hộ 50 năm sau khi tác giả mất => nguyên tác (chữ Hán, trong Nhật ký trong tù) thuộc phạm vi công cộng. Bản dịch thơ là của Nam Trân (Nguyễn Học Sỹ, 1907-1967), mất năm 1967, đã 59 năm, cũng vượt thời hạn bảo hộ => bản dịch cũng thuộc phạm vi công cộng. Đối chiếu 2 nguồn độc lập (Thi Viện + Wikisource tiếng Việt), phiên âm/dịch nghĩa/dịch thơ khớp nhau hoàn toàn."
+  },
+  {
+   "ten_bai": "Cầu Long Biên – chứng nhân lịch sử",
+   "bo_sach": "Sách cũ",
+   "lop": "Lớp 6",
+   "tac_gia": "Thuý Lan",
+   "kind": "companion",
+   "full_text": "",
+   "companion": {
+    "tom_tat": "Bài bút kí kể về cầu Long Biên - cây cầu bắc qua sông Hồng do Pháp xây dựng đầu thế kỷ 20, được nhân hoá như một 'nhân chứng sống' đã chứng kiến bao thăng trầm của Hà Nội suốt hơn một thế kỷ: từ những ngày đầu xây dựng, qua Cách mạng tháng Tám, hai cuộc kháng chiến với những trận bom đạn ác liệt, cho đến nhịp sống bình yên hôm nay.",
+    "nhan_vat": "Cầu Long Biên (được nhân hoá như một nhân vật trữ tình), tác giả - người kể chuyện gắn bó với cây cầu.",
+    "y_nghia": "Qua hình ảnh cây cầu chứng kiến lịch sử, bài viết khơi dậy niềm tự hào, tình yêu Hà Nội và ý thức gìn giữ những chứng tích lịch sử của dân tộc.",
+    "cau_hoi": [
+     "Cầu Long Biên đã chứng kiến những sự kiện lịch sử nào của Hà Nội?",
+     "Vì sao tác giả gọi cầu Long Biên là 'chứng nhân lịch sử'?",
+     "Em hãy kể tên một công trình gần nơi em ở cũng có thể coi là chứng nhân lịch sử.",
+     "Biện pháp nhân hoá trong bài giúp em cảm nhận cây cầu như thế nào?"
+    ]
+   },
+   "sources": [
+    "https://loigiaihay.com/cau-long-bien-chung-nhan-lich-su-thuy-lan-a85364.html",
+    "https://www.vietjack.com/ngu-van-6/cau-long-bien-chung-nhan-lich-su.jsp",
+    "https://doctailieu.com/soan-van-bai-cau-long-bien-chung-nhan-lich-su-thuy-lan"
+   ],
+   "ly_do": "Bút kí hiện đại của tác giả Thuý Lan, đăng trên báo Người Hà Nội (SGK Ngữ văn 6 tập 2, chương trình 2006). Không tra được thông tin tác giả đã mất; tác phẩm hiện đại nên còn nguyên thời hạn bảo hộ bản quyền => COMPANION, tự viết tóm tắt/ý nghĩa/câu hỏi bằng lời riêng, không chép nguyên văn."
+  },
+  {
+   "ten_bai": "Nghìn năm tháp Khương Mỹ",
+   "bo_sach": "KNTT",
+   "lop": "Lớp 6",
+   "tac_gia": "Lam Linh",
+   "kind": "companion",
+   "full_text": "",
+   "companion": {
+    "tom_tat": "Bài du kí ghi lại chuyến đi của tác giả đến thăm cụm tháp Khương Mỹ - một nhóm ba ngôi tháp Chăm cổ ở xã Tam Xuân I, huyện Núi Thành, tỉnh Quảng Nam, được xây dựng từ cuối thế kỷ 9 đầu thế kỷ 10 và công nhận là di tích quốc gia năm 1989. Tác giả miêu tả kiến trúc gạch nung độc đáo và vẻ đẹp hoang sơ, tĩnh lặng của quần thể tháp qua hơn nghìn năm.",
+    "nhan_vat": "Tác giả Lam Linh - người kể chuyện trong bài du kí; đối tượng miêu tả chính là quần thể tháp Khương Mỹ.",
+    "y_nghia": "Bài viết giúp người đọc hiểu thêm về một di sản kiến trúc Chăm-pa cổ của Việt Nam, khơi gợi ý thức trân trọng, giữ gìn các di tích lịch sử - văn hoá của dân tộc.",
+    "cau_hoi": [
+     "Tháp Khương Mỹ nằm ở tỉnh nào và được xây dựng vào khoảng thời gian nào?",
+     "Tác giả cảm nhận vẻ đẹp của tháp Khương Mỹ ra sao qua bài du kí?",
+     "Vì sao cần bảo tồn những di tích kiến trúc cổ như tháp Khương Mỹ?",
+     "Em đã từng đến thăm di tích lịch sử nào ở quê em chưa?"
+    ]
+   },
+   "sources": [
+    "https://vietjack.me/nghin-nam-thap-khuong-my-ngu-van-lop-6-ket-noi-tri-thuc-53568.html",
+    "https://vietjack.com/soan-van-lop-6-kn/tac-gia-tac-pham-nghin-nam-thap-khuong-my.jsp",
+    "https://m.hoc247.net/ngu-van-6/soan-bai-thuc-hanh-doc-nghin-nam-thap-khuong-my-l10843.html"
+   ],
+   "ly_do": "Du kí hiện đại của tác giả Lam Linh (SGK Ngữ văn 6 KNTT tập 1, bài Thực hành đọc). Tác giả đương đại, không có thông tin đã mất, tác phẩm còn trong thời hạn bảo hộ bản quyền => COMPANION, tự viết tóm tắt/ý nghĩa/câu hỏi, không chép nguyên văn bài du kí."
+  },
+  {
+   "ten_bai": "Tiếng cười không muốn nghe",
+   "bo_sach": "KNTT",
+   "lop": "Lớp 6",
+   "tac_gia": "Minh Đăng",
+   "kind": "companion",
+   "full_text": "",
+   "companion": {
+    "tom_tat": "Văn bản nghị luận bàn về một loại tiếng cười tiêu cực - tiếng cười giễu cợt, mỉa mai, khinh miệt người khác khi họ có khiếm khuyết hay sai sót. Tác giả phân tích vì sao kiểu cười ấy gây tổn thương, đồng thời kêu gọi mỗi người nên thay thế nó bằng sự cảm thông, thấu hiểu và góp ý chân thành.",
+    "nhan_vat": "Không có nhân vật cụ thể; bài viết mang tính nghị luận xã hội, hướng tới mỗi người đọc trong ứng xử hằng ngày.",
+    "y_nghia": "Bài viết nhắc nhở con người cần sống bao dung, thấu hiểu những khiếm khuyết của người khác thay vì chế giễu, vì không ai hoàn hảo tuyệt đối.",
+    "cau_hoi": [
+     "Vì sao tác giả cho rằng có một loại tiếng cười 'không muốn nghe'?",
+     "Thái độ đúng đắn trước khiếm khuyết của người khác nên là gì?",
+     "Em đã bao giờ buồn vì bị người khác cười chê chưa, em cảm thấy thế nào?",
+     "Làm thế nào để góp ý cho bạn mà không khiến bạn tổn thương?"
+    ]
+   },
+   "sources": [
+    "https://voh.com.vn/hoc-tap/ly-thuyet-sgk-kntt-ngu-van-6-tieng-cuoi-khong-muon-nghe.4733.634.283",
+    "https://vietjack.com/soan-van-lop-6-kn/tieng-cuoi-khong-muon-nghe.jsp",
+    "https://hoc24.vn/ly-thuyet/thuc-hanh-doc-tieng-cuoi-khong-muon-nghe-minh-dang.74732"
+   ],
+   "ly_do": "Văn bản nghị luận hiện đại của tác giả Minh Đăng (SGK Ngữ văn 6 KNTT tập 2, bài Thực hành đọc). Tác giả đương đại, không có thông tin đã mất, còn trong thời hạn bảo hộ bản quyền => COMPANION, tự viết tóm tắt/ý nghĩa/câu hỏi bằng lời riêng."
+  },
+  {
+   "ten_bai": "Câu chuyện về con đường",
+   "bo_sach": "KNTT",
+   "lop": "Lớp 7",
+   "tac_gia": "Đoàn Công Lê Huy",
+   "kind": "companion",
+   "full_text": "",
+   "companion": {
+    "tom_tat": "Văn bản nghị luận của nhà báo Đoàn Công Lê Huy, trích từ tập sách Viết cho những điều bé nhỏ - Gửi em, mây trắng (2016), bàn về hình ảnh con đường như một ẩn dụ cho hành trình trưởng thành, lập thân lập nghiệp của mỗi người trẻ, với những lựa chọn, thử thách và cả những khúc quanh không lường trước.",
+    "nhan_vat": "Không có nhân vật cụ thể; tác giả xưng tôi, trò chuyện và nhắn nhủ trực tiếp với người đọc trẻ tuổi.",
+    "y_nghia": "Bài viết khích lệ người trẻ chủ động chọn con đường riêng, dám đối mặt thử thách và tin tưởng vào hành trình trưởng thành của chính mình.",
+    "cau_hoi": [
+     "Hình ảnh con đường trong bài tượng trưng cho điều gì?",
+     "Tác giả muốn nhắn nhủ điều gì với người trẻ qua bài viết?",
+     "Em hình dung con đường trưởng thành của mình sẽ như thế nào?",
+     "Theo em, vì sao mỗi người lại có một con đường riêng không giống ai?"
+    ]
+   },
+   "sources": [
+    "https://tailieumoi.vn/bai-viet/96533/van-ban-cau-chuyen-ve-con-duong-doan-cong-le-huy-noi-dung-tac-gia-tac-pham",
+    "https://www.vietjack.com/soan-van-lop-7-kn/tac-gia-tac-pham-cau-chuyen-ve-con-duong.jsp",
+    "https://hoatieu.vn/soan-bai-cau-chuyen-ve-con-duong-224617"
+   ],
+   "ly_do": "Tác giả Đoàn Công Lê Huy (tên thật Đoàn Công Huynh, sinh 1963) là nhà báo, cây bút quen thuộc của báo Hoa Học Trò (bút danh Chánh Văn), còn đang hoạt động; tác phẩm trích từ sách xuất bản năm 2016 => còn nguyên thời hạn bảo hộ bản quyền => COMPANION, tự viết tóm tắt/ý nghĩa/câu hỏi, không chép nguyên văn."
+  },
+  {
+   "ten_bai": "Ngôi nhà trên cây",
+   "bo_sach": "KNTT",
+   "lop": "Lớp 7",
+   "tac_gia": "Cư-rô-ya-na-gi Tê-sư-cô",
+   "kind": "companion",
+   "full_text": "",
+   "companion": {
+    "tom_tat": "Đoạn trích từ hồi kí thiếu nhi 'Tốt-tô-chan bên cửa sổ' của nhà văn Nhật Bản Kuroyanagi Tetsuko, kể về tình bạn giữa cô bé Totto-chan và cậu bạn Yamamoto Yasuaki - người bị di chứng bại liệt. Totto-chan đã tìm cách giúp bạn cùng mình leo lên ngôi nhà trên cây, qua đó thể hiện sự đồng cảm, kiên nhẫn và tình bạn hồn nhiên, ấm áp của tuổi thơ.",
+    "nhan_vat": "Totto-chan (cô bé kể chuyện) và Yamamoto Yasuaki (cậu bạn bị khuyết tật do di chứng bại liệt).",
+    "y_nghia": "Đoạn trích ca ngợi tình bạn trong sáng, sự cảm thông và sẻ chia giữa trẻ em, nhắc nhở chúng ta trân trọng, giúp đỡ những người bạn kém may mắn hơn mình.",
+    "cau_hoi": [
+     "Totto-chan đã làm gì để giúp bạn Yasuaki cùng lên ngôi nhà trên cây?",
+     "Vì sao có thể nói tình bạn giữa hai nhân vật rất đáng quý?",
+     "Em học được điều gì về cách đối xử với bạn bè qua câu chuyện này?",
+     "Nếu là Totto-chan, em có nghĩ ra cách nào khác để giúp bạn không?"
+    ]
+   },
+   "sources": [
+    "https://mytour.vn/vi/blog/bai-viet/bai-van-7-thuc-hanh-doc-ngoi-nha-tren-cay-ket-noi-tri-thuc-7-ngu-van-lop-7-trang-33-sach-ket-noi-tri-thuc-tap-1.html",
+    "https://vietjack.me/ngoi-nha-tren-cay-ngu-van-lop-7-ket-noi-tri-thuc-54800.html",
+    "https://vietjack.com/soan-van-lop-7-kn/tac-gia-tac-pham-ngoi-nha-tren-cay.jsp"
+   ],
+   "ly_do": "Tác giả Kuroyanagi Tetsuko (Cư-rô-ya-na-gi Tê-sư-cô, sinh 1933) là nhà văn, diễn viên Nhật Bản còn sống; tác phẩm 'Tốt-tô-chan bên cửa sổ' xuất bản 1981, bản dịch tiếng Việt cũng là dịch phẩm hiện đại còn bản quyền => COMPANION, tự viết tóm tắt/ý nghĩa/câu hỏi bằng lời riêng, không chép nguyên văn đoạn trích hay bản dịch."
+  },
+  {
+   "ten_bai": "Thiên nga, cá măng và tôm hùm",
+   "bo_sach": "KNTT",
+   "lop": "Lớp 7",
+   "tac_gia": "I-van Crư-lốp",
+   "kind": "companion",
+   "full_text": "",
+   "companion": {
+    "tom_tat": "Truyện ngụ ngôn kể về ba con vật - thiên nga, cá măng và tôm hùm - cùng hợp sức kéo một chiếc xe chở hàng. Cả ba đều gắng sức nhưng chiếc xe không hề nhúc nhích, vì mỗi con lại kéo theo một hướng khác nhau: thiên nga cố bay bổng lên trời, cá măng cố lao xuống nước, còn tôm hùm lại cố giật lùi về phía sau.",
+    "nhan_vat": "Thiên nga, Cá măng, Tôm hùm - ba con vật cùng kéo một chiếc xe.",
+    "y_nghia": "Truyện ngụ ngôn phê phán sự thiếu đồng lòng, mỗi người một ý khi cùng làm việc chung, từ đó khẳng định muốn thành công phải biết đoàn kết, thống nhất mục tiêu và cách làm.",
+    "cau_hoi": [
+     "Vì sao chiếc xe không di chuyển được dù cả ba con vật đều cố sức kéo?",
+     "Mỗi con vật trong truyện muốn kéo xe theo hướng nào?",
+     "Bài học rút ra từ câu chuyện này là gì?",
+     "Em hãy kể một tình huống trong lớp cần sự đoàn kết như bài học của truyện."
+    ]
+   },
+   "sources": [
+    "https://www.thivien.net/Ivan-Krylov/Thi%C3%AAn-nga-C%C3%A1-m%C4%83ng-v%C3%A0-T%C3%B4m-h%C3%B9m/poem-fhvinDoUz-Yj9e1WO1JIRw",
+    "https://theki.vn/bai-6-thien-nga-ca-mang-va-tom-hum-i-van-cru-lop-ngu-van-7-ket-noi-tri-thuc/",
+    "https://www.vietjack.com/soan-van-lop-7-kn/tac-gia-tac-pham-thien-nga-ca-mang-va-tom-hum.jsp"
+   ],
+   "ly_do": "Nguyên tác thơ ngụ ngôn tiếng Nga của Ivan Krylov (1769-1844, mất đã hơn 180 năm) chắc chắn thuộc phạm vi công cộng, nhưng bản dịch tiếng Việt dùng trong SGK KNTT là bản dịch hiện đại - tra được một bản ghi tên dịch giả 'Hồ Quốc Vỹ' nhưng KHÔNG xác định được năm mất/tình trạng bản quyền của người này. Vì không chắc chắn bản dịch đã quá hạn bảo hộ (yêu cầu bắt buộc bản dịch cũng phải quá hạn bản quyền), chọn COMPANION để an toàn: tự kể lại cốt truyện bằng lời riêng, không chép nguyên văn bản dịch thơ."
+  },
+  {
+   "ten_bai": "Dấu chân sinh thái của mỗi người và thông điệp từ Trái Đất",
+   "bo_sach": "KNTT",
+   "lop": "Lớp 8",
+   "tac_gia": "Dương Xuân Thảo",
+   "kind": "companion",
+   "full_text": "",
+   "companion": {
+    "tom_tat": "Văn bản thông tin của Dương Xuân Thảo giải thích khái niệm 'dấu chân sinh thái' - thước đo diện tích đất và nước cần thiết để tạo ra tài nguyên con người tiêu thụ và hấp thụ lượng khí thải CO2 sinh ra. Bài viết đưa ra số liệu cho thấy con người đang tiêu dùng vượt quá khả năng tái tạo của Trái Đất, từ đó gửi thông điệp cần thay đổi lối sống để bảo vệ hành tinh.",
+    "nhan_vat": "Không có nhân vật; đây là văn bản thông tin - nghị luận khoa học phổ thông về môi trường.",
+    "y_nghia": "Bài viết cảnh báo việc con người đang khai thác tài nguyên thiên nhiên vượt mức cho phép, kêu gọi mỗi người sống tiết kiệm, hài hoà với thiên nhiên để bảo vệ tương lai Trái Đất.",
+    "cau_hoi": [
+     "Dấu chân sinh thái là gì theo cách giải thích trong bài?",
+     "Vì sao tác giả cho rằng con người đang tiêu dùng vượt quá khả năng của Trái Đất?",
+     "Em có thể làm gì trong cuộc sống hằng ngày để giảm dấu chân sinh thái của mình?",
+     "Theo em, vì sao bảo vệ môi trường lại là trách nhiệm của tất cả mọi người?"
+    ]
+   },
+   "sources": [
+    "https://vuihoc.vn/tin/thcs-soan-bai-thuc-hanh-doc-dau-chan-sinh-thai-cua-moi-nguoi-va-thong-diep-tu-trai-dat-van-8-tap-2-ket-noi-tri-thuc-3499.html",
+    "https://vietjack.me/dau-chan-sinh-thai-cua-moi-nguoi-va-thong-diep-tu-trai-dat-tac-gia-tac-186864.html",
+    "https://hoc247.net/ngu-van-8/thuc-hanh-doc-dau-chan-sinh-thai-cua-moi-nguoi-va-thong-diep-tu-trai-dat-l15845.html"
+   ],
+   "ly_do": "Tác giả Dương Xuân Thảo là nhà báo, người làm truyền thông đương đại (SGK Ngữ văn 8 KNTT tập 2, bài Thực hành đọc). Tác giả còn hoạt động, văn bản hiện đại còn nguyên thời hạn bảo hộ bản quyền => COMPANION, tự viết tóm tắt/ý nghĩa/câu hỏi, không chép nguyên văn số liệu hay đoạn văn gốc."
+  },
+  {
+   "ten_bai": "Chó sói và cừu trong thơ ngụ ngôn của La Phông-ten",
+   "bo_sach": "Sách cũ",
+   "lop": "Lớp 9",
+   "tac_gia": "H. Ten",
+   "kind": "companion",
+   "full_text": "",
+   "companion": {
+    "tom_tat": "Bài nghị luận văn học của nhà phê bình Pháp Hi-pô-lít Ten, trích từ công trình 'La Phông-ten và thơ ngụ ngôn của ông' (1853), so sánh cách nhìn của nhà khoa học Buy-phông và nhà thơ La Phông-ten về hai con vật cừu và chó sói. Tác giả chỉ ra: nhà khoa học mô tả chúng theo đặc tính loài một cách khách quan, còn La Phông-ten đã dùng trí tưởng tượng, nhân cách hoá để biến cừu thành hình ảnh hiền lành đáng thương, còn chó sói thành kẻ độc ác, đói khát, vừa đáng ghét vừa đáng thương hại.",
+    "nhan_vat": "Hi-pô-lít Ten (tác giả bài nghị luận), La Phông-ten (nhà thơ được bàn tới), con cừu và con chó sói (hai hình tượng trong thơ ngụ ngôn của La Phông-ten).",
+    "y_nghia": "Bài viết giúp người đọc hiểu sự khác biệt giữa cách nhìn khoa học khách quan và cách nhìn nghệ thuật giàu tưởng tượng, sáng tạo của nhà thơ khi xây dựng hình tượng văn học từ thế giới loài vật.",
+    "cau_hoi": [
+     "Nhà khoa học Buy-phông và nhà thơ La Phông-ten nhìn nhận con cừu khác nhau như thế nào?",
+     "Vì sao Hi-pô-lít Ten cho rằng hình tượng chó sói trong thơ La Phông-ten vừa đáng ghét vừa đáng thương?",
+     "Theo em, vì sao nhà thơ có thể miêu tả loài vật khác với nhà khoa học?",
+     "Em thích hình tượng cừu hay chó sói hơn trong cách xây dựng của La Phông-ten? Vì sao?"
+    ]
+   },
+   "sources": [
+    "https://hoc24.vn/ly-thuyet/cho-soi-va-cuu-trong-tho-ngu-ngon-cua-la-phong-ten-hten.4692",
+    "https://khoahoc.vn/cho-soi-va-cuu-trong-tho-ngu-ngon-cua-la-phong-ten-2201",
+    "https://www.vietjack.com/ngu-van-9/cho-soi-va-cuu-trong-tho-ngu-ngon-cua-la-phong-ten.jsp"
+   ],
+   "ly_do": "Nguyên tác tiếng Pháp của Hi-pô-lít Ten (1828-1893, mất đã hơn 130 năm) thuộc phạm vi công cộng, nhưng KHÔNG xác định được tên và năm mất của dịch giả đã chuyển bài nghị luận này sang tiếng Việt cho SGK Ngữ văn 9 (2006). Vì không chắc chắn bản dịch tiếng Việt đã quá hạn bảo hộ, chọn COMPANION để an toàn: tự viết tóm tắt nội dung lập luận bằng lời riêng, không chép nguyên văn bản dịch."
+  },
+  {
+   "ten_bai": "Ngọc nữ về tay chân chủ",
+   "bo_sach": "KNTT",
+   "lop": "Lớp 9",
+   "tac_gia": "khuyết danh",
+   "kind": "companion",
+   "full_text": "",
+   "companion": {
+    "tom_tat": "Truyện trích từ 'Thánh Tông di thảo' - tập truyện chữ Hán khuyết danh thời trung đại. Truyện kể Ngọc Hoàng mở hội kén rể cho con gái là Ngọc Tỷ vừa tròn mười tám tuổi tại lầu Đãi Phượng. Sơn thần và Thuỷ thần đến ứng thí, phô diễn phép thuật hô mưa gọi gió, biến hoá núi non sông biển để khoe tài, nhưng lời lẽ khoác lác, huênh hoang hơn là thực tài, khiến Ngọc Hoàng không hài lòng.",
+    "nhan_vat": "Ngọc Hoàng, công chúa Ngọc Tỷ, Sơn thần, Thuỷ thần.",
+    "y_nghia": "Truyện châm biếm những kẻ bất tài mà thích khoe khoang, phô trương, đồng thời ngầm phê phán trách nhiệm của người đứng đầu khi tuyển chọn, sử dụng nhân tài không đúng thực chất.",
+    "cau_hoi": [
+     "Ngọc Hoàng mở hội kén rể cho công chúa Ngọc Tỷ ở đâu?",
+     "Sơn thần và Thuỷ thần đã phô diễn những phép thuật gì để chứng tỏ tài năng?",
+     "Vì sao có thể nói hai vị thần trong truyện là những kẻ khoe khoang?",
+     "Truyện muốn phê phán điều gì qua hai nhân vật Sơn thần và Thuỷ thần?"
+    ]
+   },
+   "sources": [
+    "https://tailieumoi.vn/bai-viet/168208/van-ban-ngoc-nu-ve-tay-chan-chu-noi-dung-tac-gia-tac-pham",
+    "https://letrandieuthu.com/doc-hieu-ngoc-nu-ve-tay-chan-chu/",
+    "https://vietjack.com/soan-van-lop-9-kn/tac-gia-tac-pham-ngoc-nu-ve-tay-chan-chu.jsp"
+   ],
+   "ly_do": "'Thánh Tông di thảo' là tập truyện chữ Hán khuyết danh (tương truyền thời Lê Thánh Tông, thế kỷ 15, giới nghiên cứu chưa thống nhất tác giả và niên đại), nguyên tác chắc chắn thuộc phạm vi công cộng. Nhưng bản dịch tiếng Việt dùng trong SGK KNTT là công trình học giả hiện đại (các bản dịch được biết gồm Bùi Văn Nguyên - Nguyễn Ngọc San 1962 hoặc Nguyễn Bích Ngô 1963, KHÔNG xác định chắc chắn được bản SGK dùng và tình trạng bản quyền dịch giả). Vì không chắc chắn bản dịch đã quá hạn bảo hộ, chọn COMPANION để an toàn: tự tóm tắt cốt truyện bằng lời riêng, không chép nguyên văn bản dịch."
+  },
+  {
+   "ten_bai": "Chùm thơ hai-cư (haiku) Nhật Bản",
+   "bo_sach": "KNTT",
+   "lop": "Lớp 10",
+   "tac_gia": "",
+   "kind": "companion",
+   "full_text": "",
+   "companion": {
+    "tom_tat": "Chùm ba bài thơ hai-cư (haiku) Nhật Bản: bài của Ba-sô tả cảnh một cánh quạ đậu trên cành cây khô lúc chiều thu, gợi không khí quạnh vắng, cô liêu; bài của Chi-y-ô tả một dây hoa triêu nhan quấn quanh dây gầu bên giếng nước khiến tác giả không nỡ dứt hoa mà đi xin nước nhà bên; bài thứ ba tả hình ảnh một con ốc nhỏ bé kiên trì trèo lên núi Phú Sĩ.",
+    "nhan_vat": "Không có nhân vật con người cụ thể; hình ảnh trung tâm là con quạ và cành khô (bài 1), hoa triêu nhan và dây gầu giếng nước (bài 2), con ốc và núi Phú Sĩ (bài 3).",
+    "y_nghia": "Ba bài hai-cư thể hiện đặc trưng thơ Nhật Bản: ngắn gọn, hàm súc, dùng hình ảnh thiên nhiên nhỏ bé để gợi cảm xúc tinh tế - nỗi cô tịch, tình yêu thương sự sống nhỏ bé, và ý chí kiên trì bền bỉ trước mục tiêu lớn lao.",
+    "cau_hoi": [
+     "Hình ảnh trung tâm trong bài hai-cư thứ nhất là gì và gợi cảm xúc gì?",
+     "Vì sao nhân vật trữ tình lại đi xin nước nhà bên thay vì ngắt dây hoa triêu nhan?",
+     "Hình ảnh con ốc trèo núi Phú Sĩ trong bài thơ thứ ba tượng trưng cho điều gì?",
+     "Em thích hình ảnh nào nhất trong ba bài hai-cư? Vì sao?"
+    ]
+   },
+   "sources": [
+    "https://vuihoc.vn/tin/thpt-soan-bai-chum-tho-hai-cu-haiku-nhat-ban-sach-ket-noi-tri-thuc-2607.html",
+    "https://loigiaihay.com/soan-bai-chum-tho-hai-cu-nhat-ban-sgk-ngu-van-10-tap-1-ket-noi-tri-thuc-chi-tiet-a107153.html",
+    "https://vietjack.com/soan-van-lop-10-kn/tac-gia-tac-pham-chum-tho-hai-cu-nhat-ban.jsp"
+   ],
+   "ly_do": "Nguyên tác tiếng Nhật của Ba-sô (1644-1694) và Chi-y-ô (1703-1775) chắc chắn thuộc phạm vi công cộng (mất đã hơn 300 năm), nhưng bản dịch tiếng Việt trong SGK KNTT (2022) là bản dịch mới, KHÔNG xác định được dịch giả cụ thể còn sống hay đã mất trên 50 năm. Vì không chắc chắn bản dịch đã quá hạn bảo hộ (trường hợp 'văn dịch mới' nêu trong hướng dẫn), chọn COMPANION để an toàn: tự mô tả hình ảnh, ý nghĩa từng bài bằng lời riêng, không chép nguyên văn ba bài dịch."
+  },
+  {
+   "ten_bai": "Hứng trở về",
+   "bo_sach": "Sách cũ",
+   "lop": "Lớp 10",
+   "tac_gia": "Nguyễn Trung Ngạn",
+   "kind": "companion",
+   "full_text": "",
+   "companion": {
+    "tom_tat": "Bài thơ chữ Hán 'Quy hứng' được Nguyễn Trung Ngạn sáng tác khi đang đi sứ ở đất Giang Nam (Trung Quốc). Nhà thơ nhớ về quê nhà qua hình ảnh dâu già rụng lá lúc tằm vừa chín kén, lúa sớm trổ bông thơm lúc cua đang độ béo, rồi bộc bạch suy nghĩ: dù ở quê nhà có nghèo khó vẫn tốt hơn, đất khách dù vui vẫn không bằng được trở về.",
+    "nhan_vat": "Nhân vật trữ tình là Nguyễn Trung Ngạn - vị quan đi sứ nhớ quê hương.",
+    "y_nghia": "Bài thơ thể hiện tình yêu quê hương tha thiết và quan niệm sống giản dị, coi trọng quê nhà hơn vinh hoa nơi đất khách của một trí thức thời Trần.",
+    "cau_hoi": [
+     "Nguyễn Trung Ngạn sáng tác bài thơ này trong hoàn cảnh nào?",
+     "Những hình ảnh nào trong bài thơ gợi nhớ về quê hương?",
+     "Câu thơ cuối bài thể hiện quan niệm sống gì của tác giả?",
+     "Em có đồng cảm với nỗi nhớ quê của tác giả không? Vì sao?"
+    ]
+   },
+   "sources": [
+    "https://giaibaitap123.com/sach-giao-khoa-ngu-van-10-tap-1/bai-hung-tro-ve-quy-hung/",
+    "https://vndoc.com/phan-tich-bai-tho-quy-hung-hung-tro-ve-cua-nguyen-trung-ngan-165948",
+    "https://mytour.vn/vi/blog/bai-viet/soan-bai-hung-tro-ve-quy-hung-soan-van-lop-10.html"
+   ],
+   "ly_do": "Nguyên tác chữ Hán của Nguyễn Trung Ngạn (1289-1370) chắc chắn thuộc phạm vi công cộng (mất đã hơn 650 năm). Nhưng KHÔNG xác định chắc chắn được tên và năm mất của dịch giả bản dịch thơ dùng trong SGK 'Sách cũ' (thường trích từ công trình tập thể nhiều dịch giả tham gia, không rõ ai dịch riêng bài này). Vì không chắc chắn bản dịch đã quá hạn bảo hộ, chọn COMPANION để an toàn: tự thuật lại nội dung, ý nghĩa bài thơ bằng lời riêng, không chép nguyên văn bản dịch thơ."
+  },
+  {
+   "ten_bai": "Truyện An Dương Vương và Mị Châu – Trọng Thuỷ",
+   "bo_sach": "Sách cũ",
+   "lop": "Lớp 10",
+   "tac_gia": "Truyền thuyết",
+   "kind": "companion",
+   "full_text": "",
+   "companion": {
+    "tom_tat": "Truyền thuyết kể về An Dương Vương xây thành Cổ Loa nhờ thần Kim Quy giúp đỡ và được ban móng thần làm lẫy nỏ thần bắn một phát chết hàng vạn quân giặc. Triệu Đà nhiều lần đem quân xâm lược đều thất bại, bèn dùng mưu cầu hôn, gả con trai Trọng Thuỷ cho công chúa Mị Châu, ở rể để đánh tráo nỏ thần. Mất nỏ thần, An Dương Vương thua trận, mang Mị Châu chạy trốn; khi nhận ra con gái rắc lông ngỗng làm dấu cho giặc đuổi theo, nhà vua chém chết Mị Châu rồi theo thần Kim Quy xuống biển. Trọng Thuỷ ôm xác vợ mang về an táng, sau đó nhảy xuống giếng tự vẫn vì hối hận.",
+    "nhan_vat": "An Dương Vương, Mị Châu, Trọng Thuỷ, thần Kim Quy, Triệu Đà.",
+    "y_nghia": "Truyền thuyết lí giải nguyên nhân mất nước Âu Lạc, gửi gắm bài học về tinh thần cảnh giác trước kẻ thù, phê phán sự chủ quan mất cảnh giác, đồng thời thể hiện thái độ vừa nghiêm khắc vừa cảm thông của nhân dân trước bi kịch tình yêu của Mị Châu - Trọng Thuỷ qua hình ảnh ngọc trai - giếng nước.",
+    "cau_hoi": [
+     "An Dương Vương đã được thần Kim Quy giúp đỡ những gì để xây thành và giữ nước?",
+     "Vì sao Triệu Đà lại cho con trai Trọng Thuỷ sang ở rể nhà An Dương Vương?",
+     "Kết cục của Mị Châu và Trọng Thuỷ trong truyện là gì?",
+     "Bài học rút ra từ bi kịch mất nước của An Dương Vương là gì?"
+    ]
+   },
+   "sources": [
+    "https://vndoc.com/truyen-an-duong-vuong-va-mi-chau-trong-thuy-136550",
+    "https://hoc24.vn/ly-thuyet/truyen-an-duong-vuong-va-mi-chau-trong-thuy.53330",
+    "https://vietjack.com/soan-van-lop-10/tac-gia-tac-pham-truyen-an-duong-vuong-va-mi-chau-trong-thuy.jsp"
+   ],
+   "ly_do": "Truyền thuyết dân gian Việt Nam, cốt truyện lưu truyền truyền miệng từ thời Âu Lạc, được ghi lại bằng chữ Hán trong Truyện Rùa Vàng (Lĩnh Nam chích quái, cuối thế kỷ 15) - cốt truyện chắc chắn thuộc phạm vi công cộng. Nhưng bản dịch/diễn xuôi tiếng Việt phổ biến nhất dùng trong SGK là của Đinh Gia Khánh (1924-2003, mất năm 2003, mới 23 năm, CHƯA đủ 50 năm) và Nguyễn Ngọc San, nên bản dịch cụ thể này chưa chắc chắn quá hạn bảo hộ. Vì không chắc chắn, chọn COMPANION để an toàn: tự kể lại cốt truyện dân gian phổ biến bằng lời riêng, không chép nguyên văn bản dịch."
+  },
+  {
+   "ten_bai": "Tỏ lòng",
+   "bo_sach": "Sách cũ",
+   "lop": "Lớp 10",
+   "tac_gia": "Phạm Ngũ Lão",
+   "kind": "companion",
+   "full_text": "",
+   "companion": {
+    "tom_tat": "Bài thơ chữ Hán 'Thuật hoài' khắc hoạ hình ảnh người trai thời Trần cầm ngang ngọn giáo trấn giữ non sông đã mấy mùa thu, giữa khí thế hào hùng của ba quân như hổ báo nuốt trôi sao Ngưu. Cuối bài, tác giả bộc bạch nỗi thẹn của kẻ làm trai khi công danh chưa trọn vẹn, tự thấy hổ thẹn khi nghe người đời nhắc chuyện Vũ Hầu Gia Cát Lượng lập nhiều công lớn thời Tam Quốc.",
+    "nhan_vat": "Nhân vật trữ tình là Phạm Ngũ Lão - vị tướng nhà Trần tự bộc lộ chí khí qua bài thơ; nhân vật lịch sử được nhắc đến là Vũ Hầu (Gia Cát Lượng).",
+    "y_nghia": "Bài thơ thể hiện khí phách hào hùng của con người thời Trần trong hào khí Đông A, đồng thời gửi gắm quan niệm về chí làm trai: phải lập công danh để không hổ thẹn với đời.",
+    "cau_hoi": [
+     "Hình ảnh người trai thời Trần được khắc hoạ như thế nào ở hai câu thơ đầu?",
+     "Vì sao tác giả lại nhắc đến Vũ Hầu (Gia Cát Lượng) ở cuối bài?",
+     "Nỗi thẹn của Phạm Ngũ Lão trong bài thơ thể hiện điều gì về nhân cách của ông?",
+     "Em hiểu thế nào về chí làm trai được nói đến trong bài thơ?"
+    ]
+   },
+   "sources": [
+    "https://www.thivien.net/Ph%E1%BA%A1m-Ng%C5%A9-L%C3%A3o/Thu%E1%BA%ADt-ho%C3%A0i/poem-1OSMIAchRr0KS69eud03Ug",
+    "https://giaibaitap123.com/sach-giao-khoa-ngu-van-10-tap-1/bai-to-long-thuat-hoai/",
+    "https://thptngothinham.edu.vn/so-sanh-phien-am-va-dich-tho-bai-to-long/"
+   ],
+   "ly_do": "Nguyên tác chữ Hán của Phạm Ngũ Lão (1255-1320) chắc chắn thuộc phạm vi công cộng (mất đã hơn 700 năm). Nhưng bản dịch thơ phổ biến nhất dùng trong SGK là của Bùi Văn Nguyên (1918-2003), mất năm 2003, mới 23 năm, CHƯA đủ 50 năm theo luật bản quyền => bản dịch thơ này CHƯA thuộc phạm vi công cộng. Vì vậy chọn COMPANION để an toàn: tự thuật nội dung, hình tượng, ý nghĩa bài thơ bằng lời riêng, không chép nguyên văn bản dịch của Bùi Văn Nguyên."
+  }
+ ]
+}
