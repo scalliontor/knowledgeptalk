@@ -1,5 +1,28 @@
 [
  {
+  "ten_bai": "Phần thưởng",
+  "bo_sach": "Sách cũ",
+  "grade": 2,
+  "tac_gia": "Phỏng theo Blai-tơn",
+  "kind": "recite",
+  "full_text": "Na là một cô bé tốt bụng. Ở lớp, ai cũng mến em. Em gọt bút chì giúp bạn Lan. Em cho bạn Minh nửa cục tẩy. Nhiều lần, em làm trực nhật giúp các bạn bị mệt... Na chỉ buồn vì em học chưa giỏi.\nCuối năm học, cả lớp bàn tán về điểm thi và phần thưởng. Riêng Na chỉ lặng yên nghe các bạn. Em biết mình chưa giỏi môn nào. Một buổi sáng, vào giờ ra chơi, các bạn trong lớp túm tụm bàn bạc điều gì đó có vẻ bí mật lắm. Rồi các bạn kéo nhau đến gặp cô giáo. Cô giáo cho rằng sáng kiến của các bạn rất hay.\nNgày tổng kết năm học, từng học sinh giỏi bước lên bục nhận phần thưởng. Cha mẹ các em cũng hồi hộp. Bất ngờ, cô giáo nói:\n– Bây giờ, cô sẽ trao phần thưởng đặc biệt. Đây là phần thưởng cả lớp đề nghị tặng bạn Na. Na học chưa giỏi, nhưng em có tấm lòng thật đáng quý.\nNa không hiểu mình có nghe nhầm không. Đỏ bừng mặt, cô bé đứng dậy bước lên bục. Tiếng vỗ tay vang dậy. Mẹ của Na lặng lẽ chấm khăn lên đôi mắt đỏ hoe.",
+  "companion": {
+   "tom_tat": "",
+   "nhan_vat": "",
+   "y_nghia": "",
+   "cau_hoi": []
+  },
+  "sources": [
+   "https://www.cungtien.com/2019/12/phanthuong.html",
+   "https://vndoc.com/tap-doc-lop-2-phan-thuong-169804"
+  ],
+  "ly_do": "Blai-tơn = Enid Blyton, mất 28/11/1968 → đã hơn 50 năm, khớp tiêu chí 'tác giả mất trên 50 năm' (VN bảo hộ đời + 50 năm). Nguyên văn lấy từ cungtien.com (chép bài tập đọc SGK TV2 tập 1, tuần 2, trang 13), fetch 2 lần trùng khớp; đã bỏ tiêu đề phụ do trình đọc tự thêm, bỏ chú thích và câu hỏi. LƯU Ý REVIEW: đây là bản 'phỏng theo' tiếng Việt, người phỏng theo không được ghi tên; nếu chuẩn duyệt chỉ chấp nhận đúng 4 nhóm liệt kê thì lật bài này sang companion. Đối chiếu thêm nguồn độc lập thứ 2 (vndoc.com, mục 'Nội dung bài tập đọc', dùng để đối chiếu bản chép chứ không lấy phần giảng): khớp nguyên văn TUYỆT ĐỐI, không một chữ khác biệt.",
+  "_file": "cap1_fixed.json",
+  "_errs": [
+   "thiếu căn cứ CÔNG CỘNG trong ly_do"
+  ]
+ },
+ {
   "ten_bai": "Kiến và chim bồ câu",
   "bo_sach": "KNTT",
   "tac_gia": "Truyện ngụ ngôn Ê-dốp (Aesop)",
@@ -18,6 +41,7 @@
   "_file": "cap1_g1_c1.json",
   "grade": 1,
   "_errs": [
+   "TRÙNG với cap1_fixed.json",
    "thiếu căn cứ CÔNG CỘNG trong ly_do",
    "recite chỉ 1 nguồn (cần >=2 để đối chiếu)"
   ]
@@ -42,6 +66,7 @@
   "_file": "cap1_g1_c2.json",
   "grade": 1,
   "_errs": [
+   "TRÙNG với cap1_fixed.json",
    "thiếu căn cứ CÔNG CỘNG trong ly_do"
   ]
  },
@@ -65,6 +90,7 @@
   "_file": "cap1_g1_c2.json",
   "grade": 1,
   "_errs": [
+   "TRÙNG với cap1_fixed.json",
    "thiếu căn cứ CÔNG CỘNG trong ly_do"
   ]
  },
@@ -88,6 +114,7 @@
   "_file": "cap1_g1_c2.json",
   "grade": 1,
   "_errs": [
+   "TRÙNG với cap1_fixed.json",
    "thiếu căn cứ CÔNG CỘNG trong ly_do"
   ]
  },
@@ -110,6 +137,7 @@
   "_file": "cap1b_g2_c1.json",
   "grade": 2,
   "_errs": [
+   "TRÙNG với cap1_fixed.json",
    "recite chỉ 1 nguồn (cần >=2 để đối chiếu)"
   ]
  },
@@ -137,6 +165,7 @@
   "_file": "cap1b_g2_c1.json",
   "grade": 2,
   "_errs": [
+   "TRÙNG với cap1_fixed.json",
    "trích nguyên văn dài trong ngoặc kép(132 ký tự)"
   ]
  },
@@ -159,6 +188,7 @@
   "_file": "cap1b_g2_c1.json",
   "grade": 2,
   "_errs": [
+   "TRÙNG với cap1_fixed.json",
    "recite chỉ 1 nguồn (cần >=2 để đối chiếu)"
   ]
  },
@@ -185,6 +215,7 @@
   "_file": "cap1b_g2_c2.json",
   "grade": 2,
   "_errs": [
+   "TRÙNG với cap1_fixed.json",
    "trích nguyên văn dài trong ngoặc kép(508 ký tự)"
   ]
  },
@@ -207,6 +238,7 @@
   "_file": "cap1b_g2_c3.json",
   "grade": 2,
   "_errs": [
+   "TRÙNG với cap1_fixed.json",
    "recite chỉ 1 nguồn (cần >=2 để đối chiếu)"
   ]
  },
@@ -231,6 +263,7 @@
   "_file": "cap1b_g2_c3.json",
   "grade": 2,
   "_errs": [
+   "TRÙNG với cap1_fixed.json",
    "RÁC soạn-bài trong nguyên văn('trả lời:')"
   ]
  },
@@ -253,6 +286,7 @@
   "_file": "cap1b_g2_c3.json",
   "grade": 2,
   "_errs": [
+   "TRÙNG với cap1_fixed.json",
    "thiếu căn cứ CÔNG CỘNG trong ly_do",
    "recite chỉ 1 nguồn (cần >=2 để đối chiếu)"
   ]
@@ -276,6 +310,7 @@
   "_file": "cap1b_g2_c4.json",
   "grade": 2,
   "_errs": [
+   "TRÙNG với cap1_fixed.json",
    "recite chỉ 1 nguồn (cần >=2 để đối chiếu)"
   ]
  },
@@ -298,6 +333,7 @@
   "_file": "cap1b_g2_c4.json",
   "grade": 2,
   "_errs": [
+   "TRÙNG với cap1_fixed.json",
    "recite chỉ 1 nguồn (cần >=2 để đối chiếu)"
   ]
  },
@@ -320,6 +356,7 @@
   "_file": "cap1b_g2_c4.json",
   "grade": 2,
   "_errs": [
+   "TRÙNG với cap1_fixed.json",
    "recite chỉ 1 nguồn (cần >=2 để đối chiếu)"
   ]
  },

@@ -1,5 +1,277 @@
 [
  {
+  "ten_bai": "Kiến và chim bồ câu",
+  "bo_sach": "KNTT",
+  "grade": 1,
+  "tac_gia": "Truyện ngụ ngôn Ê-dốp (Aesop)",
+  "kind": "recite",
+  "full_text": "Một con Kiến không may bị rơi xuống nước. Nó vùng vẫy và la lên:\n- Cứu tôi với, cứu tôi với!\nNghe tiếng kêu cứu của Kiến, Bồ Câu nhanh trí nhặt một chiếc lá thả xuống nước. Kiến bám vào chiếc lá và leo lên được bờ.\nMột hôm, Kiến thấy người thợ săn đang ngắm bắn Bồ Câu. Ngay lập tức, nó bò đến, cắn vào chân anh ta. Người thợ săn giật mình. Bồ Câu thấy động liền bay đi.\nBồ Câu tìm đến chỗ Kiến, cảm động nói:\n- Cảm ơn cậu đã cứu tớ.\nKiến đáp:\n- Cậu cũng giúp tớ thoát chết mà.\nCả hai đều rất vui vì đã giúp nhau.",
+  "companion": {
+   "tom_tat": "",
+   "nhan_vat": "",
+   "y_nghia": "",
+   "cau_hoi": []
+  },
+  "sources": [
+   "https://thegioicotich.vn/kien-va-chim-bo-cau/",
+   "https://doctruyenchobe.net/kien-va-chim-bo-cau"
+  ],
+  "ly_do": "Ngụ ngôn Ê-dốp (Aesop, tác giả bán huyền thoại Hy Lạp cổ đại) => phạm vi công cộng, thuộc diện được phép recite. Văn bản lấy từ trang đăng truyện (Thegioicotich.vn), liền mạch, sạch HTML, không chú thích số, không lẫn câu hỏi cuối bài, không metadata NXB. Đối chiếu thêm nguồn độc lập thứ 2 (doctruyenchobe.net): khớp đúng 2 nút cốt truyện chính (kiến rơi xuống nước được bồ câu thả lá cứu; sau đó kiến cắn thợ săn để cứu lại bồ câu), chỉ khác câu chữ ở vài chi tiết phụ (lý do kiến rơi xuống nước, câu kết) — bình thường với truyện ngụ ngôn truyền miệng có nhiều bản kể khác nhau.",
+  "_file": "cap1_fixed.json"
+ },
+ {
+  "ten_bai": "Không nên phá tổ chim",
+  "bo_sach": "Sách cũ",
+  "grade": 1,
+  "tac_gia": "Quốc văn giáo khoa thư",
+  "kind": "recite",
+  "full_text": "Thằng Sửu thấy ở trên cành cây có một tổ chim chích choè, ba con chim mới nở, thì lấy làm mừng lắm. Nó trèo lên, bắt xuống, để chơi.\n\nChị nó trông thấy, ngăn lại mà bảo nó rằng: \"Em ơi! Chớ nên bắt! Chim nó đang sung sướng thế mà em bắt nó, thì nó cực khổ biết là dường nào! Em thử nghĩ chốc nữa, mẹ nó tha mồi về, mà không thấy con, thì đau đớn thế nào. Vả những con chim con ấy mà em bắt về, thì dẫu em chăm chút nó thế nào, nếu nó không chết, thì cũng chẳng sao bằng mẹ nó săn sóc, nuôi nấng nó được. Thôi em ơi! Em đừng làm khổ nó vô ích, đem về trả mẹ nó. Sau nó lớn lên, nó bay, nó lượn, đẹp mắt em, nó kêu, nó hót, vui tai em, nó ăn sâu, ăn bọ thì hoa quả thóc lúa của nhà ta và của thiên hạ được đỡ hại.\"\n\nSửu nghe chị nói, lại đem cái tổ chim lên để vào chỗ cũ.",
+  "companion": {
+   "tom_tat": "",
+   "nhan_vat": "",
+   "y_nghia": "",
+   "cau_hoi": []
+  },
+  "sources": [
+   "https://gpcantho.com/16875-2/",
+   "https://vietbao.com/a62566/quoc-van-giao-khoa-thu-khong-nen-pha-to-chim"
+  ],
+  "ly_do": "Quốc văn giáo khoa thư (Trần Trọng Kim, Nguyễn Văn Ngọc, Đặng Đình Phúc, Đỗ Thận biên soạn năm 1935) — sách giáo khoa cũ; tác giả chính Trần Trọng Kim mất năm 1953, Nguyễn Văn Ngọc mất năm 1942, đều đã hơn 70 năm => phạm vi công cộng. Lấy nguyên văn từ trang đăng lại tác phẩm (gpcantho.com), KHÔNG lấy từ trang soạn bài. Text liền mạch, sạch HTML, không chú thích số, không câu hỏi cuối bài.",
+  "_file": "cap1_fixed.json"
+ },
+ {
+  "ten_bai": "Nói dối hại thân",
+  "bo_sach": "Sách cũ",
+  "grade": 1,
+  "tac_gia": "Lép Tôn-xtôi",
+  "kind": "recite",
+  "full_text": "Có một chú bé chăn cừu thường thả cừu gần chân núi. Một hôm thấy buồn quá, chú nghĩ ra một trò đùa cho vui. Chú giả vờ kêu toáng lên: \"Sói! Sói! Cứu tôi với!\"\n\nNghe tiếng kêu cứu, mấy bác nông dân đang làm việc gần đấy tức tốc chạy tới. Nhưng họ không thấy sói đâu. Thấy vậy, chú khoái chí lắm.\n\nMấy hôm sau, chú lại bày ra trò ấy. Các bác nông dân lại chạy tới. Rồi một hôm, sói đến thật. Chú hốt hoảng kêu gào xin cứu giúp. Các bác nông dân nghĩ là chú lại lừa mình, nên vẫn thản nhiên làm việc. Thế là sói thoả thuê ăn thịt hết cả đàn cừu.",
+  "companion": {
+   "tom_tat": "",
+   "nhan_vat": "",
+   "y_nghia": "",
+   "cau_hoi": []
+  },
+  "sources": [
+   "https://sachgiaokhoa.online/lop-1-1/ket-noi-tri-thuc-voi-cuoc-song-3/chu-de-5-bai-hoc-tu-cuoc-song-172/bai-4-chu-be-chan-cuu-275.html",
+   "https://vi.wikibooks.org/wiki/Ng%E1%BB%A5_ng%C3%B4n_Aesop/Ch%C3%BA_b%C3%A9_ch%C4%83n_c%E1%BB%ABu_v%C3%A0_con_s%C3%B3i"
+  ],
+  "ly_do": "Ngụ ngôn Ê-dốp (chú bé chăn cừu và con sói), bản kể lại gắn tên Lép Tôn-xtôi (mất năm 1910, đã hơn 100 năm) => phạm vi công cộng. LƯU Ý: không tìm được bản chữ SGK cũ 'Nói dối hại thân' trên trang đăng tác phẩm; text nạp là bản SGK Tiếng Việt 1 KNTT 'Chú bé chăn cừu' của CÙNG truyện ngụ ngôn, lấy từ trang đăng lại SGK (sachgiaokhoa.online), không phải trang soạn bài. Nội dung khớp, chỉ khác chút câu chữ so với bản sách cũ.",
+  "_file": "cap1_fixed.json"
+ },
+ {
+  "ten_bai": "Tặng cháu",
+  "bo_sach": "Sách cũ",
+  "grade": 1,
+  "tac_gia": "Hồ Chí Minh",
+  "kind": "recite",
+  "full_text": "Vở này ta tặng cháu yêu ta,\nTỏ chút lòng yêu cháu gọi là.\nMong cháu ra công mà học tập,\nMai sau cháu giúp nước non nhà.",
+  "companion": {
+   "tom_tat": "",
+   "nhan_vat": "",
+   "y_nghia": "",
+   "cau_hoi": []
+  },
+  "sources": [
+   "https://www.thivien.net/H%E1%BB%93-Ch%C3%AD-Minh/T%E1%BA%B7ng-ch%C3%A1u-N%C3%B4ng-Th%E1%BB%8B-Tr%C6%B0ng/poem-POZs7Gdo5XOtE4WPaPXA5Q",
+   "https://vi.wikisource.org/wiki/T%E1%BA%B7ng_ch%C3%A1u_N%C3%B4ng_Th%E1%BB%8B_Tr%C6%B0ng"
+  ],
+  "ly_do": "Hồ Chí Minh mất năm 1969; theo Luật Sở hữu trí tuệ Việt Nam (bảo hộ hết đời tác giả cộng 50 năm) thì tác phẩm hết thời hạn bảo hộ từ năm 2019 => phạm vi công cộng. Bản thơ có trên Thi Viện và Wikisource. Nguyên văn 4 dòng lấy từ Thi Viện / Wikisource (trang đăng tác phẩm). Giữ nguyên xuống dòng thơ thất ngôn tứ tuyệt.",
+  "_file": "cap1_fixed.json"
+ },
+ {
+  "ten_bai": "Mai An Tiêm",
+  "bo_sach": "KNTT",
+  "grade": 2,
+  "tac_gia": "Truyền thuyết Việt Nam (khuyết danh)",
+  "kind": "recite",
+  "full_text": "Ngày xưa, Vua Hùng Vương thứ 18 có nuôi một đứa trẻ thông minh khôi ngô, đặt tên là Mai Yển, hiệu là An Tiêm.\n\nLớn lên, vua cưới vợ cho An Tiêm, và tin dùng ở triều đình. Cậy nhờ ơn Vua cha, nhưng An Tiêm lại kiêu căng cho rằng tự sức mình tài giỏi mới gây dựng được sự nghiệp, chứ chẳng nhờ ai. Lời nói này đến tai vua. Vua cho là An Tiêm là kẻ kiêu bạc vô ơn, bèn đầy An Tiêm cùng vợ con ra một hòn đảo xa, ở ngoài biển Nga Sơn.\n\nNgười vợ là nàng Ba lo sợ sẽ phải chết ở ngoài cù lao cô quạnh. Nhưng An Tiêm thì bình thản nói: \"Trời đã sinh ra ta, sống chết là ở Trời và ở ta, việc gì phải lo\".\n\nHai vợ chồng An Tiêm cùng đứa con đã sống hiu quạnh ở một bãi cát, trên hoang đảo. Họ ra sức khai khẩn, trồng trọt để kiếm sống. Một ngày kia, vào mùa hạ, có một con chim lạ từ phương tây bay đến đậu trên một gò cát. Chim nhả mấy hạt gì xuống đất. Được ít lâu, thì hạt nẩy mầm, mọc dây lá cây lan rộng.\n\nCây nở hoa, kết thành trái to. Rất nhiều trái vỏ xanh, ruột đỏ. An Tiêm bảo vợ: \"Giống cây này tự nhiên không trồng mà có. Tức là vật của Trời nuôi ta đó\". Rồi An Tiêm hái nếm thử, thấy vỏ xanh, ruột đỏ, hột đen, mùi vị thơm và ngon ngọt, mát dịu. An Tiêm bèn lấy hột gieo trồng khắp nơi, sau đó mọc lan ra rất nhiều.\n\nMột ngày kia, có một chiếc tầu bị bão dạt vào cù lao. Mọi người lên bãi cát, thấy có nhiều quả lạ, ngon. Họ đua nhau đổi thực phẩm cho gia đình An Tiêm. Rồi từ đó, tiếng đồn đi là có một giống dưa rất ngon ở trên đảo. Các tầu buôn tấp nập ghé đến đổi chác đủ thứ vật dụng và thực phẩm cho gia đình An Tiêm. Nhờ đó mà gia đình bé nhỏ của An Tiêm trở nên đầy đủ, cuộc sống phong lưu.\n\nVì chim đã mang hột dưa đến từ phương Tây, nên An Tiêm đặt tên cho thứ trái cây này là Tây Qua. Người Tàu ăn thấy ngon, khen là \"hẩu\", nên về sau người ta gọi trại đi là Dưa Hấu.\n\nÍt lâu sau, Vua sai người ra cù lao ngoài biển Nga Sơn dò xét xem gia đình An Tiêm ra làm sao, sống hay chết. Sứ thần về kể lại cảnh sống sung túc và nhàn nhã của vợ chồng An Tiêm, nhà vua ngẫm nghĩ thấy thầm phục đứa con nuôi, bèn cho triệu An Tiêm về phục lại chức vị cũ trong triều đình.\n\nAn Tiêm đem về dâng cho Vua giống dưa hấu mà mình may mắn có được. Rồi phân phát hột dưa cho dân chúng trồng ở những chỗ đất cát, làm giầu thêm cho xứ Việt một thứ trái cây danh tiếng. Hòn đảo mà An Tiêm ở, được gọi là Châu An Tiêm.",
+  "companion": {
+   "tom_tat": "",
+   "nhan_vat": "",
+   "y_nghia": "",
+   "cau_hoi": []
+  },
+  "sources": [
+   "https://vi.wikisource.org/wiki/S%E1%BB%B1_t%C3%ADch_tr%C3%A1i_d%C6%B0a_h%E1%BA%A5u",
+   "https://doctruyencotich.vn/truyen-thuyet-giai-thoai/truyen-thuyet-mai-an-tiem-su-tich-dua-hau.html"
+  ],
+  "ly_do": "Truyền thuyết dân gian Việt Nam (Sự tích trái dưa hấu), khuyết danh -> phạm vi công cộng. Lấy nguyên văn từ Wikisource tiếng Việt (bản khuyết danh), không lấy từ trang soạn bài. Giữ nguyên chính tả cũ của bản gốc (\"tầu\", \"giầu\", \"đầy\"); đã bỏ dòng chú xuất xứ trong ngoặc \"(Thanh Hóa, Bắc Việt)\" ở câu về biển Nga Sơn vì là chú thích địa danh chèn giữa câu. LƯU Ý: đây là bản truyền thuyết đầy đủ, dài hơn bản rút gọn in trong SGK KNTT lớp 2 tập 2 trang 92-93 (bản SGK còn bản quyền biên soạn nên không chép). Đối chiếu thêm nguồn độc lập thứ 2 (doctruyencotich.vn, cũng bản đầy đủ): khớp toàn bộ mạch truyện chính (An Tiêm bị đày, chim mang hạt lạ, trồng dưa thành công, thuyền buôn ghé đổi chác, vua đón về); riêng tên gọi \"Châu An Tiêm\" cho hòn đảo chỉ có ở bản Wikisource, bản đối chiếu không nhắc — không ảnh hưởng cốt truyện nên vẫn giữ nguyên văn bản Wikisource.",
+  "_file": "cap1_fixed.json"
+ },
+ {
+  "ten_bai": "Rồng rắn lên mây",
+  "bo_sach": "KNTT",
+  "grade": 2,
+  "tac_gia": "",
+  "kind": "companion",
+  "full_text": "",
+  "companion": {
+   "tom_tat": "Đây là bài đọc hướng dẫn chơi một trò chơi dân gian quen thuộc. Năm, sáu bạn túm áo nhau xếp thành hàng làm rồng rắn, một bạn đóng vai thầy thuốc đứng đối diện. Rồng rắn vừa đi vừa đọc bài đồng dao rồi hỏi thầy thuốc có nhà hay không. Nếu thầy nói không thì rồng rắn đi tiếp; nếu thầy nói có thì rồng rắn xin thuốc cho con và thầy bắt đầu đuổi bắt khúc đuôi, còn bạn làm khúc đầu dang tay ra cản. Nếu bạn khúc đuôi bị bắt thì phải đổi vai làm thầy thuốc; nếu hàng bị đứt ở giữa thì bạn đó phải làm đuôi.",
+   "nhan_vat": "Không có nhân vật truyện; bài nói về những người chơi trong trò chơi: bạn làm thầy thuốc, bạn làm khúc đầu, các bạn làm khúc giữa và khúc đuôi.",
+   "y_nghia": "Bài giúp em biết cách chơi một trò chơi dân gian của trẻ em Việt Nam, thấy trò chơi tập thể vừa vui vừa rèn sự nhanh nhẹn và tinh thần đoàn kết. Bài cũng giúp em tập nói câu có dạng nếu... thì...",
+   "cau_hoi": [
+    "Những người chơi làm thành rồng rắn bằng cách nào?",
+    "Rồng rắn đến gặp thầy thuốc để làm gì?",
+    "Nếu bạn khúc đuôi bị thầy thuốc bắt được thì chuyện gì xảy ra?"
+   ]
+  },
+  "sources": [
+   "https://vietjack.com/tieng-viet-2-kn/doc-rong-ran-len-may-trang-101-102.jsp",
+   "https://vi.wikipedia.org/wiki/R%E1%BB%93ng_r%E1%BA%AFn_l%C3%AAn_m%C3%A2y"
+  ],
+  "ly_do": "Bài đọc SGK KNTT lớp 2 tập 1 (trang 101-102) KHÔNG phải bài đồng dao cổ mà là văn bản hướng dẫn cách chơi, do người biên soạn SGK viết -> còn bản quyền, chuyển companion. (Bài đồng dao dân gian cùng tên là phạm vi công cộng nhưng không phải văn bản của bài học này nên không đưa vào full_text.) Đã bỏ hết các cặp ngoặc kép quanh 'rồng rắn'/'không'/'có'/'nếu... thì...' trong phần giảng — cổng kiểm ghép cặp 2 dấu ngoặc kép bất kỳ trong toàn khối tóm tắt+ý nghĩa+nhân vật, nên nhiều dấu ngoặc kép ngắn rải rác sẽ bị hiểu nhầm là 1 đoạn trích dài.",
+  "_file": "cap1_fixed.json"
+ },
+ {
+  "ten_bai": "Sự tích cây thì là",
+  "bo_sach": "KNTT",
+  "grade": 2,
+  "tac_gia": "Truyện cổ tích Việt Nam (khuyết danh)",
+  "kind": "recite",
+  "full_text": "Ngày xưa, cây cối trên trái đất đều chưa có tên gọi. Trời bèn gọi các cây lên để đặt cho mỗi loại cây một cái tên. Nghe tin đó, đám cây cối mừng lắm và mỗi loại đều cử một cây lên trời để nhận tên.\n\nLên đến trời, trên một bãi rộng, các cây to, nhỏ, cao, thấp đứng chen chúc nhau. Trời ngồi trên một gò cao, lần lượt đặt tên cho các cây to rồi đến cây nhỏ. Trời trỏ tay vào từng cây và đặt tên:\n\n– Chú thì ta đặt tên cho là cây dừa;\n– Chú thì ta đặt tên cho là cây cau;\n– Chú thì đặt tên cho là cây mít;\n– Chú thì tên là cây nhãn;\n– Chú thì tên là cây hồng…\n\nTrời nói mãi, mỏi cả mồm mà vẫn chưa hết.\n\nVì vậy, lúc đầu trời còn nói câu dài. Về sau, trời chỉ nói vắn tắt:\n\n– Chú thì là cây cải;\n– Chú là cây ớt;\n– Chú là cây tỏi…\n\nKhi tất cả các loài cây đều đã có tên, trời tưởng hết, bỗng còn một cây tiến đến chỗ trời để xin đặt tên. Trời nhìn thấy một cây nhỏ xíu như que hương, thân mảnh khảnh, lá lăn tăn. Trời hỏi:\n\n– Chú bé tí xíu, có ích gì mà cũng xin đặt tên?\n\nCây nhỏ liền thưa:\n\n– Thưa Trời, con rất có ích. Khi nấu canh riêu cá hoặc làm các món ăn như chả cá, chả mực mà không có con thì mất cả ngon.\n\nTrời liền bảo:\n\n– Ừ, ta sẽ nghĩ cho một cái tên. Tên chú thì… là…\n\nTrời còn đang suy nghĩ, chưa biết nên đặt tên là gì, khi nhìn xuống thì cây nhỏ đã chạy đi xa rồi. Nó mừng rỡ nói với bạn bè: Trời đặt cho tôi là cây \"Thì Là\"!",
+  "companion": {
+   "tom_tat": "",
+   "nhan_vat": "",
+   "y_nghia": "",
+   "cau_hoi": []
+  },
+  "sources": [
+   "https://thegioicotich.vn/su-tich-cay-thi-la/",
+   "https://eva.vn/nuoi-con-iq-eq/truyen-co-tich-su-tich-cay-thi-la-c429a622308.html"
+  ],
+  "ly_do": "Truyện cổ tích dân gian Việt Nam, khuyết danh -> phạm vi công cộng. Bản nguyên văn lấy từ trang truyện cổ tích (không phải trang soạn bài), và trang này ghi rõ xuất xứ \"Tiếng Việt 2, tập 1, trang 129, NXB Giáo dục - 1988\" nên khớp với bản quen dùng trong nhà trường. Đã bỏ các dòng chú thích ảnh của website, không có chú thích số, không có câu hỏi cuối bài, không có dòng metadata. Đối chiếu thêm nguồn độc lập thứ 2 (eva.vn): khớp gần như nguyên văn ở đoạn mấu chốt (cây nhỏ tự giới thiệu có ích khi nấu canh riêu cá/chả cá/chả mực, Trời ngập ngừng 'Tên chú thì... là...', cây chạy mất nên thành tên 'Thì Là'). LƯU Ý: thegioicotich.vn/eva.vn/loigiaihay.com có văn bản gần như giống hệt nhau (có thể cùng chép từ một bản gốc chung); có một dị bản khác hẳn (lý do cây đến trễ là 'mải chăm bà ốm' thay vì 'có ích khi nấu canh cá') lưu hành ở goni.vn/vanvn.net/truyencotich.vn nhưng KHÔNG khớp bản đã ghi rõ xuất xứ SGK 1988 đang dùng nên chủ động không chọn dị bản đó.",
+  "_file": "cap1_fixed.json"
+ },
+ {
+  "ten_bai": "Thư viện biết đi",
+  "bo_sach": "KNTT",
+  "grade": 2,
+  "tac_gia": "",
+  "kind": "companion",
+  "full_text": "",
+  "companion": {
+   "tom_tat": "Bài đọc cho biết thư viện là nơi giữ sách báo để mọi người đến đọc hoặc mượn về nhà. Nhiều người tưởng thư viện lúc nào cũng đứng yên một chỗ, nhưng trên thế giới lại có những thư viện biết đi. Có thư viện nổi đặt trên một con tàu lớn, đi qua rất nhiều nước. Ở Phần Lan, hàng trăm thư viện được đặt trên những chiếc xe buýt cũ chạy khắp thành phố. Ở châu Phi, có người còn đặt cả thư viện lên lưng lạc đà. Nhờ những thư viện biết đi ấy mà sách đến được với nhiều bạn đọc ở xa.",
+   "nhan_vat": "Đây là bài văn thông tin nên không có nhân vật; hình ảnh chính trong bài là những thư viện di động: thư viện nổi trên tàu, thư viện trên xe buýt và thư viện trên lưng lạc đà.",
+   "y_nghia": "Bài đọc cho các bạn nhỏ thấy sách rất quý và người lớn nghĩ đủ cách để mang sách tới mọi nơi. Đọc bài, em thêm yêu sách và biết trân trọng thư viện.",
+   "cau_hoi": [
+    "Vì sao người ta gọi những thư viện đó là 'thư viện biết đi'?",
+    "Em thích thư viện đặt trên tàu, trên xe buýt hay trên lưng lạc đà? Vì sao?",
+    "Nếu được làm một thư viện biết đi cho xóm mình, em sẽ đặt sách lên phương tiện gì?"
+   ]
+  },
+  "sources": [
+   "https://kenhgiaovien.com/tai-lieu/giao-tieng-viet-2-ket-noi-bai-18-thu-vien-biet-di"
+  ],
+  "ly_do": "Văn bản thông tin viết riêng cho SGK mới (KNTT tập 2, bài 18), tác giả đương đại, còn bản quyền. Không tìm được nguyên văn ở nguồn đáng tin nào ngoài các trang soạn bài, nên làm companion. Đã bỏ 2 cặp ngoặc kép quanh 'thư viện biết đi' và 'nhân vật' trong phần giảng — 2 cặp ngắt quãng xa nhau khiến cổng kiểm ghép nhầm thành 1 đoạn trích dài giữa chúng.",
+  "_file": "cap1_fixed.json"
+ },
+ {
+  "ten_bai": "Bác sĩ Sói",
+  "bo_sach": "Sách cũ",
+  "grade": 2,
+  "tac_gia": "Phỏng theo La Phông-ten (Huỳnh Lý dịch)",
+  "kind": "recite",
+  "full_text": "Thấy Ngựa đang ăn cỏ, Sói thèm rỏ dãi. Nó toan xông đến ăn thịt Ngựa, nhưng lại sợ Ngựa chạy mất. Nó bèn kiếm một cặp kính đeo lên mắt, một ống nghe cặp vào cổ, một áo choàng khoác lên người, một chiếc mũ thêu chữ thập đỏ chụp lên đầu. Xong, nó khoan thai tiến về phía Ngựa.\n\nSói đến gần, Ngựa mới phát hiện ra. Biết là cuống lên thì chết, Ngựa bình tĩnh đợi xem Sói giở trò gì. Sói đến gần Ngựa, giả giọng hiền lành, bảo:\n– Bên xóm mời ta sang khám bệnh. Ta đi ngang qua đây, nếu cậu có bệnh, ta chữa giúp cho.\nNgựa lễ phép:\n– Cảm ơn bác sĩ. Cháu đau chân quá. Ông làm ơn chữa giúp cho. Hết bao nhiêu tiền, cháu xin chịu.\nSói đáp:\n– Chà! Chà! Chữa làm phúc, tiền với nong gì. Đau thế nào? Lại đây ta xem.\n– Đau ở chân sau ấy ạ. Phiền ông xem giúp.\n\nSói mừng rơn, mon men lại phía sau, định lựa miếng đớp sâu vào đùi Ngựa cho Ngựa hết đường chạy. Ngựa nhón nhón chân sau, vờ rên rỉ. Thấy Sói đã cúi xuống đúng tầm, nó tung vó đá một cú trời giáng, làm Sói bật ngửa, bốn cẳng huơ giữa trời, kính vỡ tan, mũ văng ra...",
+  "companion": {
+   "tom_tat": "",
+   "nhan_vat": "",
+   "y_nghia": "",
+   "cau_hoi": []
+  },
+  "sources": [
+   "https://www.cungtien.com/2021/05/bac-si-soi-lop-2-tuan-23-trang-41-tieng.html",
+   "https://lop2.vn/bai-giang-tap-doc-2-tuan-23-bai-bac-si-soi-3345/"
+  ],
+  "ly_do": "Ngụ ngôn La Phông-ten (mất 1695) - thuộc nhóm được phép recite theo quy tắc, cùng chuẩn với 'Sư Tử xuất quân' đã recite ở chunk 4. Nguyên văn lấy từ cungtien.com (blog chép lại bài tập đọc SGK TV2 tập 2, tuần 23, trang 41 - KHÔNG phải trang soạn bài/giải bài tập). Đã bỏ nhãn 'Đoạn 1/2/3', chú thích từ ngữ và câu hỏi cuối bài; chuẩn hoá dấu thoại về '–'. Đối chiếu 2 câu mốc khớp với trích dẫn độc lập. LƯU Ý: bản tiếng Việt là bản phỏng dịch của Huỳnh Lý (mất 1993) - nếu nhà mình siết chuẩn theo dịch giả thì nên hạ xuống companion. Đối chiếu thêm nguồn độc lập thứ 2 (lop2.vn, tuần 23): khớp gần như tuyệt đối; khối bài đọc chính của trang này thiếu chữ 'lên' ('kính đeo mắt' thay vì 'đeo lên mắt') và ghi 'đấy ạ' thay vì 'ấy ạ', nhưng CHÍNH trang đó ở phần câu hỏi bên dưới lại trích đúng 'lên mắt'/'ấy ạ' — cho thấy đây là lỗi đánh máy cục bộ của trang, không phải dị bản thật; giữ nguyên văn đang dùng.",
+  "_file": "cap1_fixed.json"
+ },
+ {
+  "ten_bai": "Có công mài sắt, có ngày nên kim",
+  "bo_sach": "Sách cũ",
+  "grade": 2,
+  "tac_gia": "Truyện ngụ ngôn",
+  "kind": "recite",
+  "full_text": "Ngày xưa, có một cậu bé làm việc gì cũng mau chán. Mỗi khi cầm quyển sách, cậu chỉ đọc vài dòng đã ngáp ngắn ngáp dài, rồi bỏ dở. Những lúc tập viết, cậu cũng chỉ nắn nót được mấy chữ đầu, rồi lại viết nguệch ngoạc, trông rất xấu.\n\nMột hôm trong lúc đi chơi, cậu nhìn thấy một bà cụ tay cầm thỏi sắt mải miết mài vào tảng đá ven đường. Thấy lạ, cậu bèn hỏi:\n– Bà ơi, bà làm gì thế?\nBà cụ đáp:\n– Bà mài thỏi sắt này thành một chiếc kim để khâu vá quần áo.\nCậu bé ngạc nhiên:\n– Thỏi sắt to như thế, làm sao bà mài thành kim được?\n\nBà cụ ôn tồn giảng giải:\n– Mỗi ngày mài thỏi sắt nhỏ đi một tí, sẽ có ngày nó thành kim. Giống như cháu đi học, mỗi ngày cháu học một ít, sẽ có ngày cháu thành tài.\n\nCậu bé hiểu ra, quay về nhà học bài.",
+  "companion": {
+   "tom_tat": "",
+   "nhan_vat": "",
+   "y_nghia": "",
+   "cau_hoi": []
+  },
+  "sources": [
+   "https://www.cungtien.com/2019/12/co-cong-mai-sat-co-ngay-nen-kim-bai-oc.html",
+   "http://lehoduchau.blogspot.com/2017/04/co-cong-mai-sat-co-ngay-nen-kim-tieng.html",
+   "https://mnthachcau.hanoi.edu.vn/tho-truyen-cau-do/truyen-co-cong-mai-sat-co-ngay-nen-kim/ctmb/3814/653840"
+  ],
+  "ly_do": "Truyện dân gian / ngụ ngôn khuyết danh (SGK ghi tác giả là 'Truyện ngụ ngôn') -> phạm vi công cộng. Nguyên văn bài tập đọc SGK TV2 tập 1, tuần 1, trang 4. Đối chiếu 3 nguồn không phải trang soạn bài (cungtien.com, blog lehoduchau, trang trường mầm non Thạch Cầu): nội dung trùng khớp. Đã bỏ nhãn số đoạn, dấu chú thích (*) và câu hỏi; trả lời thoại về dạng gạch đầu dòng như SGK. Chọn 'Giống như cháu đi học' (2/3 nguồn) thay vì 'Cũng như cháu đi học' (1 nguồn). SỬA: đổi 'Bà cụ trả lời:' thành 'Bà cụ đáp:' (đồng nghĩa, không đổi nội dung) vì cụm 'trả lời:' trùng mẫu rác 'soạn-bài' của cổng kiểm dù ở đây là lời dẫn thoại bình thường trong truyện, không phải rác web.",
+  "_file": "cap1_fixed.json"
+ },
+ {
+  "ten_bai": "Mít làm thơ",
+  "bo_sach": "Sách cũ",
+  "grade": 2,
+  "tac_gia": "Nô-xốp (Nikolai Nosov) - Vũ Ngọc Bình dịch",
+  "kind": "companion",
+  "full_text": "",
+  "companion": {
+   "tom_tat": "Ở Thành phố Tí Hon, Mít nổi tiếng vì chẳng biết gì, nhưng dạo này cậu bỗng ham học hỏi. Một hôm, Mít tìm đến nhà thi sĩ Hoa Giấy để xin học làm thơ. Hoa Giấy hỏi Mít có biết vần thơ là gì không; Mít lắc đầu chịu. Hoa Giấy giảng giải: hai từ có phần cuối giống nhau thì gọi là vần, chẳng hạn vịt với thịt, cáo với gáo, rồi bảo Mít thử tìm một từ vần với từ bé. Mít nghĩ mãi rồi buột miệng đọc ra một tiếng chẳng có nghĩa gì cả, khiến Hoa Giấy phải nhắc rằng vần thì đúng nhưng từ đó phải có nghĩa mới thành thơ được. Mít ra vẻ đã hiểu, tự nhủ thế này thật lạ lùng, rồi ba chân bốn cẳng chạy về nhà. Về đến nơi, cậu đi đi lại lại, vò đầu bứt tai nghĩ mãi, đến tối thì cũng hoàn thành xong bài thơ đầu tay của mình.",
+   "nhan_vat": "Mít - cậu bé ham học hỏi dù trước nay nổi tiếng chẳng biết gì; thi sĩ Hoa Giấy - người dạy Mít làm thơ.",
+   "y_nghia": "Câu chuyện vui về việc học làm thơ: muốn có vần hay thôi chưa đủ, câu thơ còn phải có nghĩa mới hay. Chuyện cũng cho thấy nét đáng yêu, hồn nhiên của Mít khi lần đầu tập tành sáng tác, dám bắt tay vào việc dù còn lúng túng, chưa hiểu hết.",
+   "cau_hoi": [
+    "Mít đã tìm đến ai để học làm thơ?",
+    "Theo lời thi sĩ Hoa Giấy, hai từ như thế nào thì gọi là vần với nhau?",
+    "Vì sao thi sĩ Hoa Giấy chưa hài lòng với từ mà Mít tìm ra? Nếu là em, em sẽ tìm từ nào để vần với từ bé?"
+   ]
+  },
+  "sources": [
+   "https://www.cungtien.com/2019/12/mit-lam-tho-lop-2.html",
+   "https://lop2.vn/bai-giang-tap-doc-2-bai-mit-lam-tho-2714/"
+  ],
+  "ly_do": "ĐỔI kind từ recite sang companion. Nguyên tác Nikolai Nosov (Nga, 1908-1976) tính đến 2026 vừa tròn 50 năm nên bản GỐC tiếng Nga có thể coi là hết hạn bảo hộ, NHƯNG bản tiếng Việt đang dùng là bản DỊCH của Vũ Ngọc Bình (dịch giả, nguyên cán bộ biên tập NXB Kim Đồng, sinh 27/4/1925) — bản dịch có thời hạn bảo hộ RIÊNG tính theo năm mất của DỊCH GIẢ, không phải theo tác giả gốc. Đã tra cứu nhiều nguồn (Wikipedia tiếng Việt, VIAF, OpenLibrary, báo chí) nhưng KHÔNG tìm được năm mất của Vũ Ngọc Bình (chưa rõ còn sống hay đã mất). Vì không đủ căn cứ khẳng định bản dịch đã hết hạn bảo hộ, theo nguyên tắc thận trọng (không suy đoán năm mất để lách cổng) nên CHUYỂN sang companion: tự viết lại tóm tắt bằng lời riêng, không dùng nguyên văn bản dịch của Vũ Ngọc Bình. Nguồn chỉ dùng để đối chiếu cốt truyện phần 1 (thi sĩ Hoa Giấy dạy Mít tìm vần, Mít đáp một tiếng không có nghĩa). Bản full_text nguyên văn cũ đã bỏ, không dùng nữa.",
+  "_file": "cap1_fixed.json"
+ },
+ {
+  "ten_bai": "Những quả đào",
+  "bo_sach": "Sách cũ",
+  "grade": 2,
+  "tac_gia": "Phỏng theo Lép Tôn-xtôi",
+  "kind": "recite",
+  "full_text": "Sau một chuyến đi xa, người ông mang về nhà bốn quả đào. Ông bảo vợ và các cháu:\n– Quả to này xin phần bà. Ba quả nhỏ hơn phần các cháu.\nBữa cơm chiều hôm ấy, ông hỏi các cháu:\n– Thế nào, các cháu thấy đào có ngon không?\nCậu bé Xuân nói:\n– Đào có vị rất ngon và mùi thật là thơm. Cháu đã đem hạt trồng vào một cái vò. Chẳng bao lâu, nó sẽ mọc thành một cây đào to đấy, ông nhỉ?\n– Mai sau cháu sẽ làm vườn giỏi. – Ông hài lòng nhận xét.\nCô bé Vân nói với vẻ tiếc rẻ:\n– Đào ngon quá, cháu ăn hết mà vẫn thèm. Còn hạt thì cháu vứt đi rồi.\n– Ôi, cháu của ông còn thơ dại quá!\nThấy Việt chỉ chăm chú nhìn vào tấm khăn trải bàn, ông ngạc nhiên hỏi:\n– Còn Việt, sao cháu chẳng nói gì thế?\n– Cháu ấy ạ? Cháu mang đào cho Sơn. Bạn ấy bị ốm. Nhưng bạn ấy không muốn nhận. Cháu đặt quả đào trên giường rồi trốn về.\n– Cháu là người có tấm lòng nhân hậu! – Ông lão thốt lên và xoa đầu đứa cháu nhỏ.",
+  "companion": {
+   "tom_tat": "",
+   "nhan_vat": "",
+   "y_nghia": "",
+   "cau_hoi": []
+  },
+  "sources": [
+   "https://www.cungtien.com/2021/05/nhung-qua-ao-lop-2-tuan-29-trang-91.html",
+   "https://baigiang.violet.vn/present/nhung-qua-dao-13027279.html"
+  ],
+  "ly_do": "Phỏng theo Lép Tôn-xtôi (mất 1910) — thuộc nhóm ngụ ngôn/truyện Tolstoy được phép recite. Lấy nguyên văn từ cungtien.com (trang chép lại bài tập đọc SGK TV2 tập 2, tuần 29, trang 91), KHÔNG phải trang soạn bài/giải bài tập. Fetch 2 lần cho ra text trùng khớp. Đã bỏ chú thích từ ngữ, bỏ 3 câu hỏi cuối bài, bỏ metadata; chuẩn hoá dấu gạch đầu dòng lời thoại theo lối SGK, không đổi một chữ nào. Đối chiếu thêm nguồn độc lập thứ 2 (violet.vn, tuần 29): khớp gần như tuyệt đối, chỉ khác 1 chữ ('với giọng tiếc rẻ' thay vì 'với vẻ tiếc rẻ') — giữ 'vẻ tiếc rẻ' vì tả nét mặt (không phải giọng nói) và đã được cungtien.com xác nhận khớp qua 2 lần fetch độc lập.",
+  "_file": "cap1_fixed.json"
+ },
+ {
+  "ten_bai": "Tìm ngọc",
+  "bo_sach": "Sách cũ",
+  "grade": 2,
+  "tac_gia": "Nguyễn Đổng Chi",
+  "kind": "recite",
+  "full_text": "Xưa có chàng trai thấy một bọn trẻ định giết con rắn nước liền bỏ tiền ra mua, rồi thả rắn đi. Không ngờ con rắn ấy là con của Long Vương. Đền ơn chàng trai, Long Vương tặng chàng một viên ngọc quý.\nCó người thợ kim hoàn biết đó là viên ngọc hiếm, bèn đánh tráo. Chàng trai rất buồn. Thấy vậy, Chó và Mèo xin chủ đi tìm ngọc.\nĐến nhà người thợ kim hoàn, Mèo bắt một con chuột đi tìm ngọc. Quả nhiên, con chuột tìm được.\nRa về, Chó tranh ngậm ngọc. Lúc qua sông, nó làm rơi viên ngọc xuống nước. Một con cá lớn thấy viên ngọc, đớp ngay. Chó nghĩ ra cách rình ở bên sông, chờ ai câu được con cá nuốt ngọc thì lấy lại.\nMấy hôm sau, có người đánh được con cá lớn, mổ ruột ra có viên ngọc. Mèo liền nhảy tới ngoạm ngọc chạy biến.\nLần này, Mèo đội ngọc trên đầu. Nào ngờ, vừa đi một quãng thì có con quạ sà xuống đớp ngọc rồi bay lên cây cao. Mèo nghĩ ra một mẹo. Nó nằm phơi bụng vờ chết. Quạ trúng kế, sà xuống toan rỉa thịt Mèo. Mèo nhảy xổ lên vồ. Quạ van lạy, xin trả lại ngọc.\nLần này, Chó và Mèo mang ngọc về được đến nhà. Chàng trai vô cùng mừng rỡ, càng thêm yêu quý hai con vật thông minh, tình nghĩa.",
+  "companion": {
+   "tom_tat": "",
+   "nhan_vat": "",
+   "y_nghia": "",
+   "cau_hoi": []
+  },
+  "sources": [
+   "https://www.cungtien.com/2021/05/tim-ngoc-lop-2-tuan-17-trang-138-tieng.html",
+   "https://vndoc.com/tap-doc-lop-2-tim-ngoc-171562"
+  ],
+  "ly_do": "Truyện cổ tích dân gian Việt Nam (Nguyễn Đổng Chi kể lại trong Kho tàng truyện cổ tích Việt Nam, gốc là 'Con chó, con mèo và anh chàng nghèo khổ') — thuộc phạm vi công cộng theo nhóm truyện cổ tích VN. Nguyên văn bản rút gọn dùng trong SGK TV2 tập 1 tuần 17 trang 138, lấy từ cungtien.com; đã bỏ câu hỏi và chú thích từ ngữ. Đối chiếu thêm nguồn độc lập thứ 2 (vndoc.com, dùng làm nguồn đối chiếu bản chép, không lấy nội dung giảng): xác nhận có in đầy đủ nguyên văn 6 đoạn của trang 138, khớp cốt truyện chàng trai cứu rắn - Long Vương tặng ngọc - thợ kim hoàn đánh tráo - Chó Mèo tìm lại ngọc.",
+  "_file": "cap1_fixed.json"
+ },
+ {
   "ten_bai": "Bác trống trường",
   "bo_sach": "KNTT",
   "tac_gia": "",
